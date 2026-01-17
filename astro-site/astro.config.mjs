@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://yjmrobert.com',
-	base: '/tirules',
+	base: process.env.GITHUB_ACTIONS ? '/tirules' : undefined,
 	integrations: [
 		starlight({
 			title: 'Twilight Imperium 4 Rules',
