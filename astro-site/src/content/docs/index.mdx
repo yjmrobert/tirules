@@ -1,0 +1,36 @@
+---
+title: Twilight Imperium 4 Rules
+description: The unofficial comprehensive rules reference.
+template: splash
+hero:
+  tagline: Pax Magnifica Bellum Gloriosum
+  image:
+    file: ../../assets/hero.png
+  actions:
+    - text: Search the Rules
+      link: /rules/r_abilities/
+      icon: magnifier
+      variant: primary
+    - text: View Factions
+      link: /factions/f_arborec/
+      icon: rocket
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<div class="hero-bg"></div>
+
+<CardGrid stagger>
+	<Card title="Core Rules" icon="open-book">
+		Master the laws of the galaxy. From movement to combat, every mechanic is detailed here.
+	</Card>
+	<Card title="Factions" icon="star">
+		Deep dives into every faction. Strategy notes, specific rulings, and ability clarifications.
+	</Card>
+	<Card title="Components" icon="puzzle">
+		Reference for Action Cards, Technologies, Objectives, and more.
+	</Card>
+	<Card title="Living Reference" icon="document">
+		Up-to-date clarifications and community-driven knowledge base.
+	</Card>
+</CardGrid>
