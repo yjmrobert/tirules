@@ -1,62 +1,117 @@
-:root {
-  /* Deep Space Law Palette */
-  --sl-color-accent-low: #0a1020;
-  /* Very dark blue */
-  --sl-color-accent: #00bcd4;
-  /* Cyan hologram */
-  --sl-color-accent-high: #b2ebf2;
-  /* Pale cyan */
-  --sl-color-white: #e0e0e0;
-  /* Off-white parchment tone */
-  --sl-color-gray-1: #c5cae9;
-  /* Muted blue-grey */
-  --sl-color-gray-2: #9fa8da;
-  --sl-color-gray-3: #5c6bc0;
-  --sl-color-gray-4: #3949ab;
-  --sl-color-gray-5: #1a237e;
-  /* Midnight Blue */
-  --sl-color-gray-6: #0d1225;
-  /* Almost black blue */
-  --sl-color-black: #050510;
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600&display=swap');
 
-  /* Legal Gold Accents */
-  --legal-gold: #ffc107;
-  --legal-gold-dim: #b28704;
+:root {
+  /* Sci-Fi Legal Palette */
+  --sl-color-accent-low: #1e3a8a;
+  --sl-color-accent: #38bdf8;
+  --sl-color-accent-high: #e0f2fe;
+
+  --sl-color-white: #f1f5f9;
+  --sl-color-gray-1: #cbd5e1;
+  --sl-color-gray-2: #94a3b8;
+  --sl-color-gray-3: #64748b;
+  --sl-color-gray-4: #334155;
+  --sl-color-gray-5: #1e293b;
+  --sl-color-gray-6: #0f172a;
+  --sl-color-black: #020617;
+
+  --legal-gold: #d97706;
+  --legal-gold-light: #fbbf24;
+}
+
+/* Base Reset */
+body {
+  font-family: 'Public Sans', system-ui, sans-serif;
+  letter-spacing: -0.01em;
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 [data-theme='dark'] body {
-  background: radial-gradient(circle at center, #1a237e 0%, #050510 100%);
+  background-color: var(--sl-color-gray-6);
+  background-image:
+    radial-gradient(at 0% 0%, rgba(30, 58, 138, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(217, 119, 6, 0.1) 0px, transparent 50%);
   background-attachment: fixed;
-  font-family: 'Roboto Serif', serif;
-  /* Suggesting a serif feel if available, usually defaults to sans */
 }
 
-/* Custom adjustments for Starlight */
-.hero {
-  border-bottom: 2px solid var(--legal-gold);
+/* --- TYPOGRAPHY SYSTEM --- */
+
+/* 1. Authority: Headings (Serif) */
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3,
+.sl-markdown-content h4,
+.hero h1,
+.card-grid .card .title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--sl-color-white);
 }
 
-.hero h1 {
-  font-family: serif;
+.sl-markdown-content h2 {
+  color: var(--legal-gold-light);
+  border-bottom: 1px solid var(--sl-color-gray-5);
+  padding-bottom: 0.3em;
+  margin-top: 2em;
+}
+
+/* 2. Readability: Body Text (Sans-Serif) */
+.sl-markdown-content p,
+.sl-markdown-content li {
+  font-family: 'Public Sans', sans-serif;
+  color: var(--sl-color-gray-1);
+}
+
+/* 3. Precision: Keywords & Indexing (Mono) */
+strong,
+b,
+code {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  color: var(--sl-color-accent-high);
+}
+
+/* Numbered Lists - The "Clauses" */
+.sl-markdown-content ol {
+  list-style-type: decimal;
+  padding-left: 1.8em;
+  margin-left: 0;
+}
+
+.sl-markdown-content ol>li {
+  margin-bottom: 0.8em;
+  padding-left: 0.5em;
+}
+
+.sl-markdown-content ol>li::marker {
+  font-family: 'JetBrains Mono', monospace;
   color: var(--legal-gold);
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  text-shadow: 0 0 10px rgba(255, 193, 7, 0.5);
+  font-weight: bold;
+}
+
+/* Sub-clauses (Nested Lists) */
+.sl-markdown-content ol ol {
+  list-style-type: lower-alpha;
+  /* 1. a. b. */
+  margin-top: 0.5rem;
+}
+
+.sl-markdown-content ol ol>li::marker {
+  color: var(--sl-color-gray-3);
+  font-weight: normal;
+}
+
+/* UI Elements */
+.hero {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 6rem 0;
 }
 
 .card-grid .card {
-  background-color: rgba(13, 18, 37, 0.85);
-  border: 1px solid var(--sl-color-gray-4);
-  backdrop-filter: blur(5px);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-}
-
-.card-grid .card .title {
-  color: var(--legal-gold);
-  font-family: serif;
-}
-
-/* Add a gold border to the sidebar */
-.sidebar-pane {
-  border-right: 1px solid var(--sl-color-gray-5);
+  background: rgba(30, 41, 59, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.08);
 }
