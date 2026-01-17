@@ -1,28 +1,62 @@
 :root {
-  --sl-color-accent-low: #1e1e3f;
-  --sl-color-accent: #6d6dff;
-  --sl-color-accent-high: #b3b3ff;
-  --sl-color-white: #ffffff;
-  --sl-color-gray-1: #e0e0e0;
-  --sl-color-gray-2: #c2c2c2;
-  --sl-color-gray-3: #858585;
-  --sl-color-gray-4: #5c5c5c;
-  --sl-color-gray-5: #333333;
-  --sl-color-gray-6: #1a1a1a;
-  --sl-color-black: #000000;
+  /* Deep Space Law Palette */
+  --sl-color-accent-low: #0a1020;
+  /* Very dark blue */
+  --sl-color-accent: #00bcd4;
+  /* Cyan hologram */
+  --sl-color-accent-high: #b2ebf2;
+  /* Pale cyan */
+  --sl-color-white: #e0e0e0;
+  /* Off-white parchment tone */
+  --sl-color-gray-1: #c5cae9;
+  /* Muted blue-grey */
+  --sl-color-gray-2: #9fa8da;
+  --sl-color-gray-3: #5c6bc0;
+  --sl-color-gray-4: #3949ab;
+  --sl-color-gray-5: #1a237e;
+  /* Midnight Blue */
+  --sl-color-gray-6: #0d1225;
+  /* Almost black blue */
+  --sl-color-black: #050510;
+
+  /* Legal Gold Accents */
+  --legal-gold: #ffc107;
+  --legal-gold-dim: #b28704;
 }
 
 [data-theme='dark'] body {
-  background: radial-gradient(circle at top right, #1a1a2e 0%, #000000 100%);
+  background: radial-gradient(circle at center, #1a237e 0%, #050510 100%);
   background-attachment: fixed;
+  font-family: 'Roboto Serif', serif;
+  /* Suggesting a serif feel if available, usually defaults to sans */
 }
 
+/* Custom adjustments for Starlight */
 .hero {
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%);
+  border-bottom: 2px solid var(--legal-gold);
+}
+
+.hero h1 {
+  font-family: serif;
+  color: var(--legal-gold);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px rgba(255, 193, 7, 0.5);
 }
 
 .card-grid .card {
-  background-color: rgba(30, 30, 63, 0.6);
-  border: 1px solid #3e3e70;
-  backdrop-filter: blur(10px);
+  background-color: rgba(13, 18, 37, 0.85);
+  border: 1px solid var(--sl-color-gray-4);
+  backdrop-filter: blur(5px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.card-grid .card .title {
+  color: var(--legal-gold);
+  font-family: serif;
+}
+
+/* Add a gold border to the sidebar */
+.sidebar-pane {
+  border-right: 1px solid var(--sl-color-gray-5);
 }
