@@ -27,6 +27,8 @@ body {
   letter-spacing: -0.01em;
   font-size: 16px;
   line-height: 1.6;
+  overflow-x: hidden;
+  /* Prevent horizontal scroll from 100vw elements */
 }
 
 [data-theme='dark'] body {
@@ -120,11 +122,10 @@ code {
 .galactic-hero {
   position: relative;
   width: 100vw;
-  min-height: 100vh;
+  height: 100vh;
   margin-left: calc(-50vw + 50%);
   /* Break out of container */
-  margin-top: -64px;
-  /* Offset Starlight header if transparent, or just overlap */
+  /* margin-top: -64px; REMOVED: Hiding header instead */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -249,8 +250,75 @@ code {
   }
 }
 
-/* Hide Default Starlight Title on Splash */
-[data-template="splash"] .sl-markdown-content>h1:first-child,
-[data-template="splash"] main>h1:first-of-type {
+/* RESET STARLIGHT LAYOUT FOR SPLASH (LANDING PAGE) */
+
+/* 1. Absolute, Transparent Header */
+/* User explicitly requested absolute positioning */
+body:has(.galactic-hero) header {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: transparent !important;
+  border-bottom: none !important;
+  backdrop-filter: none !important;
+}
+
+/* 2. Hide Footer and Page Title */
+body:has(.galactic-hero) footer,
+body:has(.galactic-hero) h1#_top {
   display: none !important;
+}
+
+/* 3. Reset Container Padding & Positioning */
+/* Ensure the main content frame starts at the very top */
+body:has(.galactic-hero) .main-frame {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Reset inner containers */
+body:has(.galactic-hero) .sl-container,
+body:has(.galactic-hero) .sl-markdown-content,
+body:has(.galactic-hero) main,
+body:has(.galactic-hero) .content-panel {
+  max-width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* 4. Galactic Hero Adjustment */
+.galactic-hero {
+  /* No negative margins needed with absolute header */
+  margin-top: 0;
+  padding-top: 0;
+  /* Force exact viewport dimensions */
+  width: 100vw;
+  height: 100vh;
+  min-height: 100vh;
+
+  /* Flex centering */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  /* Background handling */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  /* Layout breakout */
+  margin-left: calc(-50vw + 50%);
+  position: relative;
+  overflow: hidden;
+  box-shadow: inset 0 0 150px rgba(15, 23, 42, 0.9);
+}
+
+/* 5. Prevent Horizontal and Vertical Scroll */
+body:has(.galactic-hero) {
+  overflow-x: hidden;
+  overflow-y: hidden !important;
+  /* Force no scroll for the 100vh hero */
 }
