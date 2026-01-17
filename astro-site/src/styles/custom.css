@@ -115,3 +115,136 @@ code {
   background: rgba(30, 41, 59, 0.4);
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
+
+/* --- GALACTIC PORTAL HERO --- */
+.galactic-hero {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  margin-left: calc(-50vw + 50%);
+  /* Break out of container */
+  margin-top: -64px;
+  /* Offset Starlight header if transparent, or just overlap */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+  overflow: hidden;
+  box-shadow: inset 0 0 150px rgba(15, 23, 42, 0.9);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 10;
+  padding: 2rem;
+  max-width: 800px;
+  animation: fadeIn 1.5s ease-out;
+}
+
+.hero-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--legal-gold-light);
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.8), 0 0 30px rgba(217, 119, 6, 0.3);
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 1.5rem;
+  color: var(--sl-color-gray-1);
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.action-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9rem;
+  border: 1px solid transparent;
+}
+
+.action-btn svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.action-btn.primary {
+  background: var(--legal-gold);
+  color: var(--sl-color-gray-6);
+  border-color: var(--legal-gold);
+  box-shadow: 0 0 20px rgba(217, 119, 6, 0.4);
+}
+
+.action-btn.primary:hover {
+  background: var(--legal-gold-light);
+  transform: translateY(-2px);
+  box-shadow: 0 0 30px rgba(217, 119, 6, 0.6);
+}
+
+.action-btn.secondary {
+  background: rgba(15, 23, 42, 0.6);
+  color: var(--sl-color-white);
+  border-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+.action-btn.secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: var(--sl-color-white);
+  transform: translateY(-2px);
+}
+
+.content-container {
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 3rem;
+  }
+
+  .galactic-hero {
+    min-height: 85vh;
+  }
+}
