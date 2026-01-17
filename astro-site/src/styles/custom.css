@@ -248,3 +248,9 @@ code {
     min-height: 85vh;
   }
 }
+
+/* Hide Default Starlight Title on Splash */
+[data-template="splash"] .sl-markdown-content>h1:first-child,
+[data-template="splash"] main>h1:first-of-type {
+  display: none !important;
+}
