@@ -2,8 +2,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600&display=swap');
 
+/* LIGHT MODE (Default) */
 :root {
-  /* Sci-Fi Legal Palette */
+  /* Sci-Fi Legal Palette - Light Mode (Clean Legal Document) */
+  --sl-color-accent-low: #e0f2fe;
+  /* Light Blue Background */
+  --sl-color-accent: #0284c7;
+  /* Primary Blue */
+  --sl-color-accent-high: #0c4a6e;
+  /* Dark Blue Text */
+
+  --sl-color-white: #0f172a;
+  /* Dark Text for Light Mode */
+  --sl-color-gray-1: #334155;
+  /* Main Body Text */
+  --sl-color-gray-2: #475569;
+  /* Secondary Text */
+  --sl-color-gray-3: #94a3b8;
+  /* Borders/Lines */
+  --sl-color-gray-4: #cbd5e1;
+  --sl-color-gray-5: #e2e8f0;
+  --sl-color-gray-6: #f8fafc;
+  /* Page Background */
+  --sl-color-black: #ffffff;
+  /* Card Backgrounds */
+
+  --legal-gold: #d97706;
+  --legal-gold-light: #fbbf24;
+}
+
+/* DARK MODE OVERRIDES */
+[data-theme='dark'] {
   --sl-color-accent-low: #1e3a8a;
   --sl-color-accent: #38bdf8;
   --sl-color-accent-high: #e0f2fe;
@@ -16,9 +45,6 @@
   --sl-color-gray-5: #1e293b;
   --sl-color-gray-6: #0f172a;
   --sl-color-black: #020617;
-
-  --legal-gold: #d97706;
-  --legal-gold-light: #fbbf24;
 }
 
 /* Base Reset */
@@ -28,7 +54,14 @@ body {
   font-size: 16px;
   line-height: 1.6;
   overflow-x: hidden;
-  /* Prevent horizontal scroll from 100vw elements */
+}
+
+/* Theme-specific Body Backgrounds */
+[data-theme='light'] body {
+  background-color: #f8fafc;
+  background-image: none;
+  /* Clean look for light mode */
+  /* Optional: faint parchment texture could go here */
 }
 
 [data-theme='dark'] body {
