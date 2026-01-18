@@ -153,22 +153,29 @@ code {
 
 /* --- GALACTIC PORTAL HERO --- */
 .galactic-hero {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100vw;
   height: 100vh;
-  margin-left: calc(-50vw + 50%);
-  /* Break out of container */
-  /* margin-top: -64px; REMOVED: Hiding header instead */
+  /* Default to dark mode var */
+  background-image: var(--hero-bg-dark);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
   text-align: center;
-  overflow: hidden;
+  z-index: 0;
   box-shadow: inset 0 0 150px rgba(15, 23, 42, 0.9);
+}
+
+[data-theme='light'] .galactic-hero {
+  background-image: var(--hero-bg-light);
+  box-shadow: inset 0 0 150px rgba(248, 250, 252, 0.8);
+  /* Light mode vignette */
 }
 
 .hero-content {
@@ -248,10 +255,32 @@ code {
   backdrop-filter: blur(10px);
 }
 
+[data-theme='light'] .action-btn.secondary {
+  background: rgba(255, 255, 255, 0.3);
+  /* Slightly more opaque for legibility */
+  color: black;
+  /* Explicit Black as requested */
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(16px) saturate(180%);
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.05),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.4);
+}
+
 .action-btn.secondary:hover {
   background: rgba(255, 255, 255, 0.1);
   border-color: var(--sl-color-white);
   transform: translateY(-2px);
+}
+
+[data-theme='light'] .action-btn.secondary:hover {
+  background: rgba(0, 0, 0, 0.8);
+  /* Dark slate/black hover */
+  color: #fff;
+  border-color: transparent;
+  box-shadow:
+    0 10px 15px -3px rgba(0, 0, 0, 0.15),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.1);
 }
 
 .content-container {
@@ -322,32 +351,8 @@ body:has(.galactic-hero) .content-panel {
 }
 
 /* 4. Galactic Hero Adjustment */
-.galactic-hero {
-  /* No negative margins needed with absolute header */
-  margin-top: 0;
-  padding-top: 0;
-  /* Force exact viewport dimensions */
-  width: 100vw;
-  height: 100vh;
-  min-height: 100vh;
-
-  /* Flex centering */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  /* Background handling */
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-
-  /* Layout breakout */
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  overflow: hidden;
-  box-shadow: inset 0 0 150px rgba(15, 23, 42, 0.9);
-}
+/* 4. Galactic Hero Adjustment */
+/* (Handled in component section above) */
 
 /* 5. Prevent Horizontal and Vertical Scroll */
 body:has(.galactic-hero) {

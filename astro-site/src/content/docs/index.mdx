@@ -5,8 +5,12 @@ template: splash
 ---
 
 import heroImage from '../../assets/hero.png';
+import heroLight from '../../assets/hero_light.png';
 
-<div class="galactic-hero" style={`background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.8)), url(${heroImage.src});`}>
+<div class="galactic-hero" style={{
+  '--hero-bg-dark': `linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.8)), url(${heroImage.src})`,
+  '--hero-bg-light': `linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.8)), url(${heroLight.src})`
+}}>
   <div class="hero-content">
     <h1 class="hero-title">The Galactic Codex</h1>
     <p class="hero-subtitle">The Living Law of Twilight Imperium IV</p>
