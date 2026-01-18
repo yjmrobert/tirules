@@ -43,7 +43,7 @@ Cards and faction sheets each have abilities that players can resolve to trigger
 18. Each ability can be resolved once for each occurrence of that ability’s timing event. For example, if an ability is resolved “at the start of combat”, it can be resolved at the start of each combat.
 19. If there are multiple abilities that players wish to resolve at the same time during the <b>action phase</b>, each player takes a turn resolving an ability in initiative order, beginning with the active player. This process continues until each player has resolved each ability that they wish to resolve during that window.
 20. If there are multiple abilities that players wish to resolve at the same time during the <b>strategy</b> or <b>agenda phases</b>, players take turns resolving abilities starting with the speaker and proceeding clockwise. This process continues until each player has resolved each ability that they wish to resolve during that window.
-21. Component–specific Rules
+### Component–specific Rules
 22. The opening paragraph of each ability found on an action card describes when a player can resolve that card’s ability.
 23. The opening paragraph of most abilities found on promissory notes describes when a player can resolve that card’s ability.
  
