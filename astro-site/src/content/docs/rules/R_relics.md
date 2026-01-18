@@ -26,17 +26,17 @@ Relics are powerful artifacts with unique abilities.
  
 1. If the relic deck is empty, a player may still purge three relic fragments as an action.
 2. If an eliminated player had any relic fragments, they are discarded to their respective exploration discard piles. If an eliminated player had any relics, they are purged.
-3. For notes about specific relics, see the [relic notes page](/components/c_relics).
+3. For notes about specific relics, see the [relic notes page](../components/c_relics).
  
  
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Component Action](/rules/r_component_action)
- - [Exhausted](/rules/r_exhausted)
- - [Exploration](/rules/r_exploration)
- - [Purge](/rules/r_purge)
- - [Readied](/rules/r_readied)
+ - [Abilities](r_abilities)
+ - [Component Action](r_component_action)
+ - [Exhausted](r_exhausted)
+ - [Exploration](r_exploration)
+ - [Purge](r_purge)
+ - [Readied](r_readied)
  
  

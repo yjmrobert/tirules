@@ -23,12 +23,12 @@ A modifier is a number that is applied by an ability to increase or decrease the
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Anti–Fighter Barrage](/rules/r_anti_fighter_barrage)
- - [Bombardment](/rules/r_bombardment)
- - [Combat](/rules/r_combat)
- - [Cost](/rules/r_cost)
- - [Move](/rules/r_move)
- - [Space Cannon](/rules/r_space_cannon)
+ - [Abilities](r_abilities)
+ - [Anti–Fighter Barrage](r_anti_fighter_barrage)
+ - [Bombardment](r_bombardment)
+ - [Combat](r_combat)
+ - [Cost](r_cost)
+ - [Move](r_move)
+ - [Space Cannon](r_space_cannon)
  
  

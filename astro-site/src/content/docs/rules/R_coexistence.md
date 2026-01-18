@@ -36,7 +36,7 @@ There currently does not exist a Living Rules Reference section regarding coexis
 ## Related Topics
 
  
- - [Control](/rules/r_control)
- - [Planets](/rules/r_planets)
+ - [Control](r_control)
+ - [Planets](r_planets)
  
  

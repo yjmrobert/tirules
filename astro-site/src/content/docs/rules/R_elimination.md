@@ -53,8 +53,8 @@ A player who is eliminated is no longer part of the game.
 ## Related Topics
 
  
- - [Control](/rules/r_control)
- - [Ground Forces](/rules/r_ground_forces)
- - [Production](/rules/r_production)
+ - [Control](r_control)
+ - [Ground Forces](r_ground_forces)
+ - [Production](r_production)
  
  

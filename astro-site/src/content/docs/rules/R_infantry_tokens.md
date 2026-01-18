@@ -31,8 +31,8 @@ An infantry token functions as a plastic infantry unit for all game purposes.
 ## Related Topics
 
  
- - [Component Limitations](/rules/r_component_limitations)
- - [Fighter Tokens](/rules/r_fighter_tokens)
- - [Producing Units](/rules/r_producing_units)
+ - [Component Limitations](r_component_limitations)
+ - [Fighter Tokens](r_fighter_tokens)
+ - [Producing Units](r_producing_units)
  
  

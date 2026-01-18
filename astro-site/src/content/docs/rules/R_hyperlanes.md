@@ -34,11 +34,11 @@ Hyperlanes are tiles that are used in some game board setups to create adjacency
 ## Related Topics
 
  
- - [Adjacency](/rules/r_adjacency)
- - [Game Board](/rules/r_game_board)
- - [Movement](/rules/r_movement)
- - [Neighbors](/rules/r_neighbors)
- - [Space Cannon](/rules/r_space_cannon)
- - [System Tiles](/rules/r_system_tiles)
+ - [Adjacency](r_adjacency)
+ - [Game Board](r_game_board)
+ - [Movement](r_movement)
+ - [Neighbors](r_neighbors)
+ - [Space Cannon](r_space_cannon)
+ - [System Tiles](r_system_tiles)
  
  

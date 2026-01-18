@@ -22,9 +22,9 @@ Purge is a cost that permanently removes a component from the game. If an abilit
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Exploration](/rules/r_exploration)
- - [Leaders](/rules/r_leaders)
- - [Relics](/rules/r_relics)
+ - [Abilities](r_abilities)
+ - [Exploration](r_exploration)
+ - [Leaders](r_leaders)
+ - [Relics](r_relics)
  
  

@@ -32,6 +32,6 @@ There currently does not exist a Living Rules Reference section regarding synerg
 ## Related Topics
 
  
- - [Breakthroughs](/rules/r_breakthroughs)
+ - [Breakthroughs](r_breakthroughs)
  
  

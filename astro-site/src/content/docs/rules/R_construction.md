@@ -33,11 +33,11 @@ The <i>Construction</i> strategy card allows players to construct structures on 
 ## Related Topics
 
  
- - [Initiative Order](/rules/r_initiative_order)
- - [PDS](/rules/r_pds)
- - [Space Dock](/rules/r_space_dock)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Card](/rules/r_strategy_card)
- - [Structures](/rules/r_structures)
+ - [Initiative Order](r_initiative_order)
+ - [PDS](r_pds)
+ - [Space Dock](r_space_dock)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Card](r_strategy_card)
+ - [Structures](r_structures)
  
  

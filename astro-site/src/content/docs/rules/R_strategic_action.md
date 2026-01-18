@@ -28,7 +28,7 @@ During the action phase, the active player may perform a strategic action to res
 ## Related Topics
 
  
- - [Action Phase](/rules/r_action_phase)
- - [Strategy Card](/rules/r_strategy_card)
+ - [Action Phase](r_action_phase)
+ - [Strategy Card](r_strategy_card)
  
  

@@ -42,16 +42,16 @@ During the <b>Ground Combat</b> step of an invasion, if the active player has gr
 ## Related Topics
 
  
- - [Attacker](/rules/r_attacker)
- - [Combat](/rules/r_combat)
- - [Defender](/rules/r_defender)
- - [Destroyed](/rules/r_destroyed)
- - [Ground Forces](/rules/r_ground_forces)
- - [Invasion](/rules/r_invasion)
- - [Modifiers](/rules/r_modifiers)
- - [Opponent](/rules/r_opponent)
- - [Planets](/rules/r_planets)
- - [Rerolls](/rules/r_rerolls)
- - [Sustain Damage](/rules/r_sustain_damage)
+ - [Attacker](r_attacker)
+ - [Combat](r_combat)
+ - [Defender](r_defender)
+ - [Destroyed](r_destroyed)
+ - [Ground Forces](r_ground_forces)
+ - [Invasion](r_invasion)
+ - [Modifiers](r_modifiers)
+ - [Opponent](r_opponent)
+ - [Planets](r_planets)
+ - [Rerolls](r_rerolls)
+ - [Sustain Damage](r_sustain_damage)
  
  

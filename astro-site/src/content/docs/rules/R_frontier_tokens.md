@@ -27,6 +27,6 @@ Frontier tokens can be explored for a variety of game effects.
 ## Related Topics
 
  
- - [Exploration](/rules/r_exploration)
+ - [Exploration](r_exploration)
  
  

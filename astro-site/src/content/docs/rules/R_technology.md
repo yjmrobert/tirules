@@ -73,19 +73,19 @@ The Nekro Virus faction can use its faction abilities in combination with its tw
 1. If a player is instructed to research a technology by any game effect, that player must meet the prerequisites for the technology they research.
 2. If a player is instructed to gain a technology, that player does not have to meet the prerequisites, although most game effects that do this will specify what technologies may be gained by that effect.
 3. If a player is playing a faction with a faction–specific unit upgrade, they cannot research the generic upgrade for that unit type.
-4. For notes about specific generic technologies, see the [technology notes page](/components/c_technology).
-5. For notes about specific generic unit upgrades, see the [unit notes page](/components/c_units).
+4. For notes about specific generic technologies, see the [technology notes page](../components/c_technology).
+5. For notes about specific generic unit upgrades, see the [unit notes page](../components/c_units).
 6. For notes about a technologies of a specific faction, see that faction’s notes page.
  
  
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Component Action](/rules/r_component_action)
- - [Exhausted](/rules/r_exhausted)
- - [Readied](/rules/r_readied)
+ - [Abilities](r_abilities)
+ - [Component Action](r_component_action)
+ - [Exhausted](r_exhausted)
+ - [Readied](r_readied)
  - <a href="/rules/r_technology_sc">Technology (<abbr title="Strategy Card">S.C.</abbr>)</sub></a>
- - [Unit Upgrades](/rules/r_unit_upgrades)
+ - [Unit Upgrades](r_unit_upgrades)
  
  

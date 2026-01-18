@@ -28,13 +28,13 @@ Two system tiles are adjacent to each other if any of the tiles’ sides are tou
 ## Related Topics
 
  
- - [Game Board](/rules/r_game_board)
- - [Hyperlanes](/rules/r_hyperlanes)
- - [Movement](/rules/r_movement)
- - [Neighbors](/rules/r_neighbors)
- - [PDS](/rules/r_pds)
- - [System Tiles](/rules/r_system_tiles)
- - [Wormhole Nexus](/rules/r_wormhole_nexus)
- - [Wormholes](/rules/r_wormholes)
+ - [Game Board](r_game_board)
+ - [Hyperlanes](r_hyperlanes)
+ - [Movement](r_movement)
+ - [Neighbors](r_neighbors)
+ - [PDS](r_pds)
+ - [System Tiles](r_system_tiles)
+ - [Wormhole Nexus](r_wormhole_nexus)
+ - [Wormholes](r_wormholes)
  
  

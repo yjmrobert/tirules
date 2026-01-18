@@ -24,16 +24,16 @@ Agenda cards represent galactic laws and policies. During each agenda phase, pla
  
 1. When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.
 2. If the outcome of an agenda affects multiple players, it will do so in speaker order.
-3. For notes about specific agenda cards, see the [agenda card component notes page](/components/c_agendas).
+3. For notes about specific agenda cards, see the [agenda card component notes page](../components/c_agendas).
  
  
 ## Related Topics
 
  
- - [Agenda Phase](/rules/r_agenda_phase)
- - [Attach](/rules/r_attach)
- - [Politics](/rules/r_politics)
- - [Speaker](/rules/r_speaker)
- - [Victory Points](/rules/r_victory_points)
+ - [Agenda Phase](r_agenda_phase)
+ - [Attach](r_attach)
+ - [Politics](r_politics)
+ - [Speaker](r_speaker)
+ - [Victory Points](r_victory_points)
  
  

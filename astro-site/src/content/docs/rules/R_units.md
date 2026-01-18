@@ -40,15 +40,15 @@ A unit is represented by a plastic figure.
 ## Related Topics
 
  
- - [Component Limitations](/rules/r_component_limitations)
- - [Fighter Tokens](/rules/r_fighter_tokens)
- - [Ground Forces](/rules/r_ground_forces)
- - [Infantry Tokens](/rules/r_infantry_tokens)
- - [Producing Units](/rules/r_producing_units)
- - [Production](/rules/r_production)
- - [Reinforcements](/rules/r_reinforcements)
- - [Ships](/rules/r_ships)
- - [Structures](/rules/r_structures)
- - [Unit Upgrades](/rules/r_unit_upgrades)
+ - [Component Limitations](r_component_limitations)
+ - [Fighter Tokens](r_fighter_tokens)
+ - [Ground Forces](r_ground_forces)
+ - [Infantry Tokens](r_infantry_tokens)
+ - [Producing Units](r_producing_units)
+ - [Production](r_production)
+ - [Reinforcements](r_reinforcements)
+ - [Ships](r_ships)
+ - [Structures](r_structures)
+ - [Unit Upgrades](r_unit_upgrades)
  
  

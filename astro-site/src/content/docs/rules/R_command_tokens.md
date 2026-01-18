@@ -36,11 +36,11 @@ Command tokens are a currency that players use to perform actions and expand the
 ## Related Topics
 
  
- - [Command Sheet](/rules/r_command_sheet)
- - [Fleet Pool](/rules/r_fleet_pool)
- - [Leadership](/rules/r_leadership)
- - [Reinforcements](/rules/r_reinforcements)
- - [Strategic Action](/rules/r_strategic_action)
- - [Tactical Action](/rules/r_tactical_action)
+ - [Command Sheet](r_command_sheet)
+ - [Fleet Pool](r_fleet_pool)
+ - [Leadership](r_leadership)
+ - [Reinforcements](r_reinforcements)
+ - [Strategic Action](r_strategic_action)
+ - [Tactical Action](r_tactical_action)
  
  

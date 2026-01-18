@@ -28,8 +28,8 @@ There currently does not exist a Living Rules Reference section regarding neutra
 ## Related Topics
 
  
- - [The Fracture](/rules/r_fracture)
- - [Ground Combat](/rules/r_ground_combat)
- - [Space Combat](/rules/r_space_combat)
+ - [The Fracture](r_fracture)
+ - [Ground Combat](r_ground_combat)
+ - [Space Combat](r_space_combat)
  
  

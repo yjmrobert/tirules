@@ -46,11 +46,11 @@ A deal made during a given step is non–binding if any part of it is to resolve
 ## Related Topics
 
  
- - [Command Tokens](/rules/r_command_tokens)
- - [Commodities](/rules/r_commodities)
- - [Initiative Order](/rules/r_initiative_order)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Card](/rules/r_strategy_card)
- - [Trade Goods](/rules/r_trade_goods)
+ - [Command Tokens](r_command_tokens)
+ - [Commodities](r_commodities)
+ - [Initiative Order](r_initiative_order)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Card](r_strategy_card)
+ - [Trade Goods](r_trade_goods)
  
  

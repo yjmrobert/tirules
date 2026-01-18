@@ -81,16 +81,16 @@ A secret objective is an objective that is controlled by one player and is hidde
 
 7. A player may score an action phase secret objective when they are not the active player.
 8. A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.
-9. For notes about specific objective cards, see the [objective card component notes page](/components/c_objectives).
+9. For notes about specific objective cards, see the [objective card component notes page](../components/c_objectives).
  
  
 ## Related Topics
 
  
- - [Action Phase](/rules/r_action_phase)
- - [Agenda Phase](/rules/r_agenda_phase)
- - [Imperial](/rules/r_imperial)
- - [Status Phase](/rules/r_status_phase)
- - [Victory Points](/rules/r_victory_points)
+ - [Action Phase](r_action_phase)
+ - [Agenda Phase](r_agenda_phase)
+ - [Imperial](r_imperial)
+ - [Status Phase](r_status_phase)
+ - [Victory Points](r_victory_points)
  
  

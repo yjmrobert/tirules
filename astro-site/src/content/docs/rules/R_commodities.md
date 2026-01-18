@@ -34,9 +34,9 @@ Commodities represent goods that are plentiful for their own faction and are des
 ## Related Topics
 
  
- - [Deals](/rules/r_deals)
- - [Trade](/rules/r_trade)
- - [Trade Goods](/rules/r_trade_goods)
- - [Transactions](/rules/r_transactions)
+ - [Deals](r_deals)
+ - [Trade](r_trade)
+ - [Trade Goods](r_trade_goods)
+ - [Transactions](r_transactions)
  
  

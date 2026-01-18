@@ -27,11 +27,11 @@ The speaker is the player who has the speaker token.
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Agenda Card](/rules/r_agenda_card)
- - [Agenda Phase](/rules/r_agenda_phase)
- - [Objective Cards](/rules/r_objective_cards)
- - [Politics](/rules/r_politics)
- - [Strategy Phase](/rules/r_strategy_phase)
+ - [Abilities](r_abilities)
+ - [Agenda Card](r_agenda_card)
+ - [Agenda Phase](r_agenda_phase)
+ - [Objective Cards](r_objective_cards)
+ - [Politics](r_politics)
+ - [Strategy Phase](r_strategy_phase)
  
  

@@ -30,9 +30,9 @@ Units cannot use the Bombardment ability against a planet that contains a unit t
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Bombardment](/rules/r_bombardment)
- - [Invasion](/rules/r_invasion)
- - [PDS](/rules/r_pds)
+ - [Abilities](r_abilities)
+ - [Bombardment](r_bombardment)
+ - [Invasion](r_invasion)
+ - [PDS](r_pds)
  
  

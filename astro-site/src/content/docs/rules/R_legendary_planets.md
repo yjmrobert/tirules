@@ -29,14 +29,14 @@ Legendary planets grant the player that controls them unique, planet–specific 
 5. An ability that readies a plannet cannot be used to ready a legendary planet ability card.
 6. A legendary planet ability card will ready in the status phase.
 7. Mecatol Rex is not a legendary planet.
-8. For the system that contains Malice, see the [wormhole nexus](/rules/r_wormhole_nexus).
+8. For the system that contains Malice, see the [wormhole nexus](r_wormhole_nexus).
  
  
 ## Related Topics
 
  
- - [Control](/rules/r_control)
- - [Exhausted](/rules/r_exhausted)
- - [Planets](/rules/r_planets)
+ - [Control](r_control)
+ - [Exhausted](r_exhausted)
+ - [Planets](r_planets)
  
  

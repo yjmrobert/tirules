@@ -22,7 +22,7 @@ An asteroid field is an anomaly that affects movement.
 ## Related Topics
 
  
- - [Anomalies](/rules/r_anomalies)
- - [Movement](/rules/r_movement)
+ - [Anomalies](r_anomalies)
+ - [Movement](r_movement)
  
  

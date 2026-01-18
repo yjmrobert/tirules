@@ -22,11 +22,11 @@ The <i>Technology</i> strategy card allows players to research new technology. T
 ## Related Topics
 
  
- - [Command Tokens](/rules/r_command_tokens)
- - [Initiative Order](/rules/r_initiative_order)
- - [Resources](/rules/r_resources)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Card](/rules/r_strategy_card)
- - [Technology](/rules/r_technology)
+ - [Command Tokens](r_command_tokens)
+ - [Initiative Order](r_initiative_order)
+ - [Resources](r_resources)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Card](r_strategy_card)
+ - [Technology](r_technology)
  
  

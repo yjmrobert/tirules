@@ -30,8 +30,8 @@ A fighter token functions as a plastic fighter unit for all game purposes.
 ## Related Topics
 
  
- - [Component Limitations](/rules/r_component_limitations)
- - [Infantry Tokens](/rules/r_infantry_tokens)
- - [Producing Units](/rules/r_producing_units)
+ - [Component Limitations](r_component_limitations)
+ - [Infantry Tokens](r_infantry_tokens)
+ - [Producing Units](r_producing_units)
  
  

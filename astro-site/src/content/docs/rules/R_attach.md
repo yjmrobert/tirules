@@ -28,9 +28,9 @@ Some game effects instruct a player to attach a card to a planet card. The attac
 ## Related Topics
 
  
- - [Agenda Card](/rules/r_agenda_card)
- - [Control](/rules/r_control)
- - [Exploration](/rules/r_exploration)
- - [Planets](/rules/r_planets)
+ - [Agenda Card](r_agenda_card)
+ - [Control](r_control)
+ - [Exploration](r_exploration)
+ - [Planets](r_planets)
  
  

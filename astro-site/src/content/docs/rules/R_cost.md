@@ -27,8 +27,8 @@ Cost is an attribute of some units that is presented on faction sheets and unit 
 ## Related Topics
 
  
- - [Modifiers](/rules/r_modifiers)
- - [Producing Units](/rules/r_producing_units)
- - [Resources](/rules/r_resources)
+ - [Modifiers](r_modifiers)
+ - [Producing Units](r_producing_units)
+ - [Resources](r_resources)
  
  

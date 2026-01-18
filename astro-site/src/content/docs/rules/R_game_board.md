@@ -29,8 +29,8 @@ The game board consists of all system tiles in play.
 ## Related Topics
 
  
- - [Adjacency](/rules/r_adjacency)
- - [Hyperlanes](/rules/r_hyperlanes)
- - [System Tiles](/rules/r_system_tiles)
+ - [Adjacency](r_adjacency)
+ - [Hyperlanes](r_hyperlanes)
+ - [System Tiles](r_system_tiles)
  
  

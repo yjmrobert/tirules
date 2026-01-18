@@ -21,10 +21,10 @@ Move is an attribute of some units that is presented on faction sheets and unit 
 ## Related Topics
 
  
- - [Modifiers](/rules/r_modifiers)
- - [Movement](/rules/r_movement)
- - [Ships](/rules/r_ships)
- - [Tactical Action](/rules/r_tactical_action)
- - [Units](/rules/r_units)
+ - [Modifiers](r_modifiers)
+ - [Movement](r_movement)
+ - [Ships](r_ships)
+ - [Tactical Action](r_tactical_action)
+ - [Units](r_units)
  
  

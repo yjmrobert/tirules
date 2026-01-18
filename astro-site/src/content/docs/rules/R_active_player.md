@@ -27,10 +27,10 @@ The active player is the player taking a turn during the action phase.
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Action Phase](/rules/r_action_phase)
- - [Attacker](/rules/r_attacker)
- - [Initiative Order](/rules/r_initiative_order)
- - [Space Cannon](/rules/r_space_cannon)
+ - [Abilities](r_abilities)
+ - [Action Phase](r_action_phase)
+ - [Attacker](r_attacker)
+ - [Initiative Order](r_initiative_order)
+ - [Space Cannon](r_space_cannon)
  
  

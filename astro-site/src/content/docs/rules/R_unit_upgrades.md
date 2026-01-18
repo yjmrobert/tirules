@@ -23,14 +23,14 @@ A unit upgrade is a type of technology card.
 
  
 1. If a player is playing a faction with a faction–specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.
-2. For notes about specific generic unit upgrades, see the [unit component notes page](/components/c_units).
+2. For notes about specific generic unit upgrades, see the [unit component notes page](../components/c_units).
 3. For notes about a unit upgrade technology of a specific faction, see that faction’s notes.
  
  
 ## Related Topics
 
  
- - [Technology](/rules/r_technology)
- - [Units](/rules/r_units)
+ - [Technology](r_technology)
+ - [Units](r_units)
  
  

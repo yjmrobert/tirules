@@ -23,9 +23,9 @@ A player’s reinforcements is that player’s personal supply of units and comm
 ## Related Topics
 
  
- - [Command Tokens](/rules/r_command_tokens)
- - [Component Limitations](/rules/r_component_limitations)
- - [Deploy](/rules/r_deploy)
- - [Units](/rules/r_units)
+ - [Command Tokens](r_command_tokens)
+ - [Component Limitations](r_component_limitations)
+ - [Deploy](r_deploy)
+ - [Units](r_units)
  
  

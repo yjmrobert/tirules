@@ -40,16 +40,16 @@ Each player begins the game with one unique and five generic promissory note car
     2. The <i>Alliance</i> and <i>Support for the Throne</i> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.
  
 3. A player may choose to reveal any or all of the promissory notes in their hand, if they so choose.
-4. For notes about specific generic promissory notes, see the [promissory notes notes page](/components/c_promissory_notes).
+4. For notes about specific generic promissory notes, see the [promissory notes notes page](../components/c_promissory_notes).
 5. For notes about a promissory note of a specific faction, see that faction’s notes page.
  
  
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Component Action](/rules/r_component_action)
- - [Elimination](/rules/r_elimination)
- - [Transactions](/rules/r_transactions)
+ - [Abilities](r_abilities)
+ - [Component Action](r_component_action)
+ - [Elimination](r_elimination)
+ - [Transactions](r_transactions)
  
  

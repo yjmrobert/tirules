@@ -41,14 +41,14 @@ The tactical action is the primary method by which players produce units, move s
 ## Related Topics
 
  
- - [Action Phase](/rules/r_action_phase)
- - [Active System](/rules/r_active_system)
- - [Command Sheet](/rules/r_command_sheet)
- - [Command Tokens](/rules/r_command_tokens)
- - [Invasion](/rules/r_invasion)
- - [Movement](/rules/r_movement)
- - [Producing Units](/rules/r_producing_units)
- - [Production](/rules/r_production)
- - [Space Combat](/rules/r_space_combat)
+ - [Action Phase](r_action_phase)
+ - [Active System](r_active_system)
+ - [Command Sheet](r_command_sheet)
+ - [Command Tokens](r_command_tokens)
+ - [Invasion](r_invasion)
+ - [Movement](r_movement)
+ - [Producing Units](r_producing_units)
+ - [Production](r_production)
+ - [Space Combat](r_space_combat)
  
  

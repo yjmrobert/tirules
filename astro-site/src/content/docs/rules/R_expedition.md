@@ -41,7 +41,7 @@ There currently does not exist a Living Rules Reference section regarding expedi
 ## Related Topics
 
  
- - [Breakthroughs](/rules/r_breakthroughs)
- - [The Fracture](/rules/r_fracture)
+ - [Breakthroughs](r_breakthroughs)
+ - [The Fracture](r_fracture)
  
  

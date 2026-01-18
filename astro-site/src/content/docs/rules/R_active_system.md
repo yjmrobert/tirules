@@ -29,9 +29,9 @@ The active system is the system that is activated during a tactical action.
 ## Related Topics
 
  
- - [Movement](/rules/r_movement)
- - [Nebula](/rules/r_nebula)
- - [System Tiles](/rules/r_system_tiles)
- - [Tactical Action](/rules/r_tactical_action)
+ - [Movement](r_movement)
+ - [Nebula](r_nebula)
+ - [System Tiles](r_system_tiles)
+ - [Tactical Action](r_tactical_action)
  
  

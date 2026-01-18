@@ -30,7 +30,7 @@ Some abilities instruct a player to capture a unit, preventing the unit’s orig
 ## Notes
 
  
-1. For additional information, see the [Vuil’raith faction notes page](/factions/f_vuilraith).
+1. For additional information, see the [Vuil’raith faction notes page](../factions/f_vuilraith).
 2. Units are returned as soon as a space dock is blockaded. If this occurs at the end of the <b>Space Combat</b> step of a tactical action, the units will be returned before the <b>Invasion</b> step, in which the space dock could potentially be destroyed.
 3. A captured unit may only be returned to the player that originally owned it, and not to another player.
 4. The Nekro player and the Yssaril player are able to capture units by copying the Vuil’raith player’s abilities, but they will be unable to spend the captured units.
@@ -46,9 +46,9 @@ Some abilities instruct a player to capture a unit, preventing the unit’s orig
 ## Related Topics
 
  
- - [Blockaded](/rules/r_blockaded)
- - [Fighter Tokens](/rules/r_fighter_tokens)
- - [Infantry Tokens](/rules/r_infantry_tokens)
- - [Transactions](/rules/r_transactions)
+ - [Blockaded](r_blockaded)
+ - [Fighter Tokens](r_fighter_tokens)
+ - [Infantry Tokens](r_infantry_tokens)
+ - [Transactions](r_transactions)
  
  

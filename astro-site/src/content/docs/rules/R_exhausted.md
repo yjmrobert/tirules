@@ -29,13 +29,13 @@ Some cards can be exhausted. A player cannot resolve abilities or spend the reso
 ## Related Topics
 
  
- - [Influence](/rules/r_influence)
- - [Leaders](/rules/r_leaders)
- - [Planets](/rules/r_planets)
- - [Relics](/rules/r_relics)
- - [Resources](/rules/r_resources)
- - [Strategy Card](/rules/r_strategy_card)
- - [Status Phase](/rules/r_status_phase)
- - [Technology](/rules/r_technology)
+ - [Influence](r_influence)
+ - [Leaders](r_leaders)
+ - [Planets](r_planets)
+ - [Relics](r_relics)
+ - [Resources](r_resources)
+ - [Strategy Card](r_strategy_card)
+ - [Status Phase](r_status_phase)
+ - [Technology](r_technology)
  
  

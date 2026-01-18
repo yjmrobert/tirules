@@ -27,11 +27,11 @@ The custodians token begins each game on Mecatol Rex. The token represents the c
 ## Related Topics
 
  
- - [Agenda Phase](/rules/r_agenda_phase)
- - [Control](/rules/r_control)
- - [Influence](/rules/r_influence)
- - [Invasion](/rules/r_invasion)
- - [Mecatol Rex](/rules/r_mecatol_rex)
- - [Victory Points](/rules/r_victory_points)
+ - [Agenda Phase](r_agenda_phase)
+ - [Control](r_control)
+ - [Influence](r_influence)
+ - [Invasion](r_invasion)
+ - [Mecatol Rex](r_mecatol_rex)
+ - [Victory Points](r_victory_points)
  
  

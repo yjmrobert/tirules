@@ -37,16 +37,16 @@ Each planet has a corresponding planet card that displays its name, resource val
 ## Related Topics
 
  
- - [Control](/rules/r_control)
- - [Exploration](/rules/r_exploration)
- - [Exhausted](/rules/r_exhausted)
- - [Influence](/rules/r_influence)
- - [Invasion](/rules/r_invasion)
- - [Legendary Planets](/rules/r_legendary_planets)
- - [Mecatol Rex](/rules/r_mecatol_rex)
- - [Readied](/rules/r_readied)
- - [Resources](/rules/r_resources)
- - [System Tiles](/rules/r_system_tiles)
- - [Technology](/rules/r_technology)
+ - [Control](r_control)
+ - [Exploration](r_exploration)
+ - [Exhausted](r_exhausted)
+ - [Influence](r_influence)
+ - [Invasion](r_invasion)
+ - [Legendary Planets](r_legendary_planets)
+ - [Mecatol Rex](r_mecatol_rex)
+ - [Readied](r_readied)
+ - [Resources](r_resources)
+ - [System Tiles](r_system_tiles)
+ - [Technology](r_technology)
  
  

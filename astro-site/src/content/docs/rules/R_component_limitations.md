@@ -42,9 +42,9 @@ If a component type is depleted during the game, players obey the following rule
 ## Related Topics
 
  
- - [Fighter Tokens](/rules/r_fighter_tokens)
- - [Infantry Tokens](/rules/r_infantry_tokens)
- - [Producing Units](/rules/r_producing_units)
- - [Units](/rules/r_units)
+ - [Fighter Tokens](r_fighter_tokens)
+ - [Infantry Tokens](r_infantry_tokens)
+ - [Producing Units](r_producing_units)
+ - [Units](r_units)
  
  

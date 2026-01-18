@@ -39,16 +39,16 @@ Strategy cards determine initiative order and provide each player with a powerfu
 ## Related Topics
 
  
- - [Construction](/rules/r_construction)
- - [Diplomacy](/rules/r_diplomacy)
- - [Imperial](/rules/r_imperial)
- - [Initiative Order](/rules/r_initiative_order)
- - [Leadership](/rules/r_leadership)
- - [Politics](/rules/r_politics)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Phase](/rules/r_strategy_phase)
+ - [Construction](r_construction)
+ - [Diplomacy](r_diplomacy)
+ - [Imperial](r_imperial)
+ - [Initiative Order](r_initiative_order)
+ - [Leadership](r_leadership)
+ - [Politics](r_politics)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Phase](r_strategy_phase)
  - <a href="/rules/r_technology_sc">Technology (<abbr title="Strategy Card">S.C.</abbr>)</sub></a>
- - [Trade](/rules/r_trade)
- - [Warfare](/rules/r_warfare)
+ - [Trade](r_trade)
+ - [Warfare](r_warfare)
  
  

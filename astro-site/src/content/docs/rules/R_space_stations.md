@@ -41,13 +41,13 @@ There currently does not exist a Living Rules Reference section regarding space 
 ## Related Topics
 
  
- - [Control](/rules/r_control)
- - [Exhausted](/rules/r_exhausted)
- - [Influence](/rules/r_influence)
- - [Planets](/rules/r_planets)
- - [Readied](/rules/r_readied)
- - [Resources](/rules/r_resources)
- - [Space Combat](/rules/r_space_combat)
- - [System Tiles](/rules/r_system_tiles)
+ - [Control](r_control)
+ - [Exhausted](r_exhausted)
+ - [Influence](r_influence)
+ - [Planets](r_planets)
+ - [Readied](r_readied)
+ - [Resources](r_resources)
+ - [Space Combat](r_space_combat)
+ - [System Tiles](r_system_tiles)
  
  

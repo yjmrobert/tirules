@@ -28,8 +28,8 @@ Some units have deploy abilities. Deploy abilities are indicated by the Deploy h
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Mechs](/rules/r_mechs)
- - [Reinforcements](/rules/r_reinforcements)
+ - [Abilities](r_abilities)
+ - [Mechs](r_mechs)
+ - [Reinforcements](r_reinforcements)
  
  

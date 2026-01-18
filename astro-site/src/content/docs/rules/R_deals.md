@@ -39,8 +39,8 @@ A deal is an agreement between two players that may or may not include a transac
 ## Related Topics
 
  
- - [Promissory Notes](/rules/r_promissory_notes)
- - [Trade Goods](/rules/r_trade_goods)
- - [Transactions](/rules/r_transactions)
+ - [Promissory Notes](r_promissory_notes)
+ - [Trade Goods](r_trade_goods)
+ - [Transactions](r_transactions)
  
  

@@ -31,16 +31,16 @@ Some systems contain wormholes. Systems that contain identical wormholes are adj
     2. If the two systems are adjacent because of two types of wormholes, the player chooses which type of wormhole the ship moves through.
     3. A player may move a ship back and forth through a wormhole between two systems any number of times, if its movement value is high enough.
  
-5. For additional information on how the Creuss interact with wormholes, see [their faction notes page](/factions/f_creuss).
+5. For additional information on how the Creuss interact with wormholes, see [their faction notes page](../factions/f_creuss).
  
  
 ## Related Topics
 
  
- - [Adjacency](/rules/r_adjacency)
- - [Movement](/rules/r_movement)
- - [Neighbors](/rules/r_neighbors)
- - [System Tiles](/rules/r_system_tiles)
- - [Wormhole Nexus](/rules/r_wormhole_nexus)
+ - [Adjacency](r_adjacency)
+ - [Movement](r_movement)
+ - [Neighbors](r_neighbors)
+ - [System Tiles](r_system_tiles)
+ - [Wormhole Nexus](r_wormhole_nexus)
  
  

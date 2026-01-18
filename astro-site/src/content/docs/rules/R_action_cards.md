@@ -43,15 +43,15 @@ Action cards provide players with various abilities that they can resolve as des
 8. If an action card targets “any number”, “up to”, or “each” of a particular type of object, that action card may target zero of those objects. As such, these cards may be played even if they would cause no effect.
 9. If an action card targets a specific number of a particular type of object, that action card cannot be played if those objects do not currently exist. For example, <i>Repeal Law</i> cannot be played if there are no laws in play.
 10. If a player has more than seven action cards, they must discard the excess immediately. They cannot play them to get down to seven, and the Hacan player cannot trade them.
-11. For notes about specific action cards, see the [action card component notes page](/components/c_action_cards).
+11. For notes about specific action cards, see the [action card component notes page](../components/c_action_cards).
  
  
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Component Action](/rules/r_component_action)
- - [Politics](/rules/r_politics)
- - [Status Phase](/rules/r_status_phase)
+ - [Abilities](r_abilities)
+ - [Component Action](r_component_action)
+ - [Politics](r_politics)
+ - [Status Phase](r_status_phase)
  
  

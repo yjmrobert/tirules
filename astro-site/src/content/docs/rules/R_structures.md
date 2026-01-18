@@ -28,9 +28,9 @@ A structure is a type of unit. PDS units and space docks are structures.
 ## Related Topics
 
  
- - [Construction](/rules/r_construction)
- - [Space Dock](/rules/r_space_dock)
- - [PDS](/rules/r_pds)
- - [Units](/rules/r_units)
+ - [Construction](r_construction)
+ - [Space Dock](r_space_dock)
+ - [PDS](r_pds)
+ - [Units](r_units)
  
  

@@ -36,9 +36,9 @@ Each player begins the game with control of each planet in their home system. Du
 ## Related Topics
 
  
- - [Attach](/rules/r_attach)
- - [Exhausted](/rules/r_exhausted)
- - [Invasion](/rules/r_invasion)
- - [Planets](/rules/r_planets)
+ - [Attach](r_attach)
+ - [Exhausted](r_exhausted)
+ - [Invasion](r_invasion)
+ - [Planets](r_planets)
  
  

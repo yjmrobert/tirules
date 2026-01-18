@@ -41,9 +41,9 @@ There currently does not exist a Living Rules Reference section regarding The Fr
 ## Related Topics
 
  
- - [Breakthroughs](/rules/r_breakthroughs)
- - [Neutral Units](/rules/r_neutral_units)
- - [Relics](/rules/r_relics)
- - [Synergy](/rules/r_synergy)
+ - [Breakthroughs](r_breakthroughs)
+ - [Neutral Units](r_neutral_units)
+ - [Relics](r_relics)
+ - [Synergy](r_synergy)
  
  

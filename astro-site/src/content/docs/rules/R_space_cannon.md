@@ -65,14 +65,14 @@ During the invasion step of a tactical action, after ground forces have been com
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Active Player](/rules/r_active_player)
- - [Active System](/rules/r_active_system)
- - [Adjacency](/rules/r_adjacency)
- - [Destroyed](/rules/r_destroyed)
- - [Invasion](/rules/r_invasion)
- - [Movement](/rules/r_movement)
- - [PDS](/rules/r_pds)
- - [Sustain Damage](/rules/r_sustain_damage)
+ - [Abilities](r_abilities)
+ - [Active Player](r_active_player)
+ - [Active System](r_active_system)
+ - [Adjacency](r_adjacency)
+ - [Destroyed](r_destroyed)
+ - [Invasion](r_invasion)
+ - [Movement](r_movement)
+ - [PDS](r_pds)
+ - [Sustain Damage](r_sustain_damage)
  
  

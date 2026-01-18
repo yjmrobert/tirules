@@ -48,15 +48,15 @@ To resolve an invasion, players perform the following steps:
 ## Related Topics
 
  
- - [Active Player](/rules/r_active_player)
- - [Bombardment](/rules/r_bombardment)
- - [Combat](/rules/r_combat)
- - [Control](/rules/r_control)
- - [Custodians Token](/rules/r_custodians_token)
- - [Exploration](/rules/r_exploration)
- - [Ground Combat](/rules/r_ground_combat)
- - [Ground Forces](/rules/r_ground_forces)
- - [Planets](/rules/r_planets)
- - [Space Cannon](/rules/r_space_cannon)
+ - [Active Player](r_active_player)
+ - [Bombardment](r_bombardment)
+ - [Combat](r_combat)
+ - [Control](r_control)
+ - [Custodians Token](r_custodians_token)
+ - [Exploration](r_exploration)
+ - [Ground Combat](r_ground_combat)
+ - [Ground Forces](r_ground_forces)
+ - [Planets](r_planets)
+ - [Space Cannon](r_space_cannon)
  
  

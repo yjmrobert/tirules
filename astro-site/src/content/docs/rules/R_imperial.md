@@ -27,11 +27,11 @@ The <i>Imperial</i> strategy card allows players to score victory points and dra
 ## Related Topics
 
  
- - [Initiative Order](/rules/r_initiative_order)
- - [Mecatol Rex](/rules/r_mecatol_rex)
- - [Objective Cards](/rules/r_objective_cards)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Card](/rules/r_strategy_card)
- - [Victory Points](/rules/r_victory_points)
+ - [Initiative Order](r_initiative_order)
+ - [Mecatol Rex](r_mecatol_rex)
+ - [Objective Cards](r_objective_cards)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Card](r_strategy_card)
+ - [Victory Points](r_victory_points)
  
  

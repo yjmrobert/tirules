@@ -46,8 +46,8 @@ A gravity rift is an anomaly that affects movement.
 ## Related Topics
 
  
- - [Anomalies](/rules/r_anomalies)
- - [Movement](/rules/r_movement)
- - [Transport](/rules/r_transport)
+ - [Anomalies](r_anomalies)
+ - [Movement](r_movement)
+ - [Transport](r_transport)
  
  

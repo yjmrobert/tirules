@@ -44,19 +44,19 @@ Planets and some space areas can be explored, yielding varying results determine
 3. If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.
 4. A player may perform transactions after revealing an exploration card and before resolving it.
 5. Before resolving an exploration card, it is revealed to all players.
-6. For notes about specific exploration cards, see the [exploration cards notes page](/components/c_exploration_cards).
+6. For notes about specific exploration cards, see the [exploration cards notes page](../components/c_exploration_cards).
  
  
 ## Related Topics
 
  
- - [Attach](/rules/r_attach)
- - [Control](/rules/r_control)
- - [Frontier Tokens](/rules/r_frontier_tokens)
- - [Invasion](/rules/r_invasion)
- - [Planets](/rules/r_planets)
+ - [Attach](r_attach)
+ - [Control](r_control)
+ - [Frontier Tokens](r_frontier_tokens)
+ - [Invasion](r_invasion)
+ - [Planets](r_planets)
  - [Purge](R_purge)
- - [Relics](/rules/r_relics)
- - [Transactions](/rules/r_transactions)
+ - [Relics](r_relics)
+ - [Transactions](r_transactions)
  
  

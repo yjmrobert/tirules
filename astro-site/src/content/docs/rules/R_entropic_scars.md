@@ -32,8 +32,8 @@ There currently does not exist a Living Rules Reference section regarding entrop
 ## Related Topics
 
  
- - [Anomalies](/rules/r_anomalies)
- - [Abilities](/rules/r_abilities)
- - [Technology](/rules/r_techonolgy)
+ - [Anomalies](r_anomalies)
+ - [Abilities](r_abilities)
+ - [Technology](r_techonolgy)
  
  

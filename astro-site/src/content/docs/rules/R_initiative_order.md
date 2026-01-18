@@ -23,27 +23,27 @@ Initiative order is the order in which players resolve steps of the action and s
 ## Notes
 
  
-1. If there are multiple abilities that players wish to resolve at the same time during the action phase, initiative order will determine the order they are resolved in. See the [abilities page](/rules/r_abilities) for more details.
+1. If there are multiple abilities that players wish to resolve at the same time during the action phase, initiative order will determine the order they are resolved in. See the [abilities page](r_abilities) for more details.
 2. The initiative order of all strategy cards is:
  
-    1. [Leadership](/rules/r_leadership)
-    2. [Diplomacy](/rules/r_diplomacy)
-    3. [Politics](/rules/r_politics)
-    4. [Construction](/rules/r_construction)
-    5. [Trade](/rules/r_trade)
-    6. [Warfare](/rules/r_warfare)
+    1. [Leadership](r_leadership)
+    2. [Diplomacy](r_diplomacy)
+    3. [Politics](r_politics)
+    4. [Construction](r_construction)
+    5. [Trade](r_trade)
+    6. [Warfare](r_warfare)
     7. <a href="/rules/r_technology_sc">Technology (<abbr title="Strategy Card">S.C.</abbr>)</sub></a>
-    8. [Imperial](/rules/r_imperial)
+    8. [Imperial](r_imperial)
  
  
  
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Action Phase](/rules/r_action_phase)
- - [Active Player](/rules/r_active_player)
- - [Strategy Card](/rules/r_strategy_card)
- - [Status Phase](/rules/r_status_phase)
+ - [Abilities](r_abilities)
+ - [Action Phase](r_action_phase)
+ - [Active Player](r_active_player)
+ - [Strategy Card](r_strategy_card)
+ - [Status Phase](r_status_phase)
  
  

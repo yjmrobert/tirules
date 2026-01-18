@@ -30,11 +30,11 @@ An anomaly is a system tile that has unique rules.
 ## Related Topics
 
  
- - [Asteroid Field](/rules/r_asteroid_field)
- - [Gravity Rift](/rules/r_gravity_rift)
- - [Movement](/rules/r_movement)
- - [Nebula](/rules/r_nebula)
- - [Supernova](/rules/r_supernova)
- - [System Tiles](/rules/r_system_tiles)
+ - [Asteroid Field](r_asteroid_field)
+ - [Gravity Rift](r_gravity_rift)
+ - [Movement](r_movement)
+ - [Nebula](r_nebula)
+ - [Supernova](r_supernova)
+ - [System Tiles](r_system_tiles)
  
  

@@ -34,13 +34,13 @@ Cards have a readied state, which indicates that a player can exhaust or resolve
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Diplomacy](/rules/r_diplomacy)
- - [Exhausted](/rules/r_exhausted)
- - [Leaders](/rules/r_leaders)
- - [Planets](/rules/r_planets)
- - [Relics](/rules/r_relics)
- - [Status Phase](/rules/r_status_phase)
- - [Technology](/rules/r_technology)
+ - [Abilities](r_abilities)
+ - [Diplomacy](r_diplomacy)
+ - [Exhausted](r_exhausted)
+ - [Leaders](r_leaders)
+ - [Planets](r_planets)
+ - [Relics](r_relics)
+ - [Status Phase](r_status_phase)
+ - [Technology](r_technology)
  
  

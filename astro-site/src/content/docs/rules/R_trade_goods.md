@@ -34,12 +34,12 @@ A trade good represents a player’s buying and trading power beyond their plane
 ## Related Topics
 
  
- - [Command Sheet](/rules/r_command_sheet)
- - [Commodities](/rules/r_commodities)
- - [Deals](/rules/r_deals)
- - [Influence](/rules/r_influence)
- - [Resources](/rules/r_resources)
- - [Trade](/rules/r_trade)
- - [Transactions](/rules/r_transactions)
+ - [Command Sheet](r_command_sheet)
+ - [Commodities](r_commodities)
+ - [Deals](r_deals)
+ - [Influence](r_influence)
+ - [Resources](r_resources)
+ - [Trade](r_trade)
+ - [Transactions](r_transactions)
  
  

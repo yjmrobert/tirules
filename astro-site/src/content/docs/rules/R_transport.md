@@ -40,8 +40,8 @@ When a ship moves, it may transport any combination of fighters and ground force
 ## Related Topics
 
  
- - [Capacity](/rules/r_capacity)
- - [Ground Forces](/rules/r_ground_forces)
- - [Movement](/rules/r_movement)
+ - [Capacity](r_capacity)
+ - [Ground Forces](r_ground_forces)
+ - [Movement](r_movement)
  
  

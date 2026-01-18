@@ -69,17 +69,17 @@ When voting during the agenda phase, a player can cast votes for a specific outc
 5. If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.
 6. Each pair of players may resolve one transaction during each agenda.
 7. Only planets ready at the end of the phase. Technologies, leaders, relics, and other cards do not.
-8. For notes about specific agenda cards, see the [agenda card component notes page](/components/c_agendas).
+8. For notes about specific agenda cards, see the [agenda card component notes page](../components/c_agendas).
  
  
 ## Related Topics
 
  
- - [Agenda Cards](/rules/r_agenda_card)
- - [Custodians Token](/rules/r_custodians_token)
- - [Game Round](/rules/r_game_round)
- - [Influence](/rules/r_influence)
- - [Speaker](/rules/r_speaker)
- - [Transactions](/rules/r_transactions)
+ - [Agenda Cards](r_agenda_card)
+ - [Custodians Token](r_custodians_token)
+ - [Game Round](r_game_round)
+ - [Influence](r_influence)
+ - [Speaker](r_speaker)
+ - [Transactions](r_transactions)
  
  

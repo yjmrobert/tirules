@@ -77,7 +77,7 @@ Cards and faction sheets each have abilities that players can resolve to trigger
  
     1. Each unit on the board is its own separate physical object. For example, two or more of the N’orr player’s <i>Exotrireme II</i> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.
 
-3. Multiple action cards with the same name cannot be played during a single timing window to affect the same units or game effect. See the [action cards page](/rules/r_action_cards) for more details.
+3. Multiple action cards with the same name cannot be played during a single timing window to affect the same units or game effect. See the [action cards page](r_action_cards) for more details.
 4. During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <i>Trade</i> (5) player’s turn, they will have the option to resolve first, then the <i>Warfare</i> (6) player, then the <i>Technology</i> (7) player, and so on.
  
     1. If a player has multiple abilities they wish to resolve, they must be resolved one at a time. Between each ability being resolved, each other player will have the opportunity to resolve one ability.
@@ -95,14 +95,14 @@ Cards and faction sheets each have abilities that players can resolve to trigger
 ## Related Topics
 
  
- - [Action Cards](/rules/r_action_cards)
- - [Active Player](/rules/r_active_player)
- - [Initiative Order](/rules/r_initiative_order)
- - [Leaders](/rules/r_leaders)
- - [Promissory Notes](/rules/r_promissory_notes)
- - [Relics](/rules/r_relics)
- - [Speaker](/rules/r_speaker)
- - [Strategy Card](/rules/r_strategy_card)
- - [Technology](/rules/r_technology)
+ - [Action Cards](r_action_cards)
+ - [Active Player](r_active_player)
+ - [Initiative Order](r_initiative_order)
+ - [Leaders](r_leaders)
+ - [Promissory Notes](r_promissory_notes)
+ - [Relics](r_relics)
+ - [Speaker](r_speaker)
+ - [Strategy Card](r_strategy_card)
+ - [Technology](r_technology)
  
  

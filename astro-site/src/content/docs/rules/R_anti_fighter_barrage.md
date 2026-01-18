@@ -33,8 +33,8 @@ A unit with the Anti–Fighter Barrage ability may be able to destroy an opponen
 ## Related Topics
 
  
- - [Abilities](/rules/r_abilities)
- - [Destroyed](/rules/r_destroyed)
- - [Space Combat](/rules/r_space_combat)
+ - [Abilities](r_abilities)
+ - [Destroyed](r_destroyed)
+ - [Space Combat](r_space_combat)
  
  

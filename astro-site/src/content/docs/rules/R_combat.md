@@ -22,9 +22,9 @@ Combat is an attribute of some units that is presented on faction sheets and uni
 ## Related Topics
 
  
- - [Ground Combat](/rules/r_ground_combat)
- - [Modifiers](/rules/r_modifiers)
- - [Space Combat](/rules/r_space_combat)
- - [Units](/rules/r_units)
+ - [Ground Combat](r_ground_combat)
+ - [Modifiers](r_modifiers)
+ - [Space Combat](r_space_combat)
+ - [Units](r_units)
  
  

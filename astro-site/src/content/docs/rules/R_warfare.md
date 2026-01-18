@@ -29,14 +29,14 @@ To resolve the primary ability on the <i>Warfare</i> strategy card, the active p
 ## Related Topics
 
  
- - [Action Phase](/rules/r_action_phase)
- - [Command Sheet](/rules/r_command_sheet)
- - [Command Tokens](/rules/r_command_tokens)
- - [Initiative Order](/rules/r_initiative_order)
- - [Producing Units](/rules/r_producing_units)
- - [Production](/rules/r_production)
- - [Space Dock](/rules/r_space_dock)
- - [Strategic Action](/rules/r_strategic_action)
- - [Strategy Card](/rules/r_strategy_card)
+ - [Action Phase](r_action_phase)
+ - [Command Sheet](r_command_sheet)
+ - [Command Tokens](r_command_tokens)
+ - [Initiative Order](r_initiative_order)
+ - [Producing Units](r_producing_units)
+ - [Production](r_production)
+ - [Space Dock](r_space_dock)
+ - [Strategic Action](r_strategic_action)
+ - [Strategy Card](r_strategy_card)
  
  

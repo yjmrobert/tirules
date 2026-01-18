@@ -36,10 +36,10 @@ Then, players proceed to the action phase.
 ## Related Topics
 
  
- - [Action Phase](/rules/r_action_phase)
- - [Game Round](/rules/r_game_round)
- - [Speaker](/rules/r_speaker)
- - [Strategy Card](/rules/r_strategy_card)
- - [Trade Goods](/rules/r_trade_goods)
+ - [Action Phase](r_action_phase)
+ - [Game Round](r_game_round)
+ - [Speaker](r_speaker)
+ - [Strategy Card](r_strategy_card)
+ - [Trade Goods](r_trade_goods)
  
  

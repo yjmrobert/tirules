@@ -25,7 +25,7 @@ Each player has a leader sheet that contains slots for their faction’s three l
 ## Related Topics
 
  
- - [Leaders](/rules/r_leaders)
- - [Mechs](/rules/r_mechs)
+ - [Leaders](r_leaders)
+ - [Mechs](r_mechs)
  
  

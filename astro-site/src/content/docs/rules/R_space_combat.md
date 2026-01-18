@@ -73,7 +73,7 @@ To resolve a space combat, players perform the following steps:
     1. The Empyrean player may retreat into a nebula.
     2. The <i>Shared Research</i> law will not allow a player to retreat into a nebula.
  
-5. A player may attempt to retreat from a combat in a gravity rift, but will still be affected by it. See the [gravity rift page](/rules/r_gravity_rift) for more details.
+5. A player may attempt to retreat from a combat in a gravity rift, but will still be affected by it. See the [gravity rift page](r_gravity_rift) for more details.
 6. If a player only has fighters I in the combat when they retreat, those will be removed from the board, and they will not place a command token in an adjacent system.
 7. The <i>Nav Suite</i> action card will not allow a player to ignore an anomaly while retreating.
 8. The <i>Dark Energy Tap</i> technology allows a player to retreat into a system that does not contain their ships or a planet they control.
@@ -91,14 +91,14 @@ To resolve a space combat, players perform the following steps:
 ## Related Topics
 
  
- - [Anti–Fighter Barrage](/rules/r_anti_fighter_barrage)
- - [Attacker](/rules/r_attacker)
- - [Capacity](/rules/r_capacity)
- - [Defender](/rules/r_defender)
- - [Destroyed](/rules/r_destroyed)
- - [Fleet Pool](/rules/r_fleet_pool)
- - [Opponent](/rules/r_opponent)
- - [Sustain Damage](/rules/r_sustain_damage)
- - [Tactical Action](/rules/r_tactical_action)
+ - [Anti–Fighter Barrage](r_anti_fighter_barrage)
+ - [Attacker](r_attacker)
+ - [Capacity](r_capacity)
+ - [Defender](r_defender)
+ - [Destroyed](r_destroyed)
+ - [Fleet Pool](r_fleet_pool)
+ - [Opponent](r_opponent)
+ - [Sustain Damage](r_sustain_damage)
+ - [Tactical Action](r_tactical_action)
  
  

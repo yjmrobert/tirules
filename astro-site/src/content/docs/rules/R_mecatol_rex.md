@@ -21,8 +21,8 @@ Mecatol Rex is the planet placed in the center of the game board during setup.
 ## Related Topics
 
  
- - [Custodians Token](/rules/r_custodians_token)
- - [Imperial](/rules/r_imperial)
- - [Planets](/rules/r_planets)
+ - [Custodians Token](r_custodians_token)
+ - [Imperial](r_imperial)
+ - [Planets](r_planets)
  
  
