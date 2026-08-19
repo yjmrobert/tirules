@@ -1,3 +1,12 @@
+<?php
+// 301 redirect /index.php to /
+$requestUri = $_SERVER['REQUEST_URI'] ?? '';
+$path = parse_url($requestUri, PHP_URL_PATH) ?? '';
+if (str_ends_with($path, '.php')) {
+    header('Location: /', true, 301);
+    exit;
+}
+?>
 <!DOCTYPE html>
 <html>
 <head>
