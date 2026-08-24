@@ -7,14 +7,16 @@ if ($path === '' || $path === '/') {
     return true;
 }
 
-$resolvedPath = __DIR__ . $path;
+$docRoot = realpath(__DIR__);
 
-if (is_file($resolvedPath)) {
+$resolvedPath = realpath(__DIR__ . $path);
+if ($resolvedPath !== false && str_starts_with($resolvedPath, $docRoot . DIRECTORY_SEPARATOR) && is_file($resolvedPath)) {
     return false;
 }
 
-if (is_file($resolvedPath . '.php')) {
-    require $resolvedPath . '.php';
+$resolvedPhpPath = realpath(__DIR__ . $path . '.php');
+if ($resolvedPhpPath !== false && str_starts_with($resolvedPhpPath, $docRoot . DIRECTORY_SEPARATOR) && is_file($resolvedPhpPath)) {
+    require $resolvedPhpPath;
     return true;
 }
 

@@ -240,7 +240,8 @@ header, footer
     background-image: url("beta.png");
     background-repeat: repeat;
     background-attachment: fixed;
-    background-position: <?php echo rand(0, 100);?>% <?php echo rand(0, 100);?>%;
+    /* was PHP-generated random offset; style.css is served as a static file so it never ran */
+    background-position: 0% 0%;
     background-size: calc(1196px * 0.05) calc(480px * 0.05);
 }
 @media screen and (max-width: 600px)
