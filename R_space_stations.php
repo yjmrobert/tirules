@@ -36,7 +36,7 @@
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_influence">Influence</a></li>
-    <li><a href="/R_Planets">Planets</a></li>
+    <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_readied">Readied</a></li>
     <li><a href="/R_resources">Resources</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>Technology</h1></header>
 <article>
-<p>For notes about specific generic unit upgrade technologies, see the <a href="C_units">unit component notes page</a>.</p>
+<p>For notes about specific generic unit upgrade technologies, see the <a href="/C_units">unit component notes page</a>.</p>
 <p>For notes about technologies of a specific faction, see that faction&rsquo;s notes page.</p>
 <h2>Antimass Deflectors</h2>
     <ol class="note">

@@ -40,7 +40,7 @@
 
 <h2>Mech</h2>
     <ol class="note">
-    <li>See the <a href="R_mechs">mechs page</a> of the Rules Reference.</li>
+    <li>See the <a href="/R_mechs">mechs page</a> of the Rules Reference.</li>
     <li>For notes about the mechs of a specific faction, see that faction&rsquo;s notes page.</li>
     </ol>
 
@@ -52,12 +52,12 @@
 
 <h2>PDS</h2>
     <ol class="note">
-    <li>See the <a href="R_pds">PDS page</a> of the Rules Reference.</li>
+    <li>See the <a href="/R_pds">PDS page</a> of the Rules Reference.</li>
     </ol>
 
 <h2>Space Dock</h2>
     <ol class="note">
-    <li>See the <a href="R_space_dock">space dock page</a> of the Rules Reference.</li>
+    <li>See the <a href="/R_space_dock">space dock page</a> of the Rules Reference.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

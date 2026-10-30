@@ -45,7 +45,7 @@
     <li><a href="/R_frontier_tokens">Frontier Tokens</a></li>
     <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_planets">Planets</a></li>
-    <li><a href="R_purge">Purge</a></li>
+    <li><a href="/R_purge">Purge</a></li>
     <li><a href="/R_relics">Relics</a></li>
     <li><a href="/R_transactions">Transactions</a></li>
     </ul>

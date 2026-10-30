@@ -27,7 +27,7 @@
     <ul>
     <li><a href="/R_anomalies">Anomalies</a></li>
     <li><a href="/R_abilities">Abilities</a></li>
-    <li><a href="/R_techonolgy">Technology</a></li>
+    <li><a href="/R_technology">Technology</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>
