@@ -1,5 +1,6 @@
 @0
 E1 LRR 87.4a: "A unit can only use the 'Sustain Damage' ability if it is eligible to be hit. For example, a player cannot use a dreadnought's 'Sustain Damage' ability to cancel a hit from 'Anti-Fighter Barrage.'"
+E2 RulesPal, "How do Raid Formation and Waylay interact?": "With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."
 @1
 E2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat, including Anti-Fighter Barrage in the first round."
 @2

@@ -18,7 +18,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A non&ndash;fighter ship cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by an anti&ndash;fighter barrage roll.<sup>1</sup></li>
+    <li>A non&ndash;fighter ship cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card makes it eligible to be hit.<sup>1,2</sup></li>
     <li>Effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, which trigger on hits produced during space combat, may be used to cancel a hit produced by an anti&ndash;fighter barrage roll.<sup>2</sup></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     </ol>

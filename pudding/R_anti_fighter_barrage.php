@@ -5,9 +5,10 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A non&ndash;fighter ship cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by an anti&ndash;fighter barrage roll.<sup>1</sup>
+    <li>A non&ndash;fighter ship cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card makes it eligible to be hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4a: &ldquo;A unit can only use the &lsquo;Sustain Damage&rsquo; ability if it is eligible to be hit. For example, a player cannot use a dreadnought&rsquo;s &lsquo;Sustain Damage&rsquo; ability to cancel a hit from &lsquo;Anti-Fighter Barrage.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li>
     <li>Effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, which trigger on hits produced during space combat, may be used to cancel a hit produced by an anti&ndash;fighter barrage roll.<sup>2</sup>
         <ul>
