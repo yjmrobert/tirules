@@ -25,7 +25,12 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     // Extract the header text
     $page_title = 'Twilight Imperium Rule Help';
     if (preg_match('/<header>(.*?)<\/header>/i', $page_content, $matches)) {
-        $page_title = strip_tags($matches[1]) . ' - Twilight Imperium Rules';
+        // Header markup -> plain text: <br> becomes " / ", entities are decoded
+        // (htmlspecialchars below re-escapes once), decorative symbols are dropped.
+        $text = preg_replace('/<br\s*\/?>/i', ' / ', $matches[1]);
+        $text = html_entity_decode(strip_tags($text), ENT_QUOTES | ENT_HTML5, 'UTF-8');
+        $text = trim(preg_replace(['/\p{So}/u', '/\s+/u'], ['', ' '], $text));
+        $page_title = $text . ' - Twilight Imperium Rules';
     }
     
     // Output the complete page with dynamic title
