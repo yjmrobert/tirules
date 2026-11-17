@@ -9,8 +9,8 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships already in the system will be the defender.<sup>4</sup></li>
-    <ol><li>Resolving abilities will be by initiative order, starting with the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.<sup>*</sup></li></ol>
+    <li>When the <a href="/F_mahact">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships already in the system will be the defender.<sup>4</sup></li>
+    <ol><li>Resolving abilities will be by initiative order, starting with the <a href="/F_mahact">Mahact</a> player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.<sup>*</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

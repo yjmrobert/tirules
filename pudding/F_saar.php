@@ -18,7 +18,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 35.2d: &ldquo;If a player gains control of multiple planets &hellip; they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.&rdquo;</li>
         </ul></li>
-        <li>If the Saar player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.<sup>*</sup>
+        <li>If the Saar player has the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -77,7 +77,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup>
+    <li>The <a href="/F_creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Creuss use a wormhole token to get into an asteroid field protected by Saar&rsquo;s Chaos Mapping?&rdquo;: &ldquo;Creuss can place the token there but still can&rsquo;t activate the system.&rdquo;</li>
         </ul></li>
@@ -137,7 +137,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has only ground forces participating in the combat as ships due to the effect of their flagship, the Alastor, those ground forces will blockade and destroy any Floating Factories, even if those ground forces are on planets instead of in the space area.<sup>*</sup>
+    <ol><li>If the <a href="/F_nekro">Nekro</a> player has only ground forces participating in the combat as ships due to the effect of their flagship, the Alastor, those ground forces will blockade and destroy any Floating Factories, even if those ground forces are on planets instead of in the space area.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -171,7 +171,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If the Saar player&rsquo;s last ship in a system is destroyed, any Floating Factories in that system are blockaded and destroyed before the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a>, can be resolved to place fighters.<sup>6</sup>
+    <li>If the Saar player&rsquo;s last ship in a system is destroyed, any Floating Factories in that system are blockaded and destroyed before the <a href="/F_yin">Yin</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a>, can be resolved to place fighters.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved.&rdquo;</li>
         </ul></li>

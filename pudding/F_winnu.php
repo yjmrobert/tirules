@@ -29,7 +29,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.<sup>*</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -72,7 +72,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;they can also retreat to Lodor.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
+        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. The designer ruling says Creuss &ldquo;can use dimensional splicer regardless &hellip; because their flagship was in the system.&rdquo;</li>
         </ul></li>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can each Winnu flagship die score a hit?&rdquo;: &ldquo;it rolls one die per enemy non-fighter ship.&rdquo;</li>
         </ul></li>
-    <li>During a combat against the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup>
+    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="/F_nekro">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Winnu &lsquo;Salai Sai Corian&rsquo; flagship get additional dice for infantry participating in a fight due to the Nekro &lsquo;Alastor&rsquo; flagship? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Nekro ground forces fighting via the flagship count for other effects?&rdquo;: &ldquo;they count as non-fighter ships for things like the Winnu flagship&rsquo;s extra dice.&rdquo;</li>

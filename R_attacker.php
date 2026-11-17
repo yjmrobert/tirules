@@ -10,7 +10,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>The attacker&rsquo;s opponent is the defender.<sup>1,3</sup></li>
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships moved will be the attacker.<sup>4</sup></li>
+    <li>When the <a href="/F_mahact">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships moved will be the attacker.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

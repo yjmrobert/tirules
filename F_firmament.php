@@ -109,7 +109,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough_2:~:text=The%20Reaping">&#x2716; The Reaping</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Any trade goods that were on <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough:~:text=The%20Sowing"><i>The Sowing</i></a> are transferred to <i>The Reaping</i> when it flips.<sup>*</sup></li>
-    <li>The trade goods from <i>The Reaping</i> are gained as two separate gains. The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability for each.<sup>6</sup></li>
+    <li>The trade goods from <i>The Reaping</i> are gained as two separate gains. The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability for each.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

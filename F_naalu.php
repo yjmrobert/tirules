@@ -10,7 +10,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight">Foresight</a></h2>
     <ol class="note">
     <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be cancelled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>2</sup></li>
-    <li>The command token is not spent. The Naalu player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a>, nor will they gain a trade good if they have the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>*</sup></li>
+    <li>The command token is not spent. The Naalu player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a>, nor will they gain a trade good if they have the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>*</sup></li>
     <li>Ground forces may be transported.<sup>1,5</sup></li>
     <li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup></li>
     <li>If the destination system already contains one of the Naalu player&rsquo;s command tokens, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.<sup>5</sup></li>
@@ -27,7 +27,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Technologies:~:text=Neuroglaive">Neuroglaive</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.<sup>*</sup></li>
+    <li>If the <a href="/F_mahact">Mahact</a> player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>
@@ -58,20 +58,20 @@
     </ol>
     <li>The chosen player is considered to be the active player.<sup>4</sup></li>
     <li>If the chosen player is not the Naalu player, it is not considered their turn for game effects.<sup>2,4</sup></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player is chosen, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, other players may still play action cards during the action.<sup>*</sup></li></ol>
+    <ol><li>If the <a href="/F_yssaril">Yssaril</a> player is chosen, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, other players may still play action cards during the action.<sup>*</sup></li></ol>
     <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.<sup>*</sup></li>
     <li>If the chosen player is not the Naalu player, they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology to perform an additional action.<sup>4</sup></li>
     <ol>
         <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup></li>
-        <li>If the chosen player is able to perform a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> commander, to perform additional actions.<sup>*</sup></li>
+        <li>If the chosen player is able to perform a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander, to perform additional actions.<sup>*</sup></li>
     </ol>
     <li>If the chosen player is not the Naalu player, and they had previously passed, they are still considered passed during their action. They do not pass at the end of the action.<sup>*</sup></li>
     <ol>
         <li>The chosen player cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective at the end of their action.<sup>*</sup></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup></li>
+        <li>If the <a href="/F_yssaril">Yssaril</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup></li>
     </ol>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.<sup>1</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s turn, even though it is not considered their turn.<sup>4</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s turn, even though it is not considered their turn.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
@@ -107,7 +107,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.<sup>12</sup></li>
-    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup></li>
+    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;&Omega;</a> <sub>(Mech)</sub></h2>

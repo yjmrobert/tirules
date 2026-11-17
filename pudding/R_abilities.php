@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>An ability may be triggered during the timing window it was gained, if applicable. For example, if a player receives the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note at the start of their turn, they may use it immediately.<sup>1,2,5</sup>
+    <li>An ability may be triggered during the timing window it was gained, if applicable. For example, if a player receives the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note at the start of their turn, they may use it immediately.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?&rdquo;: &ldquo;Yes &mdash; it is still the start of your turn until you actually take an action.&rdquo;</li>
@@ -17,7 +17,7 @@
         <li><b>Unverified</b>: The page gives no citation for this introductory note.</li>
         </ul></li>
         <ol>
-            <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup>
+            <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken &hellip;?&rdquo;: &ldquo;Right after activating a system that already held your sleeper token; a sleeper placed later in that activation, say by Scanlink exploration, can&rsquo;t be awakened then.&rdquo;</li>
         </ul></li>
@@ -44,11 +44,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;during the action phase&rsquo; agent abilities use my action, and does &lsquo;a player&rsquo; include me?&rdquo;: &ldquo;&rsquo;A player&rsquo; includes you; only &lsquo;another player&rsquo; excludes you.&rdquo;</li>
         </ul></li>
-    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>5</sup>
+    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window.&rdquo;</li>
         </ul></li>
-    <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>*</sup>
+    <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>*</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Exotrireme II use its ability?&rdquo;: &ldquo;Each Exotrireme II has its own copy, resolved one at a time.&rdquo;</li>
         </ul></li></ol>
@@ -106,7 +106,7 @@
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll &hellip;? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: &ldquo;Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
         </ul></li>
-    <ol><li>This means abilities that reference unit abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup>
+    <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: &ldquo;Should these things be treated as if they were units &hellip; and thus combo with things like Argent commander, and be shut down by things like Crimson flagship? A: Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
         </ul></li></ol>

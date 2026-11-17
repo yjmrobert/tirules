@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
     <ol class="note">
-    <li>If the Hacan player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup></li>
+    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships">Guild Ships</a></h2>
@@ -35,7 +35,7 @@
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup></li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.<sup>2</sup></li>
-    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup></li>
+    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>

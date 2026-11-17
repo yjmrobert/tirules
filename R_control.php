@@ -27,7 +27,7 @@
     <ol class="note">
     <li>Control tokens are not component limited.<sup>1</sup></li>
     <li>Different players may control different planets in the same system.<sup>2</sup></li>
-    <li>If a player is given another player&rsquo;s planet card, such as with the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player&rsquo;s mech, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a>, they gain control of that planet.<sup>2</sup></li>
+    <li>If a player is given another player&rsquo;s planet card, such as with the <a href="/F_hacan">Hacan</a> player&rsquo;s mech, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a>, they gain control of that planet.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

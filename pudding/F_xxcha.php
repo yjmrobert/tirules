@@ -171,7 +171,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Xxcha can vote despite a rider or Political Secret.&rdquo;</li>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha alliance: &ldquo;Each planet you exhaust to cast votes provides 1 additional vote.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may vote.<sup>2,14</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Through the Xxcha alliance even the Nekro can vote.&rdquo;</li>
         </ul></li>

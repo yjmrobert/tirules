@@ -13,7 +13,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook: &ldquo;You cannot produce this unit unless you own its unit upgrade technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook: &ldquo;You cannot produce this unit unless you own its unit upgrade technology.&rdquo;</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player may do so without owning their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+    <ol><li>The <a href="/F_muaat">Muaat</a> player may do so without owning their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;the Prototype War Sun is a war sun.&rdquo;</li>
         </ul></li></ol>

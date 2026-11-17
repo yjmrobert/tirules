@@ -46,7 +46,7 @@
     <ol class="note">
     <li>The action card that the Ral Nel player gives to another player must be one of the two that they drew, and not another action card from their hand.<sup>*</sup></li>
     <li>The ability of Kan Kip Rel resolves fully before the action card hand limit is checked.<sup>6</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player uses this ability, they draw three action cards instead of two due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> faction ability. They discard one card from those drawn or from their hand, then take one of the drawn cards and give another to another player, keeping the third if it was not discarded.<sup>6</sup></li>
+    <li>If the <a href="/F_yssaril">Yssaril</a> player uses this ability, they draw three action cards instead of two due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> faction ability. They discard one card from those drawn or from their hand, then take one of the drawn cards and give another to another player, keeping the third if it was not discarded.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Leaders:~:text=Watchful%20Ojz">Watchful Ojz</a> <sub>(Commander)</sub></h2>

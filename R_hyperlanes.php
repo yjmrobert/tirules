@@ -14,7 +14,7 @@
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
     <li>&ldquo;Adjacent for all purposes&rdquo; includes:<sup>1</sup></li>
     <ol>

@@ -28,7 +28,7 @@
     <li>Action cards are dealt out in initiative order. Though it rarely matters in practice.<sup>2</sup></li>
     <ol>
         <li>If a player has the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator"><i>Neural Motivator</i></a> technology, they will draw both their action cards before the next player in order draws an action card.<sup>*</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player will draw all of their action cards, and discard for their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, before the next player in order draws an action card.<sup>*</sup></li>
+        <li>The <a href="/F_yssaril">Yssaril</a> player will draw all of their action cards, and discard for their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, before the next player in order draws an action card.<sup>*</sup></li>
     </ol>
     <li>If a player&rsquo;s action card is cancelled, usually via a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card, then if that player has a second copy of that action card, they may play it.<sup>2,5</sup></li>
     <li>A player cannot use action cards that destroy units, such as <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot"><i>Lucky Shot</i></a>, against their own units.<sup>1,2,5</sup></li>

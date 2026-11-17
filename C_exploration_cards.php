@@ -30,7 +30,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup></li>
+    <li>The <a href="/F_xxcha">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Derelict%20Vessel">Derelict Vessel</a></h2>
@@ -89,7 +89,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a></h2>
     <ol class="note">
     <li>The active player chooses which side of the Ion Storm token is initially face up.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships.<sup>*</sup></li>
+    <li>The <a href="/F_creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships.<sup>*</sup></li>
     <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type.<sup>2,4</sup></li>
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, the Ion Storm token is not flipped.<sup>*</sup></li>
     <li>If the Ion Storm token would be placed in an entropic scar, the <i>Ion Storm</i> card is still placed in the common play area, and the token is discarded.<sup>6</sup></li>

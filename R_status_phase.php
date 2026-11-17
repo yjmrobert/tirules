@@ -28,7 +28,7 @@
     <li>A player cannot score public objectives if that player does not control each planet in their home system.<sup>1,2,3</sup></li>
     <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.<sup>*</sup></li>
     <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup></li>
-    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

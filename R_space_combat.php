@@ -55,7 +55,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed and returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup></li>
+    <li>The <a href="/F_empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology allows a player to retreat into a system that does not contain their ships or a planet they control.<sup>2,8</sup></li>
     <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.<sup>2</sup></li>
@@ -64,9 +64,9 @@
     <li>Capacity is checked after the winner of a space combat is determined.<sup>1</sup></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     <li>When a player retreats, their fighters that remain in the space area of the active system are removed, even if that system contains one of their space docks.<sup>2,5</sup></li>
-    <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup></li>
+    <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup></li>
     <li>If a space combat reaches a state where neither player can win, the attacker must retreat. If the attacker cannot retreat, their units in that combat are destroyed.<sup>2</sup></li>
-    <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup></li>
+    <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup></li>
     <li>Ground forces transported by retreating ships, or moved with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, cannot land on planets in the system they move to; they remain in the space area.<sup>2</sup></li>
     </ol>
 

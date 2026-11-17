@@ -34,7 +34,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 95.1b: &ldquo;Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board.&rdquo; Units not yet picked up are not being transported.</li>
         </ul></li>
-    <li>A system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift &hellip;?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>

@@ -30,7 +30,7 @@
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.<sup>1,2,5</sup></li>
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>*</sup></li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.<sup>1,2,5</sup></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup></li></ol>
+    <ol><li>If the <a href="/F_argent">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup></li></ol>
     <li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after another player plays <i>Bribery</i>.<sup>*</sup></li>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup></li>
     <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup></li>
@@ -70,7 +70,7 @@
     <li>The effect of a successful <i>Construction Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Construction Rider</i>.<sup>1</sup></li>
     <li>If a player wishes to place a space dock, but there are none left in their reinforcements, they may remove a space dock from any system that does not contain one of their command tokens and place that instead.<sup>1,2</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup></li>
+    <li>The <a href="/F_saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup></li>
     <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup></li>
     </ol>
 
@@ -85,7 +85,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat">Coup D&rsquo;etat</a></h2>
     <ol class="note">
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>6</sup></li>
-    <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup></li>
+    <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="/F_winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End">Courageous to the End</a></h2>
@@ -115,7 +115,7 @@
     <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.<sup>*</sup></li>
     <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda.<sup>4</sup></li>
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player uses their commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup></li></ol>
+    <ol><li>If the <a href="/F_xxcha">Xxcha</a> player uses their commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Decoy%20Operation">Decoy Operation</a></h2>
@@ -155,7 +155,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup></li>
+    <li>If the <a href="/F_ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup></li>
     <li><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li>
     <li><i>Disable</i> does not affect the <b>Space Cannon Offense</b> step, and is not played until the start of the <b>Invasion</b> step.<sup>2</sup></li>
     </ol>
@@ -205,7 +205,7 @@
         <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.<sup>*</sup></li>
         <li>If all moving ships are lost to a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.<sup>2</sup></li>
     </ol>
-    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup></li>
+    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Exploration%20Probe">Exploration Probe</a></h2>
@@ -266,23 +266,23 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
     <ol class="note">
     <li><i>Ghost Squad</i> is played after the active player has assigned which planet each of their ground forces are being committed to.<sup>10</sup></li>
-    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup></li>
+    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup></li>
     <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>*</sup></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup></li>
+    <li>The <a href="/F_ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup></li>
     <li>A player may move zero ground forces with <i>Ghost Squad</i>.<sup>10</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a></h2>
     <ol class="note">
     <li>The speaker will still vote last.<sup>10</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player will still vote before all other players.<sup>*</sup></li>
+    <li>The <a href="/F_argent">Argent</a> player will still vote before all other players.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election &Omega;</a></h2>
     <ol class="note">
     <li>The speaker votes before the player that played <i>Hack Election &Omega;</i>.<sup>*</sup></li>
     <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>*</sup></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup></li>
+    <li>If the <a href="/F_argent">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Harness%20Energy">Harness Energy</a></h2>
@@ -316,9 +316,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate">Infiltrate</a></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player plays <i>Infiltrate</i> before they resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate"><sc>Assimilate</sc></a> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup></li>
+    <li>If the <a href="/F_lizix">L1Z1X</a> player plays <i>Infiltrate</i> before they resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate"><sc>Assimilate</sc></a> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup></li>
     <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.<sup>1,2,4</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup></li></ol>
+    <ol><li>The <a href="/F_ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a></h2>
@@ -422,7 +422,7 @@
     <li>A player may move ships through a nebula. Ships moving out of a nebula retain their normal move value.<sup>*</sup></li>
     <li>A player may move ships into a supernova. After moving into, those ships may remain there and move out during a later action without harm.<sup>2</sup></li>
     <li>Other players cannot ignore the effect of anomalies during this tactical action.<sup>*</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player will still be affected by anomalies if they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>*</sup></li></ol>
+    <ol><li>The <a href="/F_naalu">Naalu</a> player will still be affected by anomalies if they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Overrule">Overrule</a></h2>
@@ -485,7 +485,7 @@
     <li>It is not considered the turn of the player who played <i>Puppets On A String</i> for game effects.<sup>6</sup></li>
     <ol>
         <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.<sup>6</sup></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player plays <i>Puppets On A String</i>, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> faction technology, passed players may still play action cards during the action.<sup>6</sup></li>
+        <li>If the <a href="/F_yssaril">Yssaril</a> player plays <i>Puppets On A String</i>, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> faction technology, passed players may still play action cards during the action.<sup>6</sup></li>
     </ol>
     <li>The player who played <i>Puppets On A String</i> cannot resolve transactions during that action, as it is not their turn.<sup>6</sup></li>
     <li>Abilities that end a player&rsquo;s turn, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a>, do not prevent the action from being performed, and cannot fully resolve, as there is no turn to end.<sup>6</sup></li>
@@ -493,7 +493,7 @@
     <li>The active player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a> technology to perform an additional action.<sup>6</sup></li>
     <ol>
         <li>The active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card to perform an additional action.<sup>6</sup></li>
-        <li>If the active player performs a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> commander, to perform additional actions.<sup>6</sup></li>
+        <li>If the active player performs a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander, to perform additional actions.<sup>6</sup></li>
     </ol>
     <li>The active player is still considered passed during their action. They do not pass at the end of the action.<sup>*</sup></li>
     <ol><li>The active player cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective at the end of their action.<sup>*</sup></li></ol>
@@ -560,7 +560,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Rout">Rout</a></h2>
     <ol class="note">
     <li>A player cannot announce a retreat if there is not at least one eligible system to retreat to.<sup>1,2</sup></li>
-    <li>A player cannot announce a retreat from the space combat initiated by the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2</sup></li>
+    <li>A player cannot announce a retreat from the space combat initiated by the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage">Sabotage</a></h2>
@@ -701,7 +701,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
-    <li><i>Veto</i>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
+    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <ol><li>If <i>Veto</i> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup></li></ol>
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     <li>A second <i>Veto</i> may be used on the replacement agenda.<sup>*</sup></li>

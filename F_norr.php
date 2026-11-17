@@ -25,7 +25,7 @@
     <ol><li>The N&rsquo;orr cannot choose their own ships as targets.<sup>*</sup></li></ol>
     <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     <li>If a player retreats, the N&rsquo;orr player will be unable to use the ability of an Exotrireme II to destroy an opponent&rsquo;s ship.<sup>2</sup></li>
-    <li>If the N&rsquo;orr player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
+    <li>If the N&rsquo;orr player is in a combat with the <a href="/F_yin">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
     <li>An Exotrireme II that used its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup></li>
     </ol>
 
@@ -46,7 +46,7 @@
     <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup></li>
     <li>The N&rsquo;orr player may only commit ground forces as the active player.<sup>2,4</sup></li>
     <li>Only the active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup></li>
-    <ol><li>This prevents the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
+    <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup></li>
     <ol>
         <li>If another player plays the N&rsquo;orr player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup></li>

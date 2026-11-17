@@ -13,15 +13,15 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player must still be neighbors with another player on the game board to resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against that player.<sup>*</sup>
+    <ol><li>For example, the <a href="/F_mentak">Mentak</a> player must still be neighbors with another player on the game board to resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against that player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability and <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> promissory note provide no benefit while playing with the <i>Age of Commerce</i> event. However, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> may still be played as a component action.<sup>*</sup>
+    <li>The <a href="/F_hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability and <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> promissory note provide no benefit while playing with the <i>Age of Commerce</i> event. However, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> may still be played as a component action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player receives commodities from a player with their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact"><i>Dark Pact</i></a> promissory note in their play area equal to that player&rsquo;s printed commodity value, then both players will gain one trade good. This need not be all of the giving player&rsquo;s current commodities.<sup>*</sup>
+    <li>If the <a href="/F_empyrean">Empyrean</a> player receives commodities from a player with their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact"><i>Dark Pact</i></a> promissory note in their play area equal to that player&rsquo;s printed commodity value, then both players will gain one trade good. This need not be all of the giving player&rsquo;s current commodities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -45,7 +45,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>New tiles cannot be placed adjacent to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> home systems, the wormhole nexus, or systems that comprise The Fracture.<sup>7</sup>
+    <li>New tiles cannot be placed adjacent to the <a href="/F_creuss">Creuss</a> or <a href="/F_rebellion">Rebellion</a> home systems, the wormhole nexus, or systems that comprise The Fracture.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Age of Exploration: &ldquo;New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles.&rdquo;</li>
         </ul></li>
@@ -53,7 +53,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Age%20of%20Fighters">Age of Fighters</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player still captures ships that they destroy via their various abilities. These ships are purged when they would be returned to their original owner.<sup>*</sup>
+    <li>The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player still captures ships that they destroy via their various abilities. These ships are purged when they would be returned to their original owner.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -117,33 +117,33 @@
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;that player places 3 neutral infantry on that system&rsquo;s planets, split as evenly as possible.&rdquo; The placing player&rsquo;s choice is not stated.</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) in the equidistant, and place the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) in the equidistant, and place the <a href="/F_creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Minor Factions: &ldquo;When the Ghosts of Creuss or Crimson Rebellion faction is chosen as a minor faction, the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) in the equidistant, and place the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> home system (tile 118) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) in the equidistant, and place the <a href="/F_rebellion">Rebellion</a> home system (tile 118) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> reference card, then they select a home system at random from amongst the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a>, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a>.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_keleres">Keleres</a> reference card, then they select a home system at random from amongst the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Minor Factions setup: &ldquo;If Keleres is a minor faction, choose one of its three possible home systems at random.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Should another player have the reference card for that faction, then they take that home system, and the player with the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> reference card places a different home system at random.<sup>*</sup>
+        <li>Should another player have the reference card for that faction, then they take that home system, and the player with the <a href="/F_keleres">Keleres</a> reference card places a different home system at random.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The pool of player factions and minor factions cannot contain all four of the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a>, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a>, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a>.<sup>*</sup>
+        <li>The pool of player factions and minor factions cannot contain all four of the <a href="/F_argent">Argent</a>, <a href="/F_keleres">Keleres</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>When a player controls each planet in this system, they take the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> alliance card, granting them the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> commander. They are not granted the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a>, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> commanders.<sup>*</sup>
+        <li>When a player controls each planet in this system, they take the <a href="/F_keleres">Keleres</a> alliance card, granting them the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander. They are not granted the ability of the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> or <a href="/F_xxcha">Xxcha</a> commanders.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> commander.<sup>*</sup>
+    <li>If <a href="/F_mahact">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the <a href="/F_mahact">Mahact</a> commander.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -180,7 +180,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The minor faction systems may be targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic or with the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup>
+        <li>The minor faction systems may be targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic or with the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -222,7 +222,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player has <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, their commander, unlocked, they will be able to vote after removing their control token from <i>Stellar Atomics</i>.<sup>*</sup>
+    <li>If the <a href="/F_xxcha">Xxcha</a> player has <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, their commander, unlocked, they will be able to vote after removing their control token from <i>Stellar Atomics</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -235,7 +235,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player cannot use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability to target the commodities on planets.<sup>*</sup>
+        <li>The <a href="/F_mentak">Mentak</a> player cannot use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability to target the commodities on planets.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -258,7 +258,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Units that are captured without being destroyed, such as by the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities. If another player gains control of the home system planet holding the commodities, they also take those commodities.<sup>2</sup>
+    <li>Units that are captured without being destroyed, such as by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities. If another player gains control of the home system planet holding the commodities, they also take those commodities.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Total War variant&rsquo;s commodity tally work?&rdquo;: &ldquo;Whoever takes that home system takes the stored commodities too. Units captured without being destroyed, as by the Vuil&rsquo;raith hero, add nothing.&rdquo;</li>
         </ul></li>
@@ -278,7 +278,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Wild, Wild Galaxy: &ldquo;if there are no planets in a player&rsquo;s home system, they still control every planet in their home system and can score public objectives.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;If a player&rsquo;s home system is replaced by a supernova, it is still that player&rsquo;s home system.&rdquo;</li>
         </ul></li>

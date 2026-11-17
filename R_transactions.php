@@ -9,7 +9,7 @@
     <ol><li data-src="1,2,3">A player can resolve a transaction at any time during their turn, even during a combat.</li></ol>
     <li data-src="1,2,3,8">To resolve a transaction, a player gives any number of trade goods and commodities and up to one promissory note to a neighbor in exchange for any number of trade goods, commodities, and relic fragments, and up to one promissory note.</li>
     <li data-src="1,2">Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens.</li>
-    <ol><li data-src="1,2">The Emirates of <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> can also exchange action cards with other players as part of their transactions.</li></ol>
+    <ol><li data-src="1,2">The Emirates of <a href="/F_hacan">Hacan</a> can also exchange action cards with other players as part of their transactions.</li></ol>
     <li data-src="1,2">A transaction does not have to be even. A player may exchange components of unequal value or give components without receiving something in return.</li>
     <ol><li data-src="1">The players agree on the terms of the transaction before exchanging any components. After the components are traded, the transaction cannot be undone.</li></ol>
     <li data-src="1,3">Players can resolve a transaction as part of a deal.</li>

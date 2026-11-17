@@ -27,7 +27,7 @@
     <ol class="note">
     <li>Units are returned as soon as a space dock is blockaded.<sup>1,2</sup></li>
     <li>A captured unit may only be returned to the player that originally owned it, and not to another player.<sup>1</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player and the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player are able to capture units by copying the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s abilities, but they will be unable to spend the captured units.<sup>*</sup></li>
+    <li>The <a href="/F_nekro">Nekro</a> player and the <a href="/F_yssaril">Yssaril</a> player are able to capture units by copying the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s abilities, but they will be unable to spend the captured units.<sup>*</sup></li>
     <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.<sup>4</sup></li>
     <li>If a player captures their own units, they cannot be returned to that player&rsquo;s reinforcements, unless instructed to do so by a game effect.<sup>*</sup></li>
     <li>If a player has all of their units of one type on the game board or captured, and so have none in their reinforcements, and would place a unit of that type, they may remove a unit from any system on the game board that does not contain one of their command tokens and place that unit in their reinforcements, before placing that unit on the game board.<sup>1</sup></li>

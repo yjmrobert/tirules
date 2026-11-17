@@ -9,11 +9,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;For: after you research a technology you must destroy one of your non-fighter ships.&rdquo; The trigger is researching.</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.<sup>2</sup>
+    <ol><li>The <a href="/F_nekro">Nekro</a> player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>*</sup>
+    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;a copied technology counts with its colour and type.&rdquo;</li>
         </ul></li>
@@ -42,7 +42,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Armed%20Forces%20Standardization">Armed Forces Standardization</a></h2>
     <ol class="note">
-    <li>If the elected player is the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player, they choose which command tokens to remove from their fleet pool. Any other players&rsquo; command tokens removed are returned to those players&rsquo; reinforcements.<sup>2</sup>
+    <li>If the elected player is the <a href="/F_mahact">Mahact</a> player, they choose which command tokens to remove from their fleet pool. Any other players&rsquo; command tokens removed are returned to those players&rsquo; reinforcements.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Armed Forces Standardization affect Mahact holding other players&rsquo; fleet tokens?&rdquo;: &ldquo;Mahact chooses which tokens to remove, and other players&rsquo; tokens removed go back to their owners&rsquo; reinforcements.&rdquo;</li>
         </ul></li>
@@ -58,7 +58,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
     <ol class="note">
-    <li>Mechs lose all of their printed abilities other than <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, including <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a>, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
+    <li>Mechs lose all of their printed abilities other than <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, including <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a>, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Under Articles of War, do mechs lose Bombardment, Space Cannon and Production too?&rdquo;: &ldquo;Yes &mdash; mechs lose all their printed abilities except Sustain Damage. Their cost and combat stats stay, so they still fight, and a mech that rolls 2 dice still does.&rdquo;</li>
         </ul></li>
@@ -134,7 +134,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;it does not count toward the secret objective total of the player who originally owned it.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian">Firmament</a> player has their control token on the elected secret objective, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
+    <li>If the <a href="/F_firmament">Firmament</a> player has their control token on the elected secret objective, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? &hellip; A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
         </ul></li>
@@ -170,7 +170,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may own and resolve Committee Formation, even though they cannot vote.<sup>2</sup>
+    <li>The <a href="/F_nekro">Nekro</a> player may own and resolve Committee Formation, even though they cannot vote.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is Committee Formation used &hellip;?&rdquo;: &ldquo;The Nekro can hold and use it despite not voting.&rdquo;</li>
         </ul></li>
@@ -194,7 +194,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The Titans of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a>&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.<sup>*</sup>
+    <ol><li>The Titans of <a href="/F_ul">Ul</a>&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -259,7 +259,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a></h2>
     <ol class="note">
-    <li>Only combat rolls may be rerolled with The Crown of Thalnos; anti&ndash;fighter barrage and bombardment rolls, including those from the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player&rsquo;s Harrow faction ability, cannot. A player may reroll dice for units that would otherwise be destroyed, as hits are not assigned until after rolling; each unit whose rerolled die does not produce a hit is destroyed, even if its other dice produced hits.<sup>2</sup>
+    <li>Only combat rolls may be rerolled with The Crown of Thalnos; anti&ndash;fighter barrage and bombardment rolls, including those from the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Harrow faction ability, cannot. A player may reroll dice for units that would otherwise be destroyed, as hits are not assigned until after rolling; each unit whose rerolled die does not produce a hit is destroyed, even if its other dice produced hits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which rolls can The Crown of Thalnos reroll?&rdquo;: &ldquo;Only combat rolls, not Anti-Fighter Barrage, Bombardment (L1Z1X Harrow included) &hellip; You may reroll units that look doomed, because hits aren&rsquo;t assigned until rolling ends; any unit whose reroll fails to hit is destroyed, even if its other dice hit.&rdquo;</li>
         </ul></li>
@@ -276,7 +276,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Economic%20Equality">Economic Equality</a></h2>
     <ol class="note">
-    <li>If the &ldquo;For&rdquo; outcome of <i>Economic Equality</i> is resolved, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against each of their neighbors.<sup>*</sup>
+    <li>If the &ldquo;For&rdquo; outcome of <i>Economic Equality</i> is resolved, the <a href="/F_mentak">Mentak</a> player may resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against each of their neighbors.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -284,7 +284,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban">Enforced Travel Ban</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player.<sup>2</sup>
+    <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Creuss&rsquo;s Quantum Entanglement connect &hellip;?&rdquo;: &ldquo;no game effect, Enforced Travel Ban included, can stop that.&rdquo;</li>
         </ul></li>
@@ -314,7 +314,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions">Executive Sanctions</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player.<sup>*</sup>
+    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -322,11 +322,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Fleet Regulations</i> law does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.<sup>2</sup>
+    <li>The effect of the <i>Fleet Regulations</i> law does not prevent the <a href="/F_letnev">Letnev</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Fleet Regulations passes &hellip;&rdquo;: &ldquo;Abilities that raise fleet limits, like Letnev&rsquo;s, still add on top.&rdquo;</li>
         </ul></li>
-    <li>If the <i>Fleet Regulations</i> law is in play and the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup>
+    <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
         </ul></li>
@@ -495,7 +495,7 @@
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> The overturned designer ruling: &ldquo;&rsquo;replacing&rsquo; does not trigger the L1Z1X Minister of Industry, only effects that say &lsquo;place&rsquo; do.&rdquo;</li>
         </ul></li>
-    <li>Moving the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup>
+    <li>Moving the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What triggers Minister of Industry?&rdquo;: &ldquo;A Saar Floating Factory moving into a system doesn&rsquo;t trigger it.&rdquo;</li>
         </ul></li>
@@ -527,7 +527,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player owns <i>Minister of Policy</i>, they will use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>.<sup>1</sup>
+    <ol><li>If the <a href="/F_yssaril">Yssaril</a> player owns <i>Minister of Policy</i>, they will use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The Yssaril&rsquo;s &lsquo;Scheming&rsquo; ability, however, is triggered each time that action cards are drawn.&rdquo;</li>
         </ul></li></ol>
@@ -598,7 +598,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>When the elected law is treated as revealed, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup>
+        <li>When the elected law is treated as revealed, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Yes, the other Agenda can be Quashed.&rdquo;</li>
@@ -655,7 +655,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Nexus%20Sovereignty">Nexus Sovereignty</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player.<sup>*</sup>
+    <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -699,7 +699,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution">Public Execution</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player&rsquo;s Crafty faction ability does not prevent them from discarding their action cards if they are elected by Public Execution, as the discard is not caused by the hand limit.<sup>2</sup>
+    <li>The <a href="/F_yssaril">Yssaril</a> player&rsquo;s Crafty faction ability does not prevent them from discarding their action cards if they are elected by Public Execution, as the discard is not caused by the hand limit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution &hellip;, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;The discard comes from being elected, not from the hand limit, so Yssaril must discard too.&rdquo;</li>
         </ul></li>
@@ -711,25 +711,25 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Do pre-printed units count as &lsquo;technologies&rsquo;? Specifically, does Prototype War Sun I count as a technology? &hellip; Dane: They do not. Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Same ruling: &ldquo;Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
-        <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup>
+        <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="/F_muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling, which asked whether it &ldquo;count[s] against the &lsquo;Against&rsquo; effects of Publicize Weapons Schematics&rdquo;: &ldquo;They do not.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has copied a faction&ndash;specific war sun unit upgrade technology with <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a>, they own a war sun technology for the purposes of <i>Publicize Weapon Schematics</i>.<sup>2</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied a faction&ndash;specific war sun unit upgrade technology with <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a>, they own a war sun technology for the purposes of <i>Publicize Weapon Schematics</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can the Nekro copy with Valefar Assimilator?&rdquo;: &ldquo;Faction technology cards another player has actually researched, unit upgrades included.&rdquo;</li>
         </ul></li>
@@ -885,7 +885,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup>
+    <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once.&rdquo;</li>
         </ul></li>
@@ -946,16 +946,16 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup>
+        <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup>
+        <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup>
+    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

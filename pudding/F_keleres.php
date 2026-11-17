@@ -147,7 +147,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;They will remain in play until their trigger timing.&rdquo;</li>
         </ul></li>
-    <li>When resolving <i>Executive Order</i>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player does not vote first, but still casts additional votes.<sup>2,6</sup>
+    <li>When resolving <i>Executive Order</i>, the <a href="/F_argent">Argent</a> player does not vote first, but still casts additional votes.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Argent does not vote first but does still cast additional votes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Argent&rsquo;s Zeal gives its extra votes but not the vote-first part.&rdquo;</li>
@@ -209,7 +209,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;Yes.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup>
+    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Terraform can be placed on it.&rdquo;</li>
         </ul></li>

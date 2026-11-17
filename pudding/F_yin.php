@@ -17,7 +17,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Yin player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup>
+    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the <a href="/F_naalu">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -54,7 +54,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Yin player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup>
+    <li>If the Yin player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When both players have end-of-round abilities, like Yin&rsquo;s Devotion and Sardakk&rsquo;s Exotrireme II, who goes first?&rdquo;: &ldquo;The active player resolves one first, then the players alternate one ability at a time.&rdquo;</li>
         </ul></li>
@@ -141,7 +141,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge">Van Hauge</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories present in the system.<sup>*</sup>
+    <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories present in the system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -326,7 +326,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; Yin breakthrough gains the card; ability usable without unlock.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian">Firmament</a> and the <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian">Obsidian</a> each have their own alliance card.<sup>6</sup>
+    <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;When the Obsidian isn&rsquo;t being played, and a game effect instructs a player to gain their alliance ability &hellip;? A: Each has their own alliance card.&rdquo;</li>
         </ul></li>

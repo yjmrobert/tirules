@@ -11,7 +11,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Milty, 08/02/2018): &ldquo;During a combat, the fighters would persist until the end of combat&rdquo; Fighters persist through combat despite capacity.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup>
+    <li>The <a href="/F_empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ships retreat or Skilled Retreat into a nebula?&rdquo;: &ldquo;Disputed. A 2019 developer ruling relayed by players says yes &hellip; Others &hellip; say only the Empyrean can.&rdquo; Either reading allows the Empyrean.</li>
         </ul></li>
@@ -53,7 +53,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to units that can&rsquo;t go with a retreat?&rdquo;: &ldquo;Fighters and ground forces in the space area that the retreating ships can&rsquo;t carry are destroyed, even if a space dock could have supported them.&rdquo; RulesPal says destroyed; LRR 78.7b says removed.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jul 18, 2018): &ldquo;They&rsquo;d be destroyed.&rdquo;</li>
         </ul></li>
-    <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
+    <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat).&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Ambush work?&rdquo;: &ldquo;At the start of space combat, before Anti-Fighter Barrage.&rdquo;</li>
@@ -63,7 +63,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens if neither side can ever win a space combat?&rdquo;: &ldquo;The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If neither side has the potential to win, the attacker must retreat.&rdquo;</li>
         </ul></li>
-    <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup>
+    <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships that announced a retreat still roll that round?&rdquo;: &ldquo;Yes &mdash; announcing a retreat doesn&rsquo;t stop you firing; you roll normally and then leave in the retreat step. Retreating in that step also escapes Exotrireme II.&rdquo;</li>
         </ul></li>

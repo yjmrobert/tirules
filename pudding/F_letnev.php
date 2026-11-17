@@ -136,7 +136,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -178,7 +178,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>All effects that modify a ship&rsquo;s move value, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup>
+    <li>All effects that modify a ship&rsquo;s move value, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology and the <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement.&rdquo;</li>
         </ul></li>
@@ -190,7 +190,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
+    <li>If the <a href="/F_nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? &hellip; A: Yes, Barony can assign to a&rdquo; new ship.</li>
         </ul></li>

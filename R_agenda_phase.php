@@ -53,7 +53,7 @@
     <li>Each pair of players may resolve one transaction during each agenda.<sup>1,2,3</sup></li>
     <li>Only planets ready at the end of the phase. Technologies, leaders, relics, and other cards do not.<sup>2</sup></li>
     <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
-    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
+    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
     <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup></li>
     <li>Players may exhaust planets during the agenda phase for purposes other than casting votes, such as spending resources or using technology specialties. Planets exhausted this way cannot then be used to cast votes.<sup>2</sup></li>
     </ol>

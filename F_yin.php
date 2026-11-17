@@ -6,7 +6,7 @@
     <li><sc>Indoctrination</sc> is limited to once per ground combat.<sup>2</sup></li>
     <li>If an invasion involves ground combats on multiple planets, <sc>Indoctrination</sc> may be used at the start of each of them.<sup>2</sup></li>
     <li>If the Yin player&rsquo;s opponent only has mechs in the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li>
-    <ol><li>If the Yin player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li></ol>
+    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the <a href="/F_naalu">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li></ol>
     <li>If the last of a player&rsquo;s ground forces in a ground combat are removed by <sc>Indoctrination</sc>, that player loses the combat immediately.<sup>2</sup></li>
     </ol>
 
@@ -19,7 +19,7 @@
     </ol>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2,5</sup></li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.<sup>*</sup></li>
-    <li>If the Yin player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
+    <li>If the Yin player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
     <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup></li>
     </ol>
 
@@ -59,7 +59,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge">Van Hauge</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories present in the system.<sup>*</sup></li>
+    <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories present in the system.<sup>*</sup></li>
     <li>The <i>Van Hauge</i> will not destroy ground forces in the system. However, each player must then remove ground forces, if necessary, from the space area of that system to meet capacity limits.<sup>*</sup></li>
     </ol>
 
@@ -130,7 +130,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Breakthrough:~:text=Yin%20Ascendant">Yin Ascendant</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Yin player may use the alliance ability as though that faction&rsquo;s commander were unlocked.<sup>7</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian">Firmament</a> and the <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian">Obsidian</a> each have their own alliance card.<sup>6</sup></li>
+    <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

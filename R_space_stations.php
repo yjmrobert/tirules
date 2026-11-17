@@ -11,7 +11,7 @@
     <ol>
         <li>If another player moves ships into that system, they will not gain control of that space station unless they win the resulting space combat.<sup>7</sup></li>
         <li>If the player who controls the space station moves their ships out of the system, they retain control of that space station.<sup>2,7</sup></li>
-    <li>Space stations are not planets, so attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup></li>
+    <li>Space stations are not planets, so attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup></li>
     <li>A player does not lose control of a space station if a neutral ship is placed in its system, as there is no neutral player.<sup>6</sup></li>
     <li>A player whose ships are in a space station&rsquo;s system with only neutral units gains control of that space station before resolving combat against those neutral units, as there is no neutral player.<sup>6</sup></li>
     <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>

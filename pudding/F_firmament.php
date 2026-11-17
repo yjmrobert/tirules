@@ -161,7 +161,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The trade goods from <i>The Reaping</i> are gained as two separate gains. The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability for each.<sup>6</sup>
+    <li>The trade goods from <i>The Reaping</i> are gained as two separate gains. The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability for each.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains.&rdquo;</li>
         </ul></li>

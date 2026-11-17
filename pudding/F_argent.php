@@ -42,11 +42,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> faction technology, this will not reduce the number of ships that the Argent player chooses.<sup>2</sup>
+        <li>If the <a href="/F_letnev">Letnev</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> faction technology, this will not reduce the number of ships that the Argent player chooses.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
         </ul></li>
-        <li>The ships cannot be repaired by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player&rsquo;s flagship, the Dynamo.<sup>*</sup>
+        <li>The ships cannot be repaired by the effect of the <a href="/F_empyrean">Empyrean</a> player&rsquo;s flagship, the Dynamo.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -59,7 +59,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li></ol>
-    <li>If the Argent player is in combat with the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
+    <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the <a href="/F_nekro">Nekro</a> player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

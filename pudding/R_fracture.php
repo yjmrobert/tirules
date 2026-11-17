@@ -34,7 +34,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;each of its systems is considered to be on the edge of the game board.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;every Fracture system also counts as on the edge.&rdquo;</li>
         </ul></li>
-    <li>While The Fracture is not in play, its systems, such as the one containing Styx, are not legal targets for abilities such as those of the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s and <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player&rsquo;s heroes.<sup>6</sup>
+    <li>While The Fracture is not in play, its systems, such as the one containing Styx, are not legal targets for abilities such as those of the <a href="/F_yin">Yin</a> player&rsquo;s and <a href="/F_lizix">L1Z1X</a> player&rsquo;s heroes.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can the Yin or L1Z1X hero be used on Styx if the Fracture isn&rsquo;t in Play? A: No. The Fracture is not in play and not a legal target.&rdquo;</li>
         </ul></li>
@@ -42,7 +42,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Thunder&rsquo;s Edge is placed, then you place the final Ingress in the Thunder&rsquo;s Edge system.&rdquo;</li>
         </ul></li>
-    <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
+    <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> RAW/Community: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
         </ul></li>
@@ -67,7 +67,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;must choose three systems &hellip; if able.&rdquo;</li>
         </ul></li></ol>
-    <li>If a different game effect places The Fracture into play, or The Fracture enters play because of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s breakthrough (which does not have a synergy), then the player that caused The Fracture to enter play chooses one planet with a technology specialty for each of the four colors of technology, and places ingress tokens in each of those planets&rsquo; systems.<sup>2,7</sup>
+    <li>If a different game effect places The Fracture into play, or The Fracture enters play because of the <a href="/F_nekro">Nekro</a> player&rsquo;s breakthrough (which does not have a synergy), then the player that caused The Fracture to enter play chooses one planet with a technology specialty for each of the four colors of technology, and places ingress tokens in each of those planets&rsquo; systems.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets&rsquo; systems.&rdquo;</li>
         </ul></li>

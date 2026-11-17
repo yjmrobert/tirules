@@ -16,15 +16,15 @@
     <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with the Mentak player.<sup>2,5</sup></li>
     <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup></li>
     <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player.<sup>1</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player during the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup></li>
+    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup></li>
+    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup></li>
     <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup></li>
     <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability even if the transaction does not involve trade goods.<sup>2</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability against both players involved in a transaction.<sup>2,5</sup></li>
     <li>If the Mentak player resolves a transaction with another player, they may then use their <sc>Pillage</sc> ability against that player.<sup>2</sup></li>
     <ol><li>The Mentak player does not decide to use their <sc>Pillage</sc> ability until after the transaction has been resolved. Any deal made to not use their <sc>Pillage</sc> ability before the transaction has been resolved is non&ndash;binding.<sup>*</sup></li></ol>
-    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup></li>
+    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup></li>
     <li>A player cannot spend trade goods after the conditions of <sc>Pillage</sc> are met and before the Mentak player resolves it.<sup>2</sup></li>
     </ol>
 
@@ -100,8 +100,8 @@
     <ol class="note">
     <li>If the active system contains a non&ndash;Mentak player&rsquo;s units, the Mentak player may move a Corsair through systems containing any other player&rsquo;s ships, not just those of the player in the active system.<sup>*</sup></li>
     <li>The ability of the Corsair may be triggered even if the Mentak player has some of their own units in the active system.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup></li>
-    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may copy Cruiser II.<sup>6</sup></li>
+    <li>The <a href="/F_nekro">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup></li>
+    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

@@ -9,7 +9,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> FAQ: &ldquo;What is the interaction between Infantry 2 and Capture?&rdquo;: &ldquo;What is the interaction between Infantry 2 and Capture? A: Both happen&rdquo; both capture and resurrection apply.</li>
         </ul></li>
-    <li>The Vuil&rsquo;raith player cannot capture the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>*</sup>
+    <li>The Vuil&rsquo;raith player cannot capture the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures &hellip;?&rdquo;: &ldquo;It is a structure as well as a ground force.&rdquo;</li>
         </ul></li>
@@ -41,7 +41,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;Each captured unit or token gives one unit, even fighters or infantry.&rdquo;</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -195,7 +195,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When The Stillness of Stars converts a player&rsquo;s commodities to trade goods, those trade goods are not treated as being gained for the purpose of triggering other abilities. In particular, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Pillage"><sc>Pillage</sc></a> faction ability is not triggered by this ability.<sup>4</sup>
+    <li>When The Stillness of Stars converts a player&rsquo;s commodities to trade goods, those trade goods are not treated as being gained for the purpose of triggering other abilities. In particular, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Pillage"><sc>Pillage</sc></a> faction ability is not triggered by this ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Cabal Agent count as &lsquo;converting your own commodities&rsquo; &hellip;? A: No, whenever commodities are converted to a player&rsquo;s own trade good area, they are not considered gained.&rdquo;</li>
         </ul></li>
@@ -223,7 +223,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s own ships.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

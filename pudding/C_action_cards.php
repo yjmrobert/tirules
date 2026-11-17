@@ -57,7 +57,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;Only a player who actually voted. &hellip; each trade good spent adds a vote to the outcome you voted for.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata, Bribery: &ldquo;cast 1 additional vote for the outcome on which you voted.&rdquo;</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup>
+    <ol><li>If the <a href="/F_argent">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;If an Argent speaker votes first with Zeal, Bribery comes right after that vote.&rdquo;</li>
         </ul></li></ol>
@@ -163,7 +163,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup>
+    <li>The <a href="/F_saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -187,7 +187,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         </ul></li>
-    <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup>
+    <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="/F_winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Coup d&rsquo;Etat stop a primary ability resolved through the Winnu hero or Overrule?&rdquo;: &ldquo;No &mdash; those are component actions that resolve a primary, not strategic actions, and Coup d&rsquo;Etat only cancels strategic actions.&rdquo;</li>
         </ul></li>
@@ -249,7 +249,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player uses their commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup>
+    <ol><li>If the <a href="/F_xxcha">Xxcha</a> player uses their commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -351,7 +351,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup>
+    <li>If the <a href="/F_ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -482,7 +482,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;can only be resolved if ships actually move into the active system.&rdquo;</li>
         </ul></li>
     </ol>
-    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup>
+    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Experimental Battlestation be used, and what can it shoot?&rdquo;: &ldquo;Only when another player&rsquo;s ships actually move during the movement step of a tactical action: not on retreats.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;I think the cleanest way to handle this is just to say that it is only triggered by the move step.&rdquo;</li>
@@ -596,7 +596,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I, Ghost Squad: &ldquo;After a player commits units to land on a planet you control.&rdquo;</li>
         </ul></li>
-    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup>
+    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers &ldquo;After a player commits units to land on a planet you control,&rdquo; whatever the source of the commitment.</li>
         </ul></li>
@@ -604,7 +604,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers only &ldquo;After a player commits units to land.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup>
+    <li>The <a href="/F_ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Can the Titans Hel-Titan move via abilities like the action card Ghost Squad &hellip;? A: No, structures cannot move.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Titans move Hel Titan PDS with Ghost Squad?&rdquo;: &ldquo;Probably not &mdash; Hel Titans are structures as well as ground forces, and structures can&rsquo;t move or be transported.&rdquo;</li>
@@ -621,7 +621,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Hack Election: &ldquo;During this agenda, voting begins with the player to the right of the speaker and continues counterclockwise.&rdquo; voting starts right of speaker, so speaker is last.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player will still vote before all other players.<sup>*</sup>
+    <li>The <a href="/F_argent">Argent</a> player will still vote before all other players.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -637,7 +637,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Bribery and &ldquo;any effect with the timing window of &lsquo;after the speaker votes&rsquo;&rdquo; are played after the speaker&rsquo;s voting window.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup>
+    <li>If the <a href="/F_argent">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -705,7 +705,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate">Infiltrate</a></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player plays <i>Infiltrate</i> before they resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate"><sc>Assimilate</sc></a> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup>
+    <li>If the <a href="/F_lizix">L1Z1X</a> player plays <i>Infiltrate</i> before they resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate"><sc>Assimilate</sc></a> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -715,7 +715,7 @@
         <li><b>Implicit</b>: <sup>4</sup> &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo;</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup>
+    <ol><li>The <a href="/F_ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> FAQ: damaged unit removed and placed: &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo; a placed unit is undamaged.</li>
         </ul></li></ol>
@@ -956,7 +956,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player will still be affected by anomalies if they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>*</sup>
+    <ol><li>The <a href="/F_naalu">Naalu</a> player will still be affected by anomalies if they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -1091,7 +1091,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player plays <i>Puppets On A String</i>, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> faction technology, passed players may still play action cards during the action.<sup>6</sup>
+        <li>If the <a href="/F_yssaril">Yssaril</a> player plays <i>Puppets On A String</i>, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> faction technology, passed players may still play action cards during the action.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: If Yssaril plays this, and has Transparasteel Plating, can other players play action cards? A: Yes, it is not Yssaril&rsquo;s turn.&rdquo;</li>
         </ul></li>
@@ -1117,7 +1117,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;Master Plan = yes.&rdquo;</li>
         </ul></li>
-        <li>If the active player performs a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> commander, to perform additional actions.<sup>6</sup>
+        <li>If the active player performs a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander, to perform additional actions.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;you can use Keleres commander if the action you perform is itself a component action.&rdquo;</li>
         </ul></li>
@@ -1252,7 +1252,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 78.4c: &ldquo;A player cannot announce a retreat if there is not at least one eligible system to retreat to.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can retreat from a space combat &hellip;?&rdquo;: &ldquo;You can only announce one if you have a legal system to retreat to (so Rout needs one too).&rdquo;</li>
         </ul></li>
-    <li>A player cannot announce a retreat from the space combat initiated by the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2</sup>
+    <li>A player cannot announce a retreat from the space combat initiated by the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;Neither side may retreat or use abilities that move ships, Skilled Retreat included.&rdquo;</li>
         </ul></li>
@@ -1590,7 +1590,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
-    <li><i>Veto</i>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
+    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
         </ul></li>

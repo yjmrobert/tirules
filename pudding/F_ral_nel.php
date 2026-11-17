@@ -106,7 +106,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player uses this ability, they draw three action cards instead of two due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> faction ability. They discard one card from those drawn or from their hand, then take one of the drawn cards and give another to another player, keeping the third if it was not discarded.<sup>6</sup>
+    <li>If the <a href="/F_yssaril">Yssaril</a> player uses this ability, they draw three action cards instead of two due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> faction ability. They discard one card from those drawn or from their hand, then take one of the drawn cards and give another to another player, keeping the third if it was not discarded.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming.&rdquo;</li>
         </ul></li>

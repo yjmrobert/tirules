@@ -69,7 +69,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup>
+    <li>If the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -90,12 +90,12 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Each trade good gained may trigger the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>*</sup>
+        <li>Each trade good gained may trigger the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Mentak &ldquo;can trigger &lsquo;Pillage&rsquo; each time the Saar gain&rdquo; a trade good from Scavenge. Each separate gain triggers Pillage.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Mentak use Pillage?&rdquo;: &ldquo;After each instance of a neighbor gaining trade goods.&rdquo;</li>
         </ul></li>
-        <li>If the Muaat player wishes to score <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a> during the one status phase, they must do so simultaneously, and both happen before the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability. If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a>, then the Muaat player cannot discard the drawn action card for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a>.<sup>*</sup>
+        <li>If the Muaat player wishes to score <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a> during the one status phase, they must do so simultaneously, and both happen before the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability. If the <a href="/F_mentak">Mentak</a> player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a>, then the Muaat player cannot discard the drawn action card for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -120,7 +120,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player moves the Muaat player&rsquo;s war sun via the use of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.<sup>*</sup>
+    <ol><li>If the <a href="/F_mahact">Mahact</a> player moves the Muaat player&rsquo;s war sun via the use of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -128,7 +128,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Nova Seed</i> purges all tokens on the replaced system tile other than command tokens and frontier tokens. Any faction&ndash;specific tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> wormhole tokens or <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> sleeper tokens, are returned to the player that owns them instead.<sup>4</sup>
+    <li><i>Nova Seed</i> purges all tokens on the replaced system tile other than command tokens and frontier tokens. Any faction&ndash;specific tokens, such as <a href="/F_creuss">Creuss</a> wormhole tokens or <a href="/F_ul">Ul</a> sleeper tokens, are returned to the player that owns them instead.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does The Embers of Muaat Hero, Nova Seed, interact with tokens &hellip;? A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.&rdquo;</li>
         </ul></li>
@@ -148,7 +148,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.<sup>*</sup>
+    <li>The <a href="/F_empyrean">Empyrean</a> player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -157,7 +157,7 @@
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can the Muaat Hero, Nova Seed, be used on tiles in the Fracture? A: No, you cannot nova seed tiles which contain multiple systems.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Styx and Novaseed&rdquo;: &ldquo;No, the fracture tiles are not able to be replaced due to their unusual shape.&rdquo;</li>
         </ul></li>
-    <li>If the Muaat player moves a war sun into a system containing the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player&rsquo;s ships, the Muaat player, as the active player, may resolve <i>Nova Seed</i> before the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>2</sup>
+    <li>If the Muaat player moves a war sun into a system containing the <a href="/F_naalu">Naalu</a> player&rsquo;s ships, the Muaat player, as the active player, may resolve <i>Nova Seed</i> before the <a href="/F_naalu">Naalu</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?&rdquo;: &ldquo;Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight.&rdquo;</li>
         </ul></li>

@@ -9,7 +9,7 @@
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.<sup>*</sup></li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card, if they have no tokens in their reinforcements, they must use a Mahact token from any pool of their command sheet, and not another player&rsquo;s token in their fleet pool.<sup>*</sup></li>
     <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup></li>
-    <li>If the Mahact player wins a combat against the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player.<sup>*</sup></li>
+    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Imperia">Imperia</a></h2>
@@ -48,7 +48,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Jae%20Mir%20Kan">Jae Mir Kan</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Jae Mir Kan may be used even if the Mahact player has no command tokens in their strategy pool.<sup>2</sup></li>
-    <li>If the Mahact player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup></li>
+    <li>If the Mahact player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a> <sub>(Commander)</sub></h2>
@@ -68,18 +68,18 @@
     <li>If the Mahact player moves another player&rsquo;s ships, ground forces on planets are left behind.<sup>2,4</sup></li>
     <ol>
         <li>If the Mahact player moves their own ships, they may transport ground forces on planets.<sup>4</sup></li>
-        <li>If the Mahact player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup></li>
+        <li>If the Mahact player moves the <a href="/F_saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup></li>
     </ol>
     <li>Any abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.<sup>*</sup></li>
     <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.<sup>*</sup></li>
     <li>Any abilities that trigger when a player moves their ships do not trigger.<sup>*</sup></li>
     <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li>
-    <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> factional technology.<sup>2</sup></li>
-    <!--li>The Mahact player may only move the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
+    <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> <a href="/F_muaat">Muaat</a> factional technology.<sup>2</sup></li>
+    <!--li>The Mahact player may only move the <a href="/F_empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.<sup>3,4</sup></li>
-    <ol><li>If the Mahact player is moving the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup></li></ol>
-    <li>The Mahact player cannot move the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.<sup>2</sup></li>
-    <li>If the Mahact player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s war sun, the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup></li>
+    <ol><li>If the Mahact player is moving the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup></li></ol>
+    <li>The Mahact player cannot move the <a href="/F_creuss">Creuss</a> player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.<sup>2</sup></li>
+    <li>If the Mahact player moves the <a href="/F_muaat">Muaat</a> player&rsquo;s war sun, the <a href="/F_muaat">Muaat</a> player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup></li>
     <li>The system the combat is taking place in is considered the active system during that combat.<sup>4</sup></li>
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.<sup>4</sup></li>
     <ol><li>Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.<sup>*</sup></li></ol>

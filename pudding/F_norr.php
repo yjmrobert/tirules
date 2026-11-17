@@ -61,7 +61,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Exotrireme II use its ability?&rdquo;: &ldquo;it can&rsquo;t be used if that Exotrireme was destroyed or a retreat was announced.&rdquo;</li>
         </ul></li>
-    <li>If the N&rsquo;orr player is in a combat with the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup>
+    <li>If the N&rsquo;orr player is in a combat with the <a href="/F_yin">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When both players have end-of-round abilities, like Yin&rsquo;s Devotion and Sardakk&rsquo;s Exotrireme II, who goes first?&rdquo;: &ldquo;The active player resolves one first, then the players alternate one ability at a time.&rdquo;</li>
         </ul></li>
@@ -110,7 +110,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
-    <ol><li>This prevents the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup>
+    <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li></ol>

@@ -66,7 +66,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? &hellip; A: It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>
-    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup>
+    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling, asked &ldquo;(For the purposes of Pillage)&rdquo;: &ldquo;It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>
@@ -90,7 +90,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup>
+    <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="/F_nekro">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it.&rdquo;</li>
         </ul></li>
@@ -158,7 +158,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Empyrean player moves a ship into a system containing one of the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>*</sup>
+    <li>If the Empyrean player moves a ship into a system containing one of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="/F_saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

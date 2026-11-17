@@ -29,7 +29,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
         </ul></li>
-    <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
+    <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans&rdquo;</li>
         </ul></li>
@@ -57,7 +57,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Deepwrought player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup>
+    <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -69,7 +69,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both &hellip;? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology prevents the <i>D.W.S. Luminous</i> from moving through systems containing the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player&rsquo;s structures.<sup>6</sup>
+    <li>The <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology prevents the <i>D.W.S. Luminous</i> from moving through systems containing the <a href="/F_argent">Argent</a> player&rsquo;s structures.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;D.W.S. Luminous (Flagship): How does this interact with Aerie Hololattice? &hellip; A: Aerie Hololattice stops it moving through.&rdquo;</li>
         </ul></li>
@@ -81,7 +81,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;The agent may be used, but the coexisting infantry is not placed if a prerequisite was not skipped &hellip; The receiving player may still ignore prerequisites even if they already fulfill them on a technology that has at least 1 prerequisite.&rdquo;</li>
         </ul></li>
-    <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player, as the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player cannot skip a prerequisite.<sup>6</sup>
+    <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the <a href="/F_nekro">Nekro</a> player cannot skip a prerequisite.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Is it possible &hellip; for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the &lsquo;they do skip a prerequisite&rsquo;&rdquo; condition.</li>
         </ul></li>
@@ -123,7 +123,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player has the Deepwrought player&rsquo;s command token in their fleet pool, then this gives each other player the option of another discount. The Deepwrought player, the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player may choose up to two of the other players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to two resources. All other players may choose up to three of the players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to three resources.<sup>*</sup>
+        <li>If the <a href="/F_mahact">Mahact</a> player has the Deepwrought player&rsquo;s command token in their fleet pool, then this gives each other player the option of another discount. The Deepwrought player, the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and the <a href="/F_mahact">Mahact</a> player may choose up to two of the other players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to two resources. All other players may choose up to three of the players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to three resources.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -136,7 +136,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If Wave Function Collapse purges a technology another player gained through Share Knowledge &hellip;?&rdquo;: &ldquo;the holder owns the gained technology, so it is purged and they research another.&rdquo; Covers a different holder.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player purges a technology, they will gain three command tokens instead of researching another technology.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player purges a technology, they will gain three command tokens instead of researching another technology.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus play Reveal Prototype?&rdquo;: &ldquo;Yes, gaining 3 command tokens instead of the technology.&rdquo;</li>
         </ul></li>
@@ -164,7 +164,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player participates, they will gain three command tokens. The Deepwrought player will not gain a technology this way.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player participates, they will gain three command tokens. The Deepwrought player will not gain a technology this way.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

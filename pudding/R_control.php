@@ -13,7 +13,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can different players control different planets in the same system?&rdquo;: &ldquo;Yes &mdash; each planet is controlled separately and nobody controls the space area.&rdquo;</li>
         </ul></li>
-    <li>If a player is given another player&rsquo;s planet card, such as with the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player&rsquo;s mech, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a>, they gain control of that planet.<sup>2</sup>
+    <li>If a player is given another player&rsquo;s planet card, such as with the <a href="/F_hacan">Hacan</a> player&rsquo;s mech, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a>, they gain control of that planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When a planet card is given to another player, by an exploration effect or the Hacan mech, does control go with it?&rdquo;: &ldquo;Yes &mdash; control and holding the planet card go together, so the receiver controls the planet.&rdquo;</li>
         </ul></li>

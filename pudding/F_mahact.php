@@ -30,7 +30,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player wins a combat against the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player.<sup>*</sup>
+    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -103,7 +103,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?&rdquo;: &ldquo;Yes &mdash; they replace the token, so none is needed.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup>
+    <li>If the Mahact player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -151,7 +151,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo;</li>
         </ul></li>
-        <li>If the Mahact player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup>
+        <li>If the Mahact player moves the <a href="/F_saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;move all units in its space area (fighters, ground forces in space and Saar docks included).&rdquo;</li>
         </ul></li>
@@ -172,26 +172,26 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;The moved ships&rsquo; owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can&rsquo;t enter.&rdquo;</li>
         </ul></li>
-    <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> factional technology.<sup>2</sup>
+    <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> <a href="/F_muaat">Muaat</a> factional technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;no pushing them into asteroid fields or supernovas they can&rsquo;t enter.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can move into or through a supernova?&rdquo;: &ldquo;Magmus Reactor lets ships move into and stop in one.&rdquo;</li>
         </ul></li>
-    <!--li>The Mahact player may only move the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
+    <!--li>The Mahact player may only move the <a href="/F_empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.<sup>3,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Mahact player is moving the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup>
+    <ol><li>If the Mahact player is moving the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The Mahact player cannot move the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.<sup>2</sup>
+    <li>The Mahact player cannot move the <a href="/F_creuss">Creuss</a> player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;Creuss&rsquo;s alpha-beta adjacency can&rsquo;t be used.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s war sun, the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup>
+    <li>If the Mahact player moves the <a href="/F_muaat">Muaat</a> player&rsquo;s war sun, the <a href="/F_muaat">Muaat</a> player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

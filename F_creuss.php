@@ -5,7 +5,7 @@
     <ol class="note">
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup></li>
     <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and that player are neighbors.<sup>1,2</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup></li></ol>
+    <ol><li>The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup></li></ol>
     <li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#FAQ:~:text=Mecatol%20Rex">Mecatol Rex</a> contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#FAQ:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup></li>
     <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability against the Creuss player&rsquo;s units.<sup>2</sup></li>
     </ol>
@@ -91,7 +91,7 @@
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.<sup>*</sup></li>
     <ol>
         <li>If the Creuss player retreats from a combat, then they will have no capacity in the active system, and so cannot place any fighters there.<sup>*</sup></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player uses their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.<sup>*</sup></li>
+        <li>If the <a href="/F_mahact">Mahact</a> player uses their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.<sup>*</sup></li>
     </ol>
     <li>A ship only triggers Sai Seravus if it moves through a wormhole, including a wormhole in the system it started its movement in. A ship that moves through a system containing a wormhole without using that wormhole does not trigger Sai Seravus.<sup>2</sup></li>
     <li>Systems containing Creuss wormhole tokens count toward the unlock condition of Sai Seravus.<sup>2</sup></li>
@@ -100,7 +100,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any tokens on either system are moved with their system.<sup>4</sup></li>
-    <li>Systems that comprise The Fracture and the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup></li>
+    <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup></li>
     <li>Any units in either system are moved with their system.<sup>2</sup></li>
     </ol>
 

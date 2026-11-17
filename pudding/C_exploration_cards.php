@@ -41,7 +41,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup>
+    <li>The <a href="/F_xxcha">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet with the Demilitarized Zone attachment be invaded?&rdquo;: &ldquo;Effects that take control without placing units, such as Peace Accords, still can.&rdquo;</li>
         </ul></li>
@@ -136,7 +136,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships.<sup>*</sup>
+    <li>The <a href="/F_creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Hil Colish&rsquo; moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole &hellip;?&rdquo; Assumes the Creuss player orders the flagship&rsquo;s move.</li>
         </ul></li>

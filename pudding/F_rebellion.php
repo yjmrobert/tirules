@@ -11,11 +11,11 @@
         <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does the Crimson Rebellion&rsquo;s inability to use wormholes remove wormhole adjacency?&rdquo;: &ldquo;No &mdash; it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives.&rdquo; covers most listed purposes; action cards and Exile not mentioned.</li>
         <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Crimson Rebellion &ldquo;cannot use wormholes&rdquo;: &ldquo;Crimson are unable to move through wormholes. All other uses are permitted including PDS, Neighbors, placing Breaches, etc.&rdquo;</li>
         </ul></li>
-    <li>The Rebellion player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note, but their ships still cannot move through <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> wormholes.<sup>6</sup>
+    <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note, but their ships still cannot move through <a href="/F_creuss">Creuss</a> wormholes.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can they use the Creuss IFF? A: Yes, they still may not move through the Creuss wormholes though.&rdquo;</li>
         </ul></li>
-    <li>The Rebellion player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup>
+    <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can they use the Creuss agent or the Lost Star Charts action card? A: Yes&rdquo;</li>
         </ul></li>
@@ -60,7 +60,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Promissory_Note:~:text=Sever">Sever</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup>
+    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? &hellip; A: Blocks movement. Adjacency, PDS, Ghost Ship, Become the Gatekeeper, SLIPSTREAM are all unaffected.&rdquo;</li>
         </ul></li>
@@ -118,7 +118,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Leaders:~:text=Ahk%20Ravin">Ahk Ravin</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> Spacedock.<sup>6,9</sup>
+    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="/F_saar">Saar</a> Spacedock.<sup>6,9</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> RAW/Community: Crimson agent swapping out of a gravity rift: &ldquo;Swapping is not movement, so no roll is required.&rdquo; only the gravity-rift half is supported; Saar Spacedock claim is not in this source.</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A: &ldquo;Crimson Agent&rdquo;: &ldquo;Does not have to abide by anything movement related. Does not work on saar docks.&rdquo;</li>

@@ -35,7 +35,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
+    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Awaken and Nullification Field share the after-activation window, and the active Titans go first, so they can awaken before their turn is ended; the resulting ground combat still happens.&rdquo;</li>
         </ul></li>
@@ -68,7 +68,7 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
-    <ol><li>This prevents the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup>
+    <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li></ol>
@@ -115,11 +115,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Transit Diodes move Titans Hel-Titans or ordinary PDS?&rdquo;: &ldquo;Hel-Titans yes: they are ground forces, and Transit Diodes removes and places units rather than transporting them.&rdquo;</li>
         </ul></li>
-    <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
+    <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N&rsquo;Orr Alliance? A: No, structures cannot move.&rdquo;</li>
         </ul></li>
-    <li>A Hel&ndash;Titan is a structure, and so cannot be targeted by the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex"><i>Vortex</i></a> faction technology.<sup>2</sup>
+    <li>A Hel&ndash;Titan is a structure, and so cannot be targeted by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex"><i>Vortex</i></a> faction technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures &hellip;?&rdquo;: &ldquo;It is a structure as well as a ground force, so the Vuil&rsquo;raith vortex, which needs a non-structure, can&rsquo;t take it.&rdquo;</li>
         </ul></li>
@@ -147,7 +147,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>
@@ -160,7 +160,7 @@
         <li><b>Implicit</b>: <sup>4</sup> FAQ: Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo; gain and spend are simultaneous.</li>
         </ul></li>
     <ol>
-        <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup>
+        <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> FAQ: Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo;</li>
         </ul></li>
@@ -223,7 +223,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Same answer: &ldquo;There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal.&rdquo;</li>
         </ul></li>
-    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
+    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
         </ul></li>

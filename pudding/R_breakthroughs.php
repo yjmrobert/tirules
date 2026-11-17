@@ -18,7 +18,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 5: &ldquo;Roll a die on gaining breakthrough; on a roll of 1 or 10, that player puts The Fracture into play.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Crimson Rebellion&rsquo;s starting breakthrough trigger the Fracture roll?&rdquo;: &ldquo;the roll triggers whenever a player gains a breakthrough from any source.&rdquo;</li>
         </ul></li>
-    <li>A breakthrough has 1 or more abilities, and a synergy (other than for the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player).<sup>7</sup>
+    <li>A breakthrough has 1 or more abilities, and a synergy (other than for the <a href="/F_nekro">Nekro</a> player).<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9: &ldquo;a breakthrough that does not have synergy (as is the case with the Nekro Virus faction).&rdquo;</li>
         </ul></li>
@@ -30,7 +30,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade or for anything that cares about technologies.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> player gains their breakthrough as a starting component, which triggers a breakthrough roll during setup; The Fracture may be in play from the start of the game.<sup>2</sup>
+    <li>The <a href="/F_rebellion">Rebellion</a> player gains their breakthrough as a starting component, which triggers a breakthrough roll during setup; The Fracture may be in play from the start of the game.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Crimson Rebellion&rsquo;s starting breakthrough trigger the Fracture roll?&rdquo;: &ldquo;Yes &mdash; you gain starting components at setup &hellip; a player reports the developer saying the game can start with the Fracture in play.&rdquo;</li>
         </ul></li>

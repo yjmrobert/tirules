@@ -18,7 +18,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited, and what are they for?&rdquo;: &ldquo;Tokens are unlimited, but each stack of tokens must sit with at least one plastic piece of the same type.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 23.4: &ldquo;Units are limited to those included in the game, except for fighters and ground forces.&rdquo;</li>
         </ul></li></ol>
-    <li>A faction&ndash;specific unit counts as its base unit type for all purposes. For example, the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> is a war sun. Only the researched unit upgrade card is a technology; the unit printed on a faction sheet is not.<sup>2</sup>
+    <li>A faction&ndash;specific unit counts as its base unit type for all purposes. For example, the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> is a war sun. Only the researched unit upgrade card is a technology; the unit printed on a faction sheet is not.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;Yes &mdash; a faction unit counts as its base unit type for every purpose, so the Prototype War Sun is a war sun. Only the researched upgrade card is a technology.&rdquo;</li>
         </ul></li>

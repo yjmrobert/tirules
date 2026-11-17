@@ -6,11 +6,11 @@
 <p data-src="1,8">Each player has several faction&ndash;specific leader cards that represent characters with unique abilities.</p>
     <ol class="lrr">
     <li data-src="1,8">Each faction has three leaders; one agent, one commander, and one hero.</li>
-    <ol><li data-src="1,2">The <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=The%20Company"><sc>The Company</sc></a> faction ability grants them two additional agents, for a total of five leaders.</li></ol>
+    <ol><li data-src="1,2">The <a href="/F_nomad">Nomad</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=The%20Company"><sc>The Company</sc></a> faction ability grants them two additional agents, for a total of five leaders.</li></ol>
     <li data-src="1,8">A player&rsquo;s leaders are placed on their leader sheet during setup.</li>
     <ol>
         <li data-src="1,8">Each leader card is placed on the slot that matches its type. The leader cards are placed so that the hash mark symbols in the upper right are faceup and match the slot that the card is placed on.</li>
-        <li data-src="1">The two additional <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> agents are placed in the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player&rsquo;s play area readied side up.</li>
+        <li data-src="1">The two additional <a href="/F_nomad">Nomad</a> agents are placed in the <a href="/F_nomad">Nomad</a> player&rsquo;s play area readied side up.</li>
     </ol>
     <h2><li>Agents</li></h2>
     <li data-src="1,8">An agent does not need to be unlocked and begins the game in a readied state. They can be exhausted by resolving their abilities, and they ready during the <b><a href="/R_status_phase">Ready Cards</a></b> step of the status phase.</li>
@@ -35,7 +35,7 @@
     </ol>
     <li data-src="1">A hero cannot be exhausted.</li>
     <li data-src="1">A hero is purged after its abilities are resolved.</li>
-    <ol><li data-src="1">The Titans of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a>&rsquo;s hero is not purged; it is attached to the planet Elysium instead.</li></ol>
+    <ol><li data-src="1">The Titans of <a href="/F_ul">Ul</a>&rsquo;s hero is not purged; it is attached to the planet Elysium instead.</li></ol>
     </ol>
 
 <h2>Notes</h2>

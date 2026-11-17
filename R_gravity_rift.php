@@ -25,7 +25,7 @@
     <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup></li>
     <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.<sup>1,2,8</sup></li>
     <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.<sup>*</sup></li>
-    <li>A system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup></li>
     </ol>
 

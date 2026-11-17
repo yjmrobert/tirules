@@ -65,7 +65,7 @@
     <li>A planet with zero influence may be used to cast one additional vote.<sup>2</sup></li>
     <li>The Xxcha player may play rider action cards and vote on the same agenda.<sup>2</sup></li>
     <li>The Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note will not prevent them from voting.<sup>2,14</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may vote.<sup>2,14</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> <sub>(Hero)</sub></h2>

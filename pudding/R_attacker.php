@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 29: &ldquo;During either a space or ground combat, the player who is not the active player is the defender.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;During combat, the active player is the attacker and the other player is the defender.&rdquo;</li>
         </ul></li>
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships moved will be the attacker.<sup>4</sup>
+    <li>When the <a href="/F_mahact">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships moved will be the attacker.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When the Mahact hero, Benediction, is used who is considered the attacker and who is the defender? &hellip; A: The ships being moved belong to the &lsquo;attacker&rsquo; and the ships not being moved belong to the &lsquo;defender.&rsquo;&rdquo;</li>
         </ul></li>

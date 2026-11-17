@@ -6,7 +6,7 @@
     <li>If a player owns all technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will not research any technologies.<sup>11</sup></li>
     <ol><li>If a player owns all&ndash;but&ndash;one technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will research only that one technology.<sup>11</sup></li></ol>
     <li>A player cannot gain a technology with a prerequisite by ignoring that prerequisite, such as by exhausting a planet with a technology specialty.<sup>6,11</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player draws the <i>Book of Latvinia</i>, they will gain six command tokens and zero technologies, even if they own all technologies without prerequisites.<sup>*</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player draws the <i>Book of Latvinia</i>, they will gain six command tokens and zero technologies, even if they own all technologies without prerequisites.<sup>*</sup></li>
     <li>When a player uses the component action of the <i>Book of Latvinia</i>, it is purged, regardless of which outcome is resolved.<sup>11</sup></li>
     <li>If a player uses the component action of the <i>Book of Latvinia</i> when they control planets with each type of technology specialty, they mandatorily gain a victory point; they cannot choose instead to gain the speaker token.<sup>11</sup></li>
     </ol>
@@ -57,8 +57,8 @@
     <ol class="note">
     <li><i>JR&ndash;XS455&ndash;O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR&ndash;XS455&ndash;O</i>.<sup>14</sup></li>
     <ol>
-        <li><i>JR&ndash;XS455&ndash;O</i> may be refreshed by the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player's <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology.<sup>14</sup></li>
-        <li>The ability of <i>JR&ndash;XS455&ndash;O</i> may be duplicated by the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player&rsquo;s agent, Ssruu.<sup>14</sup></li>
+        <li><i>JR&ndash;XS455&ndash;O</i> may be refreshed by the <a href="/F_nomad">Nomad</a> player's <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology.<sup>14</sup></li>
+        <li>The ability of <i>JR&ndash;XS455&ndash;O</i> may be duplicated by the <a href="/F_yssaril">Yssaril</a> player&rsquo;s agent, Ssruu.<sup>14</sup></li>
     </ol>
     </ol>
 
@@ -81,13 +81,13 @@
     <li>The affected ship may be destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card after it uses the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
     <li>A player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card after it uses the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability via <i>Metali Void Shielding</i>.<sup>*</sup></li>
     <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, they may use <i>Metali Void Shielding</i> for both the <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> and combat rolls in that round of space combat.<sup>*</sup></li>
-    <li><i>Metali Void Shielding</i> has no effect when the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged. Players may indicate a damaged infantry token in any way.<sup>6</sup></li>
+    <li><i>Metali Void Shielding</i> has no effect when the <a href="/F_argent">Argent</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability.<sup>*</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged. Players may indicate a damaged infantry token in any way.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge">Nano&ndash;Forge</a></h2>
     <ol class="note">
-    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet will also no longer be non&ndash;legendary for effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup></li>
+    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet will also no longer be non&ndash;legendary for effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Neuraloop">Neuraloop</a></h2>
@@ -114,7 +114,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears">The Prophet&rsquo;s Tears</a></h2>
     <ol class="note">
     <li>A player cannot use the ability of <i>The Prophet&rsquo;s Tears</i> when they directly gain a technology.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.<sup>4</sup></li>
+    <li>The <a href="/F_nekro">Nekro</a> player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Quantumcore">The Quantumcore</a></h2>
@@ -125,7 +125,7 @@
     <ol class="note">
     <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup></li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
     <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People"><i>Galvanize the People</i></a>.<sup>2</sup></li>
     </ol>
 
@@ -138,7 +138,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame">The Silver Flame</a></h2>
     <ol class="note">
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup></li>
+    <li>The <a href="/F_saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup></li>
     <li>Using <i>The Silver Flame</i> always causes The Fracture to enter play, regardless of the result of the roll.<sup>6</sup></li>
     </ol>
 
@@ -156,14 +156,14 @@
         <li>Units cannot be placed on <i>The Triad</i>.<sup>*</sup></li>
         <li><i>The Triad</i> cannot be exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card.<sup>6</sup></li>
         <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agenda.<sup>*</sup></li>
-        <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup></li>
+        <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup></li>
         <li><i>The Triad</i> does not count towards the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count towards any objectives that require a planet in a specific type of system.<sup>6</sup></li>
         <li><i>The Triad</i> does not have a planet trait; it cannot be explored.<sup>*</sup></li>
     </ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup></li>
     <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup></li>
     <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player does not gain a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability when they gain <i>The Triad</i>.<sup>6</sup></li>
+    <li>The <a href="/F_saar">Saar</a> player does not gain a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability when they gain <i>The Triad</i>.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

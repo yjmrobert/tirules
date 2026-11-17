@@ -14,7 +14,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 17.1: &ldquo;When such a unit is returned, it is placed into the reinforcements of the original owner.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player and the <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes">Yssaril</a> player are able to capture units by copying the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s abilities, but they will be unable to spend the captured units.<sup>*</sup>
+    <li>The <a href="/F_nekro">Nekro</a> player and the <a href="/F_yssaril">Yssaril</a> player are able to capture units by copying the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s abilities, but they will be unable to spend the captured units.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

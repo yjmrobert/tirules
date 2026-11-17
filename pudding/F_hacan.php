@@ -5,7 +5,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
     <ol class="note">
-    <li>If the Hacan player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup>
+    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -77,7 +77,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Hacan&rsquo;s Quantum Datahub Node swap strategy cards?&rdquo;: &ldquo;Hacan chooses both which of their cards to give and which face-up card to take.&rdquo;</li>
         </ul></li>
-    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup>
+    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

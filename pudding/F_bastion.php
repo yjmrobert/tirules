@@ -54,7 +54,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima. You will exhaust the planet.&rdquo;</li>
         </ul></li>
-    <li>Abilities that affect bombardment rolls, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, or the <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar">Jol&ndash;Nar</a> player&rsquo;s commander, Ta Zern, may be applied to the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> roll from <i>Proxima Targeting VI</i>.<sup>6,9</sup>
+    <li>Abilities that affect bombardment rolls, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, or the <a href="/F_jol_nar">Jol&ndash;Nar</a> player&rsquo;s commander, Ta Zern, may be applied to the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> roll from <i>Proxima Targeting VI</i>.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Proxima Targeting VI (Technology): Can the Bastion player apply abilities such as Plasma Scoring/Argent commander or Jol-Nar commander to the BOMBARDMENT roll? A: Yes&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo; (on relics and technologies that use unit abilities).</li>
@@ -107,7 +107,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player already has a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on one of the Bastion player&rsquo;s components, it will remain there when Nip and Tuck are unlocked.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player already has a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on one of the Bastion player&rsquo;s components, it will remain there when Nip and Tuck are unlocked.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -19,7 +19,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.3: &ldquo;A damaged unit cannot use the &lsquo;Sustain Damage&rsquo; ability until it is repaired during the status phase.&rdquo; Status phase repairs all damaged units.</li>
         </ul></li>
-    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?&rdquo;: &ldquo;Initiative order: the player with the lower initiative number resolves first.&rdquo;</li>
         </ul></li>

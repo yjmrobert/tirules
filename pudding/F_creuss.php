@@ -15,7 +15,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 101.3: &ldquo;Players can be neighbors and perform transactions through wormholes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Are the Ghosts of Creuss neighbors with a player on a beta wormhole when Creuss sits on an alpha wormhole?&rdquo;: &ldquo;Yes &mdash; Quantum Entanglement makes alpha and beta wormholes adjacent for Creuss, and adjacency created that way also makes them neighbors, so the two players can transact.&rdquo;</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup>
+    <ol><li>The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;because the &lsquo;neighbor&rsquo; status is active as a result of the ability, the Mentak may use their &lsquo;Pillage&rsquo; in these situations.&rdquo;</li>
         </ul></li></ol>
@@ -256,7 +256,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player uses their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.<sup>*</sup>
+        <li>If the <a href="/F_mahact">Mahact</a> player uses their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -277,7 +277,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> FAQ: Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo; tokens stay with tile, so move with system.</li>
         </ul></li>
-    <li>Systems that comprise The Fracture and the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup>
+    <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook (Age of Exploration): &ldquo;New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles.&rdquo; Covers a different effect.</li>
         </ul></li>

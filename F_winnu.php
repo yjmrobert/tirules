@@ -18,7 +18,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.<sup>*</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
@@ -35,7 +35,7 @@
         <li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.<sup>1,5</sup></li>
         <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system is the active system.<sup>5</sup></li>
         <li>A player may retreat to a system containing an alpha or beta wormhole from the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system during the Winnu player&rsquo;s tactical action.<sup>5</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup></li>
+        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup></li>
     </ol>
     <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a>.<sup>2,3,5</sup></li>
     </ol>
@@ -43,7 +43,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Flagship:~:text=Salai%20Sai%20Corian">Salai Sai Corian</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the Winnu player&rsquo;s opponent has only fighters participating in the combat, the <i>Salai Sai Corian</i> will roll no dice.<sup>2</sup></li>
-    <li>During a combat against the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup></li>
+    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="/F_nekro">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Berekar%20Berekon">Berekar Berekon</a> <sub>(Agent)</sub></h2>

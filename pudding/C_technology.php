@@ -36,7 +36,7 @@
         <li><b>Implicit</b>: <sup>8</sup> Card text: the trigger is &ldquo;After you perform a tactical action.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;After the tactical action ends, and only if your ships are still there.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player cannot explore a frontier token with a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a>. However, if they produce a ship during the <b>Production</b> step, they will be able to use that ship to explore the token.<sup>*</sup>
+    <li>The <a href="/F_saar">Saar</a> player cannot explore a frontier token with a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a>. However, if they produce a ship during the <b>Production</b> step, they will be able to use that ship to explore the token.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -165,7 +165,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>*</sup>
+    <li>The <a href="/F_lizix">L1Z1X</a> may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -312,7 +312,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>15</sup> Same text: &ldquo;place 1 infantry &hellip; with each of those structures.&rdquo;</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a> is activated, then the infantry will be placed in the space area.<sup>*</sup>
+    <ol><li>If the <a href="/F_saar">Saar</a> player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a> is activated, then the infantry will be placed in the space area.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -381,7 +381,7 @@
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the attacker&rsquo;s Assault Cannon can push the defender below 3 non-fighter ships and deny the defender&rsquo;s own Assault Cannon.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (livestrongbelwas, Feb 08, 2018): &ldquo;The second player doesn&rsquo;t get to use his Assault Cannons&rdquo;</li>
         </ul></li>
-        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card that may trigger off of any of the previous abilities.<sup>*</sup>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card that may trigger off of any of the previous abilities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -395,7 +395,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Examples of abilities that may add units at the start of space combat include a combination of the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup>
+        <li>Examples of abilities that may add units at the start of space combat include a combination of the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the ability of the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -435,7 +435,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Graviton Laser System affect Space Cannon hits?&rdquo;: &ldquo;They are still ordinary hits, so Sustain Damage can cancel them before assignment.&rdquo;</li>
         </ul></li>
-    <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup>
+    <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, such as the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships &hellip;?&rdquo;: &ldquo;Yes &mdash; it applies to the whole Space Cannon roll, borrowed dice included.&rdquo;</li>
         </ul></li>

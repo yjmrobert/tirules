@@ -6,7 +6,7 @@
 <p data-src="1,3">Initiative order is the order in which players resolve steps of the action and status phases.</p>
     <ol class="lrr">
     <li data-src="1,3">Initiative order is determined by the initiative numbers on strategy cards.</li>
-    <ol><li data-src="1,2">A player who has the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> &ldquo;0&rdquo; token has the initiative number &ldquo;0&rdquo;.</li></ol>
+    <ol><li data-src="1,2">A player who has the <a href="/F_naalu">Naalu</a> &ldquo;0&rdquo; token has the initiative number &ldquo;0&rdquo;.</li></ol>
     <li data-src="1,3">Initiative order begins with the player who has the lowest&ndash;numbered strategy card and proceeds to the player who has the strategy card that is next in numerical order.</li>
     <ol><li data-src="1">Only strategy cards that were chosen during the strategy phase are used when determining initiative order; strategy cards not chosen during the strategy phase are ignored.</li></ol>
     <li data-src="1,2,3">When playing with three or four players, a player&rsquo;s initiative is determined only by their lowest&ndash;numbered strategy card.</li>

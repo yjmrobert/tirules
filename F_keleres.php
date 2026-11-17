@@ -52,7 +52,7 @@
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective cannot be scored while resolving <i>Executive Order</i>.<sup>2</sup></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; will instead resolve at the end of the next agenda phase.<sup>6,7</sup></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still resolve at the start of the next strategy phase.<sup>6</sup></li>
-    <li>When resolving <i>Executive Order</i>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player does not vote first, but still casts additional votes.<sup>2,6</sup></li>
+    <li>When resolving <i>Executive Order</i>, the <a href="/F_argent">Argent</a> player does not vote first, but still casts additional votes.<sup>2,6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III_2:~:text=I.I.H.Q.%20Modernization">I.I.H.Q. Modernization</a> <sub>(Technology/Breakthrough)</sub></h2>
@@ -73,7 +73,7 @@
     <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.<sup>*</sup></li>
     <li>When the Keleres player uses the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup></li>
     <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup></li>
+    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup></li>
     <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup></li></ol>
     </ol>
 

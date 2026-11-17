@@ -132,7 +132,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> FAQ: Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: &ldquo;The LRR will be updated to be more general towards taking off sheet if none are in reinforcements.&rdquo; general rule for taking tokens from sheet.</li>
         </ul></li>
-    <li>If the Naaz&ndash;Rokha player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup>
+    <li>If the Naaz&ndash;Rokha player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

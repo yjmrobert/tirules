@@ -46,11 +46,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player.<sup>1</sup>
+    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage when &ldquo;neighbors with another faction as a result of the &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability &hellip; because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player during the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
+    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vinci, 12/11/2018): &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
@@ -81,7 +81,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup>
+    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Mentak Coalition use the &lsquo;Pillage&rsquo; faction ability for each time the Saar gain a trade good from the &lsquo;Scavenge&rsquo; faction ability in a single turn &hellip;? A: Yes.&rdquo;</li>
         </ul></li>
@@ -271,11 +271,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup>
+    <li>The <a href="/F_nekro">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
         </ul></li>
-    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player may copy Cruiser II.<sup>6</sup>
+    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;mentak is still considered to own cruiser II.&rdquo;</li>
         </ul></li>

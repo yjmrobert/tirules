@@ -15,7 +15,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;tiles beside hyperlanes, and a system enclosed by them, aren&rsquo;t edge systems.&rdquo;</li>
         </ul></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
