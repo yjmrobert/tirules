@@ -56,7 +56,7 @@
     <ol class="note">
     <li>The planet is not readied until after the planet is explored.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does exploration work?&rdquo;: exploring &ldquo;happens before &lsquo;after you gain control&rsquo; effects like Integrated Economy or Pre-Fab Arcologies.&rdquo; The cited entry (Xxcha hero) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does exploration work?&rdquo;: exploring &ldquo;happens before &lsquo;after you gain control&rsquo; effects like Integrated Economy or Pre-Fab Arcologies.&rdquo;</li>
         </ul></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Freelancers"><i>Freelancers</i></a> exploration card is revealed, then:<sup>*</sup>
         <ul>

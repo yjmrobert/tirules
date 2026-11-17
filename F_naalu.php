@@ -50,7 +50,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>2,12</sup></li>
+    <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup></li>
     <ol>
         <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup></li>
         <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup></li>

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo; The matched LRR passage (Space Cannon) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
         </ul></li>
     <li>When an ability moves a player&rsquo;s ships outside of a tactical action, those ships may transport units out of systems that contain that player&rsquo;s command tokens; this restriction only applies during tactical actions.<sup>1,2,4</sup>
         <ul>

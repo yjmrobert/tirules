@@ -42,7 +42,7 @@
         </ul></li> -->
     <li>An ability that refers to &ldquo;a player&rdquo; may be used on the player resolving it. Only an ability that refers to &ldquo;another player&rdquo; excludes that player.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;during the action phase&rsquo; agent abilities use my action, and does &lsquo;a player&rsquo; include me?&rdquo;: &ldquo;&rsquo;A player&rsquo; includes you; only &lsquo;another player&rsquo; excludes you.&rdquo; The cited entry (non-home systems) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;during the action phase&rsquo; agent abilities use my action, and does &lsquo;a player&rsquo; include me?&rdquo;: &ldquo;&rsquo;A player&rsquo; includes you; only &lsquo;another player&rsquo; excludes you.&rdquo;</li>
         </ul></li>
     <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>5</sup>
         <ul>

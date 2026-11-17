@@ -5,7 +5,7 @@ N No source found.
 @2
 N No source found.
 @3
-I4 "'Resolved with no effect' is not an outcome that could have been predicted, so no prediction abilities can trigger." The cited Covert Legislation ruling does not address this.
+I4 "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says 'resolved with no effect'. A: 'Resolved with no effect' is not an outcome that could have been predicted, so no prediction abilities can trigger."
 @4
 N No source found.
 @5

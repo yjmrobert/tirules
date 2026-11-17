@@ -24,7 +24,7 @@ N No source found.
 @10
 N No source found.
 @11
-E2 RulesPal, "Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?": "No — ground combat only happens if both players still have ground forces on the planet after those steps." The cited entry (Sardakk commander) does not address this.
+E2 RulesPal, "Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?": "No — ground combat only happens if both players still have ground forces on the planet after those steps."
 @12
 N No source found.
 @13

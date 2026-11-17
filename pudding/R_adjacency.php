@@ -7,7 +7,7 @@
     <ol class="note">
     <li>A unit is not adjacent to the system it is in.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;No &mdash; a system isn&rsquo;t adjacent to itself.&rdquo; The cited entry (Space Cannon range) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;No &mdash; a system isn&rsquo;t adjacent to itself.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

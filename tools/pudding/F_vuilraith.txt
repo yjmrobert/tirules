@@ -19,7 +19,7 @@ N No source found.
 @9
 E2 RulesPal, "What are captured units good for, and how do Amalgamation and Riftmeld use them?": "Any captured unit of the base type works, a Prototype War Sun counting as a war sun."
 @10
-E2 RulesPal, "Can the Vuil'raith produce a captured war sun without the War Sun technology?": "No, by analogy with rulings on Mentak's Salvage Operations and Nekro war suns." The cited entry (captured units) does not address this.
+E2 RulesPal, "Can the Vuil'raith produce a captured war sun without the War Sun technology?": "No, by analogy with rulings on Mentak's Salvage Operations and Nekro war suns."
 @11
 E2 RulesPal, "With Riftmeld, must the captured unit belong to a player who has the upgrade?": "No — any captured unit of the matching type lets you ignore that upgrade's prerequisites."
 @12

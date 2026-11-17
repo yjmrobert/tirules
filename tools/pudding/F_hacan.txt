@@ -25,7 +25,7 @@ N No source found.
 E2 RulesPal, "How does Hacan's Quantum Datahub Node swap strategy cards?": "trade goods were already collected when the cards were picked."
 E5 Designer ruling: "In both the situations you mentioned there (Quantum Datahub Node and Acquiescence) the player who picked the strategy card originally would get the trade goods."
 @11
-E2 RulesPal, "How does Hacan's Quantum Datahub Node swap strategy cards?": "Hacan chooses both which of their cards to give and which face-up card to take." The cited entry (three- and four-player games) does not address this.
+E2 RulesPal, "How does Hacan's Quantum Datahub Node swap strategy cards?": "Hacan chooses both which of their cards to give and which face-up card to take."
 @12
 N No source found.
 @13

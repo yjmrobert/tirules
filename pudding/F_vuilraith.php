@@ -51,7 +51,7 @@
         </ul></li>
     <li>The Vuil&rsquo;raith player cannot produce a war sun using <sc>Amalgamation</sc> unless they own their war sun unit upgrade technology.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Vuil&rsquo;raith produce a captured war sun without the War Sun technology?&rdquo;: &ldquo;No, by analogy with rulings on Mentak&rsquo;s Salvage Operations and Nekro war suns.&rdquo; The cited entry (captured units) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Vuil&rsquo;raith produce a captured war sun without the War Sun technology?&rdquo;: &ldquo;No, by analogy with rulings on Mentak&rsquo;s Salvage Operations and Nekro war suns.&rdquo;</li>
         </ul></li>
     </ol>
 

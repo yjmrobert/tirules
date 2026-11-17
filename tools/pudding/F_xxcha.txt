@@ -122,7 +122,7 @@ E4 "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked
 E2 RulesPal, "How does the Xxcha hero's ability to combine a planet's resources and influence work?": "It doesn't change printed values, so it doesn't raise a space dock's Production."
 N2 Partial conflict: the same RulesPal entry says the combined value applies "even when exhausted for Uprising."
 @55
-E2 RulesPal, "How does the Xxcha hero's ability to combine …?": "it doesn't raise a space dock's Production." The cited entry (pooled Production) does not address this.
+E2 RulesPal, "How does the Xxcha hero's ability to combine …?": "it doesn't raise a space dock's Production."
 @56
 N No source found.
 @57

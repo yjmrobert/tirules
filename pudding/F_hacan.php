@@ -75,7 +75,7 @@
         </ul></li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Hacan&rsquo;s Quantum Datahub Node swap strategy cards?&rdquo;: &ldquo;Hacan chooses both which of their cards to give and which face-up card to take.&rdquo; The cited entry (three- and four-player games) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Hacan&rsquo;s Quantum Datahub Node swap strategy cards?&rdquo;: &ldquo;Hacan chooses both which of their cards to give and which face-up card to take.&rdquo;</li>
         </ul></li>
     <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup>
         <ul>

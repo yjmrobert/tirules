@@ -8,14 +8,14 @@ E2 Same entry: "then voting resumes as normal from the speaker's left."
 @3
 E1 LRR 10.1d: "This ability can still be used if no fighters are present."
 E8 PoK rulebook p. 16: "The 'Anti-Fighter Barrage' step can occur even if a player's opponent has no fighters in the combat."
-E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "Argent fire barrage even when the opponent has no fighters." The cited entry (Crown of Thalnos) does not address this.
+E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "Argent fire barrage even when the opponent has no fighters."
 @4
 E4 "When is Raid Formation applied? After rolling or after assigning hits? … A: Raid formation is applied after rolling, before cancelling or assigning hits."
 @5
 N No source found.
 @6
 E4 "Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged."
-E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "It produces no hits and those ships don't use Sustain Damage, so it can't destroy anything and Direct Hit or Non-Euclidean Shielding don't come into it." The cited entry (same-name cards) does not address this.
+E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "It produces no hits and those ships don't use Sustain Damage, so it can't destroy anything and Direct Hit or Non-Euclidean Shielding don't come into it."
 @7
 E2 RulesPal: "Direct Hit or Non-Euclidean Shielding don't come into it."
 @8

@@ -11,7 +11,7 @@
     <ol class="note">
     <li>The active player may still use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of any units during the <b>Space Cannon Offense</b> step of the tactical action.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Ceasefire or Disable stop Space Cannon?&rdquo;: &ldquo;Ceasefire only stops ships moving in, so Space Cannon, Bombardment, invasion and production all still happen.&rdquo; The cited entry (Experimental Battlestation) does not address Ceasefire.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Ceasefire or Disable stop Space Cannon?&rdquo;: &ldquo;Ceasefire only stops ships moving in, so Space Cannon, Bombardment, invasion and production all still happen.&rdquo;</li>
         </ul></li>
     <li>If a player has units in the active system from before the tactical action in which their <i>Ceasefire</i> is played, those units will remain in the active system.<sup>*</sup>
         <ul>

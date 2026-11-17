@@ -279,7 +279,7 @@
     <ol>
         <li>A space dock will not add the influence value of the planet it is on to its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine &hellip;?&rdquo;: &ldquo;it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo; The cited entry (pooled Production) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine &hellip;?&rdquo;: &ldquo;it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
         </ul></li>
         <li>The resource values of the planets the Xxcha player controls will not contribute to unlocking <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>.<sup>*</sup>
         <ul>

@@ -1,6 +1,6 @@
 @0
 E2 RulesPal, "Which side of the sleeper token is used …?": "A planet holds one sleeper."
-E2 RulesPal, "Can Titans put more than one sleeper on a planet with Terragenesis …?": "a planet holds at most one." The cited entry (activating a system with your token) does not address this.
+E2 RulesPal, "Can Titans put more than one sleeper on a planet with Terragenesis …?": "a planet holds at most one."
 @1
 E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "Right after activating a system that already held your sleeper token."
 @2

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;A ship that stops in a rift gains nothing and doesn&rsquo;t roll until it later leaves.&rdquo; The cited entry (Creuss flagship) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;A ship that stops in a rift gains nothing and doesn&rsquo;t roll until it later leaves.&rdquo;</li>
         </ul></li>
     <li>A ship removed by a gravity rift is not destroyed.<sup>10</sup>
         <ul>

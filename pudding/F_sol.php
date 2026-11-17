@@ -82,7 +82,7 @@
         </ul></li>
     <li>If the Sol player has no ground forces on a planet they control, ground combat will not occur, and so they cannot place an infantry on that planet. This includes if they lose the last of their ground forces during the <b>Bombardment</b> step of the invasion.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?&rdquo;: &ldquo;No &mdash; ground combat only happens if both players still have ground forces on the planet after those steps.&rdquo; The cited entry (Sardakk commander) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?&rdquo;: &ldquo;No &mdash; ground combat only happens if both players still have ground forces on the planet after those steps.&rdquo;</li>
         </ul></li>
     </ol>
 

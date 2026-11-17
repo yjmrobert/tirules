@@ -11,7 +11,7 @@
     <ol class="note">
     <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End &hellip;?&rdquo;: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo; The cited entry (Hel-Titan) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End &hellip;?&rdquo;: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>
     </ol>
 

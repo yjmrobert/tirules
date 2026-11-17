@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "How do gravity rifts work: when do I get +1 move and when do I roll?": "A ship that stops in a rift gains nothing and doesn't roll until it later leaves." The cited entry (Creuss flagship) does not address this.
+E2 RulesPal, "How do gravity rifts work: when do I get +1 move and when do I roll?": "A ship that stops in a rift gains nothing and doesn't roll until it later leaves."
 @1
 E10 Codex I: "units that fail to survive the roll are removed from the board and returned to players' reinforcements rather than being destroyed."
 E2 RulesPal, "When a carrier leaves a gravity rift …?": "Units lost this way are removed rather than destroyed."

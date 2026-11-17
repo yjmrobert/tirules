@@ -43,7 +43,7 @@
         </ul></li>
     <li>The player chooses which discarded action card to take.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there quick answers for Watchtower, Reflect, Garbozia&rsquo;s legendary ability &hellip;?&rdquo;: &ldquo;Garbozia&rsquo;s legendary ability lets you choose which discarded action card to take.&rdquo; The cited entry (hand limit) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there quick answers for Watchtower, Reflect, Garbozia&rsquo;s legendary ability &hellip;?&rdquo;: &ldquo;Garbozia&rsquo;s legendary ability lets you choose which discarded action card to take.&rdquo;</li>
         </ul></li>
     </ol>
 

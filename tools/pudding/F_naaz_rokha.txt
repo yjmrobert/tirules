@@ -18,7 +18,7 @@ E4 FAQ: "Can a player “gain” a relic by purging fragments if there are no re
 @8
 N No source found.
 @9
-E2 RulesPal, "How does exploration work?": exploring "happens before 'after you gain control' effects like Integrated Economy or Pre-Fab Arcologies." The cited entry (Xxcha hero) does not address this.
+E2 RulesPal, "How does exploration work?": exploring "happens before 'after you gain control' effects like Integrated Economy or Pre-Fab Arcologies."
 @10
 N No source found.
 @11

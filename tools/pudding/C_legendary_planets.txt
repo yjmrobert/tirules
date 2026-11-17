@@ -11,7 +11,7 @@ N No source found.
 @5
 N No source found.
 @6
-E2 RulesPal, "Are there quick answers for Watchtower, Reflect, Garbozia's legendary ability …?": "Garbozia's legendary ability lets you choose which discarded action card to take." The cited entry (hand limit) does not address this.
+E2 RulesPal, "Are there quick answers for Watchtower, Reflect, Garbozia's legendary ability …?": "Garbozia's legendary ability lets you choose which discarded action card to take."
 @7
 N No source found.
 @8

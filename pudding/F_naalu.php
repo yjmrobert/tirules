@@ -119,10 +119,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>2,12</sup>
+    <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup>
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Z&rsquo;eu Ω: &ldquo;that player may perform a tactical action in a non-home system without placing a command token.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When an ability moves units outside a tactical action &hellip;?&rdquo; (does not address Z&rsquo;eu Ω directly).</li>
         </ul></li>
     <ol>
         <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup>
@@ -244,7 +243,7 @@
     <ol class="note">
     <li>Each other player chooses which promissory note they give the Naalu player.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are my unplayed promissory notes in my hand &hellip;?&rdquo;: &ldquo;With the Naalu hero, each player chooses which note to give.&rdquo; The cited entry (Quantum Datahub Node) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are my unplayed promissory notes in my hand &hellip;?&rdquo;: &ldquo;With the Naalu hero, each player chooses which note to give.&rdquo;</li>
         </ul></li>
     </ol>
 

@@ -33,7 +33,7 @@ I2 "If several Crimson Legionnaires die at once, does each trigger separately?":
 @15
 I2 "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." triggers resolve one after another, so a gained commodity can then be converted by the next.
 @16
-E2 RulesPal, "Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?": "Yes — they replace the token, so none is needed." The cited entry (Galactic Crisis Pact) does not address this.
+E2 RulesPal, "Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?": "Yes — they replace the token, so none is needed."
 @17
 N No source found.
 @18

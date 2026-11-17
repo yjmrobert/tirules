@@ -1,2 +1,2 @@
 @0
-E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "No — a system isn't adjacent to itself." The cited entry (Space Cannon range) does not address this.
+E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "No — a system isn't adjacent to itself."

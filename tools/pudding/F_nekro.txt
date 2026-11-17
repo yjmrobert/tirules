@@ -23,7 +23,7 @@ I2 RulesPal, "Does Infantry II trigger on infantry removed by the Jol-Nar agent?
 @10
 E2 RulesPal, "Which kills trigger Nekro's Technological Singularity?": "Kills from Space Cannon, Bombardment, or structures destroyed when control is established don't count, since those happen outside combat."
 @11
-E2 RulesPal, "When the Nekro Virus gain a technology, does the other player lose it?": "it works immediately, even for the rest of that combat." The cited entry (Research Agreement) does not address this.
+E2 RulesPal, "When the Nekro Virus gain a technology, does the other player lose it?": "it works immediately, even for the rest of that combat."
 @12
 N No source found.
 @13

@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them." The cited entry (capacity) does not address this.
+E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them."
 @1
 E2 RulesPal, "Is there a limit to how many infantry can be on one planet?": "No — any number of infantry can be on a planet. You are only limited by your components, and tokens can stand in for extra infantry."
 I1 LRR 23.4: "Units are limited to those included in the game, except for fighters and ground forces."

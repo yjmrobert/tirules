@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Do Ceasefire or Disable stop Space Cannon?": "Ceasefire only stops ships moving in, so Space Cannon, Bombardment, invasion and production all still happen." The cited entry (Experimental Battlestation) does not address Ceasefire.
+E2 RulesPal, "Do Ceasefire or Disable stop Space Cannon?": "Ceasefire only stops ships moving in, so Space Cannon, Bombardment, invasion and production all still happen."
 @1
 N No source found.
 @2

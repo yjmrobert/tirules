@@ -23,7 +23,7 @@
         </ul></li></ol>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo; The cited Covert Legislation ruling does not address this.</li>
+        <li><b>Implicit</b>: <sup>4</sup> &ldquo;What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says &lsquo;resolved with no effect&rsquo;. A: &lsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
     </ol>
 

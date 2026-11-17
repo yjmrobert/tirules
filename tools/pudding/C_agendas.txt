@@ -68,7 +68,7 @@ N No source found.
 @31
 E2 RulesPal, "When is Committee Formation used …?": "The Nekro can hold and use it despite not voting."
 @32
-E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step." The cited entry (Nomad agent) does not address this.
+E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step."
 @33
 N No source found.
 @34

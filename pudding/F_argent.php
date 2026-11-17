@@ -26,7 +26,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 10.1d: &ldquo;This ability can still be used if no fighters are present.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 16: &ldquo;The &lsquo;Anti-Fighter Barrage&rsquo; step can occur even if a player&rsquo;s opponent has no fighters in the combat.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;Argent fire barrage even when the opponent has no fighters.&rdquo; The cited entry (Crown of Thalnos) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;Argent fire barrage even when the opponent has no fighters.&rdquo;</li>
         </ul></li>
     <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup>
         <ul>
@@ -39,7 +39,7 @@
     <li>The chosen ship becomes damaged, it does not use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo; The cited entry (same-name cards) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> faction technology, this will not reduce the number of ships that the Argent player chooses.<sup>2</sup>

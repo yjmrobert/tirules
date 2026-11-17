@@ -8,7 +8,7 @@
     <li>A planet cannot contain more than one sleeper token.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which side of the sleeper token is used &hellip;?&rdquo;: &ldquo;A planet holds one sleeper.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Titans put more than one sleeper on a planet with Terragenesis &hellip;?&rdquo;: &ldquo;a planet holds at most one.&rdquo; The cited entry (activating a system with your token) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Titans put more than one sleeper on a planet with Terragenesis &hellip;?&rdquo;: &ldquo;a planet holds at most one.&rdquo;</li>
         </ul></li>
     </ol>
 

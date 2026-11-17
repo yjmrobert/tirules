@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system." The matched LRR passage (Space Cannon) does not address this.
+E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
 @1
 E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
 E2 RulesPal, "When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?": "the command-token restriction and other tactical-action movement rules are ignored."

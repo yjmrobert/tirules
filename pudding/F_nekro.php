@@ -59,7 +59,7 @@
     </ol>
     <li>If the Nekro player chooses to gain a unit upgrade technology, that upgrade will be in effect from that point in the combat onwards.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Nekro Virus gain a technology, does the other player lose it?&rdquo;: &ldquo;it works immediately, even for the rest of that combat.&rdquo; The cited entry (Research Agreement) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Nekro Virus gain a technology, does the other player lose it?&rdquo;: &ldquo;it works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
     <ol>
         <li>The combat value of a combat dice is fixed as it is rolled, and all combat dice are rolled before any hits are assigned. Gaining a unit upgrade technology will not cause any already rolled combat dice to produce any additional hits due to an improved combat value. The same applies to unit ability dice.<sup>*</sup>

@@ -27,7 +27,7 @@
         <li>The placement location of The Fracture is arbitrary, and should have no mechanical effect on the game state.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Regardless of where The Fracture is placed, its systems are not adjacent to the systems it is touching.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is The Fracture 3 systems or 7 &hellip;?&rdquo;: &ldquo;It can sit anywhere, and the galaxy tiles it touches stay edge systems.&rdquo; The other cited entry (Sabotage) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is The Fracture 3 systems or 7 &hellip;?&rdquo;: &ldquo;It can sit anywhere, and the galaxy tiles it touches stay edge systems.&rdquo;</li>
         </ul></li>
         <li>All systems in The Fracture are considered to be on the edge of the game board.<sup>2,7</sup>
         <ul>

@@ -43,7 +43,7 @@ E4 "the same unit could not use its Sustain Damage ability multiple times during
 @20
 N No source found.
 @21
-E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage." The cited entry (same-name cards) does not address this.
+E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage."
 @22
 E4 "The Dynamo's ability can be used multiple times in the same combat round by spending 2 influence, individually, each time."
 E2 RulesPal: "Each repair is paid separately."

@@ -28,7 +28,7 @@
         </ul></li></ol>
     <li>A breakthrough itself is not a technology; it alone cannot be used to meet a prerequisite when researching a technology, nor can it alone be used to meet the technology requirement of an objective.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade or for anything that cares about technologies.&rdquo; The cited entry (Prophecy of Kings technologies) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade or for anything that cares about technologies.&rdquo;</li>
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> player gains their breakthrough as a starting component, which triggers a breakthrough roll during setup; The Fracture may be in play from the start of the game.<sup>2</sup>
         <ul>

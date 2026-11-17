@@ -121,7 +121,7 @@
         </ul></li>
     <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Direct Hit destroy a mech that uses Sustain Damage?&rdquo;: &ldquo;A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage.&rdquo; The cited entry (same-name cards) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Direct Hit destroy a mech that uses Sustain Damage?&rdquo;: &ldquo;A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage.&rdquo;</li>
         </ul></li>
     <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup>
         <ul>

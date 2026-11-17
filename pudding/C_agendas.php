@@ -180,7 +180,7 @@
     <ol class="note">
     <li>All trade goods are gained together.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step.&rdquo; The cited entry (Nomad agent) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step.&rdquo;</li>
         </ul></li>
     <li>Each destroyed infantry will provide one trade good and each destroyed mech will provide one trade good.<sup>*</sup>
         <ul>

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>As each player only has ten plastic fighter figures and twelve plastic infantry figures, a player cannot have fighters in more than ten systems, and cannot have infantry on more than twelve planets or being carried in more than twelve space areas, or any combination thereof.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited, and what are they for?&rdquo;: &ldquo;each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them.&rdquo; The cited entry (Xxcha mechs) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited, and what are they for?&rdquo;: &ldquo;each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them.&rdquo;</li>
         </ul></li>
     <li>Players may also swap infantry and fighter plastic pieces for tokens at any time.<sup>2</sup>
         <ul>

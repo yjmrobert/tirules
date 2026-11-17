@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "If Winnu place a mech with Hope's End …?": "a dock placed by Winnu's Reclamation comes after the tactical action, too late to produce in it." The cited entry (Hel-Titan) does not address this.
+E2 RulesPal, "If Winnu place a mech with Hope's End …?": "a dock placed by Winnu's Reclamation comes after the tactical action, too late to produce in it."
 @1
 E5 Designer ruling: "In both the situations you mentioned there (Quantum Datahub Node and Acquiescence) the player who picked the strategy card originally would get the trade goods."
 @2

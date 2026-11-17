@@ -101,7 +101,7 @@
     <ol class="note">
     <li>Jae Mir Kan may be used even if the Mahact player has no command tokens in their strategy pool.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?&rdquo;: &ldquo;Yes &mdash; they replace the token, so none is needed.&rdquo; The cited entry (Galactic Crisis Pact) does not address this.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?&rdquo;: &ldquo;Yes &mdash; they replace the token, so none is needed.&rdquo;</li>
         </ul></li>
     <li>If the Mahact player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup>
         <ul>

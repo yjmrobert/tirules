@@ -48,7 +48,6 @@ E5 Designer ruling (Skootur, Oct 12, 2017): "The wording on Matriarch should rea
 E2 RulesPal, "What combat value do Naalu fighters use in ground combat …?": "Their own fighter combat value, upgrades included."
 @19
 E12 Codex III, Z'eu Ω: "that player may perform a tactical action in a non-home system without placing a command token."
-I2 RulesPal, "When an ability moves units outside a tactical action …?" (does not address Z'eu Ω directly).
 @20
 I1 LRR 5.2: "A player cannot activate a system that already contains one of their command tokens."
 @21
@@ -100,7 +99,7 @@ E2 RulesPal: "A FAQ answer quoted by a player says it can't … interrupt the Po
 E4 "The Naalu Collective Commander, M'aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck."
 E2 RulesPal: "it can't peek at the card Covert Legislation draws."
 @43
-E2 RulesPal, "Are my unplayed promissory notes in my hand …?": "With the Naalu hero, each player chooses which note to give." The cited entry (Quantum Datahub Node) does not address this.
+E2 RulesPal, "Are my unplayed promissory notes in my hand …?": "With the Naalu hero, each player chooses which note to give."
 @44
 N No source found.
 @45

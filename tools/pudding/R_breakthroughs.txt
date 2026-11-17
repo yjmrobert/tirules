@@ -10,6 +10,6 @@ E7 Thunder's Edge Rulebook p. 9: "a breakthrough that does not have synergy (as 
 @4
 E2 RulesPal, "Are breakthroughs technologies, and do their passive abilities work while exhausted?": "Their passive abilities keep working while exhausted."
 @5
-E2 Same entry: "They aren't technologies, so a breakthrough like Mentak's Corsair doesn't count as a unit upgrade or for anything that cares about technologies." The cited entry (Prophecy of Kings technologies) does not address this.
+E2 Same entry: "They aren't technologies, so a breakthrough like Mentak's Corsair doesn't count as a unit upgrade or for anything that cares about technologies."
 @6
 E2 RulesPal, "Does the Crimson Rebellion's starting breakthrough trigger the Fracture roll?": "Yes — you gain starting components at setup … a player reports the developer saying the game can start with the Fracture in play."

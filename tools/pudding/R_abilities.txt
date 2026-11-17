@@ -16,7 +16,7 @@ E2 RulesPal, "Is each paragraph on a card a separate ability …?": "Yes — eac
 @6
 E2 RulesPal, "When do 'at the start of your turn' abilities happen, and do they work in other phases?": "Before you choose your action or pass, so they come before activating a system … They only exist in the action phase."
 @7
-E2 RulesPal, "Do 'during the action phase' agent abilities use my action, and does 'a player' include me?": "'A player' includes you; only 'another player' excludes you." The cited entry (non-home systems) does not address this.
+E2 RulesPal, "Do 'during the action phase' agent abilities use my action, and does 'a player' include me?": "'A player' includes you; only 'another player' excludes you."
 @8
 E5 Designer ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window."
 @9
