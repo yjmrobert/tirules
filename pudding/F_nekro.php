@@ -70,11 +70,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
-        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, and gaining a unit upgrade technology with an <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>*</sup>
+        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, and gaining a unit upgrade technology with an <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
-        <li>If the Nekro player uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy a unit when it uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, this will occur before any units are destroyed from being assigned hits. If the Nekro player then gains a technology that gives their units the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, they may then use that ability for their units participating in the combat to cancel hits produced by their opponent during that round of combat.<sup>*</sup>
+        <li>If the Nekro player uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy a unit when it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, this will occur before any units are destroyed from being assigned hits. If the Nekro player then gains a technology that gives their units the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, they may then use that ability for their units participating in the combat to cancel hits produced by their opponent during that round of combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -110,7 +110,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation">Propagation</a></h2>
     <ol class="note">
-    <li>The Nekro player may still resolve the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card, which will instead gain them command tokens.<sup>2</sup>
+    <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;because they can&rsquo;t research, Propagation gives them 3 command tokens instead.&rdquo;</li>
         </ul></li>
@@ -135,7 +135,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>To resolve the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card, the Nekro player must still spend a command token from their strategy pool and four resources.<sup>2</sup>
+    <li>To resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, the Nekro player must still spend a command token from their strategy pool and four resources.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;Yes &mdash; like anyone they spend a strategy token and 4 resources.&rdquo;</li>
         </ul></li>
@@ -171,7 +171,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Antivirus</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Antivirus</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -452,7 +452,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship.&rdquo;</li>
         </ul></li>
-    <li>The Nekro player&rsquo;s flagship gains only the text abilities of a copied flagship. Unit abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a>, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, are not copied.<sup>2</sup>
+    <li>The Nekro player&rsquo;s flagship gains only the text abilities of a copied flagship. Unit abilities, such as <a href="/R_deploy"><sc>Deploy</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, are not copied.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?&rdquo;: &ldquo;your flagship gains that flagship&rsquo;s text abilities &hellip; Unit abilities like Deploy, Space Cannon or Sustain Damage aren&rsquo;t text abilities, so copying flagships that rely on them gains nothing.&rdquo;</li>
         </ul></li>

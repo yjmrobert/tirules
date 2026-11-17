@@ -134,7 +134,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense, are they resolved together?&rdquo;: &ldquo;a unit destroyed earlier, such as an Xxcha flagship, never gets to shoot.&rdquo;</li>
         </ul></li>
@@ -277,7 +277,7 @@
         <li><b>Unverified</b>: <sup>2</sup> Partial conflict: the same RulesPal entry says the combined value applies &ldquo;even when exhausted for Uprising.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A space dock will not add the influence value of the planet it is on to its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value.<sup>2</sup>
+        <li>A space dock will not add the influence value of the planet it is on to its <a href="/R_production"><sc>Production</sc></a> value.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine &hellip;?&rdquo;: &ldquo;it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
         </ul></li>
@@ -310,7 +310,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense &hellip;?&rdquo;: &ldquo;one player at a time &hellip; Each player&rsquo;s roll, hit assignment &hellip; finish before the next fires.&rdquo;</li>
         </ul></li>
@@ -337,7 +337,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>A space dock cannot use the influence value of the planet it is on to calculate its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value.<sup>*</sup>
+        <li>A space dock cannot use the influence value of the planet it is on to calculate its <a href="/R_production"><sc>Production</sc></a> value.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

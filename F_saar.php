@@ -32,7 +32,7 @@
     <li>A player may still use abilities such as action cards or <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> that affect the Saar player&rsquo;s units located in asteroid fields.<sup>*</sup></li>
     <li>If an asteroid field contains only non&ndash;ship units belonging to the Saar player, it may still be activated by other players.<sup>*</sup></li>
     <li>The <a href="/F_creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
@@ -48,11 +48,11 @@
     </ol>
     <li>If the Saar player has their last ship destroyed during combat by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, a Floating Factory in the system will be blockaded and destroyed, even if the Saar player produced enough hits to destroy their opponent&rsquo;s remaining ships during that round of combat.<sup>*</sup></li>
     <ol>
-        <li>Players alternate using the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup></li>
+        <li>Players alternate using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup></li>
     </ol>
     <li>If, at the end of the combat, the Saar player has no ships, and their opponent has only fighters, then any Floating Factories in the system will be blockaded, and thus destroyed, before the fighters are removed due to lack of capacity.<sup>*</sup></li>
     <ol><li>If the <a href="/F_nekro">Nekro</a> player has only ground forces participating in the combat as ships due to the effect of their flagship, the Alastor, those ground forces will blockade and destroy any Floating Factories, even if those ground forces are on planets instead of in the space area.<sup>*</sup></li></ol>
-    <li>When resolving an ability of the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup></li>
+    <li>When resolving an ability of the <a href="/R_construction"><i>Construction</i></a> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup></li>
     <ol><li>The Saar player cannot place a Floating Factory in a system if the only planet they control in that system has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> cultural exploration card attached.<sup>*</sup></li></ol>
     <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology), it will not be blockaded in systems it moves through.<sup>*</sup></li>
     <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating Factory is immediately destroyed.<sup>1,2,5</sup></li>
@@ -64,7 +64,7 @@
     <li>If another player&rsquo;s ships move through a system that contains a Floating Factory and none of the Saar player&rsquo;s ships, the Floating Factory is not destroyed; it is destroyed only if those ships end their movement in that system.<sup>5</sup></li>
     <li>If the Saar player retreats from a space combat, Floating Factories in the active system may retreat with the Saar player&rsquo;s other ships, even if those ships are only fighters. Floating Factories may also be moved by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, provided they are never alone with another player&rsquo;s ships.<sup>2,5</sup></li>
     <li>There is no limit to the number of Floating Factories that may be in the same system.<sup>2</sup></li>
-    <li>A Floating Factory may move into the active system and use its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability during the same tactical action.<sup>2</sup></li>
+    <li>A Floating Factory may move into the active system and use its <a href="/R_production"><sc>Production</sc></a> ability during the same tactical action.<sup>2</sup></li>
     <li>A Floating Factory cannot count towards the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup></li>
     </ol>
 
@@ -94,8 +94,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Saar player may perform the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability with the gained trade good.<sup>*</sup></li>
-    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability will be able to trigger.<sup>*</sup></li>
+    <li>The Saar player may perform the <a href="/R_deploy"><sc>Deploy</sc></a> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <a href="/R_deploy"><sc>Deploy</sc></a> ability with the gained trade good.<sup>*</sup></li>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <a href="/R_deploy"><sc>Deploy</sc></a> ability will be able to trigger.<sup>*</sup></li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.<sup>2</sup></li>
     </ol>
 
@@ -103,7 +103,7 @@
     <ol class="note">
     <li>The Saar player must choose how many resources to spend before rolling any dice.<sup>*</sup></li>
     <li>The Saar player chooses which unit the hits get assigned to.<sup>6</sup></li>
-    <li>If the chosen unit has the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, it may be used to cancel the hit.<sup>6</sup></li>
+    <li>If the chosen unit has the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may be used to cancel the hit.<sup>6</sup></li>
     <ol><li>The Saar player may assign multiple hits to the same unit.<sup>6</sup></li></ol>
     </ol>
 </article>

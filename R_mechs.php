@@ -7,7 +7,7 @@
     <ol class="lrr">
     <li data-src="1,2,8">Mechs are a type of ground force and can be transported and participate in ground combat.</li>
     <li data-src="1,8">Each player begins with their mech unit card in play on their leader sheet and can produce mechs for the cost presented on the card.</li>
-    <li data-src="1,2,8">Some mechs have <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> abilities which allow a player to place them on the game board without producing them normally.</li>
+    <li data-src="1,2,8">Some mechs have <a href="/R_deploy"><sc>Deploy</sc></a> abilities which allow a player to place them on the game board without producing them normally.</li>
     <li data-src="1,8">Mech unit cards are not technologies.</li>
     </ol>
 

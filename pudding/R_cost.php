@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do units &lsquo;placed&rsquo; by an effect cost resources, and do they count as producing?&rdquo;: &ldquo;An effect that says &lsquo;produce&rsquo; means you pay the cost unless it says otherwise.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo; The cited LRR passage (30.1) is less direct.</li>
         </ul></li>
-    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability. However, the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability itself may have a cost that must be paid.<sup>1</sup>
+    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability. However, the <a href="/R_deploy"><sc>Deploy</sc></a> ability itself may have a cost that must be paid.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 30.1a: &ldquo;A player does not have to spend resources to deploy a unit unless otherwise specified.&rdquo;</li>
         </ul></li>

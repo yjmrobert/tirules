@@ -23,10 +23,10 @@
     <ol class="note">
     <li>When resolving the ability of an Exotrireme II, the N&rsquo;orr player chooses which ships are destroyed.<sup>2,5</sup></li>
     <ol><li>The N&rsquo;orr cannot choose their own ships as targets.<sup>*</sup></li></ol>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
+    <li>Effects that cancel hits, such as the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     <li>If a player retreats, the N&rsquo;orr player will be unable to use the ability of an Exotrireme II to destroy an opponent&rsquo;s ship.<sup>2</sup></li>
     <li>If the N&rsquo;orr player is in a combat with the <a href="/F_yin">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
-    <li>An Exotrireme II that used its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup></li>
+    <li>An Exotrireme II that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=C%27morran%20N%27orr">C&rsquo;morran N&rsquo;orr</a> <sub>(Flagship)</sub></h2>
@@ -45,7 +45,7 @@
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
     <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup></li>
     <li>The N&rsquo;orr player may only commit ground forces as the active player.<sup>2,4</sup></li>
-    <li>Only the active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup></li>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup></li>
     <ol>
@@ -69,7 +69,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The hit produced by the Valkyrie Exoskeleton is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>*</sup></li>
-    <li>If a Valkyrie Exoskeleton uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup></li>
+    <li>If a Valkyrie Exoskeleton uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=N%27orr%20Supremacy">N&rsquo;orr Supremacy</a> <sub>(Breakthrough)</sub></h2>

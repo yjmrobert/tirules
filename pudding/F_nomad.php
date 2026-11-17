@@ -33,24 +33,24 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the chosen ship does not usually have the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is damaged during combat, it will remain damaged even after losing the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+    <li>If the chosen ship does not usually have the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is damaged during combat, it will remain damaged even after losing the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As it is already damaged, it will be unable to use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability again.<sup>*</sup>
+        <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As it is already damaged, it will be unable to use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+        <li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>In a future combat, the damaged ship may be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology. It will be unable to be damaged again unless it has regained the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+        <li>In a future combat, the damaged ship may be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology. It will be unable to be damaged again unless it has regained the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs"><i>Emergency Repairs</i></a> action card is played, the damaged ship will not be repaired unless it currently has the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs"><i>Emergency Repairs</i></a> action card is played, the damaged ship will not be repaired unless it currently has the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>*</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to <a href="/R_mecatol_rex">Mecatol Rex</a>. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -237,7 +237,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>).<sup>*</sup>
+    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 40 (Game Round): &ldquo;Players skip the agenda phase during the early portion of each game.&rdquo;</li>
         </ul></li>
@@ -250,11 +250,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When a Quantum Manipulator uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
+    <li>When a Quantum Manipulator uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A Quantum Manipulator may use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.<sup>*</sup>
+    <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

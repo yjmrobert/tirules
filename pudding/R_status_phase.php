@@ -15,7 +15,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup>
+    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.3: &ldquo;A damaged unit cannot use the &lsquo;Sustain Damage&rsquo; ability until it is repaired during the status phase.&rdquo; Status phase repairs all damaged units.</li>
         </ul></li>

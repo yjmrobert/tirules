@@ -26,7 +26,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Arborec player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Stymie</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Arborec player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Stymie</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -76,7 +76,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Infantry:~:text=Letani%20Warrior">Letani Warrior</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When multiple units use their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value is pooled. As such, if the Arborec player has two Letani Warrior I in a system, they may produce two infantry for one resource, rather than two.<sup>1,2,3,5</sup>
+    <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Arborec player has two Letani Warrior I in a system, they may produce two infantry for one resource, rather than two.<sup>1,2,3,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the &lsquo;Production&rsquo; abilities of multiple Arborec &lsquo;Letani Warriors&rsquo; in a system be combined to allow the production of two infantry for one resource? A: Yes. Production value is totaled when the &lsquo;Production&rsquo; ability of units in a system is used.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Their Production pools with your other units in the system.&rdquo;</li>
@@ -97,7 +97,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When an ability other than &lsquo;Production&rsquo; allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal on Integrated Economy (a similar non-Production effect): &ldquo;paid normally.&rdquo;</li>
         </ul></li>
-    <li>The <i>Duha Menaimon</i> does not have <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar such effects do not apply to the <i>Duha Menaimon</i>.<sup>1</sup>
+    <li>The <i>Duha Menaimon</i> does not have <a href="/R_production"><sc>Production</sc></a>. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar such effects do not apply to the <i>Duha Menaimon</i>.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
         </ul></li>
@@ -139,11 +139,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
         </ul></li>
-    <li>The Arborec player may produce an infantry, even if the only unit with the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability in the active system is their space dock.<sup>*</sup>
+    <li>The Arborec player may produce an infantry, even if the only unit with the <a href="/R_production"><sc>Production</sc></a> ability in the active system is their space dock.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 68.1d says Arborec space dock &ldquo;&rsquo;Production&rsquo; value &hellip; cannot be used to produce infantry&rdquo;; the commander&rsquo;s ability is not Production.</li>
         </ul></li>
@@ -153,7 +153,7 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
-    <li>A unit with <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> in an entropic scar still has <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, even though it cannot use it. As such, Dirzuga Rophal may still be used in that system.<sup>2</sup>
+    <li>A unit with <a href="/R_production"><sc>Production</sc></a> in an entropic scar still has <a href="/R_production"><sc>Production</sc></a>, even though it cannot use it. As such, Dirzuga Rophal may still be used in that system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Arborec commander work with a Letani in an Entropic Scar?&rdquo;: &ldquo;Yes &mdash; the scar stops unit abilities being used but doesn&rsquo;t remove them, and the commander is a text ability that only needs a unit with Production.&rdquo;</li>
         </ul></li>
@@ -169,7 +169,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>

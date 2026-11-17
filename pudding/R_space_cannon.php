@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>&ldquo;<a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities that can be used against ships in an adjacent system.<sup>*</sup>
+    <li>&ldquo;<a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. (A note on this site&rsquo;s terminology.)</li>
         </ul></li>
@@ -13,24 +13,24 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;Destroying ships with Space Cannon during movement &hellip; involves no combat.&rdquo; The cited entry is less direct.</li>
         </ul></li>
-    <li>If a player chooses to use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units, they must do so for all of their eligible units with the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability. This includes units in adjacent systems, if applicable.<sup>*</sup>
+    <li>If a player chooses to use the <sc>Space Cannon</sc> ability of their units, they must do so for all of their eligible units with the <sc>Space Cannon</sc> ability. This includes units in adjacent systems, if applicable.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>A player that chooses to use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup>
+    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional &hellip;?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it.&rdquo; The cited entry is less direct.</li>
         </ul></li></ol>
-    <li>A player may use the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup>
+    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4: &ldquo;A unit can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship use Sustain Damage against Space Cannon hits?&rdquo;: &ldquo;Yes &mdash; Sustain Damage can cancel any hit produced against the unit, Space Cannon included.&rdquo;</li>
         </ul></li>
-    <li>A player may use the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup>
+    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.4: Sustain Damage applies to &ldquo;unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo; LRR 77.8: &ldquo;The active player must choose and destroy one of their ground forces on the planet for each hit.&rdquo;</li>
         </ul></li>
-    <li>If multiple players are resolving the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.<sup>2</sup>
+    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;Immediately whenever it isn&rsquo;t combat, for example after each player&rsquo;s Space Cannon Offense volley, before the next player fires.&rdquo;</li>
         </ul></li>

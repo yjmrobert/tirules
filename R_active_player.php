@@ -15,7 +15,7 @@
     <li>During combat, the active player is the attacker.<sup>1,3</sup></li>
     <li>The active player will have the first opportunity to resolve abilities during each timing window.<sup>1,2,5</sup></li>
     <li>All transactions during the action phase must involve the active player.<sup>2</sup></li>
-    <li>If a non&ndash;active player produces hits using the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon#Space_Cannon_Offense"><sc>Space Cannon Offense</sc></a> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.<sup>1,2</sup></li>
+    <li>If a non&ndash;active player produces hits using the <a href="/R_space_cannon"><sc>Space Cannon Offense</sc></a> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

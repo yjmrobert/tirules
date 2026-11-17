@@ -23,11 +23,11 @@
     <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.<sup>*</sup></li>
     <ol>
         <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
@@ -282,7 +282,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council">Intimidate Council</a></h2>
     <ol class="note">
-    <li>Any ships in the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup></li>
+    <li>Any ships in the <a href="/R_mecatol_rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup></li>
     <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
     </ol>
 
@@ -320,11 +320,11 @@
     <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.<sup>*</sup></li>
     <ol>
         <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Make History</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Make History</i>.<sup>*</sup></li>
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>

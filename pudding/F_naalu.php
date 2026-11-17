@@ -194,7 +194,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup>
+    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -210,11 +210,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a game effect instructs the Naalu player to produce ships without using the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, they may only produce additional fighters if that game effect allows them to produce fighters.<sup>*</sup>
+    <li>If a game effect instructs the Naalu player to produce ships without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce additional fighters if that game effect allows them to produce fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -261,7 +261,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>12</sup> Codex III, Iconoclast (Naalu mech): &ldquo;Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.&rdquo; protection applies to units in the system, not just space area.</li>
         </ul></li>
-    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup>
+    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?&rdquo;: &ldquo;Yes &mdash; other players can&rsquo;t use barrage in that system, so no dice are rolled and effects tied to it, like Argent&rsquo;s, don&rsquo;t trigger.&rdquo;</li>
         </ul></li>

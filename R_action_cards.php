@@ -6,7 +6,7 @@
 <p data-src="1,3">Action cards provide players with various abilities that they can resolve as described on the cards.</p>
     <ol class="lrr">
     <li data-src="1,3">Each player draws one action card during each status phase.</li>
-    <li data-src="1,3">Players can draw action cards by resolving the primary and secondary abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> strategy card.</li>
+    <li data-src="1,3">Players can draw action cards by resolving the primary and secondary abilities of the <a href="/R_politics"><i>Politics</i></a> strategy card.</li>
     <li data-src="1,3">When a player draws an action card, they take the top card from the action card deck and add it to their hand of action cards.</li>
     <li data-src="1,2,3">Each player&rsquo;s hand can have a maximum of <b>seven action cards</b>. If a player ever has more than seven action cards, that player must choose seven cards to keep and discard the rest.</li>
     <ol><li data-src="1">A game effect can increase or decrease the number of cards a player&rsquo;s hand can have.</li></ol>

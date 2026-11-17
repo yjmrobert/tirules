@@ -10,7 +10,7 @@
     <li data-src="1,3">During setup, the speaker prepares the objectives.</li>
     <li data-src="1,2,3">During the status phase, the speaker reveals a public objective.</li>
     <li data-src="1,3">A random player gains the speaker token during setup before the game begins.</li>
-    <li data-src="1,2,3">During the action phase, if a player resolves the primary ability on the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> strategy card, that player chooses any player other than the current speaker to gain the speaker token.</li>
+    <li data-src="1,2,3">During the action phase, if a player resolves the primary ability on the <a href="/R_politics"><i>Politics</i></a> strategy card, that player chooses any player other than the current speaker to gain the speaker token.</li>
     <li data-src="1">If the speaker is eliminated from the game, the speaker token is passed to the player to the speaker&rsquo;s left.</li>
     </ol>
 

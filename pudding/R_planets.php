@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> and planets in home systems do not have traits.<sup>1,2</sup>
+    <li><a href="/R_mecatol_rex">Mecatol Rex</a> and planets in home systems do not have traits.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 38.1b: &ldquo;Planets that do not have traits, such as Mecatol Rex and planets in home systems, cannot be explored.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?&rdquo;: &ldquo;Mecatol Rex and home planets have no trait and can&rsquo;t be explored.&rdquo;</li>

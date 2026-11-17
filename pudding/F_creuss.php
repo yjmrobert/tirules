@@ -103,11 +103,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits.&rdquo;</li>
         </ul></li>
-    <li>The chosen ship may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ship with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>2</sup>
+    <li>The chosen ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship &hellip;?&rdquo;: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
-    <li>If the chosen ship cancels the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup>
+    <li>If the chosen ship cancels the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Creuss flagship&rsquo;s delta wormhole trigger Dimensional Splicer?&rdquo;: &ldquo;which can set up Direct Hit.&rdquo;</li>
@@ -301,11 +301,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Each wormhole in the system provides the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup>
+    <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? &hellip; A: Yes, each wormhole, even wormholes of the same type,&rdquo; provides it.</li>
         </ul></li>
-    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
+    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

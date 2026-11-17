@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A system is only activated by placing a command token during the Activation step of a tactical action or through the primary ability of the Warfare strategy card. Command tokens placed by other effects, such as the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card or a retreat, and action cards that target a system, do not activate that system.<sup>2</sup>
+    <li>A system is only activated by placing a command token during the Activation step of a tactical action or through the primary ability of the Warfare strategy card. Command tokens placed by other effects, such as the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card or a retreat, and action cards that target a system, do not activate that system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Diplomacy tokens, retreats or action cards like Ghost Ship or Plague count as activating a system?&rdquo;: &ldquo;No &mdash; a system is activated only by placing a command token as the first step of a tactical action. Tokens placed by Diplomacy or a retreat and cards aimed at a system don&rsquo;t activate it.&rdquo;</li>
         </ul></li>

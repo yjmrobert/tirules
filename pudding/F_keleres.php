@@ -80,27 +80,27 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Agency%20Supply%20Network">Agency Supply Network</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>Any abilities that trigger &ldquo;when/after a unit uses <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
+    <li>Any abilities that trigger &ldquo;when/after a unit uses <a href="/R_production"><sc>Production</sc></a>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice).&rdquo;</li>
         </ul></li>
-    <li>The additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability cannot belong to the same unit as the original <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>4</sup>
+    <li>The additional <a href="/R_production"><sc>Production</sc></a> ability cannot belong to the same unit as the original <a href="/R_production"><sc>Production</sc></a> ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network.&rdquo;</li>
         </ul></li>
-    <ol><li>During a tactical action, the active player must use every <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of their units in the active system, or none of them. As such, the additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability must belong to a unit in a different system.<sup>4</sup>
+    <ol><li>During a tactical action, the active player must use every <a href="/R_production"><sc>Production</sc></a> ability of their units in the active system, or none of them. As such, the additional <a href="/R_production"><sc>Production</sc></a> ability must belong to a unit in a different system.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;PRODUCTION is all or nothing during tactical actions, so you couldn&rsquo;t choose to only use one ability in a system to then use another one in the same system.&rdquo;</li>
         </ul></li></ol>
-    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, they may use an additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <a href="/R_production"><sc>Production</sc></a> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <a href="/R_production"><sc>Production</sc></a> ability, they may use an additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The original <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability must be fully resolved, before the Keleres player may use an additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <li>The original <a href="/R_production"><sc>Production</sc></a> ability must be fully resolved, before the Keleres player may use an additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability and one with the unit using the additional <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <a href="/R_production"><sc>Production</sc></a> ability and one with the unit using the additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -122,7 +122,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card (or next lowest initiative value should no player have the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card), regardless of the Keleres player&rsquo;s initiative.<sup>*</sup>
+    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <a href="/R_leadership"><i>Leadership</i></a> strategy card (or next lowest initiative value should no player have the <a href="/R_leadership"><i>Leadership</i></a> strategy card), regardless of the Keleres player&rsquo;s initiative.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -201,7 +201,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When the Keleres player uses the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup>
+    <li>When the Keleres player uses the <a href="/R_production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &lsquo;as if it were a unit&rsquo;.&rdquo;</li>
         </ul></li>

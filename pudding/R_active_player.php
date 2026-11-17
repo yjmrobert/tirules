@@ -20,7 +20,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can make transactions, and when?&rdquo;: &ldquo;During the action phase, only the active player can transact.&rdquo;</li>
         </ul></li>
-    <li>If a non&ndash;active player produces hits using the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon#Space_Cannon_Offense"><sc>Space Cannon Offense</sc></a> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.<sup>1,2</sup>
+    <li>If a non&ndash;active player produces hits using the <a href="/R_space_cannon"><sc>Space Cannon Offense</sc></a> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;During Space Cannon Offense, who can shoot at whom?&rdquo;: &ldquo;each other player with Space Cannon in range fires, but only at the active player&rsquo;s ships.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 77.5: &ldquo;The player whose units have been targeted by &lsquo;Space Cannon&rsquo; must choose and destroy one of their ships.&rdquo;</li>

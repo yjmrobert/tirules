@@ -12,10 +12,10 @@
         <li data-src="1">During the last round of a combat, &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; effects occur during the same timing window.</li>
     </ol>
     <p data-src="1">To resolve a space combat, players perform the following steps:</p>
-    <li data-src="1,3"><b>Step 1 &ndash; Anti&ndash;Fighter Barrage</b>: If this is the first round of a space combat, the players may simultaneously use the <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability of any of their units in the active system.</li>
+    <li data-src="1,3"><b>Step 1 &ndash; Anti&ndash;Fighter Barrage</b>: If this is the first round of a space combat, the players may simultaneously use the <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability of any of their units in the active system.</li>
     <ol>
         <li data-src="1">If one or both players no longer have ships in the active system after resolving this step, the space combat ends immediately.</li>
-        <li data-src="1,2">Players cannot resolve <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> abilities during any rounds of space combat other than the first round.</li>
+        <li data-src="1,2">Players cannot resolve <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> abilities during any rounds of space combat other than the first round.</li>
         <li data-src="1,2,8">This step still occurs if no fighters are present.</li>
     </ol>
     <li data-src="1,2"><b>Step 2 &ndash; Announce Retreats</b>: Each player may announce a retreat, beginning with the defender.</li>
@@ -35,7 +35,7 @@
     </ol>
     <li data-src="1,3"><b>Step 4 &ndash; Assign Hits</b>: Each player in the combat must choose and destroy one of their own ships in the active system for each hit their opponent produced.</li>
     <ol>
-        <li data-src="1,2">Before assigning hits, players may use their units&rsquo; <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> abilities to cancel hits.</li>
+        <li data-src="1,2">Before assigning hits, players may use their units&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities to cancel hits.</li>
         <li data-src="1,3">When a unit is destroyed, the player who controls that unit removes it from the board and places it in their reinforcements.</li>
     </ol>
     <li data-src="1,3"><b>Step 5 &ndash; Retreat</b>: If a player announced a retreat during <b>step 2</b>, and there is still an eligible system for their units to retreat to, they must retreat.</li>

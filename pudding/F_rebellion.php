@@ -5,7 +5,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=Sundered">Sundered</a></h2>
     <ol class="note">
-    <li><sc>Sundered</sc> only prevents the Rebellion player&rsquo;s ships from moving through wormholes other than epsilon wormholes. Other wormholes still make systems adjacent for the Rebellion player for all other purposes, such as <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, neighbors, objectives, action cards, and the ability of the Exile.<sup>2,6,9</sup>
+    <li><sc>Sundered</sc> only prevents the Rebellion player&rsquo;s ships from moving through wormholes other than epsilon wormholes. Other wormholes still make systems adjacent for the Rebellion player for all other purposes, such as <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, neighbors, objectives, action cards, and the ability of the Exile.<sup>2,6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;They can&rsquo;t move through them. Other things are fine.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does the Crimson Rebellion&rsquo;s inability to use wormholes remove wormhole adjacency?&rdquo;: &ldquo;No &mdash; it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives.&rdquo; covers most listed purposes; action cards and Exile not mentioned.</li>
@@ -60,7 +60,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Promissory_Note:~:text=Sever">Sever</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup>
+    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? &hellip; A: Blocks movement. Adjacency, PDS, Ghost Ship, Become the Gatekeeper, SLIPSTREAM are all unaffected.&rdquo;</li>
         </ul></li>
@@ -105,11 +105,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production X</sc></a> ability, will have no effect.<sup>*</sup>
+        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <a href="/R_production"><sc>Production X</sc></a> ability, will have no effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If a unit loses its <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup>
+        <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -164,7 +164,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Mech:~:text=Revenant">Revenant</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Rebellion player may only <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> one mech per tactical action, regardless of the number of planets in the active system.<sup>*</sup>
+    <li>The Rebellion player may only <a href="/R_deploy"><sc>Deploy</sc></a> one mech per tactical action, regardless of the number of planets in the active system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

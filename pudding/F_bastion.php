@@ -54,16 +54,16 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima. You will exhaust the planet.&rdquo;</li>
         </ul></li>
-    <li>Abilities that affect bombardment rolls, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, or the <a href="/F_jol_nar">Jol&ndash;Nar</a> player&rsquo;s commander, Ta Zern, may be applied to the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> roll from <i>Proxima Targeting VI</i>.<sup>6,9</sup>
+    <li>Abilities that affect bombardment rolls, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, or the <a href="/F_jol_nar">Jol&ndash;Nar</a> player&rsquo;s commander, Ta Zern, may be applied to the <a href="/R_bombardment"><sc>Bombardment</sc></a> roll from <i>Proxima Targeting VI</i>.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Proxima Targeting VI (Technology): Can the Bastion player apply abilities such as Plasma Scoring/Argent commander or Jol-Nar commander to the BOMBARDMENT roll? A: Yes&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo; (on relics and technologies that use unit abilities).</li>
         </ul></li>
-    <li>When the Bastion player makes the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> roll against their own units, they will be able to cancel a hit for each of their present galvanized units.<sup>*</sup>
+    <li>When the Bastion player makes the <a href="/R_bombardment"><sc>Bombardment</sc></a> roll against their own units, they will be able to cancel a hit for each of their present galvanized units.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Other players with galvanized units cannot cancel the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> hits produced by <i>Proxima Targeting VI</i>.<sup>*</sup>
+    <li>Other players with galvanized units cannot cancel the <a href="/R_bombardment"><sc>Bombardment</sc></a> hits produced by <i>Proxima Targeting VI</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -75,7 +75,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Last Bastion&rsquo;s spaceport card, Helios upgrade and Galvanize tokens work?&rdquo;: &ldquo;Helios II replaces Helios I, so +2, not +3.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value of the 4X41C &ldquo;Helios&rdquo; will be calculated from the modified resource value of the planet, after the increase from the 4X41C &ldquo;Helios&rdquo; present.<sup>*</sup>
+    <li>The <a href="/R_production"><sc>Production</sc></a> value of the 4X41C &ldquo;Helios&rdquo; will be calculated from the modified resource value of the planet, after the increase from the 4X41C &ldquo;Helios&rdquo; present.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -123,7 +123,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Effects that cancel hits, such as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent units from being destroyed.<sup>2</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent units from being destroyed.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from &hellip; &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
         </ul></li>
@@ -150,11 +150,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Before assigning hits, players may cancel the produced hits by using the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of their units in the combat, one at a time, starting with the active player (intermixed with any other abilities either player wishes to resolve during the same window). Should any of the Bastion player&rsquo;s units be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then they can immediately trigger <i>Entity 4X41A &ldquo;Apollo&rdquo;</i>. They will roll dice for all of their opponent&rsquo;s remaining units in the system, which may include some units that their opponent would have otherwise gone on to cancel a hit with by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. Once <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> has finished resolving, both players must assign any remaining hits; they may cancel some number of these by using the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of any surviving units in the combat.<sup>*</sup>
+        <li>Before assigning hits, players may cancel the produced hits by using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of their units in the combat, one at a time, starting with the active player (intermixed with any other abilities either player wishes to resolve during the same window). Should any of the Bastion player&rsquo;s units be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then they can immediately trigger <i>Entity 4X41A &ldquo;Apollo&rdquo;</i>. They will roll dice for all of their opponent&rsquo;s remaining units in the system, which may include some units that their opponent would have otherwise gone on to cancel a hit with by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. Once <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> has finished resolving, both players must assign any remaining hits; they may cancel some number of these by using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of any surviving units in the combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>During the <b>Space Cannon Offense</b> step of a tactical action, players resolve the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their eligible units starting with the active player, and going around the table in a clockwise order. Each player will make their space cannon roll and have the hits assigned, likely destroying some units, before the next player begins their own space cannon roll. Should the Bastion player have one of their units destroyed by another player&rsquo;s space cannon roll, and choose to use the ability of <i>Entity 4X41A &ldquo;Apollo&rdquo;</i>, then in doing so they destroy a unit with the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability, that unit will not perform a space cannon roll if the player that owns that unit has not yet made their space cannon roll.<sup>2</sup>
+        <li>During the <b>Space Cannon Offense</b> step of a tactical action, players resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their eligible units starting with the active player, and going around the table in a clockwise order. Each player will make their space cannon roll and have the hits assigned, likely destroying some units, before the next player begins their own space cannon roll. Should the Bastion player have one of their units destroyed by another player&rsquo;s space cannon roll, and choose to use the ability of <i>Entity 4X41A &ldquo;Apollo&rdquo;</i>, then in doing so they destroy a unit with the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, that unit will not perform a space cannon roll if the player that owns that unit has not yet made their space cannon roll.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense, are they resolved together?&rdquo;: &ldquo;No &mdash; one player at a time &hellip; Each player&rsquo;s roll, hit assignment, Sustain Damage and responses like Direct Hit finish before the next fires, so a unit destroyed earlier &hellip; never gets to shoot.&rdquo;</li>
         </ul></li>

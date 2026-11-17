@@ -7,7 +7,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Reclamation">Reclamation</a></h2>
     <ol class="note">
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup></li>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence</a> <sub>(Promissory Note)</sub></h2>
@@ -23,8 +23,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.&rdquo;<sup>1</sup></li>
-    <li>Changing a planet&rsquo;s resource value will affect the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value of a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> on that planet.<sup>*</sup></li>
+    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="/R_production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="/R_production"><sc>Production</sc></a>.&rdquo;<sup>1</sup></li>
+    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding">Lazax Gate Folding</a> <sub>(Technology)</sub></h2>
@@ -58,15 +58,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card and potentially the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card.<sup>2</sup></li>
-    <li>If the Winnu player chooses the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup></li>
+    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card and potentially the <a href="/R_trade"><i>Trade</i></a> strategy card.<sup>2</sup></li>
+    <li>If the Winnu player chooses the <a href="/R_trade"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup></li>
     <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If the Winnu player places a Reclaimer with the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup></li>
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup></li>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup></li>
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.<sup>*</sup></li>
     <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, or some exploration cards.<sup>*</sup></li>
     </ol>

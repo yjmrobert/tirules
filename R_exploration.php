@@ -9,7 +9,7 @@
     <li data-src="1,2,8">When a player explores a planet, they draw and resolve a card from the exploration deck that corresponds to that planet&rsquo;s trait.</li>
     <ol>
         <li data-src="1">There are three planetary exploration decks, each of which corresponds to a planet trait: cultural, hazardous, and industrial.</li>
-        <li data-src="1,2,8">Planets that do not have traits, such as <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> and planets in home systems, cannot be explored.</li>
+        <li data-src="1,2,8">Planets that do not have traits, such as <a href="/R_mecatol_rex">Mecatol Rex</a> and planets in home systems, cannot be explored.</li>
         <li data-src="1,2,7">If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.</li>
         <li data-src="1,8">If a player gains control of multiple planets or resolves multiple explore effects at the same time, they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.</li>
     </ol>

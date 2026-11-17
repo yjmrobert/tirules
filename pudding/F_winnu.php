@@ -9,7 +9,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Reclamation">Reclamation</a></h2>
     <ol class="note">
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End &hellip;?&rdquo;: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>
@@ -37,11 +37,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.&rdquo;<sup>1</sup>
+    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="/R_production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="/R_production"><sc>Production</sc></a>.&rdquo;<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Winnu faction technology &lsquo;Hegemonic Trade Policy&rsquo; should read as follows: &lsquo;Exhaust this card when 1 or more of your units use &lsquo;Production;&rsquo; swap the resource and influence values of 1 planet you control during that use of &lsquo;Production.&rsquo;&rsquo;&rdquo;</li>
         </ul></li>
-    <li>Changing a planet&rsquo;s resource value will affect the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value of a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> on that planet.<sup>*</sup>
+    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;A Space Dock I has Production equal to its planet&rsquo;s resource value plus 2.&rdquo;</li>
         </ul></li>
@@ -116,11 +116,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card and potentially the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card.<sup>2</sup>
+    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card and potentially the <a href="/R_trade"><i>Trade</i></a> strategy card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a strategy card&rsquo;s primary ability cost a command token, and does the Leadership secondary?&rdquo;: &ldquo;Secondaries cost a strategy pool token, except Leadership&rsquo;s.&rdquo;</li>
         </ul></li>
-    <li>If the Winnu player chooses the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup>
+    <li>If the Winnu player chooses the <a href="/R_trade"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -136,7 +136,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End, can the Winnu mech ability then place a space dock?&rdquo;: &ldquo;No &mdash; Hope&rsquo;s End resolves at the end of your turn, after the window where the mech&rsquo;s ability triggers.&rdquo;</li>
         </ul></li>
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>

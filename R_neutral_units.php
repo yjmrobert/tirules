@@ -14,8 +14,8 @@
     <li>Neutral units do not take turns, own technology, or draw action cards, and so on.<sup>7</sup></li>
     <li>When a hit is assigned against a group of neutral units, it is assigned to the unit that is lowest on the neutral unit reference card.<sup>6,7</sup></li>
     <li>Neutral units are considered to be another player&rsquo;s ships for abilities and other game effects. However, there is no neutral player.<sup>7</sup></li>
-    <li>Neutral units with <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup></li>
-    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>.<sup>6</sup></li>
+    <li>Neutral units with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup></li>
+    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup></li>
     <li>If there are no neutral units of a given type left in the supply, and one would be placed, it is not placed.<sup>6</sup></li>
     </ol>
 

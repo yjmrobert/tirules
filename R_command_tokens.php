@@ -18,7 +18,7 @@
     </ol>
     <li data-src="1,2,3">During the action phase, a player can perform a tactical action by spending a command token from their tactic pool; they place the command token in a system.</li>
     <li data-src="1,2,3">After a player performs a strategic action during the action phase, each other player can resolve the secondary ability of that strategy card by spending a command token from their strategy pool.</li>
-    <ol><li data-src="1,2">A player does not spend a command token to resolve the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card.</li></ol>
+    <ol><li data-src="1,2">A player does not spend a command token to resolve the secondary ability of the <a href="/R_leadership"><i>Leadership</i></a> strategy card.</li></ol>
     <li data-src="1,2">If a game effect would place a player&rsquo;s command token in a system where they already have one, they place the token in their reinforcements instead. Any effects that resolve by placing that token are resolved as normal.</li>
     </ol>
 

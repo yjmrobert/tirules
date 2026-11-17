@@ -22,7 +22,7 @@
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>*</sup></li></ol>
     <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
@@ -33,7 +33,7 @@
     <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup></li>
     <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
@@ -50,8 +50,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo">Dynamo</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>A unit may only use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup></li>
-    <li>A unit that becomes damaged without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
+    <li>A unit may only use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup></li>
+    <li>A unit that becomes damaged without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
     <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup></li>
     <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup></li>
     <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup></li></ol>

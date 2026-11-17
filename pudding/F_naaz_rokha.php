@@ -120,7 +120,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> strategy cards. They may resolve the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> ability. Alternatively, they may resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> ability to ready those same planets.<sup>*</sup>
+    <ol><li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <a href="/R_diplomacy"><i>Diplomacy</i></a> and <a href="/R_warfare"><i>Warfare</i></a> strategy cards. They may resolve the <a href="/R_diplomacy"><i>Diplomacy</i></a> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <a href="/R_warfare"><i>Warfare</i></a> ability. Alternatively, they may resolve the <a href="/R_warfare"><i>Warfare</i></a> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <a href="/R_diplomacy"><i>Diplomacy</i></a> ability to ready those same planets.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -204,7 +204,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Eidelon Maximum treated as a ship: &ldquo;Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>
-    <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup>
+    <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

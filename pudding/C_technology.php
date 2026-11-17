@@ -109,7 +109,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator">Neural Motivator</a></h2>
     <ol class="note">
-    <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> action card, or any other effect outside of the status phase.<sup>1</sup>
+    <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <a href="/R_politics"><i>Politics</i></a> action card, or any other effect outside of the status phase.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo;</li>
         </ul></li>
@@ -169,7 +169,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> cannot be used unless the player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> destroys at least one infantry; if all hits are assigned to mechs, it has no effect.<sup>2</sup>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> cannot be used unless the player&rsquo;s <a href="/R_bombardment"><sc>Bombardment</sc></a> destroys at least one infantry; if all hits are assigned to mechs, it has no effect.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does X-89 Bacterial Weapon Omega work?&rdquo;: &ldquo;It needs your Bombardment to destroy at least one infantry; if hits go to mechs and no infantry dies, nothing happens.&rdquo;</li>
         </ul></li>
@@ -193,7 +193,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> roll against, even if they produce no hits.<sup>15</sup>
+    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <a href="/R_bombardment"><sc>bombardment</sc></a> roll against, even if they produce no hits.<sup>15</sup>
         <ul>
         <li><b>Explicit</b>: <sup>15</sup> Codex 4.5: &ldquo;Exhaust each planet you use BOMBARDMENT against.&rdquo;</li>
         </ul></li>
@@ -201,15 +201,15 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>A war sun must target the same planet with all three of its <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> dice.<sup>2</sup>
+    <li>A war sun must target the same planet with all three of its <a href="/R_bombardment"><sc>bombardment</sc></a> dice.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can one ship bombard several planets, or split its dice between them?&rdquo;: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li>
-    <ol><li>If a unit may roll additional <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional dice must target the same planet.<sup>2</sup>
+    <ol><li>If a unit may roll additional <a href="/R_bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional dice must target the same planet.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li></ol>
-    <li>A player may roll for <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> against a planet that contains no ground forces.<sup>2</sup>
+    <li>A player may roll for <a href="/R_bombardment"><sc>bombardment</sc></a> against a planet that contains no ground forces.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;You may pick any planet in the system, since bombardment comes before ground forces are committed.&rdquo;</li>
         </ul></li>
@@ -235,11 +235,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player has multiple planets with PDS that are being invaded in a single system, does the &lsquo;Plasma Scoring&rsquo; technology add one die to each planet&rsquo;s space cannon roll &hellip;? A: The &lsquo;Plasma Scoring&rsquo; technology adds one die for each &hellip; planet&rsquo;s &lsquo;Space Cannon&rsquo; roll.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>If a player makes separate <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup>
+    <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         </ul></li>
-    <li>A space dock using the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
+    <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional, and does it work with Experimental Battlestation?&rdquo;: &ldquo;It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation.&rdquo;</li>
         </ul></li>
@@ -259,7 +259,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a></h2>
     <ol class="note">
-    <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup>
+    <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Magen Defense Grid: &ldquo;contains 1 or more of your units that have PLANETARY SHIELD.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield&rdquo; original Magen needs a unit with Planetary Shield, so it fails if all have lost it.</li>
@@ -272,7 +272,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I, Magen Defense Grid Ω: &ldquo;you may produce 1 hit and assign it to 1 of your opponent&rsquo;s ground forces.&rdquo;</li>
         </ul></li>
-    <li>The chosen ground force may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup>
+    <li>The chosen ground force may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -292,7 +292,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>15</sup> Codex 4.5, Magen Defense Grid: &ldquo;produce 1 hit and assign it to 1 of your opponent&rsquo;s ground forces.&rdquo;</li>
         </ul></li>
-    <li>The chosen ground force may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup>
+    <li>The chosen ground force may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -349,11 +349,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A unit damaged by Space Cannon before combat can be repaired at the end of round one.&rdquo;</li>
         </ul></li>
-    <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> hits that occurred immediately before the combat.<sup>2</sup>
+    <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> hits that occurred immediately before the combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A unit damaged by Space Cannon before combat can be repaired at the end of round one.&rdquo;</li>
         </ul></li></ol>
-    <li>If a unit is damaged during combat without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.<sup>3</sup>
+    <li>If a unit is damaged during combat without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.<sup>3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Duranium Armor: &ldquo;repair 1 of your damaged units that did not use SUSTAIN DAMAGE during this combat round.&rdquo;</li>
         </ul></li>
@@ -400,7 +400,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Effects that cancel hits, such as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from Exotrireme II, Assault Cannon or other &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;sustain damage cannot be used against abilities that &lsquo;destroy&rsquo;.&rdquo;</li>
@@ -409,7 +409,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools">Sarween Tools</a></h2>
     <ol class="note">
-    <li>If units are produced without any unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.<sup>1,2,3</sup>
+    <li>If units are produced without any unit using its <a href="/R_production"><sc>Production</sc></a> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;It isn&rsquo;t a Production ability, so Sarween Tools &hellip; don&rsquo;t apply.&rdquo;</li>
@@ -431,11 +431,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Graviton Laser System do anything during Space Cannon Defense?&rdquo;: &ldquo;No &mdash; &hellip; the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto.&rdquo;</li>
         </ul></li>
-    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be cancelled by the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup>
+    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be cancelled by the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Graviton Laser System affect Space Cannon hits?&rdquo;: &ldquo;They are still ordinary hits, so Sustain Damage can cancel them before assignment.&rdquo;</li>
         </ul></li>
-    <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, such as the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup>
+    <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, such as the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships &hellip;?&rdquo;: &ldquo;Yes &mdash; it applies to the whole Space Cannon roll, borrowed dice included.&rdquo;</li>
         </ul></li>
@@ -489,7 +489,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;ships appear in that system, unless enemy ships are there.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> FFG ruling (eumaies, Feb 21, 2018): &ldquo;You can build ships normally, but if enemy ships are present, you cannot.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;It isn&rsquo;t a Production ability, so Sarween Tools &hellip; don&rsquo;t apply.&rdquo;</li>

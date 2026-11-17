@@ -5,17 +5,17 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value is the maximum number of units that may be produced by that unit, regardless of cost. For example, a space dock with &ldquo;<a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> 6&rdquo; could produce six dreadnoughts or six fighters.<sup>1,2</sup>
+    <li>A unit&rsquo;s <sc>Production</sc> value is the maximum number of units that may be produced by that unit, regardless of cost. For example, a space dock with &ldquo;<sc>Production</sc> 6&rdquo; could produce six dreadnoughts or six fighters.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 68.1: &ldquo;This value is the maximum number of units that this unit can produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Production limit the number of units or their total cost?&rdquo;: &ldquo;The number of units &hellip; a war sun uses one point of Production and you pay its 12 cost separately.&rdquo; The cited entry (Sarween Tools) is less direct.</li>
         </ul></li>
-    <li>Placement of produced units is not limited by a unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value, only by the location of the producing units.<sup>1,2,5</sup>
+    <li>Placement of produced units is not limited by a unit&rsquo;s <sc>Production</sc> value, only by the location of the producing units.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where are produced ground forces placed?&rdquo;: &ldquo;With several producing planets you may split them among those planets however you like, even all on one.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (kaiteinomen, Sep 28, 2017): &ldquo;you can put both of the Letani warriors on the same planet, if you wish, as long as one of the units that used Production is located there.&rdquo; Only location of producing unit matters for placement.</li>
         </ul></li>
-    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup>
+    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one <a href="/R_space_dock">Space Dock</a> I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;split them among those planets however you like.&rdquo;</li>
         </ul></li></ol>

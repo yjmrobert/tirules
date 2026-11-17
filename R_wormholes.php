@@ -6,7 +6,7 @@
 <p data-src="1,2,3">Some systems contain wormholes. Systems that contain identical wormholes are adjacent.</p>
     <ol class="lrr">
     <li data-src="1,3">There are two basic types of wormholes: alpha and beta.</li>
-    <li data-src="1,3">If a player has a PDS unit upgrade technology, they can use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their PDS units through wormholes.</li>
+    <li data-src="1,3">If a player has a PDS unit upgrade technology, they can use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their PDS units through wormholes.</li>
     <li data-src="1,2">Players can be neighbors and perform transactions through wormholes.</li>
     <li data-src="1">There are two advanced types of wormhole: delta and gamma. These wormholes follow all other wormhole rules.</li>
     <ol>

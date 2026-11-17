@@ -17,7 +17,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When resolving the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup></li>
+    <li>When resolving the primary ability of the <a href="/R_politics"><i>Politics</i></a> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup></li>
     <li>If the outcome of an agenda affects multiple players, it will do so in speaker order.<sup>*</sup></li>
     </ol>
 

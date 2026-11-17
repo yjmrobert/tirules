@@ -50,7 +50,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
+    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
@@ -97,7 +97,7 @@
     <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective by exhausting just it and spending three trade goods.<sup>*</sup></li></ol>
     <li><i>Political Data Nexus &Omega;</i> does not change the value used by abilities that reference a planet&rsquo;s resource value; the printed resource value of the planet is used.<sup>2,4</sup></li>
     <ol>
-        <li>A space dock will not add the influence value of the planet it is on to its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value.<sup>2</sup></li>
+        <li>A space dock will not add the influence value of the planet it is on to its <a href="/R_production"><sc>Production</sc></a> value.<sup>2</sup></li>
         <li>The resource values of the planets the Xxcha player controls will not contribute to unlocking <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>.<sup>*</sup></li>
         <li><i>Political Data Nexus &Omega;</i> does not apply when scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> objectives.<sup>*</sup></li>
     </ol>
@@ -112,7 +112,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
+    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
@@ -124,7 +124,7 @@
     </ol>
     <li><i>Archon&rsquo;s Gift</i> only changes how a planet&rsquo;s influence and resources may be spent. It does not change the value for any other game effect.<sup>*</sup></li>
     <ol>
-        <li>A space dock cannot use the influence value of the planet it is on to calculate its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value.<sup>*</sup></li>
+        <li>A space dock cannot use the influence value of the planet it is on to calculate its <a href="/R_production"><sc>Production</sc></a> value.<sup>*</sup></li>
         <li>The influence value of a planet will not increase the number of units the Xxcha player may produce when using the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>*</sup></li>
         <li>The resource values of the planets the Xxcha player controls will not contribute to unlocking <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>.<sup>*</sup></li>
         <li><i>Archon&rsquo;s Gift</i> does not apply when scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> objectives.<sup>*</sup></li>

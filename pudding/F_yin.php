@@ -39,7 +39,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo; &ldquo;1 of your opponent&rsquo;s ships.&rdquo;</li>
         </ul></li>
-        <li>The targeted ship may cancel the hit with its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup>
+        <li>The targeted ship may cancel the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
@@ -111,15 +111,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The infantry may be placed on a planet that does not contain a unit with <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.<sup>2</sup>
+    <li>The infantry may be placed on a planet that does not contain a unit with <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;on any planet you control in that system&rdquo;</li>
         </ul></li>
-    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup>
+    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="/R_production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;The original gives one infantry per use of Production, however many units produced.&rdquo;</li>
         </ul></li>
-    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>2</sup>
+    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <a href="/R_production"><sc>Production</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;it doesn&rsquo;t trigger from Integrated Economy, which uses no Production ability.&rdquo;</li>
         </ul></li>
@@ -131,7 +131,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Other effects that produce units without a unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup>
+    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;The Omega version gives 2 infantry, triggers whenever you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge card text: &ldquo;After you produce units, place up to 2 infantry.&rdquo;</li>
@@ -165,7 +165,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -189,7 +189,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -213,11 +213,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a game effect instructs the Yin player to produce units without using the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup>
+    <li>If a game effect instructs the Yin player to produce units without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -275,7 +275,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III: &ldquo;Commit up to 3 infantry from your reinforcements.&rdquo;</li>
         </ul></li></ol>
-    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability.<sup>*</sup>
+    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -301,7 +301,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: &ldquo;These abilities can only be resolved to place a unit that is in a player&rsquo;s reinforcements.&rdquo;</li>
@@ -314,7 +314,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup>
+    <li>The <a href="/R_deploy"><sc>Deploy</sc></a> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -167,7 +167,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup>
+    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <a href="/R_production"><sc>Production</sc></a> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What triggers Minister of Industry?&rdquo;: &ldquo;a dock placed by a Construction Rider in the agenda phase does, payable only with planets you haven&rsquo;t exhausted.&rdquo;</li>
         </ul></li>
@@ -199,7 +199,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Morale Boost, faction modifiers and rerolls affect &hellip;&rdquo;: &ldquo;only rolls made against a unit&rsquo;s combat value are combat rolls. &hellip; Sardakk&rsquo;s Courageous to the End are abilities.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from &hellip; &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
@@ -319,19 +319,19 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit">Direct Hit</a></h2>
     <ol class="note">
-    <li>If multiple ships use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup>
+    <li>If multiple ships use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can several Direct Hits or Shields Holdings be played in the same combat round?&rdquo;: &ldquo;Several Direct Hits, yes: each Sustain Damage use is its own trigger, so you can answer each with a Direct Hit on that ship.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Because the Direct Hits are targeting different ships/instances of sustain damage use, this is allowed.&rdquo;</li>
         </ul></li>
-    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a ship using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup>
+    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the &lsquo;Direct Hit&rsquo; action cards be played when a ship uses &lsquo;Sustain Damage&rsquo; to cancel a hit produced by one of your abilities? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;each Sustain Damage use is its own trigger.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling: Direct Hits target &ldquo;different ships/instances of sustain damage use.&rdquo;</li>
         </ul></li>
-    <li>When a player uses the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup>
+    <li>When a player uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can several Direct Hits or Shields Holdings be played in the same combat round?&rdquo;: &ldquo;Sustain Damage is used unit by unit, so you can wait to see a Direct Hit before sustaining with more.&rdquo;</li>
         </ul></li>
@@ -339,7 +339,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, on a dreadnought carrying a fighter hit by Direct Hit after PDS fire: &ldquo;Scenario A [immediately destroy the fighter]. &hellip; During a combat, the fighters would persist until the end of combat, but in this case they are immediately destroyed.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.<sup>5</sup>
+    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling: the fighter is &ldquo;immediately destroyed&rdquo; when its carrier is destroyed outside combat.</li>
         </ul></li></ol>
@@ -449,7 +449,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation">Experimental Battlestation</a></h2>
     <ol class="note">
-    <li>The selected space dock will use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during the <b>Space Cannon Offense</b> step of the current tactical action.<sup>1,2,5</sup>
+    <li>The selected space dock will use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during the <b>Space Cannon Offense</b> step of the current tactical action.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Experimental Battlestation&rsquo; operates in the same timing window as &lsquo;Space Cannon Offense.&rsquo;&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Clipper, Nov 2018): &ldquo;The intent is that the experimental battle station is part of space cannon offense.&rdquo;</li>
@@ -807,7 +807,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;abilities that destroy units can only be used against other players&rsquo; units and planets.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Yin4Life, 12/10/2018): &ldquo;No, You cannot use Lucky Shot to target one of your own ships.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from &hellip; &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
@@ -1163,15 +1163,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding">Reflective Shielding</a></h2>
     <ol class="note">
-    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.<sup>4</sup>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: When are the hits generated by reflective shielding assigned? A: &hellip; If during the normal assign hits step, they are added to the pool of hits already generated.&rdquo;</li>
         </ul></li>
-    <ol><li>A unit that used its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and been repaired, cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>.<sup>*</sup>
+    <ol><li>A unit that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and been repaired, cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;The hits are immediately assigned if not during the normal assign hits step.&rdquo;</li>
         </ul></li>
@@ -1342,7 +1342,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding">Shields Holding</a></h2>
     <ol class="note">
-    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup>
+    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Not Space Cannon Offense or Defense, which happen outside space combat.&rdquo;</li>
         </ul></li>
@@ -1437,11 +1437,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Solar%20Flare">Solar Flare</a></h2>
     <ol class="note">
-    <li>The active player may still use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup>
+    <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Solar Flare: &ldquo;Other players cannot use SPACE CANNON against your ships.&rdquo; Only other players are restricted.</li>
         </ul></li>
-    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>*</sup>
+    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Solar Flare limits Space Cannon &ldquo;against your ships.&rdquo; Space Cannon Defense targets ground forces.</li>
         </ul></li>
@@ -1457,7 +1457,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
     <ol class="note">
-    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a>.<sup>*</sup>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a strategy card&rsquo;s primary ability cost a command token, and does the Leadership secondary?&rdquo;: &ldquo;Secondaries cost a strategy pool token, except Leadership&rsquo;s.&rdquo;</li>
         </ul></li>
@@ -1469,7 +1469,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment">Tactical Bombardment</a></h2>
     <ol class="note">
-    <li>A player must have at least one unit with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability to play and resolve <i>Tactical Bombardment</i>.<sup>2</sup>
+    <li>A player must have at least one unit with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability to play and resolve <i>Tactical Bombardment</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Tactical Bombardment be played in a system with no enemy planets?&rdquo;: &ldquo;it only requires that you have a unit with Bombardment in that system.&rdquo;</li>
         </ul></li>
@@ -1624,7 +1624,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Machine">War Machine</a></h2>
     <ol class="note">
-    <li><i>War Machine</i> may only be used by effects that cause a unit to use its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. It cannot be used for other effects that produce units.<sup>10</sup>
+    <li><i>War Machine</i> may only be used by effects that cause a unit to use its <a href="/R_production"><sc>Production</sc></a> ability. It cannot be used for other effects that produce units.<sup>10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I, War Machine: &ldquo;When 1 or more of your units use PRODUCTION.&rdquo;</li>
         </ul></li>
@@ -1661,7 +1661,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay">Waylay</a></h2>
     <ol class="note">
-    <li>A ship with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability may cancel a hit produced by an anti&ndash;fighter barrage roll if <i>Waylay</i> causes that ship to be eligible to be hit.<sup>2</sup>
+    <li>A ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability may cancel a hit produced by an anti&ndash;fighter barrage roll if <i>Waylay</i> causes that ship to be eligible to be hit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li>

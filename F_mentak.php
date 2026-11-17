@@ -6,7 +6,7 @@
     <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect dice rolls made when resolving the <sc>Ambush</sc> ability.<sup>2</sup></li>
     <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1</sup></li>
-    <li>A ship may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup></li>
+    <li>A ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup></li>
     <ol><li>If the chosen ship does so, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played.<sup>1</sup></li></ol>
     <li>Ships that roll dice for <sc>Ambush</sc> still make combat rolls as normal, starting in the first round of combat.<sup>2</sup></li>
     </ol>
@@ -34,7 +34,7 @@
     <li><i>Promise of Protection</i> has no effect while it is in a player&rsquo;s hand.<sup>2</sup></li>
     <li><i>Promise of Protection</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Mentak player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Mentak player&rsquo;s structures will still cause <i>Promise of Protection</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
@@ -54,7 +54,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup></li>
+    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Agent)</sub></h2>
@@ -78,7 +78,7 @@
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.<sup>2,4</sup></li>
     <li>No costs are paid for the placed units.<sup>*</sup></li>
     <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability.<sup>4</sup></li>
-    <ol><li>When players would use their ships&rsquo; <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup></li></ol>
+    <ol><li>When players would use their ships&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup></li></ol>
     <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,4</sup></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup></li>
     <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup></li></ol>
@@ -89,7 +89,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup></li>
+    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=The%20Table%27s%20Grace">The Table&rsquo;s Grace</a> <sub>(Breakthrough)</sub></h2>

@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> is both a structure and a unit.<sup>1,2</sup>
+    <li>A Space Dock is both a structure and a unit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 79: &ldquo;A space dock is a structure that allows players to produce units.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, on the Hel-Titan: &ldquo;It is a structure as well as a ground force.&rdquo;</li>

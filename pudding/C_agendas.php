@@ -58,7 +58,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
     <ol class="note">
-    <li>Mechs lose all of their printed abilities other than <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, including <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a>, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
+    <li>Mechs lose all of their printed abilities other than <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, including <a href="/R_bombardment"><sc>Bombardment</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> and <a href="/R_production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Under Articles of War, do mechs lose Bombardment, Space Cannon and Production too?&rdquo;: &ldquo;Yes &mdash; mechs lose all their printed abilities except Sustain Damage. Their cost and combat stats stay, so they still fight, and a mech that rolls 2 dice still does.&rdquo;</li>
         </ul></li>
@@ -297,7 +297,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Under Enforced Travel Ban, alpha and beta wormholes give no adjacency for a retreat.&rdquo;</li>
         </ul></li>
-    <li>When the <i>Enforced Travel Ban</i> law is in play, the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability may still be used through wormholes.<sup>1,2</sup>
+    <li>When the <i>Enforced Travel Ban</i> law is in play, the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability may still be used through wormholes.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Enforced Travel Ban&rsquo; agenda prevent &lsquo;Space Cannon&rsquo; usage through wormholes? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;the systems stay adjacent for everything else, so Space Cannon still fires through them.&rdquo;</li>
@@ -338,7 +338,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
     <ol class="note">
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup>
+    <li>If <a href="/R_leadership"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Galactic Crisis Pact work when Leadership is elected?&rdquo;: &ldquo;there&rsquo;s no token cost to waive, but spending influence for tokens still applies.&rdquo;</li>
         </ul></li>
@@ -346,11 +346,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>*</sup>
+    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="/R_leadership"><i>Leadership</i></a>, <a href="/R_warfare"><i>Warfare</i></a> or <a href="/R_technology_sc"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>*</sup>
+    <li>If the <a href="/R_technology_sc"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -474,7 +474,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
-    <li>All units in that system may use their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup>
+    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Minister of Industry lets you produce in that system right after placing the dock.&rdquo;</li>
         </ul></li>
@@ -691,7 +691,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Prophecy%20of%20Ixth">Prophecy of Ixth</a></h2>
     <ol class="note">
-    <li>Other effects that produce units without a unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup>
+    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does producing with Sling Relay trigger the Prophecy of Ixth drawback?&rdquo;: &ldquo;No &mdash; it only applies when you use a unit&rsquo;s Production ability, which Sling Relay doesn&rsquo;t.&rdquo;</li>
         </ul></li>
@@ -725,7 +725,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Same ruling, which asked whether it &ldquo;count[s] against the &lsquo;Against&rsquo; effects of Publicize Weapons Schematics&rdquo;: &ldquo;They do not.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -28,7 +28,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
     <ol class="note">
-    <li>Mechs lose all of their printed abilities other than <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, including <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a>, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup></li>
+    <li>Mechs lose all of their printed abilities other than <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, including <a href="/R_bombardment"><sc>Bombardment</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> and <a href="/R_production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Checks%20and%20Balances">Checks and Balances</a></h2>
@@ -128,7 +128,7 @@
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>2</sup></li>
     <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that create adjacency, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card, may be used to allow movement between systems containing wormholes.<sup>2,5</sup></li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.<sup>2</sup></li>
-    <li>When the <i>Enforced Travel Ban</i> law is in play, the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability may still be used through wormholes.<sup>1,2</sup></li>
+    <li>When the <i>Enforced Travel Ban</i> law is in play, the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability may still be used through wormholes.<sup>1,2</sup></li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>2</sup></li>
     <li>The &ldquo;Against&rdquo; effect of <i>Enforced Travel Ban</i> will affect PDS in or adjacent to systems containing an alpha, beta, delta or gamma wormhole.<sup>2</sup></li>
     </ol>
@@ -147,10 +147,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
     <ol class="note">
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup></li>
+    <li>If <a href="/R_leadership"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup></li>
     <li>The secondary ability is resolved immediately, during the agenda phase.<sup>*</sup></li>
-    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>*</sup></li>
+    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="/R_leadership"><i>Leadership</i></a>, <a href="/R_warfare"><i>Warfare</i></a> or <a href="/R_technology_sc"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>*</sup></li>
+    <li>If the <a href="/R_technology_sc"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>*</sup></li>
     <ol><li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li></ol>
     <li>If a player has a strategy card in their play area due to the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a> action card, that strategy card is eligible to be elected.<sup>*</sup></li>
     </ol>
@@ -222,7 +222,7 @@ li.ixth:before
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
-    <li>All units in that system may use their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup></li>
+    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup></li>
     <li>The produced units must be paid for.<sup>1</sup></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup></li>
     <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on the game board, they may first remove a space dock from a system that does not contain their command token.<sup>1</sup></li></ol>
@@ -307,7 +307,7 @@ li.ixth:before
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Prophecy%20of%20Ixth">Prophecy of Ixth</a></h2>
     <ol class="note">
-    <li>Other effects that produce units without a unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup></li>
+    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution">Public Execution</a></h2>
@@ -323,7 +323,7 @@ li.ixth:before
         <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li>
         <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="/F_muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup></li>
     </ol>
-    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li>
+    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li>
     <li>If the <a href="/F_nekro">Nekro</a> player has copied a faction&ndash;specific war sun unit upgrade technology with <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a>, they own a war sun technology for the purposes of <i>Publicize Weapon Schematics</i>.<sup>2</sup></li>
     </ol>
 

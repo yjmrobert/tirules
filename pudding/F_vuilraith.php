@@ -13,7 +13,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures &hellip;?&rdquo;: &ldquo;It is a structure as well as a ground force.&rdquo;</li>
         </ul></li>
-    <li>Units destroyed by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> are destroyed during combat, and are captured.<sup>2</sup>
+    <li>Units destroyed by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> are destroyed during combat, and are captured.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Vuil&rsquo;raith Devour ability capture units destroyed by Space Cannon or Bombardment?&rdquo;: &ldquo;No &mdash; those happen outside space and ground combat, so Devour doesn&rsquo;t see them; Anti-Fighter Barrage is part of combat and counts.&rdquo;</li>
         </ul></li>
@@ -163,7 +163,7 @@
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Vuil&rsquo;raith flagship capture?&rdquo;: &ldquo;the Cabal flagship is destroyed too but still captures everything else destroyed there.&rdquo;</li>
         </ul></li>
-    <ol><li>Using the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> hits, will not be captured.<sup>*</sup>
+    <ol><li>Using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits, will not be captured.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -187,11 +187,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do you capture fighters and infantry?&rdquo;: &ldquo;A captured fighter or infantry goes back to its owner&rsquo;s reinforcements &hellip; and the captor places a matching token on their faction sheet instead.&rdquo;</li>
         </ul></li>
-    <li>When the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.<sup>*</sup>
+    <li>When the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: <sup>1</sup> The matched LRR passage (Trade) does not address this.</li>
         </ul></li>
-    <li>When the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.<sup>*</sup>
+    <li>When the secondary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

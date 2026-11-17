@@ -34,37 +34,37 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=L4%20Disruptors">L4 Disruptors</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>A player may still use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.<sup>*</sup></li>
+    <li>A player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
-    <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities.<sup>*</sup></li>
-    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
+    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
+    <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>*</sup></li>
+    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.<sup>*</sup></li>
-    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
+    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
     <ol><li>The <i>Arc Secundus</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup></li>
+    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup></li>
     <li>The extra dice is mandatory for the chosen unit.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Rear%20Admiral%20Farran">Rear Admiral Farran</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.<sup>*</sup></li>
-    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
-    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li></ol>
-    <li>A unit that becomes damaged without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
-    <li>If multiple units use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability within a single step, the trade goods are gained one at a time.<sup>2</sup></li>
+    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li></ol>
+    <li>A unit that becomes damaged without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
+    <li>If multiple units use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability within a single step, the trade goods are gained one at a time.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Darktalon%20Treilla">Darktalon Treilla</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Dark%20Matter%20Affinity">Dark Matter Affinity</a> <sub>(Hero)</sub></h2>
@@ -73,8 +73,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.<sup>1,8</sup></li>
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.<sup>1,8</sup></li>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.<sup>1,8</sup></li>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.<sup>1,8</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>

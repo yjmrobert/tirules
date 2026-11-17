@@ -12,10 +12,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow">Harrow</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup></li>
+    <li>The <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup></li>
     <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player.<sup>4</sup></li>
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup></li>
-    <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on.<sup>1,2</sup></li>
+    <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on.<sup>1,2</sup></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup></li></ol>
     <li>The text of <sc>Harrow</sc> is changed to: &ldquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rdquo;<sup>1,2</sup></li>
     <li>The L1Z1X player may use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
@@ -32,9 +32,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Technologies:~:text=Inheritance%20Systems">Inheritance Systems</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup></li>
+    <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup></li>
     <li><i>Inheritance Systems</i> may be used when researching a unit upgrade technology, including the L1Z1X player&rsquo;s own faction technologies such as <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> II.<sup>2</sup></li>
-    <li>If <i>Inheritance Systems</i> is researched as the first technology with the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card, it may be used when researching the second technology.<sup>2</sup></li>
+    <li>If <i>Inheritance Systems</i> is researched as the first technology with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, it may be used when researching the second technology.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> <sub>(Unit)</sub></h2>
@@ -53,7 +53,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Those units still have <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup></li>
+    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>

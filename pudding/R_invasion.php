@@ -17,7 +17,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;When a player takes control of a legendary planet, they also place its legendary planet ability card in their play area.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: the same text.</li>
         </ul></li>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> has the custodians token on it, a player must remove it before they may commit ground forces to it.<sup>1,2,3</sup>
+    <li>If <a href="/R_mecatol_rex">Mecatol Rex</a> has the custodians token on it, a player must remove it before they may commit ground forces to it.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 27.1: &ldquo;players cannot commit ground forces to land on Mecatol Rex until the custodians token is removed from the planet.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do I take Mecatol Rex &hellip;?&rdquo;: &ldquo;during invasion, before committing ground forces, spend 6 influence to remove the custodians token.&rdquo;</li>

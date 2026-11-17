@@ -29,7 +29,7 @@
         <li>The carrier may transport nothing, leaving behind all eight of the infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
         <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).<sup>2,5</sup></li>
     <li>Units that are removed due to capacity limits are not destroyed. For example, removed Infantry II units do not roll for the Infantry II unit upgrade&rsquo;s ability.<sup>2</sup></li>
-    <li>If multiple players use <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities during the <b>Space Cannon Offense</b> step, capacity limits must be met after each player&rsquo;s hits are assigned, before the next player rolls.<sup>2</sup></li>
+    <li>If multiple players use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities during the <b>Space Cannon Offense</b> step, capacity limits must be met after each player&rsquo;s hits are assigned, before the next player rolls.<sup>2</sup></li>
     </ol>
     </ol>
 

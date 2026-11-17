@@ -25,7 +25,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do I pay resources for the structures placed with Construction?&rdquo;: &ldquo;No &mdash; space docks and PDS have no cost. Construction places them; it isn&rsquo;t production, so production rules don&rsquo;t apply.&rdquo;</li>
         </ul></li>
-    <li>Resolving the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card does not activate a system, and it does not matter whether the system has already been activated.<sup>2</sup>
+    <li>Resolving the secondary ability of the <i>Construction</i> strategy card does not activate a system, and it does not matter whether the system has already been activated.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Construction card differ?&rdquo;: &ldquo;It doesn&rsquo;t activate the system or care whether it was activated.&rdquo;</li>
         </ul></li>

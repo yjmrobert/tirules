@@ -19,7 +19,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> and planets in home systems do not have traits.<sup>1,2</sup></li>
+    <li><a href="/R_mecatol_rex">Mecatol Rex</a> and planets in home systems do not have traits.<sup>1,2</sup></li>
     <li>Planets with traits can be explored.<sup>2,8</sup></li>
     <li>A planet cannot be spent for both its influence and resources during a single exhaustion.<sup>1,2</sup></li>
     <li>If a planet is exhausted for its technology specialty, it does not provide influence or resources.<sup>2,3</sup></li>

@@ -48,7 +48,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;After ships stop moving, are fighters and ground forces still tied to the ship that carried them?&rdquo;: &ldquo;Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn&rsquo;t trigger.&rdquo;</li>
         </ul></li>
-    <li>If multiple players use <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities during the <b>Space Cannon Offense</b> step, capacity limits must be met after each player&rsquo;s hits are assigned, before the next player rolls.<sup>2</sup>
+    <li>If multiple players use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities during the <b>Space Cannon Offense</b> step, capacity limits must be met after each player&rsquo;s hits are assigned, before the next player rolls.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;Immediately whenever it isn&rsquo;t combat, for example after each player&rsquo;s Space Cannon Offense volley, before the next player fires.&rdquo;</li>
         </ul></li>

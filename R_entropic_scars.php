@@ -10,7 +10,7 @@
     <li>A unit in an entropic scar cannot use unit abilities.<sup>2,7</sup></li>
     <ol>
         <li>Only unit abilities are removed; text abilities are unaffected.<sup>7</sup></li>
-        <li>If a unit loses its <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup></li>
+        <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup></li>
     </ol>
     <li>A unit outside of an entropic scar cannot use unit abilities against units that are in an entropic scar.<sup>7</sup></li>
     <li>Wormhole tokens that would be placed in an entropic scar are discarded instead.<sup>6,7</sup></li>

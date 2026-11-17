@@ -9,7 +9,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When resolving the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup>
+    <li>When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After Politics, is it public whether the agenda cards went to the top or bottom of the deck?&rdquo;: &ldquo;You also can&rsquo;t show the cards themselves to other players, since you may only reveal hidden components you own.&rdquo;</li>
         </ul></li>
@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the speaker token be traded or sold?&rdquo;: &ldquo;Not in a transaction &mdash; it isn&rsquo;t a tradeable component. But the Politics player can take payment, or make deals, in exchange for naming someone speaker.&rdquo;</li>
         </ul></li>
-    <li>The active player looks at and places the top two cards of the agenda deck even if the custodians token has not yet been removed from <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>.<sup>2</sup>
+    <li>The active player looks at and places the top two cards of the agenda deck even if the custodians token has not yet been removed from <a href="/R_mecatol_rex">Mecatol Rex</a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Politics look at and rearrange the agenda deck before anyone takes Mecatol Rex?&rdquo;: &ldquo;Yes &mdash; the agenda deck exists from the start and nothing restricts that part of Politics before the agenda phase begins.&rdquo;</li>
         </ul></li>

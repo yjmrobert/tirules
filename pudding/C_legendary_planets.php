@@ -51,7 +51,7 @@
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=The%20Galactic%20Council">The Galactic Council</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=The%20Galactic%20Council">The Galactic Council</a> &mdash; <a href="/R_mecatol_rex">Mecatol Rex</a></h2>
     <ol class="note">
     <li><i>The Galactic Council</i> cannot be exhausted by a player that has no unscored secret objective cards in their hand.<sup>*</sup>
         <ul>

@@ -30,7 +30,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;at any given time.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say a player currently has just one biotic technology, and they are resolving the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card to research two technologies; they have a propulsion/biotic synergy ability. They may first treat the biotic technology as a propulsion technology in order to research a technology with one propulsion prerequisite. Then, they may treat both the original biotic technology and the new propulsion technology as biotic technologies in order to research a technology with two biotic prerequisites.<sup>*</sup>
+    <ol><li>For example, say a player currently has just one biotic technology, and they are resolving the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card to research two technologies; they have a propulsion/biotic synergy ability. They may first treat the biotic technology as a propulsion technology in order to research a technology with one propulsion prerequisite. Then, they may treat both the original biotic technology and the new propulsion technology as biotic technologies in order to research a technology with two biotic prerequisites.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

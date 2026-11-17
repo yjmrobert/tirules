@@ -9,7 +9,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Ships placed with <sc>Star Forge</sc> are not produced, and do not trigger effects that occur when units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>2</sup>
+    <li>Ships placed with <sc>Star Forge</sc> are not produced, and do not trigger effects that occur when units use <a href="/R_production"><sc>Production</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do units &lsquo;placed&rsquo; by an effect cost resources, and do they count as producing?&rdquo;: &ldquo;&rsquo;Place&rsquo; or &lsquo;gain&rsquo; is free and isn&rsquo;t producing, so Muaat&rsquo;s Star Forge doesn&rsquo;t count as producing and doesn&rsquo;t trigger Magmus Reactor&rsquo;s trade good.&rdquo;</li>
         </ul></li>
@@ -29,11 +29,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The war sun must be in the system prior to the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup>
+    <li>The war sun must be in the system prior to the use of <a href="/R_production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The trade good is gained after the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup>
+    <li>The trade good is gained after the use of <a href="/R_production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -61,7 +61,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No.&rdquo;</li>
         </ul></li>
@@ -108,7 +108,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup>
+    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <a href="/R_warfare"><i>Warfare</i></a> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -190,11 +190,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Any PDS (or other relevant unit) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during the movement step of the same tactical action the planet is moved.<sup>*</sup>
+        <li>Any PDS (or other relevant unit) on Avernus may use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during the movement step of the same tactical action the planet is moved.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup>
+        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="/R_production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

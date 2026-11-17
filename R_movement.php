@@ -20,7 +20,7 @@
     </ol>
     <li data-src="1,2,3">When a ship with a capacity value moves or is moved, it may transport ground forces and fighters.</li>
     <li data-src="1,2">The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously.</li>
-    <li data-src="1,2,3"><b>Step 2 &ndash; Space Cannon Offense</b>: After the <b>Move Ships</b> step, players can use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units in the active system.</li>
+    <li data-src="1,2,3"><b>Step 2 &ndash; Space Cannon Offense</b>: After the <b>Move Ships</b> step, players can use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units in the active system.</li>
     <h2><li>Ability Movement</li></h2>
     <li data-src="1,2">If an ability moves a unit outside of the <b>Movement</b> step of a tactical action, players follow the rules specified by that ability; neither a unit&rsquo;s move value nor the rules specified above apply.</li>
     </ol>
@@ -32,7 +32,7 @@
     <ol><li>During a retreat, units may be transported from the active system.<sup>5,10</sup></li></ol>
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.<sup>1,5</sup></li>
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship may move &ldquo;through&rdquo; other systems.<sup>2,4</sup></li>
-    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup></li>
+    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup></li>
     <li>Another player&rsquo;s ground forces and PDS do not prevent a ship from moving through a system.<sup>2</sup></li>
     <li>A deal cannot allow a player&rsquo;s ships to move through a system that contains another player&rsquo;s ships.<sup>2</sup></li>
     <li>When an ability moves ships outside of a tactical action, the movement restrictions of anomalies still apply, unless the ability says otherwise.<sup>2</sup></li>

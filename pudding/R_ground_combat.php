@@ -23,7 +23,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
         </ul></li>
-    <li>A player may use the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.<sup>1</sup>
+    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87: &ldquo;Immediately before a player assigns hits to their units, that player can use the &lsquo;Sustain Damage&rsquo; ability of any of their units.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.6a (space combat): &ldquo;Before assigning hits, players may use their units&rsquo; &lsquo;Sustain Damage&rsquo; abilities to cancel hits.&rdquo;</li>

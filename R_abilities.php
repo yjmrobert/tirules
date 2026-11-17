@@ -37,13 +37,13 @@
     <li data-src="1,3">Each faction has faction abilities presented on its faction sheet. Each faction&rsquo;s flagship has one or more unique abilities. Some abilities provide players with perpetual effects.</li>
     <li data-src="1,3,7">Some units have unit abilities. These abilities are named and presented above a unit&rsquo;s attributes on a player&rsquo;s faction sheet or on a unit upgrade card. Each unit ability has unique rules for when a player can resolve that ability. The following abilities are unit abilities:</li>
     <ul>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a></li>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a></li>
-        <li data-src="1,7"><a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a></li>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a></li>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a></li>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a></li>
-        <li data-src="1,3,7"><a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_bombardment"><sc>Bombardment</sc></a></li>
+        <li data-src="1,7"><a href="/R_deploy"><sc>Deploy</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_planetary_shield"><sc>Planetary Shield</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_production"><sc>Production</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_space_cannon"><sc>Space Cannon</sc></a></li>
+        <li data-src="1,3,7"><a href="/R_sustain_damage"><sc>Sustain Damage</sc></a></li>
     </ul>
     <li data-src="1">If a unit&rsquo;s ability uses the phrase &ldquo;this system&rdquo; or &ldquo;this planet&rdquo;, the ability is referring to the system or planet that contains that unit.</li>
     </ol>
@@ -63,7 +63,7 @@
     <li>An ability that refers to &ldquo;a player&rdquo; may be used on the player resolving it. Only an ability that refers to &ldquo;another player&rdquo; excludes that player.<sup>2</sup></li>
     <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>5</sup></li>
     <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>*</sup></li></ol>
-    <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> (5) player&rsquo;s turn, they will have the option to resolve first, then the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> (6) player, then the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> (7) player, and so on.<sup>1,2,5</sup></li>
+    <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <a href="/R_trade"><i>Trade</i></a> (5) player&rsquo;s turn, they will have the option to resolve first, then the <a href="/R_warfare"><i>Warfare</i></a> (6) player, then the <a href="/R_technology_sc"><i>Technology</i></a> (7) player, and so on.<sup>1,2,5</sup></li>
     <ol>
         <li>If a player has multiple abilities they wish to resolve, they must be resolved one at a time. Between each ability being resolved, each other player will have the opportunity to resolve one ability.<sup>1,2,5</sup></li>
         <li>For example, Alice, the active player, wishes to resolve four abilities during the current timing window. Bob, the next player in order, wishes to resolve one. Cheng, later in the order, wishes to resolve two. The order of resolution would be: Alice &num;1; Bob &num;1; Cheng &num;1; Alice &num;2; Cheng &num;2; Alice &num;3; Alice &num;4.<sup>1</sup></li>

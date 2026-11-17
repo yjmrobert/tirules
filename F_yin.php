@@ -15,7 +15,7 @@
     <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ship is assigned the hit.<sup>1,2</sup></li>
     <ol>
         <li>The Yin cannot choose their own ships as targets.<sup>1</sup></li>
-        <li>The targeted ship may cancel the hit with its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup></li>
+        <li>The targeted ship may cancel the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup></li>
     </ol>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2,5</sup></li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.<sup>*</sup></li>
@@ -46,15 +46,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The infantry may be placed on a planet that does not contain a unit with <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.<sup>2</sup></li>
-    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup></li>
-    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>2</sup></li>
+    <li>The infantry may be placed on a planet that does not contain a unit with <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup></li>
+    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="/R_production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup></li>
+    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <a href="/R_production"><sc>Production</sc></a> ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The two infantry must be placed together.<sup>*</sup></li>
-    <li>Other effects that produce units without a unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup></li>
+    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge">Van Hauge</a> <sub>(Flagship)</sub></h2>
@@ -68,7 +68,7 @@
     <li>If all of a player&rsquo;s ships are destroyed during combat, they may still place ships with this ability. If they do, combat will continue.<sup>4</sup></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity.<sup>3</sup></li>
     <li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.<sup>*</sup></li>
-    <ol><li>If a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup></li></ol>
+    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup></li>
     </ol>
 
@@ -77,7 +77,7 @@
     <li>Brother Milor &Omega; may only be used during the action phase.<sup>4</sup></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup></li>
     <li>If all units in the combat are destroyed, and there are excess hits that have not been assigned to a unit, those hits will lapse, and cannot be assigned to the newly placed units.<sup>*</sup></li>
-    <ol><li>If a ship uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup></li></ol>
+    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup></li>
     <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World"><i>Make an Example of Their World</i></a> secret objective before the new infantry are placed.<sup>*</sup></li>
     <li>If the Yin player uses Brother Milor &Omega; when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.<sup>4</sup></li>
@@ -86,8 +86,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> limit.<sup>*</sup></li>
-    <li>If a game effect instructs the Yin player to produce units without using the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
+    <li>If a game effect instructs the Yin player to produce units without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup></li>
     <li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.<sup>2,4</sup></li>
     </ol>
 
@@ -110,7 +110,7 @@
     <li>Only ground combats are resolved on the chosen planets, not the full steps of an invasion.<sup>4</sup></li>
     <li>The Yin player commits all infantry before resolving any combats.<sup>*</sup></li>
     <ol><li>Only the three infantry from the Yin player&rsquo;s reinforcements may be committed. Ground forces in the space area above the planets cannot be committed.<sup>12</sup></li></ol>
-    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability.<sup>*</sup></li>
+    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup></li>
     <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#FAQ:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup></li>
     <ol>
@@ -121,10 +121,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup></li>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup></li>
     <ol><li>If a Moyin&rsquo;s Ashes is destroyed during combat, another may be deployed in a later combat during the same invasion.<sup>*</sup></li></ol>
     <li>The removed unit must still be an infantry.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup></li>
+    <li>The <a href="/R_deploy"><sc>Deploy</sc></a> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Breakthrough:~:text=Yin%20Ascendant">Yin Ascendant</a> <sub>(Breakthrough)</sub></h2>

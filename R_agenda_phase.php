@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '8.' counter(item, decimal);} </style>
 <p data-src="1">During the agenda phase, players can cast votes on agendas that can change the rules of the game.</p>
     <ol class="lrr">
-    <li data-src="1,2,3">Players skip the agenda phase during the early portion of each game. After the custodians token is removed from <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>, the agenda phase is added to each game round. To resolve the agenda phase, players perform the following steps:</li>
+    <li data-src="1,2,3">Players skip the agenda phase during the early portion of each game. After the custodians token is removed from <a href="/R_mecatol_rex">Mecatol Rex</a>, the agenda phase is added to each game round. To resolve the agenda phase, players perform the following steps:</li>
     <li data-src="1"><b>Step 1 &ndash; First Agenda</b>: Players resolve the first agenda by following these steps in order:</li>
     <ol class="roman">
         <li data-src="1,3"><b>Reveal Agenda</b>: The speaker draws one agenda card from the top of the agenda deck and reads it aloud to all players, including all of its possible outcomes.</li>

@@ -68,7 +68,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> dice when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup>
+    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="/R_bombardment"><sc>Bombardment</sc></a> dice when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -96,7 +96,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Breakthrough:~:text=Bellum%20Gloriosum">Bellum Gloriosum</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count towards the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count towards the <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -104,7 +104,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, say that the Sol player has <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production 2</sc></a>, and wishes to produce a dreadnought and two infantry. They would pay five resources for this, as they would pay a single resource for the pair of infantry.<sup>*</sup>
+    <ol><li>For example, say that the Sol player has <a href="/R_production"><sc>Production 2</sc></a>, and wishes to produce a dreadnought and two infantry. They would pay five resources for this, as they would pay a single resource for the pair of infantry.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

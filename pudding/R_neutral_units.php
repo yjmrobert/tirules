@@ -39,11 +39,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10, Neutral Units: &ldquo;Neutral units count as other player&rsquo;s units for the purpose of resolving players&rsquo; abilities and other game effects. There is, however, no &lsquo;neutral player.&rsquo;&rdquo;</li>
         </ul></li>
-    <li>Neutral units with <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup>
+    <li>Neutral units with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units.&rdquo;</li>
         </ul></li>
-    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
+    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat.&rdquo;</li>
         </ul></li>

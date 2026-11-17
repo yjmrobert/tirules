@@ -5,15 +5,15 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If the player with <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> controls no planets, or controls only <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>*</sup>
+    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only <a href="/R_mecatol_rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 32.2: the active player &ldquo;chooses a system that contains a planet they control other than the Mecatol Rex system.&rdquo;</li>
         </ul></li>
-    <li>If the player with <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> controls fewer than two exhausted planets, they may still perform a strategic action. They will ready as many planets as possible.<sup>2</sup>
+    <li>If the player with <i>Diplomacy</i> controls fewer than two exhausted planets, they may still perform a strategic action. They will ready as many planets as possible.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revised Diplomacy strategy card work?&rdquo;: the primary player may &ldquo;ready up to 2 exhausted planets they control.&rdquo; &ldquo;Up to&rdquo; covers fewer.</li>
         </ul></li>
-    <li>The Diplomacy token represents a command token from each player other than the player with the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card. It may be used to simplify play when no player is expected to interact with the command tokens placed by the primary ability.<sup>7</sup>
+    <li>The Diplomacy token represents a command token from each player other than the player with the <i>Diplomacy</i> strategy card. It may be used to simplify play when no player is expected to interact with the command tokens placed by the primary ability.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 12, Diplomacy Token: &ldquo;This token is a player aid included to facilitate ease of play when resolving simple uses of the &lsquo;Diplomacy&rsquo; strategy card&rsquo;s primary ability. It represents a command token from each player.&rdquo;</li>
         </ul></li>

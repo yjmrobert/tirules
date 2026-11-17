@@ -9,11 +9,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Warfare secondary work?&rdquo;: &ldquo;It doesn&rsquo;t activate the system and works even if your home system already has your token.&rdquo; The cited entry (activating a system with your token) is less direct.</li>
         </ul></li>
-    <li>If a tactical action that is part of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> primary ability is cancelled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.<sup>7</sup>
+    <li>If a tactical action that is part of the <i>Warfare</i> primary ability is cancelled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16: &ldquo;If a tactical action that is part of the Warfare primary is canceled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.&rdquo;</li>
         </ul></li>
-    <li>Ships may move into a system that has already been activated during the tactical action of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> primary ability, but ships cannot move out of a system that has already been activated.<sup>2</sup>
+    <li>Ships may move into a system that has already been activated during the tactical action of the <i>Warfare</i> primary ability, but ships cannot move out of a system that has already been activated.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Warfare strategy card work?&rdquo;: &ldquo;You can move ships into an already-activated system that way, but not out of one.&rdquo;</li>
         </ul></li>

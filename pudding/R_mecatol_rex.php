@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> on tile 18 is not a legendary planet. <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> on tile 112 is a legendary planet.<sup>7</sup>
+    <li>Mecatol Rex on tile 18 is not a legendary planet. Mecatol Rex on tile 112 is a legendary planet.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 4: &ldquo;Replace the &lsquo;Mecatol Rex&rsquo; system tile from the base game with the &lsquo;Mecatol Rex&rsquo; system tile that has a legendary planet icon.&rdquo;</li>
         </ul></li>

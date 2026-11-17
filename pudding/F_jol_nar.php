@@ -18,7 +18,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Brilliant">Brilliant</a></h2>
     <ol class="note">
-    <li>When using Brilliant, the Jol&ndash;Nar player spends only the command token from their strategy pool, not the four resources. They then resolve the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card, and may research an additional technology by spending six resources.<sup>2</sup>
+    <li>When using Brilliant, the Jol&ndash;Nar player spends only the command token from their strategy pool, not the four resources. They then resolve the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, and may research an additional technology by spending six resources.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Jol-Nar uses Brilliant to resolve the Technology primary as a secondary, do they need another token for the second tech?&rdquo;: &ldquo;No &mdash; they pay one strategy token, then resolve the full primary: research one technology and optionally spend 6 resources for a second.&rdquo;</li>
         </ul></li>
@@ -60,7 +60,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Research Agreement</i> may be triggered when the Jol&ndash;Nar player researches a technology outside of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card. For example, it may be triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding"><i>Divert Funding</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research"><i>Focused Research</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Technology%20Rider"><i>Technology Rider</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research"><i>Wormhole Research</i></a> agenda, or the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Enigmatic%20Device"><i>Enigmatic Device</i></a> exploration card.<sup>2</sup>
+    <li><i>Research Agreement</i> may be triggered when the Jol&ndash;Nar player researches a technology outside of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card. For example, it may be triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding"><i>Divert Funding</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research"><i>Focused Research</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Technology%20Rider"><i>Technology Rider</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research"><i>Wormhole Research</i></a> agenda, or the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Enigmatic%20Device"><i>Enigmatic Device</i></a> exploration card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Jol-Nar&rsquo;s Research Agreement work?&rdquo;: &ldquo;When Jol-Nar researches a non-faction technology, by any means, while you hold the note, both of you end up with it &hellip; It doesn&rsquo;t trigger when Jol-Nar merely gains a tech.&rdquo;</li>
         </ul></li>
@@ -82,7 +82,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -94,7 +94,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Jol-Nar&rsquo;s Spatial Conduit Cylinder work?&rdquo;: &ldquo;It is exhausted right after activation, before movement, so the system must already contain your units.&rdquo;</li>
         </ul></li>
-    <li>The Jol&ndash;Nar player&rsquo;s PDS II units in systems made adjacent by <i>Spatial Conduit Cylinder</i> may use their <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability against the active system.<sup>2</sup>
+    <li>The Jol&ndash;Nar player&rsquo;s PDS II units in systems made adjacent by <i>Spatial Conduit Cylinder</i> may use their <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability against the active system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;systems with your units count as adjacent to it for that action, so all your PDS II there can fire into it.&rdquo;</li>
         </ul></li>

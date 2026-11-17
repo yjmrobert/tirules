@@ -22,7 +22,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;if they already controlled it, the player they are now coexisting with gains control of it instead, exhausted.&rdquo;</li>
         </ul></li>
-    <li>All coexisting units are blockaded, including units that are not structures, such as mechs with the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability.<sup>6,9</sup>
+    <li>All coexisting units are blockaded, including units that are not structures, such as mechs with the <a href="/R_production"><sc>Production</sc></a> ability.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Are coexisting non-structure units with PRODUCTION blockaded? A: Yes, coexisting units are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
@@ -35,7 +35,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;During the Invasion step of a tactical action, control is not exchanged until the Establish Control step. At all other times, control is exchanged immediately after the coexisting player becomes the only player with units on the planet.&rdquo;</li>
         </ul></li>
-    <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup>
+    <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;You may fire PDS defense against the active player&rsquo;s committed ground forces after entering coexistence &hellip; you do not lose control of the planet when you enter coexistence until the Establish Control step.&rdquo;</li>
         </ul></li>
@@ -43,7 +43,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;When you end coexistence, you end coexistence for all of your units on that planet, including structures.&rdquo;</li>
         </ul></li>
-    <li>A unit with <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup>
+    <li>A unit with <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Planetary Shield from any units on the planet applies to the planet itself and thus protects all units on the planet. All PDS on a planet may use Space Cannon during Space Cannon Defense against units committed from space by the active player.&rdquo;</li>
         </ul></li>
@@ -63,12 +63,12 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;If a player&rsquo;s coexisting units become the only units on a planet, that player gains control of the planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence Control Default (With Multiple Coexisting Players).&rdquo;</li>
         </ul></li>
-    <li>When a player uses the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup>
+    <li>When a player uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player&rsquo;s units, rolling against each player separately.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If that player has multiple units with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability, they make this choice independently for each unit.<sup>7</sup>
+        <li>If that player has multiple units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, they make this choice independently for each unit.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;they choose which of their units with bombardment are bombarding which other player&rsquo;s units.&rdquo;</li>
         </ul></li>
@@ -121,11 +121,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Same answer: &ldquo;You cannot spend other player&rsquo;s units to pay for explore cards&rsquo; costs.&rdquo;</li>
         </ul></li>
-    <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup>
+    <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <a href="/R_bombardment"><sc>Bombardment</sc></a>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist Control Default (During Invasions)&rdquo;: &ldquo;During invasion, control default due to coexistence does not occur until the establish control step. The invading player may land ground forces and take control of the planet.&rdquo;</li>
         </ul></li>
-    <li>Coexisting units may use their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability to produce ground forces, but cannot produce ships.<sup>9</sup>
+    <li>Coexisting units may use their <a href="/R_production"><sc>Production</sc></a> ability to produce ground forces, but cannot produce ships.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
         </ul></li>

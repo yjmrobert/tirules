@@ -4,7 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Star%20Forge">Star Forge</a></h2>
     <ol class="note">
     <li>The Muaat player cannot use <sc>Star Forge</sc> if they do not have a war sun on the game board.<sup>*</sup></li>
-    <li>Ships placed with <sc>Star Forge</sc> are not produced, and do not trigger effects that occur when units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>2</sup></li>
+    <li>Ships placed with <sc>Star Forge</sc> are not produced, and do not trigger effects that occur when units use <a href="/R_production"><sc>Production</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Gashlai%20Physiology">Gashlai Physiology</a></h2>
@@ -18,8 +18,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The war sun must be in the system prior to the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup></li>
-    <li>The trade good is gained after the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup></li>
+    <li>The war sun must be in the system prior to the use of <a href="/R_production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup></li>
+    <li>The trade good is gained after the use of <a href="/R_production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor &Omega;</a> <sub>(Technology)</sub></h2>
@@ -38,7 +38,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1</sup></li>
-    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
     <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their war sun or flagship.<sup>*</sup></li>
     <li>If the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup></li>
     <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup></li></ol>
@@ -54,7 +54,7 @@
     </ol>
     <li>If the Muaat player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup></li>
     <li>The Muaat player must have Magmus unlocked before spending the strategy token in order to gain the trade good.<sup>*</sup></li>
-    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup></li></ol>
+    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <a href="/R_warfare"><i>Warfare</i></a> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Adjudicator%20Ba%27al">Adjudicator Ba&rsquo;al</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed">Nova Seed</a> <sub>(Hero)</sub></h2>
@@ -84,8 +84,8 @@
     <li>Avernus may be moved into a system containing another player&rsquo;s units.<sup>*</sup></li>
     <li>Structures may be placed on Avernus.<sup>*</sup></li>
     <ol>
-        <li>Any PDS (or other relevant unit) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during the movement step of the same tactical action the planet is moved.<sup>*</sup></li>
-        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup></li>
+        <li>Any PDS (or other relevant unit) on Avernus may use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during the movement step of the same tactical action the planet is moved.<sup>*</sup></li>
+        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="/R_production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup></li>
     </ol>
     <li>If the Muaat player moves Avernus into a supernova while another player has units on it, those units are unaffected.<sup>6</sup></li>
     </ol>

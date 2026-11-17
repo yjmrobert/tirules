@@ -37,8 +37,8 @@
     <li>One hit will be produced even if the system contains multiple wormholes.<sup>*</sup></li>
     <li>The Creuss player chooses which ship the hit is assigned to.<sup>2</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2,5</sup></li>
-    <li>The chosen ship may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ship with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>2</sup></li>
-    <li>If the chosen ship cancels the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup></li>
+    <li>The chosen ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>2</sup></li>
+    <li>If the chosen ship cancels the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> <sub>(Technology)</sub></h2>
@@ -112,8 +112,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Each wormhole in the system provides the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup></li>
-    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup></li>
+    <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup></li>
+    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

@@ -20,14 +20,14 @@
     </ol>
     <li data-src="1,3"><b>Step 6 &ndash; Ready Cards</b>: Each player readies all of their exhausted cards, including strategy cards.</li>
     <li data-src="1,3"><b>Step 7 &ndash; Repair Units</b>: Each player repairs all of their damaged units by turning those units upright.</li>
-    <li data-src="1,2,3"><b>Step 8 &ndash; Return Strategy Cards</b>: Each player returns their strategy card to the common play area. Then, if a player has removed the custodians token from <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>, the game round continues to the agenda phase. Otherwise, a new game round begins with the strategy phase.</li>
+    <li data-src="1,2,3"><b>Step 8 &ndash; Return Strategy Cards</b>: Each player returns their strategy card to the common play area. Then, if a player has removed the custodians token from <a href="/R_mecatol_rex">Mecatol Rex</a>, the game round continues to the agenda phase. Otherwise, a new game round begins with the strategy phase.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
     <li>A player cannot score public objectives if that player does not control each planet in their home system.<sup>1,2,3</sup></li>
     <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.<sup>*</sup></li>
-    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup></li>
+    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup></li>
     <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>
     </ol>
 

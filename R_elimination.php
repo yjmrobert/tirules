@@ -8,7 +8,7 @@
     <li data-src="1,2">A player is eliminated when they meet <b>all</b> of the following three conditions:</li>
     <ol>
         <li data-src="1,2">The player has no ground forces on the game board.</li>
-        <li data-src="1,2">The player has no unit that has <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.</li>
+        <li data-src="1,2">The player has no unit that has <a href="/R_production"><sc>Production</sc></a>.</li>
         <li data-src="1,2">The player does not control any planets.</li>
     </ol>
     <li data-src="1">When a player becomes eliminated, all of the units, command tokens, control tokens, promissory notes, technologies, command sheets, and the faction sheet that matches that player&rsquo;s faction or color are returned to the game box, including those in their reinforcements.</li>

@@ -14,12 +14,12 @@
     <ol>
         <li data-src="1,3">Ships that have capacity values can transport ground forces and fighters when moving.</li>
         <li data-src="1,2">The player may choose to not move any ships.</li>
-        <li data-src="1,2,3">After the <b><a href="/R_movement">Move Ships</a></b> step, all players can use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities of their units in the active system.</li>
+        <li data-src="1,2,3">After the <b><a href="/R_movement">Move Ships</a></b> step, all players can use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units in the active system.</li>
     </ol>
     <li data-src="1,2,3"><b>Step 3 &ndash; Space Combat</b>: If two players have ships in the active system, those players must resolve a space combat.</li>
     <ol><li data-src="1">If the active player is the only player with ships in the system, they skip this step.</li></ol>
-    <li data-src="1,3"><b>Step 4 &ndash; Invasion</b>: The active player may use their <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> abilities, commit units to land on planets, and resolve ground combat against other players&rsquo; units.</li>
-    <li data-src="1,2,3"><b>Step 5 &ndash; Production</b>: The active player may resolve each of their unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> abilities in the active system.</li>
+    <li data-src="1,3"><b>Step 4 &ndash; Invasion</b>: The active player may use their <a href="/R_bombardment"><sc>Bombardment</sc></a> abilities, commit units to land on planets, and resolve ground combat against other players&rsquo; units.</li>
+    <li data-src="1,2,3"><b>Step 5 &ndash; Production</b>: The active player may resolve each of their unit&rsquo;s <a href="/R_production"><sc>Production</sc></a> abilities in the active system.</li>
     <ol><li data-src="1,3">The active player may do this even if they did not move units or land ground forces during this tactical action.</li></ol>
     </ol>
 

@@ -3,16 +3,16 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '15.' counter(item, decimal);} </style>
-<p data-src="1,3">A unit with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability may be able to destroy another player&rsquo;s ground forces during an invasion. During the <b>Bombardment</b> step, players perform the following steps:</p>
+<p data-src="1,3">A unit with the <sc>Bombardment</sc> ability may be able to destroy another player&rsquo;s ground forces during an invasion. During the <b>Bombardment</b> step, players perform the following steps:</p>
     <ol class="lrr">
-    <li data-src="1,3"><b>Step 1</b> &ndash; The active player chooses which planet each of their units that has a <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability will bombard. Then, that player rolls dice for each of those units; this is called a bombardment roll. A hit is produced for each die roll that is equal to or greater than the unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> value.</li>
+    <li data-src="1,3"><b>Step 1</b> &ndash; The active player chooses which planet each of their units that has a <sc>Bombardment</sc> ability will bombard. Then, that player rolls dice for each of those units; this is called a bombardment roll. A hit is produced for each die roll that is equal to or greater than the unit&rsquo;s <sc>Bombardment</sc> value.</li>
     <ol>
-        <li data-src="1">A unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability is presented along with a unit&rsquo;s attributes on faction sheets and unit upgrade technology cards.</li>
-        <li data-src="1,3">The <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability is displayed as &ldquo;<a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> X (&times;Y)&rdquo;. The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> abilities have a (Y) value; a bombardment roll for such a unit consists of one die.</li>
+        <li data-src="1">A unit&rsquo;s <sc>Bombardment</sc> ability is presented along with a unit&rsquo;s attributes on faction sheets and unit upgrade technology cards.</li>
+        <li data-src="1,3">The <sc>Bombardment</sc> ability is displayed as &ldquo;<sc>Bombardment</sc> X (&times;Y)&rdquo;. The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <sc>Bombardment</sc> abilities have a (Y) value; a bombardment roll for such a unit consists of one die.</li>
         <li data-src="1,2">Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls.</li>
         <li data-src="1,2,3">Multiple planets in a system may be bombarded, but a player must declare which planet a unit is bombarding before making a bombardment roll.</li>
         <li data-src="1">The <a href="/F_lizix">L1Z1X</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability does not affect the <a href="/F_lizix">L1Z1X</a> player&rsquo;s own ground forces.</li>
-        <li data-src="1,2">Planets that contain a unit with the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability cannot be bombarded.</li>
+        <li data-src="1,2">Planets that contain a unit with the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability cannot be bombarded.</li>
     </ol>
     <li data-src="1,3"><b>Step 2</b> &ndash; The player who controls the planet that is being bombarded chooses and destroys one of their ground forces on that planet for each hit result the bombardment roll produced.</li>
     <ol><li data-src="1">If a player has to assign more hits than that player has ground forces, the excess hits have no effect.</li></ol>
@@ -22,12 +22,12 @@
     <ol class="note">
     <li>The <b>Bombardment</b> step happens outside of combat. No combat effects may affect a bombardment roll.<sup>2</sup></li>
     <ol><li>A player cannot score a secret objective that requires them to win a combat or similar by destroying units during the <b>Bombardment</b> step.<sup>2</sup></li></ol>
-    <li>Mechs may use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by a bombardment roll.<sup>2</sup></li>
+    <li>Mechs may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by a bombardment roll.<sup>2</sup></li>
     <li>Only the active player may bombard.<sup>1,4</sup></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
-    <li>A single planet must be chosen for each unit with the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability; any hits generated by that unit will be assigned to units on that planet.<sup>1,2,3</sup></li>
-    <li>A player may choose not to use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> abilities of their units during their tactical actions. However, if they choose to use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability, they must use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of each unit in the active system.<sup>*</sup></li>
-    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability.<sup>*</sup></li></ol>
+    <li>A single planet must be chosen for each unit with the <sc>Bombardment</sc> ability; any hits generated by that unit will be assigned to units on that planet.<sup>1,2,3</sup></li>
+    <li>A player may choose not to use the <sc>Bombardment</sc> abilities of their units during their tactical actions. However, if they choose to use the <sc>Bombardment</sc> ability, they must use the <sc>Bombardment</sc> ability of each unit in the active system.<sup>*</sup></li>
+    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.<sup>*</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

@@ -7,7 +7,7 @@
     <ol class="lrr">
     <li data-src="1">Structures are always placed on planets.</li>
     <ol><li data-src="1,2">The Clan of <a href="/F_saar">Saar</a>&rsquo;s &ldquo;Floating Factory&rdquo; faction&ndash;specific space dock is placed in a system&rsquo;s space area.</li></ol>
-    <li data-src="1,2">Structures are primarily placed on planets using the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card.</li>
+    <li data-src="1,2">Structures are primarily placed on planets using the <a href="/R_construction"><i>Construction</i></a> strategy card.</li>
     <li data-src="1,2,4">Structures cannot move or be transported.</li>
     <li data-src="1,2,3">A player can have a maximum of <b>one</b> space dock on each planet.</li>
     <li data-src="1,2,3">A player can have a maximum of <b>two</b> PDS units on each planet.</li>

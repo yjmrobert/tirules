@@ -86,7 +86,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;hits aren&rsquo;t assigned until rolling ends; any unit whose reroll fails to hit is destroyed.&rdquo;</li>
         </ul></li>
-    <li>A unit with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.<sup>*</sup>
+    <li>A unit with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -136,7 +136,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Lightrail%20Ordnance">Lightrail Ordnance</a></h2>
     <ol class="note">
-    <li>The space docks may use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>*</sup>
+    <li>The space docks may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -156,15 +156,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Shielding">Metali Void Shielding</a></h2>
     <ol class="note">
-    <li>The affected ship may be destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card after it uses the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+    <li>The affected ship may be destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card after it uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card after it uses the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability via <i>Metali Void Shielding</i>.<sup>*</sup>
+    <li>A player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card after it uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability via <i>Metali Void Shielding</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, they may use <i>Metali Void Shielding</i> for both the <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> and combat rolls in that round of space combat.<sup>*</sup>
+    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, they may use <i>Metali Void Shielding</i> for both the <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> and combat rolls in that round of space combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -327,7 +327,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
     <ol class="note">
-    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card.<sup>*</sup>
+    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

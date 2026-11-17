@@ -17,7 +17,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;the Prototype War Sun is a war sun.&rdquo;</li>
         </ul></li></ol>
-    <li>If a war sun&rsquo;s ability results in no units on a planet having the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
+    <li>If a war sun&rsquo;s ability results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield: a war sun makes other players&rsquo; units lose Planetary Shield.&rdquo;</li>
         </ul></li>
@@ -92,11 +92,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/PDS">PDS</a></h2>
+<h2><a href="/R_pds">PDS</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a></h2>
+<h2><a href="/R_space_dock">Space Dock</a></h2>
     <ol class="note">
     <li>A space dock does not have a capacity value. It allows up to three fighters in its system to not count against capacity, but it cannot hold ground forces in the space area.<sup>2</sup>
         <ul>
@@ -106,7 +106,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a space dock have capacity?&rdquo;: &ldquo;two docks in one system cover 6 fighters.&rdquo;</li>
         </ul></li>
-    <li>A space dock&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value is not affected by whether its planet is exhausted.<sup>2</sup>
+    <li>A space dock&rsquo;s <a href="/R_production"><sc>Production</sc></a> value is not affected by whether its planet is exhausted.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;The planet being exhausted doesn&rsquo;t matter.&rdquo;</li>
         </ul></li>

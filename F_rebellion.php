@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=Sundered">Sundered</a></h2>
     <ol class="note">
-    <li><sc>Sundered</sc> only prevents the Rebellion player&rsquo;s ships from moving through wormholes other than epsilon wormholes. Other wormholes still make systems adjacent for the Rebellion player for all other purposes, such as <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, neighbors, objectives, action cards, and the ability of the Exile.<sup>2,6,9</sup></li>
+    <li><sc>Sundered</sc> only prevents the Rebellion player&rsquo;s ships from moving through wormholes other than epsilon wormholes. Other wormholes still make systems adjacent for the Rebellion player for all other purposes, such as <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, neighbors, objectives, action cards, and the ability of the Exile.<sup>2,6,9</sup></li>
     <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note, but their ships still cannot move through <a href="/F_creuss">Creuss</a> wormholes.<sup>6</sup></li>
     <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction"><i>Wormhole Reconstruction</i></a> agenda does not override <sc>Sundered</sc>. However, the systems it makes adjacent are adjacent for movement, and the Rebellion player&rsquo;s ships do not need to use the wormholes to move between them.<sup>6</sup></li>
@@ -25,7 +25,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Promissory_Note:~:text=Sever">Sever</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup></li>
+    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup></li>
     <li><i>Sever</i> affects all wormholes in the system, not just the one the token is placed on.<sup>6</sup></li>
     </ol>
 
@@ -46,8 +46,8 @@
     <ol class="note">
     <li>The <i>Quietus</i> removes only the unit abilities from other players&rsquo; units; any text abilities are unaffected.<sup>*</sup></li>
     <ol>
-        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production X</sc></a> ability, will have no effect.<sup>*</sup></li>
-        <li>If a unit loses its <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup></li>
+        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <a href="/R_production"><sc>Production X</sc></a> ability, will have no effect.<sup>*</sup></li>
+        <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup></li>
     </ol>
     </ol>
 
@@ -73,7 +73,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Mech:~:text=Revenant">Revenant</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Rebellion player may only <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> one mech per tactical action, regardless of the number of planets in the active system.<sup>*</sup></li>
+    <li>The Rebellion player may only <a href="/R_deploy"><sc>Deploy</sc></a> one mech per tactical action, regardless of the number of planets in the active system.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Breakthrough:~:text=Resonance%20Generator">Resonance Generator</a> <sub>(Breakthrough)</sub></h2>

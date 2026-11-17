@@ -23,7 +23,7 @@
     <li>Units placed on planets via the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup></li>
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup></li>
     <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup></li>
-    <li>Only the active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup></li></ol>
     <li>If the Ul player&rsquo;s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup></li>
     </ol>
@@ -39,11 +39,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When multiple units use their <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup></li>
+    <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup></li>
     <li>Effects that remove ground forces, and then place them on the game board without transporting them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Decoy%20Operation"><i>Decoy Operation</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Transit_Diodes"><i>Transit Diodes</i></a> technology, may be used on a Hel&ndash;Titan.<sup>2</sup></li>
     <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup></li>
     <li>A Hel&ndash;Titan is a structure, and so cannot be targeted by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex"><i>Vortex</i></a> faction technology.<sup>2</sup></li>
-    <li>If a player is able to ignore <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.<sup>*</sup></li>
+    <li>If a player is able to ignore <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Cruiser:~:text=Saturn%20Engine">Saturn Engine</a> <sub>(Unit)</sub></h2>
@@ -58,32 +58,32 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup></li>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tungstantus">Tungstantus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The trade good may be spent on the units produced by the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability that triggered Tungstantus.<sup>4</sup></li>
+    <li>The trade good may be spent on the units produced by the <a href="/R_production"><sc>Production</sc></a> ability that triggered Tungstantus.<sup>4</sup></li>
     <ol>
         <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup></li>
         <li>A trade good will not be gained unless at least one unit is produced.<sup>*</sup></li>
     </ol>
-    <li>Other effects that produce units without a unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability will not trigger Tungstantus.<sup>14</sup></li>
+    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not trigger Tungstantus.<sup>14</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Ul%20the%20Progenitor">Ul the Progenitor</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Specific_Components:~:text=Geoform">Geoform</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability is controlled by whichever player controls Elysium.<sup>*</sup></li>
+    <li>The <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability is controlled by whichever player controls Elysium.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When the Ul player would place multiple PDS during a single step, they may resolve a <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup></li>
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup></li>
-    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup></li>
-    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup></li>
-    <li>The Ul player may use the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup></li>
-    <li>The Ul player may use the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup></li>
+    <li>When the Ul player would place multiple PDS during a single step, they may resolve a <a href="/R_deploy"><sc>Deploy</sc></a> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup></li>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup></li>
+    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup></li>
+    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup></li>
+    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup></li>
+    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="/R_construction"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing">Slumberstate Computing</a> <sub>(Breakthrough)</sub></h2>

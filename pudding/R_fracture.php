@@ -75,7 +75,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Each planet must be in a different system and must have a different technology specialty.&rdquo;</li>
         </ul></li>
-    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is on the game board, then an ingress token is place into its system. Otherwise, an ingress token is placed into the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> system.<sup>7</sup>
+    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is on the game board, then an ingress token is place into its system. Otherwise, an ingress token is placed into the <a href="/R_mecatol_rex">Mecatol Rex</a> system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Finally, the players place an ingress token in the Thunder&rsquo;s Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed.&rdquo;</li>
         </ul></li>

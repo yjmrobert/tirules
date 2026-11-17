@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Ambush.&rdquo;</li>
         </ul></li>
-    <li>A ship may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup>
+    <li>A ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4: a unit &ldquo;can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it.&rdquo;</li>
         </ul></li>
@@ -109,7 +109,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -157,7 +157,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup>
+    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Mentak ships that Ambush still roll in the first round, and how does The Fourth Moon block Sustain Damage?&rdquo;: &ldquo;The Fourth Moon stops other players&rsquo; Sustain Damage in any round it takes part in, including the round it is destroyed, because Sustain Damage is used before hits remove it.&rdquo;</li>
         </ul></li>
@@ -218,7 +218,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.&rdquo;</li>
         </ul></li>
-    <ol><li>When players would use their ships&rsquo; <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup>
+    <ol><li>When players would use their ships&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -251,7 +251,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup>
+    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

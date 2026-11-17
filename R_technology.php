@@ -8,7 +8,7 @@
     <li data-src="1">Each player places any technology they have gained faceup near their faction sheet. For the duration of the game, they <b>own</b> any technology cards they gain and can use the abilities on those cards.</li>
     <li data-src="1">A player does not own any technology card that is in their technology deck.</li>
     <li data-src="1">A player can gain a technology card from their technology deck by researching technology.</li>
-    <ol><li data-src="1,3">Both the primary and secondary abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card allow a player to research a technology.</li></ol>
+    <ol><li data-src="1,3">Both the primary and secondary abilities of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card allow a player to research a technology.</li></ol>
     <li data-src="1">Any technology card that a player has not gained remains in their technology deck. A player can look through their technology deck at any time.</li>
     <li data-src="1,2,4">If an ability instructs a player to <b>gain</b> a technology, they do not research it; they take it from their technology deck and place it in their play area, ignoring prerequisites.</li>
     <li data-src="1">Some technologies are unit upgrades. Unit upgrades share a name with a unit that is printed on a player&rsquo;s faction sheet.</li>
@@ -22,7 +22,7 @@
     <li data-src="1">Most technology cards have a column of colored symbols displayed in the lower&ndash;left corner of the card. Each symbol in this column is a prerequisite.</li>
     <ol><li data-src="1">A technology card&rsquo;s prerequisites indicate the number and color of technologies a player must own to research that technology card.</li></ol>
     <h2><li>Researching Technology</li></h2>
-    <p data-src="1">A player can research technology by resolving either the primary or secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card during the action phase. Other game effects may also instruct a player to research technology.</p>
+    <p data-src="1">A player can research technology by resolving either the primary or secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card during the action phase. Other game effects may also instruct a player to research technology.</p>
     <li data-src="1">To research technology, a player gains that technology card from their technology deck and places it in their play area near their faction sheet.</li>
     <ol><li data-src="1">Players place any unit upgrades they gain faceup on their faction sheets, covering the unit that shares a name with that upgrade card.</li></ol>
     <li data-src="1">A player cannot research a faction technology that does not match their faction.</li>
@@ -52,7 +52,7 @@
     <li>If a player is instructed to gain a technology, that player does not have to meet the prerequisites.<sup>1,2,4</sup></li>
     <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research the generic upgrade for that unit type.<sup>*</sup></li>
     <li>An exhausted technology still satisfies prerequisites.<sup>2</sup></li>
-    <li>The first technology researched with the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Technology"><i>Technology</i></a> strategy card may satisfy a prerequisite of the second technology researched with that ability.<sup>2</sup></li>
+    <li>The first technology researched with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card may satisfy a prerequisite of the second technology researched with that ability.<sup>2</sup></li>
     <li>If an exhausted technology is returned to a player&rsquo;s technology deck and later researched again, it is gained readied.<sup>2</sup></li>
     </ol>
 

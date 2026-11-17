@@ -51,7 +51,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
+    <li>Effects that cancel hits, such as the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
@@ -65,7 +65,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When both players have end-of-round abilities, like Yin&rsquo;s Devotion and Sardakk&rsquo;s Exotrireme II, who goes first?&rdquo;: &ldquo;The active player resolves one first, then the players alternate one ability at a time.&rdquo;</li>
         </ul></li>
-    <li>An Exotrireme II that used its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup>
+    <li>An Exotrireme II that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Exotrireme II use its ability?&rdquo;: &ldquo;A dreadnought can use Sustain Damage that round and still be sacrificed afterwards.&rdquo;</li>
         </ul></li>
@@ -106,7 +106,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Sardakk N&rsquo;orr player commit ground forces via their commander, G&rsquo;hom Sek&rsquo;kus, on defense? A: No, only the active player can commit ground forces.&rdquo;</li>
         </ul></li>
-    <li>Only the active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
@@ -172,7 +172,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a Valkyrie Exoskeleton uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup>
+    <li>If a Valkyrie Exoskeleton uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

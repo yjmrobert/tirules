@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Using a <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability is always optional, even if the ability&rsquo;s text does not include the word &ldquo;may&rdquo;.<sup>6</sup>
+    <li>Using a <sc>Deploy</sc> ability is always optional, even if the ability&rsquo;s text does not include the word &ldquo;may&rdquo;.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Is the Iconoclast deploy ability mandatory (there is no &lsquo;may&rsquo; in the wording)? A: Deploy being a unit ability is always a may.&rdquo;</li>
         </ul></li>

@@ -18,8 +18,8 @@
     <li>The following are examples of non&ndash;binding deals:<sup>5</sup></li>
     <ol>
         <li>Making a deal to use a promissory note in a specific way, before the promissory note has been transacted.<sup>5</sup></li>
-        <li>Making a deal to not make use of a unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during a tactical action, before ships have been moved.<sup>2</sup></li>
-        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategic action.<sup>5</sup></li>
+        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during a tactical action, before ships have been moved.<sup>2</sup></li>
+        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup></li>
         <li>Making a deal for a player to vote on an agenda in a certain way, when it is not yet that player&rsquo;s opportunity to vote.<sup>2</sup></li>
         <li>Any deal that will resolve after dice are rolled.<sup>2</sup></li>
     </ol>

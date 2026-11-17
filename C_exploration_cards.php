@@ -51,7 +51,7 @@
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Expedition">Expedition</a></h2>
+<h2><a href="/R_expedition">Expedition</a></h2>
     <ol class="note">
     </ol>
 

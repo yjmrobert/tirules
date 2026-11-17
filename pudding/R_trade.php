@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card. To her left is Bob. To his left is Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup>
+    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob. To his left is Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.2&ndash;92.5: the active player gains 3 trade goods, replenishes commodities, chooses players; then &ldquo;each other player, beginning with the player to the left of the active player,&rdquo; may resolve the secondary.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jan 17, 2018): &ldquo;The freebie secondary players resolve the secondaries during the normal time and in clockwise order from the active player, intermingled with those paying for it manually.&rdquo; Supports secondary ordering only.</li>
@@ -43,7 +43,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
         </ul></li>
-    <li>Choosing players to resolve the secondary ability of <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count towards the active player&rsquo;s transaction limit.<sup>2</sup>
+    <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count towards the active player&rsquo;s transaction limit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Is replenishing other players&rsquo; commodities with Trade a transaction?&rdquo;: &ldquo;No &mdash; it is a strategy card effect: recipients needn&rsquo;t be neighbors, can&rsquo;t refuse, it doesn&rsquo;t use up a transaction&rdquo;</li>
         </ul></li>

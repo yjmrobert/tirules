@@ -3,7 +3,7 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '47.' counter(item, decimal);} </style>
-<p data-src="1,3">Influence represents a planet&rsquo;s political power. Players spend influence to gain command tokens using the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card, and the influence values of planets are used to cast votes during the agenda phase.</p>
+<p data-src="1,3">Influence represents a planet&rsquo;s political power. Players spend influence to gain command tokens using the <a href="/R_leadership"><i>Leadership</i></a> strategy card, and the influence values of planets are used to cast votes during the agenda phase.</p>
     <ol class="lrr">
     <li data-src="1,3">A planet&rsquo;s influence is the rightmost value (surrounded by a blue border) found on the planet&rsquo;s system tile and planet card.</li>
     <li data-src="1,2,3">A player can spend a planet&rsquo;s influence by exhausting that planet&rsquo;s card.</li>
