@@ -1,0 +1,15 @@
+@0
+E7 Thunder's Edge Rulebook p. 8, Synergy: "A breakthrough will give each faction a unique new ability and grants synergy between two technology colors."
+@1
+E7 Thunder's Edge Rulebook p. 8, Synergy: "A technology or technology specialty of a color that a player has synergy with can count as the other color instead, for the purposes of researching technology."
+@2
+E7 Thunder's Edge Rulebook p. 8, Synergy: "and for scoring technology-related objectives."
+E2 RulesPal, "Are breakthroughs technologies …?": "Synergy lets a technology of one linked colour count as the other for colour objectives."
+@3
+I7 Same passage: "A technology or technology specialty … can count as the other color."
+@4
+E7 Thunder's Edge Rulebook p. 8, Synergy: "Even so, a technology can only count as one or the other at any given time, not both."
+@5
+I7 Same passage: "at any given time."
+@6
+N No source found.

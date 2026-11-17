@@ -1,538 +1,502 @@
 <?php include "prefix.php"?>
 <header><h1>Objectives</h1></header>
 <article>
-<h2>Achieve Supremacy</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Achieve%20Supremacy">Achieve Supremacy</a></h2>
     <ol class="note">
-    <li>The flagship or war sun may be in the home system of an eliminated player.</li>
+    <li>The flagship or war sun may be in the home system of an eliminated player.<sup>*</sup></li>
     </ol>
 
-<h2>Adapt New Strategies</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies">Adapt New Strategies</a></h2>
     <ol class="note">
-    <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction technology.</li>
+    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technology will count if it is currently copying another player&rsquo;s faction technology.<sup>2,5</sup></li>
     </ol>
 
-<h2>Amass Wealth</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth">Amass Wealth</a></h2>
     <ol class="note">
-    <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
-    <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
-    <li>Trade goods may be spent as influence or resources when scoring <i>Amass Wealth</i>.</li>
+    <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as influence or resources when scoring <i>Amass Wealth</i>.<sup>1,2</sup></li>
     </ol>
 
-<h2>Become a Legend</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Become%20a%20Legend">Become a Legend</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.</li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.<sup>*</sup></li>
     <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.</li>
-        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.</li>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li>
-    <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
-    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li></ol>
-    </ol>
-
-<h2>Become a Martyr</h2>
-    <ol class="note">
-    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
-    <ol><li>The lost planet may be in the home system of an eliminated player.</li></ol>
-    <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
-    <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
-    <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+    <li>Any system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <ol><li>If a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Become the Gatekeeper</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
     <ol class="note">
-    <li>A player with a ship in the wormhole nexus, or in any other system with both an alpha and beta wormhole, qualifies for <i>Become the Gatekeeper</i>.</li>
-    <li>Any ground forces or structures are irrelevant.</li>
+    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>*</sup></li>
+    <ol><li>The lost planet may be in the home system of an eliminated player.<sup>*</sup></li></ol>
+    <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.<sup>4</sup></li>
+    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup></li>
+    <li>A player who loses their home system due to <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic may score <i>Become a Martyr</i>.<sup>6,9</sup></li>
+    <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.<sup>*</sup></li>
     </ol>
 
-<h2>Betray a Friend</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper">Become the Gatekeeper</a></h2>
     <ol class="note">
-    <li>The following promissory notes qualify for scoring <i>Betray a Friend</i>:</li>
+    <li>A player with a ship in the wormhole nexus, or in any other system with both an alpha and beta wormhole, qualifies for <i>Become the Gatekeeper</i>.<sup>*</sup></li>
+    <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a> faction ability only makes alpha and beta wormhole systems adjacent; a player still needs ships in both a system containing an alpha wormhole and a system containing a beta wormhole.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend">Betray a Friend</a></h2>
+    <ol class="note">
+    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Betray a Friend</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note counts for <i>Betray a Friend</i>; when it is attached to a planet, it counts as being in that planet owner&rsquo;s play area.<sup>4</sup></li>
+    <li>The defender cannot score <i>Betray a Friend</i>.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void">Brave the Void</a></h2>
+    <ol class="note">
+    <li>Any system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Build%20Defenses">Build Defenses</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Centralize%20Galactic%20Trade">Centralize Galactic Trade</a></h2>
+    <ol class="note">
+    <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Command%20an%20Armada">Command an Armada</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak">Conquer the Weak</a></h2>
+    <ol class="note">
+    <li>The planet may be in the home system of an eliminated player.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Construct%20Massive%20Cities">Construct Massive Cities</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Control%20the%20Borderlands">Control the Borderlands</a></h2>
+    <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.<sup>*</sup></li>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Control the Borderlands</i>.<sup>*</sup></li></ol>
+    <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> is not a home system.<sup>*</sup></li>
+    <li>The Wormhole Nexus and the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system are both on the edge of the game board.<sup>1,8</sup></li>
+    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
-        <li><i>Alliance</i>.</li>
-        <li><i>Support for the Throne</i>.</li>
-        <li><i>Stymie</i> (Arborec).</li>
-        <li><i>Share Knowledge</i> (Deepwrought).</li>
-        <li><i>Trade Convoys</i> (Hacan).</li>
-        <li><i>Dark Pact</i> (Empyrean).</li>
-        <li><i>Blood Pact</i> (Empyrean).</li>
-        <li><i>Promise of Protection</i> (Mentak).</li>
-        <li><i>Gift of Prescience</i> (Naalu).</li>
-        <li><i>Antivirus</i> (Nekro).</li>
-        <li><i>Sever</i> (Rebellion).</li>
-        <li><i>Terraform</i> (Ul).</li>
+        <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
-    <li>The defender cannot score <i>Betray a Friend</i>.</li>
     </ol>
 
-<h2>Brave the Void</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Control%20the%20Region">Control the Region</a></h2>
     <ol class="note">
-    <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
-    <li>A wormhole is not an anomaly.</li>
+    <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
     </ol>
 
-<h2>Build Defenses</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Corner%20the%20Market">Corner the Market</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Centralize Galactic Trade</h2>
-    <ol class="note">
-    <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.</li>
-    </ol>
-
-<h2>Command an Armada</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Cut%20Supply%20Lines">Cut Supply Lines</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Conquer the Weak</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies">Darken the Skies</a></h2>
     <ol class="note">
-    <li>The planet may be in the home system of an eliminated player.</li>
+    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>*</sup></li>
     </ol>
 
-<h2>Construct Massive Cities</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
+    <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.<sup>*</sup></li>
+    <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda.<sup>*</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power">Demonstrate Your Power</a></h2>
+    <ol class="note">
+    <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card.<sup>*</sup></li>
+    <li>A player involved in a combat due to the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability may score <i>Demonstrate Your Power</i> after that combat.<sup>*</sup></li>
+    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count towards scoring <i>Demonstrate Your Power</i>.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> ability of their hero, during the last round of combat to place ships before scoring <i>Demonstrate Your Power</i>. However, fleet pool limits are also checked before scoring.<sup>*</sup></li>
+    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Destroy%20Heretical%20Works">Destroy Heretical Works</a></h2>
+    <ol class="note">
+    <li>A player will not gain a relic when scoring <i>Destroy Heretical Works</i>.<sup>*</sup></li>
+    <li>The relic fragments may be the same or different types.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
+    <ol class="note">
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup></li>
+    <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup></li>
+    <ol><li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
+    <ol class="note">
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player owns multiple unit upgrade technologies of the same type, only one of them counts for <i>Develop Weaponry</i>.<sup>1,2,5</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy">Dictate Policy</a></h2>
+    <ol class="note">
+    <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup></li>
+    <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.<sup>*</sup></li>
+    <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Discover%20Lost%20Outposts">Discover Lost Outposts</a></h2>
+    <ol class="note">
+    <li>The number of attachments a planet has is irrelevant, if it has at least one.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Diversify%20Research">Diversify Research</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Control the Borderlands</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate">Drive the Debate</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.</li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Control the Borderlands</i>.</li></ol>
-    <li>The units may be in another player&rsquo;s home system.</li>
-    <li>The Creuss Gate is not a home system.</li>
-    <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
-    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
+    <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action cards are played before <i>Drive the Debate</i> can be scored.<sup>2,4</sup></li>
+    <li>Scoring <i>Drive the Debate</i> immediately before the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda is resolved may change which player(s) can be chosen to place the infantry on the elected planet.<sup>*</sup></li>
+    <li>If a player draws <i>Drive the Debate</i> while resolving the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret"><i>Archived Secret</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant"><i>Search Warrant</i></a> agendas, they cannot score it immediately.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Engineer%20a%20Marvel">Engineer a Marvel</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Erect%20a%20Monument">Erect a Monument</a></h2>
+    <ol class="note">
+    <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as resources when scoring <i>Erect a Monument</i>.<sup>1,2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Establish%20a%20Perimeter">Establish a Perimeter</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony">Establish Hegemony</a></h2>
+    <ol class="note">
+    <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders">Expand Borders</a></h2>
+    <ol class="note">
+    <li>The planets cannot be in any player&rsquo;s home system.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Explore%20Deep%20Space">Explore Deep Space</a></h2>
+    <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision</a></h2>
+    <ol class="note">
+    <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup></li>
+    <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision &Omega;</a></h2>
+    <ol class="note">
+    <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup></li>
+    <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup></li>
+    <li>Any effect that destroys fighters during the <b>Anti&ndash;Fighter Barrage</b> step may be used to score <i>Fight with Precision &Omega;</i>, not just hits produced by an anti&ndash;fighter barrage roll.<sup>*</sup></li>
+    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Forge%20an%20Alliance">Forge an Alliance</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network">Form a Spy Network</a></h2>
+    <ol class="note">
+    <li>The action cards must be discarded during the status phase. Any action cards that were discarded during the action phase will have no effect.<sup>1,2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Form%20Galactic%20Brain%20Trust">Form Galactic Brain Trust</a></h2>
+    <ol class="note">
+    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Foster%20Cohesion">Foster Cohesion</a></h2>
+    <ol class="note">
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability does not make a player neighbors with all other players.<sup>2</sup></li>
+    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Found%20a%20Golden%20Age">Found a Golden Age</a></h2>
+    <ol class="note">
+    <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as resources when scoring <i>Found a Golden Age</i>.<sup>1,2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Found%20Research%20Outposts">Found Research Outposts</a></h2>
+    <ol class="note">
+    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Fuel%20the%20War%20Machine">Fuel the War Machine</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People">Galvanize the People</a></h2>
+    <ol class="note">
+    <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Gather%20a%20Mighty%20Fleet">Gather a Mighty Fleet</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials">Hoard Raw Materials</a></h2>
+    <ol class="note">
+    <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Hold%20Vast%20Reserves">Hold Vast Reserves</a></h2>
+    <ol class="note">
+    <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as influence or resources when scoring <i>Hold Vast Reserves</i>.<sup>1,2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure">Improve Infrastructure</a></h2>
+    <ol class="note">
+    <li>The number of structures on the planet is irrelevant, if there is at least one.<sup>*</sup></li>
+    <li>The structures may be on planets in another player&rsquo;s home system.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council">Intimidate Council</a></h2>
+    <ol class="note">
+    <li>Any ships in the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup></li>
+    <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front">Lead From the Front</a></h2>
+    <ol class="note">
+    <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos">Learn the Secrets of the Cosmos</a></h2>
+    <ol class="note">
+    <li>The three systems may be mutually adjacent to one system, or separate systems.<sup>*</sup></li>
+    <li>Having ships in an anomaly is irrelevant, unless that system is also adjacent to another anomaly.<sup>2</sup></li>
+    <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
+    <li>Any system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a></h2>
+    <ol class="note">
+    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
+    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> player may score <i>Make an Example of Their World</i> by using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
+    <ol class="note">
+    <li>If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup></li>
+    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
+    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
+    <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.<sup>*</sup></li>
     <ol>
-        <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Make History</i>.<sup>*</sup></li>
     </ol>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
+    <li>Any system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <ol><li>If a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Mecatol%20Rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Control the Region</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>
     <ol class="note">
-    <li>Any ground forces or structures are irrelevant.</li>
+    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as influence when scoring <i>Manipulate Galactic Law</i>.<sup>1,2</sup></li>
     </ol>
 
-<h2>Corner the Market</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Cut Supply Lines</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Darken the Skies</h2>
-    <ol class="note">
-    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.</li>
-    </ol>
-
-<h2>Defy Space and Time</h2>
-    <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.</li>
-    <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <i>Classified Document Leaks</i> agenda.</li></ol>
-    </ol>
-
-<h2>Demonstrate Your Power</h2>
-    <ol class="note">
-    <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <i>Skilled Retreat</i> action card.</li>
-    <li>A player involved in a combat due to the Mahact player&rsquo;s <i>Benediction</i> hero ability may score <i>Demonstrate Your Power</i> after that combat.</li>
-    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the Nekro player&rsquo;s flagship, <i>The Alastor</i>, or the Naaz&ndash;Rokha player&rsquo;s Z&ndash;Grav Eidolon mechs, may count towards scoring <i>Demonstrate Your Power</i>.</li>
-    <li>The Mentak player may use the <i>Sleeper Cell</i> ability of their hero, during the last round of combat to place ships before scoring <i>Demonstrate Your Power</i>. However, fleet pool limits are also checked before scoring.</li>
-    <ol><li>The Mentak player cannot use the ability of their <i>Salvage Operations</i> technology until after the window in which to score <i>Demonstrate Your Power</i>.</li></ol>
-    </ol>
-
-<h2>Destroy Heretical Works</h2>
-    <ol class="note">
-    <li>A player will not gain a relic when scoring <i>Destroy Heretical Works</i>.</li>
-    <li>The relic fragments may be the same or different types.</li>
-    </ol>
-
-<h2>Destroy Their Greatest Ship</h2>
-    <ol class="note">
-    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
-    <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.</li>
-    <ol><li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.</li></ol>
-    <li>A player may score <i>Destroy their Greatest Ship</i> outside of a combat.</li>
-    </ol>
-
-<h2>Develop Weaponry</h2>
-    <ol class="note">
-    <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
-    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Develop Weaponry</i>.</li>
-    </ol>
-
-<h2>Dictate Policy</h2>
-    <ol class="note">
-    <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Dictate Policy</i>.</li>
-    <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.</li>
-    <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.</li>
-    <li>If the <i>Political Data Nexus</i> Xxcha hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.</li>
-    </ol>
-
-<h2>Discover Lost Outposts</h2>
-    <ol class="note">
-    <li>The number of attachments a planet has is irrelevant, if it has at least one.</li>
-    </ol>
-
-<h2>Diversify Research</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Master%20the%20Laws%20of%20Physics">Master the Laws of Physics</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Drive the Debate</h2>
-    <ol class="note">
-    <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
-    <li><i>Drive the Debate</i> is scored immediately before the agenda resolves. The <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Drive the Debate</i>.</li>
-    <li>Scoring <i>Drive the Debate</i> immediately before the <i>Colonial Redistribution</i> agenda is resolved may change which player(s) can be chosen to place the infantry on the elected planet.</li>
-	<li>If a player draws <i>Drive the Debate</i> while resolving the <i>Archived Secret</i> or <i>Search Warrant</i> agendas, they cannot score it immediately.</li>
-    </ol>
-
-<h2>Engineer a Marvel</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Master%20the%20Sciences">Master the Sciences</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Erect a Monument</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military">Mechanize the Military</a></h2>
     <ol class="note">
-    <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as resources when scoring <i>Erect a Monument</i>.</li>
-    </ol>
-
-<h2>Establish a Perimeter</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Establish Hegemony</h2>
-    <ol class="note">
-    <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.</li>
-    </ol>
-
-<h2>Expand Borders</h2>
-    <ol class="note">
-    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
-    </ol>
-
-<h2>Explore Deep Space</h2>
-    <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
-    </ol>
-
-<h2>Fight with Precision</h2>
-    <ol class="note">
-    <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
-    <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
-    <ol><li>A player does not have to win a combat to score <i>Fight with Precision</i>.</li></ol>
-    <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision</i> may still be scored.</li>
-    </ol>
-
-<h2>Fight with Precision &Omega;</h2>
-    <ol class="note">
-    <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
-    <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
-    <ol><li>A player does not have to win a combat to score <i>Fight with Precision</i>.</li></ol>
-    <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision &Omega;</i> may still be scored.</li>
-    <li>Any effect that destroys fighters during the <b>Anti&ndash;Fighter Barrage</b> step may be used to score <i>Fight with Precision &Omega;</i>, not just hits produced by an anti&ndash;fighter barrage roll.</li>
-	<ol><li>For example, say a player plays the <i>Courageous to the End</i> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.</li></ol>
-    </ol>
-
-<h2>Forge an Alliance</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Form a Spy Network</h2>
-    <ol class="note">
-    <li>The action cards must be discarded during the status phase. Any action cards that were discarded during the action phase will have no effect.</li>
-    </ol>
-
-<h2>Form Galactic Brain Trust</h2>
-    <ol class="note">
-    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
-    </ol>
-
-<h2>Foster Cohesion</h2>
-    <ol class="note">
-    <li>The Hacan player&rsquo;s <sc>Guild Ships</sc> faction ability and <i>Trade Convoys</i> promissory note does not make a player neighbors with all other players.</li>
-    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
-    </ol>
-
-<h2>Found a Golden Age</h2>
-    <ol class="note">
-    <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as resources when scoring <i>Found a Golden Age</i>.</li>
-    </ol>
-
-<h2>Found Research Outposts</h2>
-    <ol class="note">
-    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
-    </ol>
-
-<h2>Fuel the War Machine</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Galvanize the People</h2>
-    <ol class="note">
-    <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
-    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.</li>
-    </ol>
-
-<h2>Gather a Mighty Fleet</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Hoard Raw Materials</h2>
-    <ol class="note">
-    <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.</li>
-    </ol>
-
-<h2>Hold Vast Reserves</h2>
-    <ol class="note">
-    <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
-    <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
-    <li>Trade goods may be spent as influence or resources when scoring <i>Hold Vast Reserves</i>.</li>
-    </ol>
-
-<h2>Improve Infrastructure</h2>
-    <ol class="note">
-    <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
-    <li>The structures may be on planets in another player&rsquo;s home system.</li>
-    <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.</li>
-    </ol>
-
-<h2>Intimidate Council</h2>
-    <ol class="note">
-    <li>Any ships in the Mecatol Rex system are irrelevant.</li>
-    <li>Any ground forces or structures are irrelevant.</li>
-    </ol>
-
-<h2>Lead From the Front</h2>
-    <ol class="note">
-    <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
-    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.</li>
-    </ol>
-
-<h2>Learn the Secrets of the Cosmos</h2>
-    <ol class="note">
-    <li>The three systems may be mutually adjacent to one system, or separate systems.</li>
-    <li>Having ships in an anomaly is irrelevant, unless that system is also adjacent to another anomaly.</li>
-    <li>Any ground forces or structures are irrelevant.</li>
-    <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
-    </ol>
-
-<h2>Make an Example of Their World</h2>
-    <ol class="note">
-    <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World</i> cannot be scored.</li>
-    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
-    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.</li>
-    <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability. If they do they cannot score another objective during that ground combat.</li>
-    </ol>
-
-<h2>Make an Example of Their World &Omega;</h2>
-    <ol class="note">
-    <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World &Omega;</i> may be scored.</li>
-    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
-    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.</li>
-    <li>The L1Z1X player cannot score <i>Make an Example of Their World &Omega;</i> by using their <sc>Harrow</sc> faction ability.</li>
-    </ol>
-
-<h2>Make History</h2>
-    <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.</li>
-    <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.</li>
-        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count towards the requirements of <i>Make History</i>.</li>
-    </ol>
-    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.</li>
-    <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
-    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Make History</i>.</li></ol>
-    </ol>
-
-<h2>Manipulate Galactic Law</h2>
-    <ol class="note">
-    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as influence when scoring <i>Manipulate Galactic Law</i>.</li>
-    </ol>
-
-<h2>Master the Laws of Physics</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Master the Sciences</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Mechanize the Military</h2>
-    <ol class="note">
-    <li>Given that each player only has four mechs, to score <i>Mechanize the Military</i>, a player will have to have all of them on the game board, and on separate planets.</li>
     </ol>
 
 <h2>Mine Rare Minerals</h2>
     <ol class="note">
     </ol>
 
-<h2>Monopolize Production</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Monopolize%20Production">Monopolize Production</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Negotiate Trade Routes</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes">Negotiate Trade Routes</a></h2>
     <ol class="note">
-    <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.</li>
+    <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
     </ol>
 
-<h2>Occupy the Fringe</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe">Occupy the Fringe</a></h2>
     <ol class="note">
-    <li>The Saar player&rsquo;s Floating Factories are never on a planet.</li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>*</sup></li>
     </ol>
 
-<h2>Occupy the Seat of the Empire</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Occupy%20the%20Seat%20of%20the%20Empire">Occupy the Seat of the Empire</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Patrol Vast Territories</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Patrol%20Vast%20Territories">Patrol Vast Territories</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
-<h2>Populate the Outer Rim</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Populate%20the%20Outer%20Rim">Populate the Outer Rim</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.</li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Populate the Outer Rim</i>.</li></ol>
-    <li>The units may be in another player&rsquo;s home system.</li>
-    <li>The Creuss Gate is not a home system.</li>
-    <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
-    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.<sup>*</sup></li>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup></li></ol>
+    <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> is not a home system.<sup>*</sup></li>
+    <li>The Wormhole Nexus and the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system are both on the edge of the game board.<sup>1,8</sup></li>
+    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
-        <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
+        <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
     </ol>
 
-<h2>Produce en Masse</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse">Produce en Masse</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
     </ol>
 
-<h2>Protect the Border</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border">Protect the Border</a></h2>
     <ol class="note">
-    <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
-    <li>The structures may be on planets in another player&rsquo;s home system.</li>
-    <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.</li>
+    <li>The number of structures on the planet is irrelevant, if there is at least one.<sup>*</sup></li>
+    <li>The structures may be on planets in another player&rsquo;s home system.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.<sup>*</sup></li>
     </ol>
 
-<h2>Prove Endurance</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance">Prove Endurance</a></h2>
     <ol class="note">
-    <li><i>Prove Endurance</i> is scored when the player passes during the action phase. They may then score another secret objective in the status phase immediately following.</li>
+    <li><i>Prove Endurance</i> is scored when the player passes during the action phase.<sup>6</sup></li>
     </ol>
 
-<h2>Push Boundaries</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries">Push Boundaries</a></h2>
     <ol class="note">
-    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
+    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.<sup>2</sup></li>
     </ol>
 
-<h2>Raise a Fleet</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Reclaim Ancient Monuments</h2>
-    <ol class="note">
-    <li>The number of attachments a planet has is irrelevant, if it has at least one.</li>
-    </ol>
-
-<h2>Revolutionize Warfare</h2>
-    <ol class="note">
-    <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
-    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Revolutionize Warfare</i>.</li>
-    </ol>
-
-<h2>Rule Distant Lands</h2>
-    <ol class="note">
-    <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.</li>
-    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.</li>
-    <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.</li>
-    </ol>
-
-<h2>Seize an Icon</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Raise%20a%20Fleet">Raise a Fleet</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Spark a Rebellion</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments">Reclaim Ancient Monuments</a></h2>
     <ol class="note">
-    <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.</li>
-    <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.</li>
-    <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.</li></ol>
+    <li>The number of attachments a planet has is irrelevant, if it has at least one.<sup>*</sup></li>
     </ol>
 
-<h2>Stake Your Claim</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Revolutionize%20Warfare">Revolutionize Warfare</a></h2>
     <ol class="note">
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player owns multiple unit upgrade technologies of the same type, only one of them counts for <i>Revolutionize Warfare</i>.<sup>1,2,5</sup></li>
     </ol>
 
-<h2>Strengthen Bonds</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Rule%20Distant%20Lands">Rule Distant Lands</a></h2>
     <ol class="note">
-    <li>The following promissory notes qualify for scoring Strengthen Bonds:</li>
-    <ol>
-        <li><i>Alliance</i>.</li>
-        <li><i>Support for the Throne</i>.</li>
-        <li><i>Stymie</i> (Arborec).</li>
-        <li><i>Share Knowledge</i> (Deepwrought).</li>
-        <li><i>Trade Convoys</i> (Hacan).</li>
-        <li><i>Dark Pact</i> (Empyrean).</li>
-        <li><i>Blood Pact</i> (Empyrean).</li>
-        <li><i>Promise of Protection</i> (Mentak).</li>
-        <li><i>Gift of Prescience</i> (Naalu).</li>
-        <li><i>Antivirus</i> (Nekro).</li>
-        <li><i>Sever</i> (Rebellion).</li>
-        <li><i>Terraform</i> (Ul).</li>
-    </ol>
+    <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.<sup>2,4</sup></li>
+    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<sup>*</sup></li>
+    <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.<sup>4</sup></li>
     </ol>
 
-<h2>Subdue the Galaxy</h2>
-    <ol class="note">
-    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
-    </ol>
-
-<h2>Sway the Council</h2>
-    <ol class="note">
-    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as influence when scoring <i>Sway the Council</i>.</li>
-    </ol>
-
-<h2>Threaten Enemies</h2>
-    <ol class="note">
-    <li>Any ships in another players home system are irrelevant.</li>
-    <li>The ships may be adjacent to the home system of an eliminated player.</li>
-    <li>Any ground forces or structures are irrelevant.</li>
-    </ol>
-
-<h2>Turn Their Fleets to Dust</h2>
-    <ol class="note">
-    <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
-    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
-    <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.</li>
-    <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
-    </ol>
-
-<h2>Turn Their Fleets to Dust &Omega;</h2>
-    <ol class="note">
-    <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
-    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
-    <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust &Omega;</i> may still be scored.</li>
-    <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
-    <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.</li>
-    <li>Any effect that destroys non&ndash;fighter ships during the <b>Space Cannon Offense</b> step may be used to score <i>Turn Their Fleets to Dust &Omega;</i>, not just hits produced by a space cannon roll.</li>
-	<ol><li>For example, say the Yin player has their flagship, the <i>Van Hauge</i>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys all non&ndash;fighter ships owned by another player in the active system.</li></ol>
-    </ol>
-
-<h2>Unify the Colonies</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Seize%20an%20Icon">Seize an Icon</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Unveil Flagship</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Spark%20a%20Rebellion">Spark a Rebellion</a></h2>
     <ol class="note">
-    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i></li>
+    <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.<sup>2</sup></li>
+    <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.<sup>2</sup></li>
+    <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.<sup>2</sup></li></ol>
+    <li>A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score Spark a <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion">Rebellion</a> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
+    <ol class="note">
+    <li>A player coexisting on a planet may score <i>Stake Your Claim</i> using that planet, even if it is the only planet in its system, as the planet is also controlled by another player.<sup>2,6</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Strengthen%20Bonds">Strengthen Bonds</a></h2>
+    <ol class="note">
+    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Strengthen Bonds</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note counts for <i>Strengthen Bonds</i>; when it is attached to a planet, it counts as being in that planet owner&rsquo;s play area.<sup>4</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Subdue%20the%20Galaxy">Subdue the Galaxy</a></h2>
+    <ol class="note">
+    <li>The planets cannot be in any player&rsquo;s home system.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Sway%20the%20Council">Sway the Council</a></h2>
+    <ol class="note">
+    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.<sup>1,2,3</sup></li>
+    <li>Trade goods may be spent as influence when scoring <i>Sway the Council</i>.<sup>1,2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies">Threaten Enemies</a></h2>
+    <ol class="note">
+    <li>Any ships in another players home system are irrelevant.<sup>*</sup></li>
+    <li>The ships may be adjacent to the home system of an eliminated player.<sup>*</sup></li>
+    <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust</a></h2>
+    <ol class="note">
+    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup></li>
+    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup></li>
+    <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.<sup>4</sup></li>
+    <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust &Omega;</a></h2>
+    <ol class="note">
+    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup></li>
+    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup></li>
+    <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.<sup>2</sup></li>
+    <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.<sup>*</sup></li>
+    <li>Any effect that destroys non&ndash;fighter ships during the <b>Space Cannon Offense</b> step may be used to score <i>Turn Their Fleets to Dust &Omega;</i>, not just hits produced by a space cannon roll.<sup>*</sup></li>
+    <ol><li>For example, say the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player has their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge"><i>Van Hauge</i></a>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys all non&ndash;fighter ships owned by another player in the active system.<sup>*</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Unify%20the%20Colonies">Unify the Colonies</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship">Unveil Flagship</a></h2>
+    <ol class="note">
+    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i><sup>2,4</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

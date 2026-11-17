@@ -1,0 +1,16 @@
+@0
+E4 "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+E2 RulesPal, "If an effect lets me research a technology, do I pay for it?": "You still meet prerequisites (specialties can help)."
+I1 LRR 90.9: "Other game effects may also instruct a player to research technology."
+@1
+E1 LRR 90.5: "If an ability instructs a player to gain a technology, they do not research it; they take it from their technology deck and place it in their play area, ignoring prerequisites."
+E2 RulesPal: "'Gain' is different from 'research': gaining ignores prerequisites."
+E4 "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
+@2
+N No source found.
+@3
+E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "Yes to both. Owned technologies always count, exhausted or not."
+@4
+E2 Same entry: "the first technology from the Technology primary counts for the second." The cited entry (mandatory parts) is less direct.
+@5
+E2 RulesPal, "If an exhausted technology returns to my deck and is researched again, is it exhausted?": "No — cards in the deck have no state, so it comes back ready."

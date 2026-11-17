@@ -1,0 +1,4 @@
+@0
+E2 RulesPal, "After Politics, is it public whether the agenda cards went to the top or bottom of the deck?": "You also can't show the cards themselves to other players, since you may only reveal hidden components you own."
+@1
+I1 LRR 1.20: "during the strategy or agenda phases, players take turns resolving abilities starting with the speaker and proceeding clockwise."

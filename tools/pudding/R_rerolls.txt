@@ -1,0 +1,3 @@
+@0
+E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect Anti-Fighter Barrage, Space Cannon, Bombardment or Ambush?": "No — only rolls made against a unit's combat value are combat rolls."
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Same for bombardment and space cannon. The matched passage is the LRR index.

@@ -1,0 +1,23 @@
+<?php include __DIR__ . "/../prefix.php"?>
+<header><h1>Tactical Action: Proof</h1></header>
+<article>
+<p>The source text behind each note on <a href="/R_tactical_action">Tactical Action</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+
+<h2>Notes</h2>
+    <ol class="note">
+    <li>Each of these five steps happen during every tactical action, unless explicitly skipped; the active player does not have to choose between fighting a combat or producing units, for example.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I move into a system, fight, invade and then produce there in the same tactical action?&rdquo;: &ldquo;Yes &mdash; the steps run activation, movement, space combat, invasion, then production.&rdquo;</li>
+        </ul></li>
+    <li>Any abilities that occur at the end of an action happen before any abilities that occur at the end of a player&rsquo;s turn.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>An ability that ends a player&rsquo;s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window.<sup>2,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must Xxcha use Nullification Field &hellip;?&rdquo;: &ldquo;Once the turn ends, nothing more happens in it.&rdquo;</li>
+        </ul></li>
+    </ol>
+</article>
+<?php include __DIR__ . "/../suffix.php"?>

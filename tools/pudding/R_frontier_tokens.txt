@@ -1,0 +1,3 @@
+@0
+E1 LRR 35.4: "Players can explore space areas that contain frontier tokens if they own the 'Dark Energy Tap' technology or if another game effect allows them to."
+E8 PoK rulebook p. 16: "If an ability instructs a player to explore a frontier token, they may do so even if they do not have the 'Dark Energy Tap' technology."

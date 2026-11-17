@@ -1,0 +1,55 @@
+@0
+E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes."
+E2 RulesPal, "Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?": "Yes — it is still the start of your turn until you actually take an action."
+E5 Designer ruling: "You can trade a promissory note and have it be immediately used during the start of turn window. That is allowed."
+@1
+N The page gives no citation for this introductory note.
+@2
+E2 RulesPal, "When can the Titans use Awaken …?": "Right after activating a system that already held your sleeper token; a sleeper placed later in that activation, say by Scanlink exploration, can't be awakened then."
+@3
+E2 RulesPal, "If both players have start-of-combat abilities like Assault Cannon …?": "with each trigger re-checked when its turn comes. So the attacker's Assault Cannon can push the defender below 3 non-fighter ships and deny the defender's own Assault Cannon."
+I5 Designer ruling (livestrongbelwas, Feb 08, 2018): "The second player doesn’t get to use his Assault Cannons" Condition is checked when the ability would resolve.
+@4
+E2 RulesPal, "Once I resolve an ability in a timing window, can I take it back after my opponent responds?": "No — anything already resolved stays resolved … you can answer it with another ability on your next turn in that window."
+@5
+E2 RulesPal, "Is each paragraph on a card a separate ability …?": "Yes — each paragraph is its own ability and resolves on its own. So a note's final return line still happens even if an earlier paragraph had no effect."
+@6
+E2 RulesPal, "When do 'at the start of your turn' abilities happen, and do they work in other phases?": "Before you choose your action or pass, so they come before activating a system … They only exist in the action phase."
+@7
+E2 RulesPal, "Do 'during the action phase' agent abilities use my action, and does 'a player' include me?": "'A player' includes you; only 'another player' excludes you." The cited entry (non-home systems) does not address this.
+@8
+E5 Designer ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window."
+@9
+E2 RulesPal, "When exactly can Exotrireme II use its ability?": "Each Exotrireme II has its own copy, resolved one at a time."
+@10
+E1 LRR 1.19: "If there are multiple abilities that players wish to resolve at the same time during the action phase, each player takes a turn resolving an ability in initiative order, beginning with the active player."
+E2 RulesPal, "When several players want to resolve abilities at the same time, who goes first?": "In the action phase, the active player goes first, then the other players in initiative order counting on from the active player's number and wrapping around."
+E5 Designer ruling (kaiteinomen, Sep 20, 2017): "The order would be 5, 6, 7, 1, 2, 3, as you suggested."
+@11
+E1 LRR 1.19: "each player takes a turn resolving an ability … This process continues until each player has resolved each ability that they wish to resolve."
+E5 Designer ruling: "You keep going around the circle/sequence until everybody passes simultaneously. … Dane: Regarding your question, option 2 is the intended method of resolution."
+@12
+I1 LRR 1.19: players take turns, one ability at a time.
+@13
+E2 RulesPal, "If I pass on playing an action card or ability in a timing window, can I still play one later in that window?": "Yes — passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row."
+E5 Designer ruling: "You keep going around the circle/sequence until everybody passes simultaneously. … Dane: Regarding your question, option 2 is the intended method of resolution."
+@14
+E2 RulesPal, "If I pass on playing an action card or ability in a timing window, can I still play one later in that window?": "Yes — passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row."
+E5 The same designer ruling rejects the alternative, "If a player chooses not to activate an ability, then they won't be activating any more abilities in that timing window," in favor of continuing "until everybody passes."
+@15
+E2 RulesPal, "If I pass on playing an action card or ability in a timing window, can I still play one later in that window?": "Yes — passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row."
+@16
+E1 LRR 82.1: "After the active player resolves the primary ability on their strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may resolve that card's secondary ability."
+E2 RulesPal, "When a strategy card is played, do other players resolve the secondary right away …?": "Right away, clockwise from the active player."
+@17
+E1 LRR 3.3a: "During a turn that a player passes, they can resolve transactions and 'at the start of your turn' abilities."
+E4 "Can you resolve end of turn abilities on the turn you pass? A: Yes."
+@18
+E1 LRR 1.16: "Effects that occur 'when' an event happens take priority over effects that occur 'after' an event happens."
+@19
+E4 FAQ: "is “after x” distinct from “before y”": "They are distinct. “After x” happens before “before y”"
+@20
+E6 "Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll …? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability."
+E9 Designer Q&A, "Unit Abilities imply Units?": "Yes I'd say let them combo and be shut down."
+@21
+E9 Designer Q&A, "Unit Abilities imply Units?": "Should these things be treated as if they were units … and thus combo with things like Argent commander, and be shut down by things like Crimson flagship? A: Yes I'd say let them combo and be shut down."

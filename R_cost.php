@@ -3,18 +3,18 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '26.' counter(item, decimal);} </style>
-<p>Cost is an attribute of some units that is presented on faction sheets and unit upgrade technology cards. A unit&rsquo;s cost determines the number of resources a player must spend to produce that unit.</p>
+<p data-src="1">Cost is an attribute of some units that is presented on faction sheets and unit upgrade technology cards. A unit&rsquo;s cost determines the number of resources a player must spend to produce that unit.</p>
     <ol class="lrr">
-    <li>To produce a unit, a player must spend a number of resources equal to or greater than the cost of the unit they are producing.</li>
-    <li>If the cost is accompanied by two icons &ndash; typically for fighters and ground forces &ndash; a player produces two of that unit for that cost.</li>
-    <li>If a unit does not have a cost, it cannot be produced.</li>
-    <ol><li>Structures do not have costs and are usually placed by resolving the <i>Construction</i> strategy card.</li></ol>
+    <li data-src="1,3">To produce a unit, a player must spend a number of resources equal to or greater than the cost of the unit they are producing.</li>
+    <li data-src="1,3">If the cost is accompanied by two icons &ndash; typically for fighters and ground forces &ndash; a player produces two of that unit for that cost.</li>
+    <li data-src="1">If a unit does not have a cost, it cannot be produced.</li>
+    <ol><li data-src="1,2">Structures do not have costs and are usually placed by resolving the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card.</li></ol>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.</li>
-    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <sc>Deploy</sc> ability. However, the <sc>Deploy</sc> ability itself may have a cost that must be paid.</li>
+    <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.<sup>1,2</sup></li>
+    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability. However, the <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability itself may have a cost that must be paid.<sup>1</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

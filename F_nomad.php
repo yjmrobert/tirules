@@ -1,123 +1,117 @@
 <?php include "prefix.php"?>
 <header><h1>The Nomad</h1></header>
 <article>
-<h2>The Company</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=The%20Company">The Company</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Future Sight</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight">Future Sight</a></h2>
     <ol class="note">
-    <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.</li>
-    <li>If the Nomad player predicts multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.</li>
-    <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the Xxcha player&rsquo;s <i>Alliance</i> promissory note), and one of those outcomes is resolved, they will gain the trade good.</li></ol>
-	<li>If the <i>Deadly Plot</i> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.</li>
+    <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.<sup>2</sup></li>
+    <li>If the Nomad player predicts multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.<sup>*</sup></li>
+    <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), and one of those outcomes is resolved, they will gain the trade good.<sup>*</sup></li></ol>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.<sup>4</sup></li>
     </ol>
 
-<h2>The Cavalry <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Promissory_Note:~:text=The%20Cavalry">The Cavalry</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>One ship is chosen. That ship retains the flagship&rsquo;s values and abilities until it is destroyed or the combat ends.</li>
-    <li>If the chosen ship does not usually have the <sc>Sustain Damage</sc> ability, and is damaged during combat, it will remain damaged even after losing the <sc>Sustain Damage</sc> ability.</li>
+    <li>One ship is chosen. That ship retains the flagship&rsquo;s values and abilities until it is destroyed or the combat ends.<sup>*</sup></li>
+    <li>If the chosen ship does not usually have the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, and is damaged during combat, it will remain damaged even after losing the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
     <ol>
-        <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <sc>Sustain Damage</sc> ability. As it is already damaged, it will be unable to use its <sc>Sustain Damage</sc> ability again.</li>
-        <li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <sc>Sustain Damage</sc> ability.</li>
-        <li>In a future combat, the damaged ship may be repaired by the <i>Duranium Armor</i> technology. It will be unable to be damaged again unless it has regained the <sc>Sustain Damage</sc> ability.</li>
-        <li>If the <i>Emergency Repairs</i> action card is played, the damaged ship will not be repaired unless it currently has the <sc>Sustain Damage</sc> ability.</li>
+        <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability. As it is already damaged, it will be unable to use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability again.<sup>*</sup></li>
+        <li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
+        <li>In a future combat, the damaged ship may be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology. It will be unable to be damaged again unless it has regained the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
+        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs"><i>Emergency Repairs</i></a> action card is played, the damaged ship will not be repaired unless it currently has the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
     </ol>
     </ol>
 
-<h2>Temporal Command Suite <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite">Temporal Command Suite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The Nomad player may perform a transaction with another player without being neighbors with that player.</li>
-    <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
-    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their agent, Suffi An, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.</li></ol>
-    <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn, before or after the regular transaction.</li>
-    <li>An agent cannot be resolved twice in one timing window. If a player&rsquo;s agent is readied immediately after resolving, it cannot immediately resolve again.</li>
+    <li>The Nomad player may perform a transaction with another player without being neighbors with that player.<sup>*</sup></li>
+    <li>The Nomad player may perform a transaction with another player even if neither player is the active player.<sup>*</sup></li>
+    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player.<sup>*</sup></li></ol>
+    <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn.<sup>4</sup></li>
     </ol>
 
-<h2>Memoria <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria">Memoria</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>Only the <i>Memoria</i> is adjacent to systems with a Quantum Manipulator. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a Quantum Manipulator using this ability.</li>
-    <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.</li>
-    <li>The <i>Memoria</i> cannot retreat to a system containing a Quantum Manipulator, unless it is adjacent to that system using another adjacency method.</li>
-    <li>The <i>Intimidate Council</i> objective requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
-    <li>All ship movement is simultaneous. The Nomad player cannot transport a Quantum Manipulator into a system, and then use that to move the <i>Memoria</i> into that system during the same movement.</li>
-	<li>The <i>Memoria</i> is adjacent to the system that the Quantum Manipulator is in before movement, regardless of if that Quantum Manipulator is transported during that movement.</li>
+    <li>Only the <i>Memoria</i> is adjacent to systems with a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> using this ability.<sup>*</sup></li>
+    <li>Other players cannot use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of units in the same system as a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.<sup>*</sup></li>
+    <li>The <i>Memoria</i> cannot retreat to a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>, unless it is adjacent to that system using another adjacency method.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>*</sup></li>
+    <li>The <i>Memoria</i> is adjacent to the system that the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is in before movement, regardless of if that <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is transported during that movement.<sup>*</sup></li>
     </ol>
 
-<h2>Artuno the Betrayer <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Artuno%20the%20Betrayer">Artuno the Betrayer</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.</li>
-    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <i>Trade Rider</i> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <sc>Future Sight</sc>, but not both.</li></ol>
-    <li>When a player gains trade goods that were on a strategy card, they do not gain them from the supply.</li>
-    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.</li>
+    <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.<sup>*</sup></li>
+    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a> action card, they could put either the trade goods gained from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup></li></ol>
+    <li>When a player gains trade goods that were on a strategy card, they do not gain them from the supply.<sup>2</sup></li>
+    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.<sup>*</sup></li>
+    <li>Converting commodities to trade goods is not gaining trade goods from the supply, and does not trigger Artuno the Betrayer.<sup>2</sup></li>
     </ol>
 
-<h2>Field Marshal Mercer <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Field%20Marshal%20Mercer">Field Marshal Mercer</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The ground forces may be from a system with that players command token in it.</li>
-    <li>The ground forces may be on a planet or in a space area.</li>
-    <li>The ground forces may be from different systems.</li>
-    <li>The ground forces may be placed on one or two planets.</li>
-    <li>Any damaged mechs remain damaged.</li>
+    <li>The ground forces may be from a system with that player&rsquo;s command token in it.<sup>*</sup></li>
+    <li>The ground forces may be on a planet or in a space area.<sup>*</sup></li>
+    <li>The ground forces may be from different systems.<sup>*</sup></li>
+    <li>The ground forces may be placed on one or two planets.<sup>*</sup></li>
+    <li>Any damaged mechs remain damaged.<sup>*</sup></li>
     </ol>
 
-<h2>The Thundarian <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The dice are rerolled in the same round. Any effects that apply for a single round of combat remain in effect.</li>
+    <li>The Thundarian may be used during a combat that the Nomad player is not participating in.<sup>2</sup></li>
+    <li>The dice are rerolled in the same round. Any effects that apply for a single round of combat remain in effect.<sup>*</sup></li>
+    <ol><li>This includes the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><i>Munitions Reserves</i></a> faction ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup></li></ol>
+    <li>The <b>Roll Dice</b> step occurs after the start of a round of combat. Any effects that may be played at the start or end of a round of combat cannot be played until the next round of combat.<sup>*</sup></li>
+    <ol><li>This includes the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technologies, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><i>Harrow</i></a> or the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><i>Munitions Reserves</i></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus"><i>Arc Secundus</i></a>, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> mech, a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper"><i>Dunlain Reaper</i></a>, the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> dreadnought ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres">Keleres</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta"><i>Overwing Zeta</i></a> hero ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, or the <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup></li></ol>
+    <li>The Thundarian is played at the end of the &ldquo;Roll Dice&rdquo; step, after effects that occur &ldquo;when/after you roll dice&rdquo; or similar.<sup>*</sup></li>
     <ol>
-        <li>This includes the <i>Magen Defense Grid</i> technology, the <i>Fighter Prototype</i> and <i>Morale Boost</i> action cards, the Letnev <i>Munitions Reserves</i> faction ability, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev agent, Viscount Unlenn, and the Sol agent, Evelyn DeLouis.</li>
+        <li>If The Thundarian is used after the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player has spent trade goods for the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara"><i>Wrath of Kenara</i></a>, those trade goods remain spent, but the +1 to combat rolls will not be applied for the subsequent dice rolls. The <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan">Hacan</a> player may spend trade goods after the subsequent dice roll to use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara"><i>Wrath of Kenara</i></a> for the new results.<sup>*</sup></li>
+        <li>If The Thundarian is used after a player has used the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> on the subsequent dice roll.<sup>*</sup></li>
+        <li>If The Thundarian is used after a player has played the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fire%20Team"><i>Fire Team</i></a> action card, it will be discarded without effect on the subsequent roll.<sup>*</sup></li>
+        <li>If The Thundarian is used after a player has played the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding"><i>War Funding Ω</i></a> promissory note, it will be returned without effect on the subsequent roll.<sup>*</sup></li>
+        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N'orr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> faction technology would produce a hit, that hit is not assigned if The Thundarian is used.<sup>*</sup></li>
     </ol>
-    <li>The <b>Roll Dice</b> step occurs after the start of a round of combat. Any effects that may be played at the start or end of a round of combat cannot be played until the next round of combat.</li>
-    <ol>
-        <li>This includes the ability of the <i>Duranium Armor</i> or <i>Magen Defense Grid</i> technologies, the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the L1Z1X <i>Harrow</i> or the Letnev <i>Munitions Reserves</i> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flagship, the <i>Arc Secundus</i>, the Letnev mech, a <i>Dunlain Reaper</i>, the N&rsquo;orr <i>Exotrireme II</i> dreadnought ability, the Keleres <i>Overwing Zeta</i> hero ability, the Letnev agent, Viscount Unlenn, or the Sol agent, Evelyn DeLouis.</li>
-    </ol>
-    <li>The Thundarian is played at the end of the &ldquo;Roll Dice&rdquo; step, after effects that occur &ldquo;when/after you roll dice&rdquo; or similar.</li>
-    <ol>
-        <li>If The Thundarian is used after the Hacan player has spent trade goods for the ability of their flagship, the <i>Wrath of Kenara</i>, those trade goods remain spent, but the +1 to combat rolls will not be applied for the subsequent dice rolls. The Hacan player may spend trade goods after the subsequent dice roll to use the ability of the <i>Wrath of Kenara</i> for the new results.</li>
-        <li>If The Thundarian is used after a player has used the ability of <i>The Crown of Thalnos</i> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <i>The Crown of Thalnos</i> on the subsequent dice roll.</li>
-        <li>If The Thundarian is used after a player has played the <i>Fire Team</i> action card, it will be discarded without effect on the subsequent roll.</li>
-        <li>If The Thundarian is used after a player has played the Letnev <i>War Funding Ω</i> promissory note, it will be returned without effect on the subsequent roll.</li>
-        <li>If the N&rsquo;orr player&rsquo;s <i>Valkyrie Particle Weave</i> faction technology would produce a hit, that hit is not assigned if The Thundarian is used.</li>
-    </ol>
-    <li>If a game effect readies The Thundarian when it is used, its effect may be applied again at the end of the same round of combat.</li>
+    <li>If a game effect readies The Thundarian when it is used, its effect may be applied again at the end of the same round of combat.<sup>*</sup></li>
     </ol>
 
-<h2>Navarch Feng <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Producing the flagship still counts towards <sc>Production</sc> limits.</li>
-    <li>The flagship still has a cost of 8.</li>
+    <li>The flagship still has a cost of 8.<sup>*</sup></li>
     <ol>
-        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player&rsquo;s agent, Umbat.</li>
-        <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.</li>
+        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology or the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s agent, Umbat.<sup>*</sup></li>
+        <li>If the flagship is chosen for the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Scuttle"><i>Scuttle</i></a> action card, the player gains 8 trade goods.<sup>*</sup></li>
     </ol>
-    <li>The objective elected by the <i>Classified Document Leaks</i> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.</li>
+    <li>The objective elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.<sup>*</sup></li>
     <ol>
-        <li>If the <i>Classified Document Leaks</i> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scored it.</li>
-        <li>Commanders cannot become locked after being unlocked. If the Nomad player has only one scored secret objective, and it is elected by the <i>Classified Document Leaks</i> agenda, this will have no effect on Navarch Feng.</li>
-    </ol>
+        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scored it.<sup>*</sup></li>
+        <li>Commanders cannot become locked after being unlocked. If the Nomad player has only one scored secret objective, and it is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, this will have no effect on Navarch Feng.<sup>*</sup></li>
     </ol>
     </ol>
 
-<h2>Ahk&ndash;Syl Siven &mdash; Probability Matrix <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
-    <li>The <i>Memoria</i> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.</li>
+    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a>).<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria</i></a> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.<sup>2,4</sup></li>
     </ol>
 
-<h2>Quantum Manipulator <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <i>Direct Hit</i> and <i>Reflective Shielding</i> action cards cannot be played, as the Quantum Manipulator is not a ship.</li>
-    <li>A Quantum Manipulator may use its <sc>Sustain Damage</sc> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.</li>
+    <li>When a Quantum Manipulator uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup></li>
+    <li>A Quantum Manipulator may use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.<sup>*</sup></li>
     <ol>
-        <li>Effects which directly destroys a ship cannot be prevented with the ability of a Quantum Manipulator.</li>
-        <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.</li>
+        <li>Effects which directly destroy a ship cannot be prevented with the ability of a Quantum Manipulator.<sup>*</sup></li>
+        <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.<sup>*</sup></li>
     </ol>
-    <li>During a space combat, A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>
+    <li>During a space combat, A Quantum Manipulator cannot be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, as it is not participating in the combat.<sup>4</sup></li>
     </ol>
 
-<h2>Thunder&rsquo;s Paradox <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Breakthrough:~:text=Thunder%27s%20Paradox">Thunder&rsquo;s Paradox</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The readied agent can belong to any player. It need not belong to the Nomad player nor the active player.</li>
+    <li>The readied agent can belong to any player. It need not belong to the Nomad player nor the active player.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

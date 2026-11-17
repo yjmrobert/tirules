@@ -1,0 +1,99 @@
+@0
+N No source found.
+@1
+N No source found.
+@2
+N No source found.
+@3
+N No source found.
+@4
+N No source found.
+@5
+N No source found. LRR FAQ covers only the zero-commodity case: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
+@6
+N No source found.
+@7
+N No source found.
+@8
+E7 Thunder's Edge Rulebook p. 16, Age of Exploration: "New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles."
+@9
+N No source found.
+@10
+N No source found.
+@11
+N No source found.
+@12
+N No source found.
+@13
+N No source found.
+@14
+E2 RulesPal, "Can players look through the Mercenaries for Hire deck?": "No — only the face-up top card is known."
+@15
+I11 Codex IV p. 15: "that player places 3 neutral infantry on that system's planets, split as evenly as possible." The placing player's choice is not stated.
+@16
+E7 Thunder's Edge Rulebook p. 16, Minor Factions: "When the Ghosts of Creuss or Crimson Rebellion faction is chosen as a minor faction, the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board."
+@17
+E7 Same passage: "the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board."
+@18
+E7 Thunder's Edge Rulebook, Minor Factions setup: "If Keleres is a minor faction, choose one of its three possible home systems at random."
+@19
+N No source found.
+@20
+N No source found.
+@21
+N No source found.
+@22
+N No source found.
+@23
+I7 Thunder’s Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." alliance ability usable on gaining the card, no unlock needed.
+@24
+N No source found.
+@25
+E11 Codex IV p. 15: "When a player controls each planet in a minor faction system, they take that faction's alliance card from the deck or from the player that owned it previously."
+@26
+I11 Same passage: the card moves only "When a player controls each planet in a minor faction system."
+@27
+E11 Codex IV p. 15: "These systems are minor faction systems and do not count as home systems."
+@28
+N No source found.
+@29
+N No source found.
+@30
+N No source found.
+@31
+N No source found.
+@32
+E11 Codex IV p. 15: "Use proxy components or figures for neutral infantry; they have a combat value of 8."
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+E1 LRR 98.7: "If multiple players would simultaneously gain their 10th victory point, the player who is earliest in initiative order among those players is the winner."
+E4 On the Xxcha hero giving two players the win: "Initiative order determines the winner."
+@37
+N No source found.
+@38
+N No source found.
+@39
+N No source found.
+@40
+N No source found.
+@41
+N No source found.
+@42
+N No source found.
+@43
+N No source found.
+@44
+N No source found.
+@45
+E2 RulesPal, "How does the Total War variant's commodity tally work?": "Whoever takes that home system takes the stored commodities too. Units captured without being destroyed, as by the Vuil'raith hero, add nothing."
+@46
+E2 RulesPal, "Do neutral fighters need capacity, and do neutral units count for Total War?": "They have no cost, so destroying them adds nothing for Total War."
+@47
+E7 Thunder's Edge Rulebook p. 16, Wild, Wild Galaxy: "if there are no planets in a player's home system, they still control every planet in their home system and can score public objectives."
+@48
+E7 Same passage: "If a player's home system is replaced by a supernova, it is still that player's home system."

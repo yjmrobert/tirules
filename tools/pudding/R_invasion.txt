@@ -1,0 +1,14 @@
+@0
+E1 LRR 35.1: "When a player takes control of a planet that is not already controlled by another player, they explore that planet."
+I8 PoK rulebook quick reference lists "Establish Control" as the last invasion step.
+E2 "How does exploration work?": "When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait"
+@1
+E1 LRR 64.5: "When a player gains control of a legendary planet, they also gain control of its legendary planet ability card."
+E7 Thunder's Edge Rulebook p. 10: "When a player takes control of a legendary planet, they also place its legendary planet ability card in their play area."
+E8 PoK rulebook p. 10: the same text.
+@2
+E1 LRR 27.1: "players cannot commit ground forces to land on Mecatol Rex until the custodians token is removed from the planet."
+E2 RulesPal, "How do I take Mecatol Rex …?": "during invasion, before committing ground forces, spend 6 influence to remove the custodians token."
+E3 Learn to Play: "Players may freely move units into the Mecatol Rex system, but cannot land ground forces on the planet while the custodians token is present."
+@3
+E2 RulesPal, "Can I land ground forces on a planet, even one I control, outside the invasion step?": "No — ground forces land on planets only by being committed in the invasion step of a tactical action … Movement abilities used as component actions skip the tactical action steps and can't land anyone."

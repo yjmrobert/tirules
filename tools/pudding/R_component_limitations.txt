@@ -1,0 +1,17 @@
+@0
+E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them." The cited entry (Xxcha mechs) does not address this.
+@1
+E2 Same entry: "You may swap a plastic piece on the board for a token at any time to free the plastic for use elsewhere."
+@2
+E1 LRR 46.4: "Infantry tokens come in values of one and three. A player can swap between these tokens as necessary."
+@3
+E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
+E8 PoK rulebook: "This ability can be used to place a unit from a player's reinforcements."
+@4
+E3 Learn to Play component list: "17 control tokens ✦ 16 command tokens."
+@5
+I1 LRR 70.1: "If an ability instructs a player to purge a component, that component is removed from the game and returned to the box." purged cards are out of the game, so not in the discard pile.
+@6
+E4 "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+@7
+E4 "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."

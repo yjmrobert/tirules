@@ -1,0 +1,23 @@
+@0
+E1 LRR 92.2–92.5: the active player gains 3 trade goods, replenishes commodities, chooses players; then "each other player, beginning with the player to the left of the active player," may resolve the secondary.
+I5 Designer ruling (sigmazero13, Jan 17, 2018): "The freebie secondary players resolve the secondaries during the normal time and in clockwise order from the active player, intermingled with those paying for it manually." Supports secondary ordering only.
+@1
+E1 LRR 92.2: "STEP 1—The active player gains 3 trade goods."
+@2
+E1 LRR 92.3: "STEP 2—The active player replenishes their commodities."
+@3
+E1 LRR 92.4: "STEP 3—The active player chooses any number of other players."
+@4
+E1 LRR 92.4a: "The chosen players must resolve the secondary ability of this card without spending a command token after the active player finishes resolving the primary ability." Others may by spending a token (92.5).
+@5
+E1 Same rules, in clockwise order from the active player's left (92.5).
+@6
+E1 Same rules, in clockwise order (92.5).
+@7
+E1 Same rules, in clockwise order (92.5).
+@8
+E1 Same rules, in clockwise order (92.5).
+@9
+E2 "Is replenishing other players' commodities with Trade a transaction?": "No — it is a strategy card effect: recipients needn't be neighbors, can't refuse, it doesn't use up a transaction"
+@10
+E1 LRR FAQ: "If a player would refresh their commodities but already has the maximum amount, can another player still play that player's 'Trade Agreement' promissory note against them? A: Yes. Even if that player gains zero commodities."

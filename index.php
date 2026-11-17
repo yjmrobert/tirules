@@ -11,6 +11,7 @@
 <link rel="canonical" href="https://tirules2.com/"/>
 <link rel="icon" href="favicon.png"/>
 <link rel="stylesheet" type="text/css" href="style.css"/>
+<?php include __DIR__ . '/theme.php'; ?>
 <style>
 .note
 {
@@ -23,7 +24,7 @@
 </style>
 </head>
 <body>
-<header><h1>Twilight Imperium Rules</h1></header>
+<header><h1>Twilight Imperium Rules</h1><?php echo $theme_toggle_button; ?></header>
 <article>
 <p><strong>This is a work in progress.</strong></p>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>

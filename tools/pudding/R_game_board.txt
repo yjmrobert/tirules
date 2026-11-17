@@ -1,0 +1,7 @@
+@0
+E4 "In maps utilizing hyperlanes (e.g. 5p map), what counts as the edge of the game board? A: Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
+E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."
+@1
+E2 Same entry: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
+@2
+N No source found.

@@ -1,0 +1,7 @@
+@0
+E2 RulesPal, "Can I move into a system, fight, invade and then produce there in the same tactical action?": "Yes — the steps run activation, movement, space combat, invasion, then production."
+@1
+N No source found.
+@2
+E4 "Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+E2 RulesPal, "When must Xxcha use Nullification Field …?": "Once the turn ends, nothing more happens in it."

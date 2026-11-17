@@ -3,18 +3,18 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '63.' counter(item, decimal);} </style>
-<p>A PDS (planetary defense system) is a structure that allows a player to defend their territory against invading forces.</p>
+<p data-src="1">A PDS (planetary defense system) is a structure that allows a player to defend their territory against invading forces.</p>
     <ol class="lrr">
-    <li>Each PDS has the <sc>Space Cannon</sc> ability.</li>
-    <li>The primary way by which players acquire PDS units is by resolving either the primary or secondary ability of the <i>Construction</i> strategy card.</li>
-    <li>A PDS unit is placed on a planet. Each planet can have a maximum of <b>two</b> PDS units.</li>
-    <li>If a player&rsquo;s PDS is ever on a planet that does not contain any of their own ground forces and contains a unit that belongs to another player, that PDS is destroyed.</li>
+    <li data-src="1,3,8">Each PDS has the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability.</li>
+    <li data-src="1,2">The primary way by which players acquire PDS units is by resolving either the primary or secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card.</li>
+    <li data-src="1,2,3">A PDS unit is placed on a planet. Each planet can have a maximum of <b>two</b> PDS units.</li>
+    <li data-src="1">If a player&rsquo;s PDS is ever on a planet that does not contain any of their own ground forces and contains a unit that belongs to another player, that PDS is destroyed.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A PDS is both a structure and a unit.</li>
-    <li>Each PDS also has the <sc>Planetary Shield</sc> ability.</li>
+    <li>A PDS is both a structure and a unit.<sup>1,2</sup></li>
+    <li>Each PDS also has the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability.<sup>3,8</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

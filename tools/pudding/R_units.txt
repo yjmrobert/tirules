@@ -1,0 +1,11 @@
+@0
+I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their base unit type?": "a faction unit counts as its base unit type for every purpose." The cited entry (home space dock) is less direct.
+@1
+E1 LRR 72.1: "The components in a player's reinforcements are limited."
+@2
+E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "Tokens are unlimited, but each stack of tokens must sit with at least one plastic piece of the same type."
+I1 LRR 23.4: "Units are limited to those included in the game, except for fighters and ground forces."
+@3
+E2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their base unit type?": "Yes — a faction unit counts as its base unit type for every purpose, so the Prototype War Sun is a war sun. Only the researched upgrade card is a technology."
+@4
+E2 RulesPal, "Can I remove my own units from the board when I want to?": "No — units leave the board only through the game (destroyed, captured and so on). The one exception is taking a unit off the board when you need to place one and none are in reinforcements."

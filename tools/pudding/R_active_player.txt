@@ -1,0 +1,12 @@
+@0
+E1 LRR 13: "During combat, the active player is the attacker."
+E3 Learn to Play: "During combat, the active player is the attacker and the other player is the defender."
+@1
+I1 LRR 1.19: abilities are resolved "in initiative order, beginning with the active player."
+E2 RulesPal, "When must Xxcha use Nullification Field …?": "The active player gets first turn in that window."
+E5 Designer ruling (kaiteinomen, Sep 20, 2017): "All timing conflicts are intended to follow the same rules for resolution—in initiative order, beginning with the active player."
+@2
+E2 RulesPal, "Who can make transactions, and when?": "During the action phase, only the active player can transact."
+@3
+E2 RulesPal, "During Space Cannon Offense, who can shoot at whom?": "each other player with Space Cannon in range fires, but only at the active player's ships."
+I1 LRR 77.5: "The player whose units have been targeted by 'Space Cannon' must choose and destroy one of their ships."

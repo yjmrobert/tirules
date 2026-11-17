@@ -1,0 +1,23 @@
+<?php include __DIR__ . "/../prefix.php"?>
+<header><h1>Supernova: Proof</h1></header>
+<article>
+<p>The source text behind each note on <a href="/R_supernova">Supernova</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+
+<h2>Notes</h2>
+    <ol class="note">
+    <li>If a ship finds itself in a supernova by some uncommon game effect, it may remain there without harm.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can move into or through a supernova?&rdquo;: &ldquo;A supernova never destroys ships already there.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the effects of a supernova do not kill ships, only restrict or disallow movement.&rdquo;</li>
+        </ul></li>
+    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> &ldquo;The Nebula section of the LRR will be edited.&rdquo; No located source announces the general change.</li>
+        </ul></li>
+    <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova is prevented.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;A supernova can be activated; it only stops ships moving into or through it &hellip; and ships can always move out.&rdquo;</li>
+        </ul></li>
+    </ol>
+</article>
+<?php include __DIR__ . "/../suffix.php"?>

@@ -1,0 +1,13 @@
+@0
+I1 LRR 32.2: the active player "chooses a system that contains a planet they control other than the Mecatol Rex system."
+@1
+E2 RulesPal, "How does the revised Diplomacy strategy card work?": the primary player may "ready up to 2 exhausted planets they control." "Up to" covers fewer.
+@2
+E7 Thunder's Edge Rulebook p. 12, Diplomacy Token: "This token is a player aid included to facilitate ease of play when resolving simple uses of the 'Diplomacy' strategy card's primary ability. It represents a command token from each player."
+@3
+E7 Same passage: "It cannot be used to bring a player above the component limit for command tokens."
+@4
+E2 RulesPal, "Can Warfare, Counterstroke or other effects remove a token placed by Diplomacy?": "Yes — once placed it is an ordinary command token … Warfare, Counterstroke, Unexpected Action and similar effects can remove it."
+I7 Thunder’s Edge Rulebook, Diplomacy Token: "should not be used when interacting with abilities that remove command tokens." such abilities handled without the token.
+@5
+E7 Thunder's Edge Rulebook p. 12: "It represents a command token from each player."

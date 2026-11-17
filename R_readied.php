@@ -3,23 +3,23 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '71.' counter(item, decimal);} </style>
-<p>Cards have a readied state, which indicates that a player can exhaust or resolve the abilities on those cards.</p>
+<p data-src="1">Cards have a readied state, which indicates that a player can exhaust or resolve the abilities on those cards.</p>
     <ol class="lrr">
-    <li>A card that is readied is placed faceup in a player&rsquo;s play area; a card that is exhausted is placed facedown in a player&rsquo;s area.</li>
-    <li>A player can exhaust a readied planet card to spend resources or influence from that card&rsquo;s planet.</li>
-    <li>A player can exhaust certain readied technology cards to resolve those cards&rsquo; abilities.</li>
-    <ol><li>Such a technology will specifically instruct a player to exhaust the card as part of the ability&rsquo;s cost.</li></ol>
-    <li>If a card is exhausted, a player cannot resolve that card&rsquo;s abilities or spend resources or influence on that card until it is readied.</li>
-    <li>During a <b>Ready Cards</b> step, each player readies all of their exhausted cards by flipping them faceup.</li>
-    <li>When a player performs a strategic action, they exhaust their chosen strategy card.</li>
-    <ol><li>That card is later readied during the status phase.</li></ol>
+    <li data-src="1,3">A card that is readied is placed faceup in a player&rsquo;s play area; a card that is exhausted is placed facedown in a player&rsquo;s area.</li>
+    <li data-src="1,3">A player can exhaust a readied planet card to spend resources or influence from that card&rsquo;s planet.</li>
+    <li data-src="1">A player can exhaust certain readied technology cards to resolve those cards&rsquo; abilities.</li>
+    <ol><li data-src="1">Such a technology will specifically instruct a player to exhaust the card as part of the ability&rsquo;s cost.</li></ol>
+    <li data-src="1,2,3">If a card is exhausted, a player cannot resolve that card&rsquo;s abilities or spend resources or influence on that card until it is readied.</li>
+    <li data-src="1,3">During a <b><a href="/R_status_phase">Ready Cards</a></b> step, each player readies all of their exhausted cards by flipping them faceup.</li>
+    <li data-src="1,3">When a player performs a strategic action, they exhaust their chosen strategy card.</li>
+    <ol><li data-src="1,3">That card is later readied during the status phase.</li></ol>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Passive abilities on an exhausted card are still in effect while that card is exhausted.</li>
-    <li>Planets will also ready at the end of each agenda phase. Leaders, relics and technologies will not.</li>
-    <li>If a game effect instructs a player to ready a planet, the readied planet must be controlled by that player, unless the game effect specifies otherwise.</li>
+    <li>Passive abilities on an exhausted card are still in effect while that card is exhausted.<sup>1,2</sup></li>
+    <li>Planets will also ready at the end of each agenda phase.<sup>1,2,3</sup></li>
+    <li>If a game effect instructs a player to ready a planet, the readied planet must be controlled by that player, unless the game effect specifies otherwise.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -3,25 +3,23 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '100.' counter(item, decimal);} </style>
-<p>The wormhole nexus is a system tile where several wormholes converge.</p>
+<p data-src="1,8">The wormhole nexus is a system tile where several wormholes converge.</p>
     <ol class="lrr">
-    <li>The wormhole nexus begins the game in play with its inactive side up.</li>
+    <li data-src="1,8">The wormhole nexus begins the game in play with its inactive side up.</li>
     <ol>
-        <li>The inactive side of the wormhole nexus contains a gamma wormhole. The active side of the wormhole nexus contains an alpha, beta, and gamma wormhole.</li>
-        <li>The wormhole nexus is treated as part of the game board.</li>
-        <li>The wormhole nexus is on the edge of the game board.</li>
+        <li data-src="1,8">The inactive side of the wormhole nexus contains a gamma wormhole. The active side of the wormhole nexus contains an alpha, beta, and gamma wormhole.</li>
+        <li data-src="1,8">The wormhole nexus is treated as part of the game board.</li>
+        <li data-src="1,2,8">The wormhole nexus is on the edge of the game board.</li>
     </ol>
-    <li>After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.</li>
-    <ol><li>When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b>Movement</b> step.</li></ol>
+    <li data-src="1,2,8">After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.</li>
+    <ol><li data-src="1,2,8">When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b><a href="/R_movement">Movement</a></b> step.</li></ol>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.</li>
-    <li>As the wormhole nexus becomes active at the end of the <b>Movement</b> step, only units with the <sc>Deep Space Cannon</sc> ability in systems containing a gamma wormhole will be able to produce hits during the <b>Space Cannon Offense</b> step during that action.</li>
-    <li>If the Creuss player moves their <i>Hil Colish</i> flagship into the inactive wormhole nexus, the wormhole nexus will not flip before they move any other ships. Any other ships they wish to move into the wormhole nexus must do so via either a delta wormhole or a gamma wormhole, unless the Creuss player is utilizing the ability of their agent, Emissary Taivra.</li>
-    <li>Any units and tokens on the inactive side are transferred to the active side when the wormhole nexus flips.</li>
-    <li>A ship in the wormhole will single&ndash;handedly qualify for the <i>Become the Gatekeeper</i> objective.</li>
+    <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.<sup>2</sup></li>
+    <li>Any units and tokens on the inactive side are transferred to the active side when the wormhole nexus flips.<sup>*</sup></li>
+    <li>A ship in the wormhole nexus will single&ndash;handedly qualify for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

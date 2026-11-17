@@ -51,10 +51,11 @@ header
     font-weight: normal;
     flex: none;
     font-variant:small-caps;
+    position: relative;
 }
 a
 {
-    color: black;
+    color: var(--fg);
 }
 article
 {
@@ -210,13 +211,6 @@ h2 + p, p + p, li + p
     margin-left: -2em;
     left: 0;
 }
-.ruling
-{
-    background-color: #fffacd;
-    padding: 0.25em 0.5em;
-    box-shadow: inset 4px 0 0 0 #ffa500;
-    display: inline;
-}
 footer
 {
     padding: 5em;
@@ -244,11 +238,54 @@ header, footer
     background-position: 0% 0%;
     background-size: calc(1196px * 0.05) calc(480px * 0.05);
 }
+/* Dark mode follows the OS setting unless the header toggle sets data-theme;
+   header and footer keep their image backgrounds */
+:root
+{
+    --bg: white;
+    --fg: black;
+    color-scheme: light;
+}
+:root[data-theme="dark"]
+{
+    --bg: #121218;
+    --fg: #e4e4e4;
+    color-scheme: dark;
+}
+@media (prefers-color-scheme: dark)
+{
+    :root:not([data-theme="light"])
+    {
+        --bg: #121218;
+        --fg: #e4e4e4;
+        color-scheme: dark;
+    }
+}
+body
+{
+    background-color: var(--bg);
+    color: var(--fg);
+}
+.theme-toggle
+{
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    padding: 0.2em 0.4em;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: white;
+    background: none;
+    border: 1px solid white;
+    border-radius: 0.3em;
+    cursor: pointer;
+}
 @media screen and (max-width: 600px)
 {
     header
     {
-        padding: 0.4em;
+        /* side padding keeps long titles clear of the theme toggle */
+        padding: 0.4em 2.75rem;
         font-size: 320%;
     }
     article

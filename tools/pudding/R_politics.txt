@@ -1,0 +1,10 @@
+@0
+N No source found.
+@1
+E2 RulesPal, "After Politics, is it public whether the agenda cards went to the top or bottom of the deck?": "You also can't show the cards themselves to other players, since you may only reveal hidden components you own."
+@2
+E2 RulesPal, "Can the speaker token be traded or sold?": "Not in a transaction — it isn't a tradeable component. But the Politics player can take payment, or make deals, in exchange for naming someone speaker."
+@3
+E2 RulesPal, "Can Politics look at and rearrange the agenda deck before anyone takes Mecatol Rex?": "Yes — the agenda deck exists from the start and nothing restricts that part of Politics before the agenda phase begins."
+@4
+E2 RulesPal, "After Politics, is it public whether the agenda cards went to the top or bottom …?": "Yes — everyone can see where each card goes; only the faces stay secret … you can tell them what they are (truthfully or not)."

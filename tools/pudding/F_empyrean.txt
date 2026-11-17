@@ -1,0 +1,99 @@
+@0
+N No source found.
+@1
+N No source found.
+@2
+E2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
+@3
+N No source found.
+@4
+I1 LRR 8.15: "Some game effects allow a player to cast additional votes for an outcome." LRR 8.16 bars a player who cannot vote from casting votes.
+@5
+N No source found.
+@6
+N No source found.
+@7
+N No source found.
+@8
+E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+E3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
+@9
+N No source found.
+@10
+E4 "When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? … A: It is a single gain of commodities and 1 TG simultaneously."
+@11
+E4 Same ruling, asked "(For the purposes of Pillage)": "It is a single gain of commodities and 1 TG simultaneously."
+@12
+N No source found.
+@13
+N No source found.
+@14
+N No source found.
+@15
+N No source found.
+@16
+E6 "If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it."
+@17
+N No source found.
+@18
+N No source found.
+@19
+E2 RulesPal, "Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?": "No — a unit can sustain only once per instance of the timing window."
+E4 "the same unit could not use its Sustain Damage ability multiple times during the same timing window."
+@20
+N No source found.
+@21
+E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage." The cited entry (same-name cards) does not address this.
+@22
+E4 "The Dynamo's ability can be used multiple times in the same combat round by spending 2 influence, individually, each time."
+E2 RulesPal: "Each repair is paid separately."
+@23
+N No source found.
+@24
+E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 On Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+@25
+E2 RulesPal, "Can players make transactions with non-neighbors during the agenda phase?": "That doesn't make them neighbors for anything else, as the developer confirmed when asked about Mentak's Pillage."
+E5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does not confer neighbor status to all players."
+@26
+N No source found.
+@27
+N No source found.
+@28
+N No source found.
+@29
+E2 RulesPal, "Do abilities that trigger on ships moving into a system … count systems merely passed through?": "No — only the system where movement ends is 'moved into', so the Empyrean commander returns at most one token per move."
+@30
+E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 On Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+@31
+E6 "Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: … The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play."
+E2 RulesPal: "the Empyrean hero can later put them on its empty systems."
+@32
+I2 RulesPal, "Can Sabotage cancel another Sabotage or a promissory note?": "Other cancel effects that lack that restriction can still cancel a Sabotage."
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+N No source found.
+@37
+I1 LRR FAQ (for Sabotage): "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
+@38
+N No source found.
+@39
+N No source found.
+@40
+N No source found.
+@41
+N No source found.
+@42
+N No source found.
+@43
+E6 "Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means."
+@44
+E6 "Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors …? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether."
+@45
+E6 "Do the void tether tokens remain in play if the Empyrean player is eliminated? A: The Empyrean Breakthrough remains in play and the Void Tethers remain functional."

@@ -1,0 +1,4 @@
+@0
+E1 LRR 22.1: "Each component action is indicated by an 'Action' header."
+@1
+E2 RulesPal, "Are component actions limited to once per round?": "No — each one simply uses your action for the turn. The only limits are those printed on the component itself."

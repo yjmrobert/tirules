@@ -1,0 +1,8 @@
+@0
+N No source found.
+@1
+N No source found.
+@2
+E4 "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
+@3
+E4 "Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."

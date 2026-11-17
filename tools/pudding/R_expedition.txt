@@ -1,0 +1,44 @@
+@0
+E7 Thunder's Edge Rulebook p. 4: "Its additional game systems take players through the Thunder's Edge expedition, unlock powerful new abilities via faction-specific breakthroughs."
+@1
+E7 Thunder's Edge Rulebook p. 8: "At the end of a player's turn, they may commit to the expedition. To do so, they choose an unclaimed slice of the expedition and pay the indicated cost, placing one of their control tokens in that slice."
+@2
+E7 Thunder's Edge Rulebook p. 8: "The first time a player claims one of the expedition slices, they gain their faction's breakthrough." And: "When a player gains their breakthrough, regardless of the source, if The Fracture is not already in play," they roll.
+@3
+E7 Thunder's Edge Rulebook p. 8: "The expedition costs are as follows: Spend 5 Resources Discard 2 Action Cards Spend 5 Influence Discard 1 Unscored Secret Objective Exhaust 1 Technology Specialty Planet Spend 3 Trade Goods."
+@4
+E7 Thunder's Edge Rulebook p. 8: "Spend 5 Resources."
+@5
+E7 Thunder's Edge Rulebook p. 8: "Discard 2 Action Cards."
+@6
+E7 Thunder's Edge Rulebook p. 8: "Spend 5 Influence."
+@7
+E7 Thunder's Edge Rulebook p. 8: "Discard 1 Unscored Secret Objective."
+@8
+E7 Thunder's Edge Rulebook p. 8: "Exhaust 1 Technology Specialty Planet."
+@9
+E7 Thunder's Edge Rulebook p. 8: "Spend 3 Trade Goods."
+@10
+E7 Thunder's Edge Rulebook p. 8: "Once claimed, that slice cannot be claimed by another player … A player can claim multiple expedition slices in a game, but must choose a different unclaimed slice each time they do so."
+@11
+I7 Same passage: "The first time a player claims one of the expedition slices, they gain their faction's breakthrough."
+@12
+E7 Thunder's Edge Rulebook p. 8: "When all slices are claimed, the expedition is complete."
+@13
+N No source found.
+@14
+E7 Thunder's Edge Rulebook p. 8: "the player who claimed the final slice flips Thunder's Edge to its planet side and places it in a system of their choice that does not contain a planet, a supernova, or a printed wormhole."
+E2 RulesPal, "How does the Thunder's Edge expedition finish, and who gets the planet?": "that player must flip Thunder's Edge and place it in a system with no planet … supernova or printed wormhole."
+@15
+E6 "What happens in the rare situation that, when Thunder's Edge is due to be placed, every system …? A: Place Thunder's Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova."
+@16
+E6 "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
+@17
+E7 Thunder's Edge Rulebook p. 8: "the player with the most control tokens on the expedition places that many infantry on Thunder's Edge. In the case of a tie, the player who claimed the final slice chooses which tied player" places them.
+E2 RulesPal: "on a tie, the player who claimed the last slice chooses among the tied players."
+@18
+N No source found.
+@19
+E7 Thunder's Edge Rulebook p. 16: "When Thunder's Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored."
+@20
+N No source found.

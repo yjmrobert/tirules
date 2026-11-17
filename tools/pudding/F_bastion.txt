@@ -1,0 +1,56 @@
+@0
+E6 "Bastion must choose which order to resolve Liberate and Exploration per planet, then resolve those abilities in full before the other."
+@1
+I6 Same ruling: each ability is resolved "in full before the other," so the later one sees the changed values.
+@2
+N No source found.
+@3
+E6 "Can a Galvanize token be moved when there is none left in the reinforcements? … A: No, Galvanise tokens are placed from reinforcements. Unlike Sleepers there is no move or place option."
+I2 RulesPal, "How do the Last Bastion's spaceport card, Helios upgrade and Galvanize tokens work?": "Galvanize tokens are limited; with all 7 in use the effect fails until one is freed."
+@4
+E6 "Galvanize: Is the extra dice mandatory? A: Yes."
+@5
+E6 "What does 'each of your galvanized units present' mean? … A: Present == participating."
+@6
+E6 "X89 turns all hits into 2 before abilities and effects like Titan's agent or Proxima. You will exhaust the planet."
+@7
+E6 "Proxima Targeting VI (Technology): Can the Bastion player apply abilities such as Plasma Scoring/Argent commander or Jol-Nar commander to the BOMBARDMENT roll? A: Yes"
+I9 Designer Q&A, "Unit Abilities imply Units?" (on relics and technologies that use unit abilities).
+@8
+N No source found.
+@9
+N No source found.
+@10
+E2 RulesPal, "How do the Last Bastion's spaceport card, Helios upgrade and Galvanize tokens work?": "Helios II replaces Helios I, so +2, not +3."
+@11
+N No source found.
+@12
+N No source found.
+@13
+N No source found.
+@14
+E7 Thunder’s Edge Rulebook, Dame Briar (Bastion commander) card text: "You may exhaust this card to galvanize another of that player’s units in the destroyed unit’s system."
+@15
+N No source found.
+@16
+N No source found.
+@17
+N No source found.
+@18
+N No source found.
+@19
+E2 RulesPal, "Can Sustain Damage save a ship from … 'destroy' effects?": "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
+@20
+N No source found.
+@21
+N No source found.
+@22
+N No source found.
+@23
+N No source found.
+@24
+N No source found.
+@25
+N No source found.
+@26
+E2 RulesPal, "When several players fire Space Cannon Offense, are they resolved together?": "No — one player at a time … Each player's roll, hit assignment, Sustain Damage and responses like Direct Hit finish before the next fires, so a unit destroyed earlier … never gets to shoot."

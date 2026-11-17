@@ -1,0 +1,23 @@
+@0
+E1 LRR 1.19: "If there are multiple abilities that players wish to resolve at the same time during the action phase, each player takes a turn resolving an ability in initiative order, beginning with the active player."
+E2 RulesPal, "When several players want to resolve abilities at the same time, who goes first?": "In the action phase, the active player goes first, then the other players in initiative order."
+E5 Designer ruling (kaiteinomen, Sep 20, 2017): "All timing conflicts are intended to follow the same rules for resolution—in initiative order, beginning with the active player."
+@1
+E1 LRR 48.1: "Initiative order is determined by the initiative numbers on strategy cards."
+E3 Learn to Play: "Each strategy card has a number between '1' and '8' in the upper-right corner."
+@2
+I3 The initiative number is printed on each strategy card (Learn to Play: "a number between '1' and '8' in the upper-right corner").
+@3
+I3 Printed on the card.
+@4
+I3 Printed on the card.
+@5
+I3 Printed on the card.
+@6
+I3 Printed on the card.
+@7
+I3 Printed on the card.
+@8
+I3 Printed on the card.
+@9
+I3 Printed on the card.

@@ -1,0 +1,9 @@
+@0
+E2 RulesPal, "How do strategy cards work in three- and four-player games?": "Each player picks two strategy cards, in a second pass of the selection."
+E3 Learn to Play: "After each player has chosen one strategy card during the strategy phase, players repeat the strategy card selection process until each player has chosen a second strategy card."
+I1 LRR 82.2a: "During three- and four-player games, a player must resolve the strategic action on each of their chosen strategy cards before they can pass."
+@1
+E3 Learn to Play: "Each player's lowest-numbered strategy card is used to determine their placement in initiative order."
+E2 "With two strategy cards, which one sets my initiative, and must I use the lower card first?": "Only your lower-numbered card sets your initiative."
+@2
+E2 RulesPal, "How many actions do I take per turn, and in what order must I use action types?": "Exactly one action per turn … You may use them in any order over the round."

@@ -1,0 +1,6 @@
+@0
+E1 LRR 23.4a: "When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens."
+E3 Learn to Play: "When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens."
+I2 "Can I remove my own units from the board when I want to?": "The one exception is taking a unit off the board when you need to place one and none are in reinforcements." command-token restriction stated in the structures entry.
+@1
+E2 RulesPal, "What happens if I would gain a command token but have none left in my reinforcements?": "Tokens you spend … go back to your reinforcements, not to your command sheet."

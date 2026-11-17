@@ -3,16 +3,16 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '74.' counter(item, decimal);} </style>
-<p>Some game effects instruct a player to reroll dice.</p>
+<p data-src="1">Some game effects instruct a player to reroll dice.</p>
     <ol class="lrr">
-    <li>When a die is rerolled, its new result is used instead of its previous result.</li>
-    <li>The same ability cannot be used to reroll the same die multiple times, but multiple abilities can be used to reroll a single die.</li>
-    <li>Die rerolls must occur after rolling the dice, before other abilities are resolved.</li>
+    <li data-src="1">When a die is rerolled, its new result is used instead of its previous result.</li>
+    <li data-src="1">The same ability cannot be used to reroll the same die multiple times, but multiple abilities can be used to reroll a single die.</li>
+    <li data-src="1,2">Die rerolls must occur after rolling the dice, before other abilities are resolved.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Effects that reroll &ldquo;combat rolls&rdquo; do not reroll anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
+    <li>Effects that reroll &ldquo;combat rolls&rdquo; do not reroll anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

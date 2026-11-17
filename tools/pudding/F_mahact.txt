@@ -1,0 +1,118 @@
+@0
+E4 "If you are the Mahact player, what happens when an agenda tells you to 'remove one of your command tokens from your fleet pool …' but you only have tokens from" other players? "A: You are required to remove another player's token and return it to that player's reinforcements."
+I2 RulesPal, "How does Armed Forces Standardization affect Mahact holding other players' fleet tokens?": "other players' tokens removed go back to their owners' reinforcements."
+@1
+E4 "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
+@2
+N No source found.
+@3
+N No source found.
+@4
+N No source found.
+@5
+N No source found.
+@6
+N No source found.
+@7
+N No source found.
+@8
+I1 LRR 32.2b (Diplomacy): "If a player already has a command token in the chosen system, they do not place a command token there."
+@9
+I1 LRR 32.2a (Diplomacy): "If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet."
+@10
+N No source found.
+@11
+N No source found.
+@12
+E4 "Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech."
+E2 "Can Genetic Recombination target a player who isn't voting, such as one who played a rider?": "No — it triggers before a player casts votes, and a non-voter never reaches that point."
+@13
+E4 "If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast."
+@14
+I2 "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." each triggers separately, so the choice is made per Legionnaire.
+@15
+I2 "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." triggers resolve one after another, so a gained commodity can then be converted by the next.
+@16
+E2 RulesPal, "Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?": "Yes — they replace the token, so none is needed." The cited entry (Galactic Crisis Pact) does not address this.
+@17
+N No source found.
+@18
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@19
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@20
+N No source found.
+@21
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@22
+E4 "What's the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played."
+@23
+E4 "Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? A: No."
+@24
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "move all units in its space area." Ground forces on planets are not in the space area.
+I4 "can the Mahact player transport their own ground forces from planets when moving? A: Yes." Stated only for the Mahact player's own ships.
+@25
+E4 "When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? A: Yes."
+@26
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "move all units in its space area (fighters, ground forces in space and Saar docks included)."
+@27
+N No source found.
+@28
+N No source found.
+@29
+N No source found.
+@30
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "The moved ships' owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can't enter."
+@31
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "no pushing them into asteroid fields or supernovas they can't enter."
+I2 RulesPal, "Who can move into or through a supernova?": "Magmus Reactor lets ships move into and stop in one."
+@32
+E4 "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
+E3 Learn to Play: "A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die."
+@33
+N No source found.
+@34
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "Creuss's alpha-beta adjacency can't be used."
+@35
+N No source found.
+@36
+E4 "The combat system is treated as the active system during that combat."
+@37
+E4 "The ships being moved belong to the 'attacker' and the ships not being moved belong to the 'defender.'"
+@38
+N No source found.
+@39
+N No source found.
+@40
+N No source found.
+@41
+N No source found.
+@42
+N No source found.
+@43
+N No source found.
+@44
+N No source found.
+@45
+E4 "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? … A: A Capacity check is resolved before the space combat begins."
+@46
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@47
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@48
+E4 "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+@49
+I4 FAQ: "Can Mahact use their mech ability on themselves?": "Can Mahact use their mech ability on themselves? A: Yes."
+@50
+E4 "If Mahact has an Arborec Command Token in their fleet pool … can the Mahact player produce a mech …? A: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability."
+@51
+N No source found.
+@52
+N No source found.
+@53
+I7 Thunder’s Edge Rulebook, Purge: "If an ability instructs a player to purge a component, that component is removed from the game and returned to the box." purged component is out of the game.
+I8 PoK rulebook: "A purged card is removed from the" game.
+@54
+N No source found.
+@55
+N No source found.

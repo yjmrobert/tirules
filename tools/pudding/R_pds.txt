@@ -1,0 +1,6 @@
+@0
+E1 LRR 63: "A PDS (planetary defense system) is a structure that allows a player to defend their territory."
+E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work if the PDS … has been hit by Disable?": "it is still a structure."
+@1
+E8 PoK rulebook unit card: "PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I."
+I3 Learn to Play (war sun): "Your opponents' PDS units lose PLANETARY SHIELD."

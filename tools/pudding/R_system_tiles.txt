@@ -1,0 +1,2 @@
+@0
+E2 RulesPal, "Does a home system stop being a home system when another player takes it?": "No — it stays its original owner's home system."

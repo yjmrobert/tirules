@@ -1,0 +1,5 @@
+@0
+E1 LRR 40.2: "Player turns occur during the action phase."
+E2 RulesPal, "When do 'at the start of your turn' abilities happen …?": "you don't have turns in the strategy, status or agenda phases."
+@1
+E2 RulesPal, "When does the game end if nobody reaches 10 victory points?": "When the speaker has to reveal a public objective in the status phase and none remain … With five stage I and five stage II objectives, that is round 9 at the latest."

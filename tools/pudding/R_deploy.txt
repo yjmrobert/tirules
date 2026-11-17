@@ -1,0 +1,2 @@
+@0
+E6 "Is the Iconoclast deploy ability mandatory (there is no 'may' in the wording)? A: Deploy being a unit ability is always a may."

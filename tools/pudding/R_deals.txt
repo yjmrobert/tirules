@@ -1,0 +1,15 @@
+@0
+E2 RulesPal, "When is a deal binding?": "Only when its terms resolve immediately … Promises about future actions, and if-then conditions, are non-binding and can be broken."
+E5 Designer ruling: "The 'immediate' requirement for binding deals is satisfied only when all aspects of the deal can be acted upon during the same game effect."
+@1
+E5 Designer ruling: "The 'immediate' requirement for binding deals is satisfied only when all aspects of the deal can be acted upon during the same game effect."
+@2
+E5 Designer ruling, on a deal to trade the Creuss IFF and have it used: "This would be non-binding, because when the deal is made, the non-Ghost player does not technically qualify to even be able to perform his side of the deal (he doesn't have the IFF)."
+@3
+E2 RulesPal, "When is a deal binding?": "Only when its terms resolve immediately … Promises about future actions, and if-then conditions, are non-binding and can be broken." "taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you." A deal made earlier does not.
+@4
+E5 Designer ruling: "The 'immediate' requirement for binding deals is satisfied only when all aspects of the deal can be acted upon during the same game effect." "(in the case of the 'Trade' SC scenario, each of those bullets is an effect)."
+@5
+E2 RulesPal, "Is a deal to buy someone's votes binding?": "Only for a player about to cast votes right now … a promise to vote a certain way later can still be broken."
+@6
+I2 RulesPal, "Can two players agree not to fight …?": "rolling and assigning hits are mandatory and a deal can't override the rules."

@@ -1,0 +1,131 @@
+@0
+E4 "What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? … A: Keleres selects after all other players have selected their starting technology."
+E2 "When does the Council Keleres choose its starting technologies?": "After every other faction has gathered its starting technologies, regardless of speaker order."
+@1
+E4 "Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table."
+@2
+E12 Codex III, Council Patronage: "Replenish your commodities at the start of the strategy phase, then gain 1 trade good." No "may".
+@3
+E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
+@4
+E4 "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
+E12 Codex III, Law's Order: "treat all laws as blank until the end of" your turn.
+@5
+E4 "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
+E12 Codex III: "treat all laws as blank."
+@6
+N No source found.
+@7
+N No source found.
+@8
+E4 "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
+@9
+I2 RulesPal, "Can one player play several riders on the same agenda, on different outcomes?": "Yes — FFG confirmed by email that you can play several riders in the same vote."
+@10
+E2 RulesPal, "Can one player play several riders on the same agenda, on different outcomes?": "Yes — FFG confirmed by email that you can play several riders in the same vote."
+@11
+E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
+@12
+I1 LRR FAQ (rider action cards): "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
+@13
+N No source found.
+@14
+E4 "Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice)."
+@15
+E4 "No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network."
+@16
+E4 "PRODUCTION is all or nothing during tactical actions, so you couldn't choose to only use one ability in a system to then use another one in the same system."
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+E9 Designer Q&A, "Executive Order": "Players can play riders etc."
+E6 "Can the 'when/after agenda is revealed' effects be played on agenda revealed by the Keleres breakthrough, Executive Order? … A: Yes, the agenda is drawn and revealed."
+E2 RulesPal, "Does an agenda voted through Keleres's Executive Order count as the agenda phase?": "'when/after an agenda is revealed' effects still work."
+@21
+N No source found.
+@22
+N No source found.
+@23
+N No source found.
+@24
+E6 "Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order …? A: No, Representative Government only affects voting during the Agenda Phase."
+@25
+N No source found.
+@26
+E2 RulesPal: "agenda-phase secrets, Drive the Debate included, can't be scored."
+@27
+E7 Thunder's Edge Rulebook p. 16: "Agendas that refer to 'This Agenda Phase' remain in play and are resolved during that game round's Agenda phase, or if that round does not have an Agenda phase, the next Agenda phase that is resolved."
+E6 "How are 'this agenda phase' or 'next strategy phase' abilities resolved? A: They will remain in play until their trigger timing."
+@28
+E6 "They will remain in play until their trigger timing."
+@29
+E6 "Argent does not vote first but does still cast additional votes."
+E2 RulesPal: "Argent's Zeal gives its extra votes but not the vote-first part."
+@30
+N2 RulesPal, "Does the Keleres I.I.H.Q. Modernization make systems adjacent for movement?": "it only makes players neighbors for transactions." Symmetry is not addressed.
+@31
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It is gained exhausted."
+@32
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "units cannot be placed on it."
+@33
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "This planet is not on the game board, and does not exist in a system."
+I2 RulesPal: "though it has no system tile."
+@34
+E12 Codex III, I.I.H.Q. Modernization: "Gain the Custodia Vigilia planet card and its legendary planet ability card. You cannot lose these cards."
+@35
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "Keleres cannot be eliminated if they control Custodia Vigilia."
+@36
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas."
+@37
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It counts as a planet for objectives and agendas if it meets the specific criteria."
+@38
+E4 "Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial's ability to gain a Victory Point because you control Mecatol Rex."
+@39
+N No source found.
+@40
+E4 "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include 'as if it were a unit'."
+@41
+E4 Same ruling: "Yes."
+@42
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "Terraform can be placed on it."
+@43
+E4 "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It may be explored."
+@44
+E12 Codex III, Artemiris: "Other players must spend 2 influence to activate the system that contains this ship."
+@45
+E4 "What is the duration of the Council Keleres agent …? A: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend."
+@46
+N No source found.
+@47
+N No source found.
+@48
+N No source found.
+@49
+N No source found.
+@50
+N No source found.
+@51
+N No source found.
+@52
+N No source found.
+@53
+N No source found.
+@54
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+@55
+E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a system that contains a planet you control."
+@56
+N No source found.
+@57
+N No source found.
+@58
+N No source found.
+@59
+N No source found.
+@60
+E4 "How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? A: Each mech is one instance of spend one influence."
+E2 RulesPal: "each mech is its own instance of the ability, so the attacker pays 1 influence per mech."

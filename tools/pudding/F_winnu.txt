@@ -1,0 +1,57 @@
+@0
+E2 RulesPal, "If Winnu place a mech with Hope's End …?": "a dock placed by Winnu's Reclamation comes after the tactical action, too late to produce in it." The cited entry (Hel-Titan) does not address this.
+@1
+E5 Designer ruling: "In both the situations you mentioned there (Quantum Datahub Node and Acquiescence) the player who picked the strategy card originally would get the trade goods."
+@2
+N No source found.
+@3
+N No source found.
+@4
+E1 LRR errata: "The text of the Winnu faction technology 'Hegemonic Trade Policy' should read as follows: 'Exhaust this card when 1 or more of your units use 'Production;' swap the resource and influence values of 1 planet you control during that use of 'Production.''"
+@5
+I2 RulesPal, "How many units can a space dock produce?": "A Space Dock I has Production equal to its planet's resource value plus 2."
+@6
+E2 RulesPal, "Can Winnu use Lazax Gate Folding's action without Mecatol Rex, and does the wormhole part work while exhausted?": "The passive part … doesn't need the card ready, so it works while exhausted."
+E5 Designer ruling: "Since the passive portion of LGF doesn't require exhausting the card as part of a cost, you can still use it."
+@7
+E5 Designer ruling (Dec 2018), on Lazax Gate Folding during Winnu's tactical action: "Xxcha can also fire. Same idea as above." Other players' units use the adjacency too.
+@8
+E1 LRR FAQ: Mentak may use Pillage "when they are neighbors with another faction as a result of the 'Lazax Gate Folding' faction technology."
+E5 Designer ruling: "rules as written, the Mentak would be able to pillage the transaction."
+@9
+E5 Designer ruling: "Xxcha can also fire."
+@10
+E5 Designer ruling: "they can also retreat to Lodor."
+@11
+N No source found. The designer ruling says Creuss "can use dimensional splicer regardless … because their flagship was in the system."
+@12
+E2 RulesPal: "The action needs you to control Mecatol Rex, so it can't be used as a stall."
+E3 Learn to Play, Lazax Gate Folding: "exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex."
+E5 Designer ruling (Falcone1983, Apr 23, 2018): "The intent is that the action is unusable if you do no control Mecatol Rex."
+@13
+I2 RulesPal, "Can each Winnu flagship die score a hit?": "it rolls one die per enemy non-fighter ship."
+@14
+E1 LRR FAQ: "Does the Winnu 'Salai Sai Corian' flagship get additional dice for infantry participating in a fight due to the Nekro 'Alastor' flagship? A: Yes."
+E2 RulesPal, "How do Nekro ground forces fighting via the flagship count for other effects?": "they count as non-fighter ships for things like the Winnu flagship's extra dice."
+@15
+N No source found.
+@16
+E4 "Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? A: No, the commander only triggers once no matter how many conditions are met."
+@17
+E2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "Secondaries cost a strategy pool token, except Leadership's."
+@18
+N No source found.
+@19
+N No source found.
+@20
+E2 RulesPal, "If Winnu place a mech with Hope's End, can the Winnu mech ability then place a space dock?": "No — Hope's End resolves at the end of your turn, after the window where the mech's ability triggers."
+@21
+E2 Same entry: "a dock placed by Winnu's Reclamation comes after the tactical action, too late to produce in it."
+@22
+N No source found.
+@23
+N No source found.
+@24
+N No source found.
+@25
+N No source found.

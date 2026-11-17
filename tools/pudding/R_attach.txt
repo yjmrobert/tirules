@@ -1,0 +1,4 @@
+@0
+E2 "Does exploring a new planet happen before Integrated Economy?": "Attachments can stack, so a planet may hold several."
+@1
+N No source found.

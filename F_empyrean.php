@@ -1,115 +1,104 @@
 <?php include "prefix.php"?>
 <header><h1>The Empyrean</h1></header>
 <article>
-<h2>Voidborn</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Voidborn">Voidborn</a></h2>
     <ol class="note">
-    <li>This effect also applies outside the <b>Movement</b> step.</li>
-    <li>The Empyrean player treats nebulae as nebulae and as anomalies for all other game purposes.</li>
-    <ol><li>When the Empyrean player is the defender during a space combat in a nebula, they will receive the +1 to their combat rolls.</li></ol>
+    <li>This effect also applies outside the <b>Movement</b> step.<sup>*</sup></li>
+    <li>The Empyrean player treats nebulae as nebulae and as anomalies for all other game purposes.<sup>*</sup></li>
     </ol>
 
-<h2>Aetherpassage</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Aetherpassage">Aetherpassage</a></h2>
     <ol class="note">
-    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
+    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>2</sup></li>
     </ol>
 
-<h2>Dark Whispers</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Dark%20Whispers">Dark Whispers</a></h2>
     <ol class="note">
     </ol>
 
-<h2>Blood Pact <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Blood%20Pact">Blood Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>Both players must cast at least one vote to trigger the additional votes.</li>
-    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.</li></ol>
-    <li><i>Blood Pact</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.</li>
-    <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.</li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Blood Pact</i> to be returned.</li>
+    <li>Both players must cast at least one vote to trigger the additional votes.<sup>*</sup></li>
+    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>*</sup></li></ol>
+    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
+    <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
-<h2>Dark Pact <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.</li>
-    <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.</li>
-    <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players. As a pair of players is limited to one transaction per turn (which must involve the active player) or per agenda, the two players cannot then perform a transaction for these trade goods on the same turn.</li>
-    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the Mentak player may only use their <sc>Pillage</sc> ability on each player once per <i>Dark Pact</i> transaction.</li>
-    <li><i>Dark Pact</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.</li>
-    <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.</li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Dark Pact</i> to be returned.</li>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup></li>
+    <li>If the Empyrean player plays a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup></li>
+    <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players.<sup>4</sup></li>
+    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup></li>
+    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
+    <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
-<h2>Aetherstream <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
-    <li>A system is not adjacent to itself. If a system with an anomaly is activated, <i>Aetherstream</i> will not give any ships +1 to their move value, unless that system is adjacent to another anomaly.</li>
+    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>*</sup></li>
+    <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup></li>
     </ol>
 
-<h2>Voidwatch <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Voidwatch">Voidwatch</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The active player chooses which promissory note they give the Empyrean player.</li>
-    <li>Giving a promissory note because of <i>Voidwatch</i> is not resolving a transaction.</li>
+    <li>The active player chooses which promissory note they give the Empyrean player.<sup>*</sup></li>
+    <li>Giving a promissory note because of <i>Voidwatch</i> is not resolving a transaction.<sup>*</sup></li>
     </ol>
 
-<h2>Dynamo <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo">Dynamo</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>A unit may only use its <sc>Sustain Damage</sc> ability once in each <b>Assign Hits</b> step, even if it is repaired.</li>
-    <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.</li>
-    <li>A player may play a <i>Direct Hit</i> action card during the same timing window as this ability. If they do so, the ship is destroyed.</li>
-    <li>Each unit using its <sc>Sustain Damage</sc> ability creates a separate timing window. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.</li>
-    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.</li></ol>
+    <li>A unit may only use its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup></li>
+    <li>A unit that becomes damaged without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
+    <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup></li>
+    <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup></li>
+    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Acamar <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Exhausting Acamar is a cost. Acamar cannot be used if it is exhausted.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
+    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
-<h2>Xuange <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>While the agenda phase and the Hacan player&rsquo;s <i>Trade Convoys</i> promissory note allow a player to resolve transactions with all other players, they do not make that player neighbors with all other players.</li>
-    <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.</li>
-    <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.</li>
-    <li>If the Empyrean player moves a ship into a system containing one of the Saar player&rsquo;s Floating Factories, and no other ships, that Floating Factory will by blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and Saar players are not neighbors in any other way, then Xuange will not unlock.</li>
+    <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>5</sup></li>
+    <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.<sup>*</sup></li>
+    <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.<sup>*</sup></li>
+    <li>If the Empyrean player moves a ship into a system containing one of the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>*</sup></li>
+    <li>Only the system in which a ship ends its movement is &ldquo;moved into&rdquo;; systems a ship moves through are not. As such, Xuange returns at most one command token for each movement.<sup>2</sup></li>
     </ol>
 
-<h2>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Conservator%20Procyon">Conservator Procyon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift">Multiverse Shift</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The Empyrean player chooses the order of exploration.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets. <i>Multiverse Shift</i> will place a frontier token in such a system.</li>
-    <li>If The Fracture is in play when the Empyrean player resolves <i>Multiverse Shift</i>, frontier tokens will be placed in the systems in The Fracture that do not contain a planet, and then the Empyrean player will explore those tokens if they have ships present.</li>
+    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
+    <li>If The Fracture is in play when the Empyrean player resolves <i>Multiverse Shift</i>, frontier tokens will be placed in the systems in The Fracture that do not contain a planet.<sup>2,6</sup></li>
     </ol>
 
-<h2>Watcher <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>This effect may cancel a <i>Sabotage</i> action card.</li>
-    <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.</li>
-    <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.</li></ol>
-    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by a Watcher.</li>
-    <li>If an action card is cancelled by a Watcher, no costs are paid.</li>
-    <li>A player playing an action card announces the following before a Watcher may be triggered:</li>
+    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>*</sup></li>
+    <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.<sup>*</sup></li>
+    <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.<sup>*</sup></li></ol>
+    <li>If an action card is cancelled by a Watcher, no costs are paid.<sup>*</sup></li>
+    <li>A player playing an action card announces the following before a Watcher may be triggered:<sup>*</sup></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.</li>
-        <li>The value of any variable cost to be paid.</li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup></li>
+        <li>The value of any variable cost to be paid.<sup>*</sup></li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.</li>
-    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.</li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by a Watcher when it is originally played.</li>
-    <li>If the action card that was cancelled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.</li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
+    <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
+    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by a Watcher when it is originally played.<sup>*</sup></li>
+    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup></li>
     </ol>
 
-<h2>Void Tether <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.</li>
-    <ol>
-        <li>Players cannot move directly between those two systems.</li>
-        <li>If a player has a unit with the <sc>Deep Space Cannon</sc> ability on one of the systems, they cannot target units in the other.</li>
-        <li>If two other players have units or control planets in each of one of the two systems in question, they are not neighbors via these systems. However, if the Empyrean player has units or controls a planet in one of the systems, they will be neighbors with any player with units or controlling a planet in the other, and vice versa.</li>
-        <li>A player with ships in one of the systems cannot use those ships to place a command token in, and then move their ships into, the other system with the <i>Skilled Retreat</i> action card.</li>
-        <li>If one of the systems is a home system, then units in the other system cannot be used to score the <i>Threaten Enemies</i> secret objective or the <i>Rule Distant Lands</i> secret objective.</li>
-    </ol>
+    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.<sup>6</sup></li>
+    <ol><li>If the Empyrean player has units or controls a planet in one of the systems, they will be neighbors with any player with units or controlling a planet in the other, and vice versa.<sup>6</sup></li></ol>
+    <li>If the Empyrean player is eliminated, <i>Void Tether</i> remains in play, and the Void Tether tokens continue to function.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

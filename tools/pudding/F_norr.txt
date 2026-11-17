@@ -1,0 +1,71 @@
+@0
+E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect Anti-Fighter Barrage, Space Cannon, Bombardment or Ambush?": "No — only rolls made against a unit's combat value are combat rolls."
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
+@1
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
+@2
+N No source found.
+@3
+E4 "Does Valkyrie Particle Weave trigger after hits were produced if the hits were cancelled? A: Yes, the hit from Valkyrie Particle Weave is still applied."
+@4
+N No source found.
+@5
+N No source found.
+@6
+E5 Designer ruling: "The N'orr player selects the units to be destroyed."
+E2 RulesPal, "Can Sustain Damage save a ship from Exotrireme II …?": "For Exotrireme II, the Sardakk player chooses which ships (up to 2) are destroyed."
+@7
+N No source found.
+@8
+E1 LRR 87.5: "The 'Sustain Damage' ability cannot be used to cancel an effect that directly destroys a unit."
+E2 RulesPal: "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
+E5 Designer ruling: "sustain damage cannot be used against abilities that 'destroy'."
+@9
+E2 RulesPal, "When exactly can Exotrireme II use its ability?": "it can't be used if that Exotrireme was destroyed or a retreat was announced."
+@10
+E2 RulesPal, "When both players have end-of-round abilities, like Yin's Devotion and Sardakk's Exotrireme II, who goes first?": "The active player resolves one first, then the players alternate one ability at a time."
+@11
+E2 RulesPal, "When exactly can Exotrireme II use its ability?": "A dreadnought can use Sustain Damage that round and still be sacrificed afterwards."
+@12
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
+@13
+N No source found.
+@14
+E4 "Can Sardakk N'orr's commander, G'hom Sek'kus, be used without moving any ships into the active system? A: Yes."
+E2 RulesPal, "Can the Sardakk commander commit ground forces from adjacent systems without moving any ships in …?": "Yes — the invasion step happens in every tactical action, so you can activate the system, move nothing, and commit ground forces from adjacent planets."
+@15
+E2 RulesPal, "What happens to committed ground forces when Parley is played?": "They return to the space area rather than being destroyed, within capacity."
+@16
+N No source found.
+@17
+E4 "Can the Sardakk N'orr player commit ground forces via their commander, G'hom Sek'kus, on defense? A: No, only the active player can commit ground forces."
+@18
+E4 "only the active player can use BOMBARDMENT."
+@19
+E4 "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
+@20
+E4 "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N'orr's commander …? A: Will change 'commit ground forces' in LRR to say 'move' to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law."
+@21
+E4 "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N'orr's commander …? A: Will change 'commit ground forces' in LRR to say 'move' to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law."
+@22
+E4 "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N'orr's commander …? A: Will change 'commit ground forces' in LRR to say 'move' to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law."
+@23
+N No source found.
+@24
+E4 "Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N'orr's commander …? A: Will change 'commit ground forces' in LRR to say 'move' to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law."
+@25
+N No source found.
+@26
+E4 "Does using Dominus Orb allow the Sardakk N'orr player to commit ground forces via their commander …? A: No, G'hom Sek'kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place."
+@27
+N No source found.
+@28
+N No source found.
+@29
+N No source found.
+@30
+N No source found.
+@31
+N No source found.
+@32
+N No source found.

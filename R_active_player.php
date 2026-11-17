@@ -3,20 +3,19 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '4.' counter(item, decimal);} </style>
-<p>The active player is the player taking a turn during the action phase.</p>
+<p data-src="1,3">The active player is the player taking a turn during the action phase.</p>
     <ol class="lrr">
-    <li>During the action phase, the player who is first in initiative order is the first active player.</li>
-    <li>After the active player takes a turn, the next player in initiative order becomes the active player.</li>
-    <li>After the last player in initiative order takes a turn, the player who is first in initiative order becomes the active player again, and turns begin again in initiative order, ignoring any players who have already passed.</li>
+    <li data-src="1,3">During the action phase, the player who is first in initiative order is the first active player.</li>
+    <li data-src="1,3">After the active player takes a turn, the next player in initiative order becomes the active player.</li>
+    <li data-src="1,3">After the last player in initiative order takes a turn, the player who is first in initiative order becomes the active player again, and turns begin again in initiative order, ignoring any players who have already passed.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>During the strategy, status and agenda phases, no player is the active player.</li>
-    <li>During combat, the active player is the attacker.</li>
-    <li>The active player will have the first opportunity to resolve abilities during each timing window.</li>
-    <li>All transactions during the action phase must involve the active player.</li>
-    <li>If a non&ndash;active player produces hits using the <sc>Space Cannon Offense</sc> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.</li>
+    <li>During combat, the active player is the attacker.<sup>1,3</sup></li>
+    <li>The active player will have the first opportunity to resolve abilities during each timing window.<sup>1,2,5</sup></li>
+    <li>All transactions during the action phase must involve the active player.<sup>2</sup></li>
+    <li>If a non&ndash;active player produces hits using the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon#Space_Cannon_Offense"><sc>Space Cannon Offense</sc></a> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

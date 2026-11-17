@@ -1,0 +1,39 @@
+@0
+E1 LRR FAQ: "Without war sun technology, they cannot produce a war sun, even using 'Salvage Operations.'"
+E3 Learn to Play, war sun: "You cannot produce this unit unless you own its unit upgrade technology."
+E5 Designer ruling: "the Mentak player cannot use Salvage Operations to produce a War Sun if he does not have War Sun technology."
+E7 Thunder's Edge Rulebook: "You cannot produce this unit unless you own its unit upgrade technology."
+E8 PoK rulebook: "You cannot produce this unit unless you own its unit upgrade technology."
+@1
+I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their base unit type?": "the Prototype War Sun is a war sun."
+@2
+E2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield: a war sun makes other players' units lose Planetary Shield."
+@3
+E2 Same entry: "The Codex Omega version only" needs a structure.
+@4
+E2 RulesPal, "Can a destroyed flagship be rebuilt?": "Yes — it goes back to reinforcements and can be produced again."
+@5
+E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."
+E2 RulesPal, "If my carrier is destroyed in combat …?": "capacity isn't checked during combat, so they stay while it lasts."
+I3 Learn to Play: "If at any time the number of a player's fighters and ground forces in the space area of a system exceeds the capacity … the excess units are destroyed. During combat, …"
+E5 Designer ruling: "During a combat, the fighters would persist until the end of combat."
+@6
+E1 LRR FAQ: "Can fighters block ship movement? A: Yes, fighters can block ship movement."
+E5 Designer ruling: "Lone advanced fighters can block other players' ship movement."
+I3 Learn to Play: ships move only through systems without other players' ships.
+E2 "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included."
+@7
+E2 RulesPal, "When is the fleet pool limit checked …?": "Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
+E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."
+@8
+E2 RulesPal, "Are Fighter II units still fighters for other effects?": "they remain fighters for every other effect."
+@9
+E1 LRR FAQ: "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead."
+E2 RulesPal, "What happens to infantry on the Infantry II card if I don't control my home system?": "If you control none there, they are lost (returned to reinforcements), per a relayed developer email."
+E5 Designer ruling: "The units would be lost, in this case."
+@10
+E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
+@11
+E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
+@12
+E2 RulesPal, "How many units can a space dock produce?": "The planet being exhausted doesn't matter."

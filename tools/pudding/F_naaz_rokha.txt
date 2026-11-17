@@ -1,0 +1,81 @@
+@0
+N No source found.
+@1
+E4 "For the Naaz-Rokha's Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn."
+@2
+N No source found.
+@3
+E2 RulesPal, "Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?": "Yes — 'contains 1 of your mechs' means at least one."
+@4
+E4 "Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+@5
+E4 "Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? A: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements."
+@6
+N No source found.
+@7
+E1 LRR 73.2a: "If there are no cards in the relic deck, they do not gain a relic."
+E4 FAQ: "Can a player “gain” a relic by purging fragments if there are no relics left?": "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+@8
+N No source found.
+@9
+E2 RulesPal, "How does exploration work?": exploring "happens before 'after you gain control' effects like Integrated Economy or Pre-Fab Arcologies." The cited entry (Xxcha hero) does not address this.
+@10
+N No source found.
+@11
+N No source found.
+@12
+N No source found.
+@13
+I1 LRR 10.1c and the matching rules for bombardment and space cannon say that effects modifying combat rolls do not affect those rolls.
+@14
+N No source found.
+@15
+N No source found.
+@16
+E2 "Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?": "The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards"
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+N No source found.
+@21
+N No source found.
+@22
+I4 FAQ: Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: "The LRR will be updated to be more general towards taking off sheet if none are in reinforcements." general rule for taking tokens from sheet.
+@23
+N No source found.
+@24
+N No source found.
+@25
+E2 RulesPal, "Is flipping Naaz-Rokha mechs to ships mandatory …?": "Flipping is mandatory, as nothing says 'may', but only for mechs already in the space area when combat starts."
+@26
+N No source found.
+@27
+N No source found.
+@28
+N No source found.
+@29
+N No source found.
+@30
+E6 "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …? A: Mech Flips at start of Space Combat in player order timing."
+@31
+N No source found.
+@32
+N No source found.
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+N No source found.
+@37
+E6 RAW/Community: Eidelon Maximum treated as a ship: "Yes, it is a ship in that system."
+@38
+N No source found.
+@39
+E6 "Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes"

@@ -1,0 +1,111 @@
+@0
+E2 "When can a player make a prediction for the Nomad's Future Sight?": "Only when an ability lets you predict, usually a rider."
+@1
+N No source found.
+@2
+N No source found.
+@3
+I4 "'Resolved with no effect' is not an outcome that could have been predicted, so no prediction abilities can trigger." The cited Covert Legislation ruling does not address this.
+@4
+N No source found.
+@5
+N No source found.
+@6
+N No source found.
+@7
+N No source found.
+@8
+N No source found.
+@9
+N No source found.
+@10
+N No source found.
+@11
+N No source found.
+@12
+N No source found.
+@13
+E4 "Does Nomad's Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite's transaction does not affect performing a second transaction with the same player that turn."
+@14
+N No source found.
+@15
+N No source found.
+@16
+N No source found.
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+N No source found.
+@21
+E2 RulesPal, "Which trade good gains count for the Nomad agent Artuno?": "Trade goods gained from the supply, from action cards, agendas, the Trade card or exploration. Converting commodities doesn't count, and as written neither do trade goods taken off strategy cards."
+@22
+I2 Same entry: trade goods taken from a card are not counted.
+@23
+E2 RulesPal, "Which trade good gains count for the Nomad agent Artuno?": "Trade goods gained from the supply, from action cards, agendas, the Trade card or exploration. Converting commodities doesn't count, and as written neither do trade goods taken off strategy cards."
+@24
+N No source found.
+@25
+N No source found.
+@26
+N No source found.
+@27
+N No source found.
+@28
+N No source found.
+@29
+E2 RulesPal, "Can the Nomad agent be used in combats the Nomad aren't in?": "Yes — it has no participation requirement."
+@30
+N No source found.
+@31
+N No source found.
+@32
+N No source found.
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+N No source found.
+@37
+N No source found.
+@38
+N No source found.
+@39
+N No source found.
+@40
+N No source found.
+@41
+N No source found.
+@42
+N No source found.
+@43
+N No source found.
+@44
+N No source found.
+@45
+N No source found.
+@46
+N No source found.
+@47
+I1 LRR 40 (Game Round): "Players skip the agenda phase during the early portion of each game."
+@48
+E4 "Does the Nomad's Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? A: Yes."
+E2 RulesPal, "With the Nomad hero active, can the Memoria pick up units from systems with Nomad command tokens?": "Yes — the hero lets the flagship and the units it transports leave command-token systems."
+@49
+N No source found.
+@50
+N No source found.
+@51
+N No source found.
+@52
+N No source found.
+@53
+E4 "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat."
+@54
+N No source found.

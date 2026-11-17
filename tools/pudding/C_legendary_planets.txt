@@ -1,0 +1,23 @@
+@0
+N No source found.
+@1
+I8 Prophecy of Kings Rulebook, Primor (The Atrament): "You may exhaust this card at the end of your turn to place up to 2 infantry from your reinforcements on any planet you control." "any planet" is singular.
+@2
+N No source found.
+@3
+N No source found.
+@4
+N No source found.
+@5
+N No source found.
+@6
+E2 RulesPal, "Are there quick answers for Watchtower, Reflect, Garbozia's legendary ability …?": "Garbozia's legendary ability lets you choose which discarded action card to take." The cited entry (hand limit) does not address this.
+@7
+N No source found.
+@8
+N No source found.
+@9
+E6 "Q: The Galactic Council - Mecatol Rex: Can a player discard a scored secret objective? A: No, only discards from hand are permitted."
+@10
+E1 LRR 35.1: "When a player takes control of a planet that is not already controlled by another player, they explore that planet."
+I2 RulesPal, "When I find Mirage by exploring …": explored "since you gained control of a planet nobody controlled."

@@ -1,0 +1,22 @@
+@0
+E7 Thunder's Edge reference: "ENTROPIC SCAR (ANOMALY) ✦ UNIT ABILITIES cannot be used by or against units inside of an entropic scar."
+@1
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "(Sustain Damage, Production, Planetary Shield, Space Cannon, Bombardment, Deploy, and Anti-Fighter Barrage) cannot be used by or against units inside of an entropic scar."
+E2 RulesPal, "Does the Arborec commander work with a Letani in an Entropic Scar?": "the scar stops unit abilities being used but doesn't remove them."
+@2
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "Text abilities are unaffected."
+@3
+N No source found.
+@4
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: unit abilities "cannot be used by or against units inside of an entropic scar."
+@5
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "wormholes that would be placed inside of an entropic scar are discarded instead."
+E6 "Wormhole Generator will exhaust and place a token, which will then be discarded."
+@6
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies."
+@7
+E2 RulesPal, "If an effect lets me research a technology, do I pay for it?": "'Gain' is different from 'research': gaining ignores prerequisites."
+@8
+E6 "If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs? A: Yes, each Entropic Scar's ability can be resolved as different components."
+@9
+E6 "If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded."

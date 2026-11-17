@@ -1,0 +1,7 @@
+@0
+E1 LRR 100.2: "After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side."
+I2 RulesPal, "How do players reach the Wormhole Nexus …?": "Once a unit enters or someone gains Mallice, the Nexus flips."
+@1
+N No source found.
+@2
+N No source found.

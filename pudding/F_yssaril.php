@@ -1,0 +1,168 @@
+<?php include __DIR__ . "/../prefix.php"?>
+<header><h1>The Yssaril Tribes: Proof</h1></header>
+<article>
+<p>The source text behind each note on <a href="/F_yssaril">The Yssaril Tribes</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
+    <ol class="note">
+    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be cancelled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What is Yssaril&rsquo;s Stall Tactics for, and can it be Sabotaged?&rdquo;: &ldquo;It is a faction ability, not an action card, so Sabotage cannot cancel it.&rdquo;</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
+    <ol class="note">
+    <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li><sc>Scheming</sc> applies whenever the Yssaril player draws action cards.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The Yssaril&rsquo;s &lsquo;Scheming&rsquo; ability, however, is triggered each time that action cards are drawn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo;</li>
+        </ul></li>
+    <li>The Yssaril player will draw only one additional action card, regardless of how many action cards they are instructed to draw.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming.&rdquo; The discard may come from the hand.</li>
+        </ul></li>
+    <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo;</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Crafty">Crafty</a></h2>
+    <ol class="note">
+    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions"><i>Executive Sanctions</i></a> law does not affect the Yssaril player.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;Crafty does beat effects that cap hand size, such as Executive Sanctions.&rdquo; Yssaril is unaffected by Executive Sanctions hand cap.</li>
+        </ul></li>
+    <li><sc>Crafty</sc> does not prevent the Yssaril player from being made to discard action cards by other effects.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution &hellip; and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;The discard comes from being elected, not from the hand limit, so Yssaril must discard too.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo; &ldquo;Ignoring the hand limit doesn&rsquo;t stop effects that make you discard.&rdquo;</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Promissory_Note:~:text=Spy%20Net">Spy Net</a> <sub>(Promissory Note)</sub></h2>
+    <ol class="note">
+    <li>The player that plays <i>Spy Net</i> must look at the Yssaril player&rsquo;s hand of action cards. They do not have to read or memorize what they look at.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>A player may receive <i>Spy Net</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred&rdquo; in that window.</li>
+        </ul></li>
+    <ol><li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>Spy Net</i> more than once per turn.<sup>3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;The active player may negotiate only once with each of their neighbors per turn.&rdquo;</li>
+        </ul></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>
+    <ol class="note">
+    <li>When resolving <i>Mageon Implants</i>, the Yssaril player is not drawing a card. As such, <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> will not trigger.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo;</li>
+        </ul></li>
+    <li>The Yssaril player cannot show the other player&rsquo;s hand of action cards to any other players.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <ol><li>The Yssaril player may claim orally what action cards they saw.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After looking at another player&rsquo;s action cards (for example with Mageon Implants), can I tell other players what I saw?&rdquo;: &ldquo;Yes &mdash; nothing in the rules stops you from sharing or trading that information.&rdquo;</li>
+        </ul></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> <sub>(Technology)</sub></h2>
+    <ol class="note">
+    <li>Other players may resolve faction abilities, leader abilities or technology abilities during the Yssaril player&rsquo;s turns.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
+    <ol class="note">
+    <li>If the Yssaril player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Ssruu">Ssruu</a> <sub>(Agent)</sub></h2>
+    <ol class="note">
+    <li>If the Yssaril player duplicates an agent that allows a unit to roll an additional die, and both the duplicated agent and Ssruu target the same unit, that unit will roll two additional dice.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If the Yssaril player duplicates the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> agent, they may do so before or after other effects are used to modify any ship&rsquo;s move value. This includes the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> agent effect.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If both the Yssaril player and the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player wish to target the same player with the <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> agent ability, then they will both be able to capture a ship, resolving in initiative order from the active player. Both players will still use the target player&rsquo;s full commodity value to determine which units they may capture. Should the first player to resolve capture the last of a type of unit from the target player&rsquo;s reinforcements, the latter player cannot capture a unit of the same type.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If the Yssaril player duplicates the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a> agent, then the Yssaril player and the player targeted by the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability will draw action cards. The <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player will not.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>Duplicating the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trillossa%20Aun%20Mirik">Trillossa Aun Mirik</a> agent, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> agent or the <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar">Jol&ndash;Nar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Doctor%20Sucaban">Doctor Sucaban</a> agent during the same timing window as that agent is used will have no additional effect.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If either the Yssaril player or the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player resolve the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> agent, the other will be unable to resolve the same effect immediately. They must wait until dice are rolled again before they may resolve the effect.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=So%20Ata">So Ata</a> <sub>(Commander)</sub></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Kyver%2C%20Blade%20and%20Key">Kyver, Blade and Key</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Guild%20of%20Spies">Guild of Spies</a> <sub>(Hero)</sub></h2>
+    <ol class="note">
+    <li>Each other player chooses which action card they show the Yssaril player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>Taking action cards from a player using <i>Guild of Spies</i> will not trigger the Yssaril player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo;</li>
+        </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Mech:~:text=Blackshade%20Infiltrator">Blackshade Infiltrator</a> <sub>(Mech)</sub></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Breakthrough:~:text=Deepgloom%20Executable">Deepgloom Executable</a> <sub>(Breakthrough)</sub></h2>
+    <ol class="note">
+    <li>The Yssaril player may perform a transaction with another player without being neighbors with that player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>The Yssaril player may perform a transaction with another player even if neither player is the active player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <ol><li><i>Deepgloom Executable</i> may allow the Yssaril player to perform a transaction at a time they usually could not. For example, if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Yssaril player may allow either of those players to use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, and then perform a transaction with that player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
+    <li>The Yssaril player may allow another player to use one of their faction abilities whenever that ability would be used. That player may use it for the duration of that ability.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability.&rdquo;</li>
+        </ul></li>
+    </ol>
+</article>
+<?php include __DIR__ . "/../suffix.php"?>

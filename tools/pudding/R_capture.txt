@@ -1,0 +1,16 @@
+@0
+E1 LRR 14.2: "When a player blockades another player's space dock, if the blockaded player has captured any of the blockading player's units, those units are returned to the blockading player's reinforcements."
+I2 RulesPal, "If I win the space combat and then invade the planet with an enemy dock in the same action …?": "the dock is blockaded from the end of space combat until it is destroyed, so the units return."
+@1
+E1 LRR 17.1: "When such a unit is returned, it is placed into the reinforcements of the original owner."
+@2
+N No source found.
+@3
+E4 "What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."
+@4
+N No source found.
+@5
+E1 LRR 23.4a: "When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens."
+@6
+E1 LRR 17.6: "If one or more of a player's space docks is being blockaded, that player cannot capture units from the blockading players."
+E8 PoK rulebook p. 10: "If at least one of a player's space docks is being blockaded, they cannot capture units from the player who is blockading them."

@@ -1,0 +1,23 @@
+@0
+E5 FFG answer: "Because there is no partial movement, the Advanced Fighters can either reach the active system from their current system or they cannot. It is not possible to move them part of the way and have a carrier do the rest of the work."
+@1
+E1 LRR 58.5: "When a ship with a capacity value moves or is moved, it may transport ground forces and fighters."
+E2 RulesPal, "Can I retreat or Skilled Retreat into, or carry units out of, systems that contain my command token?": "retreating ships can carry units out of the combat system even if your token is there."
+E10 Codex I: "when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal."
+@2
+E2 RulesPal, "Can ground forces already on one planet invade another planet in the same system?": "Only if a ship with capacity picked them up into the space area during the movement step."
+@3
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
+E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
+@4
+E5 Same ruling: "You would have to leave some of them on the planet in this case."
+@5
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
+@6
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
+@7
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
+@8
+E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units."
+@9
+E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."

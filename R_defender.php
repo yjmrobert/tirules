@@ -3,14 +3,14 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '29.' counter(item, decimal);} </style>
-<p>During either a space or ground combat, the player who is not the active player is the defender.</p>
+<p data-src="1,3">During either a space or ground combat, the player who is not the active player is the defender.</p>
     <ol class="lrr">
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player that had their ships already in the system will be the defender.</li>
-    <ol><li>Resolving abilities will be by initiative order, starting with the Mahact player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.</li></ol>
+    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships already in the system will be the defender.<sup>4</sup></li>
+    <ol><li>Resolving abilities will be by initiative order, starting with the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.<sup>*</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

@@ -1,0 +1,35 @@
+@0
+E2 RulesPal, "Do players start the game with commodities, trade goods or action cards?": "No — nobody starts with commodities, trade goods or action cards."
+@1
+N No source found.
+@2
+E1 LRR FAQ: "Can you intentionally reveal hidden information to another player, such as an action card from your hand …? A: Yes. This information is kept hidden by default, but it is permissible to reveal it."
+E2 "Can I show my action cards or secret objectives to other players?": "you may reveal your own hidden cards to anyone at any time"
+E5 Designer ruling (sigmazero13, Jan 16, 2018): "There are no rules preventing players from showing an an action card from their hand."
+@3
+E1 LRR 23.5: "When a deck is depleted, players shuffle the deck's discard pile and place it facedown to create a new deck."
+@4
+E2 RulesPal, "In what order are action cards drawn in the status phase?": "In initiative order, though it rarely matters in practice."
+@5
+N No source found.
+@6
+N No source found.
+@7
+E2 RulesPal, "If my action card is cancelled by Sabotage, can I play another copy …?": "Yes — a cancelled card is treated as never having been played."
+E5 Designer ruling: "Because the card was cancelled, yes, you can play another copy of the same action card."
+@8
+E1 LRR FAQ: "'Lucky Shot' and other similar effects can only be used against other player's units and planets."
+E2 RulesPal: "abilities that destroy units can only be used against other players' units and planets."
+E5 Designer ruling (Yin4Life, 12/10/2018): "No, You cannot use Lucky Shot to target one of your own ships."
+@9
+E2 RulesPal, "Can I play an action card whose effect would amount to nothing …?": "Yes — doing the card's text with a result of zero still counts as resolving it."
+@10
+I5 Designer ruling (x3n d0g, 1/25/2019): "think Repeal Law when there are no laws in play" Repeal Law is the cited example of a card with no legal target that cannot be played.
+@11
+E1 LRR 2.4: "If a player ever has more than seven action cards, that player must choose seven cards to keep and discard the rest."
+E2 RulesPal, "If I have 7 action cards and draw 2 …?": "Draw both, then discard down to seven."
+E3 Learn to Play: "If a player exceeds this number, they must choose which seven cards they wish to keep and discard the rest."
+@12
+E2 RulesPal, "Is the action card discard pile face up, and can players look through it?": "Yes to both — discards are face up and public."
+E5 Designer ruling: "Action cards are discarded faceup and players may look through the discard deck."
+E4 "the discard is public knowledge."

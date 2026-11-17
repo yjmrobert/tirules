@@ -1,94 +1,92 @@
 <?php include "prefix.php"?>
 <header><h1>The Barony of Letnev</h1></header>
 <article>
-<h2>Munitions Reserves</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
     <ol class="note">
-    <li><sc>Munitions Reserves</sc> may only be triggered once per round. The Letnev player cannot spend four (or more) trade goods to get two (or more) rerolls.</li>
+    <li><sc>Munitions Reserves</sc> may only be used to reroll combat rolls. It cannot be used to reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
-<h2>Armada</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada">Armada</a></h2>
     <ol class="note">
-    <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.</li>
+    <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.<sup>*</sup></li>
     </ol>
 
-<h2>War Funding <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.</li>
-    <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
+    <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.<sup>2,5</sup></li>
+    <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.<sup>1</sup></li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.</li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.</li>
-        <li>If the active player received <i>War Funding</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
-        <li>If the attacker receives <i>War Funding</i> after the defender has played it, the attacker cannot play it during the same round of combat.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup></li>
+        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.<sup>3</sup></li>
     </ol>
+    <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
-<h2>War Funding &Omega; <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.</li>
+    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.</li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.</li>
-        <li>If the active player received <i>War Funding &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
-        <li>If the attacker receives <i>War Funding &Omega;</i> after the defender has played it, the attacker cannot play it during the same round of combat.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li>
+        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.<sup>3</sup></li>
     </ol>
-    <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
+    <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
-<h2>L4 Disruptors <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=L4%20Disruptors">L4 Disruptors</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>A player may still use the <sc>Space Cannon</sc> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.</li>
+    <li>A player may still use the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.<sup>*</sup></li>
     </ol>
 
-<h2>Non&ndash;Euclidean Shielding <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
-    <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <sc>Bombardment</sc> and <sc>Space Cannon</sc> abilities.</li>
-    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <sc>Sustain damage</sc> ability; they cannot cancel just one.</li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain damage</sc> ability to cancel it. If additional hits are produced against the Letnev player's units, such as with the <i>Reflective Shielding</i> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.</li>
+    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
+    <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> abilities.<sup>*</sup></li>
+    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
     </ol>
 
-<h2>Arc Secundus <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>The <i>Arc Secundus</i> is not repaired at the end of combat.</li>
-    <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.</li>
-    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.</li>
-    <ol><li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.</li></ol>
+    <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.<sup>*</sup></li>
+    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
+    <ol><li>The <i>Arc Secundus</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Viscount Unlenn <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
-    <li>The extra dice is mandatory for the chosen unit.</li>
+    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Anti-Fighter_Barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup></li>
+    <li>The extra dice is mandatory for the chosen unit.<sup>*</sup></li>
     </ol>
 
-<h2>Rear Admiral Farran <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Rear%20Admiral%20Farran">Rear Admiral Farran</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <sc>Armada</sc>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.</li>
-    <li>This effect may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
-    <ol><li>If the Ul player has the Letnev player&rsquo;s <i>Alliance</i> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain damage</sc> ability.</li></ol>
-    <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.</li>
-    <li>If multiple units use their <sc>Sustain Damage</sc> ability within a single step, the trade goods are gained one at a time.</li>
+    <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.<sup>*</sup></li>
+    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
+    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li></ol>
+    <li>A unit that becomes damaged without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
+    <li>If multiple units use their <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability within a single step, the trade goods are gained one at a time.<sup>2</sup></li>
     </ol>
 
-<h2>Darktalon Treilla &mdash; Dark Matter Affinity <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Darktalon%20Treilla">Darktalon Treilla</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Dark%20Matter%20Affinity">Dark Matter Affinity</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
-    <li>At the end of the game round the Letnev player might need to remove ships from the board to satisfy fleet pool limits.</li>
     </ol>
 
-<h2>Dunlain Reaper <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>A <sc>Deploy</sc> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.</li>
-    <ol><li>Further Dunlain Reapers may be placed in later rounds.</li></ol>
-    <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.</li>
-    <ol><li>If a Dunlain Reaper is destroyed during combat, then another may be deployed in a later round of the same combat.</li></ol>
+    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.<sup>1,8</sup></li>
+    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.<sup>1,8</sup></li>
     </ol>
 
-<h2>Gravleash Maneuvers <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.</li>
-    <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.</li>
+    <li>If a ship has its movement value increased by an ability such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup></li>
+    <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.<sup>*</sup></li>
+    <li>All effects that modify a ship&rsquo;s move value, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup></li>
+    <li>The combat bonus of <i>Gravleash Maneuvers</i> is assigned to a ship during the <b>Roll Dice</b> step of combat, and only applies to combat rolls. It does not apply to anti&ndash;fighter barrage rolls.<sup>6</sup></li>
+    <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup></li>
+    <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup></li>
+    <li>The +1 to move value from moving out of or through a gravity rift is not included in the move value copied by <i>Gravleash Maneuvers</i>.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

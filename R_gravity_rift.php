@@ -3,37 +3,30 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '41.' counter(item, decimal);} </style>
-<p>A gravity rift is an anomaly that affects movement.</p>
+<p data-src="1">A gravity rift is an anomaly that affects movement.</p>
     <ol class="lrr">
-    <li>A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value.</li>
-    <ol><li>This can allow a ship to reach the active system from farther away than it normally could.</li></ol>
-    <li>For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1&ndash;3, that ship is removed from the board.</li>
+    <li data-src="1,2,3,8">A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value.</li>
+    <ol><li data-src="1,2,5">This can allow a ship to reach the active system from farther away than it normally could.</li></ol>
+    <li data-src="1,2,3,8,10">For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1&ndash;3, that ship is removed from the board.</li>
     <ol>
-        <li>Dice are not rolled for units that are being transported by ships that have capacity.</li>
-        <li>Units that are being transported are removed from the board if the ship transporting them is removed from the board.</li>
-        <li>Units that are removed are returned to the player&rsquo;s reinforcements.</li>
+        <li data-src="1,2,5">Dice are not rolled for units that are being transported by ships that have capacity.</li>
+        <li data-src="1,2">Units that are being transported are removed from the board if the ship transporting them is removed from the board.</li>
+        <li data-src="1,3,10">Units that are removed are returned to the player&rsquo;s reinforcements.</li>
     </ol>
-    <li>A gravity rift can affect the same ship multiple times during a single movement.</li>
-    <li>A system that contains multiple gravity rifts is treated as a single gravity rift.</li>
+    <li data-src="1,6">A gravity rift can affect the same ship multiple times during a single movement.</li>
+    <li data-src="1,2">A system that contains multiple gravity rifts is treated as a single gravity rift.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.</li>
-    <li>A ship removed by a gravity rift is not destroyed.</li>
-    <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.</li>
-    <li>A ship that is removed by a gravity rift will not count toward the fleet limit in the destination system.</li>
-    <li>Retreating from a gravity rift will result in the following:</li>
-    <ol>
-        <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.</li>
-        <li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal. Transported units are also removed if the ship transporting them is removed.</li>
-        <li>The +1 will have no effect, as retreats are restricted to adjacent systems.</li>
-        <li>If all ships are lost to the rift, the retreating player will not place a command token in the destination system.</li>
-    </ol>
-    <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.</li>
-    <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.</li>
-    <li>A system containing a Vuil&rsquo;raith Dimensional Tear is a gravity rift, and thus an anomaly.</li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
+    <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.<sup>2</sup></li>
+    <li>A ship removed by a gravity rift is not destroyed.<sup>10</sup></li>
+    <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.<sup>1,2</sup></li>
+    <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup></li>
+    <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.<sup>1,2,8</sup></li>
+    <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.<sup>*</sup></li>
+    <li>A system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil'Raith_Cabal">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

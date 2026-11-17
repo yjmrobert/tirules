@@ -1,0 +1,33 @@
+@0
+E2 RulesPal, "Can Sol's Orbital Drop be used more than once a round …?": "It can be used as many times as you have tokens in your strategy pool, each use as a separate action."
+@1
+E2 RulesPal, "Is Hyper Metabolism misprinted?": "It stacks with Sol's extra token, so Sol with it gains 4."
+@2
+N No source found.
+@3
+I2 RulesPal, "How often can Sol's Military Support be used?": "it is used at the start of Sol's turn." The turn Sol passes still starts.
+@4
+E2 RulesPal, "Does Sol's Military Support work if Sol has no strategy token …?": "It works without a token — the note only spends Sol's strategy token if able."
+E5 Designer ruling, quoting the card: "Remove 1 token from the Sol player's strategy pool, if able."
+@5
+E1 LRR FAQ: "a promissory note with 'At the start of your turn:' timing may be immediately played if the transaction occurred" in that window.
+I5 Designer ruling: "You can trade a promissory note and have it be immediately used during the start of turn window."
+@6
+E5 Designer ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window (in the case of the Federation of Sol's case, for example)."
+E2 RulesPal, "How often can Sol's Military Support be used?": "At most once per Sol turn."
+@7
+N No source found.
+@8
+N No source found.
+@9
+N No source found.
+@10
+N No source found.
+@11
+E2 RulesPal, "Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?": "No — ground combat only happens if both players still have ground forces on the planet after those steps." The cited entry (Sardakk commander) does not address this.
+@12
+N No source found.
+@13
+N No source found.
+@14
+N No source found.

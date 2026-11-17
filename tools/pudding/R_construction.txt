@@ -1,0 +1,14 @@
+@0
+E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
+I3 Learn to Play describes space docks; the limit is in the LRR.
+E2 "Can I build space docks or PDS with Production?": "A planet holds at most one space dock and two PDS, Mecatol Rex included."
+@1
+E1 LRR 85.5: "A player can have a maximum of two PDS units on each planet."
+E2 "Can I build space docks or PDS with Production?": "A planet holds at most one space dock and two PDS, Mecatol Rex included."
+E3 Learn to Play: "Players are limited to two PDS units and one space dock on each planet."
+@2
+I1 LRR FAQ: on a Demilitarized Zone planet, "infantry cannot be placed on the elected planet." Structures are not addressed.
+@3
+E2 RulesPal, "Do I pay resources for the structures placed with Construction?": "No — space docks and PDS have no cost. Construction places them; it isn't production, so production rules don't apply."
+@4
+E2 RulesPal, "How does the Thunder's Edge Construction card differ?": "It doesn't activate the system or care whether it was activated."

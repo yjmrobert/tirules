@@ -1,85 +1,80 @@
 <?php include "prefix.php"?>
 <header><h1>The Winnu</h1></header>
 <article>
-<h2>Blood Ties</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Blood%20Ties">Blood Ties</a></h2>
     <ol class="note">
-    <li>The Winnu player must still commit at least one ground force to Mecatol Rex to remove the custodians token.</li>
     </ol>
 
-<h2>Reclamation</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Reclamation">Reclamation</a></h2>
     <ol class="note">
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.</li>
-    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex when resolving <sc>Reclamation</sc>.</li>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup></li>
     </ol>
 
-<h2>Acquiescence <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.</li>
-    <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which one strategy card from each player are swapped.</li>
+    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>5</sup></li>
+    <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which one strategy card from each player are swapped.<sup>*</sup></li>
     </ol>
 
-<h2>Acquiescence &Omega; <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player plays <i>Acquiescence &Omega;</i> when the Winnu player is resolving the <i>Construction</i> strategy card, that player will not place a command token in the system they placed their structure in.</li>
-    <li>If the Muaat player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.</li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.<sup>*</sup></li>
     </ol>
 
-<h2>Hegemonic Trade Policy <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>Changing a planet&rsquo;s resource value will affect the <sc>Production</sc> value of a Space Dock on that planet.</li>
+    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>.&rdquo;<sup>1</sup></li>
+    <li>Changing a planet&rsquo;s resource value will affect the <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> value of a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a> on that planet.<sup>*</sup></li>
     </ol>
 
-<h2>Lazax Gate Folding <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding">Lazax Gate Folding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>While <i>Lazax Gate Folding</i> is exhausted, the wormhole passive effect still applies if its conditions are met.</li>
-    <li><i>Lazax Gate Folding</i> may cause the Mecatol Rex system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.</li>
+    <li>While <i>Lazax Gate Folding</i> is exhausted, the wormhole passive effect still applies if its conditions are met.<sup>2,5</sup></li>
+    <li><i>Lazax Gate Folding</i> may cause the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup></li>
     <ol>
-        <li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.</li>
-        <li>Other players may use the <sc>Deep Space Cannon</sc> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.</li>
-        <li>Units in the Mecatol Rex system with the <sc>Deep Space Cannon</sc> ability may use it during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the active system contains an alpha or beta wormhole.</li>
-        <li>A player may retreat to a system containing an alpha or beta wormhole from the Mecatol Rex system, or vice versa, during the Winnu player&rsquo;s tactical action.</li>
-        <li>The Creuss player may use their Dimensional Splicer faction technology ability in the Mecatol Rex System during the Winnu player&rsquo;s tactical action.</li>
+        <li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.<sup>1,5</sup></li>
+        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system is the active system.<sup>5</sup></li>
+        <li>A player may retreat to a system containing an alpha or beta wormhole from the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system during the Winnu player&rsquo;s tactical action.<sup>5</sup></li>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup></li>
     </ol>
-    <li>The Winnu player may use the component action of <i>Lazax Gate Folding</i> if they do not control Mecatol Rex. If they do, they must exhaust it, and there will be no additional effect.</li>
-    </ol>
-
-<h2>Salai Sai Corian <sub>(Flagship)</sub></h2>
-    <ol class="note">
-    <li>If the Winnu player&rsquo;s opponent has only fighters participating in the combat, the <i>Salai Sai Corian</i> will roll no dice.</li>
-    <li>During a combat against the Nekro player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the Nekro player&rsquo;s infantry participating in the combat when determining how many dice to roll.</li>
+    <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a>.<sup>2,3,5</sup></li>
     </ol>
 
-<h2>Berekar Berekon <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Flagship:~:text=Salai%20Sai%20Corian">Salai Sai Corian</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li><sc>Production</sc> limits still apply.</li>
+    <li>If the Winnu player&rsquo;s opponent has only fighters participating in the combat, the <i>Salai Sai Corian</i> will roll no dice.<sup>2</sup></li>
+    <li>During a combat against the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup></li>
     </ol>
 
-<h2>Rickar Rickani <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Berekar%20Berekon">Berekar Berekon</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>If Rickar Rickani is unlocked via a combat in the Mecatol Rex system, then the +2 will apply to combat rolls during that combat.</li>
-    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <i>Nano&ndash;Forge</i> relic to Mecatol Rex), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).</li>
     </ol>
 
-<h2>Mathis Mathinus &mdash; Imperial Seal <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <i>Leadership</i> strategy card and potentially the <i>Trade</i> strategy card.</li>
-    <ol><li>In the case of the <i>Construction</i> strategy card, the command token is placed as required on the game board.</li></ol>
-    <li>If the Winnu player chooses the <i>Trade</i> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.</li>
-    <li><i>Acquiescence &Omega;</i> cannot be triggered by this ability.</li>
+    <li>If Rickar Rickani is unlocked via a combat in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system, then the +2 will apply to combat rolls during that combat.<sup>*</sup></li>
+    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic to <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a>), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup></li>
     </ol>
 
-<h2>Reclaimer <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.</li>
-    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on the newly controlled planet.</li>
-    <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.</li>
-    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <i>Infiltrate</i> action card, or some exploration cards.</li>
+    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="https://twilight-imperium.fandom.com/wiki/Leadership_(Strategy_card)"><i>Leadership</i></a> strategy card and potentially the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card.<sup>2</sup></li>
+    <li>If the Winnu player chooses the <a href="https://twilight-imperium.fandom.com/wiki/Trade_(Strategy_card)"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability.<sup>*</sup></li>
     </ol>
 
-<h2>Imperator <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <i>Support for the Throne</i> in their opponent&rsquo;s play area.</li>
-    <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.</li>
+    <li>If the Winnu player places a Reclaimer with the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup></li>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="https://twilight-imperium.fandom.com/wiki/Space_Dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup></li>
+    <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.<sup>*</sup></li>
+    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, or some exploration cards.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Breakthrough:~:text=Imperator">Imperator</a> <sub>(Breakthrough)</sub></h2>
+    <ol class="note">
+    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> in their opponent&rsquo;s play area.<sup>*</sup></li>
+    <li>If their opponent receives a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

@@ -1,0 +1,7 @@
+@0
+N No source found.
+@1
+E1 LRR 3.3a: "During a turn that a player passes, they can resolve transactions and 'at the start of your turn' abilities."
+E4 "Can you resolve end of turn abilities on the turn you pass? A: Yes."
+@2
+N No source found.

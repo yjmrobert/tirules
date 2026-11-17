@@ -1,0 +1,68 @@
+@0
+E7 Thunder's Edge Rulebook p. 11, Coexist: "Some game effects allow a player's units to coexist with other units on a planet. When a unit or units coexist with another player's units, they do not trigger combat."
+@1
+E7 Thunder's Edge Rulebook p. 11, Coexist: "The player whose units triggered coexistence does not gain or retain control of the planet."
+@2
+E7 Thunder's Edge Rulebook p. 11, Coexist: "The player whose units triggered coexistence does not gain or retain control of the planet."
+@3
+E7 Thunder's Edge Rulebook p. 11, Coexist: "if they already controlled it, the player they are now coexisting with gains control of it instead, exhausted."
+@4
+E6 "Are coexisting non-structure units with PRODUCTION blockaded? A: Yes, coexisting units are always blockaded."
+E9 Designer Q&A, "Coexistence and PRODUCTION": "Coexisting units can produce ground forces but are always blockaded and cannot produce ships."
+@5
+E6 "What if a planet owned by DWS gets invaded by the Firmament mechs? … A: Both coexistences happen in the same timing window, so it will go by active player order, the active player is given the opportunity to coexist first, and if they decline, then the other player may choose to coexist."
+@6
+E6 "During the Invasion step of a tactical action, control is not exchanged until the Establish Control step. At all other times, control is exchanged immediately after the coexisting player becomes the only player with units on the planet."
+@7
+E6 "You may fire PDS defense against the active player's committed ground forces after entering coexistence … you do not lose control of the planet when you enter coexistence until the Establish Control step."
+@8
+E6 "When you end coexistence, you end coexistence for all of your units on that planet, including structures."
+@9
+E6 "Planetary Shield from any units on the planet applies to the planet itself and thus protects all units on the planet. All PDS on a planet may use Space Cannon during Space Cannon Defense against units committed from space by the active player."
+@10
+E7 Thunder's Edge Rulebook p. 11, Coexist: "Coexisting structures are always blockaded."
+E6 "coexisting units are always blockaded."
+E9 Designer Q&A: "Coexisting units … are always blockaded."
+@11
+E7 Thunder's Edge Rulebook p. 11, Coexist: "If the coexisting player places, produces, or moves additional units onto that planet, those units also coexist."
+@12
+E7 Thunder's Edge Rulebook p. 11, Coexist: "If a player's coexisting units become the only units on a planet, that player gains control of the planet."
+I9 Designer Q&A, "Coexistence Control Default (With Multiple Coexisting Players)."
+@13
+E7 Thunder's Edge Rulebook p. 11, Coexist: "When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player's units, rolling against each player separately."
+@14
+E7 Thunder's Edge Rulebook p. 11, Coexist: "they choose which of their units with bombardment are bombarding which other player's units."
+@15
+I7 Same passage: "rolling against each player separately."
+@16
+E7 Thunder's Edge Rulebook p. 11, Coexist: "Coexisting units can have combat initiated against them by units being committed to the planet that contains them, including units that they were already coexisting with."
+@17
+E7 Thunder's Edge Rulebook p. 11, Coexist: "a coexisting player may choose to end their coexistence by activating the coexisting unit's system and committing the coexisting units against the planet they are coexisting on."
+@18
+E7 Thunder's Edge Rulebook p. 11, Coexist: "When a unit or units coexist with another player's units, they do not trigger combat." Only units with a coexist effect avoid combat.
+@19
+E7 Thunder's Edge Rulebook p. 11, Coexist: "If a player does wish to engage coexisting units, they may optionally engage a coexisting player's units after winning a combat against the planet's owner, initiating separate combats against any coexisting player as desired."
+@20
+E6 "Yes, coexist's control counts for any rule regarding 'scoring objectives'."
+E9 Designer Q&A, "Coexistence, Perspective During Scoring": "the coexisting player sees both themselves and the controlling player as controlling that planet when scoring objectives."
+E7 Thunder's Edge Rulebook p. 11, Coexist: "When scoring objectives" a coexisting player counts as controlling the planet.
+@21
+E9 Designer Q&A, "Coexistence Control Default (With Multiple Coexisting Players)": "Control defaults to the next player in order as per ability resolution order by phase (initiative order during action phase, otherwise clockwise)."
+E6 "Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases."
+@22
+E9 Designer Q&A, "Coexistence, Perspective During Scoring": "Only the coexisting player counts themselves as controlling that planet. The player the coexisting player is coexisting with does not count the coexisting player as also controlling that planet."
+@23
+E9 Designer Q&A, "Scoring Public Objectives Coexisting At Home": "Yes, you may score public objectives even if you coexist on but do not outright control each planet in your home system."
+E6 "Can a player score public objectives if they coexist in their own home system? A: Yes."
+@24
+E9 Designer Q&A, "Coexist and Exploration": "You must control a planet outright to explore it."
+@25
+E9 Same answer: "You cannot spend other player's units to pay for explore cards' costs."
+@26
+E9 Designer Q&A, "Coexist Control Default (During Invasions)": "During invasion, control default due to coexistence does not occur until the establish control step. The invading player may land ground forces and take control of the planet."
+@27
+E9 Designer Q&A, "Coexistence and PRODUCTION": "Coexisting units can produce ground forces but are always blockaded and cannot produce ships."
+@28
+E9 Designer Q&A, "Coexistence and Structures": "Structures without ground forces may maintain control of a planet with coexisting ground forces."
+@29
+E9 Same answer: "Structures without ground forces may coexist by themselves."

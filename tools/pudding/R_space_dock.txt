@@ -1,0 +1,7 @@
+@0
+E1 LRR 79: "A space dock is a structure that allows players to produce units."
+I2 RulesPal, on the Hel-Titan: "It is a structure as well as a ground force."
+@1
+E1 LRR 95.1a: "These transported units remain with the transporting ship until it is finished moving."
+E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "No — only while moving."
+I5 Designer ruling (sigmazero13, Aug 24, 2018): "The intent is that the units are dropped off after the ship has ended its movement in the active system." Units stay aboard until movement ends.

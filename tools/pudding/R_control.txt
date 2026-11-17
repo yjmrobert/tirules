@@ -1,0 +1,6 @@
+@0
+I1 LRR 72.1: "The components in a player's reinforcements are limited." Reinforcements are units and command tokens; control tokens are not listed.
+@1
+E2 RulesPal, "Can different players control different planets in the same system?": "Yes — each planet is controlled separately and nobody controls the space area."
+@2
+E2 RulesPal, "When a planet card is given to another player, by an exploration effect or the Hacan mech, does control go with it?": "Yes — control and holding the planet card go together, so the receiver controls the planet."

@@ -1,0 +1,7 @@
+@0
+E2 RulesPal, "Which systems count as anomalies?": "Only tiles with a red border: asteroid fields, nebulae, gravity rifts and supernovas. Empty systems and wormhole systems are not anomalies unless bordered." The cited entry (adjacency for objectives) does not address this.
+@1
+E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered." The cited entry (Creuss wormholes) does not address this.
+@2
+E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."

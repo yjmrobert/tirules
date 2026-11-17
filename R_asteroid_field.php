@@ -3,15 +3,15 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '11.' counter(item, decimal);} </style>
-<p>An asteroid field is an anomaly that affects movement.</p>
+<p data-src="1,3">An asteroid field is an anomaly that affects movement.</p>
     <ol class="lrr">
-    <li>A ship cannot move through or into an asteroid field.</li>
+    <li data-src="1,3">A ship cannot move through or into an asteroid field.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A player with the <i>Antimass Deflectors</i> technology may move their ships through asteroid fields.</li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
+    <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology may move their ships through asteroid fields.<sup>2</sup></li>
+    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

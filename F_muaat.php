@@ -1,95 +1,103 @@
 <?php include "prefix.php"?>
 <header><h1>The Embers of Muaat</h1></header>
 <article>
-<h2>Star Forge</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Star%20Forge">Star Forge</a></h2>
     <ol class="note">
-    <li>The Muaat player cannot use <sc>Star Forge</sc> if the do not have a war sun on the game board.</li>
+    <li>The Muaat player cannot use <sc>Star Forge</sc> if they do not have a war sun on the game board.<sup>*</sup></li>
+    <li>Ships placed with <sc>Star Forge</sc> are not produced, and do not trigger effects that occur when units use <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>2</sup></li>
     </ol>
 
-<h2>Gashlai Physiology</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Fires of the Gashlai <sub>(Promissory Note)</sub></h2>
-    <ol class="note">
-    <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.</li>
-    </ol>
-
-<h2>Magmus Reactor <sub>(Technology)</sub></h2>
-    <ol class="note">
-    <li>The war sun must be in the system prior to the use of <sc>Production</sc> to gain the trade good.</li>
-    <li>The trade good is gained after the use of <sc>Production</sc>; it cannot be used to pay for the produced units.</li>
-    </ol>
-
-<h2>Magmus Reactor &Omega; <sub>(Technology)</sub></h2>
-    <ol class="note">
-    <li>If the Muaat player has a unit in a system containing a supernova, they cannot be eliminated.</li>
-    </ol>
-
-<h2>Prototype War Sun <sub>(Unit)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Gashlai%20Physiology">Gashlai Physiology</a></h2>
     <ol class="note">
     </ol>
 
-<h2>The Inferno <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai">Fires of the Gashlai</a> <sub>(Promissory Note)</sub></h2>
+    <ol class="note">
+    <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.<sup>4</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> <sub>(Technology)</sub></h2>
+    <ol class="note">
+    <li>The war sun must be in the system prior to the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup></li>
+    <li>The trade good is gained after the use of <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor &Omega;</a> <sub>(Technology)</sub></h2>
+    <ol class="note">
+    <li>If the Muaat player has a unit in a system containing a supernova, they cannot be eliminated.<sup>*</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2>Umbat <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Flagship:~:text=The%20Inferno">The Inferno</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>The produced units must be paid for.</li>
-    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be produced.</li>
-    <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their war sun or flagship.</li>
-    <li>If the Naalu or Yin players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.</li>
-    <ol><li>If the <i>Regulated Conscription</i> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.</li></ol>
     </ol>
 
-<h2>Magmus <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.</li>
-    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.</li>
+    <li>The produced units must be paid for.<sup>1</sup></li>
+    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
+    <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their war sun or flagship.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup></li>
+    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup></li></ol>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus">Magmus</a> <sub>(Commander)</sub></h2>
+    <ol class="note">
+    <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.<sup>*</sup></li>
+    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> objective), they gain that many trade goods, one at a time.<sup>*</sup></li>
     <ol>
-        <li>Each trade good gained may trigger the Mentak player&rsquo;s <sc>Pillage</sc> faction ability.</li>
-        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <i>Form a Spy Network</i> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, Suffi An, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.</li>
+        <li>Each trade good gained may trigger the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>*</sup></li>
+        <li>If the Muaat player wishes to score <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a> during the one status phase, they must do so simultaneously, and both happen before the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability. If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a>, then the Muaat player cannot discard the drawn action card for <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a>.<sup>*</sup></li>
     </ol>
-    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i> relic, they will be unable to benefit from the ability of Magmus.</li>
-    <li>The Muaat player must have Magmus unlocked before spending the strategy token in order to gain the trade good.</li>
-    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <i>Warfare</i> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.</li></ol>
-    </ol>
-
-<h2>Adjudicator Ba&rsquo;al &mdash; Nova Seed <sub>(Hero)</sub></h2>
-    <ol class="note">
-    <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement. For example, the Muaat player may trigger <i>Nova Seed</i> when they retreat.</li>
-    <ol><li>If the Mahact player moves the Muaat player&rsquo;s war sun via the use of their <i>Benediction</i> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.</li></ol>
-    <li>If the war sun is in the target system when it is activated, it must move out of the system, and back in, for <i>Nova Seed</i> to be able to be triggered.</li>
-    <li>Any command tokens, frontier tokens and the Muaat player&rsquo;s units on the replaced system tile are transferred to the new supernova tile. Any Creuss wormhole tokens are returned to the Creuss player and any Ul sleeper tokens are returned to the Ul player. All other tokens are purged.</li>
-    <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <i>Magmus Reactor</i>.</li>
-    <li>If the Muaat player owns <i>Magmus Reactor &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.</li>
-    <li><i>Nova Seed</i> cannot target the home system of an eliminated player.</li>
-    <li><i>Nova Seed</i> may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile 82).</li>
-    <li>The Empyrean player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.</li>
+    <li>If the Muaat player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup></li>
+    <li>The Muaat player must have Magmus unlocked before spending the strategy token in order to gain the trade good.<sup>*</sup></li>
+    <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Ember Colossus <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Adjudicator%20Ba%27al">Adjudicator Ba&rsquo;al</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed">Nova Seed</a> <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement. For example, the Muaat player may trigger <i>Nova Seed</i> when they retreat.<sup>*</sup></li>
+    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player moves the Muaat player&rsquo;s war sun via the use of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.<sup>*</sup></li></ol>
+    <li>If the war sun is in the target system when it is activated, it must move out of the system, and back in, for <i>Nova Seed</i> to be able to be triggered.<sup>*</sup></li>
+    <li><i>Nova Seed</i> purges all tokens on the replaced system tile other than command tokens and frontier tokens. Any faction&ndash;specific tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> wormhole tokens or <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul">Ul</a> sleeper tokens, are returned to the player that owns them instead.<sup>4</sup></li>
+    <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a>.<sup>2</sup></li>
+    <li>If the Muaat player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor &Omega;</i></a>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.<sup>*</sup></li>
+    <li><i>Nova Seed</i> cannot target the home system of an eliminated player.<sup>*</sup></li>
+    <li><i>Nova Seed</i> may target the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) or the Wormhole Nexus (tile 82).<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean">Empyrean</a> player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.<sup>*</sup></li>
+    <li><i>Nova Seed</i> cannot replace a system tile in the Fracture, such as the system containing Styx.<sup>6,9</sup></li>
+    <li>If the Muaat player moves a war sun into a system containing the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player&rsquo;s ships, the Muaat player, as the active player, may resolve <i>Nova Seed</i> before the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective">Naalu</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>2</sup></li>
     </ol>
 
-<h2>Stellar Genesis <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Mech:~:text=Ember%20Colossus">Ember Colossus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Muaat player explores Avernus when they gain it.</li>
-    <li>The Muaat player may move Avernus even if another player controls it.</li>
-    <li>Avernus may be moved into a system containing another player&rsquo;s units.</li>
-    <li>Structures may be placed on Avernus.</li>
+    <li>If multiple Ember Colossi are in or adjacent to the system, each places one infantry.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Stellar%20Genesis">Stellar Genesis</a> <sub>(Breakthrough)</sub></h2>
+    <ol class="note">
+    <li>The Muaat player explores Avernus when they gain it.<sup>*</sup></li>
+    <li>The Muaat player may move Avernus even if another player controls it.<sup>*</sup></li>
+    <li>Avernus may be moved into a system containing another player&rsquo;s units.<sup>*</sup></li>
+    <li>Structures may be placed on Avernus.<sup>*</sup></li>
     <ol>
-        <li>Any PDS (or other relevant unit) on Avernus may use its <sc>Space Cannon</sc> ability during the movement step of the same tactical action the planet is moved.</li>
-        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <sc>Production</sc> ability during the production step of the same tactical action the planet is moved.</li>
+        <li>Any PDS (or other relevant unit) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability during the movement step of the same tactical action the planet is moved.<sup>*</sup></li>
+        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup></li>
     </ol>
+    <li>If the Muaat player moves Avernus into a supernova while another player has units on it, those units are unaffected.<sup>6</sup></li>
     </ol>
 
-<h2>Avernus &mdash; The Nucleus <sub>(Legendary Planet)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Avernus">Avernus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Specific_Components:~:text=The%20Nucleus">The Nucleus</a> <sub>(Legendary Planet)</sub></h2>
     <ol class="note">
-     <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
-     <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.</li>
-     <li>If another player controls Avernus, they may use <i>The Nucleus</i> only if they have a war sun on the game board.</li>
+    <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
+    <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.<sup>*</sup></li>
+    <li>If another player controls Avernus, they may use <i>The Nucleus</i> only if they have a war sun on the game board.<sup>*</sup></li>
+    <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup></li>
+    <li>If the Muaat player is eliminated, Avernus, its token, its planet card, and its legendary planet ability card remain in play.<sup>6</sup></li>
+    <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup></li>
     </ol>
 
 </article>

@@ -3,17 +3,17 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '76.' counter(item, decimal);} </style>
-<p>A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns. Each race also has a unique flagship.</p>
+<p data-src="1,2">A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns. Each race also has a unique flagship.</p>
     <ol class="lrr">
-    <li>Ships are always placed in space.</li>
-    <li>A player can have a number of ships in a system equal to or less than the number of command tokens in that player&rsquo;s fleet pool.</li>
-    <ol><li>Fighters do not count toward the fleet pool limit, and instead count against a player&rsquo;s capacity.</li></ol>
-    <li>Ships can have any number of the following attributes: cost, combat, move, and capacity. These attributes are shown on faction sheets and unit upgrade technology cards.</li>
+    <li data-src="1,3">Ships are always placed in space.</li>
+    <li data-src="1,3">A player can have a number of ships in a system equal to or less than the number of command tokens in that player&rsquo;s fleet pool.</li>
+    <ol><li data-src="1,3">Fighters do not count toward the fleet pool limit, and instead count against a player&rsquo;s capacity.</li></ol>
+    <li data-src="1">Ships can have any number of the following attributes: cost, combat, move, and capacity. These attributes are shown on faction sheets and unit upgrade technology cards.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A Fighter II may count towards either the fleet pool limit or a player&rsquo;s capacity.</li>
+    <li>A Fighter II may count towards either the fleet pool limit or a player&rsquo;s capacity.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -1,0 +1,2 @@
+@0
+E2 RulesPal, "What does spending a command token 'from your reinforcements' mean?": "You need a token in reinforcements to pay; it isn't purged or moved to your sheet, so it normally just stays in reinforcements, or goes on the board if the effect says so."

@@ -1,99 +1,94 @@
 <?php include "prefix.php"?>
 <header><h1>The Naaz&ndash;Rokha Alliance</h1></header>
 <article>
-<h2>Distant Suns</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Distant_Suns">Distant Suns</a></h2>
     <ol class="note">
-    <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.</li>
-    <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.</li>
-    <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.</li>
+    <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup></li>
+    <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.<sup>4</sup></li>
+    <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.<sup>*</sup></li>
+    <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup></li>
     </ol>
 
-<h2>Fabrication</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Fabrication">Fabrication</a></h2>
     <ol class="note">
-    <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.</li>
-    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they may still purge one relic fragment as an action.</li>
-    <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.</li>
+    <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.<sup>4</sup></li>
+    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they may still purge one relic fragment as an action.<sup>4</sup></li>
+    <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup></li>
     </ol>
 
-<h2>Black Market Forgery <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Promissory_Note:~:text=Black%20Market%20Forgery">Black Market Forgery</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If there are no cards in the relic deck, a player cannot gain a relic. As such, a player cannot play <i>Black Market Forgery</i> when the relic deck is empty.</li>
-    <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.</li>
+    <li>If there are no cards in the relic deck, a player cannot gain a relic.<sup>1,4</sup></li>
+    <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup></li>
     </ol>
 
-<h2>Pre&ndash;Fab Arcologies <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Pre-Fab%20Arcologies">Pre&ndash;Fab Arcologies</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The planet is not readied until after the planet is explored. If the <i>Freelancers</i> exploration card is revealed, then:</li>
+    <li>The planet is not readied until after the planet is explored.<sup>2</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Freelancers"><i>Freelancers</i></a> exploration card is revealed, then:<sup>*</sup></li>
     <ol>
-        <li>If the planet was exhausted before the exploration, its influence or resources cannot be spent to produce the unit.</li>
-        <li>If the planet was readied before the exploration, its influence or resources may be spent to produce the unit by exhausting it. After the unit is produced, the planet will then be readied.</li>
+        <li>If the planet was exhausted before the exploration, its influence or resources cannot be spent to produce the unit.<sup>*</sup></li>
+        <li>If the planet was readied before the exploration, its influence or resources may be spent to produce the unit by exhausting it. After the unit is produced, the planet will then be readied.<sup>*</sup></li>
     </ol>
     </ol>
 
-<h2>Supercharge <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge">Supercharge</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Supercharge</i> does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
+    <li><i>Supercharge</i> does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup></li>
     </ol>
 
-<h2>Visz El Vir <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir">Visz El Vir</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>Each mech will roll an additional die.</li>
-    <li>The <i>Visz El Vir</i> ability applies to both Eidolon and Z&ndash;Grav Eidolon.</li>
+    <li>Each mech will roll an additional die.<sup>*</sup></li>
+    <li>The <i>Visz El Vir</i> ability applies to both Eidolon and Z&ndash;Grav Eidolon.<sup>*</sup></li>
     </ol>
 
-<h2>Garv and Gunn <sub>(Agent)</sub></h2>
-    <ol class="note">
-    </ol>
-
-<h2>Dart and Tai <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Garv%20and%20Gunn">Garv and Gunn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2>Hesh and Prit &mdash; Perfect Synthesis <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Dart%20and%20Tai">Dart and Tai</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.</li>
-    <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.</li></ol>
-    <li>The Naaz&ndash;Rokha player must choose which strategy cards they will perform the secondary abilities of before they resolve any of those abilities.</li>
-    <li>When resolving the abilities of two strategy cards, they may be resolved in either order. Game objects affected by the first strategy card ability may be affected by the second.</li>
-    <ol>
-        <li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <i>Diplomacy</i> and <i>Warfare</i> strategy cards. They may resolve the <i>Diplomacy</i> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <i>Warfare</i> ability. Alternatively, they may resolve the <i>Warfare</i> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <i>Diplomacy</i> ability to ready those same planets.</li>
-    </ol>
-    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
-    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.</li>
-    <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
     </ol>
 
-<h2>Eidolon /<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Hesh%20and%20Prit">Hesh and Prit</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Perfect%20Synthesis">Perfect Synthesis</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.</li>
-    <li>If the Naaz&ndash;Rokha player had  an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.</li>
-    <ol>
-        <li>All other players will have the opportunity to resolve an ability between the Naaz&ndash;Rokha player resolving their Eidolon ability and any other ability.</li>
-        <li>If the Naaz&ndash;Rokha player owns the <i>Assault Cannon</i> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <i>Assault Cannon</i> technology ability. </li>
-    </ol>
-    <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
-    <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
-    <li>A Z&ndash;Grav Eidolon participating in a space combat may count towards scoring the <i>Demonstrate Your Power</i> secret objective.</li>
-    <li>When a Z&ndash;Grav Eidolon reverts back to an Eidolon at the end of combat, it will count towards capacity in the active system. Capacity limits must be met before proceeding to the <b>Invasion</b> step.</li>
+    <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.<sup>2</sup></li>
+    <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.<sup>*</sup></li></ol>
+    <li>The Naaz&ndash;Rokha player must choose which strategy cards they will perform the secondary abilities of before they resolve any of those abilities.<sup>*</sup></li>
+    <li>When resolving the abilities of two strategy cards, they may be resolved in either order. Game objects affected by the first strategy card ability may be affected by the second.<sup>*</sup></li>
+    <ol><li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> strategy cards. They may resolve the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> ability. Alternatively, they may resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_(Strategy_card)"><i>Warfare</i></a> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <a href="https://twilight-imperium.fandom.com/wiki/Diplomacy_(Strategy_card)"><i>Diplomacy</i></a> ability to ready those same planets.<sup>*</sup></li></ol>
+    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.<sup>*</sup></li>
+    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.<sup>4</sup></li>
+    <li>If the Naaz&ndash;Rokha player has the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup></li>
     </ol>
 
-<h2>Absolute Synergy <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon">Eidolon /<br/>Z&ndash;Grav Eidolon</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The four mechs can be anywhere in the same system; they need not be all on the same planet, and some or all may be in the space area.</li>
-    <li>The mechs may be removed and the card flipped as soon as the four mechs are in the same system. For example, this may be done before space combat starts.</li>
+    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.<sup>*</sup></li>
+    <li>If the Naaz&ndash;Rokha player had an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.<sup>2</sup></li>
+    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>*</sup></li></ol>
+    <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.<sup>*</sup></li>
+    <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.<sup>*</sup></li>
+    <li>A Z&ndash;Grav Eidolon participating in a space combat may count towards scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup></li>
+    <li>The mech flips at the start of space combat, resolved in the normal player order for abilities at that timing.<sup>6</sup></li>
     </ol>
 
-<h2>Eidolon Maximum <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Absolute%20Synergy">Absolute Synergy</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.</li>
-    <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.</li>
-    <li>The Eidolon Maximum only repairs during combats that it is participating in.</li>
-    <li>The Naaz&ndash;Rokha player can never have two or more Eidolon Maximums on the game board.</li>
-    <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <i>Visz El Vir</i>.</li>
-    <li>The Eidolon Maximum is considered a ship for all relevant game effects.</li>
-    <ol>
-        <li>The Eidolon Maximum may be destroyed by a <i>Direct Hit</i> action card whenever it uses its <sc>Sustain Damage</sc> ability, including if it does so during a ground combat.</li>
+    <li>The four mechs can be anywhere in the same system; they need not be all on the same planet, and some or all may be in the space area.<sup>*</sup></li>
+    <li>The mechs may be removed and the card flipped as soon as the four mechs are in the same system. For example, this may be done before space combat starts.<sup>*</sup></li>
     </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
+    <ol class="note">
+    <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup></li>
+    <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.<sup>*</sup></li>
+    <li>The Eidolon Maximum only repairs during combats that it is participating in.<sup>*</sup></li>
+    <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir"><i>Visz El Vir</i></a>.<sup>*</sup></li>
+    <li>The Eidolon Maximum is considered a ship for all relevant game effects.<sup>6</sup></li>
+    <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup></li></ol>
+    <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

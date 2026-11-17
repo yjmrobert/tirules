@@ -1,0 +1,88 @@
+@0
+N No source found.
+@1
+E2 RulesPal, "Do units 'placed' by an effect cost resources, and do they count as producing?": "'Place' or 'gain' is free and isn't producing, so Muaat's Star Forge doesn't count as producing and doesn't trigger Magmus Reactor's trade good."
+@2
+E4 "Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)? A: No, you are not resolving the ability fully if you already have the specified technology."
+@3
+N No source found.
+@4
+N No source found.
+@5
+N No source found.
+@6
+E1 LRR FAQ: "a unit that is produced must always be paid for."
+@7
+E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No."
+@8
+N No source found.
+@9
+N No source found.
+@10
+N No source found.
+@11
+N No source found.
+@12
+N No source found.
+@13
+I1 LRR FAQ: Mentak "can trigger 'Pillage' each time the Saar gain" a trade good from Scavenge. Each separate gain triggers Pillage.
+I2 RulesPal, "When exactly can Mentak use Pillage?": "After each instance of a neighbor gaining trade goods."
+@14
+N No source found.
+@15
+N No source found.
+@16
+N No source found.
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+N No source found.
+@21
+E4 "How does The Embers of Muaat Hero, Nova Seed, interact with tokens …? A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction."
+@22
+E2 RulesPal, "How does the Muaat hero's Nova Seed treat Muaat's own units …?": "Muaat's own stay, the war sun included, and can leave later, since nothing stops ships moving out of a supernova."
+@23
+N No source found.
+@24
+N No source found.
+@25
+N No source found.
+@26
+N No source found.
+@27
+E6 "Can the Muaat Hero, Nova Seed, be used on tiles in the Fracture? A: No, you cannot nova seed tiles which contain multiple systems."
+E9 Designer Q&A, "Styx and Novaseed": "No, the fracture tiles are not able to be replaced due to their unusual shape."
+@28
+E2 "Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?": "Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight."
+@29
+E2 RulesPal, "Do several Muaat mechs each place infantry when Star Forge is used?": "Yes — each Muaat mech in or adjacent to the Star Forge system places its own infantry."
+@30
+N No source found.
+@31
+N No source found.
+@32
+N No source found.
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+E6 "Stellar Genesis (Breakthrough): If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected."
+@37
+N No source found.
+@38
+N No source found.
+@39
+N No source found.
+@40
+E6 RAW/Community: Avernus and gravity rifts: "Avernus does not roll for gravity rift, it is not a ship."
+@41
+E6 "Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play."
+@42
+E6 "Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship."

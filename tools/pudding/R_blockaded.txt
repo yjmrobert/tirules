@@ -1,0 +1,7 @@
+@0
+E2 RulesPal, "With Prophecy of Kings capture rules, when exactly is a space dock blockaded?": "a system with another player's ships and none of yours … during combat both sides have ships, so a dock isn't blockaded until combat ends."
+I1 LRR 14: "A player’s unit with “Production” is blockaded if it is in a system that does not contain any of their ships and contains other players’ ships." in combat both players have ships there, so the blockade condition fails.
+@1
+N No source found.
+@2
+N No source found.

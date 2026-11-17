@@ -3,16 +3,14 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '13.' counter(item, decimal);} </style>
-<p>During combat, the active player is the attacker.</p>
+<p data-src="1,3">During combat, the active player is the attacker.</p>
     <ol class="lrr">
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>The attacker&rsquo;s opponent is the defender.</li>
-    <li>The attacker will have the first opportunity to resolve abilities during each timing window.</li>
-    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player that had their ships moved will be the attacker.</li>
-    <ol><li>Resolving abilities will be by initiative order, starting with the Mahact player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.</li></ol>
+    <li>The attacker&rsquo;s opponent is the defender.<sup>1,3</sup></li>
+    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers">Mahact</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability, the player that had their ships moved will be the attacker.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -3,16 +3,16 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '56.' counter(item, decimal);} </style>
-<p>A modifier is a number that is applied by an ability to increase or decrease the attribute values of a unit or the results of a die roll.</p>
+<p data-src="1">A modifier is a number that is applied by an ability to increase or decrease the attribute values of a unit or the results of a die roll.</p>
     <ol class="lrr">
-    <li>A modifier is always preceded by the word &ldquo;apply&rdquo; followed by a numerical value.</li>
-    <li>A modifier value preceded by a &ldquo;+&rdquo; is added to the attribute or result being modified; a modifier value preceded by a &ldquo;&minus;&rdquo; is subtracted from the attribute or result being modified.</li>
+    <li data-src="1">A modifier is always preceded by the word &ldquo;apply&rdquo; followed by a numerical value.</li>
+    <li data-src="1">A modifier value preceded by a &ldquo;+&rdquo; is added to the attribute or result being modified; a modifier value preceded by a &ldquo;&minus;&rdquo; is subtracted from the attribute or result being modified.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>&ldquo;Combat roll&rdquo; modifiers do not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
-    <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.</li>
+    <li>&ldquo;Combat roll&rdquo; modifiers do not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup></li>
+    <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

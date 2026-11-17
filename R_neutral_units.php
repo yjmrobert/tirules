@@ -6,15 +6,17 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Neutral units are placed in some system within The Fracture when it enters play. Several other game effects also place neutral units.</li>
-    <li>If a player has ships in a space area that contains neutral units, they will resolve a space combat against those units.</li>
-    <li>If a player has ground forces on a planet that contains neutral units, they will resolve a ground combat against those units.</li>
-    <li>Any player other than the active player may roll the combat and unit ability dice during a combat involving neutral units. The combat values and unit abilities are found on the neutral unit reference card.</li>
-    <li>Neutral units will always use each and every unit ability that they can.</li>
-    <li>Neutral units do not take turns, own technology, or draw action cards, and so on. They cannot retreat from combat.</li>
-    <li>When a hit is assigned against a group of neutral units, it is assigned to the unit that is lowest on the neutral unit reference card; generally, this corresponds to the unit with the lowest cost.</li>
-    <ol><li>Hits produced against neutral units may only be assigned to eligible unit types, as usual. For example, <sc>Anti&ndash;Fighter Barrage</sc> hits produced against neutral units may only be assigned to neutral fighters.</li></ol>
-    <li>Neutral units are considered to be another player&rsquo;s ships for abilities and other game effects. However, there is no neutral player.</li>
+    <li>Neutral units are placed in some system within The Fracture when it enters play. Several other game effects also place neutral units.<sup>7,11</sup></li>
+    <li>If a player has ships in a space area that contains neutral units, they will resolve a space combat against those units.<sup>7</sup></li>
+    <li>If a player has ground forces on a planet that contains neutral units, they will resolve a ground combat against those units.<sup>7</sup></li>
+    <li>Any player other than the active player may roll the combat and unit ability dice during a combat involving neutral units. The combat values and unit abilities are found on the neutral unit reference card.<sup>7</sup></li>
+    <li>Neutral units will always use each and every unit ability that they can.<sup>7</sup></li>
+    <li>Neutral units do not take turns, own technology, or draw action cards, and so on.<sup>7</sup></li>
+    <li>When a hit is assigned against a group of neutral units, it is assigned to the unit that is lowest on the neutral unit reference card.<sup>6,7</sup></li>
+    <li>Neutral units are considered to be another player&rsquo;s ships for abilities and other game effects. However, there is no neutral player.<sup>7</sup></li>
+    <li>Neutral units with <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup></li>
+    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>.<sup>6</sup></li>
+    <li>If there are no neutral units of a given type left in the supply, and one would be placed, it is not placed.<sup>6</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

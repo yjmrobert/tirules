@@ -1,0 +1,2 @@
+@0
+E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system." The cited entry (Benediction) is less direct.

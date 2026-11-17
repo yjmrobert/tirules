@@ -1,0 +1,3 @@
+@0
+E2 RulesPal, "Are mechs ground forces?": "Yes, for every purpose. They aren't infantry, so infantry-only rules … don't apply to them."
+I1 LRR 43: "All infantry and mech units in the game are ground forces."

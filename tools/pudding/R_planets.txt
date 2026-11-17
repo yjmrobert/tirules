@@ -1,0 +1,14 @@
+@0
+E1 LRR 38.1b: "Planets that do not have traits, such as Mecatol Rex and planets in home systems, cannot be explored."
+E2 RulesPal, "Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?": "Mecatol Rex and home planets have no trait and can't be explored."
+@1
+E2 Same entry: planets without a trait "can't be explored." Planets with traits can.
+I8 PoK rulebook: "A planet that does not have a type cannot be explored."
+@2
+E2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
+I1 LRR 64.9: "A player cannot spend an exhausted planet’s resources or influence." spending exhausts the planet, so it cannot then be spent again.
+@3
+E3 Learn to Play: "While researching technology, players may exhaust planets for their technology specialty or for their resources, but not for both."
+E2 RulesPal, "What happens when an exploration card adds a technology specialty …?": "An attached specialty counts as the planet's own and is used by exhausting the planet."
+@4
+N No source found.

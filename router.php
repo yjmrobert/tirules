@@ -9,6 +9,12 @@ if ($path === '' || $path === '/') {
 
 $docRoot = realpath(__DIR__);
 
+// /R_combat/pudding serves pudding/R_combat.php (the page's note proofs)
+if (preg_match('#^/([RFC]_[A-Za-z0-9_]+)/pudding$#', $path, $m) && is_file(__DIR__ . '/pudding/' . $m[1] . '.php')) {
+    require __DIR__ . '/pudding/' . $m[1] . '.php';
+    return true;
+}
+
 $resolvedPath = realpath(__DIR__ . $path);
 if ($resolvedPath !== false && str_starts_with($resolvedPath, $docRoot . DIRECTORY_SEPARATOR) && is_file($resolvedPath)) {
     return false;

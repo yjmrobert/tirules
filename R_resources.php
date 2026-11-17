@@ -3,11 +3,11 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '75.' counter(item, decimal);} </style>
-<p>Resources represent a planet&rsquo;s material value and industry. Many game effects, such as producing units, require players to spend resources.</p>
+<p data-src="1,3">Resources represent a planet&rsquo;s material value and industry. Many game effects, such as producing units, require players to spend resources.</p>
     <ol class="lrr">
-    <li>A planet&rsquo;s resources are the leftmost value that is surrounded by a yellow border on the planet&rsquo;s system tile and planet card.</li>
-    <li>A player spends a planet&rsquo;s resources by exhausting its card.</li>
-    <li>A player can spend a trade good as if it were one resource.</li>
+    <li data-src="1">A planet&rsquo;s resources are the leftmost value that is surrounded by a yellow border on the planet&rsquo;s system tile and planet card.</li>
+    <li data-src="1,2,3">A player spends a planet&rsquo;s resources by exhausting its card.</li>
+    <li data-src="1,2,3">A player can spend a trade good as if it were one resource.</li>
     </ol>
 
 <h2>Notes</h2>

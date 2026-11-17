@@ -42,7 +42,7 @@ fi
 
 # Links between content pages must be absolute ("/R_combat") and match a page
 # file exactly. Case matters: macOS ignores it locally, but production is Linux.
-page_links=$(grep -oE 'href="[^"#]*' R_*.php F_*.php C_*.php suffix.php | sed 's/href="//' \
+page_links=$(grep -oE 'href="[^"#]*' R_*.php F_*.php C_*.php pudding/*.php suffix.php | sed 's/href="//' \
     | grep -vE ':(https?:|mailto:|/?\.?/?$)' || true)
 
 relative_links=$(echo "$page_links" | grep -vE ':/' || true)
@@ -58,6 +58,14 @@ done)
 if [ -n "$broken_links" ]; then
     echo "Page links to pages that don't exist (file:target):"
     echo "$broken_links"
+    status=1
+fi
+
+# Each proof page (pudding/R_combat.php, served at /R_combat/pudding) needs its page.
+orphan_puddings=$(for f in pudding/*.php; do [ -f "$(basename "$f")" ] || echo "$f"; done)
+if [ -n "$orphan_puddings" ]; then
+    echo "Proof pages with no matching page:"
+    echo "$orphan_puddings"
     status=1
 fi
 

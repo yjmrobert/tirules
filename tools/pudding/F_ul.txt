@@ -1,0 +1,97 @@
+@0
+E2 RulesPal, "Which side of the sleeper token is used …?": "A planet holds one sleeper."
+E2 RulesPal, "Can Titans put more than one sleeper on a planet with Terragenesis …?": "a planet holds at most one." The cited entry (activating a system with your token) does not address this.
+@1
+E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "Right after activating a system that already held your sleeper token."
+@2
+E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "a sleeper placed later in that activation, say by Scanlink exploration, can't be awakened then."
+@3
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+@4
+E4 "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't place a PDS via Sleeper token onto a planet where another player already has 2 PDS? … A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player's PDS units. You cannot place a structure on a planet with the maximum number of your structures."
+@5
+N No source found.
+@6
+E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "Awaken and Nullification Field share the after-activation window, and the active Titans go first, so they can awaken before their turn is ended; the resulting ground combat still happens."
+@7
+E2 RulesPal, "Is the Titans' Hel Titan a ground force, and does a sleeper stay when another player takes the planet?": "A sleeper token is only removed by Awaken or by the planet being destroyed, so it stays on a captured planet and can be awakened later."
+@8
+E2 RulesPal, "If the Titans retreat into a system with a sleeper, does it awaken?": "No — a retreat places a command token but doesn't activate the system."
+@9
+N No source found.
+@10
+E4 "If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur."
+@11
+E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "Ceasefire only stops movement, so Awaken still works."
+@12
+E3 Learn to Play, Bombardment: "A player uses this ability during the 'Bombardment' step of an invasion."
+E4 "only the active player can use BOMBARDMENT."
+@13
+E4 "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
+@14
+E4 "Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat."
+@15
+E2 RulesPal, "Can the Titans play their own Terraform note, or reuse it after it's attached?": "once attached it can't be played again or traded."
+@16
+E4 "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+@17
+E7 Thunder's Edge Rulebook p. 11: "Planets that have dual planet traits count as having both traits. When exploring one of these planets …, the exploring player can choose to draw a card matching either" trait.
+I1 LRR 35.2c: "If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from."
+@18
+E6 "If Terraform is attached, can planets in The Fracture be explored? A: Yes"
+@19
+E6 "Can Terraform be attached to Thunder's Edge? A: Yes."
+@20
+I1 LRR FAQ: "Production value is totaled when the 'Production' ability of units in a system is used."
+I3 Learn to Play: "When producing multiple units at a time, the cost values of those units are added together."
+I2 RulesPal, "Does Production limit the number of units or their total cost?": "The number of units."
+@21
+E2 RulesPal, "Can Transit Diodes move Titans Hel-Titans or ordinary PDS?": "Hel-Titans yes: they are ground forces, and Transit Diodes removes and places units rather than transporting them."
+@22
+E4 "Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N'Orr Alliance? A: No, structures cannot move."
+@23
+E2 RulesPal, "Is a Hel-Titan a valid target for effects on non-structures …?": "It is a structure as well as a ground force, so the Vuil'raith vortex, which needs a non-structure, can't take it."
+@24
+N No source found.
+@25
+E2 RulesPal, "Can the Titans deploy their flagship for free …?": "the PDS must be there when you activate."
+@26
+E2 Same entry: "one placed by Awaken during that activation doesn't qualify."
+@27
+E4 "The Titan's Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. 'Before you assign a hit'. The hit is still produced, VPW triggers, then the hit is canceled."
+@28
+I4 FAQ: Ul commander Tungstantus: "The gain and spend are simultaneous, so cannot be pillaged." gain and spend are simultaneous.
+@29
+E4 FAQ: Ul commander Tungstantus: "The gain and spend are simultaneous, so cannot be pillaged."
+@30
+N No source found.
+@31
+I14 Codex II, Ul Alliance: "When 1 or more of your units use PRODUCTION: You may gain 1 trade good." trigger requires a unit using PRODUCTION.
+@32
+N No source found.
+@33
+N No source found.
+@34
+E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
+E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
+@35
+E4 "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't place a PDS via Sleeper token onto a planet where another player already has 2 PDS? … A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player's PDS units. You cannot place a structure on a planet with the maximum number of your structures."
+E4 Same ruling: "which prevents using the DEPLOY ability on a planet with 2 PDS of yours."
+@36
+E4 "You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet."
+@37
+E6 "Can Titans use the Mech's deploy ability for coexistence? A: Yes."
+@38
+E2 RulesPal, "Can the Titans deploy their mech instead of placing a PDS with Construction?": "Yes — Construction places PDS, so the Titans' deploy works there, even twice with the primary."
+@39
+I9 Designer Q&A, "Titans Breakthrough": "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players."
+@40
+E9 Same answer: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal."
+@41
+E6 "Does that mean that you'll be receiving additional AC for the Minister of Policy …? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards."
+@42
+E2 RulesPal: "a planet holds at most one."
+E6 RAW/Community: Slumberstate Computing, limit of Sleeper tokens on another player’s planet: "Is there a limit to the number of Sleeper tokens that may be placed on another player's planet? A: One per planet"
+@43
+E6 "Does the agreement to place a Sleeper token require agreeing to a specific planet …? A: Agreement includes which planet."

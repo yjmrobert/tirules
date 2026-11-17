@@ -1,0 +1,65 @@
+@0
+E9 Designer Q&A, "Using Wormholes": "They can't move through them. Other things are fine."
+I2 "Does the Crimson Rebellion's inability to use wormholes remove wormhole adjacency?": "No — it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives." covers most listed purposes; action cards and Exile not mentioned.
+E6 RAW/Community: Crimson Rebellion "cannot use wormholes": "Crimson are unable to move through wormholes. All other uses are permitted including PDS, Neighbors, placing Breaches, etc."
+@1
+E6 "Can they use the Creuss IFF? A: Yes, they still may not move through the Creuss wormholes though."
+@2
+E6 "Can they use the Creuss agent or the Lost Star Charts action card? A: Yes"
+@3
+E6 "Does Wormhole Reconstruction override SUNDERED? A: No, but those systems are adjacent for movement, they do not need to use the worm holes so functionally it overrides Sundered."
+@4
+E6 "Sundered is a state-based effect which would trigger prior to gain control."
+@5
+N No source found.
+@6
+E2 RulesPal, "How do Crimson Rebellion breaches work?": "At the end of the status phase a player with ships there may remove any or all active breaches."
+E6 "If a system contains multiple breaches during the status phase, how many can be removed …? A: All active breaches can be removed."
+@7
+E7 Thunder's Edge Rulebook p. 16: "If the component limit of breaches is reached, inactive breaches can be moved from elsewhere to resolve the effect."
+@8
+E7 Same passage: "active breaches, however, must be removed or flipped before" they can be moved.
+@9
+E6 "Is the Sever token removed … if the Crimson Rebellion player is eliminated …? What about the breach tokens? A: … Breach tokens also remain in play and active breaches remain adjacent. Inactive breaches may be removed."
+@10
+E6 "Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? … A: Blocks movement. Adjacency, PDS, Ghost Ship, Become the Gatekeeper, SLIPSTREAM are all unaffected."
+@11
+E6 "If there are multiple wormholes in a system …, does Severing one block them all? A: All wormholes in the system."
+@12
+E6 "Subatomic Splicer (Technology): 'A player cannot produce ships in a system that contains other players' ships'. Does this apply to Subatomic Splicer? A: It does apply."
+@13
+I1 LRR FAQ: "a unit that is produced must always be paid for."
+@14
+E2 RulesPal, "How do Crimson Rebellion breaches work?": "A breach goes in the combat's system at the end of combat … if one of your destroyers is in range then."
+@15
+I2 Same entry: "at the end of combat." Not limited to space combat.
+@16
+E6 "Can the Crimson destroyer, Exile, place a breach at the end of a combat with neutral units? A: Yes"
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+I6 RAW/Community: Crimson agent swapping out of a gravity rift: "Swapping is not movement, so no roll is required." only the gravity-rift half is supported; Saar Spacedock claim is not in this source.
+E9 Designer Q&A: "Crimson Agent": "Does not have to abide by anything movement related. Does not work on saar docks."
+@21
+E2 RulesPal, "After a Crimson Rebellion swap, are the ships locked, and can moved units invade?": "A swap is a component action, not a tactical action, so there's no invasion unless the ability says so."
+@22
+E6 "Does the Crimson commander, Ahk Siever, work on combats with neutral units? A: Yes, the commander triggers on any combat involving players (which is all combats)."
+E9 Designer Q&A, "Crimson Commander": "Does this trigger at the end of a combat with the neutral forces? Can it be used in the same combat that unlocked it? … A: Yes to both."
+@23
+E9 Designer Q&A, "Crimson Commander": "Can it be used in the same combat that unlocked it? … A: Yes to both."
+@24
+N No source found.
+@25
+N No source found.
+@26
+N No source found.
+@27
+N No source found.
+@28
+N No source found.
+@29
+I2 RulesPal, on the similar Lazax Gate Folding: "The passive part … doesn't need the card ready, so it works while exhausted."

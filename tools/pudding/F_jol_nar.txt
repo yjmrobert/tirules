@@ -1,0 +1,67 @@
+@0
+E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect Anti-Fighter Barrage, Space Cannon, Bombardment or Ambush?": "No — only rolls made against a unit's combat value are combat rolls."
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
+@1
+N No source found.
+@2
+E2 RulesPal, "When Jol-Nar uses Brilliant to resolve the Technology primary as a secondary, do they need another token for the second tech?": "No — they pay one strategy token, then resolve the full primary: research one technology and optionally spend 6 resources for a second."
+@3
+E2 Same entry: "No — they pay one strategy token, then resolve the full primary."
+@4
+N No source found.
+@5
+I1 LRR FAQ: "a promissory note with “At the start of your turn:” timing may be immediately played if the transaction occurred within the “start of turn” timing window." same principle applies to a card received during its timing window.
+@6
+N No source found.
+@7
+N No source found.
+@8
+I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non-binding deal." future play of a card cannot be resolved immediately.
+@9
+N No source found.
+@10
+E2 RulesPal, "How does Jol-Nar's Research Agreement work?": "When Jol-Nar researches a non-faction technology, by any means, while you hold the note, both of you end up with it … It doesn't trigger when Jol-Nar merely gains a tech."
+@11
+E2 RulesPal, "How does Jol-Nar's Research Agreement work?": "When Jol-Nar researches a non-faction technology, by any means, while you hold the note, both of you end up with it … It doesn't trigger when Jol-Nar merely gains a tech."
+@12
+N No source found.
+@13
+N No source found.
+@14
+N No source found.
+@15
+E2 RulesPal, "How does Jol-Nar's Spatial Conduit Cylinder work?": "It is exhausted right after activation, before movement, so the system must already contain your units."
+@16
+E2 Same entry: "systems with your units count as adjacent to it for that action, so all your PDS II there can fire into it."
+@17
+N No source found.
+@18
+E2 RulesPal, "How many hits can the Jol-Nar flagship produce?": "Each die showing 9 or 10 produces its normal hit plus 2 more."
+@19
+E2 RulesPal, "Does Infantry II trigger on infantry removed by the Jol-Nar agent?": "No — removing isn't destroying."
+@20
+I1 LRR 18: "Combat is an attribute of some units."
+@21
+N No source found.
+@22
+N No source found.
+@23
+E4 FAQ: Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
+@24
+N No source found.
+@25
+N No source found.
+@26
+E4 "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+@27
+N No source found.
+@28
+E6 "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
+@29
+E6 "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
+@30
+N No source found.
+@31
+N No source found.
+@32
+N No source found.

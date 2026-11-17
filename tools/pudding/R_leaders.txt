@@ -1,0 +1,6 @@
+@0
+E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves." The cited entry (Argent agent) is less direct.
+@1
+I2 Same entry: unlock conditions are checked "after the current effect fully resolves," so a later ability in the window can use it.
+@2
+E2 RulesPal, "Is using my agent for another player a transaction, and must we be neighbors?": "No to both — it is just an ability."

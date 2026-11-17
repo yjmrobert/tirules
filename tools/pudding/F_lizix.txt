@@ -1,0 +1,76 @@
+@0
+I2 RulesPal, "Can I produce at my home space dock during a tactical action elsewhere …?": "the production step only uses units in the system you just activated."
+@1
+N No source found.
+@2
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E4 "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."
+I2 "If all my space docks or PDS are on the board, can I place another?": "if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs" general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.
+@3
+I1 LRR 23.4a: a player "can remove" a unit; it is optional.
+I4 "'replace' can be considered to say 'remove and place' if no units are left in reinforcements."
+@4
+E6 "Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes."
+@5
+E1 LRR 65.2: "The 'Planetary Shield' ability prevents an L1Z1X player from using their 'Harrow' faction ability."
+E2 RulesPal, "How does the L1Z1X Harrow ability work?": "Planetary Shield stops it."
+I3 Learn to Play, Planetary Shield: the planet "is not an eligible target" for Bombardment.
+@6
+E4 "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
+@7
+E2 RulesPal, "How does the L1Z1X Harrow ability work?": "It still resolves after the round in which L1Z1X lose their last ground force; if it then kills the last defender, the combat is a draw."
+E5 Designer ruling: "The combat ending doesn't nullify the end of a round of combat trigger. Harrow, in this case, would still resolve."
+@8
+E2 RulesPal, "How does the L1Z1X Harrow ability work?": "Every ship with Bombardment there can join in, not just those that bombarded that planet."
+I1 LRR 15.1d: "a player must declare which planet a unit is bombarding before making a bombardment roll."
+@9
+E2 RulesPal, "Can L1Z1X mechs bombard through Harrow?": "Only when not in that ground combat: a mech fighting on a planet can't bombard it, but one on another planet in the system can."
+@10
+E1 LRR errata: "The text of the L1Z1X's 'Harrow' faction ability should read as follows: 'At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent's ground forces on the planet.'"
+E2 RulesPal, "How does the L1Z1X Harrow ability work?": "Per errata it triggers at the end of each round of ground combat."
+@11
+I2 RulesPal, "Are there common clarifications for specific objectives …?": "Harrow is Bombardment."
+I10 Codex I, X-89 Bacterial Weapon: "After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent’s infantry was destroyed, you may destroy all of your opponent’s infantry on that planet." triggers whenever units use BOMBARDMENT.
+I15 Codex 4.5 Technology Card Updates, X-89 Bacterial Weapon: "Double the hits produced by your units' BOMBARDMENT and ground combat rolls." applies to any BOMBARDMENT use.
+@12
+E2 RulesPal, "Can L1Z1X Cybernetic Enhancements or Xxcha Political Favor be used if their owner has no command token in the strategy pool?": "No — … if there is no token to remove, nothing on it resolves."
+E5 Designer ruling: "The command tokens must be present in order to resolve these PNs."
+@13
+N No source found.
+@14
+E2 RulesPal, "What can L1Z1X's Inheritance Systems be used for?": "It ignores all prerequisites for one research, unit upgrades and your own faction technologies like Super Dreadnought included."
+@15
+E2 Same entry: "Researched as the first tech of the Technology primary, it can pay for the second."
+@16
+N No source found.
+@17
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+@18
+N No source found. LRR 65.3a covers war suns: "Units treated as if they do not have a 'Planetary Shield' ability cannot use the 'Magen Defense Grid'" technology.
+@19
+E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "ignoring command tokens in the systems they leave." (Stated for the Argent hero.)
+@20
+E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
+@21
+E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "no path or move value … The ships can carry units starting with them, but can't pick up along a path."
+@22
+E2 RulesPal, "How do gravity rifts work …?": "Each ship that leaves or passes through a rift rolls, and is removed on a 1-3."
+E3 Learn to Play: "A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die."
+E4 "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
+I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
+@23
+E2 RulesPal, "When an ability moves units outside a tactical action …?": "Anomaly rules still apply, so no ability moves ships into a supernova unless it says so."
+I3 Learn to Play: "A ship cannot move through or into a supernova."
+E1 LRR 86.1: "A ship cannot move through or into a supernova."
+@24
+I2 RulesPal: "Anomaly rules still apply."
+@25
+I1 LRR 100.1: "The wormhole nexus begins the game in play with its inactive side up."
+I8 PoK rulebook describes the two sides of the Wormhole Nexus.
+@26
+E2 RulesPal, "Can L1Z1X mechs bombard through Harrow?": "a mech fighting on a planet can't bombard it, but one on another planet in the system can."
+@27
+N No source found.
+@28
+N No source found.

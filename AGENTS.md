@@ -20,7 +20,7 @@ the repo owner explicitly asks in the current task.
 
 ### 2. Look, formatting, and weight stay the same
 - Keep the current visual design: fonts (`helv`, `slid`, `lazax`), colors, layout,
-  numbered-list structure, and the yellow "official ruling" highlight. Restructuring
+  numbered-list structure. Restructuring
   `style.css` is fine. Changing how pages render is not, unless the owner asks for it.
 - One stylesheet (`style.css`). No CSS frameworks (Tailwind, Bootstrap, etc.), no CSS
   preprocessors, no web-font CDNs. Keep fonts self-hosted.

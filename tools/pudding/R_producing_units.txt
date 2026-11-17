@@ -1,0 +1,9 @@
+@0
+E2 RulesPal, "Do units 'placed' by an effect cost resources, and do they count as producing?": "An effect that says 'produce' means you pay the cost unless it says otherwise."
+E1 LRR FAQ: "a unit that is produced must always be paid for."
+@1
+I1 LRR 67.2: "If the cost is accompanied by two icons—typically for fighters and infantry—a player produces two of that unit for that cost." The matched passage (Arborec FAQ) is the wrong rule.
+@2
+I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their base unit type?": "a faction unit counts as its base unit type for every purpose." The cited entry (home space dock) is less direct.
+@3
+E4 "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."

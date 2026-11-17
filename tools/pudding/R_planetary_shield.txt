@@ -1,0 +1,9 @@
+@0
+E1 LRR 65: "Units cannot use the 'Bombardment' ability against a planet that contains a unit that has the 'Planetary Shield' ability." Only that planet is protected. The matched passage (LRR 1.27) is less direct.
+@1
+E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "Planetary Shield, by blocking Bombardment, blocks it too."
+I10 Codex I, X-89 Ω: works only if "1 of your opponent's infantry was destroyed" by Bombardment.
+@2
+E2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield … The Codex Omega version only" needs a structure.
+@3
+E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "A war sun removes Planetary Shield from other players' units in its system, so all your bombarding units can then hit planets with PDS."

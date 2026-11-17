@@ -1,0 +1,2 @@
+@0
+E2 RulesPal, "Can Fighter IIs move on their own into a system already at my fleet limit?": "If ships in the destination have room for them, they don't count against your fleet pool."

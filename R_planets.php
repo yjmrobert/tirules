@@ -3,27 +3,27 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '64.' counter(item, decimal);} </style>
-<p>Planets provide players with resources and influence. Planets are on system tiles and each has a name, a resource value, and an influence value. Some planets also have traits.</p>
+<p data-src="1">Planets provide players with resources and influence. Planets are on system tiles and each has a name, a resource value, and an influence value. Some planets also have traits.</p>
     <ol class="lrr">
-    <li>A planet&rsquo;s resources are indicated by the value on its planet card and system tile that is surrounded by a yellow triangular border.</li>
-    <li>A planet&rsquo;s influence is indicated by the value on its planet card and system tile that is surrounded by a blue hexagonal border.</li>
-    <li>A planet&rsquo;s trait has no inherent effects, but some game effects refer to a planet&rsquo;s trait. There are three traits: cultural, hazardous, and industrial.</li>
-    <li>Some planets have a technology specialty, which allows those planets to be exhausted to satisfy a prerequisite when researching technology.</li>
-    <li>Some planets are legendary planets, as indicated by the legendary planet icon. When a player gains control of a legendary planet, they also gain control of its legendary planet ability card.</li>
+    <li data-src="1">A planet&rsquo;s resources are indicated by the value on its planet card and system tile that is surrounded by a yellow triangular border.</li>
+    <li data-src="1">A planet&rsquo;s influence is indicated by the value on its planet card and system tile that is surrounded by a blue hexagonal border.</li>
+    <li data-src="1,3">A planet&rsquo;s trait has no inherent effects, but some game effects refer to a planet&rsquo;s trait. There are three traits: cultural, hazardous, and industrial.</li>
+    <li data-src="1,2,3">Some planets have a technology specialty, which allows those planets to be exhausted to satisfy a prerequisite when researching technology.</li>
+    <li data-src="1,7,8">Some planets are legendary planets, as indicated by the legendary planet icon. When a player gains control of a legendary planet, they also gain control of its legendary planet ability card.</li>
     <h2><li>Planet Card</li></h2>
-    <p>Each planet has a corresponding planet card that displays its name, resource value, influence value, and trait, if it has one. If a player controls a planet, they keep that planet&rsquo;s card in their play area.</p>
-    <li>A planet card has both a readied and exhausted state. When a planet is readied, it is placed faceup. When a planet is exhausted, it is placed facedown.</li>
-    <li>A player can spend a readied planet&rsquo;s resources or influence.</li>
-    <li>A player cannot spend an exhausted planet&rsquo;s resources or influence.</li>
+    <p data-src="1,2">Each planet has a corresponding planet card that displays its name, resource value, influence value, and trait, if it has one. If a player controls a planet, they keep that planet&rsquo;s card in their play area.</p>
+    <li data-src="1,3">A planet card has both a readied and exhausted state. When a planet is readied, it is placed faceup. When a planet is exhausted, it is placed facedown.</li>
+    <li data-src="1,3">A player can spend a readied planet&rsquo;s resources or influence.</li>
+    <li data-src="1,2,3">A player cannot spend an exhausted planet&rsquo;s resources or influence.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Mecatol Rex and planets in home systems do not have traits.</li>
-    <li>Planets with traits can be explored.</li>
-    <li>A planet cannot be spent for both its influence and resources during a single exhaustion.</li>
-    <li>If a planet is exhausted for its technology specialty, it does not provide influence or resources.</li>
-    <li>A player may only exhaust their own planets, unless a game effect specifies otherwise.</li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> and planets in home systems do not have traits.<sup>1,2</sup></li>
+    <li>Planets with traits can be explored.<sup>2,8</sup></li>
+    <li>A planet cannot be spent for both its influence and resources during a single exhaustion.<sup>1,2</sup></li>
+    <li>If a planet is exhausted for its technology specialty, it does not provide influence or resources.<sup>2,3</sup></li>
+    <li>A player may only exhaust their own planets, unless a game effect specifies otherwise.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

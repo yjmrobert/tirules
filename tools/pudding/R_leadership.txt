@@ -1,0 +1,5 @@
+@0
+E1 LRR 20.5a: "A player does not spend a command token to resolve the secondary ability of the 'Leadership' strategy card."
+E2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "No to both."
+@1
+N No source found.

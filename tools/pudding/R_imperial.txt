@@ -1,0 +1,15 @@
+@0
+E1 LRR 61.16: "A player cannot score public objectives if that player does not control each planet in their home system."
+E2 RulesPal, "Can I score objectives if another player controls a planet in my home system?": "Not public objectives — you must control every planet in your home system to score one, and the Imperial card doesn't override that."
+E3 Learn to Play: "Important: A player cannot score a public objective if they do" not control every planet in their home system.
+@1
+E2 RulesPal, "Can I score objectives if another player controls a planet in my home system?": "Everything else still works: … Imperial's Mecatol Rex point."
+@2
+E1 LRR 45.2: "if the active player controls Mecatol Rex, they gain one victory point; if they do not control Mecatol Rex, they can draw one secret objective card."
+E3 Learn to Play, Imperial card: "Gain 1 victory point if you control Mecatol Rex; otherwise, draw 1 secret objective."
+E2 RulesPal, "What do the Imperial abilities give …?": "gives 1 victory point if you control Mecatol Rex … otherwise you draw a secret objective."
+@3
+E6 "If a player is Coexisting on Mecatol Rex, can they score Imperial Point with Imperial Primary? A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point."
+E7 Thunder's Edge Rulebook p. 13 (Alliance variant): units "do not count for scoring objectives or scoring the 'Imperial' victory point." Covers allies, not coexistence.
+@4
+E2 RulesPal, "Can I score a public objective with Imperial and another in the same round's status phase?": "Yes — they are separate scoring windows. Imperial scores a public objective immediately even if it says status phase."

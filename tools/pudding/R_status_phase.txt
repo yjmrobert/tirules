@@ -1,0 +1,10 @@
+@0
+E1 LRR 61.16: "A player cannot score public objectives if that player does not control each planet in their home system."
+E2 RulesPal, "Can I score objectives if another player controls a planet in my home system?": "Not public objectives — you must control every planet in your home system to score one."
+E3 Learn to Play: "Important: A player cannot score a public objective if they do" not control each planet in their home system.
+@1
+N No source found.
+@2
+I1 LRR 87.3: "A damaged unit cannot use the 'Sustain Damage' ability until it is repaired during the status phase." Status phase repairs all damaged units.
+@3
+E2 RulesPal, "If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?": "Initiative order: the player with the lower initiative number resolves first."

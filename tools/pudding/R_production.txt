@@ -1,0 +1,14 @@
+@0
+E1 LRR 68.1: "This value is the maximum number of units that this unit can produce."
+E2 RulesPal, "Does Production limit the number of units or their total cost?": "The number of units … a war sun uses one point of Production and you pay its 12 cost separately." The cited entry (Sarween Tools) is less direct.
+@1
+E2 RulesPal, "Where are produced ground forces placed?": "With several producing planets you may split them among those planets however you like, even all on one."
+I5 Designer ruling (kaiteinomen, Sep 28, 2017): "you can put both of the Letani warriors on the same planet, if you wish, as long as one of the units that used Production is located there." Only location of producing unit matters for placement.
+@2
+I2 Same entry: "split them among those planets however you like."
+@3
+I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their base unit type?": "a faction unit counts as its base unit type for every purpose."
+@4
+E4 "You can't produce ground forces on a planet with another player's ground forces."
+@5
+E2 RulesPal, "Can ground forces I produce take an uncontrolled planet in the same tactical action?": "No — production is the last step, after invasion … They can invade in a later action."

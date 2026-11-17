@@ -1,0 +1,16 @@
+@0
+E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered." The cited entry (galaxy setup) is less direct.
+@1
+N No source found.
+@2
+E1 LRR 6.2a: "A system is not adjacent to itself."
+E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "No — a system isn't adjacent to itself."
+@3
+E4 "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through."
+@4
+E4 "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through."
+E2 RulesPal, "How do wormholes work, and must my ships use them?": "A wormhole only adds connections: you don't have to use it."
+@5
+E4 "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through."
+@6
+N No source found.

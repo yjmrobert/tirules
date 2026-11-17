@@ -1,0 +1,115 @@
+@0
+E1 LRR FAQ: "Can the Mentak Coalition use the 'Pillage' faction ability for each time the Saar gain a trade good from the 'Scavenge' faction ability in a single turn …? A: Yes."
+@1
+I1 LRR 25.1c: "When a player gains control of a planet that is not already controlled by another player, they explore" it.
+@2
+I1 LRR 35.2d: "If a player gains control of multiple planets … they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next."
+@3
+N No source found.
+@4
+E2 RulesPal, "Do I control both planets in my home system at the start …?": "Because you begin with control rather than gaining it, abilities like Saar's Scavenge don't trigger at setup."
+@5
+N No source found.
+@6
+N No source found.
+@7
+I2 "How does Saar's Ragh's Call work in an invasion?": "moves the Saar ground forces from one planet to another single planet" Ragh's Call moves all Saar ground forces to a single planet.
+@8
+E1 LRR FAQ: "a unit that is produced must always be paid for."
+E2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
+@9
+N No source found.
+@10
+E2 RulesPal, "How does Saar's Chaos Mapping production work?": "At the start of each of your turns, including the turn you pass, you may produce one unit."
+@11
+E1 LRR FAQ: "Can the Clan of Saar's 'Chaos Mapping' faction-specific technology be used on the turn that the Saar player passes? A: Yes."
+E2 RulesPal: "including the turn you pass."
+@12
+N No source found.
+@13
+N No source found.
+@14
+E2 RulesPal, "Can Creuss use a wormhole token to get into an asteroid field protected by Saar's Chaos Mapping?": "Creuss can place the token there but still can't activate the system."
+@15
+E2 RulesPal, "How does Saar's Chaos Mapping production work?": "no unit's Production ability is used, so Sarween Tools doesn't apply."
+@16
+E2 RulesPal, "Are Saar Floating Factories ships, and do they count against the fleet pool?": "No — Floating Factories are never ships … They don't count against your fleet pool."
+@17
+E2 RulesPal, "Where are produced ground forces placed?": "If the producing unit is in space, like a Saar Floating Factory …, they can go in that space area or on any planet you control in the system."
+@18
+E1 LRR FAQ: "Can the Clan of Saar's 'Floating Factories' trigger Space Cannon Offense or be assigned hits produced by PDS units? A: No, 'Floating Factories' cannot be the target of PDS fire."
+E2 RulesPal: "hits cannot be assigned to it because it is not a ship."
+E5 Designer ruling (Jan 2018): "no—PDS cannot fire at a Floating Factory when it moves."
+@19
+E2 RulesPal, "Are Saar Floating Factories ships …?": "every ability that affects movement, such as Gravity Drive, Flank Speed, Antimass Deflectors or Light/Wave Deflector, still applies to them."
+I5 Designer ruling (Jan 2018) on Floating Factory movement.
+@20
+E2 RulesPal, "Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?": "they get Gravity Drive, Flank Speed and rift bonuses, and he later confirmed they roll when leaving a gravity rift."
+@21
+I2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "If it is alone with enemy ships, it is destroyed."
+I5 Designer ruling (garfielder, Sep 19 2017): "As a rule, in any situation where a Floating Factory is alone with enemy ships, it is destroyed before it can retreat." Factory with no surviving Saar ships is alone with enemies.
+@22
+N No source found.
+@23
+N No source found.
+@24
+N No source found.
+@25
+N No source found.
+@26
+N No source found.
+@27
+I2 "Where do Saar Floating Factories go, and how many can share a system?": "If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory's own rule puts it in that system's space area." Saar still needs a planet for Construction; implicit.
+E5 Designer ruling (sigmazero13, Aug 1, 2018): "So while it is never placed on the planet, an eligible planet does need to exist."
+@28
+N No source found.
+@29
+N No source found.
+@30
+E1 LRR 79.4a: "The Clan of Saar's 'Floating Factory' faction-specific space dock is destroyed when it is blockaded."
+E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "If it is alone with enemy ships, it is destroyed before anything can be done."
+E5 Designer ruling (garfielder, Sep 19 2017): "if the Saar Space dock was alone when the ships move in, it is destroyed"
+@31
+E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "it is destroyed before anything can be done."
+E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships."
+@32
+N No source found.
+@33
+E6 "if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved."
+@34
+I2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "destroyed, the moment enemy ships arrive." Ships passing through do not arrive.
+E5 Designer ruling (Yin4Life, 12/10/2018): "No, only if you stop in the system."
+@35
+E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "If other Saar ships, even fighters, are with it, it can retreat or Skilled Retreat with them as long as it is never left alone with enemy ships."
+@36
+E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "Any number can share a system."
+@37
+E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "Yes — nothing requires a dock to start the turn in the active system, so a Floating Factory can move in, carry ground forces to invade, and produce."
+@38
+N No source found.
+@39
+E4 "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
+@40
+E4 "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
+@41
+N No source found.
+@42
+E4 "When leaving a Nebula, is Clan of Saar's agent, Mendosa, applied as a bonus or setting the move value? A: … Mendosa would be treated as a bonus and would override the Nebula's movement value rule."
+@43
+N No source found.
+@44
+I1 LRR 6.2a: "A unit or planet is adjacent to all system tiles that are adjacent to the system tile that contains that unit or planet. a A system is not adjacent to itself." a system is not adjacent to itself, so a unit in it is not adjacent to it.
+@45
+N No source found.
+@46
+N No source found.
+@47
+E2 RulesPal, "If Saar take several planets in one action, can they deploy a mech on each?": "Yes — each planet gained is its own timing window."
+@48
+N No source found.
+@49
+E6 "Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced."
+@50
+E6 Same ruling: "the targeted player uses Sustain Damage when the hit is produced."
+@51
+E6 Same ruling: "Can the Saar player assign two hits to a unit …? A: Yes."

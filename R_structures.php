@@ -3,15 +3,15 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '85.' counter(item, decimal);} </style>
-<p>A structure is a type of unit. PDS units and space docks are structures.</p>
+<p data-src="1,2">A structure is a type of unit. PDS units and space docks are structures.</p>
     <ol class="lrr">
-    <li>Structures are always placed on planets.</li>
-    <ol><li>The Clan of Saar&rsquo;s &ldquo;Floating Factory&rdquo; faction&ndash;specific space dock is placed in a system&rsquo;s space area.</li></ol>
-    <li>Structures are primarily placed on planets using the <i>Construction</i> strategy card.</li>
-    <li>Structures cannot move or be transported.</li>
-    <li>A player can have a maximum of <b>one</b> space dock on each planet.</li>
-    <li>A player can have a maximum of <b>two</b> PDS units on each planet.</li>
-    <li>A player cannot place a structure on a planet if it would exceed the maximum number of allowed structures of that type on that planet.</li>
+    <li data-src="1">Structures are always placed on planets.</li>
+    <ol><li data-src="1,2">The Clan of <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a>&rsquo;s &ldquo;Floating Factory&rdquo; faction&ndash;specific space dock is placed in a system&rsquo;s space area.</li></ol>
+    <li data-src="1,2">Structures are primarily placed on planets using the <a href="https://twilight-imperium.fandom.com/wiki/Construction_(Strategy_card)"><i>Construction</i></a> strategy card.</li>
+    <li data-src="1,2,4">Structures cannot move or be transported.</li>
+    <li data-src="1,2,3">A player can have a maximum of <b>one</b> space dock on each planet.</li>
+    <li data-src="1,2,3">A player can have a maximum of <b>two</b> PDS units on each planet.</li>
+    <li data-src="1,4">A player cannot place a structure on a planet if it would exceed the maximum number of allowed structures of that type on that planet.</li>
     </ol>
 
 <h2>Notes</h2>

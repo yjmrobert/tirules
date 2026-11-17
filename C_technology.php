@@ -3,203 +3,210 @@
 <article>
 <p>For notes about specific generic unit upgrade technologies, see the <a href="/C_units">unit component notes page</a>.</p>
 <p>For notes about technologies of a specific faction, see that faction&rsquo;s notes page.</p>
-<h2>Antimass Deflectors</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors">Antimass Deflectors</a></h2>
     <ol class="note">
-    <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.</li>
+    <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>2</sup></li>
     </ol>
 
-<h2>Dark Energy Tap</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap">Dark Energy Tap</a></h2>
     <ol class="note">
-    <li>A ship may be moved into the system containing the frontier token during the same action that it is explored.</li>
-    <li>Exploring the frontier token happens at the end of the tactical action. Notably, this is after the <b>Space Cannon Offense</b> and/or <b>Space Combat</b> steps.</li>
-    <li>Exploring the frontier token is mandatory if the player has a ship in the active system at the end of the tactical action.</li>
-    <li>When a player gains <i>Dark Energy Tap</i>, they do not immediately explore any frontier tokens in systems containing their ships. They must activate those systems to explore those tokens.</li>
-    <ol><li>If a player moves or places a ship into a system outside of a tactical action, they cannot explore a frontier token in that system.</li></ol>
-    <li>The Saar player cannot explore a frontier token with a Floating Factory. However, if they produce a ship during the <b>Production</b> step, they will be able to use that ship to explore the token.</li>
-    <li>A player cannot use <i>Dark Energy Tap</i> to retreat into a system that contains another player&rsquo;s units, including ground forces and structures on planets.</li>
+    <li>A ship may be moved into the system containing the frontier token during the same action that it is explored.<sup>8</sup></li>
+    <li>Exploring the frontier token happens at the end of the tactical action. Notably, this is after the <b>Space Cannon Offense</b> and/or <b>Space Combat</b> steps.<sup>2,8</sup></li>
+    <li>Exploring the frontier token is mandatory if the player has a ship in the active system at the end of the tactical action.<sup>2,8</sup></li>
+    <li>When a player gains <i>Dark Energy Tap</i>, they do not immediately explore any frontier tokens in systems containing their ships. They must activate those systems to explore those tokens.<sup>8</sup></li>
+    <ol><li>If a player moves or places a ship into a system outside of a tactical action, they cannot explore a frontier token in that system.<sup>2,8</sup></li></ol>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player cannot explore a frontier token with a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a>. However, if they produce a ship during the <b>Production</b> step, they will be able to use that ship to explore the token.<sup>*</sup></li>
+    <li>A player cannot use <i>Dark Energy Tap</i> to retreat into a system that contains another player&rsquo;s units, including ground forces and structures on planets.<sup>8</sup></li>
     </ol>
 
-<h2>Gravity Drive</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive">Gravity Drive</a></h2>
     <ol class="note">
+    <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, applying +2 to the move value of that ship.<sup>2</sup></li>
     </ol>
 
-<h2>Sling Relay</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.</li>
-    <li><i>Sling Relay</i> cannot be used without producing a unit.</li>
+    <li>The produced unit must be paid for.<sup>1</sup></li>
+    <li><i>Sling Relay</i> cannot be used without producing a unit.<sup>2,4</sup></li>
     </ol>
 
-<h2>Fleet Logistics</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
-    <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.</li>
-    <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Fleet Logistics</i> to perform an additional action.</li>
-    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.</li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.</li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
+    <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.<sup>2</sup></li>
+    <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Fleet Logistics</i> to perform an additional action.<sup>2</sup></li>
+    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>*</sup></li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>2</sup></li>
+    <li>If a player&rsquo;s first action is a strategic action, the other players resolve the secondary ability of that strategy card before the player performs their second action.<sup>2</sup></li>
     </ol>
 
-<h2>Light/Wave Deflector</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector">Light/Wave Deflector</a></h2>
     <ol class="note">
+    <li>A ship that uses <i>Light/Wave Deflector</i> to move through a system containing another player&rsquo;s ships may pick up and transport units from that system.<sup>2</sup></li>
+    <li><i>Light/Wave Deflector</i> does not allow a player to produce ships in a system that contains another player&rsquo;s ships.<sup>2</sup></li>
     </ol>
 
-<h2>Neural Motivator</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator">Neural Motivator</a></h2>
     <ol class="note">
-    <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <i>Politics</i> action card, or any other effect outside of the status phase.</li>
-    <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply when a player draws action cards due to the effect of the <i>Minister of Policy</i> law or similar effects.</li>
+    <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Politics_(Strategy_card)"><i>Politics</i></a> action card, or any other effect outside of the status phase.<sup>1</sup></li>
+    <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply when a player draws action cards due to the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> law or similar effects.<sup>1,5</sup></li>
     </ol>
 
-<h2>Psychoarchaeology</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
     <ol class="note">
-    <li>When researching a technology, each planet with a technology speciality can only be used to ignore a single prerequisite.</li>
-    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <i>Uprising</i> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.</li>
-    <li>If multiple planets are exhausted, the trade goods are gained one at a time.</li>
+    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup></li>
+    <li>If multiple planets are exhausted, the trade goods are gained one at a time.<sup>2,4</sup></li>
     </ol>
 
-<h2>Dacxive Animators</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Bio&ndash;Stims</h2>
-    <ol class="note">
-    </ol>
-
-<h2>Hyper Metabolism</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Technology#Basic_Technology:~:text=Dacxive%20Animators">Dacxive Animators</a></h2>
     <ol class="note">
     </ol>
 
-<h2>X&ndash;89 Bacterial Weapon</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Bio-Stims">Bio&ndash;Stims</a></h2>
     <ol class="note">
     </ol>
 
-<h2>X&ndash;89 Bacterial Weapon &Omega;</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism">Hyper Metabolism</a></h2>
     <ol class="note">
-    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.</li>
-    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> will trigger only after all bombardment hits have been assigned.</li> 
-    <li>The L1Z1X may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <sc>Harrow</sc> faction ability.</li>
+    <li>The text of <i>Hyper Metabolism</i> is changed to: &ldquo;During the status phase, gain 3 command tokens instead of 2.&rdquo;<sup>1,10</sup></li>
     </ol>
 
-<h2>X&ndash;89 Bacterial Weapon &Omega;&Omega;</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a></h2>
     <ol class="note">
-    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily double the number of hits they produce.</li>
-    <li>Effects that cancel hits will only cancel hits based on the doubled number of hits.</li>
-    <li>Ground forces that are participating in space combat as though they were ships do not double the hits they produce.</li>
-    <ol><li>Ships that are participating in ground combat as though they were ground forces double the hits they produce.</li></ol>
-    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <sc>bombardment</sc> roll against, even if they produce no hits.</li>
-    <li>A war sun must target the same planet with all three of its <sc>bombardment</sc> dice.</li>
-    <ol><li>If a unit may roll additional <sc>bombardment</sc> dice, such as by the <i>Plasma Scoring</i> technology, that additional dice must target the same planet.</li></ol>
-    <li>A player may roll for <sc>bombardment</sc> against a planet that contains no ground forces.</li>
     </ol>
 
-<h2>Plasma Scoring</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a></h2>
     <ol class="note">
-    <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.<sup>*</sup></li>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> will trigger only after all bombardment hits have been assigned.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet">L1Z1X</a> may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>*</sup></li>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> cannot be used unless the player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> destroys at least one infantry; if all hits are assigned to mechs, it has no effect.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;&Omega;</a></h2>
+    <ol class="note">
+    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily double the number of hits they produce.<sup>15</sup></li>
+    <li>Effects that cancel hits will only cancel hits based on the doubled number of hits.<sup>6</sup></li>
+    <li>Ground forces that are participating in space combat as though they were ships do not double the hits they produce.<sup>*</sup></li>
+    <ol><li>Ships that are participating in ground combat as though they were ground forces double the hits they produce.<sup>*</sup></li></ol>
+    <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> roll against, even if they produce no hits.<sup>15</sup></li>
+    <li>A player who bombards another player&rsquo;s coexisting units on a planet they control must still exhaust that planet.<sup>6</sup></li>
+    <li>A war sun must target the same planet with all three of its <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> dice.<sup>2</sup></li>
+    <ol><li>If a unit may roll additional <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional dice must target the same planet.<sup>2</sup></li></ol>
+    <li>A player may roll for <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>bombardment</sc></a> against a planet that contains no ground forces.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring">Plasma Scoring</a></h2>
+    <ol class="note">
+    <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.<sup>1,2,3</sup></li>
     <ol>
-        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.</li>
-        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.</li>
+        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,6</sup></li>
+        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
     </ol>
-    </ol>
-
-<h2>AI Development Algorithm</h2>
-    <ol class="note">
-    <li>When a player exhausts <i>AI Development Algorithm</i> to ignore a prerequisite of a unit upgrade technology that they are researching, they may still use <i>AI Development Algorithm</i> itself for meeting a warfare technology (red) prerequisite on that unit upgrade technology in the same manner as any other technology.</li>
-    <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.</li></ol>
+    <li>If a player makes separate <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup></li>
+    <li>A space dock using the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
     </ol>
 
-<h2>Magen Defense Grid</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm">AI Development Algorithm</a></h2>
     <ol class="note">
-    <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <sc>Planetary Shield</sc> ability have lost it.</li>
+    <li>When a player exhausts <i>AI Development Algorithm</i> to ignore a prerequisite of a unit upgrade technology that they are researching, they may still use <i>AI Development Algorithm</i> itself for meeting a warfare technology (red) prerequisite on that unit upgrade technology in the same manner as any other technology.<sup>2</sup></li>
+    <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.<sup>2</sup></li></ol>
     </ol>
 
-<h2>Magen Defense Grid &Omega;</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a></h2>
     <ol class="note">
-    <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.</li>
-    <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
-    <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
+    <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="https://twilight-imperium.fandom.com/wiki/Planetary_Shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup></li>
     </ol>
 
-<h2>Magen Defense Grid &Omega;&Omega;</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a></h2>
     <ol class="note">
-    <li>The player with <i>Magen Defense Grid &Omega;&Omega;</i> chooses which ground force the hit is assigned to.</li>
-    <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
-    <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;&Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
-    <li><i>Magen Defense Grid &Omega;&Omega;</i> will place infantry regardless of who activates the system.</li>
-    <li>If a player has multiple structures in the system, one infantry is placed with each.</li>
-    <li>The infantry must be placed on the same planet as the structure.</li>
-    <ol><li>If the Saar player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a Floating Factory is activated, then the infantry will be placed in the space area.</li></ol>
+    <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.<sup>10</sup></li>
+    <li>The chosen ground force may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup></li>
+    <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.<sup>*</sup></li>
+    <li>The hit is produced at the start of ground combat, before any dice are rolled. A ground force destroyed by this hit does not roll.<sup>2</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;&Omega;</a></h2>
+    <ol class="note">
+    <li>The player with <i>Magen Defense Grid &Omega;&Omega;</i> chooses which ground force the hit is assigned to.<sup>15</sup></li>
+    <li>The chosen ground force may cancel the hit by using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup></li>
+    <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;&Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.<sup>*</sup></li>
+    <li><i>Magen Defense Grid &Omega;&Omega;</i> will place infantry regardless of who activates the system.<sup>15</sup></li>
+    <li>If a player has multiple structures in the system, one infantry is placed with each.<sup>15</sup></li>
+    <li>The infantry must be placed on the same planet as the structure.<sup>15</sup></li>
+    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar">Saar</a> player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a> is activated, then the infantry will be placed in the space area.<sup>*</sup></li></ol>
     </ol>
 
 <h2>Self&ndash;Assembly Routines</h2>
     <ol class="note">
-    <li>If multiple mechs are destroyed, the trade goods are gained one at a time.</li>
-    <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.</li>
-    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
-    <li>A player will still gain the trade good for a destroyed mech if <i>Self&ndash;Assembly Routines</i> is exhausted.</li>
+    <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.<sup>2</sup></li>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 
-<h2>Duranium Armor</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor">Duranium Armor</a></h2>
     <ol class="note">
-    <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
-    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.</li>
-    <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
-    <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
-    <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <sc>Space Cannon</sc> or <sc>Bombardment</sc> hits that occurred immediately before the combat.</li></ol>
-    <li>If a unit is damaged during combat without using its <sc>Sustain Damage</sc> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.</li>
-    <li>Only units participating in the combat may be chosen to be repaired.</li>
-    <li><i>Duranium Armor</i> can be used to repair a damaged unit which does not currently have the <sc>Sustain Damage</sc> ability.</li>
+    <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.<sup>3</sup></li>
+    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.<sup>2</sup></li>
+    <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.<sup>2</sup></li>
+    <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.<sup>2</sup></li>
+    <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/Bombardment"><sc>Bombardment</sc></a> hits that occurred immediately before the combat.<sup>2</sup></li></ol>
+    <li>If a unit is damaged during combat without using its <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.<sup>3</sup></li>
+    <li>Only units participating in the combat may be chosen to be repaired.<sup>2,4</sup></li>
     </ol>
 
-<h2>Assault Cannon</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon">Assault Cannon</a></h2>
     <ol class="note">
-    <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.</li>
-    <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
+    <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.<sup>2</sup></li>
+    <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.<sup>2,5</sup></li>
     <ol>
-        <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.</li>
-        <li>Examples of other abilities that may remove units at the start of a space combat include the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology ability, the Mentak player&rsquo;s <sc>Ambush</sc> faction ability, the Yin player&rsquo;s <i>Impulse Core</i> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.</li>
+        <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.<sup>2,5</sup></li>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card that may trigger off of any of the previous abilities.<sup>*</sup></li>
     </ol>
-    <li>A player may use an ability to add ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
+    <li>A player may use an ability to add ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.<sup>*</sup></li>
     <ol>
-        <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.
-        <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <i>Sleeper Cell</i> hero ability and their <sc>Ambush</sc> faction ability, the ability of the Nekro player&rsquo;s flagship, <i>The Alastor</i>, and the Naaz&ndash;Rokha player&rsquo; <i>Eidolon</i> mech ability.</li>
+        <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.<sup>*</sup></li>
+        <li>Examples of abilities that may add units at the start of space combat include a combination of the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup></li>
     </ol>
-    <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
-    </ol>
-
-<h2>Sarween Tools</h2>
-    <ol class="note">
-    <li>If units are produced without any unit using its <sc>Production</sc> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.</li>
+    <li>Effects that cancel hits, such as <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup></li>
     </ol>
 
-<h2>Scanlink Drone Network</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools">Sarween Tools</a></h2>
     <ol class="note">
-    <li>The units must be on the planet before the <b>Movement</b> step of the tactical action.</li>
+    <li>If units are produced without any unit using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.<sup>1,2,3</sup></li>
     </ol>
 
-<h2>Graviton Laser System</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Scanlink_Drone_Network">Scanlink Drone Network</a></h2>
     <ol class="note">
-    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.</li> 
+    <li>The units must be on the planet before the <b>Movement</b> step of the tactical action.<sup>2</sup></li>
     </ol>
 
-<h2>Predictive Intelligence</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Graviton_Laser_System">Graviton Laser System</a></h2>
     <ol class="note">
-    <li>Neither ability of <i>Predictive Intelligence</i> may be used if it is exhausted.</li>
-    <li>If a player removes any tokens from their fleet pool, they will need to meet their new fleet pool limits before any other effects may resolve.</li>
+    <li><i>Graviton Laser System</i> has no effect during the <b>Space Cannon Defense</b> step, as hits can only be assigned to ground forces.<sup>2</sup></li>
+    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be cancelled by the <a href="https://twilight-imperium.fandom.com/wiki/Sustain_Damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup></li>
+    <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Space_Cannon"><sc>Space Cannon</sc></a>, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup></li>
     </ol>
 
-<h2>Transit Diodes</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Predictive_Intelligence">Predictive Intelligence</a></h2>
     <ol class="note">
-    <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.</li>
-    <li>The ground forces may be removed from on a planet or from in a space area.</li>
-    <li>The ground forces may be removed from different systems.</li>
-    <li>The ground forces may be placed on different planets.</li>
-    <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.</li>
+    <li>The ability of <i>Predictive Intelligence</i> to cast additional votes cannot be used if it is exhausted.<sup>4</sup></li>
     </ol>
 
-<h2>Integrated Economy</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Transit_Diodes">Transit Diodes</a></h2>
     <ol class="note">
-    <li>The produced units must be paid for.</li>
-    <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.</li>
-    <li>Two fighters or two infantry have a combined cost of one resource.</li>
-    <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.</li> 
+    <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.<sup>*</sup></li>
+    <li>The ground forces may be removed from on a planet or from in a space area.<sup>*</sup></li>
+    <li>The ground forces may be removed from different systems.<sup>*</sup></li>
+    <li>The ground forces may be placed on different planets.<sup>*</sup></li>
+    <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.<sup>4</sup></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy">Integrated Economy</a></h2>
+    <ol class="note">
+    <li>The produced units must be paid for.<sup>1,2</sup></li>
+    <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.<sup>2</sup></li>
+    <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.<sup>2,5</sup></li>
+    <li>No unit is using its <a href="https://twilight-imperium.fandom.com/wiki/Production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

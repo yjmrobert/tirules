@@ -1,0 +1,4 @@
+@0
+E1 LRR 52.4: "When a player gains command tokens, that player places each token on their command sheet in the pool of their choice."
+E2 "In the status phase, do I get back all the command tokens I used on the board?": "Newly gained tokens may go in any pool."
+E3 Learn to Play: "When a player gains a command token, they place it in any one of three pools: the tactic pool, the fleet pool, or the strategy pool."

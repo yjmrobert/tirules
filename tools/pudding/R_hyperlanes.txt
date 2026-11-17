@@ -1,0 +1,19 @@
+@0
+E4 "Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
+E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."
+@1
+E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
+@2
+N No source found.
+@3
+E1 LRR 6.4: "Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes."
+@4
+E1 LRR 6.4: "Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes."
+@5
+E1 LRR 6.4: "Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes."
+@6
+E1 LRR 6.4: "Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes."
+@7
+E1 LRR 6.4: "Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes."
+@8
+N No source found.

@@ -1,0 +1,25 @@
+@0
+E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system." The matched LRR passage (Space Cannon) does not address this.
+@1
+E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
+E2 RulesPal, "When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?": "the command-token restriction and other tactical-action movement rules are ignored."
+I1 LRR 58.9: "If an ability moves a unit outside of the 'Movement' step of a tactical action, players follow the rules specified by that ability."
+@2
+E10 Codex I: "when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal."
+E5 Designer ruling (x3n d0g, 07/18/2018): "When retreating, you are only allowed to take the ground forces if you pick them up during the announce retreat step."
+@3
+E5 FFG answer: "the fighters' movement is not legal. Because there is no partial movement, the Advanced Fighters can either reach the active system from their current system or they cannot. It is not possible to move them part of the way and have a carrier do the rest of the work."
+I1 LRR 58.6: "The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously." movement is declared up front and simultaneous.
+@4
+E4 "When ships move, do they move 'into' systems other than the destination system? A: Only the destination system is considered moved 'into,' other systems are moved 'through.'"
+I2 "Can I move more ships into a system that already has my command token on a later turn?": "ships only move into the active system" ships move into the destination; other systems are only passed through.
+@5
+E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included. The Living Rules Reference dropped the old exception for fighters, so even Fighter I next to a space dock blocks."
+E1 LRR FAQ: "Can fighters block ship movement? A: Yes."
+E5 Designer ruling: "Lone advanced fighters can block other players' ship movement."
+@6
+E2 RulesPal, "What blocks my ships from moving through a system?": "neither do enemy ground forces or PDS."
+@7
+E2 RulesPal, "What blocks my ships from moving through a system?": "A deal can't let you through."
+@8
+E2 RulesPal, "When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?": "Anomaly rules still apply, so no ability moves ships into a supernova unless it says so."

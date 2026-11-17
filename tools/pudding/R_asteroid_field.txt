@@ -1,0 +1,4 @@
+@0
+E2 RulesPal, "Which systems count as anomalies?": "Antimass Deflectors is the technology that lets ships move in" asteroid fields.
+@1
+I4 On the nebula rule: "The Nebula section of the LRR will be edited." No source states the general change.

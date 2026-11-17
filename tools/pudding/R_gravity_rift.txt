@@ -1,0 +1,22 @@
+@0
+E2 RulesPal, "How do gravity rifts work: when do I get +1 move and when do I roll?": "A ship that stops in a rift gains nothing and doesn't roll until it later leaves." The cited entry (Creuss flagship) does not address this.
+@1
+E10 Codex I: "units that fail to survive the roll are removed from the board and returned to players' reinforcements rather than being destroyed."
+E2 RulesPal, "When a carrier leaves a gravity rift …?": "Units lost this way are removed rather than destroyed."
+@2
+E2 RulesPal, "Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?": "No — you declare every moving ship and they move together; rift rolls come after."
+I1 LRR 41.2: "one die is rolled immediately before it exits the gravity rift system."
+@3
+I2 RulesPal, "When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?": "Declare which ship carries what before rolling."
+@4
+E2 RulesPal, "How do gravity rifts work: when do I get +1 move and when do I roll?": "gets +1 move for that path, one per rift … Each ship that leaves or passes through a rift rolls."
+I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
+I8 PoK rulebook quick reference: the same text.
+N6 Partial conflict: RAW on moving through the same rift twice: "the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
+@5
+I1 LRR 95.1b: "Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board." Units not yet picked up are not being transported.
+@6
+E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes."
+E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."
+@7
+I4 On Sardakk N'orr's commander: the LRR "Will also prevent units from being committed to planets in anomalies without the appropriate technology."

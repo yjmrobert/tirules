@@ -10,12 +10,16 @@ ob_start(); ?>
 <meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="canonical" href="https://tirules2.com<?php echo htmlspecialchars(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/'); ?>"/>
-<link rel="icon" href="favicon.png"/>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+<?php if (str_ends_with(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '', '/pudding')) { ?>
+<meta name="robots" content="noindex, follow"/>
+<?php } ?>
+<link rel="icon" href="/favicon.png"/>
+<link rel="stylesheet" type="text/css" href="/style.css"/>
 <?php
+include __DIR__ . '/theme.php';
 $content = ob_get_clean();
 ob_start();
-register_shutdown_function(function() use ($content) {
+register_shutdown_function(function() use ($content, $theme_toggle_button) {
     $page_content = ob_get_clean();
     
     // Extract the header text
@@ -28,6 +32,6 @@ register_shutdown_function(function() use ($content) {
     echo $content;
     echo '<title>' . htmlspecialchars($page_title) . '</title>';
     echo "\n</head>\n<body>\n";
-    echo $page_content;
+    echo preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);
 });
 ?>

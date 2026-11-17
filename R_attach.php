@@ -3,21 +3,21 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '12.' counter(item, decimal);} </style>
-<p>Some game effects instruct a player to attach a card to a planet card. The attached card modifies that planet card in some way.</p>
+<p data-src="1,8">Some game effects instruct a player to attach a card to a planet card. The attached card modifies that planet card in some way.</p>
     <ol class="lrr">
-    <li>To attach a card to a planet card, a player places the card with the attach effect partially underneath the planet card.</li>
-    <li>If a player gains or loses control of planet that contains a card with an attach effect, the attached card stays with that planet.</li>
+    <li data-src="1,8">To attach a card to a planet card, a player places the card with the attach effect partially underneath the planet card.</li>
+    <li data-src="1,8">If a player gains or loses control of planet that contains a card with an attach effect, the attached card stays with that planet.</li>
     <ol>
-        <li>The attached card maintains its exhausted or readied state.</li>
-        <li>If a planet card is purged, also purge all cards that are attached to that planet card and remove the corresponding attachment tokens from the game board.</li>
+        <li data-src="1">The attached card maintains its exhausted or readied state.</li>
+        <li data-src="1">If a planet card is purged, also purge all cards that are attached to that planet card and remove the corresponding attachment tokens from the game board.</li>
     </ol>
-    <li>When a card is attached to a planet card, place the corresponding attachment token on that planet on the game board.</li>
+    <li data-src="1,8">When a card is attached to a planet card, place the corresponding attachment token on that planet on the game board.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>There is no limit on how many attachments a single planet may have.</li>
-    <li>The Custodians Token is not an attachment.</li>
+    <li>A single planet may have multiple attachments.<sup>2</sup></li>
+    <li>The Custodians Token is not an attachment.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -1,0 +1,7 @@
+@0
+E1 LRR 87.4a: "A unit can only use the 'Sustain Damage' ability if it is eligible to be hit. For example, a player cannot use a dreadnought's 'Sustain Damage' ability to cancel a hit from 'Anti-Fighter Barrage.'"
+@1
+E2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat, including Anti-Fighter Barrage in the first round."
+@2
+E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
