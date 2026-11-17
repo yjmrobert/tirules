@@ -40,9 +40,11 @@
     <li><a href="/R_command_tokens">Command Tokens</a></li>
     <li><a href="/R_commodities">Commodities</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
+    <li><a href="/R_neighbors">Neighbors</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
     <li><a href="/R_trade_goods">Trade Goods</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

@@ -38,10 +38,13 @@
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_capture">Capture</a></li>
     <li><a href="/R_commodities">Commodities</a></li>
-    <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_deals">Deals</a></li>
+    <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_neighbors">Neighbors</a></li>
     <li><a href="/R_promissory_notes">Promissory Notes</a></li>
+    <li><a href="/R_relics">Relics</a></li>
+    <li><a href="/R_status_phase">Status Phase</a></li>
+    <li><a href="/R_strategy_phase">Strategy Phase</a></li>
     <li><a href="/R_trade_goods">Trade Goods</a></li>
     </ul>
 </article>

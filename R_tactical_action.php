@@ -34,13 +34,18 @@
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_active_system">Active System</a></li>
+    <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>
+    <li><a href="/R_bombardment">Bombardment</a></li>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
+    <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_production">Production</a></li>
+    <li><a href="/R_space_cannon">Space Cannon</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
+    <li><a href="/R_transport">Transport</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

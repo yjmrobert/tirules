@@ -18,6 +18,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_breakthroughs">Breakthroughs</a></li>
+    <li><a href="/R_technology">Technology</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

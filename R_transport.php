@@ -35,7 +35,9 @@
     <ul>
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>
+    <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_movement">Movement</a></li>
+    <li><a href="/R_tactical_action">Tactical Action</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

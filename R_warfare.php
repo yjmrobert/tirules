@@ -30,6 +30,7 @@
     <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
+    <li><a href="/R_tactical_action">Tactical Action</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

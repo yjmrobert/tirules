@@ -27,6 +27,7 @@
     <li><a href="/R_game_board">Game Board</a></li>
     <li><a href="/R_hyperlanes">Hyperlanes</a></li>
     <li><a href="/R_planets">Planets</a></li>
+    <li><a href="/R_ships">Ships</a></li>
     <li><a href="/R_wormholes">Wormholes</a></li>
     </ul>
 </article>
