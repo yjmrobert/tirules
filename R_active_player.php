@@ -25,6 +25,7 @@
     <li><a href="/R_attacker">Attacker</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_space_cannon">Space Cannon</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

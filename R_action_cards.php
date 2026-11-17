@@ -41,6 +41,7 @@
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>
+    <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_politics">Politics</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
     </ul>

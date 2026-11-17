@@ -28,6 +28,7 @@
     <li><a href="/R_nebula">Nebula</a></li>
     <li><a href="/R_supernova">Supernova</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
+    <li><a href="/R_wormholes">Wormholes</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

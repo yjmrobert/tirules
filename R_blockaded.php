@@ -23,6 +23,7 @@
     <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_production">Production</a></li>
     <li><a href="/R_ships">Ships</a></li>
+    <li><a href="/R_space_combat">Space Combat</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>
     </ul>
 </article>

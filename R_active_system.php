@@ -18,9 +18,12 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_command_tokens">Command Tokens</a></li>
+    <li><a href="/R_diplomacy">Diplomacy</a></li>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
     <li><a href="/R_tactical_action">Tactical Action</a></li>
+    <li><a href="/R_warfare">Warfare</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

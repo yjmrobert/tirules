@@ -33,10 +33,12 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
+    <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>
     <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_planetary_shield">Planetary Shield</a></li>
+    <li><a href="/R_sustain_damage">Sustain Damage</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

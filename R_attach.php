@@ -24,6 +24,7 @@
     <ul>
     <li><a href="/R_agenda_card">Agenda Card</a></li>
     <li><a href="/R_control">Control</a></li>
+    <li><a href="/R_custodians_token">Custodians Token</a></li>
     <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_planets">Planets</a></li>
     </ul>

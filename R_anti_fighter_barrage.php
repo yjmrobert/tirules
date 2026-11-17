@@ -28,6 +28,7 @@
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
+    <li><a href="/R_sustain_damage">Sustain Damage</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

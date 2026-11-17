@@ -25,6 +25,7 @@
     <li><a href="/R_neighbors">Neighbors</a></li>
     <li><a href="/R_pds">PDS</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
+    <li><a href="/R_wormhole_nexus">Wormhole Nexus</a></li>
     <li><a href="/R_wormholes">Wormholes</a></li>
     </ul>
 </article>

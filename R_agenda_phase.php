@@ -62,8 +62,10 @@
     <ul>
     <li><a href="/R_agenda_card">Agenda Cards</a></li>
     <li><a href="/R_custodians_token">Custodians Token</a></li>
+    <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_game_round">Game Round</a></li>
     <li><a href="/R_influence">Influence</a></li>
+    <li><a href="/R_space_stations">Space Stations</a></li>
     <li><a href="/R_speaker">Speaker</a></li>
     <li><a href="/R_transactions">Transactions</a></li>
     </ul>

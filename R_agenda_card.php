@@ -24,6 +24,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
+    <li><a href="/R_attach">Attach</a></li>
     <li><a href="/R_politics">Politics</a></li>
     <li><a href="/R_speaker">Speaker</a></li>
     <li><a href="/R_victory_points">Victory Points</a></li>

@@ -82,6 +82,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
+    <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_leaders">Leaders</a></li>
