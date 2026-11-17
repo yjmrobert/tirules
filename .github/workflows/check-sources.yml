@@ -1,0 +1,61 @@
+# Weekly check of the site's live sources (Google Docs, RulesPal, wiki) for changes.
+# Snapshots live on the source-snapshots branch, never on main, so they are not deployed.
+# When a source changes, this opens an issue with the diff. See tools/check_sources.py.
+name: Check sources for updates
+
+on:
+  schedule:
+    - cron: "17 14 * * 1"   # Mondays 14:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-sources
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get previous snapshots
+        run: |
+          if git fetch --depth=1 origin source-snapshots; then
+            git worktree add snapshots FETCH_HEAD
+            git -C snapshots checkout -B source-snapshots
+          else
+            git worktree add --orphan -b source-snapshots snapshots
+          fi
+
+      - name: Check sources
+        id: check
+        run: |
+          set +e
+          python3 tools/check_sources.py snapshots --report report.md
+          echo "status=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Save snapshots
+        run: |
+          cd snapshots
+          git add -A
+          if ! git diff --cached --quiet; then
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Source snapshots $(date -u +%F)"
+            git push origin source-snapshots
+          fi
+
+      - name: Open an issue
+        if: hashFiles('report.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ steps.check.outputs.status }}" = "1" ]; then
+            title="Sources changed: $(date -u +%F)"
+          else
+            title="Source check failed to fetch: $(date -u +%F)"
+          fi
+          gh issue create --title "$title" --body-file report.md
