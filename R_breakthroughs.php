@@ -20,6 +20,7 @@
     <li><a href="/R_expedition">Expedition</a></li>
     <li><a href="/R_fracture">The Fracture</a></li>
     <li><a href="/R_synergy">Synergy</a></li>
+    <li><a href="/R_technology">Technology</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

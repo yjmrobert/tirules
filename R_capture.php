@@ -38,7 +38,11 @@
     <ul>
     <li><a href="/R_blockaded">Blockaded</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
+    <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>
+    <li><a href="/R_reinforcements">Reinforcements</a></li>
+    <li><a href="/R_space_combat">Space Combat</a></li>
+    <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>

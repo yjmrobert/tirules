@@ -44,8 +44,16 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_blockaded">Blockaded</a></li>
+    <li><a href="/R_bombardment">Bombardment</a></li>
     <li><a href="/R_control">Control</a></li>
+    <li><a href="/R_ground_combat">Ground Combat</a></li>
+    <li><a href="/R_invasion">Invasion</a></li>
+    <li><a href="/R_planetary_shield">Planetary Shield</a></li>
     <li><a href="/R_planets">Planets</a></li>
+    <li><a href="/R_production">Production</a></li>
+    <li><a href="/R_space_cannon">Space Cannon</a></li>
+    <li><a href="/R_structures">Structures</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

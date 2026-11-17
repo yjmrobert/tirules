@@ -29,6 +29,7 @@
     <ul>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_pds">PDS</a></li>
+    <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>

@@ -19,6 +19,7 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_deploy">Deploy</a></li>
     <li><a href="/R_modifiers">Modifiers</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_resources">Resources</a></li>

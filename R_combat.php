@@ -19,6 +19,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_ground_combat">Ground Combat</a></li>
+    <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_modifiers">Modifiers</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
     <li><a href="/R_units">Units</a></li>

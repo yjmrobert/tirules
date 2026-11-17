@@ -36,9 +36,11 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_deploy">Deploy</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
     <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>
+    <li><a href="/R_reinforcements">Reinforcements</a></li>
     <li><a href="/R_units">Units</a></li>
     </ul>
 </article>

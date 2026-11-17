@@ -35,8 +35,10 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_fleet_pool">Fleet Pool</a></li>
     <li><a href="/R_movement">Movement</a></li>
+    <li><a href="/R_space_cannon">Space Cannon</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
     <li><a href="/R_transport">Transport</a></li>
     </ul>
