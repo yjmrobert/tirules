@@ -19,8 +19,10 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_deploy">Deploy</a></li>
+    <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>
     <li><a href="/R_leader_sheet">Leader Sheet</a></li>
+    <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_units">Units</a></li>
     </ul>
 </article>

@@ -44,6 +44,9 @@
     <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>
+    <li><a href="/R_legendary_planets">Legendary Planets</a></li>
+    <li><a href="/R_opponent">Opponent</a></li>
+    <li><a href="/R_pds">PDS</a></li>
     <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_space_cannon">Space Cannon</a></li>
     </ul>

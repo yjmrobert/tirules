@@ -28,10 +28,13 @@
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_agenda_card">Agenda Card</a></li>
+    <li><a href="/R_custodians_token">Custodians Token</a></li>
+    <li><a href="/R_deals">Deals</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_speaker">Speaker</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

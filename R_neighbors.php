@@ -20,6 +20,9 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_adjacency">Adjacency</a></li>
+    <li><a href="/R_agenda_phase">Agenda Phase</a></li>
+    <li><a href="/R_deals">Deals</a></li>
+    <li><a href="/R_promissory_notes">Promissory Notes</a></li>
     <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>

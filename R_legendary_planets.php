@@ -29,6 +29,7 @@
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_planets">Planets</a></li>
+    <li><a href="/R_status_phase">Status Phase</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

@@ -40,10 +40,12 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_adjacency">Adjacency</a></li>
     <li><a href="/R_anomalies">Anomalies</a></li>
     <li><a href="/R_capacity">Capacity</a></li>
+    <li><a href="/R_deals">Deals</a></li>
     <li><a href="/R_hyperlanes">Hyperlanes</a></li>
     <li><a href="/R_move">Move</a></li>
     <li><a href="/R_ships">Ships</a></li>

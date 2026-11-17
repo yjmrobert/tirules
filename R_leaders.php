@@ -51,8 +51,10 @@
     <li><a href="/R_component_action">Component Action</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_leader_sheet">Leader Sheet</a></li>
+    <li><a href="/R_neighbors">Neighbors</a></li>
     <li><a href="/R_purge">Purge</a></li>
     <li><a href="/R_readied">Readied</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

@@ -17,6 +17,7 @@
     <ul>
     <li><a href="/R_custodians_token">Custodians Token</a></li>
     <li><a href="/R_imperial">Imperial</a></li>
+    <li><a href="/R_legendary_planets">Legendary Planets</a></li>
     <li><a href="/R_planets">Planets</a></li>
     </ul>
 </article>

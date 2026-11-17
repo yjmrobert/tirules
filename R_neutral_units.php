@@ -24,6 +24,8 @@
     <li><a href="/R_fracture">The Fracture</a></li>
     <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
+    <li><a href="/R_speaker">Speaker</a></li>
+    <li><a href="/R_sustain_damage">Sustain Damage</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

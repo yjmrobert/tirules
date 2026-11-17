@@ -17,6 +17,7 @@
     <li><a href="/R_attacker">Attacker</a></li>
     <li><a href="/R_defender">Defender</a></li>
     <li><a href="/R_ground_combat">Ground Combat</a></li>
+    <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
     </ul>
 </article>

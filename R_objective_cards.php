@@ -59,6 +59,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
+    <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_imperial">Imperial</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>

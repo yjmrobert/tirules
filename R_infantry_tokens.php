@@ -23,6 +23,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_component_limitations">Component Limitations</a></li>
+    <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>
     </ul>
