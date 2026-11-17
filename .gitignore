@@ -2,3 +2,5 @@
 *.zip
 
 scratch/
+__pycache__/
+*.pyc

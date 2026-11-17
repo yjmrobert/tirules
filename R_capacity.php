@@ -18,19 +18,23 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If a player moves more fighters and/or ground forces into a system containing another player&rsquo;s ships, capacity limits must be met before proceeding to the <b>Space Cannon Offense</b> substep or the <b>Space Combat</b> step.<sup>2</sup></li>
-    <li>If a ship with capacity is destroyed during the <b>Space Cannon Offense</b> step, capacity limits must be met before space combat starts.<sup>2,5</sup></li>
+    <li>Capacity limits are checked immediately whenever a combat is not in progress.<sup>2,5</sup></li>
+    <ol>
+        <li>If, after movement, a player has more fighters and ground forces in the active system than their ships there can carry, they must remove the excess before the <b>Space Cannon Offense</b> step.<sup>2</sup></li>
+        <li>If a ship with capacity is destroyed during the <b>Space Cannon Offense</b> step, its player removes the excess units immediately, after that player&rsquo;s hits are assigned and before the next player rolls. The excess units do not remain until space combat.<sup>2,5</sup></li>
+    </ol>
     <li>A ship cannot pick up more units from a planet than it has capacity. However, a ship may pick up any units (including zero) in a system as it transports, even if doing so would cause units to be removed due to capacity limits.<sup>2,5</sup></li>
     <ol>
         <li>For example, say a carrier (with capacity four) is in the space area of a system along with four fighters. On the only planet in that system are eight infantry. There are no other units in the system. When the carrier moves out of the system, it obeys the following:<sup>5</sup></li>
-        <li>The carrier may transport the four fighters, leaving behind all eight of the infantry in the system.<sup>2,5</sup></li>
-        <li>The carrier may transport four of the eight infantry, leaving behind the four remaining infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
-        <li>The carrier may transport two of the eight infantry and two of the four fighters, leaving behind the six remaining infantry in the system. Now that the system has zero capacity, the two remaining fighters will be removed.<sup>2,5</sup></li>
-        <li>The carrier may transport nothing, leaving behind all eight of the infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
-        <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).<sup>2,5</sup></li>
-    <li>Units that are removed due to capacity limits are not destroyed. For example, removed Infantry II units do not roll for the Infantry II unit upgrade&rsquo;s ability.<sup>2</sup></li>
-    <li>If multiple players use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities during the <b>Space Cannon Offense</b> step, capacity limits must be met after each player&rsquo;s hits are assigned, before the next player rolls.<sup>2</sup></li>
+        <ol>
+            <li>The carrier may transport the four fighters, leaving behind all eight of the infantry in the system.<sup>2,5</sup></li>
+            <li>The carrier may transport four of the eight infantry, leaving behind the four remaining infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier may transport two of the eight infantry and two of the four fighters, leaving behind the six remaining infantry in the system. Now that the system has zero capacity, the two remaining fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier may transport nothing, leaving behind all eight of the infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).<sup>2,5</sup></li>
+        </ol>
     </ol>
+    <li>Units that are removed due to capacity limits are not destroyed. For example, removed Infantry II units do not roll for the Infantry II unit upgrade&rsquo;s ability.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
