@@ -33,8 +33,8 @@
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_active_player">Active Player</a></li>
-    <li><a href="/R_strategy_card">Strategy Card</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
+    <li><a href="/R_strategy_card">Strategy Card</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

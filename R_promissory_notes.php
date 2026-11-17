@@ -36,6 +36,7 @@
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>
     <li><a href="/R_elimination">Elimination</a></li>
+    <li><a href="/R_neighbors">Neighbors</a></li>
     <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>

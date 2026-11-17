@@ -18,10 +18,13 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
+    <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>
     <li><a href="/R_bombardment">Bombardment</a></li>
     <li><a href="/R_combat">Combat</a></li>
+    <li><a href="/R_ground_combat">Ground Combat</a></li>
     <li><a href="/R_space_cannon">Space Cannon</a></li>
+    <li><a href="/R_space_combat">Space Combat</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

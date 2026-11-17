@@ -47,6 +47,7 @@
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
     <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>
     <li><a href="/R_production">Production</a></li>
+    <li><a href="/R_reinforcements">Reinforcements</a></li>
     <li><a href="/R_resources">Resources</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_tactical_action">Tactical Action</a></li>

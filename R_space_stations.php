@@ -30,14 +30,21 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_commodities">Commodities</a></li>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
+    <li><a href="/R_frontier_tokens">Frontier Tokens</a></li>
     <li><a href="/R_influence">Influence</a></li>
+    <li><a href="/R_neighbors">Neighbors</a></li>
+    <li><a href="/R_neutral_units">Neutral Units</a></li>
     <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_readied">Readied</a></li>
     <li><a href="/R_resources">Resources</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
+    <li><a href="/R_structures">Structures</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
+    <li><a href="/R_trade_goods">Trade Goods</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

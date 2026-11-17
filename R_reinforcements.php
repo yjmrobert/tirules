@@ -16,6 +16,7 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
     <li><a href="/R_component_limitations">Component Limitations</a></li>
     <li><a href="/R_deploy">Deploy</a></li>

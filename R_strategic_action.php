@@ -19,7 +19,9 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
+    <li><a href="/R_objective_cards">Objective Cards</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
+    <li><a href="/R_victory_points">Victory Points</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

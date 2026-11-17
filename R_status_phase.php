@@ -35,13 +35,14 @@
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
-    <li><a href="/R_custodians_token">Custodians Token</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
+    <li><a href="/R_custodians_token">Custodians Token</a></li>
     <li><a href="/R_game_round">Game Round</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_objective_cards">Objective Cards</a></li>
     <li><a href="/R_readied">Readied</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
+    <li><a href="/R_strategy_phase">Strategy Phase</a></li>
     <li><a href="/R_sustain_damage">Sustain Damage</a></li>
     <li><a href="/R_victory_points">Victory Points</a></li>
     </ul>

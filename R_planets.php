@@ -29,8 +29,8 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
-    <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
+    <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_influence">Influence</a></li>
     <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_legendary_planets">Legendary Planets</a></li>

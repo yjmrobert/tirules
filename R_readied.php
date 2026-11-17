@@ -25,6 +25,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
+    <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_diplomacy">Diplomacy</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_leaders">Leaders</a></li>

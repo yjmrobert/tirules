@@ -21,8 +21,8 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_construction">Construction</a></li>
-    <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_pds">PDS</a></li>
+    <li><a href="/R_space_dock">Space Dock</a></li>
     <li><a href="/R_units">Units</a></li>
     </ul>
 </article>

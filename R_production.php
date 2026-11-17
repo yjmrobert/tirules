@@ -31,6 +31,7 @@
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_blockaded">Blockaded</a></li>
+    <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>
     <li><a href="/R_resources">Resources</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>

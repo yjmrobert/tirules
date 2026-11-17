@@ -54,11 +54,15 @@
     <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_adjacency">Adjacency</a></li>
+    <li><a href="/R_attacker">Attacker</a></li>
+    <li><a href="/R_capacity">Capacity</a></li>
+    <li><a href="/R_defender">Defender</a></li>
     <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_invasion">Invasion</a></li>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_pds">PDS</a></li>
     <li><a href="/R_sustain_damage">Sustain Damage</a></li>
+    <li><a href="/R_tactical_action">Tactical Action</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

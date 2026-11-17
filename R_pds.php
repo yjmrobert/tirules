@@ -21,8 +21,8 @@
     <ul>
     <li><a href="/R_construction">Construction</a></li>
     <li><a href="/R_planetary_shield">Planetary Shield</a></li>
-    <li><a href="/R_structures">Structures</a></li>
     <li><a href="/R_space_cannon">Space Cannon</a></li>
+    <li><a href="/R_structures">Structures</a></li>
     <li><a href="/R_units">Units</a></li>
     </ul>
 </article>

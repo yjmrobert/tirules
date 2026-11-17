@@ -81,6 +81,7 @@
     <li><a href="/R_opponent">Opponent</a></li>
     <li><a href="/R_sustain_damage">Sustain Damage</a></li>
     <li><a href="/R_tactical_action">Tactical Action</a></li>
+    <li><a href="/R_transport">Transport</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>
