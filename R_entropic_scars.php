@@ -24,9 +24,11 @@
 
 <h2>Related Topics</h2>
     <ul>
-    <li><a href="/R_anomalies">Anomalies</a></li>
     <li><a href="/R_abilities">Abilities</a></li>
+    <li><a href="/R_anomalies">Anomalies</a></li>
+    <li><a href="/R_status_phase">Status Phase</a></li>
     <li><a href="/R_technology">Technology</a></li>
+    <li><a href="/R_wormholes">Wormholes</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

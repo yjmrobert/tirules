@@ -32,6 +32,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_anomalies">Anomalies</a></li>
+    <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_transport">Transport</a></li>
     </ul>

@@ -25,6 +25,7 @@
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_mecatol_rex">Mecatol Rex</a></li>
     <li><a href="/R_objective_cards">Objective Cards</a></li>
+    <li><a href="/R_status_phase">Status Phase</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>
     <li><a href="/R_victory_points">Victory Points</a></li>

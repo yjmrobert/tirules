@@ -42,9 +42,12 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_agenda_card">Agenda Card</a></li>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>
     <li><a href="/R_production">Production</a></li>
+    <li><a href="/R_promissory_notes">Promissory Notes</a></li>
+    <li><a href="/R_relics">Relics</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>

@@ -32,6 +32,9 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_breakthroughs">Breakthroughs</a></li>
+    <li><a href="/R_expedition">Expeditions</a></li>
+    <li><a href="/R_game_board">Game Board</a></li>
+    <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_neutral_units">Neutral Units</a></li>
     <li><a href="/R_relics">Relics</a></li>
     <li><a href="/R_synergy">Synergy</a></li>

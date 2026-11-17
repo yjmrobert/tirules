@@ -21,13 +21,14 @@
 
 <h2>Related Topics</h2>
     <ul>
+    <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_influence">Influence</a></li>
     <li><a href="/R_leaders">Leaders</a></li>
     <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_relics">Relics</a></li>
     <li><a href="/R_resources">Resources</a></li>
-    <li><a href="/R_strategy_card">Strategy Card</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
+    <li><a href="/R_strategy_card">Strategy Card</a></li>
     <li><a href="/R_technology">Technology</a></li>
     </ul>
 </article>

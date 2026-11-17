@@ -28,6 +28,7 @@
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
+    <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_ships">Ships</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
     </ul>
