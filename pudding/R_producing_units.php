@@ -10,6 +10,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do units &lsquo;placed&rsquo; by an effect cost resources, and do they count as producing?&rdquo;: &ldquo;An effect that says &lsquo;produce&rsquo; means you pay the cost unless it says otherwise.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
         </ul></li>
+    <ol><li>Units that are placed or gained by an effect, rather than produced, are free and do not count as being produced; for example, ships placed with the <a href="/F_muaat">Muaat</a> player&rsquo;s <sc>Star Forge</sc> ability.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do units &lsquo;placed&rsquo; by an effect cost resources, and do they count as producing?&rdquo;: &ldquo;&rsquo;Place&rsquo; or &lsquo;gain&rsquo; is free and isn&rsquo;t producing, so Muaat&rsquo;s Star Forge doesn&rsquo;t count as producing and doesn&rsquo;t trigger Magmus Reactor&rsquo;s trade good.&rdquo;</li>
+        </ul></li></ol>
     <li>A player cannot produce one fighter and one infantry for one resource.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 67.2: &ldquo;If the cost is accompanied by two icons&mdash;typically for fighters and infantry&mdash;a player produces two of that unit for that cost.&rdquo; The matched passage (Arborec FAQ) is the wrong rule.</li>

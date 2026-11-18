@@ -14,6 +14,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.<sup>1,2</sup></li>
+    <ol><li>Units that are placed or gained by an effect, rather than produced, are free and do not count as being produced; for example, ships placed with the <a href="/F_muaat">Muaat</a> player&rsquo;s <sc>Star Forge</sc> ability.<sup>2</sup></li></ol>
     <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability. However, the <a href="/R_deploy"><sc>Deploy</sc></a> ability itself may have a cost that must be paid.<sup>1</sup></li>
     </ol>
 

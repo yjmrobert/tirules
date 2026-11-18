@@ -34,6 +34,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.<sup>1,2</sup></li>
+    <ol><li>Units that are placed or gained by an effect, rather than produced, are free and do not count as being produced; for example, ships placed with the <a href="/F_muaat">Muaat</a> player&rsquo;s <sc>Star Forge</sc> ability.<sup>2</sup></li></ol>
     <li>A player cannot produce one fighter and one infantry for one resource.<sup>1</sup></li>
     <li>If an effect allows a player to produce a unit of a specific type, then factional variations do not prevent that player from producing that type of unit.<sup>2</sup></li>
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.<sup>4</sup></li>
