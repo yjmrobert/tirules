@@ -25,6 +25,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When a planet card is given to another player, by an exploration effect or the Hacan mech, does control go with it?&rdquo;: &ldquo;Yes &mdash; control and holding the planet card go together, so the receiver controls the planet.&rdquo;</li>
         </ul></li>
+    <li>Each player controls every planet in their home system from the start of the game, even if that planet contains none of their units. As this control is not gained, it does not trigger abilities that resolve when a player gains control of a planet, such as the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do I control both planets in my home system at the start, and does that trigger &lsquo;gain control&rsquo; effects?&rdquo;: &ldquo;You control every home planet from the start, empty or not; a control token on an empty one is just a reminder. Because you begin with control rather than gaining it, abilities like Saar&rsquo;s Scavenge don&rsquo;t trigger at setup.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

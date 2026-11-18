@@ -6,3 +6,5 @@ I1 LRR 72.1: "The components in a player's reinforcements are limited." Reinforc
 E2 RulesPal, "Can different players control different planets in the same system?": "Yes — each planet is controlled separately and nobody controls the space area."
 @2
 E2 RulesPal, "When a planet card is given to another player, by an exploration effect or the Hacan mech, does control go with it?": "Yes — control and holding the planet card go together, so the receiver controls the planet."
+@3
+E2 RulesPal, "Do I control both planets in my home system at the start, and does that trigger 'gain control' effects?": "You control every home planet from the start, empty or not; a control token on an empty one is just a reminder. Because you begin with control rather than gaining it, abilities like Saar's Scavenge don't trigger at setup."

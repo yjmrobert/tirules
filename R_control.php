@@ -29,6 +29,7 @@
     <li>Control tokens are not component limited.<sup>1</sup></li>
     <li>Different players may control different planets in the same system.<sup>2</sup></li>
     <li>If a player is given another player&rsquo;s planet card, such as with the <a href="/F_hacan">Hacan</a> player&rsquo;s mech, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a>, they gain control of that planet.<sup>2</sup></li>
+    <li>Each player controls every planet in their home system from the start of the game, even if that planet contains none of their units. As this control is not gained, it does not trigger abilities that resolve when a player gains control of a planet, such as the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
