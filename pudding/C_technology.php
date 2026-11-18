@@ -7,7 +7,7 @@
     <ol class="note">
     <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;What does Antimass Deflectors do?&rdquo;: &ldquo;other players&rsquo; Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are&rdquo; -1 applies to all Space Cannon rolls against the player, Defense explicitly included.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What does Antimass Deflectors do?&rdquo;: &ldquo;other players&rsquo; Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are&rdquo; -1 applies to all Space Cannon rolls against the player, Defense explicitly included.</li>
         </ul></li>
     </ol>
 
@@ -124,13 +124,13 @@
     <ol class="note">
     <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;When can Psychoarchaeology be used?&rdquo;: &ldquo;At any point in the action phase, not only on your turn, but never in the middle of resolving another player&rsquo;s ability&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Psychoarchaeology be used?&rdquo;: &ldquo;At any point in the action phase, not only on your turn, but never in the middle of resolving another player&rsquo;s ability&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> FAQ: Nekro agent / Psychoarchaeology / Hacan agent timing: &ldquo;any ability that is used &ldquo;during the action phase&rdquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
         </ul></li>
     <li>If multiple planets are exhausted, the trade goods are gained one at a time.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? A: You gain them one at a time.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does Psychoarchaeology give 1 trade good per planet or 1 total?&rdquo;: &ldquo;each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet&rdquo; each use gives one trade good, so multiple planets give them one at a time.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Psychoarchaeology give 1 trade good per planet or 1 total?&rdquo;: &ldquo;each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet&rdquo; each use gives one trade good, so multiple planets give them one at a time.</li>
         </ul></li>
     </ol>
 
@@ -262,7 +262,7 @@
     <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Magen Defense Grid: &ldquo;contains 1 or more of your units that have PLANETARY SHIELD.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield&rdquo; original Magen needs a unit with Planetary Shield, so it fails if all have lost it.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield&rdquo; original Magen needs a unit with Planetary Shield, so it fails if all have lost it.</li>
         </ul></li>
     </ol>
 

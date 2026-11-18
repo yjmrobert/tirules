@@ -318,7 +318,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> On Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?&rdquo;: &ldquo;Most likely yes &mdash; the destroyed planet can&rsquo;t be controlled or invaded, so players treat the system as planetless.&rdquo; RulesPal hedges (no official ruling) but supports it.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?&rdquo;: &ldquo;Most likely yes &mdash; the destroyed planet can&rsquo;t be controlled or invaded, so players treat the system as planetless.&rdquo; RulesPal hedges (no official ruling) but supports it.</li>
         </ul></li>
     <li>A player cannot target a planet they control with <i>Stellar Converter</i>.<sup>*</sup>
         <ul>

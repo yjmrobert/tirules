@@ -22,7 +22,7 @@ N No source found.
 N No source found.
 @9
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
-E2 "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
+E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @10
 N No source found.
 @11
@@ -52,7 +52,7 @@ E4 "Does the Titans of Ul promissory note 'Terraform' count …? A: Yes, when Te
 N No source found.
 @23
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
-E2 "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
+E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @24
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
@@ -142,7 +142,7 @@ I1 LRR 19.2: trade goods "can be spent by that player as resources, influence, o
 @62
 N No source found.
 @63
-E2 "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
 @64
 E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @65
@@ -150,12 +150,12 @@ E4 "The destroyed planet token is no longer a planet for any purpose, and if it 
 I6 "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
 @66
 E1 LRR 61.7: "they can only score one objective during or after each combat."
-I2 "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
+I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
 @67
 N No source found.
 @68
 E1 LRR 61.7: "they can only score one objective during or after each combat."
-I2 "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
+I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
 @69
 N No source found.
 @70
@@ -202,7 +202,7 @@ N No source found.
 @86
 N No source found.
 @87
-I2 "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "a system isn't adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex" ships in the Mecatol system itself do not count toward Intimidate Council.
+I2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "a system isn't adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex" ships in the Mecatol system itself do not count toward Intimidate Council.
 @88
 N No source found.
 @89
@@ -219,7 +219,7 @@ E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjac
 N No source found.
 @94
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
-E2 "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
+E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @95
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @96
@@ -244,7 +244,7 @@ N No source found.
 N No source found.
 @106
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
-E2 "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
+E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @107
 N No source found.
 @108

@@ -9,7 +9,7 @@ N No source found.
 I3 Learn to Play, Support for the Throne: "When you receive this card … you must place it faceup in your play area."
 @4
 E1 LRR FAQ: "Can you intentionally reveal hidden information to another player …? A: Yes. This information is kept hidden by default, but it is permissible to reveal it." The matched LRR passage (elimination) is less direct.
-I2 "Can I show my action cards or secret objectives to other players?": "you may reveal your own hidden cards to anyone at any time" promissory notes in hand are hidden cards of the player.
+I2 RulesPal, "Can I show my action cards or secret objectives to other players?": "Yes — you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards." Promissory notes in a player's hand are that player's hidden cards.
 @5
 E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes. For example, a promissory note with 'At the start of your turn:' timing may be immediately played."
 E5 Designer ruling: "You can trade a promissory note and have it be immediately used during the start of turn window."

@@ -1,7 +1,7 @@
 @0
 E1 LRR 35.1: "When a player takes control of a planet that is not already controlled by another player, they explore that planet."
 I8 PoK rulebook quick reference lists "Establish Control" as the last invasion step.
-E2 "How does exploration work?": "When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait"
+E2 RulesPal, "How does exploration work?": "When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait"
 @1
 E1 LRR 64.5: "When a player gains control of a legendary planet, they also gain control of its legendary planet ability card."
 E7 Thunder's Edge Rulebook p. 10: "When a player takes control of a legendary planet, they also place its legendary planet ability card in their play area."

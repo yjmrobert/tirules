@@ -11,9 +11,9 @@ E6 "Oceanbound (Ability): If the Deepwrought player has all their oceans out, ca
 @5
 E6 "Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans"
 @6
-E2 "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
+E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
 @7
-E2 "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
+E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
 @8
 N No source found.
 @9

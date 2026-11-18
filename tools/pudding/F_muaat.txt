@@ -57,7 +57,7 @@ N No source found.
 E6 "Can the Muaat Hero, Nova Seed, be used on tiles in the Fracture? A: No, you cannot nova seed tiles which contain multiple systems."
 E9 Designer Q&A, "Styx and Novaseed": "No, the fracture tiles are not able to be replaced due to their unusual shape."
 @28
-E2 "Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?": "Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight."
+E2 RulesPal, "Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?": "Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight."
 @29
 E2 RulesPal, "Do several Muaat mechs each place infantry when Star Forge is used?": "Yes — each Muaat mech in or adjacent to the Star Forge system places its own infantry."
 @30

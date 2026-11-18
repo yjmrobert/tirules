@@ -13,7 +13,7 @@ E5 FFG answer: "the fighters' movement is not legal. Because there is no partial
 I1 LRR 58.6: "The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously." movement is declared up front and simultaneous.
 @4
 E4 "When ships move, do they move 'into' systems other than the destination system? A: Only the destination system is considered moved 'into,' other systems are moved 'through.'"
-I2 "Can I move more ships into a system that already has my command token on a later turn?": "ships only move into the active system" ships move into the destination; other systems are only passed through.
+I2 RulesPal, "Can I move more ships into a system that already has my command token on a later turn?": "ships only move into the active system" ships move into the destination; other systems are only passed through.
 @5
 E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included. The Living Rules Reference dropped the old exception for fighters, so even Fighter I next to a space dock blocks."
 E1 LRR FAQ: "Can fighters block ship movement? A: Yes."

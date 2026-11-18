@@ -40,7 +40,7 @@
     <ol class="note">
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions"><i>Executive Sanctions</i></a> law does not affect the Yssaril player.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;Crafty does beat effects that cap hand size, such as Executive Sanctions.&rdquo; Yssaril is unaffected by Executive Sanctions hand cap.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;Crafty does beat effects that cap hand size, such as Executive Sanctions.&rdquo; Yssaril is unaffected by Executive Sanctions hand cap.</li>
         </ul></li>
     <li><sc>Crafty</sc> does not prevent the Yssaril player from being made to discard action cards by other effects.<sup>2</sup>
         <ul>

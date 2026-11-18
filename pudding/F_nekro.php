@@ -224,7 +224,7 @@
         <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the Nekro Virus owns multiple unit upgrade technologies of the same type &hellip; does each one count toward the &lsquo;Develop Weaponry&rsquo; and &lsquo;Revolutionize Warfare&rsquo; objectives? A: No.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Mar 7, 2018): &ldquo;That&rsquo;s correct, or at least, what is intended.&rdquo; Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.</li>
         </ul></li>
         <li>If the Nekro player gains a faction&ndash;specific infantry unit upgrade technology while they own the generic Infantry II unit upgrade technology and they have infantry on that unit upgrade card that would be placed in their home system at the start of their next turn, then those infantry are transferred to the <i>Valefar Assimilator</i> card that they are using to copy the faction&ndash;specific infantry unit upgrade.<sup>*</sup>
@@ -406,7 +406,7 @@
     <li>Unit upgrades do not have a color. The Nekro player cannot gain a unit upgrade with <i>Polymorphic Algorithm</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 90.8b: &ldquo;Unit upgrades do not have a color.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;What counts for technology-colour objectives like Diversify Research and Master the Sciences?&rdquo;: &ldquo;Unit upgrades have no colour&rdquo; unit upgrades are colorless; Polymorphic Algorithm gain is by color.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What counts for technology-colour objectives like Diversify Research and Master the Sciences?&rdquo;: &ldquo;Unit upgrades have no colour&rdquo; unit upgrades are colorless; Polymorphic Algorithm gain is by color.</li>
         </ul></li>
     </ol>
 

@@ -1,6 +1,6 @@
 @0
 I1 LRR 42.4a: "During the first round of a combat, 'start of combat' and 'start of combat round' effects occur during the same timing window." LRR 42.3: a new round starts "with the 'Roll Dice' step."
-I2 "Are 'start of combat' and 'start of the first combat round' abilities in the same timing window, and how often do they happen?": "they are the same window, before Anti-Fighter Barrage" start-of-combat windows precede combat rolling.
+I2 RulesPal, "Are 'start of combat' and 'start of the first combat round' abilities in the same timing window, and how often do they happen?": "they are the same window, before Anti-Fighter Barrage" start-of-combat windows precede combat rolling.
 @1
 I1 LRR 42.4b: "During the last round of a combat, 'end of combat' and 'end of combat round' effects occur during the same timing window."
 @2

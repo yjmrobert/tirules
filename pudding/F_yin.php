@@ -113,7 +113,7 @@
     <ol class="note">
     <li>The infantry may be placed on a planet that does not contain a unit with <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;on any planet you control in that system&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;on any planet you control in that system&rdquo;</li>
         </ul></li>
     <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="/R_production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup>
         <ul>

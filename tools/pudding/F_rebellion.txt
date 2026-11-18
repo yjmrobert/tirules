@@ -1,6 +1,6 @@
 @0
 E9 Designer Q&A, "Using Wormholes": "They can't move through them. Other things are fine."
-I2 "Does the Crimson Rebellion's inability to use wormholes remove wormhole adjacency?": "No — it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives." covers most listed purposes; action cards and Exile not mentioned.
+I2 RulesPal, "Does the Crimson Rebellion's inability to use wormholes remove wormhole adjacency?": "No — it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives." covers most listed purposes; action cards and Exile not mentioned.
 E6 RAW/Community: Crimson Rebellion "cannot use wormholes": "Crimson are unable to move through wormholes. All other uses are permitted including PDS, Neighbors, placing Breaches, etc."
 @1
 E6 "Can they use the Creuss IFF? A: Yes, they still may not move through the Creuss wormholes though."

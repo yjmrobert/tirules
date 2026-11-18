@@ -62,7 +62,7 @@
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
     <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
@@ -136,7 +136,7 @@
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -404,7 +404,7 @@
     <ol class="note">
     <li>The planets cannot be in any player&rsquo;s home system.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do other players&rsquo; home planets count for &lsquo;non-home system&rsquo; objectives like Subdue the Galaxy?&rdquo;: &ldquo;No &mdash; &lsquo;non-home&rsquo; excludes every home system, including other players&rsquo; that you control.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do other players&rsquo; home planets count for &lsquo;non-home system&rsquo; objectives like Subdue the Galaxy?&rdquo;: &ldquo;No &mdash; &lsquo;non-home&rsquo; excludes every home system, including other players&rsquo; that you control.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -426,7 +426,7 @@
     <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not.&rdquo; only one secret objective per combat, so Fight with Precision uses up that combat&rsquo;s scoring.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not.&rdquo; only one secret objective per combat, so Fight with Precision uses up that combat&rsquo;s scoring.</li>
         </ul></li>
     <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup>
         <ul>
@@ -439,7 +439,7 @@
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not.&rdquo; only one secret objective per combat, so Fight with Precision uses up that combat&rsquo;s scoring.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not.&rdquo; only one secret objective per combat, so Fight with Precision uses up that combat&rsquo;s scoring.</li>
         </ul></li>
     <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup>
         <ul>
@@ -576,7 +576,7 @@
     <ol class="note">
     <li>Any ships in the <a href="/R_mecatol_rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;a system isn&rsquo;t adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex&rdquo; ships in the Mecatol system itself do not count toward Intimidate Council.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;a system isn&rsquo;t adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex&rdquo; ships in the Mecatol system itself do not count toward Intimidate Council.</li>
         </ul></li>
     <li>Any ground forces or structures are irrelevant.<sup>*</sup>
         <ul>
@@ -615,7 +615,7 @@
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -678,7 +678,7 @@
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
     <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>

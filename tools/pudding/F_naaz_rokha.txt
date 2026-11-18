@@ -32,7 +32,7 @@ N No source found.
 @15
 N No source found.
 @16
-E2 "Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?": "The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards"
+E2 RulesPal, "Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?": "The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards"
 @17
 N No source found.
 @18

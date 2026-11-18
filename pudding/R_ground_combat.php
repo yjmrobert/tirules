@@ -8,7 +8,7 @@
     <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; windows occur before the <b>Roll Dice</b> step.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 42.4a: &ldquo;During the first round of a combat, &lsquo;start of combat&rsquo; and &lsquo;start of combat round&rsquo; effects occur during the same timing window.&rdquo; LRR 42.3: a new round starts &ldquo;with the &lsquo;Roll Dice&rsquo; step.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Are &lsquo;start of combat&rsquo; and &lsquo;start of the first combat round&rsquo; abilities in the same timing window, and how often do they happen?&rdquo;: &ldquo;they are the same window, before Anti-Fighter Barrage&rdquo; start-of-combat windows precede combat rolling.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are &lsquo;start of combat&rsquo; and &lsquo;start of the first combat round&rsquo; abilities in the same timing window, and how often do they happen?&rdquo;: &ldquo;they are the same window, before Anti-Fighter Barrage&rdquo; start-of-combat windows precede combat rolling.</li>
         </ul></li>
     <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.<sup>*</sup>
         <ul>

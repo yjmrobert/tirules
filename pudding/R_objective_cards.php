@@ -44,7 +44,7 @@
     <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player, such as &hellip; your secret objective? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;Yes &mdash; you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 1/25/2019): &ldquo;If you feel you have a reason to show someone a card, perhaps as part ot a negotiation or to convince them to do something for you, that is your prerogative and I would prefer not to restrict that.&rdquo;</li>
         </ul></li>
     <li>If two players could each score an action phase objective during the same combat, the player whose condition is met first scores first; for example, a flagship or war sun is destroyed during a combat round, before the combat ends and has a winner. If both conditions are met at the same moment, the active player scores first.<sup>2</sup>

@@ -16,7 +16,7 @@
     <li>A player may choose to reveal any or all of the action cards in their hand.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player, such as an action card from your hand &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;Yes &mdash; you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jan 16, 2018): &ldquo;There are no rules preventing players from showing an an action card from their hand.&rdquo;</li>
         </ul></li>
     <li>If the action card deck is depleted, immediately shuffle the discard pile to form a new action card deck.<sup>1</sup>

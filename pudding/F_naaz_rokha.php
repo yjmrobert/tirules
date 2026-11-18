@@ -106,7 +106,7 @@
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?&rdquo;: &ldquo;The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?&rdquo;: &ldquo;The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards&rdquo;</li>
         </ul></li>
     <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.<sup>*</sup>
         <ul>

@@ -39,7 +39,7 @@
     <ol class="note">
     <li>If a player gains then loses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -51,7 +51,7 @@
     <ol class="note">
     <li>If the Deepwrought player replaces the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
     <li>The Deepwrought player may replace <i>Radical Advancement</i> itself for a biotic technology with two prerequisites.<sup>*</sup>
         <ul>

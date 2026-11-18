@@ -27,4 +27,4 @@ I5 Designer ruling: "There is a passive total capacity for the system that deter
 E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity, so you can't overload to destroy your own units."
 @10
-E2 "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."
+E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."

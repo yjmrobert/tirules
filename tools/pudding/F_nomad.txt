@@ -1,5 +1,5 @@
 @0
-E2 "When can a player make a prediction for the Nomad's Future Sight?": "Only when an ability lets you predict, usually a rider."
+E2 RulesPal, "When can a player make a prediction for the Nomad's Future Sight?": "Only when an ability lets you predict, usually a rider."
 @1
 N No source found.
 @2

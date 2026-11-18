@@ -4,7 +4,7 @@ E2 RulesPal, "Do players start the game with commodities, trade goods or action 
 N No source found.
 @2
 E1 LRR FAQ: "Can you intentionally reveal hidden information to another player, such as an action card from your hand …? A: Yes. This information is kept hidden by default, but it is permissible to reveal it."
-E2 "Can I show my action cards or secret objectives to other players?": "you may reveal your own hidden cards to anyone at any time"
+E2 RulesPal, "Can I show my action cards or secret objectives to other players?": "Yes — you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards."
 E5 Designer ruling (sigmazero13, Jan 16, 2018): "There are no rules preventing players from showing an an action card from their hand."
 @3
 E1 LRR 23.5: "When a deck is depleted, players shuffle the deck's discard pile and place it facedown to create a new deck."

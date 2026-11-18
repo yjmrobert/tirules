@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo; general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo; general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.</li>
         </ul></li>
     <li>If there are none of a structure&rsquo;s type in their reinforcements, the L1Z1X player is not forced to replace that structure.<sup>1,2,4</sup>
         <ul>

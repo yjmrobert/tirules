@@ -45,7 +45,7 @@
         </ul></li>
     <li>All of the Saar player&rsquo;s ground forces must be placed on the same planet.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;How does Saar&rsquo;s Ragh&rsquo;s Call work in an invasion?&rdquo;: &ldquo;moves the Saar ground forces from one planet to another single planet&rdquo; Ragh&rsquo;s Call moves all Saar ground forces to a single planet.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Ragh&rsquo;s Call work in an invasion?&rdquo;: &ldquo;moves the Saar ground forces from one planet to another single planet&rdquo; Ragh&rsquo;s Call moves all Saar ground forces to a single planet.</li>
         </ul></li>
     </ol>
 
@@ -145,7 +145,7 @@
         </ul></li></ol>
     <li>When resolving an ability of the <a href="/R_construction"><i>Construction</i></a> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Where do Saar Floating Factories go, and how many can share a system?&rdquo;: &ldquo;If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory&rsquo;s own rule puts it in that system&rsquo;s space area.&rdquo; Saar still needs a planet for Construction; implicit.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Where do Saar Floating Factories go, and how many can share a system?&rdquo;: &ldquo;If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory&rsquo;s own rule puts it in that system&rsquo;s space area.&rdquo; Saar still needs a planet for Construction; implicit.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Aug 1, 2018): &ldquo;So while it is never placed on the planet, an eligible planet does need to exist.&rdquo;</li>
         </ul></li>
     <ol><li>The Saar player cannot place a Floating Factory in a system if the only planet they control in that system has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> cultural exploration card attached.<sup>*</sup>

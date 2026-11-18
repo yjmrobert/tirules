@@ -12,7 +12,7 @@ E6 "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming." The di
 @5
 E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
 @6
-I2 "Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?": "Crafty does beat effects that cap hand size, such as Executive Sanctions." Yssaril is unaffected by Executive Sanctions hand cap.
+I2 RulesPal, "Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?": "Crafty does beat effects that cap hand size, such as Executive Sanctions." Yssaril is unaffected by Executive Sanctions hand cap.
 @7
 E2 RulesPal, "Does Public Execution … and does Yssaril's Crafty save their hand?": "The discard comes from being elected, not from the hand limit, so Yssaril must discard too."
 E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player." "Ignoring the hand limit doesn't stop effects that make you discard."

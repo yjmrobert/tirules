@@ -43,7 +43,7 @@ N No source found.
 @18
 E5 Designer ruling: "Assault Cannon and Mentak's Ambush happen before Anti-Fighter Barrage … likely would be assault cannons first, followed by impulse drive, followed by ambush."
 @19
-E2 "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "on any planet you control in that system"
+E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "on any planet you control in that system"
 @20
 E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "The original gives one infantry per use of Production, however many units produced."
 @21

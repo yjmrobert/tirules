@@ -101,7 +101,7 @@ E2 RulesPal: "The copied faction upgrade covers your generic one, which you keep
 E5 Designer ruling: "The intent is not that that the generic upgrades are lost, in this case."
 @45
 E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the same type … does each one count toward the 'Develop Weaponry' and 'Revolutionize Warfare' objectives? A: No."
-E2 "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts."
+E2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts."
 I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, what is intended." Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.
 @46
 N No source found.
@@ -184,7 +184,7 @@ N No source found.
 N No source found.
 @83
 I1 LRR 90.8b: "Unit upgrades do not have a color."
-I2 "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
+I2 RulesPal, "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
 @84
 N No source found.
 @85

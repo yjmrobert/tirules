@@ -273,7 +273,7 @@ N No source found.
 @118
 E1 LRR 23.4a: "if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens."
 I4 "You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech."
-E2 "If all my space docks or PDS are on the board, can I place another?": "if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs"
+E2 RulesPal, "If all my space docks or PDS are on the board, can I place another?": "if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs"
 @119
 I4 FAQ: damaged unit removed and placed: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged." a placed unit is undamaged.
 @120
@@ -382,7 +382,7 @@ I10 Codex I, Plagiarize: "ACTION: Spend 5 influence and choose a non-faction tec
 E4 "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
 @166
 I1 LRR FAQ: Sabotage "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on." The technology is the card's target.
-I2 "When exactly is Sabotage played: before or after the card's target is chosen?": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state" general rule that card choices are announced before Sabotage; only Focused Research is an exception.
+I2 RulesPal, "When exactly is Sabotage played: before or after the card's target is chosen?": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state" general rule that card choices are announced before Sabotage; only Focused Research is an exception.
 @167
 N No source found.
 @168

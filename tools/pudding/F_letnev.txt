@@ -53,7 +53,7 @@ N No source found.
 @24
 N No source found.
 @25
-I2 "Does the Letnev commander give a trade good for each unit that uses Sustain Damage?": "Yes — each use triggers it separately." each use triggers separately, so goods are gained one at a time.
+I2 RulesPal, "Does the Letnev commander give a trade good for each unit that uses Sustain Damage?": "Yes — each use triggers it separately." each use triggers separately, so goods are gained one at a time.
 @26
 E1 LRR 30.3: "A unit's deploy ability can be resolved only once per timing window."
 E8 PoK rulebook p. 10: "each deploy ability can be resolved only once per timing window."

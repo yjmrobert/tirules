@@ -8,7 +8,7 @@
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 60 (Neighbors) treats a unit or planet &ldquo;in the same system&rdquo; as sharing that system. Compare RulesPal, &ldquo;Can Stellar Converter target a planet in the same system &hellip;?&rdquo;: &ldquo;a planet counts as adjacent to the system containing it.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Is a system adjacent to itself, and are planets in the same system adjacent?&rdquo;: &ldquo;Planets are treated as adjacent to other planets in their system and in neighboring systems&rdquo; planet adjacency covers its own and neighboring systems.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a system adjacent to itself, and are planets in the same system adjacent?&rdquo;: &ldquo;Planets are treated as adjacent to other planets in their system and in neighboring systems&rdquo; planet adjacency covers its own and neighboring systems.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (maverikki, Nov 29, 2017): &ldquo;Yes, the second planet is considered adjacent for the purpose of peace accords.&rdquo; Planet in the same system counts as adjacent.</li>
         </ul></li>
     <li>The Xxcha player cannot gain control of a space station with <sc>Peace Accords</sc>, as a space station is not a planet.<sup>2,6</sup>

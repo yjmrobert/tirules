@@ -9,12 +9,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 85.4: &ldquo;A player can have a maximum of one space dock on each planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play describes space docks; the limit is in the LRR.</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
         </ul></li>
     <li>A player may have a maximum of two PDS units on each planet.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 85.5: &ldquo;A player can have a maximum of two PDS units on each planet.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo;</li>
         </ul></li>
     <li>Structures cannot be placed on the planet with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup>

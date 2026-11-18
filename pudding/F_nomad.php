@@ -11,7 +11,7 @@
     <ol class="note">
     <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;When can a player make a prediction for the Nomad&rsquo;s Future Sight?&rdquo;: &ldquo;Only when an ability lets you predict, usually a rider.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can a player make a prediction for the Nomad&rsquo;s Future Sight?&rdquo;: &ldquo;Only when an ability lets you predict, usually a rider.&rdquo;</li>
         </ul></li>
     <li>If the Nomad player predicts multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.<sup>*</sup>
         <ul>

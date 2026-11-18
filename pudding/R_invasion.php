@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 35.1: &ldquo;When a player takes control of a planet that is not already controlled by another player, they explore that planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook quick reference lists &ldquo;Establish Control&rdquo; as the last invasion step.</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;How does exploration work?&rdquo;: &ldquo;When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does exploration work?&rdquo;: &ldquo;When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait&rdquo;</li>
         </ul></li>
     <li>If a player gains control of a legendary planet, they gain the legendary planet ability card in addition to the planet card.<sup>1,7,8</sup>
         <ul>

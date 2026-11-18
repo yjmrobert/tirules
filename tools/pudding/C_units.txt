@@ -21,7 +21,7 @@ E5 Designer ruling: "During a combat, the fighters would persist until the end o
 E1 LRR FAQ: "Can fighters block ship movement? A: Yes, fighters can block ship movement."
 E5 Designer ruling: "Lone advanced fighters can block other players' ship movement."
 I3 Learn to Play: ships move only through systems without other players' ships.
-E2 "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included."
+E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included."
 @7
 E2 RulesPal, "When is the fleet pool limit checked …?": "Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."

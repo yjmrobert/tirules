@@ -29,7 +29,7 @@
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship may move &ldquo;through&rdquo; other systems.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When ships move, do they move &lsquo;into&rsquo; systems other than the destination system? A: Only the destination system is considered moved &lsquo;into,&rsquo; other systems are moved &lsquo;through.&rsquo;&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Can I move more ships into a system that already has my command token on a later turn?&rdquo;: &ldquo;ships only move into the active system&rdquo; ships move into the destination; other systems are only passed through.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I move more ships into a system that already has my command token on a later turn?&rdquo;: &ldquo;ships only move into the active system&rdquo; ships move into the destination; other systems are only passed through.</li>
         </ul></li>
     <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup>
         <ul>

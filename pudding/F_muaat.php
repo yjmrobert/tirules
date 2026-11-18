@@ -159,7 +159,7 @@
         </ul></li>
     <li>If the Muaat player moves a war sun into a system containing the <a href="/F_naalu">Naalu</a> player&rsquo;s ships, the Muaat player, as the active player, may resolve <i>Nova Seed</i> before the <a href="/F_naalu">Naalu</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?&rdquo;: &ldquo;Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?&rdquo;: &ldquo;Muaat, as the active player, so the hero can destroy the Naalu ships before Foresight.&rdquo;</li>
         </ul></li>
     </ol>
 

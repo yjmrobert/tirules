@@ -204,11 +204,11 @@
     <ol class="note">
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;No &mdash; production is one step, so the unlock condition is only met after it finishes; use the commander from your next production.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;No &mdash; production is one step, so the unlock condition is only met after it finishes; use the commander from your next production.&rdquo;</li>
         </ul></li>
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
         </ul></li></ol>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
@@ -263,7 +263,7 @@
         </ul></li>
     <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?&rdquo;: &ldquo;Yes &mdash; other players can&rsquo;t use barrage in that system, so no dice are rolled and effects tied to it, like Argent&rsquo;s, don&rsquo;t trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?&rdquo;: &ldquo;Yes &mdash; other players can&rsquo;t use barrage in that system, so no dice are rolled and effects tied to it, like Argent&rsquo;s, don&rsquo;t trigger.&rdquo;</li>
         </ul></li>
     </ol>
 

@@ -147,7 +147,7 @@
         </ul></li>
     <li>If multiple units use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability within a single step, the trade goods are gained one at a time.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Does the Letnev commander give a trade good for each unit that uses Sustain Damage?&rdquo;: &ldquo;Yes &mdash; each use triggers it separately.&rdquo; each use triggers separately, so goods are gained one at a time.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Letnev commander give a trade good for each unit that uses Sustain Damage?&rdquo;: &ldquo;Yes &mdash; each use triggers it separately.&rdquo; each use triggers separately, so goods are gained one at a time.</li>
         </ul></li>
     </ol>
 

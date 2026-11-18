@@ -61,7 +61,7 @@
     </ol>
     <li>Units that are removed due to capacity limits are not destroyed. For example, removed Infantry II units do not roll for the Infantry II unit upgrade&rsquo;s ability.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;After ships stop moving, are fighters and ground forces still tied to the ship that carried them?&rdquo;: &ldquo;Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn&rsquo;t trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After ships stop moving, are fighters and ground forces still tied to the ship that carried them?&rdquo;: &ldquo;Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn&rsquo;t trigger.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

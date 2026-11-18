@@ -27,7 +27,7 @@
     <li>A player may choose to reveal any or all of the promissory notes in their hand.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo; The matched LRR passage (elimination) is less direct.</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo; promissory notes in hand are hidden cards of the player.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;Yes &mdash; you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards.&rdquo; Promissory notes in a player&rsquo;s hand are that player&rsquo;s hidden cards.</li>
         </ul></li>
     <li>If a player receives a card, such as a promissory note, in a transaction during that card&rsquo;s timing window, they may play it immediately. For example, a promissory note with &ldquo;At the start of your turn:&rdquo; timing may be played immediately if the transaction occurred during the &ldquo;start of turn&rdquo; timing window.<sup>1,2,5</sup>
         <ul>

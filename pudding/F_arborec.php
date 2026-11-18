@@ -104,7 +104,7 @@
     <li>The <i>Duha Menaimon</i> must be in the system when it is activated for its effect to trigger. It will not trigger if it is moved into the active system later in the turn.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Arborec flagship (The &lsquo;Duha Menaimon&rsquo;) need to be in a system when it is activated &hellip;? A: Yes. The &lsquo;Duha Menaimon&rsquo; can only be used to produce units when it is in a system at the moment it is activated.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;When does the Arborec flagship produce, and can it move in first?&rdquo;: &ldquo;so it only works if it is already in the active system; it can&rsquo;t move in and then produce&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Arborec flagship produce, and can it move in first?&rdquo;: &ldquo;so it only works if it is already in the active system; it can&rsquo;t move in and then produce&rdquo;</li>
         </ul></li>
     </ol>
 

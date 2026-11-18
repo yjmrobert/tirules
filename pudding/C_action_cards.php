@@ -713,7 +713,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens.&rdquo;</li>
         <li><b>Implicit</b>: <sup>4</sup> &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo;</li>
         </ul></li>
     <ol><li>The <a href="/F_ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup>
         <ul>
@@ -1000,7 +1000,7 @@
     <li>The active player must announce which technology they are gaining before other players decide whether to play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a>, or otherwise cancel the action card.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Sabotage &ldquo;can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo; The technology is the card&rsquo;s target.</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;When exactly is Sabotage played: before or after the card&rsquo;s target is chosen?&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state&rdquo; general rule that card choices are announced before Sabotage; only Focused Research is an exception.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played: before or after the card&rsquo;s target is chosen?&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state&rdquo; general rule that card choices are announced before Sabotage; only Focused Research is an exception.</li>
         </ul></li>
     <li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.<sup>*</sup>
         <ul>

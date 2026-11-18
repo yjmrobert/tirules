@@ -65,7 +65,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can fighters block ship movement? A: Yes, fighters can block ship movement.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Lone advanced fighters can block other players&rsquo; ship movement.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: ships move only through systems without other players&rsquo; ships.</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
         </ul></li>
     <li>Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.<sup>2,5</sup>
         <ul>

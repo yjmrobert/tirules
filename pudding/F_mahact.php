@@ -73,7 +73,7 @@
     <li>A player that cannot vote due to a game effect or because they have zero influence on readied planets cannot be targeted by <i>Genetic Recombination</i>.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can Genetic Recombination target a player who isn&rsquo;t voting, such as one who played a rider?&rdquo;: &ldquo;No &mdash; it triggers before a player casts votes, and a non-voter never reaches that point.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Genetic Recombination target a player who isn&rsquo;t voting, such as one who played a rider?&rdquo;: &ldquo;No &mdash; it triggers before a player casts votes, and a non-voter never reaches that point.&rdquo;</li>
         </ul></li>
     <ol><li>If a player then gains the ability to vote, they may then be targeted by <i>Genetic Recombination</i>.<sup>4</sup>
         <ul>
@@ -85,11 +85,11 @@
     <ol class="note">
     <li>If multiple Crimson Legionnaires are destroyed at the same time, the Mahact player decides whether to gain a commodity or convert a commodity to a trade good individually for each.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;If several Crimson Legionnaires die at once, does each trigger separately?&rdquo;: &ldquo;Yes &mdash; each has its own trigger, resolved one after another.&rdquo; each triggers separately, so the choice is made per Legionnaire.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If several Crimson Legionnaires die at once, does each trigger separately?&rdquo;: &ldquo;Yes &mdash; each has its own trigger, resolved one after another.&rdquo; each triggers separately, so the choice is made per Legionnaire.</li>
         </ul></li>
     <ol><li>If two Crimson Legionnaires are destroyed at the same time, the Mahact player may choose to gain a commodity, then immediately convert that commodity to a trade good.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;If several Crimson Legionnaires die at once, does each trigger separately?&rdquo;: &ldquo;Yes &mdash; each has its own trigger, resolved one after another.&rdquo; triggers resolve one after another, so a gained commodity can then be converted by the next.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If several Crimson Legionnaires die at once, does each trigger separately?&rdquo;: &ldquo;Yes &mdash; each has its own trigger, resolved one after another.&rdquo; triggers resolve one after another, so a gained commodity can then be converted by the next.</li>
         </ul></li></ol>
     </ol>
 

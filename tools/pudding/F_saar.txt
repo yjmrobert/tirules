@@ -13,7 +13,7 @@ N No source found.
 @6
 N No source found.
 @7
-I2 "How does Saar's Ragh's Call work in an invasion?": "moves the Saar ground forces from one planet to another single planet" Ragh's Call moves all Saar ground forces to a single planet.
+I2 RulesPal, "How does Saar's Ragh's Call work in an invasion?": "moves the Saar ground forces from one planet to another single planet" Ragh's Call moves all Saar ground forces to a single planet.
 @8
 E1 LRR FAQ: "a unit that is produced must always be paid for."
 E2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
@@ -61,7 +61,7 @@ N No source found.
 @26
 N No source found.
 @27
-I2 "Where do Saar Floating Factories go, and how many can share a system?": "If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory's own rule puts it in that system's space area." Saar still needs a planet for Construction; implicit.
+I2 RulesPal, "Where do Saar Floating Factories go, and how many can share a system?": "If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory's own rule puts it in that system's space area." Saar still needs a planet for Construction; implicit.
 E5 Designer ruling (sigmazero13, Aug 1, 2018): "So while it is never placed on the planet, an eligible planet does need to exist."
 @28
 N No source found.

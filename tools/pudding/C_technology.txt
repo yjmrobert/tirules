@@ -1,5 +1,5 @@
 @0
-I2 "What does Antimass Deflectors do?": "other players' Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are" -1 applies to all Space Cannon rolls against the player, Defense explicitly included.
+I2 RulesPal, "What does Antimass Deflectors do?": "other players' Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are" -1 applies to all Space Cannon rolls against the player, Defense explicitly included.
 @1
 E8 PoK rulebook, Dark Energy Tap: "After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token."
 @2
@@ -46,11 +46,11 @@ E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the st
 E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw."
 E5 Designer ruling (Mar 2019): "NM is intended to refer to the specific step of the status phase, not a blanket rule."
 @21
-E2 "When can Psychoarchaeology be used?": "At any point in the action phase, not only on your turn, but never in the middle of resolving another player's ability"
+E2 RulesPal, "When can Psychoarchaeology be used?": "At any point in the action phase, not only on your turn, but never in the middle of resolving another player's ability"
 E4 FAQ: Nekro agent / Psychoarchaeology / Hacan agent timing: "any ability that is used “during the action phase” cannot be resolved unless there are no other abilities currently being resolved."
 @22
 E4 "When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? A: You gain them one at a time."
-I2 "Does Psychoarchaeology give 1 trade good per planet or 1 total?": "each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet" each use gives one trade good, so multiple planets give them one at a time.
+I2 RulesPal, "Does Psychoarchaeology give 1 trade good per planet or 1 total?": "each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet" each use gives one trade good, so multiple planets give them one at a time.
 @23
 E1 LRR errata: "The text of the 'Hyper Metabolism' technology should read as follows: 'During the status phase, gain 3 command tokens instead of 2.'"
 E10 Codex I: "An error in the original printing … left this biotic technology with incorrect text. … the technology provides three."
@@ -100,7 +100,7 @@ E2 RulesPal, "Does a technology I just researched, or one that is exhausted, cou
 E2 Same entry: "you can exhaust AI Development Algorithm and still count it."
 @44
 I3 Learn to Play, Magen Defense Grid: "contains 1 or more of your units that have PLANETARY SHIELD."
-I2 "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield" original Magen needs a unit with Planetary Shield, so it fails if all have lost it.
+I2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield" original Magen needs a unit with Planetary Shield, so it fails if all have lost it.
 @45
 E10 Codex I, Magen Defense Grid Ω: "you may produce 1 hit and assign it to 1 of your opponent's ground forces."
 @46

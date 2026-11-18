@@ -25,13 +25,13 @@ N No source found.
 N No source found.
 @12
 E4 "Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech."
-E2 "Can Genetic Recombination target a player who isn't voting, such as one who played a rider?": "No — it triggers before a player casts votes, and a non-voter never reaches that point."
+E2 RulesPal, "Can Genetic Recombination target a player who isn't voting, such as one who played a rider?": "No — it triggers before a player casts votes, and a non-voter never reaches that point."
 @13
 E4 "If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast."
 @14
-I2 "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." each triggers separately, so the choice is made per Legionnaire.
+I2 RulesPal, "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." each triggers separately, so the choice is made per Legionnaire.
 @15
-I2 "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." triggers resolve one after another, so a gained commodity can then be converted by the next.
+I2 RulesPal, "If several Crimson Legionnaires die at once, does each trigger separately?": "Yes — each has its own trigger, resolved one after another." triggers resolve one after another, so a gained commodity can then be converted by the next.
 @16
 E2 RulesPal, "Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?": "Yes — they replace the token, so none is needed."
 @17

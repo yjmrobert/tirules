@@ -1,6 +1,6 @@
 @0
 I1 LRR 60 (Neighbors) treats a unit or planet "in the same system" as sharing that system. Compare RulesPal, "Can Stellar Converter target a planet in the same system …?": "a planet counts as adjacent to the system containing it."
-I2 "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems" planet adjacency covers its own and neighboring systems.
+I2 RulesPal, "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems" planet adjacency covers its own and neighboring systems.
 I5 Designer ruling (maverikki, Nov 29, 2017): "Yes, the second planet is considered adjacent for the purpose of peace accords." Planet in the same system counts as adjacent.
 @1
 E6 "Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet."

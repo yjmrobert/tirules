@@ -13,7 +13,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Mentak Coalition use the &lsquo;Pillage&rsquo; faction ability &hellip; when they are neighbors with another faction as a result of &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability? A: Yes, even in the case of &lsquo;Quantum Entanglement&rsquo; only being active from the Creuss&rsquo; point of view, because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 101.3: &ldquo;Players can be neighbors and perform transactions through wormholes.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;Are the Ghosts of Creuss neighbors with a player on a beta wormhole when Creuss sits on an alpha wormhole?&rdquo;: &ldquo;Yes &mdash; Quantum Entanglement makes alpha and beta wormholes adjacent for Creuss, and adjacency created that way also makes them neighbors, so the two players can transact.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are the Ghosts of Creuss neighbors with a player on a beta wormhole when Creuss sits on an alpha wormhole?&rdquo;: &ldquo;Yes &mdash; Quantum Entanglement makes alpha and beta wormholes adjacent for Creuss, and adjacency created that way also makes them neighbors, so the two players can transact.&rdquo;</li>
         </ul></li>
     <ol><li>The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup>
         <ul>
@@ -133,7 +133,7 @@
     <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems; IFF not specifically mentioned.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems; IFF not specifically mentioned.</li>
         </ul></li>
     <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup>
         <ul>
@@ -283,7 +283,7 @@
         </ul></li>
     <li>Any units in either system are moved with their system.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> &ldquo;When the Creuss hero swaps two system tiles, do the units move with them?&rdquo;: &ldquo;Yes &mdash; units are on the tile&rsquo;s planets and space area, so they go with it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Creuss hero swaps two system tiles, do the units move with them?&rdquo;: &ldquo;Yes &mdash; units are on the tile&rsquo;s planets and space area, so they go with it.&rdquo;</li>
         </ul></li>
     </ol>
 

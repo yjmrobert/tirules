@@ -114,7 +114,7 @@ E6 "Does the Fracture enter play after any Silver Flame roll or only after an un
 @55
 E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 On Thunder's Edge: "so long as it contains no other planets it meets the requirements."
-I2 "Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?": "Most likely yes — the destroyed planet can't be controlled or invaded, so players treat the system as planetless." RulesPal hedges (no official ruling) but supports it.
+I2 RulesPal, "Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?": "Most likely yes — the destroyed planet can't be controlled or invaded, so players treat the system as planetless." RulesPal hedges (no official ruling) but supports it.
 @56
 N No source found.
 @57

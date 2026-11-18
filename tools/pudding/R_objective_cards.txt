@@ -22,7 +22,7 @@ I1 LRR 61.5b: "When a player scores an objective during the action phase, they c
 E4 On the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 @7
 E1 LRR FAQ: "Can you intentionally reveal hidden information to another player, such as … your secret objective? A: Yes. This information is kept hidden by default, but it is permissible to reveal it."
-E2 "Can I show my action cards or secret objectives to other players?": "you may reveal your own hidden cards to anyone at any time"
+E2 RulesPal, "Can I show my action cards or secret objectives to other players?": "Yes — you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards."
 E5 Designer ruling (x3n d0g, 1/25/2019): "If you feel you have a reason to show someone a card, perhaps as part ot a negotiation or to convince them to do something for you, that is your prerogative and I would prefer not to restrict that."
 @8
 E2 RulesPal, "If two players could each score an action-phase objective in the same combat, who scores first?": "Whichever condition is met first. Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner."

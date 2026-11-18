@@ -1,6 +1,6 @@
 @0
 E4 "What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? … A: Keleres selects after all other players have selected their starting technology."
-E2 "When does the Council Keleres choose its starting technologies?": "After every other faction has gathered its starting technologies, regardless of speaker order."
+E2 RulesPal, "When does the Council Keleres choose its starting technologies?": "After every other faction has gathered its starting technologies, regardless of speaker order."
 @1
 E4 "Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table."
 @2
