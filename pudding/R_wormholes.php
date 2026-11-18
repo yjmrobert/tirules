@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_wormholes">Wormholes</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) There are three advanced types of wormhole: delta, gamma, and epsilon.<sup>9</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a wormhole type.</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>A system with a wormhole is not an anomaly.<sup>2</sup>

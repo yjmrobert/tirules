@@ -1,3 +1,5 @@
+@r0
+I9 Designer Q&A, "Using Wormholes": "The Crimson Rebellion's 'Sundered' ability says 'You cannot use wormholes other than epsilon wormholes.'" The ability names epsilon wormholes as a wormhole type.
 @0
 E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered."
 @1

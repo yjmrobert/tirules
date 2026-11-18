@@ -8,8 +8,9 @@
     <li data-src="1,3">There are two basic types of wormholes: alpha and beta.</li>
     <li data-src="1,3">If a player has a PDS unit upgrade technology, they can use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their PDS units through wormholes.</li>
     <li data-src="1,2">Players can be neighbors and perform transactions through wormholes.</li>
-    <li data-src="1">There are two advanced types of wormhole: delta and gamma. These wormholes follow all other wormhole rules.</li>
+    <li data-src="1"><del>There are two advanced types of wormhole: delta and gamma.</del> These wormholes follow all other wormhole rules.</li>
     <ol>
+        <li>(Thunder&rsquo;s Edge) There are three advanced types of wormhole: delta, gamma, and epsilon.<sup>9</sup></li>
         <li data-src="1">The delta wormholes are present on the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss Gate</a> system tile and the Ghosts of <a href="/F_creuss">Creuss</a> home system tile.</li>
         <li data-src="1">The gamma wormholes are present on the wormhole nexus and can be discovered during exploration.</li>
     </ol>
