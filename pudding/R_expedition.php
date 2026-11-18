@@ -51,7 +51,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;Once claimed, that slice cannot be claimed by another player &hellip; A player can claim multiple expedition slices in a game, but must choose a different unclaimed slice each time they do so.&rdquo;</li>
         </ul></li>
-    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger, other than for the sixth and final slice.<sup>7</sup>
+    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;The first time a player claims one of the expedition slices, they gain their faction&rsquo;s breakthrough.&rdquo;</li>
         </ul></li></ol>
