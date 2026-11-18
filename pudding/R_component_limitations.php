@@ -20,6 +20,7 @@
     <li>A player may only resolve a deploy ability to place a unit that is in their reinforcements. A player cannot remove a unit from the board to use its deploy ability.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 30.2a: &ldquo;If there are no units that have a deploy ability in a player&rsquo;s reinforcements, the deploy ability cannot be used.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook: &ldquo;This ability can be used to place a unit from a player&rsquo;s reinforcements.&rdquo;</li>
         </ul></li>
     <li>Each faction has sixteen command and seventeen control tokens included in the game.<sup>3</sup>

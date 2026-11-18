@@ -6,6 +6,7 @@ E2 Same entry: "You may swap a plastic piece on the board for a token at any tim
 E1 LRR 46.4: "Infantry tokens come in values of one and three. A player can swap between these tokens as necessary."
 @3
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
+E1 LRR 30.2a: "If there are no units that have a deploy ability in a player's reinforcements, the deploy ability cannot be used."
 E8 PoK rulebook: "This ability can be used to place a unit from a player's reinforcements."
 @4
 E3 Learn to Play component list: "17 control tokens ✦ 16 command tokens."
