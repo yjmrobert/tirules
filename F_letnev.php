@@ -54,7 +54,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup></li>
+    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>1,4</sup></li>
     <li>The extra dice is mandatory for the chosen unit.<sup>*</sup></li>
     </ol>
 

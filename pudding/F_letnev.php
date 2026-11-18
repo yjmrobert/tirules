@@ -117,9 +117,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup>
+    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Crown of Thalnos Relic work with &hellip; Anti-Fighter Barrage? A: &hellip; no to Anti-Fighter Barrage. The intent is ONLY combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB? A: No, the Barony agent only has an effect on combat rolls.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 10.1c: &ldquo;Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls.&rdquo;</li>
         </ul></li>
     <li>The extra dice is mandatory for the chosen unit.<sup>*</sup>
         <ul>

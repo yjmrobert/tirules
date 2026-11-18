@@ -41,7 +41,8 @@ N No source found.
 @18
 N No source found.
 @19
-E4 Designer ruling: "Does the Crown of Thalnos Relic work with … Anti-Fighter Barrage? A: … no to Anti-Fighter Barrage. The intent is ONLY combat rolls."
+E4 Designer ruling: "Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB? A: No, the Barony agent only has an effect on combat rolls."
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls."
 @20
 N No source found.
 @21
