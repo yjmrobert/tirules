@@ -1,6 +1,9 @@
 @0
+E1 LRR 83 (Structures): "A structure is a type of unit. PDS units and space docks are structures."
 E1 LRR 63: "A PDS (planetary defense system) is a structure that allows a player to defend their territory."
 E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work if the PDS … has been hit by Disable?": "it is still a structure."
 @1
 E8 PoK rulebook unit card: "PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I."
+E3 Learn to Play faction sheet: "PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I."
 I3 Learn to Play (war sun): "Your opponents' PDS units lose PLANETARY SHIELD."
+I2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work if the PDS … has been hit by Disable?": "Disable only strips the PDS's Planetary Shield and Space Cannon."

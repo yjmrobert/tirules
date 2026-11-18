@@ -7,13 +7,16 @@
     <ol class="note">
     <li>A PDS is both a structure and a unit.<sup>1,2</sup>
         <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 83 (Structures): &ldquo;A structure is a type of unit. PDS units and space docks are structures.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR 63: &ldquo;A PDS (planetary defense system) is a structure that allows a player to defend their territory.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Codex (Omega) Magen Defense Grid still work if the PDS &hellip; has been hit by Disable?&rdquo;: &ldquo;it is still a structure.&rdquo;</li>
         </ul></li>
-    <li>Each PDS also has the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability.<sup>3,8</sup>
+    <li>Each PDS also has the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability.<sup>2,3,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook unit card: &ldquo;PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play faction sheet: &ldquo;PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play (war sun): &ldquo;Your opponents&rsquo; PDS units lose PLANETARY SHIELD.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Codex (Omega) Magen Defense Grid still work if the PDS &hellip; has been hit by Disable?&rdquo;: &ldquo;Disable only strips the PDS&rsquo;s Planetary Shield and Space Cannon.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

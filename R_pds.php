@@ -15,7 +15,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A PDS is both a structure and a unit.<sup>1,2</sup></li>
-    <li>Each PDS also has the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability.<sup>3,8</sup></li>
+    <li>Each PDS also has the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability.<sup>2,3,8</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
