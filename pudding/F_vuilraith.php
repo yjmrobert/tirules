@@ -189,7 +189,7 @@
         </ul></li>
     <li>When the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: <sup>1</sup> The matched LRR passage (Trade) does not address this.</li>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>When the secondary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.<sup>*</sup>
         <ul>

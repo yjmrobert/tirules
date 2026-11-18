@@ -77,7 +77,7 @@ N No source found.
 @36
 I2 RulesPal, "How do you capture fighters and infantry?": "A captured fighter or infantry goes back to its owner's reinforcements … and the captor places a matching token on their faction sheet instead."
 @37
-N1 The matched LRR passage (Trade) does not address this.
+N No source found.
 @38
 N No source found.
 @39
