@@ -55,7 +55,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed and returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup></li>
-    <li>The <a href="/F_empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup></li>
+    <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology allows a player to retreat into a system that does not contain their ships or a planet they control.<sup>2,8</sup></li>
     <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.<sup>2</sup></li>

@@ -11,9 +11,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Milty, 08/02/2018): &ldquo;During a combat, the fighters would persist until the end of combat&rdquo; Fighters persist through combat despite capacity.</li>
         </ul></li>
-    <li>The <a href="/F_empyrean">Empyrean</a> player may retreat into a nebula.<sup>*</sup>
+    <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ships retreat or Skilled Retreat into a nebula?&rdquo;: &ldquo;Disputed. A 2019 developer ruling relayed by players says yes &hellip; Others &hellip; say only the Empyrean can.&rdquo; Either reading allows the Empyrean.</li>
+        <li><b>Implicit</b>: <sup>4</sup> &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup>
         <ul>

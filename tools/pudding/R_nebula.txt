@@ -2,3 +2,19 @@
 E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."
 @1
 E4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to 'Units may not move through a Nebula'"
+@2
+I4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
+@3
+E2 RulesPal, "How do nebulae work for movement, and does Gravity Drive help?": "A ship leaving a nebula has move 1, and bonuses like Gravity Drive or Flank Speed are then added on top."
+@4
+I1 LRR 59.3: "If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat." LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
+@5
+N No source found. Voidborn faction ability.
+@6
+E11 Codex IV, Circlet of the Void: "Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies."
+@7
+N No source found. Nav Suite card text.
+@8
+E4 "When leaving a Nebula, is Clan of Saar's agent, Mendosa, applied as a bonus or setting the move value? A: … Mendosa would be treated as a bonus and would override the Nebula's movement value rule."
+@9
+N No source found.

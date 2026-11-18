@@ -3,7 +3,7 @@ E1 LRR 16.4c: "A player's fighters and ground forces do not count against capaci
 E2 RulesPal, "When is capacity checked if a carrier is lost?": "During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends."
 I5 Designer ruling (Milty, 08/02/2018): "During a combat, the fighters would persist until the end of combat" Fighters persist through combat despite capacity.
 @1
-I2 RulesPal, "Can ships retreat or Skilled Retreat into a nebula?": "Disputed. A 2019 developer ruling relayed by players says yes … Others … say only the Empyrean can." Either reading allows the Empyrean.
+I4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
 @2
 N No source found.
 @3
