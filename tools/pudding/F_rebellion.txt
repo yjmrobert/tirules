@@ -26,33 +26,33 @@ E6 Community consensus: "Sever (Promissory Note): Does the wormhole still count 
 @11
 E6 Community consensus: "If there are multiple wormholes in a system …, does Severing one block them all? A: All wormholes in the system."
 @12
-E6 Community consensus: "Subatomic Splicer (Technology): 'A player cannot produce ships in a system that contains other players' ships'. Does this apply to Subatomic Splicer? A: It does apply."
+E6 Community consensus: "Is the Sever token removed at the end of the status phase if the Crimson Rebellion player is eliminated …? A: The Sever token and promissory note remain in place until the note removes them in the status phase."
 @13
-I1 LRR FAQ: "a unit that is produced must always be paid for."
+E6 Community consensus: "Subatomic Splicer (Technology): 'A player cannot produce ships in a system that contains other players' ships'. Does this apply to Subatomic Splicer? A: It does apply."
 @14
-E2 RulesPal, "How do Crimson Rebellion breaches work?": "A breach goes in the combat's system at the end of combat … if one of your destroyers is in range then."
+I1 LRR FAQ: "a unit that is produced must always be paid for."
 @15
-I2 Same entry: "at the end of combat." Not limited to space combat.
+E2 RulesPal, "How do Crimson Rebellion breaches work?": "A breach goes in the combat's system at the end of combat … if one of your destroyers is in range then."
 @16
-E6 Community consensus: "Can the Crimson destroyer, Exile, place a breach at the end of a combat with neutral units? A: Yes"
+I2 Same entry: "at the end of combat." Not limited to space combat.
 @17
-N No source found.
+E6 Community consensus: "Can the Crimson destroyer, Exile, place a breach at the end of a combat with neutral units? A: Yes"
 @18
 N No source found.
 @19
 N No source found.
 @20
+N No source found.
+@21
 I6 Community consensus, Crimson agent swapping out of a gravity rift: "Swapping is not movement, so no roll is required." only the gravity-rift half is supported; Saar Spacedock claim is not in this source.
 E9 Designer Q&A: "Crimson Agent": "Does not have to abide by anything movement related. Does not work on saar docks."
-@21
-E2 RulesPal, "After a Crimson Rebellion swap, are the ships locked, and can moved units invade?": "A swap is a component action, not a tactical action, so there's no invasion unless the ability says so."
 @22
+E2 RulesPal, "After a Crimson Rebellion swap, are the ships locked, and can moved units invade?": "A swap is a component action, not a tactical action, so there's no invasion unless the ability says so."
+@23
 E6 Community consensus: "Does the Crimson commander, Ahk Siever, work on combats with neutral units? A: Yes, the commander triggers on any combat involving players (which is all combats)."
 E9 Designer Q&A, "Crimson Commander": "Does this trigger at the end of a combat with the neutral forces? Can it be used in the same combat that unlocked it? … A: Yes to both."
-@23
-E9 Designer Q&A, "Crimson Commander": "Can it be used in the same combat that unlocked it? … A: Yes to both."
 @24
-N No source found.
+E9 Designer Q&A, "Crimson Commander": "Can it be used in the same combat that unlocked it? … A: Yes to both."
 @25
 N No source found.
 @26
@@ -60,9 +60,11 @@ N No source found.
 @27
 N No source found.
 @28
+N No source found.
+@29
 I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."
-@29
-N No source found.
 @30
+N No source found.
+@31
 I2 RulesPal, on the similar Lazax Gate Folding: "The passive part … doesn't need the card ready, so it works while exhausted."

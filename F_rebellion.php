@@ -27,6 +27,7 @@
     <ol class="note">
     <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup></li>
     <li><i>Sever</i> affects all wormholes in the system, not just the one the token is placed on.<sup>6</sup></li>
+    <li>If the Rebellion player is eliminated, the <i>Sever</i> token and promissory note remain in play until the note expires at the end of the status phase, when they are removed from the game.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Technologies:~:text=Subatomic%20Splicer">Subatomic Splicer</a> <sub>(Technology)</sub></h2>

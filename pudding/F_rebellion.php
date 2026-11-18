@@ -68,6 +68,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If there are multiple wormholes in a system &hellip;, does Severing one block them all? A: All wormholes in the system.&rdquo;</li>
         </ul></li>
+    <li>If the Rebellion player is eliminated, the <i>Sever</i> token and promissory note remain in play until the note expires at the end of the status phase, when they are removed from the game.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is the Sever token removed at the end of the status phase if the Crimson Rebellion player is eliminated &hellip;? A: The Sever token and promissory note remain in place until the note removes them in the status phase.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Technologies:~:text=Subatomic%20Splicer">Subatomic Splicer</a> <sub>(Technology)</sub></h2>
