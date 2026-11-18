@@ -21,14 +21,14 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; windows occur before the <b>Roll Dice</b> step.<sup>2</sup></li>
-    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.<sup>*</sup></li>
-    <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup></li>
     <li>If ground combat is to happen on multiple planets during a single invasion step, they will be resolved planet by planet, after the <b>Space Cannon Defense</b> step has been resolved on all planets and before the <b>Establish Control</b> step is resolved on any planet. The active player chooses the order combats are fought in.<sup>3</sup></li>
+    <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; windows occur before the <b>Roll Dice</b> step.<sup>2</sup></li>
+    <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup></li>
+    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.<sup>1</sup></li>
+    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.<sup>*</sup></li>
+    <li>No player may retreat from a ground combat.<sup>*</sup></li>
     <li>A player may score up to one secret objective per ground combat.<sup>1,2</sup></li>
     <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup></li>
-    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.<sup>1</sup></li>
-    <li>No player may retreat from a ground combat.<sup>*</sup></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     </ol>
 
