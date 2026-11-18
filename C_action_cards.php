@@ -125,7 +125,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
     <li>After playing a <i>Diplomacy Rider</i>, a player may play other rider cards.<sup>1,2,5</sup></li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup></li></ol>
     <li>The effect of a successful <i>Diplomacy Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
@@ -396,7 +396,7 @@
     <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>*</sup></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup></li>
     <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.<sup>6</sup></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
+    <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
     <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>*</sup></li>
     <li>If the planet card is returned to the planet card deck, all cards attached to that planet are purged.<sup>6</sup></li>
     </ol>
@@ -614,7 +614,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
     <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>*</sup></li>
     <li>The command token is placed from a single chosen player&rsquo;s reinforcements. <i>Signal Jamming</i> cannot be played choosing a player who has no command tokens in their reinforcements.<sup>2</sup></li>
     </ol>

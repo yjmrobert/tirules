@@ -54,7 +54,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Winnu use Lazax Gate Folding&rsquo;s action without Mecatol Rex, and does the wormhole part work while exhausted?&rdquo;: &ldquo;The passive part &hellip; doesn&rsquo;t need the card ready, so it works while exhausted.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Since the passive portion of LGF doesn&rsquo;t require exhausting the card as part of a cost, you can still use it.&rdquo;</li>
         </ul></li>
-    <li><i>Lazax Gate Folding</i> may cause the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup>
+    <li><i>Lazax Gate Folding</i> may cause the <a href="/R_mecatol_rex">Mecatol Rex</a> system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2018), on Lazax Gate Folding during Winnu&rsquo;s tactical action: &ldquo;Xxcha can also fire. Same idea as above.&rdquo; Other players&rsquo; units use the adjacency too.</li>
         </ul></li>
@@ -64,20 +64,20 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
         </ul></li>
-        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system is the active system.<sup>5</sup>
+        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the <a href="/R_mecatol_rex">Mecatol Rex</a> system is the active system.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Xxcha can also fire.&rdquo;</li>
         </ul></li>
-        <li>A player may retreat to a system containing an alpha or beta wormhole from the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system during the Winnu player&rsquo;s tactical action.<sup>5</sup>
+        <li>A player may retreat to a system containing an alpha or beta wormhole from the <a href="/R_mecatol_rex">Mecatol Rex</a> system during the Winnu player&rsquo;s tactical action.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;they can also retreat to Lodor.&rdquo;</li>
         </ul></li>
-        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
+        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="/R_mecatol_rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. The designer ruling says Creuss &ldquo;can use dimensional splicer regardless &hellip; because their flagship was in the system.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a>.<sup>2,3,5</sup>
+    <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control <a href="/R_mecatol_rex">Mecatol Rex</a>.<sup>2,3,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;The action needs you to control Mecatol Rex, so it can&rsquo;t be used as a stall.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Lazax Gate Folding: &ldquo;exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.&rdquo;</li>
@@ -104,11 +104,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If Rickar Rickani is unlocked via a combat in the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a> system, then the +2 will apply to combat rolls during that combat.<sup>*</sup>
+    <li>If Rickar Rickani is unlocked via a combat in the <a href="/R_mecatol_rex">Mecatol Rex</a> system, then the +2 will apply to combat rolls during that combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic to <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Mecatol%20Rex">Mecatol Rex</a>), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup>
+    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic to <a href="/R_mecatol_rex">Mecatol Rex</a>), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? A: No, the commander only triggers once no matter how many conditions are met.&rdquo;</li>
         </ul></li>

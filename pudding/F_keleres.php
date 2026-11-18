@@ -193,7 +193,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria.&rdquo;</li>
         </ul></li>
-    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Mecatol%20Rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup>
+    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="/R_mecatol_rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial&rsquo;s ability to gain a Victory Point because you control Mecatol Rex.&rdquo;</li>
         </ul></li>

@@ -414,7 +414,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>A player with three or fewer units in a system adjacent to the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mecatol%20Rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup>
+    <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;3 units of each player in every adjacent system (all of them if a player has fewer).&rdquo;</li>
         </ul></li>

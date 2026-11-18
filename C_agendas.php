@@ -192,7 +192,7 @@ li.ixth:before
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
-    <li>A player with three or fewer units in a system adjacent to the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mecatol%20Rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup></li>
+    <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup></li>
     <li>All units are destroyed simultaneously.<sup>1,5</sup></li>
     <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.<sup>*</sup></li>
     </ol>

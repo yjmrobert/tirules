@@ -265,7 +265,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal&rsquo;s Mecatol Rex exclusion is for the Diplomacy strategy card, not this rider.</li>
         </ul></li>
@@ -888,7 +888,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;it will trigger both exploration and relic depending on its traits.&rdquo;</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup>
+    <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1380,7 +1380,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mecatol%20Rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal&rsquo;s Mecatol Rex exclusion is for the Diplomacy strategy card, not this card.</li>
         </ul></li>

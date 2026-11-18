@@ -69,7 +69,7 @@
     <ol><li>The Keleres player cannot be eliminated once they control Custodia Vigilia.<sup>4</sup></li></ol>
     <li>Custodia Vigilia may be used to qualify for objectives, if it meets any other requirements listed.<sup>4</sup></li>
     <li>Custodia Vigilia counts as a planet for agendas if it meets the specific criteria of those agendas.<sup>4</sup></li>
-    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Mecatol%20Rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup></li>
+    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="/R_mecatol_rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup></li>
     <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.<sup>*</sup></li>
     <li>When the Keleres player uses the <a href="/R_production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup></li>
     <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup></li></ol>
