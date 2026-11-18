@@ -13,6 +13,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After Politics, is it public whether the agenda cards went to the top or bottom of the deck?&rdquo;: &ldquo;You also can&rsquo;t show the cards themselves to other players, since you may only reveal hidden components you own.&rdquo;</li>
         </ul></li>
+    <ol><li>Other players may see whether each agenda card is placed on the top or the bottom of the agenda deck. Although the active player cannot show the cards, they may tell other players what the cards are, truthfully or not.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After Politics, is it public whether the agenda cards went to the top or bottom &hellip;?&rdquo;: &ldquo;Yes &mdash; everyone can see where each card goes; only the faces stay secret &hellip; you can tell them what they are (truthfully or not).&rdquo;</li>
+        </ul></li></ol>
     <li>The speaker token cannot be exchanged in a transaction. However, the active player may make a deal with another player, including receiving a transaction, in exchange for choosing them as the new speaker, following the normal rules for deals and transactions.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the speaker token be traded or sold?&rdquo;: &ldquo;Not in a transaction &mdash; it isn&rsquo;t a tradeable component. But the Politics player can take payment, or make deals, in exchange for naming someone speaker.&rdquo;</li>
@@ -20,10 +24,6 @@
     <li>The active player looks at and places the top two cards of the agenda deck even if the custodians token has not yet been removed from <a href="/R_mecatol_rex">Mecatol Rex</a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Politics look at and rearrange the agenda deck before anyone takes Mecatol Rex?&rdquo;: &ldquo;Yes &mdash; the agenda deck exists from the start and nothing restricts that part of Politics before the agenda phase begins.&rdquo;</li>
-        </ul></li>
-    <li>Other players may see whether each agenda card is placed on the top or the bottom of the agenda deck. Although the active player cannot show the cards, they may tell other players what the cards are, truthfully or not.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After Politics, is it public whether the agenda cards went to the top or bottom &hellip;?&rdquo;: &ldquo;Yes &mdash; everyone can see where each card goes; only the faces stay secret &hellip; you can tell them what they are (truthfully or not).&rdquo;</li>
         </ul></li>
     </ol>
 </article>

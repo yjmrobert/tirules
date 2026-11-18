@@ -19,9 +19,9 @@
     <ol class="note">
     <li>If there are few cards remaining in the action card deck, they will be dealt out in clockwise order from the active player. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.<sup>*</sup></li>
     <li>When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup></li>
+    <ol><li>Other players may see whether each agenda card is placed on the top or the bottom of the agenda deck. Although the active player cannot show the cards, they may tell other players what the cards are, truthfully or not.<sup>2</sup></li></ol>
     <li>The speaker token cannot be exchanged in a transaction. However, the active player may make a deal with another player, including receiving a transaction, in exchange for choosing them as the new speaker, following the normal rules for deals and transactions.<sup>2</sup></li>
     <li>The active player looks at and places the top two cards of the agenda deck even if the custodians token has not yet been removed from <a href="/R_mecatol_rex">Mecatol Rex</a>.<sup>2</sup></li>
-    <li>Other players may see whether each agenda card is placed on the top or the bottom of the agenda deck. Although the active player cannot show the cards, they may tell other players what the cards are, truthfully or not.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
