@@ -19,6 +19,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?&rdquo;: &ldquo;No &mdash; you declare every moving ship and they move together; rift rolls come after.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;one die is rolled immediately before it exits the gravity rift system.&rdquo;</li>
         </ul></li>
+    <li>Each ship rolls for gravity rift removal as it exits the gravity rift, during movement. The fleet pool limit in the active system is checked only after all moving ships arrive, so ships removed by a gravity rift do not count against it.<sup>1,2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;one die is rolled immediately before it exits the gravity rift system.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?&rdquo;: &ldquo;Fleet pool isn&rsquo;t checked in systems you pass through, only at the end, and you remove any excess then.&rdquo;</li>
+        </ul></li>
     <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?&rdquo;: &ldquo;Declare which ship carries what before rolling.&rdquo;</li>

@@ -25,6 +25,7 @@
     <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.<sup>2</sup></li>
     <li>A ship removed by a gravity rift is not destroyed.<sup>2,10</sup></li>
     <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.<sup>1,2</sup></li>
+    <li>Each ship rolls for gravity rift removal as it exits the gravity rift, during movement. The fleet pool limit in the active system is checked only after all moving ships arrive, so ships removed by a gravity rift do not count against it.<sup>1,2</sup></li>
     <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup></li>
     <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.<sup>1,2,8</sup></li>
     <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.<sup>*</sup></li>
