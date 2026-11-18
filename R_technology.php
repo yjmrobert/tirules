@@ -17,7 +17,7 @@
     <ol>
         <li data-src="1">A technology&rsquo;s color has no inherent game effect; however, each technology a player owns can satisfy a prerequisite of a matching color when researching other technology.</li>
         <li data-src="1,2,3">Unit upgrades do not have a color and do not satisfy prerequisites.</li>
-        <li data-src="1">There are four colors of technologies. <code>See your rulebook for images.</code></li>
+        <li data-src="1">There are four colors of technologies: blue (propulsion), red (warfare), green (biotic), and yellow (cybernetic).</li>
     </ol>
     <li data-src="1">Most technology cards have a column of colored symbols displayed in the lower&ndash;left corner of the card. Each symbol in this column is a prerequisite.</li>
     <ol><li data-src="1">A technology card&rsquo;s prerequisites indicate the number and color of technologies a player must own to research that technology card.</li></ol>
