@@ -21,6 +21,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who counts as my neighbor?&rdquo;: &ldquo;Ships moving through systems don&rsquo;t create neighbors on the way, since they are never in those systems.&rdquo;</li>
         </ul></li>
+    <li>Players in a space combat or ground combat with each other are neighbors, as they both have units in the same system.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who counts as my neighbor?&rdquo;: &ldquo;Players with a unit or controlled planet in the same system or adjacent systems, wormholes included, so two players fighting in a system are neighbors.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 60: &ldquo;Two players are neighbors if they both have a unit or control a planet in the same system.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

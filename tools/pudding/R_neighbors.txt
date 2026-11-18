@@ -8,3 +8,6 @@ E3 Learn to Play: "Each player may negotiate up to one transaction with each oth
 I5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does not confer neighbor status to all players." Neighbor clause stated; transaction-per-agenda limit only loosely supported (agenda phase transactions are free, new transactions allowed per new agenda).
 @2
 E2 RulesPal, "Who counts as my neighbor?": "Ships moving through systems don't create neighbors on the way, since they are never in those systems."
+@3
+E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included, so two players fighting in a system are neighbors."
+I1 LRR 60: "Two players are neighbors if they both have a unit or control a planet in the same system."
