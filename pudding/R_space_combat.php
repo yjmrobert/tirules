@@ -46,7 +46,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system.&rdquo; A retreat moves ships out of the active system.</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating, as a retreat does not happen during the <b>Movement</b> step.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
