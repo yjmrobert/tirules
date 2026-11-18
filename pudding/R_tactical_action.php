@@ -13,9 +13,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>An ability that ends a player&rsquo;s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window.<sup>2,4</sup>
+    <li>An ability that ends a player&rsquo;s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window. &ldquo;End of turn&rdquo; abilities may still be resolved.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on the Mahact commander Il Na Viroset: &ldquo;End of turn abilities can still be used.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must Xxcha use Nullification Field &hellip;?&rdquo;: &ldquo;Once the turn ends, nothing more happens in it.&rdquo;</li>
         </ul></li>
     </ol>

@@ -27,7 +27,7 @@
     <ol class="note">
     <li>Each of these five steps happen during every tactical action, unless explicitly skipped; the active player does not have to choose between fighting a combat or producing units, for example.<sup>2</sup></li>
     <li>Any abilities that occur at the end of an action happen before any abilities that occur at the end of a player&rsquo;s turn.<sup>*</sup></li>
-    <li>An ability that ends a player&rsquo;s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window.<sup>2,4</sup></li>
+    <li>An ability that ends a player&rsquo;s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window. &ldquo;End of turn&rdquo; abilities may still be resolved.<sup>2,4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

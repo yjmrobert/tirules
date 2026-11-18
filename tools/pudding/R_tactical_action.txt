@@ -4,4 +4,5 @@ E2 RulesPal, "Can I move into a system, fight, invade and then produce there in 
 N No source found.
 @2
 E4 Designer ruling: "Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+E4 Designer ruling, on the Mahact commander Il Na Viroset: "End of turn abilities can still be used."
 E2 RulesPal, "When must Xxcha use Nullification Field …?": "Once the turn ends, nothing more happens in it."
