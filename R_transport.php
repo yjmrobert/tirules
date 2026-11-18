@@ -22,11 +22,14 @@
     <li>A ship may pick up ground forces from a planet in the active system, usually to invade a different planet in the same system.<sup>2</sup></li>
     <li>A ship cannot pick up more units from a planet than it has capacity.<sup>1,2,5</sup></li>
     <ol>
-        <li>For example, say a carrier (with capacity 4) is in the space area of a system along with four fighters. On the only planet in that system are eight infantry. There are no other units in the system. When the carrier moves out of the system, it obeys the following:<sup>5</sup></li>
-        <li>The carrier may transport the four fighters, leaving behind all eight of the infantry in the system.<sup>2</sup></li>
-        <li>The carrier may transport four of the eight infantry, leaving behind the four remaining infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
-        <li>The carrier may transport two of the eight infantry and two of the four fighters, leaving behind the six remaining infantry in the system. Now that the system has zero capacity, the two remaining fighters will be removed.<sup>2</sup></li>
-        <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).<sup>2,5</sup></li>
+        <li>For example, say a carrier (with capacity four) is in the space area of a system along with four fighters. On the only planet in that system are eight infantry. There are no other units in the system. When the carrier moves out of the system, it obeys the following:<sup>5</sup></li>
+        <ol>
+            <li>The carrier may transport the four fighters, leaving behind all eight of the infantry in the system.<sup>2,5</sup></li>
+            <li>The carrier may transport four of the eight infantry, leaving behind the four remaining infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier may transport two of the eight infantry and two of the four fighters, leaving behind the six remaining infantry in the system. Now that the system has zero capacity, the two remaining fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier may transport nothing, leaving behind all eight of the infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.<sup>2,5</sup></li>
+            <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).<sup>2,5</sup></li>
+        </ol>
     </ol>
     <li>A player&rsquo;s ships are intended to be able to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup></li>
     </ol>
