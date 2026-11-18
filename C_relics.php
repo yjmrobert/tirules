@@ -137,9 +137,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame">The Silver Flame</a></h2>
     <ol class="note">
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup></li>
     <li>The <a href="/F_saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup></li>
     <li>Using <i>The Silver Flame</i> always causes The Fracture to enter play, regardless of the result of the roll.<sup>6</sup></li>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter">Stellar Converter</a></h2>

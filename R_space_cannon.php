@@ -44,8 +44,8 @@
     <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup></li>
     <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.<sup>2</sup></li>
     <li>A player cannot assign hits produced by a space cannon roll to their own units.<sup>2,5</sup></li>
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup></li>
     <li>Each unit with the Space Cannon ability may use it once during the Space Cannon Offense step, regardless of how many ships moved into the active system, and again during the Space Cannon Defense step if ground forces are committed to its planet. A PDS does not need ground forces on its planet to use its Space Cannon ability, and may do so even if its system contains its owner&rsquo;s command token.<sup>2</sup></li>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

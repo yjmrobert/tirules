@@ -39,13 +39,13 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;During Space Cannon Offense, who can shoot at whom?&rdquo;: &ldquo;The active player fires first and chooses which other player&rsquo;s ships in the active system take the hits.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 09/10/2018): &ldquo;You cannot use a PDS to target your own ships.&rdquo;</li>
         </ul></li>
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
-        </ul></li>
     <li>Each unit with the Space Cannon ability may use it once during the Space Cannon Offense step, regardless of how many ships moved into the active system, and again during the Space Cannon Defense step if ground forces are committed to its planet. A PDS does not need ground forces on its planet to use its Space Cannon ability, and may do so even if its system contains its owner&rsquo;s command token.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many times does a PDS fire in one tactical action?&rdquo;: &ldquo;Once at Space Cannon Offense, after movement, however many ships came in, plus once more at Space Cannon Defense if ground forces are committed to its planet.&rdquo;</li>
+        </ul></li>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

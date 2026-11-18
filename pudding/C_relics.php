@@ -297,10 +297,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame">The Silver Flame</a></h2>
     <ol class="note">
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Are the &lsquo;0&rsquo; faces of the ten-sided dice &hellip; intended to represent the result of a &lsquo;10&rsquo;? A: Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
-        </ul></li>
     <li>The <a href="/F_saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Silver Flame&rdquo;: &ldquo;Re: saar &hellip; I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]&rdquo;</li>
@@ -309,6 +305,10 @@
     <li>Using <i>The Silver Flame</i> always causes The Fracture to enter play, regardless of the result of the roll.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play.&rdquo;</li>
+        </ul></li>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Are the &lsquo;0&rsquo; faces of the ten-sided dice &hellip; intended to represent the result of a &lsquo;10&rsquo;? A: Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
         </ul></li>
     </ol>
 

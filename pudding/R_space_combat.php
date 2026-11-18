@@ -15,11 +15,6 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area&rdquo; over capacity, excess units are removed then.</li>
         </ul></li>
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the 0 on the ten-sided die count as 0 or 10?&rdquo;: &ldquo;10.&rdquo;</li>
-        </ul></li>
     <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat).&rdquo;</li>
@@ -82,6 +77,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?&rdquo;: &ldquo;No &mdash; landing only happens in the invasion step of a tactical action in the active system.&rdquo;</li>
         </ul></li>
     </ol>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the 0 on the ten-sided die count as 0 or 10?&rdquo;: &ldquo;10.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

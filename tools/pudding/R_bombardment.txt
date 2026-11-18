@@ -10,13 +10,13 @@ I1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is prod
 E1 LRR 15.1: "The active player chooses which planet each of their units that has a 'Bombardment' ability will bombard."
 E4 Designer ruling: "only the active player can use BOMBARDMENT."
 @4
-E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
-E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
-@5
 E1 LRR 15.1d: "a player must declare which planet a unit is bombarding before making a bombardment roll."
 E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
 E3 Learn to Play: "These hits can only be assigned by the bombarded player to ground forces on the planet being bombarded."
+@5
+N No source found.
 @6
 N No source found.
 @7
-N No source found.
+E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."

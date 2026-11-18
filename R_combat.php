@@ -11,9 +11,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup></li>
     <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup></li>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

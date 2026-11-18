@@ -17,6 +17,6 @@ E2 RulesPal, "When is capacity checked if a carrier is lost?": "Immediately when
 E2 RulesPal, "During Space Cannon Offense, who can shoot at whom?": "The active player fires first and chooses which other player's ships in the active system take the hits."
 E5 Designer ruling (x3n d0g, 09/10/2018): "You cannot use a PDS to target your own ships."
 @8
-E1 LRR FAQ: "Yes, the '0' face is a '10' result."
-@9
 E2 RulesPal, "How many times does a PDS fire in one tactical action?": "Once at Space Cannon Offense, after movement, however many ships came in, plus once more at Space Cannon Defense if ground forces are committed to its planet."
+@9
+E1 LRR FAQ: "Yes, the '0' face is a '10' result."

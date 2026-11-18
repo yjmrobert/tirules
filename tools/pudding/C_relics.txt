@@ -105,12 +105,12 @@ N No source found.
 @51
 N No source found.
 @52
-E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
-@53
 E9 Designer Q&A, "Silver Flame": "Re: saar … I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]"
 E6 Community consensus, "Silver Flame: Is Saar affected by the 'can’t score publics' clause?": "No, Dane has indicated he will make an exception for Saar."
-@54
+@53
 E6 Community consensus: "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
+@54
+E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
 @55
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."

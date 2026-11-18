@@ -5,38 +5,38 @@ I5 Designer ruling (Milty, 08/02/2018): "During a combat, the fighters would per
 @1
 I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area" over capacity, excess units are removed then.
 @2
-E1 LRR FAQ: "Yes, the '0' face is a '10' result."
-E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10."
-@3
 E5 Designer ruling: "Assault Cannon and Mentak's Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat)."
 E2 RulesPal, "How does Mentak's Ambush work?": "At the start of space combat, before Anti-Fighter Barrage."
-@4
+@3
 E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
-@5
+@4
 E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — a combat is a space combat or a ground combat … Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat."
-@6
+@5
 I4 Designer ruling: "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
-@7
+@6
 N No source found.
-@8
+@7
 E8 PoK rulebook, Dark Energy Tap: "Your ships can retreat into adjacent systems that do not contain other players' units, even if you do not have units or control planets in that system."
 E2 RulesPal, "Where can my ships retreat to?": "Dark Energy Tap drops the second requirement."
-@9
+@8
 E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
-@10
+@9
 E10 Codex I: "when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal."
 I2 RulesPal, "When my ships retreat, can they pick up ground forces from my planets in the combat system?": "retreating ships move and transport units like any other movement."
-@11
+@10
 E1 LRR 78.7b: "That player's fighters and ground forces in the space area of the active system that are unable to move or be transported are removed."
 E5 Designer ruling: "the number you can attempt to move out of the system is still limited by your ships capacity in the same way that it is when you move."
 I2 RulesPal, "How does Skilled Retreat differ …?": "the usual transport rules apply."
-@12
+@11
 E2 RulesPal, "What happens to units that can't go with a retreat?": "Fighters and ground forces in the space area that the retreating ships can't carry are destroyed, even if a space dock could have supported them." RulesPal says destroyed; LRR 78.7b says removed.
 E5 Designer ruling (sigmazero13, Jul 18, 2018): "They’d be destroyed."
-@13
+@12
 E2 RulesPal, "What happens if neither side can ever win a space combat?": "The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed."
 I1 LRR FAQ: "If neither side has the potential to win, the attacker must retreat."
-@14
+@13
 E2 RulesPal, "Do ships that announced a retreat still roll that round?": "Yes — announcing a retreat doesn't stop you firing; you roll normally and then leave in the retreat step. Retreating in that step also escapes Exotrireme II."
-@15
+@14
 E2 RulesPal, "Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?": "No — landing only happens in the invasion step of a tactical action in the active system."
+@15
+E1 LRR FAQ: "Yes, the '0' face is a '10' result."
+E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10."
