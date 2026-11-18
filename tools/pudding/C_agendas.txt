@@ -40,7 +40,7 @@ E5 Designer ruling (Dec 2017): "No, the objective cannot be scored a second time
 E2 RulesPal: "While leaked it is a public objective and no longer counts toward its owner's secret objectives, so they may hold another secret."
 E5 Designer ruling (Dec 2017): "The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public."
 @19
-E1 LRR FAQ: "If the 'Classified Document Leaks' agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players."
+E1 LRR FAQ: "If the 'Classified Document Leaks' agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players, but it does not count toward the secret objective total of the player who originally owned it."
 N2 Conflicts: RulesPal says "If the law is later discarded, the card returns to its owner as a secret."
 @20
 E1 LRR 61.7: "they can only score one objective during or after each combat."

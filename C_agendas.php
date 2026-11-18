@@ -50,7 +50,7 @@
     <ol><li>Players may still play riders if only one secret objective has been scored.<sup>*</sup></li></ol>
     <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.<sup>2,5</sup></li>
     <li>The elected secret objective no longer counts towards the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup></li>
-    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded.<sup>1</sup></li>
+    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded, and does not count toward the original player&rsquo;s secret objective total.<sup>1</sup></li>
     <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.<sup>1</sup></li>
     <li>The elected objective becomes a public objective and stops being a secret objective.<sup>2,5</sup></li>
     <ol><li>If there are no other secret objectives eligable to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup></li></ol>

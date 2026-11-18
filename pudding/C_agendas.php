@@ -112,9 +112,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives, so they may hold another secret.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public.&rdquo;</li>
         </ul></li>
-    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded.<sup>1</sup>
+    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded, and does not count toward the original player&rsquo;s secret objective total.<sup>1</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Classified Document Leaks&rsquo; agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Classified Document Leaks&rsquo; agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players, but it does not count toward the secret objective total of the player who originally owned it.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal says &ldquo;If the law is later discarded, the card returns to its owner as a secret.&rdquo;</li>
         </ul></li>
     <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.<sup>1</sup>
