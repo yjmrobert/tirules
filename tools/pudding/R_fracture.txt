@@ -34,14 +34,17 @@ E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their 
 @14
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
 @15
+E6 Community consensus: "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
+E9 Designer Q&A, "Cabal Breakthrough": "According to cabal BT colors."
+@16
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets' systems."
 I2 RulesPal, "Who places ingress tokens when Rapid Mobilization brings the Fracture in?": "the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able" About Rapid Mobilization; Nekro not named.
-@16
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @17
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @18
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+@19
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system cannot have more than one ingress token."
 E6 Community consensus: "the rules state that a system may not contain more than 1 ingress token."
-@19
+@20
 E7 Thunder's Edge Rulebook p. 9: "Each planet in the fracture has a relic icon." p. 10: "When a player gains a planet card from the planet deck that has a relic icon … they draw the top card of the relic deck."

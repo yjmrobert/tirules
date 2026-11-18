@@ -68,10 +68,17 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems.&rdquo;</li>
         </ul></li>
-    <ol><li>If there are fewer than three planets with a technology specialty of a given color, as many planets as possible are chosen.<sup>7</sup>
+    <ol>
+        <li>If there are fewer than three planets with a technology specialty of a given color, as many planets as possible are chosen.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;must choose three systems &hellip; if able.&rdquo;</li>
-        </ul></li></ol>
+        </ul></li>
+        <li>When the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar"><i>Al&rsquo;raith Ix Ianovar</i></a> breakthrough brings The Fracture into play, ingress tokens are placed this way, as if The Fracture had been rolled for, even though no roll is made.<sup>6,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Since the Fracture enters play without a roll via Al&rsquo;raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Cabal Breakthrough&rdquo;: &ldquo;According to cabal BT colors.&rdquo;</li>
+        </ul></li>
+    </ol>
     <li>If a different game effect places The Fracture into play, or The Fracture enters play because of the <a href="/F_nekro">Nekro</a> player&rsquo;s breakthrough (which does not have a synergy), then the player that caused The Fracture to enter play chooses one planet with a technology specialty for each of the four colors of technology, and places ingress tokens in each of those planets&rsquo; systems.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets&rsquo; systems.&rdquo;</li>
