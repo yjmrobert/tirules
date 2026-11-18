@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11, Dual Specialties: "Some planets have two technology specialties. These planets can be exhausted when researching technology to satisfy either or both prerequisites simultaneously."
 @0
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 E2 RulesPal, "If an effect lets me research a technology, do I pay for it?": "You still meet prerequisites (specialties can help)."

@@ -1,3 +1,5 @@
+@r0
+E9 Designer Q&A, "Coexistence and PRODUCTION": "Coexisting units can produce ground forces but are always blockaded and cannot produce ships."
 @0
 E2 RulesPal, "Do units 'placed' by an effect cost resources, and do they count as producing?": "An effect that says 'produce' means you pay the cost unless it says otherwise."
 E1 LRR FAQ: "a unit that is produced must always be paid for."

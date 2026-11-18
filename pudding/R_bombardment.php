@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_bombardment">Bombardment (Unit Ability)</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) If a player makes a bombardment roll against a planet that contains <a href="/R_coexistence">coexisting</a> units, that player chooses which units with <sc>Bombardment</sc> are bombarding which other player&rsquo;s units, and rolls against each player separately.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting units can be bombarded. When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player&rsquo;s units, rolling against each player separately.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>The <b>Bombardment</b> step happens outside of combat. No combat effects may affect a bombardment roll.<sup>2</sup>

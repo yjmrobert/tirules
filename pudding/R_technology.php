@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_technology">Technology</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) A planet with two technology specialties can be exhausted to ignore either or both of the matching prerequisite symbols.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Dual Specialties: &ldquo;Some planets have two technology specialties. These planets can be exhausted when researching technology to satisfy either or both prerequisites simultaneously.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>If a player is instructed to research a technology by any game effect, that player must meet the prerequisites for the technology they research.<sup>1,2,4</sup>

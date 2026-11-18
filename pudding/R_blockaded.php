@@ -3,6 +3,15 @@
 <article>
 <p>The source text behind each note on <a href="/R_blockaded">Blockaded</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) <a href="/R_coexistence">Coexisting</a> units are always blockaded, so they can produce ground forces but cannot produce ships.<sup>7,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting structures are always blockaded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>While a player is involved in a space combat in a system, their units in that system are not blockaded, as both players will have ships in the system.<sup>1,2</sup>

@@ -1,3 +1,8 @@
+@r0
+E13 Construction (Thunder's Edge), primary: "Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks. Place 1 structure on a planet you control."
+@r1
+E13 Construction (Thunder's Edge), secondary: "Spend 1 token from your strategy pool to place 1 structure on a planet you control."
+E2 RulesPal, "How does the Thunder's Edge Construction card differ?": "Its secondary spends a strategy token to place a structure on a planet you control, but the token is no longer placed in that system."
 @0
 E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
 I3 Learn to Play describes space docks; the limit is in the LRR.

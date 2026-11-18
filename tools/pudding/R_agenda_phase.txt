@@ -1,3 +1,5 @@
+@r0
+E6 Community consensus: "Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected."
 @0
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
 E6 Community consensus, Space Stations: "Space Stations are used for voting but may not be elected." Relics: "Q: Can you vote using The Triad relic? A: Yes."

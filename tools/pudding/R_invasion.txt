@@ -1,3 +1,7 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11, Coexist: "a coexisting player may choose to end their coexistence by activating the coexisting unit's system and committing the coexisting units against the planet they are coexisting on. If they win the ground combat, they cease coexisting and gain control of the planet as normal."
+@r1
+E7 Thunder's Edge Rulebook p. 11, Coexist: "When a unit or units coexist with another player's units, they do not trigger combat." … "The activating player may choose not to engage the coexisting units, however, and leave the coexisting units in a state of coexistence."
 @0
 E1 LRR 35.1: "When a player takes control of a planet that is not already controlled by another player, they explore that planet."
 I8 PoK rulebook quick reference lists "Establish Control" as the last invasion step.

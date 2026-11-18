@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_game_board">Game Board</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) Each system in The Fracture is considered to be on the edge of the game board.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9: &ldquo;Regardless of where The Fracture is placed, its systems are not adjacent to the systems it is touching, and each of its systems is considered to be on the edge of the game board.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup>

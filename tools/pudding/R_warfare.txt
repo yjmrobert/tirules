@@ -1,3 +1,14 @@
+@r0
+E13 Warfare (Thunder's Edge), primary: "Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated. You may redistribute your command tokens before and after this action."
+@r1
+E13 Warfare (Thunder's Edge), primary: "Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated."
+E2 RulesPal, "How does the Thunder's Edge Warfare strategy card work?": "The primary lets you redistribute your tokens and perform a tactical action without placing a command token, even in a system that already holds yours or a Diplomacy token … that system still counts as activated."
+@r2
+E13 Warfare (Thunder's Edge), primary: "You may redistribute your command tokens before and after this action."
+E2 RulesPal, "How does the Thunder's Edge Warfare strategy card work?": "The primary lets you redistribute your tokens and perform a tactical action without placing a command token."
+@r3
+E13 Warfare (Thunder's Edge), secondary: "Spend 1 token from your Strategy Pool to use the PRODUCTION abilities of units in your home system."
+E2 RulesPal, "How does the Thunder's Edge Warfare strategy card work?": "The secondary produces with all your units in your home system."
 @0
 E2 RulesPal, "How does the Warfare secondary work?": "It doesn't activate the system and works even if your home system already has your token."
 @1

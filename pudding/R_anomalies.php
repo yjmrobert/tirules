@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_anomalies">Anomalies</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) Entropic scars are a fifth type of anomaly.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11: &ldquo;An entropic scar is a new kind of anomaly.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>An empty system is not an anomaly.<sup>2</sup>

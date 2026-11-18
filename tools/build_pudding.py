@@ -3,7 +3,8 @@
 tools/pudding/<page>.txt. Run from the repo root: ./tools/build_pudding.py C_action_cards
 
 Proof file format: "@n" starts the proofs for the page's nth note (0-based, in page order,
-sub-notes included; uncited <li> headers without a <sup> are skipped). Each following line is one proof:
+sub-notes included; uncited <li> headers without a <sup> are skipped). "@rn" starts the proofs for
+the nth cited item in the Rules Reference section (an <li> or <p> with a <sup>, outside the note lists). Each following line is one proof:
     E9 Designer Q&A, "Voting with Space Stations": "Yeah you can vote with them."
     I1 LRR 8.4: "Each player readies each of their exhausted planets." Names only planets.
     N No source found.
@@ -29,7 +30,8 @@ def proofs(page):
         if not line:
             continue
         if line.startswith("@"):
-            cur = out.setdefault(int(line[1:]), [])
+            key = line[1:]
+            cur = out.setdefault(key if key.startswith("r") else int(key), [])
             continue
         m = re.match(r"([EIN])(\d*)\s+(.*)", line)
         kind = {"E": "Explicit", "I": "Implicit", "N": "Unverified"}[m.group(1)]
@@ -42,6 +44,16 @@ def build(page):
     title = re.sub(r"<[^>]+>", "", re.search(r"<h1>(.*?)</h1>", s, re.S).group(1)).strip()
     pr = proofs(page)
     body, n, emitted = [], 0, set()
+    # Cited Rules Reference items (outside the note lists), proved as @r0, @r1, ...
+    first_note = s.find('<ol class="note">')
+    rules = s[s.index("<article>"):first_note if first_note >= 0 else len(s)]
+    rr = [m.group(2) for m in re.finditer(r"<(li|p)[^>]*>((?:(?!</?(?:li|p)[ >]).)*?<sup>[^<]*</sup>)\s*</(?:li|p)>", rules, re.S)]
+    if rr:
+        body.append("\n<h2>Rules Reference</h2>\n    <ul>")
+        for k, text in enumerate(rr):
+            items = pr.get(f"r{k}", ["<li><b>Unverified</b>: not yet checked.</li>"])
+            body.append("    <li>" + text.strip() + "\n        <ul>\n        " + "\n        ".join(items) + "\n        </ul></li>")
+        body.append("    </ul>")
     for m in re.finditer(r'<ol class="note">', s):
         # the note block runs to its matching </ol>
         depth, i = 0, m.start()
@@ -64,7 +76,7 @@ def build(page):
             return li.group(1) + "\n        <ul>\n        " + "\n        ".join(items) + "\n        </ul></li>"
         block = re.sub(r"(<li[^>]*>.*?)</li>", add, block, flags=re.S)
         body.append("    " + block)
-    extra = sorted(k for k in pr if k >= n)
+    extra = sorted(k for k in pr if isinstance(k, int) and k >= n) + sorted(k for k in pr if isinstance(k, str) and int(k[1:]) >= len(rr))
     if extra:
         sys.exit(f"{page}: proofs for notes {extra} but the page has only {n} notes")
     out = (f'<?php include __DIR__ . "/../prefix.php"?>\n<header><h1>{title}: Proof</h1></header>\n<article>\n'
@@ -72,7 +84,7 @@ def build(page):
            f"<b>Implicit</b> sources support it without stating it.</p>\n"
            + "\n".join(body) + '\n</article>\n<?php include __DIR__ . "/../suffix.php"?>\n')
     open(os.path.join(ROOT, "pudding", page + ".php"), "w", encoding="utf-8").write(out)
-    print(f"pudding/{page}.php: {n} notes, {len(pr)} with proofs")
+    print(f"pudding/{page}.php: {n} notes, {len(rr)} rules items, {len(pr)} with proofs")
 
 for p in sys.argv[1:]:
     build(p)

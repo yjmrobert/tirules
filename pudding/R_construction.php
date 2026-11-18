@@ -3,6 +3,19 @@
 <article>
 <p>The source text behind each note on <a href="/R_construction">Construction (Strategy Card)</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>To resolve the primary ability on the <i>Construction</i> strategy card, the active player may either place one structure on a planet they control, or use the <a href="/R_production"><sc>Production</sc></a> ability of one of their space docks. Then, that player may place one structure on a planet they control.<sup>13</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>13</sup> Construction (Thunder&rsquo;s Edge), primary: &ldquo;Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks. Place 1 structure on a planet you control.&rdquo;</li>
+        </ul></li>
+    <li>After the active player resolves the primary ability of the <i>Construction</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to place one structure on a planet they control. The command token is not placed in any system.<sup>2,13</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>13</sup> Construction (Thunder&rsquo;s Edge), secondary: &ldquo;Spend 1 token from your strategy pool to place 1 structure on a planet you control.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Construction card differ?&rdquo;: &ldquo;Its secondary spends a strategy token to place a structure on a planet you control, but the token is no longer placed in that system.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>A player may have a maximum of one space dock on each planet.<sup>1,2,3</sup>

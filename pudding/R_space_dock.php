@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_space_dock">Space Dock</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are structures, such as a space dock, keeps control of that planet when another player&rsquo;s ground forces <a href="/R_coexistence">coexist</a> there.<sup>9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and Structures&rdquo;: &ldquo;Structures without ground forces may maintain control of a planet with coexisting ground forces.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>A Space Dock is both a structure and a unit.<sup>1,2</sup>

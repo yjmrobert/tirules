@@ -3,6 +3,18 @@
 <article>
 <p>The source text behind each note on <a href="/R_invasion">Invasion</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) A player can commit their <a href="/R_coexistence">coexisting</a> ground forces against the planet they are coexisting on, to end that coexistence.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;a coexisting player may choose to end their coexistence by activating the coexisting unit&rsquo;s system and committing the coexisting units against the planet they are coexisting on. If they win the ground combat, they cease coexisting and gain control of the planet as normal.&rdquo;</li>
+        </ul></li>
+    <li>(Thunder&rsquo;s Edge) <a href="/R_coexistence">Coexisting</a> units do not trigger a ground combat, but the active player may choose to engage them with ground forces committed to that planet.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When a unit or units coexist with another player&rsquo;s units, they do not trigger combat.&rdquo; &hellip; &ldquo;The activating player may choose not to engage the coexisting units, however, and leave the coexisting units in a state of coexistence.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>If a player gains control of an uncontrolled planet during the <b>Establish Control</b> step, they explore it.<sup>1,2,8</sup>

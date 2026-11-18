@@ -1,3 +1,5 @@
+@r0
+E9 Designer Q&A, "Coexistence and Structures": "Structures without ground forces may maintain control of a planet with coexisting ground forces."
 @0
 E1 LRR 83 (Structures): "A structure is a type of unit. PDS units and space docks are structures."
 E1 LRR 63: "A PDS (planetary defense system) is a structure that allows a player to defend their territory."

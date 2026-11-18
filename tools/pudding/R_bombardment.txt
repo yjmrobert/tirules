@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11, Coexist: "Coexisting units can be bombarded. When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player's units, rolling against each player separately."
 @0
 E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect … Bombardment …?": "No — only rolls made against a unit's combat value are combat rolls."
 I1 LRR 15.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls."

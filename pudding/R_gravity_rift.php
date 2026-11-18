@@ -3,6 +3,15 @@
 <article>
 <p>The source text behind each note on <a href="/R_gravity_rift">Gravity Rift</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) A gravity rift can affect the same ship multiple times during a single movement, but it contributes its movement bonus to that ship only once.<sup>6,7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.<sup>2</sup>

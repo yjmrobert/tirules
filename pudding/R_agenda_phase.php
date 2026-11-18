@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_agenda_phase">Agenda Phase</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) A space station cannot be elected, although its influence can be used to cast votes.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>A player may cast votes with space stations, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and Oceans.<sup>6,9</sup>

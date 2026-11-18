@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 9: "Regardless of where The Fracture is placed, its systems are not adjacent to the systems it is touching, and each of its systems is considered to be on the edge of the game board."
 @0
 E4 Designer ruling: "In maps utilizing hyperlanes (e.g. 5p map), what counts as the edge of the game board? A: Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
 E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."

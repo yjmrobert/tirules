@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11: "An entropic scar is a new kind of anomaly."
 @0
 E2 RulesPal, "Which systems count as anomalies?": "Only tiles with a red border: asteroid fields, nebulae, gravity rifts and supernovas. Empty systems and wormhole systems are not anomalies unless bordered."
 @1

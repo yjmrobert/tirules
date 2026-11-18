@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11, Coexist: "The player whose units triggered coexistence does not gain or retain control of the planet; if they already controlled it, the player they are now coexisting with gains control of it instead, exhausted. … If a player's coexisting units become the only units on a planet, that player gains control of the planet."
 @0
 I1 LRR 72.1: "The components in a player's reinforcements are limited." Reinforcements are units and command tokens; control tokens are not listed.
 @1

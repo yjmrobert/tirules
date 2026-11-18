@@ -3,6 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/R_producing_units">Producing Units</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
+<h2>Rules Reference</h2>
+    <ul>
+    <li>(Thunder&rsquo;s Edge) Units that are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces there, but cannot produce ships.<sup>9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
+        </ul></li>
+    </ul>
+
 <h2>Notes</h2>
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.<sup>1,2</sup>

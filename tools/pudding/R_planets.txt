@@ -1,3 +1,5 @@
+@r0
+E7 Thunder's Edge Rulebook p. 11, Dual Specialties: "Some planets have two technology specialties. These planets can be exhausted when researching technology to satisfy either or both prerequisites simultaneously."
 @0
 E1 LRR 38.1b: "Planets that do not have traits, such as Mecatol Rex and planets in home systems, cannot be explored."
 E2 RulesPal, "Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?": "Mecatol Rex and home planets have no trait and can't be explored."
