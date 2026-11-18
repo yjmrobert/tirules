@@ -34,9 +34,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.<sup>*</sup>
+    <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.<sup>2,6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Arborec Stymie note stop the Arborec from producing in their home system?&rdquo;: &ldquo;Stymie only covers non-home systems containing the holder&rsquo;s units and the systems adjacent to them.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     </ol>
 

@@ -10,7 +10,8 @@ N No source found.
 @4
 N No source found.
 @5
-N No source found.
+I2 RulesPal, "Does the Arborec Stymie note stop the Arborec from producing in their home system?": "Stymie only covers non-home systems containing the holder's units and the systems adjacent to them."
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @6
 E2 RulesPal, "Can Bioplasmosis or Transit Diodes move ground forces onto enemy planets, or chain across systems?": "Bioplasmosis moves each infantry once, to a planet in its own or an adjacent system, so no hopping across several systems."
 @7

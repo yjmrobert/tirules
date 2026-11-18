@@ -16,7 +16,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.<sup>*</sup></li>
+    <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.<sup>2,6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Technologies:~:text=Bioplasmosis">Bioplasmosis</a> <sub>(Technology)</sub></h2>
