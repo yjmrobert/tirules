@@ -5,9 +5,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>*</sup>
+    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction technologies replace generic ones?&rdquo;: &ldquo;Only faction unit upgrades replace the matching generic upgrade; all other faction technologies are extras.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

@@ -15,7 +15,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>*</sup></li>
+    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

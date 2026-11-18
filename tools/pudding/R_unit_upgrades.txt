@@ -1,2 +1,2 @@
 @0
-N No source found.
+I2 RulesPal, "Do faction technologies replace generic ones?": "Only faction unit upgrades replace the matching generic upgrade; all other faction technologies are extras."

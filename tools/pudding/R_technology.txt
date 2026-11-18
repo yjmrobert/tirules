@@ -7,7 +7,7 @@ E1 LRR 90.5: "If an ability instructs a player to gain a technology, they do not
 E2 RulesPal: "'Gain' is different from 'research': gaining ignores prerequisites."
 E4 Designer ruling: "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
 @2
-N No source found.
+I2 RulesPal, "Do faction technologies replace generic ones?": "Only faction unit upgrades replace the matching generic upgrade; all other faction technologies are extras."
 @3
 E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "Yes to both. Owned technologies always count, exhausted or not."
 @4
