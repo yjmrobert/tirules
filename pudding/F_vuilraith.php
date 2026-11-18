@@ -133,10 +133,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li></ol>
-    <li>If a ship moves through or out of the same gravity rift multiple times, each instance will provide a +1 to movement.<sup>1</sup>
+    <li>If a ship moves through or out of the same gravity rift multiple times, that gravity rift provides +1 to its move value only once, but the ship rolls for removal each time.<sup>6,7</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo; Repeat passes are not addressed.</li>
-        <li><b>Unverified</b>: <sup>6</sup> Conflicts: RAW ruling on moving through the same rift twice: &ldquo;the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> RAW, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
         </ul></li>
     <li>Multiple Dimensional Tears in a single system have no additional effects.<sup>2</sup>
         <ul>

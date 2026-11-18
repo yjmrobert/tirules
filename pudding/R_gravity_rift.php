@@ -28,12 +28,13 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?&rdquo;: &ldquo;Declare which ship carries what before rolling.&rdquo;</li>
         </ul></li>
-    <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.<sup>1,2,8</sup>
+    <li>If a ship moves through or out of multiple gravity rifts, each gravity rift provides +1 to its move value and requires a separate roll for removal. If it moves out of the same gravity rift more than once, that gravity rift provides +1 only once, but each instance requires a separate roll.<sup>1,2,6,7,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;gets +1 move for that path, one per rift &hellip; Each ship that leaves or passes through a rift rolls.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook quick reference: the same text.</li>
-        <li><b>Unverified</b>: <sup>6</sup> Partial conflict: RAW on moving through the same rift twice: &ldquo;the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> RAW, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
         </ul></li>
     <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.<sup>*</sup>
         <ul>

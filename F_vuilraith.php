@@ -51,7 +51,7 @@
     <ol class="note">
     <li>A system containing a Dimensional Tear is an anomaly.<sup>2,4</sup></li>
     <ol><li>This system qualifies for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> and similar such objectives.<sup>2</sup></li></ol>
-    <li>If a ship moves through or out of the same gravity rift multiple times, each instance will provide a +1 to movement.<sup>1</sup></li>
+    <li>If a ship moves through or out of the same gravity rift multiple times, that gravity rift provides +1 to its move value only once, but the ship rolls for removal each time.<sup>6,7</sup></li>
     <li>Multiple Dimensional Tears in a single system have no additional effects.<sup>2</sup></li>
     <li>If a Dimensional Tear is in a system that is normally a gravity rift (e.g. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.<sup>2</sup></li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.<sup>*</sup></li>

@@ -53,8 +53,8 @@ E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimen
 @25
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @26
-I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die." Repeat passes are not addressed.
-N6 Conflicts: RAW ruling on moving through the same rift twice: "the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
+E6 RAW, "If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?": "Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
+E7 Thunder's Edge Rulebook, Clarifications: "A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings."
 @27
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimensional Tear dock is there, and do two tears stack?": "Two tears in one system don't stack the bonus either."
 @28
