@@ -7,8 +7,8 @@
     <ol class="note">
     <li>A Space Dock is both a structure and a unit.<sup>1,2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 79: &ldquo;A space dock is a structure that allows players to produce units.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, on the Hel-Titan: &ldquo;It is a structure as well as a ground force.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 83 (Structures): &ldquo;A structure is a type of unit. PDS units and space docks are structures.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are PDS and space docks ground forces?&rdquo;: &ldquo;No &mdash; PDS and space docks are structures, a separate unit type.&rdquo;</li>
         </ul></li>
     <li>Fighters transported during movement remain assigned to the transporting ship until movement is complete.<sup>1,2,5</sup>
         <ul>

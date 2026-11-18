@@ -1,6 +1,6 @@
 @0
-E1 LRR 79: "A space dock is a structure that allows players to produce units."
-I2 RulesPal, on the Hel-Titan: "It is a structure as well as a ground force."
+E1 LRR 83 (Structures): "A structure is a type of unit. PDS units and space docks are structures."
+E2 RulesPal, "Are PDS and space docks ground forces?": "No — PDS and space docks are structures, a separate unit type."
 @1
 E1 LRR 95.1a: "These transported units remain with the transporting ship until it is finished moving."
 E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "No — only while moving."
