@@ -24,6 +24,7 @@
     <ol><li>For example, say a player is performing a tactical action on tile 75. They have one <a href="/R_space_dock">Space Dock</a> I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup></li></ol>
     <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.<sup>2</sup></li>
     <li>A player cannot produce ground forces on a planet that contains another player&rsquo;s ground forces.<sup>4</sup></li>
+    <ol><li>A player whose units are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup></li></ol>
     <li>Ground forces produced during the <b>Production</b> step of a tactical action cannot be committed to land on a planet during that tactical action, as the <b>Invasion</b> step has already been resolved.<sup>2</sup></li>
     </ol>
 

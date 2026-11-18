@@ -29,6 +29,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;You can&rsquo;t produce ground forces on a planet with another player&rsquo;s ground forces.&rdquo;</li>
         </ul></li>
+    <ol><li>A player whose units are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;If the coexisting player places, produces, or moves additional units onto that planet, those units also coexist.&rdquo;</li>
+        </ul></li></ol>
     <li>Ground forces produced during the <b>Production</b> step of a tactical action cannot be committed to land on a planet during that tactical action, as the <b>Invasion</b> step has already been resolved.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ground forces I produce take an uncontrolled planet in the same tactical action?&rdquo;: &ldquo;No &mdash; production is the last step, after invasion &hellip; They can invade in a later action.&rdquo;</li>

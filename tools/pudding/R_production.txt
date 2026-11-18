@@ -13,4 +13,7 @@ I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their b
 @4
 E4 "You can't produce ground forces on a planet with another player's ground forces."
 @5
+E9 Designer Q&A, "Coexistence and PRODUCTION": "Coexisting units can produce ground forces but are always blockaded and cannot produce ships."
+E7 Thunder's Edge Rulebook p. 11, Coexist: "If the coexisting player places, produces, or moves additional units onto that planet, those units also coexist."
+@6
 E2 RulesPal, "Can ground forces I produce take an uncontrolled planet in the same tactical action?": "No — production is the last step, after invasion … They can invade in a later action."
