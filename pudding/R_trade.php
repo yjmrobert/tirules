@@ -43,11 +43,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
         </ul></li>
+    </ol>
     <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count towards the active player&rsquo;s transaction limit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is replenishing other players&rsquo; commodities with Trade a transaction?&rdquo;: &ldquo;No &mdash; it is a strategy card effect: recipients needn&rsquo;t be neighbors, can&rsquo;t refuse, it doesn&rsquo;t use up a transaction&rdquo;</li>
         </ul></li>
-    </ol>
     <p>A deal made during a given step is non&ndash;binding if any part of it is to resolve during a later step. As such, if Alice makes a deal to chose a player with the primary ability in exchange for commodities from that player after they perform the secondary, then such a deal will be non&ndash;binding.<sup>2,5</sup></p>
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
         <ul>
