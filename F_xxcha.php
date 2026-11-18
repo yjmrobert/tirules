@@ -82,7 +82,7 @@
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.<sup>4</sup></li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.<sup>2</sup></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.<sup>*</sup></li>
-    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> objective cannot be scored until the agenda phase.<sup>*</sup></li>
+    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> objective cannot be scored until the agenda phase.<sup>2</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective cannot be scored while resolving <i>Political Data Nexus</i>.<sup>2</sup></li>
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Checks%20and%20Balances"><i>Checks and Balances</i></a> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.<sup>*</sup></li>

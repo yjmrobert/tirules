@@ -54,7 +54,7 @@ N No source found.
 @24
 E6 Community consensus: "Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order …? A: No, Representative Government only affects voting during the Agenda Phase."
 @25
-N No source found.
+I2 RulesPal, "Does an agenda voted through Keleres's Executive Order count as the agenda phase?": "No — phase steps like readying don't happen and agenda-phase secrets, Drive the Debate included, can't be scored." Dictate Policy is an agenda-phase secret objective.
 @26
 E2 RulesPal: "agenda-phase secrets, Drive the Debate included, can't be scored."
 @27

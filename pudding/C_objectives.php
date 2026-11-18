@@ -330,9 +330,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?&rdquo;: &ldquo;Agenda-phase secret objectives such as Drive the Debate can&rsquo;t be scored from it, since it isn&rsquo;t the agenda phase.&rdquo; Dictate Policy is an agenda-phase secret objective.</li>
         </ul></li>
     </ol>
 

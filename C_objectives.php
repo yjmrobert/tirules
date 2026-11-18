@@ -153,7 +153,7 @@
     <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup></li>
     <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.<sup>*</sup></li>
     <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Discover%20Lost%20Outposts">Discover Lost Outposts</a></h2>

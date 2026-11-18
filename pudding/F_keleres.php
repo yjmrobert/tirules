@@ -130,9 +130,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order &hellip;? A: No, Representative Government only affects voting during the Agenda Phase.&rdquo;</li>
         </ul></li>
-    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> secret objective cannot be scored until the agenda phase.<sup>*</sup>
+    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> secret objective cannot be scored until the agenda phase.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda voted through Keleres&rsquo;s Executive Order count as the agenda phase?&rdquo;: &ldquo;No &mdash; phase steps like readying don&rsquo;t happen and agenda-phase secrets, Drive the Debate included, can&rsquo;t be scored.&rdquo; Dictate Policy is an agenda-phase secret objective.</li>
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective cannot be scored while resolving <i>Executive Order</i>.<sup>2</sup>
         <ul>

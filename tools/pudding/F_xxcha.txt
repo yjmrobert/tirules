@@ -102,7 +102,7 @@ E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "
 @44
 N No source found.
 @45
-N No source found.
+I2 RulesPal, "After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase." Dictate Policy is an agenda-phase secret objective.
 @46
 E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase."
 @47
