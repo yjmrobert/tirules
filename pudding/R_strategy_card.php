@@ -19,6 +19,7 @@
         </ul></li></ol>
     <li>A player with two strategy cards may perform the strategic actions of those cards in either order. They still take only one action per turn.<sup>2</sup>
         <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With two strategy cards, which one sets my initiative, and must I use the lower card first?&rdquo;: &ldquo;You still take one turn at a time like everyone else, never two in a row, and you may use either card first.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many actions do I take per turn, and in what order must I use action types?&rdquo;: &ldquo;Exactly one action per turn &hellip; You may use them in any order over the round.&rdquo;</li>
         </ul></li>
     </ol>

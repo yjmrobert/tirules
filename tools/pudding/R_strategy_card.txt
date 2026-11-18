@@ -7,4 +7,5 @@ E3 Learn to Play: "Each player's lowest-numbered strategy card is used to determ
 E2 RulesPal, "With two strategy cards, which one sets my initiative, and must I use the lower card first?": "Only your lower-numbered card sets your initiative."
 E1 LRR 48.3: "When playing with three or four players, a player's initiative is determined only by their lowest-numbered strategy card."
 @2
+E2 RulesPal, "With two strategy cards, which one sets my initiative, and must I use the lower card first?": "You still take one turn at a time like everyone else, never two in a row, and you may use either card first."
 E2 RulesPal, "How many actions do I take per turn, and in what order must I use action types?": "Exactly one action per turn … You may use them in any order over the round."
