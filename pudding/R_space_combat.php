@@ -56,6 +56,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+        <li>Ships can retreat out of the active system, and transport units out of it, even if it contains the retreating player&rsquo;s command token.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I retreat or Skilled Retreat into, or carry units out of, systems that contain my command token?&rdquo;: &ldquo;retreating ships can carry units out of the combat system even if your token is there, because the transport restriction excludes the active system, whoever activated it.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR, Space Combat, Retreat step: &ldquo;To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system.&rdquo; No command token restriction applies.</li>
+        </ul></li>
         <li>While retreating, a player may transport zero or more ground forces from planets they control in the active system. The player need not decide which ground forces they transport until they execute the retreat.<sup>2,10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I: &ldquo;when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal.&rdquo;</li>
