@@ -4,38 +4,38 @@ N No source found.
 E2 RulesPal, "With Argent Flight's Zeal, what is the voting order?": "Argent votes first, even as speaker."
 E14 Codex II faction summary: "You always have to vote first, but you get extra votes."
 @2
-E2 Same entry: "then voting resumes as normal from the speaker's left."
+E2 RulesPal, "With Argent Flight's Zeal, what is the voting order?": "Effects timed 'after the speaker votes', like Bribery, come right after the Argent vote when Argent is speaker."
 @3
+E2 Same entry: "then voting resumes as normal from the speaker's left."
+@4
 E1 LRR 10.1d: "This ability can still be used if no fighters are present."
 E8 PoK rulebook p. 16: "The 'Anti-Fighter Barrage' step can occur even if a player's opponent has no fighters in the combat."
 E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "Argent fire barrage even when the opponent has no fighters."
-@4
-E4 Designer ruling: "When is Raid Formation applied? After rolling or after assigning hits? … A: Raid formation is applied after rolling, before cancelling or assigning hits."
 @5
-N No source found.
+E4 Designer ruling: "When is Raid Formation applied? After rolling or after assigning hits? … A: Raid formation is applied after rolling, before cancelling or assigning hits."
 @6
+N No source found.
+@7
 E4 Designer ruling: "Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged."
 E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "It produces no hits and those ships don't use Sustain Damage, so it can't destroy anything and Direct Hit or Non-Euclidean Shielding don't come into it."
-@7
-E2 RulesPal: "Direct Hit or Non-Euclidean Shielding don't come into it."
 @8
-N No source found.
+E2 RulesPal: "Direct Hit or Non-Euclidean Shielding don't come into it."
 @9
-E2 RulesPal, "How do Raid Formation and Waylay interact?": "Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally."
-@10
-E2 Same entry: "the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."
-@11
 N No source found.
+@10
+E2 RulesPal, "How do Raid Formation and Waylay interact?": "Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally."
+@11
+E2 Same entry: "the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."
 @12
 N No source found.
 @13
-E2 RulesPal, "Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?": "Yes — it says other players can't move through systems with Argent structures, and 'cannot' is absolute."
-@14
-E4 Designer ruling: "Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: … the infantry would be destroyed BEFORE any cancellation of hits."
-@15
-E4 Designer ruling: "The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits."
-@16
 N No source found.
+@14
+E2 RulesPal, "Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?": "Yes — it says other players can't move through systems with Argent structures, and 'cannot' is absolute."
+@15
+E4 Designer ruling: "Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: … the infantry would be destroyed BEFORE any cancellation of hits."
+@16
+E4 Designer ruling: "The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits."
 @17
 N No source found.
 @18
@@ -43,18 +43,20 @@ N No source found.
 @19
 N No source found.
 @20
-E1 LRR 18: "Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards."
-@21
 N No source found.
+@21
+E1 LRR 18: "Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards."
 @22
-E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "from any number of systems for the Argent hero, ignoring command tokens in the systems they leave."
+N No source found.
 @23
-E4 Designer ruling: "During Movement abilities, you can transport units out of systems that contain your tokens."
+E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "from any number of systems for the Argent hero, ignoring command tokens in the systems they leave."
 @24
-E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "no path or move value … The ships can carry units starting with them, but can't pick up along a path."
+E4 Designer ruling: "During Movement abilities, you can transport units out of systems that contain your tokens."
 @25
-E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action."
+E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "no path or move value … The ships can carry units starting with them, but can't pick up along a path."
 @26
-E6 Community consensus: "Why does the Argent breakthrough, Wing Transfer, have 'this action' in its wording? … A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships)."
+E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action."
 @27
+E6 Community consensus: "Why does the Argent breakthrough, Wing Transfer, have 'this action' in its wording? … A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships)."
+@28
 N No source found.

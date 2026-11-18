@@ -14,6 +14,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Argent votes first, even as speaker.&rdquo;</li>
         <li><b>Explicit</b>: <sup>14</sup> Codex II faction summary: &ldquo;You always have to vote first, but you get extra votes.&rdquo;</li>
         </ul></li>
+    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> action card, resolve right after the Argent player votes.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Effects timed &lsquo;after the speaker votes&rsquo;, like Bribery, come right after the Argent vote when Argent is speaker.&rdquo;</li>
+        </ul></li></ol>
     <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;then voting resumes as normal from the speaker&rsquo;s left.&rdquo;</li>

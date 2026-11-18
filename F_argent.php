@@ -5,6 +5,7 @@
     <ol class="note">
     <li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup></li>
     <li>The Argent player always votes first, even if they are the speaker.<sup>2,14</sup></li>
+    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> action card, resolve right after the Argent player votes.<sup>2</sup></li></ol>
     <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).<sup>2</sup></li>
     </ol>
 
