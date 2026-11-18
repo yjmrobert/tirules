@@ -10,6 +10,6 @@ E3 Learn to Play, Imperial card: "Gain 1 victory point if you control Mecatol Re
 E2 RulesPal, "What do the Imperial abilities give …?": "gives 1 victory point if you control Mecatol Rex … otherwise you draw a secret objective."
 @3
 E6 "If a player is Coexisting on Mecatol Rex, can they score Imperial Point with Imperial Primary? A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point."
-E7 Thunder's Edge Rulebook p. 13 (Alliance variant): units "do not count for scoring objectives or scoring the 'Imperial' victory point." Covers allies, not coexistence.
+I7 Thunder's Edge Rulebook p. 11, Coexist: "When scoring objectives, a coexisting player counts as controlling the planet they are coexisting on; they do not count as controlling the planet for any other game ability or effect." Imperial is not named.
 @4
 E2 RulesPal, "Can I score a public objective with Imperial and another in the same round's status phase?": "Yes — they are separate scoring windows. Imperial scores a public objective immediately even if it says status phase."
