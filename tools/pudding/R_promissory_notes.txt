@@ -2,6 +2,7 @@
 N No source found.
 @1
 I2 RulesPal, "Can I trade on a promissory note I received from another player, and must I show it?": "you needn't show it, though the recipient may want to see it first."
+I1 LRR 69: "Players should keep their hands of promissory notes hidden."
 @2
 N No source found.
 @3

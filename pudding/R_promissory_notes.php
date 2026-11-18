@@ -9,9 +9,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.<sup>*</sup>
+    <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I trade on a promissory note I received from another player, and must I show it?&rdquo;: &ldquo;you needn&rsquo;t show it, though the recipient may want to see it first.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 69: &ldquo;Players should keep their hands of promissory notes hidden.&rdquo;</li>
         </ul></li>
     <ol>
         <li>However, it is public information that a promissory note was traded.<sup>*</sup>

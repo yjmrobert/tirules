@@ -21,7 +21,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>The number of promissory notes in a player&rsquo;s hand is public information.<sup>*</sup></li>
-    <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.<sup>*</sup></li>
+    <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.<sup>1,2</sup></li>
     <ol>
         <li>However, it is public information that a promissory note was traded.<sup>*</sup></li>
         <li>The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.<sup>*</sup></li>
