@@ -18,6 +18,9 @@ E1 Same rules, in clockwise order (92.5).
 @8
 E1 Same rules, in clockwise order (92.5).
 @9
-E2 RulesPal, "Is replenishing other players' commodities with Trade a transaction?": "No — it is a strategy card effect: recipients needn't be neighbors, can't refuse, it doesn't use up a transaction"
+E5 Designer ruling (Skootur, Oct 19, 2017), on Trade: "—Binding: Give me two trade goods and I'll let you refresh your commodities without spending a command token. —Non-Binding: You get to refresh for free now, but must trade me 2 for 1 after the trade card resolves."
+I2 RulesPal, "When is a deal binding?": "Only when its terms resolve immediately … Promises about future actions, and if-then conditions, are non-binding and can be broken."
 @10
+E2 RulesPal, "Is replenishing other players' commodities with Trade a transaction?": "No — it is a strategy card effect: recipients needn't be neighbors, can't refuse, it doesn't use up a transaction"
+@11
 E1 LRR FAQ: "If a player would refresh their commodities but already has the maximum amount, can another player still play that player's 'Trade Agreement' promissory note against them? A: Yes. Even if that player gains zero commodities."
