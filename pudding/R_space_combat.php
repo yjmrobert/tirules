@@ -58,10 +58,18 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat).&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Ambush work?&rdquo;: &ldquo;At the start of space combat, before Anti-Fighter Barrage.&rdquo;</li>
         </ul></li>
+    <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        </ul></li>
     <li>If a space combat reaches a state where neither player can win, the attacker must retreat. If the attacker cannot retreat, their units in that combat are destroyed.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens if neither side can ever win a space combat?&rdquo;: &ldquo;The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If neither side has the potential to win, the attacker must retreat.&rdquo;</li>
+        </ul></li>
+    <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;No &mdash; a combat is a space combat or a ground combat &hellip; Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat.&rdquo;</li>
         </ul></li>
     <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup>
         <ul>

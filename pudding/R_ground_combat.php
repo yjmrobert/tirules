@@ -14,6 +14,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 42.4b: &ldquo;During the last round of a combat, &lsquo;end of combat&rsquo; and &lsquo;end of combat round&rsquo; effects occur during the same timing window.&rdquo;</li>
         </ul></li>
+    <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        </ul></li>
     <li>If ground combat is to happen on multiple planets during a single invasion step, they will be resolved planet by planet, after the <b>Space Cannon Defense</b> step has been resolved on all planets and before the <b>Establish Control</b> step is resolved on any planet. The active player chooses the order combats are fought in.<sup>3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Ground combats on multiple planets are resolved in the order of the active player&rsquo;s choice.&rdquo;</li>
@@ -22,6 +26,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
+        </ul></li>
+    <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;No &mdash; a combat is a space combat or a ground combat &hellip; Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat.&rdquo;</li>
         </ul></li>
     <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.<sup>1</sup>
         <ul>
