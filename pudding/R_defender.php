@@ -9,10 +9,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When the Mahact hero, Benediction, is used who is considered the attacker and who is the defender? &hellip; A: The ships being moved belong to the &lsquo;attacker&rsquo; and the ships not being moved belong to the &lsquo;defender.&rsquo;&rdquo;</li>
         </ul></li>
-    <ol><li>Resolving abilities will be by initiative order, starting with the <a href="/F_mahact">Mahact</a> player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>
