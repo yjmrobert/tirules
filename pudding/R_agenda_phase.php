@@ -5,19 +5,19 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A player may cast votes with space stations, <i>The Triad</i>, and Oceans.<sup>6,9</sup>
+    <li>A player may cast votes with space stations, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and Oceans.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> Space Stations: &ldquo;Space Stations are used for voting but may not be elected.&rdquo; Relics: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Space Stations: &ldquo;Space Stations are used for voting but may not be elected.&rdquo; Relics: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
         </ul></li>
     <li>When a player casts votes during the agenda phase, it is not that player&rsquo;s turn for the purpose of game effects.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, start-of-turn abilities: &ldquo;They only exist in the action phase: you don&rsquo;t have turns in the strategy, status or agenda phases.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do &lsquo;at the start of your turn&rsquo; abilities happen, and do they work in other phases?&rdquo;: &ldquo;They only exist in the action phase: you don&rsquo;t have turns in the strategy, status or agenda phases.&rdquo;</li>
         </ul></li>
     <li>If an agenda outcome affects multiple players, it does so in speaker order.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 1.20: &ldquo;If there are multiple abilities that players wish to resolve at the same time during the strategy or agenda phases, players take turns resolving abilities starting with the speaker and proceeding clockwise.&rdquo; Covers player abilities, not agenda outcomes.</li>
-        <li><b>Implicit</b>: <sup>6</sup> &ldquo;Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases.&rdquo; Covers only a contested-control case.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases.&rdquo; Covers only a contested-control case.</li>
         </ul></li>
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.<sup>1,2</sup>
         <ul>
@@ -32,9 +32,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 94.6: &ldquo;While resolving each agenda during the agenda phase, a player may perform one transaction with each other player.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can players make transactions with non-neighbors during the agenda phase?&rdquo;: &ldquo;while each agenda is being resolved &hellip; every pair of players may make one transaction, neighbors or not.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p.&nbsp;20: &ldquo;Each player may negotiate up to one transaction with each other player while resolving the vote for each agenda.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 20: &ldquo;Each player may negotiate up to one transaction with each other player while resolving the vote for each agenda.&rdquo;</li>
         </ul></li>
-    <li>Only planets ready at the end of the phase. Technologies, leaders, relics, and other cards do not.<sup>2</sup>
+    <li>Only planets ready at the end of the phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I exhaust planets for resources or technology specialties during the agenda phase?&rdquo;: &ldquo;Exhausted cards other than planets don&rsquo;t ready at the end of the agenda phase.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.4: &ldquo;Step 3&mdash;Ready Planets: Each player readies each of their exhausted planets.&rdquo; Names only planets.</li>
@@ -46,18 +46,18 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I abstain, and does casting zero votes let me use Distinguished Councilor or Bribery?&rdquo;: &ldquo;Casting zero votes is the same as abstaining.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Consider zero votes to be mechanically the same as abstaining.&rdquo;</li>
         </ul></li>
-    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the Nekro player or have played a rider, as deciding a tie is not a vote.<sup>2</sup>
+    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a speaker who can&rsquo;t vote, such as the Nekro Virus or a speaker who played a rider, still break ties?&rdquo;: &ldquo;Yes&nbsp;&mdash; breaking a tie isn&rsquo;t voting, so the speaker always does it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a speaker who can&rsquo;t vote, such as the Nekro Virus or a speaker who played a rider, still break ties?&rdquo;: &ldquo;Yes &mdash; breaking a tie isn&rsquo;t voting, so the speaker always does it.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.19: &ldquo;If there is a tie &hellip; the speaker decides which of the tied outcomes to resolve.&rdquo; No exception for a speaker who cannot vote.</li>
         </ul></li>
-    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <i>Mutiny</i> agenda.<sup>2</sup>
+    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda&rsquo;s outcome affect everyone, or only the players who voted for it?&rdquo;: &ldquo;Everyone, unless the card itself limits the effect to players who voted a certain way, as Mutiny does. Abstaining doesn&rsquo;t exempt you.&rdquo;</li>
         </ul></li>
     <li>Players may exhaust planets during the agenda phase for purposes other than casting votes, such as spending resources or using technology specialties. Planets exhausted this way cannot then be used to cast votes.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I exhaust planets for resources or technology specialties during the agenda phase?&rdquo;: &ldquo;Yes&nbsp;&mdash; nothing limits planets to voting then. You can spend them on things like Inheritance Systems or research from a Technology Rider, but those planets then can&rsquo;t vote.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I exhaust planets for resources or technology specialties during the agenda phase?&rdquo;: &ldquo;Yes &mdash; nothing limits planets to voting then. You can spend them on things like Inheritance Systems or research from a Technology Rider, but those planets then can&rsquo;t vote.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

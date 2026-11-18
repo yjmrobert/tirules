@@ -1,0 +1,32 @@
+@0
+E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
+E6 Community consensus, Space Stations: "Space Stations are used for voting but may not be elected." Relics: "Q: Can you vote using The Triad relic? A: Yes."
+@1
+E2 RulesPal, "When do 'at the start of your turn' abilities happen, and do they work in other phases?": "They only exist in the action phase: you don't have turns in the strategy, status or agenda phases."
+@2
+I1 LRR 1.20: "If there are multiple abilities that players wish to resolve at the same time during the strategy or agenda phases, players take turns resolving abilities starting with the speaker and proceeding clockwise." Covers player abilities, not agenda outcomes.
+I6 Community consensus: "Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases." Covers only a contested-control case.
+@3
+E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
+I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved." LRR 1.20 gives speaker order for simultaneous abilities in the agenda phase.
+@4
+I1 LRR 1.20: players "take turns resolving abilities starting with the speaker and proceeding clockwise. This process continues until each player has resolved each ability that they wish to resolve during that window." Turn-taking implies one at a time. No source states that the player chooses the order.
+@5
+E1 LRR 94.6: "While resolving each agenda during the agenda phase, a player may perform one transaction with each other player."
+E2 RulesPal, "Can players make transactions with non-neighbors during the agenda phase?": "while each agenda is being resolved … every pair of players may make one transaction, neighbors or not."
+E3 Learn to Play p. 20: "Each player may negotiate up to one transaction with each other player while resolving the vote for each agenda."
+@6
+E2 RulesPal, "Can I exhaust planets for resources or technology specialties during the agenda phase?": "Exhausted cards other than planets don't ready at the end of the agenda phase."
+I1 LRR 8.4: "Step 3—Ready Planets: Each player readies each of their exhausted planets." Names only planets.
+I3 Learn to Play, Ready Planets: "Each player readies all of their planet cards."
+@7
+E1 LRR FAQ, Agendas: "A vote of zero is the same as abstaining; that player gains no positive or negative effects of voting 'For' or 'Against' on an agenda if they contributed zero votes."
+E2 RulesPal, "Can I abstain, and does casting zero votes let me use Distinguished Councilor or Bribery?": "Casting zero votes is the same as abstaining."
+E5 Designer ruling: "Consider zero votes to be mechanically the same as abstaining."
+@8
+E2 RulesPal, "Can a speaker who can't vote, such as the Nekro Virus or a speaker who played a rider, still break ties?": "Yes — breaking a tie isn't voting, so the speaker always does it."
+I1 LRR 8.19: "If there is a tie … the speaker decides which of the tied outcomes to resolve." No exception for a speaker who cannot vote.
+@9
+E2 RulesPal, "Does an agenda's outcome affect everyone, or only the players who voted for it?": "Everyone, unless the card itself limits the effect to players who voted a certain way, as Mutiny does. Abstaining doesn't exempt you."
+@10
+E2 RulesPal, "Can I exhaust planets for resources or technology specialties during the agenda phase?": "Yes — nothing limits planets to voting then. You can spend them on things like Inheritance Systems or research from a Technology Rider, but those planets then can't vote."
