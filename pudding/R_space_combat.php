@@ -15,6 +15,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area&rdquo; over capacity, excess units are removed then.</li>
         </ul></li>
+    <ol><li>It is possible to win a space combat with only fighters remaining, before those fighters are removed due to lack of capacity.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player&rsquo;s ships in that system, that player must choose and remove any excess units.&rdquo; The winner is decided before the excess is removed.</li>
+        </ul></li></ol>
     <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat).&rdquo;</li>
@@ -33,6 +37,14 @@
         <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
+        </ul></li>
+        <li>A player can retreat into an <a href="/R_asteroid_field">asteroid field</a> or <a href="/R_supernova">supernova</a> only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. LRR 78.7 retreat movement combined with the asteroid field and supernova movement rules and the card text.</li>
+        </ul></li>
+        <li>Ships retreating out of a gravity rift are affected by it; see <a href="/R_gravity_rift">Gravity Rift</a>.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system.&rdquo; A retreat moves ships out of the active system.</li>
         </ul></li>
         <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup>
         <ul>
