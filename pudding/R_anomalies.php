@@ -18,6 +18,10 @@
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift &hellip;?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>
         </ul></li>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

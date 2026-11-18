@@ -34,7 +34,7 @@
     <li>If a ship moves through or out of multiple gravity rifts, each gravity rift provides +1 to its move value and requires a separate roll for removal. If it moves out of the same gravity rift more than once, that gravity rift provides +1 only once, but each instance requires a separate roll.<sup>1,2,6,7,8</sup></li>
     <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>*</sup></li>
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup></li>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

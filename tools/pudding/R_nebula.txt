@@ -1,4 +1,4 @@
 @0
-I4 On Sardakk N'orr's commander: the LRR "Will also prevent units from being committed to planets in anomalies without the appropriate technology."
+E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."
 @1
 E4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to 'Units may not move through a Nebula'"

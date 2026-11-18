@@ -14,7 +14,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup></li>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup></li>
     <li>Units are intended to be able to move into a nebula even when it is not the active system, but not through it.<sup>4</sup></li>
     </ol>
 

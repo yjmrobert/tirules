@@ -5,9 +5,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> On Sardakk N&rsquo;orr&rsquo;s commander: the LRR &ldquo;Will also prevent units from being committed to planets in anomalies without the appropriate technology.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     <li>Units are intended to be able to move into a nebula even when it is not the active system, but not through it.<sup>4</sup>
         <ul>

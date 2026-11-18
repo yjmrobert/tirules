@@ -5,3 +5,5 @@ E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole sy
 @2
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."
+@3
+E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."

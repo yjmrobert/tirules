@@ -61,9 +61,9 @@
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift &hellip;?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>
         </ul></li>
-    <li>All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.<sup>4</sup>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> On Sardakk N&rsquo;orr&rsquo;s commander: the LRR &ldquo;Will also prevent units from being committed to planets in anomalies without the appropriate technology.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

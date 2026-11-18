@@ -30,4 +30,4 @@ I1 LRR 95.1b: "Units being transported by a ship that is removed from the board 
 E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes."
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."
 @11
-I4 On Sardakk N'orr's commander: the LRR "Will also prevent units from being committed to planets in anomalies without the appropriate technology."
+E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."
