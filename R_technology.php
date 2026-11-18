@@ -35,6 +35,7 @@
     <h2><li>Technology Specialties</li></h2>
     <p data-src="1">A technology specialty is a technology symbol found on some planets.</p>
     <li data-src="1,2">When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol of the matching type on the technology card they are researching.</li>
+    <ol><li>(Thunder&rsquo;s Edge) A planet with two technology specialties can be exhausted to ignore either or both of the matching prerequisite symbols.<sup>7</sup></li></ol>
     <li data-src="1">If the planet card is already exhausted, it cannot be used to ignore a prerequisite.</li>
     <h2><li>Valefar Assimilator</li></h2>
     <p data-src="1">The <a href="/F_nekro">Nekro</a> Virus faction can use its faction abilities in combination with its two <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technologies to gain faction technologies that have been researched by other players, including unit upgrades.</p>

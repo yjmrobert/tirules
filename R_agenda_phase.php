@@ -24,7 +24,10 @@
     <li data-src="1">When electing a player, a player can cast votes for themselves.</li>
     <ol><li data-src="1">When resolving these agendas, the &ldquo;elected player&rdquo; is the player for whom the most votes are cast.</li></ol>
     <li data-src="1,2,3">When electing a planet, a player must cast votes for a planet that is controlled by a player.</li>
-    <ol><li data-src="1">When resolving these agendas, the &ldquo;elected planet&rdquo; is the planet that had the most votes cast for it.</li></ol>
+    <ol>
+        <li data-src="1">When resolving these agendas, the &ldquo;elected planet&rdquo; is the planet that had the most votes cast for it.</li>
+        <li>(Thunder&rsquo;s Edge) A space station cannot be elected, although its influence can be used to cast votes.<sup>6</sup></li>
+    </ol>
     <li data-src="1,3">When casting votes, a player must declare aloud the outcome for which their votes are being cast.</li>
     <li data-src="1,2">Trade goods cannot be spent to cast votes.</li>
     <li data-src="1,2,3">A player may choose to abstain by not casting any votes.</li>

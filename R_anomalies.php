@@ -7,7 +7,10 @@
     <ol class="lrr">
     <li data-src="1,2">An anomaly is identified by a red border located on the tile&rsquo;s corners.</li>
     <li data-src="1,2">There are four types of anomalies: asteroid fields, nebulae, supernovas, and gravity rifts.</li>
-    <ol><li data-src="1">Some anomalies contain planets; those systems are still anomalies.</li></ol>
+    <ol>
+        <li data-src="1">Some anomalies contain planets; those systems are still anomalies.</li>
+        <li>(Thunder&rsquo;s Edge) Entropic scars are a fifth type of anomaly.<sup>7</sup></li>
+    </ol>
     <li data-src="1">Each type of anomaly is identified by its art. <code>See rulebook for images.</code></li>
     <li data-src="1">Abilities can cause a system tile to become an anomaly; that system tile is an anomaly in addition to its other properties.</li>
     <li data-src="1">Abilities can cause a system to be two different anomalies; that system has the properties of both anomalies.</li>

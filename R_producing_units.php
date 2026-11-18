@@ -20,6 +20,7 @@
     <li data-src="1">When a player produces a unit through an ability outside of the tactical action, that ability will state how many units that player can produce and where that player can place those units.</li>
     <ol>
         <li data-src="1">A player cannot produce a unit on a planet they do not control.</li>
+        <ol><li>(Thunder&rsquo;s Edge) Units that are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces there, but cannot produce ships.<sup>9</sup></li></ol>
         <li data-src="1">If an ability allows a player to produce a unit in a system, they may produce that unit in the space area or on a planet they control in that system.</li>
     </ol>
     <li data-src="1">A player is limited by the number of units in their reinforcements.</li>

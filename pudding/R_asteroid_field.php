@@ -9,9 +9,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which systems count as anomalies?&rdquo;: &ldquo;Antimass Deflectors is the technology that lets ships move in&rdquo; asteroid fields.</li>
         </ul></li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> On the nebula rule: &ldquo;The Nebula section of the LRR will be edited.&rdquo; No source states the general change.</li>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

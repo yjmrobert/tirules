@@ -9,6 +9,7 @@
     <li data-src="1">A planet&rsquo;s influence is indicated by the value on its planet card and system tile that is surrounded by a blue hexagonal border.</li>
     <li data-src="1,3">A planet&rsquo;s trait has no inherent effects, but some game effects refer to a planet&rsquo;s trait. There are three traits: cultural, hazardous, and industrial.</li>
     <li data-src="1,2,3">Some planets have a technology specialty, which allows those planets to be exhausted to satisfy a prerequisite when researching technology.</li>
+    <ol><li>(Thunder&rsquo;s Edge) Some planets have two technology specialties, and can be exhausted to satisfy either or both prerequisites simultaneously.<sup>7</sup></li></ol>
     <li data-src="1,7,8">Some planets are legendary planets, as indicated by the legendary planet icon. When a player gains control of a legendary planet, they also gain control of its legendary planet ability card.</li>
     <h2><li>Planet Card</li></h2>
     <p data-src="1,2">Each planet has a corresponding planet card that displays its name, resource value, influence value, and trait, if it has one. If a player controls a planet, they keep that planet&rsquo;s card in their play area.</p>

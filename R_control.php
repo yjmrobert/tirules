@@ -18,6 +18,7 @@
     <ol>
         <li data-src="1">The player that placed units on the planet gains control of that planet.</li>
         <li data-src="1,5,6">During the <b><a href="/R_invasion">Invasion</a></b> step of a tactical action, control is determined during the <b><a href="/R_invasion">Establish Control</a></b> step instead.</li>
+        <li>(Thunder&rsquo;s Edge) The player whose units trigger <a href="/R_coexistence">coexistence</a> on a planet does not gain or retain control of it; if they already controlled it, the player they now coexist with gains control of it, exhausted. If a player&rsquo;s coexisting units become the only units on a planet, that player gains control of it.<sup>7</sup></li>
     </ol>
     <li data-src="1,2">A player can lose control of a planet through some game effects.</li>
     <li data-src="1">If a player loses control of a planet that contains their control token, they remove their control token from the planet.</li>

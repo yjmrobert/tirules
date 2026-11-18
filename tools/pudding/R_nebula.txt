@@ -1,4 +1,4 @@
 @0
 I4 On Sardakk N'orr's commander: the LRR "Will also prevent units from being committed to planets in anomalies without the appropriate technology."
 @1
-I4 "The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1."
+E4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to 'Units may not move through a Nebula'"

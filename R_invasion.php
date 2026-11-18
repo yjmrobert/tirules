@@ -12,11 +12,15 @@
         <li data-src="1,3">To commit a ground force to a planet, the active player places that ground force unit on that planet.</li>
         <li data-src="1">The planet may contain another player&rsquo;s ground forces.</li>
         <li data-src="1,2">If the active player does not wish to commit ground forces, that player proceeds to the <b><a href="/R_tactical_action">Production</a></b> step of the tactical action.</li>
+        <li>(Thunder&rsquo;s Edge) A player can commit their <a href="/R_coexistence">coexisting</a> ground forces against the planet they are coexisting on, to end that coexistence.<sup>7</sup></li>
     </ol>
     <li data-src="1,2,3"><b>Step 3 &ndash; Space Cannon Defense</b>: If the active player commits any ground forces to a planet that contains units that have the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, those <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities can be used against the committed ground forces.</li>
     <ol><li data-src="1">If the active player committed ground forces to more than one planet that contained units with a <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, the active player chooses the order in which those <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities are resolved.</li></ol>
     <li data-src="1,2,3"><b>Step 4 &ndash; Ground Combat</b>: If the active player has ground forces on a planet in the active system that contains another player&rsquo;s ground forces, those players resolve a ground combat on that planet.</li>
-    <ol><li data-src="1,3">If players must resolve a combat on more than one planet, the active player chooses the order in which those combats are resolved.</li></ol>
+    <ol>
+        <li data-src="1,3">If players must resolve a combat on more than one planet, the active player chooses the order in which those combats are resolved.</li>
+        <li>(Thunder&rsquo;s Edge) <a href="/R_coexistence">Coexisting</a> units do not trigger a ground combat, but the active player may choose to engage them with ground forces committed to that planet.<sup>7</sup></li>
+    </ol>
     <li data-src="1,2,3"><b>Step 5 &ndash; Establish Control</b>: The active player gains control of each planet they committed ground forces to if that planet still contains at least one of their ground forces.</li>
     <ol>
         <li data-src="1,2,3">When a player gains control of a planet, any structures on the planet that belong to other players are immediately destroyed.</li>

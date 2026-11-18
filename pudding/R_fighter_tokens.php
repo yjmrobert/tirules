@@ -18,7 +18,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited &hellip;?&rdquo;: &ldquo;Tokens are unlimited.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 23.4: &ldquo;Units are limited to those included in the game, except for fighters and ground forces.&rdquo;</li>
         </ul></li>
-    <li>A future rule change will have any unaccompanied fighter tokens removed, instead of destroyed.<sup>4</sup>
+    <li>Unaccompanied fighter tokens are intended to be removed, instead of destroyed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed.&rdquo;</li>
         </ul></li>

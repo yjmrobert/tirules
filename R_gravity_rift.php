@@ -6,7 +6,10 @@
 <p data-src="1">A gravity rift is an anomaly that affects movement.</p>
     <ol class="lrr">
     <li data-src="1,2,3,8">A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value.</li>
-    <ol><li data-src="1,2,5">This can allow a ship to reach the active system from farther away than it normally could.</li></ol>
+    <ol>
+        <li data-src="1,2,5">This can allow a ship to reach the active system from farther away than it normally could.</li>
+        <li>(Thunder&rsquo;s Edge) A gravity rift can contribute its movement bonus to a given ship only once.<sup>7</sup></li>
+    </ol>
     <li data-src="1,2,3,8,10">For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1&ndash;3, that ship is removed from the board.</li>
     <ol>
         <li data-src="1,2,5">Dice are not rolled for units that are being transported by ships that have capacity.</li>

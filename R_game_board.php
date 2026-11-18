@@ -7,7 +7,10 @@
     <ol class="lrr">
     <li data-src="1">The game board consists of all system tiles that were placed during setup, even if the sides of those tiles do not touch any other system tiles, such as the Ghosts of <a href="/F_creuss">Creuss</a>&rsquo; home system.</li>
     <li data-src="1,2">A system tile is on the edge of the game board if any of its sides are not touching another system tile.</li>
-    <ol><li data-src="1,2,8">The Ghosts of <a href="/F_creuss">Creuss</a> home system and the wormhole nexus are on the edge of the game board.</li></ol>
+    <ol>
+        <li data-src="1,2,8">The Ghosts of <a href="/F_creuss">Creuss</a> home system and the wormhole nexus are on the edge of the game board.</li>
+        <li>(Thunder&rsquo;s Edge) Each system in The Fracture is considered to be on the edge of the game board.<sup>7</sup></li>
+    </ol>
     </ol>
 
 <h2>Notes</h2>

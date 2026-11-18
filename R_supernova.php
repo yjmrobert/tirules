@@ -11,7 +11,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>If a ship finds itself in a supernova by some uncommon game effect, it may remain there without harm.<sup>2,5</sup></li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup></li>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup></li>
     <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova is prevented.<sup>2</sup></li>
     </ol>
 

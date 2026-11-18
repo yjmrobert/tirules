@@ -13,6 +13,7 @@
         <li data-src="1,2,3">Multiple planets in a system may be bombarded, but a player must declare which planet a unit is bombarding before making a bombardment roll.</li>
         <li data-src="1">The <a href="/F_lizix">L1Z1X</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability does not affect the <a href="/F_lizix">L1Z1X</a> player&rsquo;s own ground forces.</li>
         <li data-src="1,2">Planets that contain a unit with the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability cannot be bombarded.</li>
+        <li>(Thunder&rsquo;s Edge) If a player makes a bombardment roll against a planet that contains <a href="/R_coexistence">coexisting</a> units, that player chooses which units with <sc>Bombardment</sc> are bombarding which other player&rsquo;s units, and rolls against each player separately.<sup>7</sup></li>
     </ol>
     <li data-src="1,3"><b>Step 2</b> &ndash; The player who controls the planet that is being bombarded chooses and destroys one of their ground forces on that planet for each hit result the bombardment roll produced.</li>
     <ol><li data-src="1">If a player has to assign more hits than that player has ground forces, the excess hits have no effect.</li></ol>

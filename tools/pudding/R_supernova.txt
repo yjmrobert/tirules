@@ -2,6 +2,6 @@
 E2 RulesPal, "Who can move into or through a supernova?": "A supernova never destroys ships already there."
 E5 Designer ruling: "the effects of a supernova do not kill ships, only restrict or disallow movement."
 @1
-I4 "The Nebula section of the LRR will be edited." No located source announces the general change.
+E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."
 @2
 E2 RulesPal, "Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?": "A supernova can be activated; it only stops ships moving into or through it … and ships can always move out."

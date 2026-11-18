@@ -11,7 +11,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology may move their ships through asteroid fields.<sup>2</sup></li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup></li>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

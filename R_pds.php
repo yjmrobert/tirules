@@ -9,6 +9,7 @@
     <li data-src="1,2">The primary way by which players acquire PDS units is by resolving either the primary or secondary ability of the <a href="/R_construction"><i>Construction</i></a> strategy card.</li>
     <li data-src="1,2,3">A PDS unit is placed on a planet. Each planet can have a maximum of <b>two</b> PDS units.</li>
     <li data-src="1">If a player&rsquo;s PDS is ever on a planet that does not contain any of their own ground forces and contains a unit that belongs to another player, that PDS is destroyed.</li>
+    <ol><li>(Thunder&rsquo;s Edge) A player whose only units on a planet are PDS units keeps control of that planet when another player&rsquo;s ground forces <a href="/R_coexistence">coexist</a> there.<sup>9</sup></li></ol>
     </ol>
 
 <h2>Notes</h2>

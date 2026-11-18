@@ -10,9 +10,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can move into or through a supernova?&rdquo;: &ldquo;A supernova never destroys ships already there.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the effects of a supernova do not kill ships, only restrict or disallow movement.&rdquo;</li>
         </ul></li>
-    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.<sup>4</sup>
+    <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;The Nebula section of the LRR will be edited.&rdquo; No located source announces the general change.</li>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova is prevented.<sup>2</sup>
         <ul>

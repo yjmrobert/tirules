@@ -9,9 +9,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> On Sardakk N&rsquo;orr&rsquo;s commander: the LRR &ldquo;Will also prevent units from being committed to planets in anomalies without the appropriate technology.&rdquo;</li>
         </ul></li>
-    <li>A future rule change will allow ships to move into a nebula when it is not the active system.<sup>4</sup>
+    <li>Units are intended to be able to move into a nebula even when it is not the active system, but not through it.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to &lsquo;Units may not move through a Nebula&rsquo;&rdquo;</li>
         </ul></li>
     </ol>
 </article>

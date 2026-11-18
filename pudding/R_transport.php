@@ -50,7 +50,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?&rdquo;: &ldquo;You can&rsquo;t pick up more than the moving ships&rsquo; capacity, so you can&rsquo;t overload to destroy your own units.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup>
+    <li>A player&rsquo;s ships are intended to be able to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
