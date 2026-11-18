@@ -23,11 +23,11 @@
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Cultural Relic Fragments.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>If an eliminated player had any Cultural Relic Fragments, they are discarded.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What happens to your relics and relic fragments when you&rsquo;re eliminated? A: Relics are purged, relic fragments discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What happens to your relics and relic fragments when you&rsquo;re eliminated? A: Relics are purged, relic fragments discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -51,7 +51,7 @@
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> On drawing past the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on drawing past the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 45.4: &ldquo;If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it.&rdquo;</li>
         </ul></li>
     </ol>
@@ -80,13 +80,13 @@
     <ol class="note">
     <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next. As such, a player cannot place ground forces produced by <i>Freelancers</i> on a planet in the active system that they are yet to gain and explore.<sup>4,8</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system? A: No, you choose an order to gain and explore planets. The sequence would be &gt; gain control of planet A &gt; explore planet A &gt; gain control of planet B.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system? A: No, you choose an order to gain and explore planets. The sequence would be &gt; gain control of planet A &gt; explore planet A &gt; gain control of planet B.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 11: &ldquo;If a player gains control of multiple planets at the same time, they choose the order in which they explore those planets, drawing and resolving each planet&rsquo;s exploration card before exploring the next planet.&rdquo;</li>
         </ul></li>
     <li>If a player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -110,11 +110,11 @@
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Hazardous Relic Fragments.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>If an eliminated player had any Hazardous Relic Fragments, they are discarded.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -122,11 +122,11 @@
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Industrial Relic Fragments.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>If an eliminated player had any Industrial Relic Fragments, they are discarded.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -142,7 +142,7 @@
         </ul></li>
     <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips.&rdquo;</li>
         </ul></li>
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, the Ion Storm token is not flipped.<sup>*</sup>
@@ -151,7 +151,7 @@
         </ul></li>
     <li>If the Ion Storm token would be placed in an entropic scar, the <i>Ion Storm</i> card is still placed in the common play area, and the token is discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -172,7 +172,7 @@
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -232,7 +232,7 @@
         </ul></li>
     <li>If an eliminated player had any Unknown Relic Fragments, they are discarded.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Relics are purged, relic fragments discarded.&rdquo;</li>
         </ul></li>
     </ol>
 

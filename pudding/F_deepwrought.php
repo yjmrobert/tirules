@@ -15,7 +15,7 @@
         </ul></li>
     <li>If the Deepwrought player uses <sc>Research Team</sc> when another player commits ground forces to a planet the Deepwrought player controls, the ground combat is skipped and the invading player gains control of the planet during the <b>Establish Control</b> step. If another player was already coexisting on that planet, the invading player may instead choose to end that player&rsquo;s coexistence, resolving a ground combat against them; the winner gains control during the <b>Establish Control</b> step.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;When DWS uses research teams to coexist, this occurs during the commit ground forces step, so when you get to the ground combat step you skip it, moving straight to the Establish Control step, where you gain control. If there were another player coexisting on that planet before invasion, though, you may choose to end that player&rsquo;s coexistence.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;When DWS uses research teams to coexist, this occurs during the commit ground forces step, so when you get to the ground combat step you skip it, moving straight to the Establish Control step, where you gain control. If there were another player coexisting on that planet before invasion, though, you may choose to end that player&rsquo;s coexistence.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -23,15 +23,15 @@
     <ol class="note">
     <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? &hellip; A: Oceans do not count as planets for scoring. They may be spent as planet cards.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? &hellip; A: Oceans do not count as planets for scoring. They may be spent as planet cards.&rdquo;</li>
         </ul></li>
     <li>If all of the Deepwrought player&rsquo;s ocean cards are already in play, they cannot resolve <sc>Oceanbound</sc> to ready one of their oceans.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
         </ul></li>
     <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -67,11 +67,11 @@
     <ol class="note">
     <li>The <i>D.W.S. Luminous</i> gains +1 for each system it moves through that contains the Deepwrought player&rsquo;s units, regardless of any other units present.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both &hellip;? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both &hellip;? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present.&rdquo;</li>
         </ul></li>
     <li>The <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology prevents the <i>D.W.S. Luminous</i> from moving through systems containing the <a href="/F_argent">Argent</a> player&rsquo;s structures.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;D.W.S. Luminous (Flagship): How does this interact with Aerie Hololattice? &hellip; A: Aerie Hololattice stops it moving through.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;D.W.S. Luminous (Flagship): How does this interact with Aerie Hololattice? &hellip; A: Aerie Hololattice stops it moving through.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -79,11 +79,11 @@
     <ol class="note">
     <li>Doctor Carrina may be used even if no prerequisite is skipped, but the coexisting infantry is not placed. This includes when the player chooses not to ignore any prerequisites, or researches a technology with no prerequisites. The player may ignore prerequisites they already fulfill on a technology that has at least one prerequisite.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The agent may be used, but the coexisting infantry is not placed if a prerequisite was not skipped &hellip; The receiving player may still ignore prerequisites even if they already fulfill them on a technology that has at least 1 prerequisite.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The agent may be used, but the coexisting infantry is not placed if a prerequisite was not skipped &hellip; The receiving player may still ignore prerequisites even if they already fulfill them on a technology that has at least 1 prerequisite.&rdquo;</li>
         </ul></li>
     <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the <a href="/F_nekro">Nekro</a> player cannot skip a prerequisite.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Is it possible &hellip; for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the &lsquo;they do skip a prerequisite&rsquo;&rdquo; condition.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is it possible &hellip; for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the &lsquo;they do skip a prerequisite&rsquo;&rdquo; condition.</li>
         </ul></li>
     </ol>
 

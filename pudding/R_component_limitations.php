@@ -33,11 +33,11 @@
         </ul></li>
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>If a player is instructed to &ldquo;replace&rdquo; one unit with another, and they have none of the replacement unit type in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that unit instead.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

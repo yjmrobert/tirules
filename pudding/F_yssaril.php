@@ -28,7 +28,7 @@
         </ul></li>
     <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming.&rdquo; The discard may come from the hand.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming.&rdquo; The discard may come from the hand.</li>
         </ul></li>
     <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup>
         <ul>
@@ -161,7 +161,7 @@
         </ul></li></ol>
     <li>The Yssaril player may allow another player to use one of their faction abilities whenever that ability would be used. That player may use it for the duration of that ability.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

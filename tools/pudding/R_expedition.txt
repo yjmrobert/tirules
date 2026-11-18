@@ -29,11 +29,11 @@ N No source found.
 @14
 E7 Thunder's Edge Rulebook p. 8: "the player who claimed the final slice flips Thunder's Edge to its planet side and places it in a system of their choice that does not contain a planet, a supernova, or a printed wormhole."
 E2 RulesPal, "How does the Thunder's Edge expedition finish, and who gets the planet?": "that player must flip Thunder's Edge and place it in a system with no planet … supernova or printed wormhole."
-I6 "Place Thunder's Edge into a system with a printed wormhole following the other restrictions." The question lists the restrictions, including The Fracture.
+I6 Community consensus: "Place Thunder's Edge into a system with a printed wormhole following the other restrictions." The question lists the restrictions, including The Fracture.
 @15
-E6 "What happens in the rare situation that, when Thunder's Edge is due to be placed, every system …? A: Place Thunder's Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova."
+E6 Community consensus: "What happens in the rare situation that, when Thunder's Edge is due to be placed, every system …? A: Place Thunder's Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova."
 @16
-E6 "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
+E6 Community consensus: "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
 @17
 E7 Thunder's Edge Rulebook p. 8: "the player with the most control tokens on the expedition places that many infantry on Thunder's Edge. In the case of a tie, the player who claimed the final slice chooses which tied player" places them.
 E2 RulesPal: "on a tie, the player who claimed the last slice chooses among the tied players."

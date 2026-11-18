@@ -33,7 +33,7 @@
     <li>When a hit is assigned against a group of neutral units, it is assigned to the unit that is lowest on the neutral unit reference card.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10, Neutral Units: &ldquo;During combat, hits are assigned to neutral units in the order presented on the neutral unit reference, prioritizing&rdquo; units lower on the card.</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;prioritizing units lower on the reference card first.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;prioritizing units lower on the reference card first.&rdquo;</li>
         </ul></li>
     <li>Neutral units are considered to be another player&rsquo;s ships for abilities and other game effects. However, there is no neutral player.<sup>7</sup>
         <ul>
@@ -41,15 +41,15 @@
         </ul></li>
     <li>Neutral units with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units.&rdquo;</li>
         </ul></li>
     <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat.&rdquo;</li>
         </ul></li>
     <li>If there are no neutral units of a given type left in the supply, and one would be placed, it is not placed.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed? A: They are not placed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed? A: They are not placed.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

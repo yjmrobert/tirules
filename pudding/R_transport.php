@@ -52,7 +52,7 @@
     </ol>
     <li>A player&rsquo;s ships are intended to be able to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

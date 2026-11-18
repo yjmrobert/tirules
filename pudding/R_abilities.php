@@ -89,7 +89,7 @@
     <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 3.3a: &ldquo;During a turn that a player passes, they can resolve transactions and &lsquo;at the start of your turn&rsquo; abilities.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you resolve end of turn abilities on the turn you pass? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you resolve end of turn abilities on the turn you pass? A: Yes.&rdquo;</li>
         </ul></li>
     <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.<sup>1</sup>
         <ul>
@@ -97,11 +97,11 @@
         </ul></li>
     <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> FAQ: &ldquo;is &ldquo;after x&rdquo; distinct from &ldquo;before y&rdquo;&rdquo;: &ldquo;They are distinct. &ldquo;After x&rdquo; happens before &ldquo;before y&rdquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;is &ldquo;after x&rdquo; distinct from &ldquo;before y&rdquo;&rdquo;: &ldquo;They are distinct. &ldquo;After x&rdquo; happens before &ldquo;before y&rdquo;&rdquo;</li>
         </ul></li>
     <li>Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.<sup>6,9</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll &hellip;? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll &hellip;? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: &ldquo;Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
         </ul></li>
     <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup>

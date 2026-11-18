@@ -13,6 +13,6 @@ E3 Learn to Play component list: "17 control tokens ✦ 16 command tokens."
 @5
 I1 LRR 70.1: "If an ability instructs a player to purge a component, that component is removed from the game and returned to the box." purged cards are out of the game, so not in the discard pile.
 @6
-E4 "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @7
-E4 "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."
+E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."

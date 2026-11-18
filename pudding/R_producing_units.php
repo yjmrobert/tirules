@@ -24,7 +24,7 @@
         </ul></li>
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

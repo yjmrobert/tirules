@@ -66,7 +66,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is the action card discard pile face up, and can players look through it?&rdquo;: &ldquo;Yes to both &mdash; discards are face up and public.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Action cards are discarded faceup and players may look through the discard deck.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;the discard is public knowledge.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;the discard is public knowledge.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

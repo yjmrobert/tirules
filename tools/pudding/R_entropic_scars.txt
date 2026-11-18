@@ -11,20 +11,20 @@ N No source found.
 E7 Thunder's Edge Rulebook p. 11, Entropic Scar: unit abilities "cannot be used by or against units inside of an entropic scar."
 @5
 E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "wormholes that would be placed inside of an entropic scar are discarded instead."
-E6 "Wormhole Generator will exhaust and place a token, which will then be discarded."
+E6 Community consensus: "Wormhole Generator will exhaust and place a token, which will then be discarded."
 @6
 N No source found.
 @7
-E6 "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
+E6 Community consensus: "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
 @8
-E6 "What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish."
+E6 Community consensus: "What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish."
 @9
-E6 "If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded."
+E6 Community consensus: "If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded."
 @10
-E6 "Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
+E6 Community consensus: "Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
 @11
 E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies."
 @12
 E2 RulesPal, "If an effect lets me research a technology, do I pay for it?": "'Gain' is different from 'research': gaining ignores prerequisites."
 @13
-E6 "If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs? A: Yes, each Entropic Scar's ability can be resolved as different components."
+E6 Community consensus: "If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs? A: Yes, each Entropic Scar's ability can be resolved as different components."

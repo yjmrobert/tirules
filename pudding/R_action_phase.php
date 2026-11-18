@@ -12,7 +12,7 @@
     <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 3.3a: &ldquo;During a turn that a player passes, they can resolve transactions and &lsquo;at the start of your turn&rsquo; abilities.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you resolve end of turn abilities on the turn you pass? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you resolve end of turn abilities on the turn you pass? A: Yes.&rdquo;</li>
         </ul></li>
     <li>If all other players have passed, a player will continue to resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities.<sup>*</sup>
         <ul>

@@ -9,7 +9,7 @@ E2 RulesPal, "How does Anti-Intellectual Revolution work?": "It is an after-rese
 @4
 N No source found.
 @5
-E4 On Impersonation at the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
+E4 Designer ruling, on Impersonation at the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
 @6
 N No source found.
@@ -52,7 +52,7 @@ N No source found.
 @23
 E1 LRR FAQ: "it does not count toward the secret objective total of the player who originally owned it."
 @24
-E6 "What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? … A: They do not gain a VP and they are unable to score it again."
+E6 Community consensus: "What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? … A: They do not gain a VP and they are unable to score it again."
 @25
 N No source found.
 @26
@@ -78,19 +78,19 @@ N No source found.
 @36
 N No source found.
 @37
-E6 "What if a planet with coexisting units is elected via Compensated Disarmament? … A: The planet controller gains all trade goods."
+E6 Community consensus: "What if a planet with coexisting units is elected via Compensated Disarmament? … A: The planet controller gains all trade goods."
 @38
 N No source found.
 @39
-E4 "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda."
+E4 Designer ruling: "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda."
 @40
 N No source found.
 @41
 N No source found.
 @42
-E4 "The 'Legal Text' action cards and Deadly Plot must be played before the agenda that was voted on is revealed."
+E4 Designer ruling: "The 'Legal Text' action cards and Deadly Plot must be played before the agenda that was voted on is revealed."
 @43
-E4 "Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes."
+E4 Designer ruling: "Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes."
 @44
 E1 LRR FAQ: "the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the 'Repeal Law' action card, the point is not lost."
 E2 RulesPal: "No — a point from these laws is lost only through the condition printed on the card."
@@ -125,7 +125,7 @@ N No source found.
 @57
 E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
 @58
-E4 "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
+E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
 @59
 E2 RulesPal, "When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?": "Excess fleet tokens return to reinforcements; you can't move them to other pools. Any ships over the new limit must be removed immediately."
 @60
@@ -148,7 +148,7 @@ N No source found.
 @68
 N No source found.
 @69
-E4 "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 @70
 E2 RulesPal, "Does a technology I just researched … count as a prerequisite?": "the first technology from the Technology primary counts for the second."
 @71
@@ -185,7 +185,7 @@ E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
 @86
 E1 LRR 24.4a: "If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 @87
-E4 "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry."
+E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry."
 I5 The overturned designer ruling: "'replacing' does not trigger the L1Z1X Minister of Industry, only effects that say 'place' do."
 @88
 E2 RulesPal, "What triggers Minister of Industry?": "A Saar Floating Factory moving into a system doesn't trigger it."
@@ -194,7 +194,7 @@ E2 RulesPal, "When is Minister of Peace used …?": "Once it ends the active pla
 @90
 E2 Same entry: "no other abilities in that window can be resolved."
 @91
-E6 "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
+E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 @92
 E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Peace's owner needn't have units in the activated system."
 @93
@@ -250,7 +250,7 @@ E5 Designer ruling: "Because the losing of the victory points is tied to the com
 @115
 N No source found.
 @116
-E4 "Q: Does New Constitution exhaust home planets if they're not controlled by their owner? A: No, you only exhaust planets in your home system if you control them."
+E4 Designer ruling: "Q: Does New Constitution exhaust home planets if they're not controlled by their owner? A: No, you only exhaust planets in your home system if you control them."
 E2 RulesPal: "A New Constitution only exhausts the planets each player controls in their own home system."
 I3 Learn to Play: "each player exhausts each planet in his home system."
 @117
@@ -287,7 +287,7 @@ I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Faction techn
 N No source found.
 @133
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @134
 N No source found.
 @135
@@ -319,7 +319,7 @@ E2 RulesPal: "You exhaust the Research Team card, not the planet."
 @146
 E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
 @147
-E4 On drawing past the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
+E4 Designer ruling, on drawing past the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
 @148
 N No source found.
@@ -348,7 +348,7 @@ E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (no
 @158
 I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
 @159
-E4 "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 @160
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
 @161

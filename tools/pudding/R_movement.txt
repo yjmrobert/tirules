@@ -2,7 +2,7 @@
 E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
 I1 LRR 58.9: "If an ability moves a unit outside of the 'Movement' step of a tactical action, players follow the rules specified by that ability; neither a unit's move value nor the rules specified above apply."
 @1
-E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
+E4 Designer ruling: "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
 E2 RulesPal, "When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?": "the command-token restriction and other tactical-action movement rules are ignored."
 I1 LRR 58.9: "If an ability moves a unit outside of the 'Movement' step of a tactical action, players follow the rules specified by that ability."
 @2
@@ -12,7 +12,7 @@ E5 Designer ruling (x3n d0g, 07/18/2018): "When retreating, you are only allowed
 E5 FFG answer: "the fighters' movement is not legal. Because there is no partial movement, the Advanced Fighters can either reach the active system from their current system or they cannot. It is not possible to move them part of the way and have a carrier do the rest of the work."
 I1 LRR 58.6: "The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously." movement is declared up front and simultaneous.
 @4
-E4 "When ships move, do they move 'into' systems other than the destination system? A: Only the destination system is considered moved 'into,' other systems are moved 'through.'"
+E4 Designer ruling: "When ships move, do they move 'into' systems other than the destination system? A: Only the destination system is considered moved 'into,' other systems are moved 'through.'"
 I2 RulesPal, "Can I move more ships into a system that already has my command token on a later turn?": "ships only move into the active system" ships move into the destination; other systems are only passed through.
 @5
 E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included. The Living Rules Reference dropped the old exception for fighters, so even Fighter I next to a space dock blocks."

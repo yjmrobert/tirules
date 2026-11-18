@@ -7,7 +7,7 @@
     <ol class="note">
     <li>If a player is instructed to research a technology by any game effect, that player must meet the prerequisites for the technology they research.<sup>1,2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If an effect lets me research a technology, do I pay for it?&rdquo;: &ldquo;You still meet prerequisites (specialties can help).&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 90.9: &ldquo;Other game effects may also instruct a player to research technology.&rdquo;</li>
         </ul></li>
@@ -15,7 +15,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.5: &ldquo;If an ability instructs a player to gain a technology, they do not research it; they take it from their technology deck and place it in their play area, ignoring prerequisites.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;&rsquo;Gain&rsquo; is different from &lsquo;research&rsquo;: gaining ignores prerequisites.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
         </ul></li>
     <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research the generic upgrade for that unit type.<sup>*</sup>
         <ul>

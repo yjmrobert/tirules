@@ -1,5 +1,5 @@
 @0
-E4 "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+E4 Designer ruling: "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
 @1
 N No source found.
 @2
@@ -13,7 +13,7 @@ I1 LRR FAQ: "As long as the active player is involved in the transaction, either
 @5
 E3 Learn to Play: "The active player may negotiate only once with each of their neighbors per turn."
 @6
-E4 "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+E4 Designer ruling: "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
 @7
 E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes."
 I3 Learn to Play: "they may negotiate a transaction with one or more of their neighbors, even during a combat." Covers receiving it during combat, not playing it immediately.
@@ -23,7 +23,7 @@ I1 LRR FAQ: "As long as the active player is involved in the transaction, either
 @9
 E3 Learn to Play: "The active player may negotiate only once with each of their neighbors per turn."
 @10
-E4 "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+E4 Designer ruling: "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
 @11
 N No source found.
 @12
@@ -41,7 +41,7 @@ N No source found.
 @18
 N No source found.
 @19
-E4 "Does the Crown of Thalnos Relic work with … Anti-Fighter Barrage? A: … no to Anti-Fighter Barrage. The intent is ONLY combat rolls."
+E4 Designer ruling: "Does the Crown of Thalnos Relic work with … Anti-Fighter Barrage? A: … no to Anti-Fighter Barrage. The intent is ONLY combat rolls."
 @20
 N No source found.
 @21
@@ -61,18 +61,18 @@ E8 PoK rulebook p. 10: "each deploy ability can be resolved only once per timing
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
 @28
-E6 "Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes"
+E6 Community consensus: "Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes"
 @29
 N No source found.
 @30
-E6 "What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement."
+E6 Community consensus: "What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement."
 @31
-E6 "Is 'before you roll dice' literal i.e. does it apply to AFB rolls? … A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls."
+E6 Community consensus: "Is 'before you roll dice' literal i.e. does it apply to AFB rolls? … A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls."
 @32
-E6 "if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus."
+E6 Community consensus: "if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus."
 @33
-E6 "If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? … A: Yes, Barony can assign to a" new ship.
+E6 Community consensus: "If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? … A: Yes, Barony can assign to a" new ship.
 @34
-E6 "can a slow ship copy a value, then get the +1 from Gravity Drive? … A: No the copy happens after gravity drive."
+E6 Community consensus: "can a slow ship copy a value, then get the +1 from Gravity Drive? … A: No the copy happens after gravity drive."
 @35
-E6 "How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus."
+E6 Community consensus: "How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus."

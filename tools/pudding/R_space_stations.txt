@@ -3,18 +3,18 @@ E7 Thunder's Edge Rulebook p. 10: "Some systems contain space stations."
 @1
 E7 Same passage: "A player gains control of a space station from the deck or from another player when they are the only player that has ships in its system."
 E2 RulesPal, "When do I gain and lose control of a space station?": "You gain it as soon as you are the only player with ships in its system."
-I6 "Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?' Answer: 'Yes, there is no Neutral Player."
+I6 Community consensus: "Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?' Answer: 'Yes, there is no Neutral Player."
 @2
 I7 Same passage: control requires being "the only player that has ships in its system."
 @3
 E7 Same passage: "They do not lose control of the station if those ships move out of its system."
 E2 RulesPal: "you keep it after leaving until another player becomes the only one with ships there."
 @4
-E6 "Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can't have attachments."
+E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can't have attachments."
 @5
-E6 "Does a player lose control of a space station if a neutral ship is placed in its system? A: No, there is no Neutral Player."
+E6 Community consensus: "Does a player lose control of a space station if a neutral ship is placed in its system? A: No, there is no Neutral Player."
 @6
-E6 "Does a player gain control of a space station before combat against neutral units …? A: Yes, there is no Neutral Player."
+E6 Community consensus: "Does a player gain control of a space station before combat against neutral units …? A: Yes, there is no Neutral Player."
 @7
 E2 RulesPal: "A space station isn't a planet, so controlling one doesn't stop you being eliminated."
 @8
@@ -23,7 +23,7 @@ E7 Thunder's Edge Rulebook p. 10: "Each space station has a corresponding planet
 E7 Same passage: "structures and ground forces cannot be placed on or committed to space stations."
 @10
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations …? A: Yeah you can vote with them."
-E6 "Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected."
+E6 Community consensus: "Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected."
 I7 Thunder's Edge Rulebook p. 10: space stations "do not count as planets for the purpose voting, objectives, or controlling a home system." Read with sources 6 and 9 as covering election, not casting votes.
 @11
 E7 Thunder's Edge Rulebook p. 10: they "do not count as planets for the purpose voting, objectives, or controlling a home system."

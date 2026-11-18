@@ -20,7 +20,7 @@
         </ul></li>
     <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead.&rdquo;</li>
         </ul></li>
     <li>If a player captures their own units, they cannot be returned to that player&rsquo;s reinforcements, unless instructed to do so by a game effect.<sup>*</sup>
         <ul>

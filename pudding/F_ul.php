@@ -25,11 +25,11 @@
     <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>The Ul player may place a PDS on a planet that contains two of another player&rsquo;s PDS. They cannot place a PDS on a planet that already contains two of their own PDS.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
         </ul></li>
     <li>If the Ul player places a PDS on a planet controlled by another player, and that player has ground forces on that planet, then a ground combat will be resolved during the <b>Invasion</b> step of the tactical action.<sup>*</sup>
         <ul>
@@ -57,7 +57,7 @@
         </ul></li>
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur.&rdquo;</li>
         </ul></li>
     <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup>
         <ul>
@@ -66,15 +66,15 @@
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li></ol>
     <li>If the Ul player&rsquo;s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -86,7 +86,7 @@
         </ul></li>
     <li>Once played, <i>Terraform</i> counts as being in the play area of the player who controls the planet.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Yes, when Terraform is attached to a planet it counts as being in that planet owner&rsquo;s play area.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, when Terraform is attached to a planet it counts as being in that planet owner&rsquo;s play area.&rdquo;</li>
         </ul></li>
     <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.<sup>2,7</sup>
         <ul>
@@ -96,11 +96,11 @@
         </ul></li>
     <li>If <i>Terraform</i> is attached to a planet in The Fracture, that planet may be explored.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If Terraform is attached, can planets in The Fracture be explored? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If Terraform is attached, can planets in The Fracture be explored? A: Yes&rdquo;</li>
         </ul></li>
     <li><i>Terraform</i> may be attached to <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Terraform be attached to Thunder&rsquo;s Edge? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Terraform be attached to Thunder&rsquo;s Edge? A: Yes.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -118,7 +118,7 @@
         </ul></li>
     <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N&rsquo;Orr Alliance? A: No, structures cannot move.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N&rsquo;Orr Alliance? A: No, structures cannot move.&rdquo;</li>
         </ul></li>
     <li>A Hel&ndash;Titan is a structure, and so cannot be targeted by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex"><i>Vortex</i></a> faction technology.<sup>2</sup>
         <ul>
@@ -150,7 +150,7 @@
     <ol class="note">
     <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -158,12 +158,12 @@
     <ol class="note">
     <li>The trade good may be spent on the units produced by the <a href="/R_production"><sc>Production</sc></a> ability that triggered Tungstantus.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo; gain and spend are simultaneous.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo; gain and spend are simultaneous.</li>
         </ul></li>
     <ol>
         <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> FAQ: Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo;</li>
         </ul></li>
         <li>A trade good will not be gained unless at least one unit is produced.<sup>*</sup>
         <ul>
@@ -197,18 +197,18 @@
         </ul></li>
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;which prevents using the DEPLOY ability on a planet with 2 PDS of yours.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo; The Deploy consequence is not stated.</li>
         </ul></li>
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         </ul></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Titans use the Mech&rsquo;s deploy ability for coexistence? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Titans use the Mech&rsquo;s deploy ability for coexistence? A: Yes.&rdquo;</li>
         </ul></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="/R_construction"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup>
         <ul>
@@ -228,16 +228,16 @@
         </ul></li>
     <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
         </ul></li>
     <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;a planet holds at most one.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Slumberstate Computing, limit of Sleeper tokens on another player&rsquo;s planet: &ldquo;Is there a limit to the number of Sleeper tokens that may be placed on another player&rsquo;s planet? A: One per planet&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Slumberstate Computing, limit of Sleeper tokens on another player&rsquo;s planet: &ldquo;Is there a limit to the number of Sleeper tokens that may be placed on another player&rsquo;s planet? A: One per planet&rdquo;</li>
         </ul></li>
     <li>When another player agrees to allow the Ul player to place a sleeper token, the agreement includes which planet the token will be placed on.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does the agreement to place a Sleeper token require agreeing to a specific planet &hellip;? A: Agreement includes which planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the agreement to place a Sleeper token require agreeing to a specific planet &hellip;? A: Agreement includes which planet.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

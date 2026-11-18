@@ -62,7 +62,7 @@
         </ul></li>
     <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;whenever commodities are converted to a player&rsquo;s own trade good area, they are not considered gained.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;whenever commodities are converted to a player&rsquo;s own trade good area, they are not considered gained.&rdquo;</li>
         </ul></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability even if the transaction does not involve trade goods.<sup>2</sup>
         <ul>
@@ -207,7 +207,7 @@
         </ul></li>
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If Mentak&rsquo;s Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent&rsquo;s ship, does combat continue? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If Mentak&rsquo;s Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent&rsquo;s ship, does combat continue? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mentak hero work, and can it be escaped?&rdquo;: &ldquo;the combat can continue even if your other ships died.&rdquo;</li>
         </ul></li>
     <li>No costs are paid for the placed units.<sup>*</sup>
@@ -216,7 +216,7 @@
         </ul></li>
     <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.&rdquo;</li>
         </ul></li>
     <ol><li>When players would use their ships&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup>
         <ul>
@@ -225,11 +225,11 @@
     <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
         </ul></li>
     <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup>
         <ul>
@@ -241,7 +241,7 @@
         </ul></li>
     <li>The Mentak player cannot place a war sun unless they have their war sun technology.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Mentak Coalition&rsquo;s hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology? A: No.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Mentak Coalition&rsquo;s hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology? A: No.&rdquo;</li>
         </ul></li>
     <li>The opponent may still retreat during combat.<sup>2</sup>
         <ul>
@@ -273,7 +273,7 @@
         </ul></li>
     <li>The <a href="/F_nekro">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are breakthroughs technologies, and do their passive abilities work while exhausted?&rdquo;: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade&rdquo; Valefar Assimilator copies faction technologies only.</li>
         </ul></li>
     <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup>

@@ -55,18 +55,18 @@ N No source found.
 @22
 I12 Codex III, Z’eu (Naalu agent): "that player may perform a tactical action in a non-home system without placing a command token; that system still counts as being activated." system counts as activated.
 @23
-E4 "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @24
-E4 "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 I2 RulesPal, "Does the tactical action granted by the Codex Naalu agent use a token …?": "The tactical action happens during the Naalu player's turn."
 @25
 N No source found.
 @26
 N No source found.
 @27
-E4 "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @28
-E4 "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @29
 N No source found.
 @30
@@ -78,7 +78,7 @@ N No source found.
 @33
 I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non-binding deal." system activation happens later, so it cannot be resolved immediately.
 @34
-E4 "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @35
 N No source found.
 @36
@@ -90,13 +90,13 @@ N No source found.
 @39
 N No source found.
 @40
-E4 "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
+E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
 E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "When producing those units you may produce one extra for its cost, outside your Production limit."
 @41
-E4 "It also cannot be used to interrupt the primary ability of the Politics strategy card."
+E4 Designer ruling: "It also cannot be used to interrupt the primary ability of the Politics strategy card."
 E2 RulesPal: "A FAQ answer quoted by a player says it can't … interrupt the Politics primary."
 @42
-E4 "The Naalu Collective Commander, M'aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck."
+E4 Designer ruling: "The Naalu Collective Commander, M'aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck."
 E2 RulesPal: "it can't peek at the card Covert Legislation draws."
 @43
 E2 RulesPal, "Are my unplayed promissory notes in my hand …?": "With the Naalu hero, each player chooses which note to give."

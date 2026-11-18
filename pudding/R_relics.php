@@ -7,11 +7,11 @@
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge relic fragments; they do not gain a relic.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>If an eliminated player had any relic fragments, they are discarded. If an eliminated player had any relics, they are purged.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What happens to your relics and relic fragments when you&rsquo;re eliminated? A: Relics are purged, relic fragments discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What happens to your relics and relic fragments when you&rsquo;re eliminated? A: Relics are purged, relic fragments discarded.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

@@ -39,7 +39,7 @@
         </ul></li>
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> On the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         </ul></li>
     <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup>
         <ul>

@@ -64,7 +64,7 @@
         </ul></li>
     <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? &hellip; A: It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? &hellip; A: It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>
     <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup>
         <ul>
@@ -92,7 +92,7 @@
         </ul></li>
     <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="/F_nekro">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -113,7 +113,7 @@
     <li>A unit may only use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?&rdquo;: &ldquo;No &mdash; a unit can sustain only once per instance of the timing window.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;the same unit could not use its Sustain Damage ability multiple times during the same timing window.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;the same unit could not use its Sustain Damage ability multiple times during the same timing window.&rdquo;</li>
         </ul></li>
     <li>A unit that becomes damaged without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup>
         <ul>
@@ -125,7 +125,7 @@
         </ul></li>
     <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Each repair is paid separately.&rdquo;</li>
         </ul></li>
     <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup>
@@ -138,8 +138,8 @@
     <ol class="note">
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>6</sup> On Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -172,12 +172,12 @@
     <ol class="note">
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>6</sup> On Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
         </ul></li>
     <li>If The Fracture is in play when the Empyrean player resolves <i>Multiverse Shift</i>, frontier tokens will be placed in the systems in The Fracture that do not contain a planet.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: &hellip; The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: &hellip; The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;the Empyrean hero can later put them on its empty systems.&rdquo;</li>
         </ul></li>
     </ol>
@@ -236,15 +236,15 @@
     <ol class="note">
     <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means.&rdquo;</li>
         </ul></li>
     <ol><li>If the Empyrean player has units or controls a planet in one of the systems, they will be neighbors with any player with units or controlling a planet in the other, and vice versa.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors &hellip;? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors &hellip;? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether.&rdquo;</li>
         </ul></li></ol>
     <li>If the Empyrean player is eliminated, <i>Void Tether</i> remains in play, and the Void Tether tokens continue to function.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do the void tether tokens remain in play if the Empyrean player is eliminated? A: The Empyrean Breakthrough remains in play and the Void Tethers remain functional.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do the void tether tokens remain in play if the Empyrean player is eliminated? A: The Empyrean Breakthrough remains in play and the Void Tethers remain functional.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

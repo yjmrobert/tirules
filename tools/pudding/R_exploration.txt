@@ -1,10 +1,10 @@
 @0
-E6 "Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
+E6 Community consensus: "Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
 @1
-E4 "you choose an order to gain and explore planets. The sequence would be > gain control of planet A > explore planet A > gain control of planet B."
+E4 Designer ruling: "you choose an order to gain and explore planets. The sequence would be > gain control of planet A > explore planet A > gain control of planet B."
 E8 PoK rulebook p. 11: "If a player gains control of multiple planets at the same time, they choose the order in which they explore those planets, drawing and resolving each planet's exploration card before exploring the next planet."
 @2
-E4 "Can a transaction be performed in the middle of an exploration? A: Yes, transactions may occur after an exploration card is revealed, before the effect is resolved."
+E4 Designer ruling: "Can a transaction be performed in the middle of an exploration? A: Yes, transactions may occur after an exploration card is revealed, before the effect is resolved."
 E2 RulesPal, "Can abilities be used after an exploration card is revealed but before it resolves?": "Only transactions, per a FAQ entry players quote."
 @3
 I2 Same entry: transactions may occur "after an exploration card is revealed but before it resolves."

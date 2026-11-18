@@ -31,7 +31,7 @@
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> On Impersonation at the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on Impersonation at the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 45.4: &ldquo;If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it.&rdquo;</li>
         </ul></li>
     <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately.<sup>*</sup>
@@ -136,7 +136,7 @@
         </ul></li>
     <li>If the <a href="/F_firmament">Firmament</a> player has their control token on the elected secret objective, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? &hellip; A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? &hellip; A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -200,7 +200,7 @@
         </ul></li></ol>
     <li>If the elected planet contains coexisting units, the player that controls the planet gains all of the trade goods, including those for destroyed coexisting units.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What if a planet with coexisting units is elected via Compensated Disarmament? &hellip; A: The planet controller gains all trade goods.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What if a planet with coexisting units is elected via Compensated Disarmament? &hellip; A: The planet controller gains all trade goods.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -220,7 +220,7 @@
     <ol class="note">
     <li>If the speaker draws an agenda that would be replaced when it is revealed, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a>, they follow the text of that agenda and draw a new agenda.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda.&rdquo;</li>
         </ul></li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.<sup>*</sup>
         <ul>
@@ -232,11 +232,11 @@
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action cards must be played before the hidden agenda is revealed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
     <li>The speaker may still vote on <i>Covert Legislation</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -329,7 +329,7 @@
         </ul></li>
     <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
         </ul></li>
     <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup>
         <ul>
@@ -398,7 +398,7 @@
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol>
         <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>2</sup>
@@ -493,7 +493,7 @@
         </ul></li></ol>
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> The overturned designer ruling: &ldquo;&rsquo;replacing&rsquo; does not trigger the L1Z1X Minister of Industry, only effects that say &lsquo;place&rsquo; do.&rdquo;</li>
         </ul></li>
     <li>Moving the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup>
@@ -514,7 +514,7 @@
         </ul></li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities when their turn is ended by <i>Minister of Peace</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         </ul></li>
     <li>The player that owns <i>Minister of Peace</i> does not have to have any of their units in the active system to resolve <i>Minister of Peace</i>, so long as any non&ndash;active player owns at least one unit in the active system.<sup>2</sup>
         <ul>
@@ -648,7 +648,7 @@
     <ol class="note">
     <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the &ldquo;For&rdquo; outcome of <i>New Constitution</i>.<sup>2,3,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Does New Constitution exhaust home planets if they&rsquo;re not controlled by their owner? A: No, you only exhaust planets in your home system if you control them.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: Does New Constitution exhaust home planets if they&rsquo;re not controlled by their owner? A: No, you only exhaust planets in your home system if you control them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A New Constitution only exhausts the planets each player controls in their own home system.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;each player exhausts each planet in his home system.&rdquo;</li>
         </ul></li>
@@ -745,7 +745,7 @@
     <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>A player that has no mechs on the game board is unaffected by the &ldquo;Against&rdquo; effect of Rearmament Agreement.<sup>*</sup>
         <ul>
@@ -837,7 +837,7 @@
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> On drawing past the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on drawing past the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 45.4: &ldquo;If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it.&rdquo;</li>
         </ul></li>
     <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is revealed before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.<sup>*</sup>
@@ -926,7 +926,7 @@
         </ul></li></ol>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup>

@@ -1,7 +1,7 @@
 @0
-I7 Thunder’s Edge Rulebook, Miniaturization (Ral Nel): "At the end of your turn, you may place your structures that are in the space area of the active system onto planets you control in that system." placement comes after production.
+I7 Thunder's Edge Rulebook, Miniaturization (Ral Nel): "At the end of your turn, you may place your structures that are in the space area of the active system onto planets you control in that system." placement comes after production.
 @1
-E6 "What happens to Ral Nel structures in space if their ships leave the system/are destroyed? A: They remain in space until they are blockaded, transported, or placed onto planets."
+E6 Community consensus: "What happens to Ral Nel structures in space if their ships leave the system/are destroyed? A: They remain in space until they are blockaded, transported, or placed onto planets."
 @2
 N No source found.
 @3
@@ -17,10 +17,10 @@ N No source found.
 @8
 N No source found.
 @9
-E6 "Linkship (Unit): If the Ral Nel player has the PDS II unit upgrade, can their Linkships' SPACE CANNON be used to target ships in adjacent systems? A: No, Link Ship 1 only allows use of Space Canon unit ability."
+E6 Community consensus: "Linkship (Unit): If the Ral Nel player has the PDS II unit upgrade, can their Linkships' SPACE CANNON be used to target ships in adjacent systems? A: No, Link Ship 1 only allows use of Space Canon unit ability."
 I9 Designer Q&A: "RalNel Linkships and PDS 2": "range probably shouldn't be transitive." designer ruling, hedged.
 @10
-E6 "What is the interaction between Experimental Battlestation and Linkship II? … A: Yes, previous rulings on EBS have clarified that the dock gains the ability during the movement step, thus it can be used by Linkship's ability."
+E6 Community consensus: "What is the interaction between Experimental Battlestation and Linkship II? … A: Yes, previous rulings on EBS have clarified that the dock gains the ability during the movement step, thus it can be used by Linkship's ability."
 @11
 E2 RulesPal, "Are there quick answers for … Ral Nel Linkships?": "Each Linkship II rolls one Space Cannon die however many PDS share its space."
 @12
@@ -32,19 +32,19 @@ E7 Same text: "you may destroy 1 ship in the active system."
 @15
 N No source found.
 @16
-E6 "What happens if the flagship ability destroys the last player's ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves."
+E6 Community consensus: "What happens if the flagship ability destroys the last player's ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves."
 @17
 N No source found.
 @18
-E6 "Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size."
+E6 Community consensus: "Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size."
 @19
-E6 "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming."
+E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming."
 @20
 E9 Designer Q&A, "RalNel Commander": "Sometimes, RalNel will not have a valid, regular retreat path. Does this mean that they cannot announce a retreat, and thus cannot use their commander …? A: This means they can't use it."
 @21
 N No source found.
 @22
-E6 "Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card …? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved."
+E6 Community consensus: "Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card …? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved."
 @23
 N No source found.
 @24
@@ -52,16 +52,16 @@ N No source found.
 @25
 N No source found.
 @26
-E6 "Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero."
+E6 Community consensus: "Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero."
 @27
-E6 "Can their mech move the infantry within the system …? A: No, only from adjacent systems, not the active system."
+E6 Community consensus: "Can their mech move the infantry within the system …? A: No, only from adjacent systems, not the active system."
 @28
-E6 "If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger."
+E6 Community consensus: "If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger."
 @29
 N No source found.
 @30
 N No source found.
 @31
-I6 "What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: … all action cards on it are immediately discarded." They are discarded only then.
+I6 Community consensus: "What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: … all action cards on it are immediately discarded." They are discarded only then.
 @32
-E6 "The breakthrough is returned to the box and all action cards on it are immediately discarded."
+E6 Community consensus: "The breakthrough is returned to the box and all action cards on it are immediately discarded."

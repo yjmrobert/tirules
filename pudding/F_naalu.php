@@ -139,11 +139,11 @@
     </ol>
     <li>The chosen player is considered to be the active player.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
     <li>If the chosen player is not the Naalu player, it is not considered their turn for game effects.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the tactical action granted by the Codex Naalu agent use a token &hellip;?&rdquo;: &ldquo;The tactical action happens during the Naalu player&rsquo;s turn.&rdquo;</li>
         </ul></li>
     <ol><li>If the <a href="/F_yssaril">Yssaril</a> player is chosen, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, other players may still play action cards during the action.<sup>*</sup>
@@ -156,12 +156,12 @@
         </ul></li>
     <li>If the chosen player is not the Naalu player, they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology to perform an additional action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
     <ol>
         <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
         <li>If the chosen player is able to perform a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander, to perform additional actions.<sup>*</sup>
         <ul>
@@ -188,7 +188,7 @@
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s turn, even though it is not considered their turn.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
     </ol>
 
@@ -220,7 +220,7 @@
         </ul></li>
     <li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Naalu Collective commander, M&rsquo;aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Naalu Collective commander, M&rsquo;aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Yin and Naalu commanders&rsquo; extra infantry and fighters work?&rdquo;: &ldquo;When producing those units you may produce one extra for its cost, outside your Production limit.&rdquo;</li>
         </ul></li>
     </ol>
@@ -229,12 +229,12 @@
     <ol class="note">
     <li>The Naalu player cannot look at the agenda deck while a player is resolving the primary ability of the Politics strategy card.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;It also cannot be used to interrupt the primary ability of the Politics strategy card.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;It also cannot be used to interrupt the primary ability of the Politics strategy card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A FAQ answer quoted by a player says it can&rsquo;t &hellip; interrupt the Politics primary.&rdquo;</li>
         </ul></li>
     <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Naalu Collective Commander, M&rsquo;aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective Commander, M&rsquo;aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it can&rsquo;t peek at the card Covert Legislation draws.&rdquo;</li>
         </ul></li>
     </ol>

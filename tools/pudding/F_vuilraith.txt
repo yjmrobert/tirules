@@ -1,5 +1,5 @@
 @0
-I4 FAQ: "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
+I4 Designer ruling, "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
 @1
 I2 RulesPal, "Is a Hel-Titan a valid target for effects on non-structures …?": "It is a structure as well as a ground force."
 @2
@@ -23,7 +23,7 @@ E2 RulesPal, "Can the Vuil'raith produce a captured war sun without the War Sun 
 @11
 E2 RulesPal, "With Riftmeld, must the captured unit belong to a player who has the upgrade?": "No — any captured unit of the matching type lets you ignore that upgrade's prerequisites."
 @12
-E4 "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible …? A: Yes … the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through."
+E4 Designer ruling: "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible …? A: Yes … the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through."
 I2 RulesPal, "How do gravity rifts work …?": "A ship whose path moves out of or through a rift gets +1 move for that path, one per rift."
 @13
 N No source found.
@@ -36,7 +36,7 @@ N No source found.
 @17
 N No source found.
 @18
-E4 "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible, if it would not be able to reach a gravity rift on the way to the active system without it? A: Yes."
+E4 Designer ruling: "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible, if it would not be able to reach a gravity rift on the way to the active system without it? A: Yes."
 @19
 E4 Same ruling: "the bonus would apply to all ships that can make it to the active system."
 @20
@@ -44,16 +44,16 @@ N No source found.
 @21
 N No source found.
 @22
-I4 FAQ: Vuil’raith Vortex: "No, since they cannot fully resolve Vortex." cannot target if none in reinforcements.
+I4 Designer ruling, Vuil’raith Vortex: "No, since they cannot fully resolve Vortex." cannot target if none in reinforcements.
 @23
 N No source found.
 @24
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimensional Tear dock is there, and do two tears stack?": "it is simply a gravity rift, and counts as an anomaly for objectives."
 @25
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @26
-E6 RAW, "If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?": "Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
+E6 Community consensus, "If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?": "Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
 E7 Thunder's Edge Rulebook, Clarifications: "A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings."
 @27
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimensional Tear dock is there, and do two tears stack?": "Two tears in one system don't stack the bonus either."
@@ -64,14 +64,14 @@ N No source found.
 @30
 E8 PoK rulebook p. 16: "If a space dock that has a dimensional tear token under it is destroyed, the dimensional tear token is removed."
 @31
-E4 "Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes."
+E4 Designer ruling: "Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes."
 E2 RulesPal, "What does the Vuil'raith flagship capture?": "the Cabal flagship is destroyed too but still captures everything else destroyed there."
 @32
 N No source found.
 @33
 E2 RulesPal, "What does the Vuil'raith flagship capture?": "Every other non-structure unit destroyed in its system, the Cabal's own included, even outside combat: Bombardment, Space Cannon, action cards, agendas."
 @34
-E4 "Can the Vuil'raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player's commodity value."
+E4 Designer ruling: "Can the Vuil'raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player's commodity value."
 @35
 N No source found.
 @36
@@ -81,7 +81,7 @@ N No source found.
 @38
 N No source found.
 @39
-E4 "Does Cabal Agent count as 'converting your own commodities' …? A: No, whenever commodities are converted to a player's own trade good area, they are not considered gained."
+E4 Designer ruling: "Does Cabal Agent count as 'converting your own commodities' …? A: No, whenever commodities are converted to a player's own trade good area, they are not considered gained."
 @40
 N No source found.
 @41
@@ -93,11 +93,11 @@ N No source found.
 @44
 N No source found.
 @45
-I4 FAQ: "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
+I4 Designer ruling, "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
 @46
 N No source found.
 @47
-E6 "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
+E6 Community consensus: "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
 E9 Designer Q&A, "Cabal Breakthrough": "According to cabal BT colors."
 @48
 E9 Designer Q&A, "Cabal Breakthrough": "should cabal place them according to cabal synergy …? A: According to cabal BT colors."
@@ -106,6 +106,6 @@ N No source found.
 @50
 N No source found.
 @51
-E6 "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
+E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
 @52
-E6 "Can the Vuil'raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play …? A: No, ingress tokens cannot be placed in the Fracture."
+E6 Community consensus: "Can the Vuil'raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play …? A: No, ingress tokens cannot be placed in the Fracture."

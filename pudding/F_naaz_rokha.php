@@ -11,7 +11,7 @@
         </ul></li>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;For the Naaz-Rokha&rsquo;s Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;For the Naaz-Rokha&rsquo;s Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn.&rdquo;</li>
         </ul></li>
     <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.<sup>*</sup>
         <ul>
@@ -27,11 +27,11 @@
     <ol class="note">
     <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a player &lsquo;gain&rsquo; a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they may still purge one relic fragment as an action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? A: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? A: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements.&rdquo;</li>
         </ul></li>
     <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup>
         <ul>
@@ -44,7 +44,7 @@
     <li>If there are no cards in the relic deck, a player cannot gain a relic.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 73.2a: &ldquo;If there are no cards in the relic deck, they do not gain a relic.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> FAQ: &ldquo;Can a player &ldquo;gain&rdquo; a relic by purging fragments if there are no relics left?&rdquo;: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;Can a player &ldquo;gain&rdquo; a relic by purging fragments if there are no relics left?&rdquo;: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
     <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup>
         <ul>
@@ -130,7 +130,7 @@
         </ul></li>
     <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: &ldquo;The LRR will be updated to be more general towards taking off sheet if none are in reinforcements.&rdquo; general rule for taking tokens from sheet.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: &ldquo;The LRR will be updated to be more general towards taking off sheet if none are in reinforcements.&rdquo; general rule for taking tokens from sheet.</li>
         </ul></li>
     <li>If the Naaz&ndash;Rokha player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup>
         <ul>
@@ -166,7 +166,7 @@
         </ul></li>
     <li>The mech flips at the start of space combat, resolved in the normal player order for abilities at that timing.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;? A: Mech Flips at start of Space Combat in player order timing.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;? A: Mech Flips at start of Space Combat in player order timing.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -202,7 +202,7 @@
         </ul></li>
     <li>The Eidolon Maximum is considered a ship for all relevant game effects.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Eidelon Maximum treated as a ship: &ldquo;Yes, it is a ship in that system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Eidelon Maximum treated as a ship: &ldquo;Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>
     <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup>
         <ul>
@@ -210,7 +210,7 @@
         </ul></li></ol>
     <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes&rdquo;</li>
         </ul></li>
     </ol>
 </article>

@@ -6,7 +6,7 @@ E1 LRR 17.1: "When such a unit is returned, it is placed into the reinforcements
 @2
 N No source found.
 @3
-E4 "What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."
+E4 Designer ruling: "What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."
 @4
 N No source found.
 @5

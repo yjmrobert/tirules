@@ -1,9 +1,9 @@
 @0
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @1
-E6 "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
-E4 "End of turn abilities can still be used."
+E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
+E4 Designer ruling: "End of turn abilities can still be used."
 @2
 E2 RulesPal, "Is a legendary planet's ability card exhausted when I take the planet?": "It works independently of the planet: you can use it after spending the planet."
 @3

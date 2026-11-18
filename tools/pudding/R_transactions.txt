@@ -1,6 +1,6 @@
 @0
 E1 LRR 94.3: "Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens." LRR 73.4: "Relics cannot be traded."
-E8 Prophecy of Kings Rulebook, Relics: "Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged."
+E8 PoK rulebook, Relics: "Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged."
 @1
 E1 LRR 17.2a: a captured non-fighter ship or mech is returned "If the player who captured the unit agrees to return it as part of a transaction."
 E8 PoK rulebook p. 10: "A captured non-fighter ship or mech can be returned, as follows: ✦ If the player who captured the unit agrees" as part of a transaction.

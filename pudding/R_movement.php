@@ -12,7 +12,7 @@
         </ul></li>
     <li>When an ability moves a player&rsquo;s ships outside of a tactical action, those ships may transport units out of systems that contain that player&rsquo;s command tokens; this restriction only applies during tactical actions.<sup>1,2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?&rdquo;: &ldquo;the command-token restriction and other tactical-action movement rules are ignored.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 58.9: &ldquo;If an ability moves a unit outside of the &lsquo;Movement&rsquo; step of a tactical action, players follow the rules specified by that ability.&rdquo;</li>
         </ul></li>
@@ -28,7 +28,7 @@
         </ul></li>
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship may move &ldquo;through&rdquo; other systems.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When ships move, do they move &lsquo;into&rsquo; systems other than the destination system? A: Only the destination system is considered moved &lsquo;into,&rsquo; other systems are moved &lsquo;through.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When ships move, do they move &lsquo;into&rsquo; systems other than the destination system? A: Only the destination system is considered moved &lsquo;into,&rsquo; other systems are moved &lsquo;through.&rsquo;&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I move more ships into a system that already has my command token on a later turn?&rdquo;: &ldquo;ships only move into the active system&rdquo; ships move into the destination; other systems are only passed through.</li>
         </ul></li>
     <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup>

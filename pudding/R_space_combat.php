@@ -13,7 +13,7 @@
         </ul></li>
     <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating.<sup>*</sup>
         <ul>
@@ -60,7 +60,7 @@
         </ul></li>
     <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
         </ul></li>
     <li>If a space combat reaches a state where neither player can win, the attacker must retreat. If the attacker cannot retreat, their units in that combat are destroyed.<sup>2</sup>
         <ul>

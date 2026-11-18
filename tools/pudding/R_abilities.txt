@@ -42,13 +42,13 @@ E1 LRR 82.1: "After the active player resolves the primary ability on their stra
 E2 RulesPal, "When a strategy card is played, do other players resolve the secondary right away …?": "Right away, clockwise from the active player."
 @16
 E1 LRR 3.3a: "During a turn that a player passes, they can resolve transactions and 'at the start of your turn' abilities."
-E4 "Can you resolve end of turn abilities on the turn you pass? A: Yes."
+E4 Designer ruling: "Can you resolve end of turn abilities on the turn you pass? A: Yes."
 @17
 E1 LRR 1.16: "Effects that occur 'when' an event happens take priority over effects that occur 'after' an event happens."
 @18
-E4 FAQ: "is “after x” distinct from “before y”": "They are distinct. “After x” happens before “before y”"
+E4 Designer ruling, "is “after x” distinct from “before y”": "They are distinct. “After x” happens before “before y”"
 @19
-E6 "Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll …? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability."
+E6 Community consensus: "Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll …? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability."
 E9 Designer Q&A, "Unit Abilities imply Units?": "Yes I'd say let them combo and be shut down."
 @20
 E9 Designer Q&A, "Unit Abilities imply Units?": "Should these things be treated as if they were units … and thus combo with things like Argent commander, and be shut down by things like Crimson flagship? A: Yes I'd say let them combo and be shut down."

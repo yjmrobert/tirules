@@ -23,7 +23,7 @@
         </ul></li></ol>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says &lsquo;resolved with no effect&rsquo;. A: &lsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says &lsquo;resolved with no effect&rsquo;. A: &lsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -73,7 +73,7 @@
         </ul></li></ol>
     <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Nomad&rsquo;s Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite&rsquo;s transaction does not affect performing a second transaction with the same player that turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Nomad&rsquo;s Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite&rsquo;s transaction does not affect performing a second transaction with the same player that turn.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -243,7 +243,7 @@
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria</i></a> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does the Nomad&rsquo;s Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Nomad&rsquo;s Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nomad hero active, can the Memoria pick up units from systems with Nomad command tokens?&rdquo;: &ldquo;Yes &mdash; the hero lets the flagship and the units it transports leave command-token systems.&rdquo;</li>
         </ul></li>
     </ol>
@@ -270,7 +270,7 @@
     </ol>
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, as it is not participating in the combat.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
         </ul></li>
     </ol>
 

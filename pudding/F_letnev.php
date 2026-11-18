@@ -7,7 +7,7 @@
     <ol class="note">
     <li><sc>Munitions Reserves</sc> may only be used to reroll combat rolls. It cannot be used to reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -43,7 +43,7 @@
     </ol>
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -67,7 +67,7 @@
     </ol>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -119,7 +119,7 @@
     <ol class="note">
     <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does the Crown of Thalnos Relic work with &hellip; Anti-Fighter Barrage? A: &hellip; no to Anti-Fighter Barrage. The intent is ONLY combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Crown of Thalnos Relic work with &hellip; Anti-Fighter Barrage? A: &hellip; no to Anti-Fighter Barrage. The intent is ONLY combat rolls.&rdquo;</li>
         </ul></li>
     <li>The extra dice is mandatory for the chosen unit.<sup>*</sup>
         <ul>
@@ -173,7 +173,7 @@
     <ol class="note">
     <li>If a ship has its movement value increased by an ability such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes&rdquo;</li>
         </ul></li>
     <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.<sup>*</sup>
         <ul>
@@ -181,27 +181,27 @@
         </ul></li>
     <li>All effects that modify a ship&rsquo;s move value, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology and the <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement.&rdquo;</li>
         </ul></li>
     <li>The combat bonus of <i>Gravleash Maneuvers</i> is assigned to a ship during the <b>Roll Dice</b> step of combat, and only applies to combat rolls. It does not apply to anti&ndash;fighter barrage rolls.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Is &lsquo;before you roll dice&rsquo; literal i.e. does it apply to AFB rolls? &hellip; A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is &lsquo;before you roll dice&rsquo; literal i.e. does it apply to AFB rolls? &hellip; A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls.&rdquo;</li>
         </ul></li>
     <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus.&rdquo;</li>
         </ul></li>
     <li>If the <a href="/F_nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? &hellip; A: Yes, Barony can assign to a&rdquo; new ship.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? &hellip; A: Yes, Barony can assign to a&rdquo; new ship.</li>
         </ul></li>
     <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;can a slow ship copy a value, then get the +1 from Gravity Drive? &hellip; A: No the copy happens after gravity drive.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;can a slow ship copy a value, then get the +1 from Gravity Drive? &hellip; A: No the copy happens after gravity drive.&rdquo;</li>
         </ul></li>
     <li>The +1 to move value from moving out of or through a gravity rift is not included in the move value copied by <i>Gravleash Maneuvers</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

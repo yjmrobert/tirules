@@ -12,7 +12,7 @@
         </ul></li>
     <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
         </ul></li>
     <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup>
         <ul>

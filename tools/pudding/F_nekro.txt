@@ -43,7 +43,7 @@ N No source found.
 @20
 N No source found.
 @21
-E4 "They cannot do this when they GAIN technology via their Technological Singularity faction ability."
+E4 Designer ruling: "They cannot do this when they GAIN technology via their Technological Singularity faction ability."
 E2 RulesPal, "Can the Nekro Virus use the Prophet's Tears relic?": "No — it triggers when you research a technology, which the Nekro never do."
 @22
 E2 RulesPal, "Does the Nekro Virus pay normally to use the Technology secondary?": "because they can't research, Propagation gives them 3 command tokens instead."
@@ -52,7 +52,7 @@ N No source found.
 @24
 N No source found.
 @25
-E4 "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
+E4 Designer ruling: "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
 N2 Conflicts: RulesPal, "Can the Nekro Virus use the Prophet's Tears relic?": "No — it triggers when you research a technology, which the Nekro never do, so it does nothing for them."
 @26
 N No source found.
@@ -106,7 +106,7 @@ I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, w
 @46
 N No source found.
 @47
-E4 "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+E4 Designer ruling: "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
 @48
 I2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "Yes — a copied technology counts with its colour and type."
 I5 FFG ruling (stephen986, Sep 19 2017): "The intent was that after placing an assimilator token on another faction’s faction specific technology, it would then count toward the secret objective." Counting only once a token is placed on another technology implies the if-and-only-if.
@@ -151,9 +151,9 @@ N No source found.
 @67
 N No source found.
 @68
-E4 "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet."
+E4 Designer ruling: "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet."
 @69
-E4 "If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2's ability."
+E4 Designer ruling: "If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2's ability."
 @70
 E1 LRR FAQ: "Infantry that are committed to the space combat due to the effects of 'The Alastor' continue to participate until the end of the combat, even if 'The Alastor' is destroyed."
 @71
@@ -175,7 +175,7 @@ N No source found.
 @78
 N No source found.
 @79
-E4 "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
+E4 Designer ruling: "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
 @80
 E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves."
 @81
@@ -198,10 +198,10 @@ N No source found.
 @89
 N No source found.
 @90
-E6 "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
+E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
 @91
-E6 "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
+E6 Community consensus: "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
 @92
-E6 "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
+E6 Community consensus: "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
 @93
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "your flagship gains that flagship's text abilities … Unit abilities like Deploy, Space Cannon or Sustain Damage aren't text abilities, so copying flagships that rely on them gains nothing."

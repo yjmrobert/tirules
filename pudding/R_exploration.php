@@ -7,16 +7,16 @@
     <ol class="note">
     <li><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> is placed into play, not into the frontier discard pile.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>
     <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.<sup>4,8</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;you choose an order to gain and explore planets. The sequence would be &gt; gain control of planet A &gt; explore planet A &gt; gain control of planet B.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;you choose an order to gain and explore planets. The sequence would be &gt; gain control of planet A &gt; explore planet A &gt; gain control of planet B.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 11: &ldquo;If a player gains control of multiple planets at the same time, they choose the order in which they explore those planets, drawing and resolving each planet&rsquo;s exploration card before exploring the next planet.&rdquo;</li>
         </ul></li>
     <li>A player may perform transactions after revealing an exploration card and before resolving it.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can a transaction be performed in the middle of an exploration? A: Yes, transactions may occur after an exploration card is revealed, before the effect is resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a transaction be performed in the middle of an exploration? A: Yes, transactions may occur after an exploration card is revealed, before the effect is resolved.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can abilities be used after an exploration card is revealed but before it resolves?&rdquo;: &ldquo;Only transactions, per a FAQ entry players quote.&rdquo;</li>
         </ul></li>
     <li>Before resolving an exploration card, it is revealed to all players.<sup>2</sup>

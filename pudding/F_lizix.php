@@ -16,18 +16,18 @@
     <li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo; general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.</li>
         </ul></li>
     <li>If there are none of a structure&rsquo;s type in their reinforcements, the L1Z1X player is not forced to replace that structure.<sup>1,2,4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 23.4a: a player &ldquo;can remove&rdquo; a unit; it is optional.</li>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;&rsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my reinforcements are empty, must I take units from the board to place a new one?&rdquo;: &ldquo;you are not required to&rdquo; Entry names L1Z1X Assimilate.</li>
         </ul></li>
     <li>When the L1Z1X player gains control of a planet, they also replace coexisting structures on that planet.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -41,7 +41,7 @@
         </ul></li>
     <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup>
         <ul>
@@ -116,7 +116,7 @@
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -136,7 +136,7 @@
         </ul></li>
     <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup>
         <ul>
@@ -146,7 +146,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work &hellip;?&rdquo;: &ldquo;Each ship that leaves or passes through a rift rolls, and is removed on a 1-3.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
     <li>Ships cannot move into a supernova, even if it contains one of the L1Z1X player&rsquo;s command tokens.<sup>1,2,3</sup>

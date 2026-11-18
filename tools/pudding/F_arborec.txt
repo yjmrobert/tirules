@@ -47,7 +47,7 @@ N No source found.
 N No source found.
 @20
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @21
 N No source found.
 @22
@@ -61,7 +61,7 @@ N No source found. LRR 68.1d says Arborec space dock "'Production' value … can
 @26
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E3 Learn to Play: "When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @27
 E2 RulesPal, "Does the Arborec commander work with a Letani in an Entropic Scar?": "Yes — the scar stops unit abilities being used but doesn't remove them, and the commander is a text ability that only needs a unit with Production."
 @28

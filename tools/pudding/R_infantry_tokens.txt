@@ -7,4 +7,4 @@ I1 LRR 23.4: "Units are limited to those included in the game, except for fighte
 I5 Designer ruling (Yin4Life, Apr 22, 2019), on placing ground forces on a 13th planet: "You place the units one at a time, so when you place on the 13th planet, you'd have to remove a plastic ground force from somewhere that you already placed one." Covers placing, not committing.
 I2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "You may swap a plastic piece on the board for a token at any time to free the plastic for use elsewhere."
 @3
-E4 "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."
+E4 Designer ruling: "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."

@@ -1,11 +1,11 @@
 @0
-E4 "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 E2 RulesPal, "If an effect lets me research a technology, do I pay for it?": "You still meet prerequisites (specialties can help)."
 I1 LRR 90.9: "Other game effects may also instruct a player to research technology."
 @1
 E1 LRR 90.5: "If an ability instructs a player to gain a technology, they do not research it; they take it from their technology deck and place it in their play area, ignoring prerequisites."
 E2 RulesPal: "'Gain' is different from 'research': gaining ignores prerequisites."
-E4 "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
+E4 Designer ruling: "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
 @2
 N No source found.
 @3

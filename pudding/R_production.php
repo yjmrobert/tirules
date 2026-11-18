@@ -27,7 +27,7 @@
         </ul></li>
     <li>A player cannot produce ground forces on a planet that contains another player&rsquo;s ground forces.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;You can&rsquo;t produce ground forces on a planet with another player&rsquo;s ground forces.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You can&rsquo;t produce ground forces on a planet with another player&rsquo;s ground forces.&rdquo;</li>
         </ul></li>
     <ol><li>A player whose units are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup>
         <ul>

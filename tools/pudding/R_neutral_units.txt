@@ -13,12 +13,12 @@ E7 Thunder's Edge Rulebook p. 10, Neutral Units: "Neutral units always use unit 
 E7 Thunder's Edge Rulebook p. 10, Neutral Units: "but are otherwise unable to use any other abilities. Neutral units do not take turns or perform" actions.
 @6
 E7 Thunder's Edge Rulebook p. 10, Neutral Units: "During combat, hits are assigned to neutral units in the order presented on the neutral unit reference, prioritizing" units lower on the card.
-E6 "prioritizing units lower on the reference card first."
+E6 Community consensus: "prioritizing units lower on the reference card first."
 @7
 E7 Thunder's Edge Rulebook p. 10, Neutral Units: "Neutral units count as other player's units for the purpose of resolving players' abilities and other game effects. There is, however, no 'neutral player.'"
 @8
-E6 "Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units."
+E6 Community consensus: "Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units."
 @9
-E6 "How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat."
+E6 Community consensus: "How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat."
 @10
-E6 "What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed? A: They are not placed."
+E6 Community consensus: "What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed? A: They are not placed."

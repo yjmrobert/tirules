@@ -31,7 +31,7 @@
     <li>Wormhole tokens that would be placed in an entropic scar are discarded instead.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Entropic Scar: &ldquo;wormholes that would be placed inside of an entropic scar are discarded instead.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
     <ol>
         <li>A discarded wormhole token is returned to the supply, or to its owner&rsquo;s reinforcements if it belongs to a player, such as the <a href="/F_creuss">Creuss</a> player&rsquo;s wormhole tokens.<sup>*</sup>
@@ -40,19 +40,19 @@
         </ul></li>
         <li>The <a href="/F_creuss">Creuss</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
         <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is a ship, not a wormhole token.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
         <li>If an exploration card would place a gamma wormhole token in an entropic scar, the card is still purged as part of its resolution, and the token is discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded.&rdquo;</li>
         </ul></li>
         <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>
     </ol>
     <li>At the start of the status phase, a player with ships in an entropic scar may spend a command token from their strategy pool to gain one of their faction&ndash;specific technologies.<sup>7</sup>
@@ -66,7 +66,7 @@
         </ul></li>
         <li>If a player has ships in two (or more) entropic scars, they may spend two command tokens from their strategy pool at the start of the status phase to gain both of their faction&ndash;specific technologies.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs? A: Yes, each Entropic Scar&rsquo;s ability can be resolved as different components.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs? A: Yes, each Entropic Scar&rsquo;s ability can be resolved as different components.&rdquo;</li>
         </ul></li>
     </ol>
     </ol>

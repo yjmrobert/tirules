@@ -40,7 +40,7 @@
         </ul></li>
     <li>If the Hacan player has their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.<sup>1,2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can Hacan trade action cards after having Political Secret played against them? A: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can Hacan trade action cards after having Political Secret played against them? A: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Political Secret stop the affected player from doing?&rdquo;: &ldquo;Mandatory and passive abilities still apply, such as &hellip; Hacan&rsquo;s Arbiters.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Political Secret &ldquo;only prevents the use of faction abilities that a player must choose to use.&rdquo;</li>
         </ul></li>
@@ -99,7 +99,7 @@
         </ul></li>
     <li>The ability of Carth of Golden Sands cannot be resolved while another ability is resolving. For example, if the Hacan player is exploring an industrial planet and has revealed the card, they cannot use the ability of Carth of Golden Sands until after they resolve the card&rsquo;s effect.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -127,7 +127,7 @@
         </ul></li>
     <li>The planet cannot be traded during combat.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;A planet that has the Hacan Mech can&rsquo;t be traded in combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;A planet that has the Hacan Mech can&rsquo;t be traded in combat.&rdquo;</li>
         </ul></li>
     <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.<sup>*</sup>
         <ul>
@@ -135,7 +135,7 @@
         </ul></li>
     <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology before coexistence would end.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Coexisting units remain in a state of coexistence as ownership changes through Hacan mech &hellip; The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before&rdquo; coexistence ends.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Coexisting units remain in a state of coexistence as ownership changes through Hacan mech &hellip; The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before&rdquo; coexistence ends.</li>
         </ul></li>
     </ol>
 
@@ -143,11 +143,11 @@
     <ol class="note">
     <li>The new fleet pool token may be used to support the ships just produced.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes&rdquo;</li>
         </ul></li>
     <li>The produced ships do not need to remain to gain the fleet pool token. For example, a Hacan player with no command tokens in their fleet pool may produce three ships, gain the command token, then remove two of those ships due to their fleet pool.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
         </ul></li>
     </ol>
 

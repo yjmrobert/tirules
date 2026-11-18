@@ -208,7 +208,7 @@
     <li>If multiple players would gain their final victory point simultaneously, the player with the lowest initiative wins.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 98.7: &ldquo;If multiple players would simultaneously gain their 10th victory point, the player who is earliest in initiative order among those players is the winner.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> On the Xxcha hero giving two players the win: &ldquo;Initiative order determines the winner.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on the Xxcha hero giving two players the win: &ldquo;Initiative order determines the winner.&rdquo;</li>
         </ul></li>
     </ol>
 

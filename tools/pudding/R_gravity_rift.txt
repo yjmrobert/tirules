@@ -22,12 +22,12 @@ I1 LRR, Space Combat, Retreat step: "If any of a player's units successfully ret
 E2 RulesPal, "How do gravity rifts work: when do I get +1 move and when do I roll?": "gets +1 move for that path, one per rift … Each ship that leaves or passes through a rift rolls."
 I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
 I8 PoK rulebook quick reference: the same text.
-E6 RAW, "If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?": "Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
+E6 Community consensus, "If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?": "Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift."
 E7 Thunder's Edge Rulebook, Clarifications: "A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings."
 @9
 I1 LRR 95.1b: "Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board." Units not yet picked up are not being transported.
 @10
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes."
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."
 @11
-E4 "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."
+E4 Designer ruling: "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."

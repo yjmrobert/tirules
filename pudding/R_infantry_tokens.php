@@ -21,7 +21,7 @@
         </ul></li>
     <li>If a player has an infantry token that is not accompanied by a plastic infantry and cannot replace it, the token is removed instead of destroyed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

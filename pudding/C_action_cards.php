@@ -108,7 +108,7 @@
         </ul></li>
     <li><i>Confounding Legal Text</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, and before the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective may be scored.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
     <li><i>Confounding Legal Text</i> may be played after <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> is played.<sup>*</sup>
         <ul>
@@ -128,7 +128,7 @@
         </ul></li>
     <li><i>Confusing Legal Text</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, and before the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective may be scored.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
     <li><i>Confusing Legal Text</i> may be played after <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> is played.<sup>*</sup>
         <ul>
@@ -185,7 +185,7 @@
     <ol class="note">
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         </ul></li>
     <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="/F_winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup>
         <ul>
@@ -223,7 +223,7 @@
         </ul></li>
     <li>A player may target themselves with <i>Crisis</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Can you play Crisis on yourself? A: Yes, you are a valid target for Crisis.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Can you play Crisis on yourself? A: Yes, you are a valid target for Crisis.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -231,11 +231,11 @@
     <ol class="note">
     <li>Any prediction made for a rider or similar ability is incorrect, and will not resolve.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
     <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.<sup>*</sup>
         <ul>
@@ -243,7 +243,7 @@
         </ul></li>
     <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup>
         <ul>
@@ -259,7 +259,7 @@
     <ol class="note">
     <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If it is being removed and placed via an ability such as Transit Diodes it stays in the same state.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If it is being removed and placed via an ability such as Transit Diodes it stays in the same state.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -391,7 +391,7 @@
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol><li>The returned technology does not count towards meeting the prerequisites.<sup>*</sup>
         <ul>
@@ -443,7 +443,7 @@
         </ul></li>
     <li>The agreement between the players includes the planets on which the infantry will be placed.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Exchange Program: Does each player propose where the infantry will be placed &hellip;? A: The agreement includes the planets where infantry will be placed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Exchange Program: Does each player propose where the infantry will be placed &hellip;? A: The agreement includes the planets where infantry will be placed.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -509,7 +509,7 @@
         </ul></li></ol>
     <li>If <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> cancels the strategic action the affected player performs, that player has not yet performed their next action. <i>Extreme Duress</i> remains in play until that player&rsquo;s next turn, when they must still resolve a strategic action or suffer its effect.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Coup D&rsquo;etat cancels the action, so the active player has still not performed their &lsquo;next action.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Coup D&rsquo;etat cancels the action, so the active player has still not performed their &lsquo;next action.&rsquo;&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -553,7 +553,7 @@
         </ul></li>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <li>Other players must decide whether to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a>, or otherwise cancel the action card, before the player playing <i>Focused Research</i> announces which technology they are researching.<sup>2,5</sup>
         <ul>
@@ -606,7 +606,7 @@
         </ul></li></ol>
     <li>The <a href="/F_ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Can the Titans Hel-Titan move via abilities like the action card Ghost Squad &hellip;? A: No, structures cannot move.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: Can the Titans Hel-Titan move via abilities like the action card Ghost Squad &hellip;? A: No, structures cannot move.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Titans move Hel Titan PDS with Ghost Squad?&rdquo;: &ldquo;Probably not &mdash; Hel Titans are structures as well as ground forces, and structures can&rsquo;t move or be transported.&rdquo;</li>
         </ul></li>
     <li>A player may move zero ground forces with <i>Ghost Squad</i>.<sup>10</sup>
@@ -687,7 +687,7 @@
         </ul></li>
     <ol><li>If a player has scored three secret objectives, they may use <i>Impersonation</i> to draw a secret objective, then immediately shuffle it into the secret objective deck.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: Can you resolve the Impersonation action card to draw a secret objective if you are already at your limit of scored secret objectives? A: Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: Can you resolve the Impersonation action card to draw a secret objective if you are already at your limit of scored secret objectives? A: Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -712,12 +712,12 @@
     <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.<sup>1,2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo;</li>
         </ul></li>
     <ol><li>The <a href="/F_ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: damaged unit removed and placed: &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo; a placed unit is undamaged.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, damaged unit removed and placed: &ldquo;If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo; a placed unit is undamaged.</li>
         </ul></li></ol>
     </ol>
 
@@ -778,7 +778,7 @@
     <ol class="note">
     <li>If players make a deal for one of them to play an action card, <i>Lie In Wait</i> resolves after that action card is played and resolved.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Lie In Wait: Say two players make a deal for one of them to play an action card. &hellip; A: Lie in Wait would resolve after that action card is played and resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Lie In Wait: Say two players make a deal for one of them to play an action card. &hellip; A: Lie in Wait would resolve after that action card is played and resolved.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -882,11 +882,11 @@
         </ul></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Mercenary Contract: If the planet becomes neutral, does it get re-explored &hellip;? A: Yes, the planet card will be retrieved from the planet card deck and it will trigger both exploration and relic depending on its traits.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Mercenary Contract: If the planet becomes neutral, does it get re-explored &hellip;? A: Yes, the planet card will be retrieved from the planet card deck and it will trigger both exploration and relic depending on its traits.&rdquo;</li>
         </ul></li>
     <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;it will trigger both exploration and relic depending on its traits.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;it will trigger both exploration and relic depending on its traits.&rdquo;</li>
         </ul></li></ol>
     <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup>
         <ul>
@@ -898,7 +898,7 @@
         </ul></li>
     <li>If the planet card is returned to the planet card deck, all cards attached to that planet are purged.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: What happens to a planet&rsquo;s attachments &hellip; if the planet card returns to the deck due to the Mercenary Contract action card &hellip;? A: The attachments are purged (according to Dane).&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: What happens to a planet&rsquo;s attachments &hellip; if the planet card returns to the deck due to the Mercenary Contract action card &hellip;? A: The attachments are purged (according to Dane).&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -995,7 +995,7 @@
         </ul></li>
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
         </ul></li>
     <li>The active player must announce which technology they are gaining before other players decide whether to play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a>, or otherwise cancel the action card.<sup>2</sup>
         <ul>
@@ -1085,25 +1085,25 @@
         </ul></li>
     <li>It is not considered the turn of the player who played <i>Puppets On A String</i> for game effects.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: If Yssaril plays this &hellip; A: Yes, it is not Yssaril&rsquo;s turn, they are performing an action outside of their turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: If Yssaril plays this &hellip; A: Yes, it is not Yssaril&rsquo;s turn, they are performing an action outside of their turn.&rdquo;</li>
         </ul></li>
     <ol>
         <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
         </ul></li>
         <li>If the <a href="/F_yssaril">Yssaril</a> player plays <i>Puppets On A String</i>, and owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> faction technology, passed players may still play action cards during the action.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: If Yssaril plays this, and has Transparasteel Plating, can other players play action cards? A: Yes, it is not Yssaril&rsquo;s turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: If Yssaril plays this, and has Transparasteel Plating, can other players play action cards? A: Yes, it is not Yssaril&rsquo;s turn.&rdquo;</li>
         </ul></li>
     </ol>
     <li>The player who played <i>Puppets On A String</i> cannot resolve transactions during that action, as it is not their turn.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
         </ul></li>
     <li>Abilities that end a player&rsquo;s turn, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a>, do not prevent the action from being performed, and cannot fully resolve, as there is no turn to end.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: Since it is not your turn, how does that interact with Minister of Peace/Starlancer/other &lsquo;end that players&rsquo; turn&rsquo; abilities? A: Those abilities do not prevent the action being taken, and cannot fully resolve as there is no turn to end.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Since it is not your turn, how does that interact with Minister of Peace/Starlancer/other &lsquo;end that players&rsquo; turn&rsquo; abilities? A: Those abilities do not prevent the action being taken, and cannot fully resolve as there is no turn to end.&rdquo;</li>
         </ul></li>
     <li>The active player may use any &ldquo;before/after you perform an action&rdquo; abilities.<sup>*</sup>
         <ul>
@@ -1111,7 +1111,7 @@
         </ul></li>
     <li>The active player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a> technology to perform an additional action.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Puppets on a String: Can you use Fleet Logistics, Master Plan and Keleres Commander? A: Fleet Logistics = no, it is not a turn, only an action.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Can you use Fleet Logistics, Master Plan and Keleres Commander? A: Fleet Logistics = no, it is not a turn, only an action.&rdquo;</li>
         </ul></li>
     <ol>
         <li>The active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card to perform an additional action.<sup>6</sup>
@@ -1158,7 +1158,7 @@
     <li>If a player has no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -1166,7 +1166,7 @@
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Q: When are the hits generated by reflective shielding assigned? A: &hellip; If during the normal assign hits step, they are added to the pool of hits already generated.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Q: When are the hits generated by reflective shielding assigned? A: &hellip; If during the normal assign hits step, they are added to the pool of hits already generated.&rdquo;</li>
         </ul></li>
     <ol><li>A unit that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and been repaired, cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>.<sup>*</sup>
         <ul>
@@ -1174,7 +1174,7 @@
         </ul></li></ol>
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The hits are immediately assigned if not during the normal assign hits step.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The hits are immediately assigned if not during the normal assign hits step.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -1202,7 +1202,7 @@
     <ol class="note">
     <li>If the chosen ship is in a gravity rift, it must roll for removal.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Rescue: If the ship is in a gravity rift, does it roll for it? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Rescue: If the ship is in a gravity rift, does it roll for it? A: Yes.&rdquo;</li>
         </ul></li>
     <li>The chosen ship cannot be moved out of a system that contains the player&rsquo;s command token. It may transport fighters and ground forces.<sup>2</sup>
         <ul>
@@ -1214,7 +1214,7 @@
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <li>A player cannot play <i>Reveal Prototype</i> if they have less than four resources available.<sup>*</sup>
         <ul>
@@ -1234,7 +1234,7 @@
         </ul></li>
     <li>It is public knowlege which action cards a player takes using <i>Reverse Engineer</i>.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> On The Codex relic: &ldquo;the discard is public knowledge, so anything removed from the discard is also public knowledge.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on The Codex relic: &ldquo;the discard is public knowledge, so anything removed from the discard is also public knowledge.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -1504,7 +1504,7 @@
         </ul></li>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol><li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology.<sup>1,2</sup>
         <ul>
@@ -1573,7 +1573,7 @@
     <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -1619,7 +1619,7 @@
     <li>If a player wishes to place a cruiser, but there are none left in their reinforcements, they may remove a cruiser from any system that does not contain one of their command tokens and place that instead. This cruiser will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -1656,7 +1656,7 @@
     <li>If a player wishes to place a dreadnought, but there are none in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 

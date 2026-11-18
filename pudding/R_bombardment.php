@@ -22,7 +22,7 @@
     <li>Only the active player may bombard.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 15.1: &ldquo;The active player chooses which planet each of their units that has a &lsquo;Bombardment&rsquo; ability will bombard.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
         <ul>

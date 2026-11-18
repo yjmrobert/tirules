@@ -13,7 +13,7 @@
         </ul></li>
     <li>The Xxcha player cannot gain control of a space station with <sc>Peace Accords</sc>, as a space station is not a planet.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When do I gain and lose control of a space station?&rdquo;: &ldquo;A space station isn&rsquo;t a planet&rdquo; From the space-station control entry; Peace Accords not named.</li>
         </ul></li>
     <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in a system that contains another player&rsquo;s ships.<sup>5</sup>
@@ -121,7 +121,7 @@
     <li>Once the Xxcha player resolves the ability of <i>Nullification Field</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must Xxcha use Nullification Field, and what can still happen after it ends the turn?&rdquo;: &ldquo;Once the turn ends, nothing more happens in it: no further after-activation abilities.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> Il Na Viroset ruling, which asks &ldquo;Is this different from Nullification Field?&rdquo;: &ldquo;Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling on Il Na Viroset, which asks &ldquo;Is this different from Nullification Field?&rdquo;: &ldquo;Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
     <ol><li>Other players, including the Xxcha player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>2</sup>
         <ul>
@@ -150,7 +150,7 @@
         </ul></li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Xxcha Agent, Ggrocuto Rinn, be used to &lsquo;ready&rsquo; a planet that is not exhausted? A: The target planet must be exhausted.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Xxcha Agent, Ggrocuto Rinn, be used to &lsquo;ready&rsquo; a planet that is not exhausted? A: The target planet must be exhausted.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Xxcha agent target a ready planet just to remove an infantry?&rdquo;: &ldquo;No &mdash; you can&rsquo;t ready a planet that is already ready, so the target must be exhausted for any of it to work.&rdquo;</li>
         </ul></li>
     <li>Ggrocuto Rinn may ready a planet controlled by another player. If that planet is in a system adjacent to a planet the Xxcha player controls, the infantry removed may belong to another player.<sup>2</sup>
@@ -185,7 +185,7 @@
     <ol class="note">
     <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda.&rdquo;</li>
         </ul></li>
     <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda, they cast one vote for an outcome of the elected law, and resolve it.<sup>*</sup>
         <ul>
@@ -197,11 +197,11 @@
         </ul></li>
     <li>When the Xxcha player chooses and reveals an agenda, they may then use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
         </ul></li>
     <li>After the Xxcha player chooses and reveals an agenda, they may play any rider action cards on the revealed agenda.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?&rdquo;: &ldquo;the agendas are revealed, so Xxcha can play riders such as Imperial Rider on them.&rdquo;</li>
         </ul></li>
     <li>The Xxcha player chooses the order the two agendas are resolved.<sup>*</sup>
@@ -218,11 +218,11 @@
         </ul></li></ol>
     <li>When an agenda outcome with an immediate effect resolves, all players resolve the effect.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: Xxcha hero Xxekir Grom and agendas: &ldquo;The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero.&rdquo; all players resolve agenda effects.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Xxcha hero Xxekir Grom and agendas: &ldquo;The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero.&rdquo; all players resolve agenda effects.</li>
         </ul></li>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the Xxcha hero gives two players in the lead a Victory Point &hellip; A: Initiative order determines the winner.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the Xxcha hero gives two players in the lead a Victory Point &hellip; A: Initiative order determines the winner.&rdquo;</li>
         </ul></li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.<sup>2</sup>
         <ul>
@@ -242,7 +242,7 @@
         </ul></li>
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Checks%20and%20Balances"><i>Checks and Balances</i></a> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Checks and balances against reads &lsquo;Each player readies only 3 of their planets at the end of this agenda phase.&rsquo; Does this trigger at the end of Xxchas hero? &hellip; A: This effect does not trigger if it happens during the Xxcha Hero.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Checks and balances against reads &lsquo;Each player readies only 3 of their planets at the end of this agenda phase.&rsquo; Does this trigger at the end of Xxchas hero? &hellip; A: This effect does not trigger if it happens during the Xxcha Hero.&rdquo;</li>
         </ul></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.<sup>*</sup>
         <ul>
@@ -250,12 +250,12 @@
         </ul></li>
     <li>Other players cannot play action cards, including riders, while the Xxcha player resolves <i>Political Data Nexus</i>.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Xxcha Kingdom player play riders while using their hero &hellip;? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero &hellip; Other players cannot play any action cards as these are abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?&rdquo;: &ldquo;No other player may use abilities during it.&rdquo;</li>
         </ul></li>
     <li>If the Xxcha player draws an agenda that is replaced if there are no laws in play, and there are no laws in play, a new agenda is drawn.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If there are no laws in play a new agenda is drawn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If there are no laws in play a new agenda is drawn.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -263,12 +263,12 @@
     <ol class="note">
     <li>During the status phase, public and secret objectives are scored simultaneously. The Xxcha player cannot score a public objective, unlock Xxekir Grom, and then use <i>Political Data Nexus &Omega;</i> in order to score a secret objective, or vice versa.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete.&rdquo;</li>
         </ul></li>
     <li>The combined value may be spent as either influence or resources, not both.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
         </ul></li>
     <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective by exhausting just it and spending three trade goods.<sup>*</sup>
         <ul>
@@ -276,7 +276,7 @@
         </ul></li></ol>
     <li><i>Political Data Nexus &Omega;</i> does not change the value used by abilities that reference a planet&rsquo;s resource value; the printed resource value of the planet is used.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum &hellip;? A: When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum &hellip;? A: When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine a planet&rsquo;s resources and influence work?&rdquo;: &ldquo;It doesn&rsquo;t change printed values, so it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Partial conflict: the same RulesPal entry says the combined value applies &ldquo;even when exhausted for Uprising.&rdquo;</li>
         </ul></li>

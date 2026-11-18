@@ -7,15 +7,15 @@
     <ol class="note">
     <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     <li>Units are intended to be able to move into a nebula even when it is not the active system, but not through it.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to &lsquo;Units may not move through a Nebula&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it. 59.1 will effectively be changed to &lsquo;Units may not move through a Nebula&rsquo;&rdquo;</li>
         </ul></li>
     <li>Ships can retreat into a nebula, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
     <li>Movement bonuses, such as those from the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, are added to the move value of 1.<sup>2</sup>
         <ul>
@@ -41,7 +41,7 @@
         </ul></li>
         <li>The <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, is treated as a bonus and overrides the nebula&rsquo;s move value of 1.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When leaving a Nebula, is Clan of Saar&rsquo;s agent, Mendosa, applied as a bonus or setting the move value? A: &hellip; Mendosa would be treated as a bonus and would override the Nebula&rsquo;s movement value rule.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When leaving a Nebula, is Clan of Saar&rsquo;s agent, Mendosa, applied as a bonus or setting the move value? A: &hellip; Mendosa would be treated as a bonus and would override the Nebula&rsquo;s movement value rule.&rdquo;</li>
         </ul></li>
         <li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> Dimensional Tear is in a nebula, its +1 is applied after the nebula sets each ship&rsquo;s move value to 1.<sup>*</sup>
         <ul>

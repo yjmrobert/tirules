@@ -7,15 +7,15 @@
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the puppeted player resolves the secondary ability of a strategy card in their play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does the Enervate plot card work on any secondary usage &hellip;? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Enervate plot card work on any secondary usage &hellip;? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.&rdquo;</li>
         </ul></li>
     <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, the Firmament player draws it.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players&rsquo; tokens on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players&rsquo; tokens on it.&rdquo;</li>
         </ul></li>
     <li>If the only player token on a plot card belongs to an eliminated player, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If there are no other player tokens on the Plot, it returns to hand.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If there are no other player tokens on the Plot, it returns to hand.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -31,7 +31,7 @@
         </ul></li>
     <li>Purging the Firmament player&rsquo;s home planet cards does not allow them to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr"><i>Become a Martyr</i></a> objective.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Puppets of the Blade and Become a Martyr: &ldquo;do they qualify for BecomeA Martyr? A: No.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Puppets of the Blade and Become a Martyr: &ldquo;do they qualify for BecomeA Martyr? A: No.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -51,7 +51,7 @@
     <ol class="note">
     <li>The Firmament player may choose not to place a plot. If they do not, the rest of <i>Black Ops</i> still resolves, including purging it.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -59,7 +59,7 @@
     <ol class="note">
     <li><i>Malevolency</i> remains in the receiving player&rsquo;s hand, not their play area. However, it is mandatory during the status phase; this is an exception to all other promissory notes.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Malevolency (Obsidian Promissory Note): Does this go into the receiver&rsquo;s play area? &hellip; A: It remains in a player&rsquo;s hand but is mandatory during status, this is an explicit exception to all other promissory notes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Malevolency (Obsidian Promissory Note): Does this go into the receiver&rsquo;s play area? &hellip; A: It remains in a player&rsquo;s hand but is mandatory during status, this is an explicit exception to all other promissory notes.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -87,7 +87,7 @@
         </ul></li>
     <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction between Coup D&rsquo;etat and the Obsidian&rsquo;s Planesplitter technology? A: Planesplitter would resolve before Coup D&rsquo;etat is played and resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Coup D&rsquo;etat and the Obsidian&rsquo;s Planesplitter technology? A: Planesplitter would resolve before Coup D&rsquo;etat is played and resolved.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -103,7 +103,7 @@
     <ol class="note">
     <li>Space cannon cannot be used against any of the moving ships. However, only ships that are not transporting units may move through systems containing other players&rsquo; ships.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;No space cannon against any ships moving. Only ships not transporting may move through other player&rsquo;s ships.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;No space cannon against any ships moving. Only ships not transporting may move through other player&rsquo;s ships.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -119,11 +119,11 @@
         </ul></li>
     <li>The Firmament player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim"><i>Stake Your Claim</i></a> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes.&rdquo;</li>
         </ul></li>
     <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, both the Firmament player and the planet&rsquo;s actual controller are treated as controlling it for the purpose of scoring objectives. This also applies to <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">Aroz Hollow</a>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -143,7 +143,7 @@
     <ol class="note">
     <li>The Firmament player may use this ability while they are the active player, to commit the mech and start coexisting.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can you use Firmament&rsquo;s mech when you are the active player (to commit the Mech &amp; start coexisting)? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you use Firmament&rsquo;s mech when you are the active player (to commit the Mech &amp; start coexisting)? A: Yes&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -163,7 +163,7 @@
         </ul></li>
     <li>The trade goods from <i>The Reaping</i> are gained as two separate gains. The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability for each.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

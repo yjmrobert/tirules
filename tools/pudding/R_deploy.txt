@@ -1,5 +1,5 @@
 @0
-E6 "Is the Iconoclast deploy ability mandatory (there is no 'may' in the wording)? A: Deploy being a unit ability is always a may."
+E6 Community consensus: "Is the Iconoclast deploy ability mandatory (there is no 'may' in the wording)? A: Deploy being a unit ability is always a may."
 @1
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 E1 LRR 30.2a: "If there are no units that have a deploy ability in a player's reinforcements, the deploy ability cannot be used."

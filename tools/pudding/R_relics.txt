@@ -1,4 +1,4 @@
 @0
-E4 "Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+E4 Designer ruling: "Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @1
-E4 "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
+E4 Designer ruling: "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."

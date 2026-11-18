@@ -4,20 +4,20 @@ I2 RulesPal, "Can I produce at my home space dock during a tactical action elsew
 N No source found.
 @2
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."
+E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements, and would be covered by Component Limitations in the LRR."
 I2 RulesPal, "If all my space docks or PDS are on the board, can I place another?": "if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs" general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.
 @3
 I1 LRR 23.4a: a player "can remove" a unit; it is optional.
-I4 "'replace' can be considered to say 'remove and place' if no units are left in reinforcements."
+I4 Designer ruling: "'replace' can be considered to say 'remove and place' if no units are left in reinforcements."
 I2 RulesPal, "If my reinforcements are empty, must I take units from the board to place a new one?": "you are not required to" Entry names L1Z1X Assimilate.
 @4
-E6 "Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes."
+E6 Community consensus: "Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes."
 @5
 E1 LRR 65.2: "The 'Planetary Shield' ability prevents an L1Z1X player from using their 'Harrow' faction ability."
 E2 RulesPal, "How does the L1Z1X Harrow ability work?": "Planetary Shield stops it."
 I3 Learn to Play, Planetary Shield: the planet "is not an eligible target" for Bombardment.
 @6
-E4 "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
+E4 Designer ruling: "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
 @7
 E2 RulesPal, "How does the L1Z1X Harrow ability work?": "It still resolves after the round in which L1Z1X lose their last ground force; if it then kills the last defender, the combat is a draw."
 E5 Designer ruling: "The combat ending doesn't nullify the end of a round of combat trigger. Harrow, in this case, would still resolve."
@@ -46,19 +46,19 @@ E2 Same entry: "Researched as the first tech of the Technology primary, it can p
 N No source found.
 @17
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @18
 N No source found. LRR 65.3a covers war suns: "Units treated as if they do not have a 'Planetary Shield' ability cannot use the 'Magen Defense Grid'" technology.
 @19
 E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "ignoring command tokens in the systems they leave." (Stated for the Argent hero.)
 @20
-E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
+E4 Designer ruling: "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
 @21
 E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "no path or move value … The ships can carry units starting with them, but can't pick up along a path."
 @22
 E2 RulesPal, "How do gravity rifts work …?": "Each ship that leaves or passes through a rift rolls, and is removed on a 1-3."
 E3 Learn to Play: "A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die."
-E4 "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
+E4 Designer ruling: "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
 I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
 @23
 E2 RulesPal, "When an ability moves units outside a tactical action …?": "Anomaly rules still apply, so no ability moves ships into a supernova unless it says so."

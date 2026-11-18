@@ -12,7 +12,7 @@
         </ul></li>
     <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova is prevented.<sup>2</sup>
         <ul>

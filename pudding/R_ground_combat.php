@@ -16,7 +16,7 @@
         </ul></li>
     <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
         </ul></li>
     <li>If ground combat is to happen on multiple planets during a single invasion step, they will be resolved planet by planet, after the <b>Space Cannon Defense</b> step has been resolved on all planets and before the <b>Establish Control</b> step is resolved on any planet. The active player chooses the order combats are fought in.<sup>3</sup>
         <ul>

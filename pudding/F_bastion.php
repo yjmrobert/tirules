@@ -7,7 +7,7 @@
     <ol class="note">
     <li>If the Bastion player gains control of an uncontrolled planet, they may choose if they resolve <sc>Liberate</sc> before or after they explore that planet.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Bastion must choose which order to resolve Liberate and Exploration per planet, then resolve those abilities in full before the other.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Bastion must choose which order to resolve Liberate and Exploration per planet, then resolve those abilities in full before the other.&rdquo;</li>
         </ul></li>
     <ol><li>If they explore first, and the number of infantry or the resource value of the planet changes while resolving the exploration, then the new values will be used when resolving <sc>Liberate</sc>.<sup>*</sup>
         <ul>
@@ -23,16 +23,16 @@
     <ol class="note">
     <li>Galvanize tokens are placed from the Bastion player&rsquo;s reinforcements. If there are none in their reinforcements, a galvanize token cannot be moved from elsewhere on the board.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can a Galvanize token be moved when there is none left in the reinforcements? &hellip; A: No, Galvanise tokens are placed from reinforcements. Unlike Sleepers there is no move or place option.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a Galvanize token be moved when there is none left in the reinforcements? &hellip; A: No, Galvanise tokens are placed from reinforcements. Unlike Sleepers there is no move or place option.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Last Bastion&rsquo;s spaceport card, Helios upgrade and Galvanize tokens work?&rdquo;: &ldquo;Galvanize tokens are limited; with all 7 in use the effect fails until one is freed.&rdquo;</li>
         </ul></li>
     <li>The additional die rolled by a galvanized unit is mandatory.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Galvanize: Is the extra dice mandatory? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Galvanize: Is the extra dice mandatory? A: Yes.&rdquo;</li>
         </ul></li>
     <li>Abilities referring to the Bastion player&rsquo;s galvanized units being &ldquo;present&rdquo; count only galvanized units that are participating in the combat.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What does &lsquo;each of your galvanized units present&rsquo; mean? &hellip; A: Present == participating.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What does &lsquo;each of your galvanized units present&rsquo; mean? &hellip; A: Present == participating.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -52,11 +52,11 @@
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon</i></a> technology doubles hits before abilities that cancel hits, such as <i>Proxima Targeting VI</i>, are resolved. The planet is still exhausted if the Bastion player controls it.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima. You will exhaust the planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima. You will exhaust the planet.&rdquo;</li>
         </ul></li>
     <li>Abilities that affect bombardment rolls, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, or the <a href="/F_jol_nar">Jol&ndash;Nar</a> player&rsquo;s commander, Ta Zern, may be applied to the <a href="/R_bombardment"><sc>Bombardment</sc></a> roll from <i>Proxima Targeting VI</i>.<sup>6,9</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Proxima Targeting VI (Technology): Can the Bastion player apply abilities such as Plasma Scoring/Argent commander or Jol-Nar commander to the BOMBARDMENT roll? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Proxima Targeting VI (Technology): Can the Bastion player apply abilities such as Plasma Scoring/Argent commander or Jol-Nar commander to the BOMBARDMENT roll? A: Yes&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo; (on relics and technologies that use unit abilities).</li>
         </ul></li>
     <li>When the Bastion player makes the <a href="/R_bombardment"><sc>Bombardment</sc></a> roll against their own units, they will be able to cancel a hit for each of their present galvanized units.<sup>*</sup>

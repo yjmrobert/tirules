@@ -23,7 +23,7 @@
         </ul></li>
     <li>A player coexisting on <a href="/R_mecatol_rex">Mecatol Rex</a> does not control it for the primary ability of <i>Imperial</i>, and so does not gain a victory point; coexisting only counts as control for scoring objectives.<sup>6,7</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If a player is Coexisting on Mecatol Rex, can they score Imperial Point with Imperial Primary? A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If a player is Coexisting on Mecatol Rex, can they score Imperial Point with Imperial Primary? A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point.&rdquo;</li>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When scoring objectives, a coexisting player counts as controlling the planet they are coexisting on; they do not count as controlling the planet for any other game ability or effect.&rdquo; Imperial is not named.</li>
         </ul></li>
     <li>Scoring a public objective with the primary ability of Imperial does not prevent a player from scoring another public objective during the status phase of the same round. A status phase public objective may be scored immediately with Imperial.<sup>2</sup>

@@ -8,6 +8,6 @@ E7 Thunder's Edge Rulebook p. 12, Diplomacy Token: "This token is a player aid i
 E7 Same passage: "It cannot be used to bring a player above the component limit for command tokens."
 @4
 E2 RulesPal, "Can Warfare, Counterstroke or other effects remove a token placed by Diplomacy?": "Yes — once placed it is an ordinary command token … Warfare, Counterstroke, Unexpected Action and similar effects can remove it."
-I7 Thunder’s Edge Rulebook, Diplomacy Token: "should not be used when interacting with abilities that remove command tokens." such abilities handled without the token.
+I7 Thunder's Edge Rulebook, Diplomacy Token: "should not be used when interacting with abilities that remove command tokens." such abilities handled without the token.
 @5
 E7 Thunder's Edge Rulebook p. 12: "It represents a command token from each player."

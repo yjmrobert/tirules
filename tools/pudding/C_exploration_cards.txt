@@ -1,51 +1,51 @@
 @0
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
 @1
-E4 "Q: Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+E4 Designer ruling: "Q: Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @2
-E4 "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
+E4 Designer ruling: "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
 @3
 E2 RulesPal, "Can a planet with the Demilitarized Zone attachment be invaded?": "Effects that take control without placing units, such as Peace Accords, still can."
 @4
-E4 On drawing past the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
+E4 Designer ruling, on drawing past the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
 @5
 N No source found.
 @6
-E4 "Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system? A: No, you choose an order to gain and explore planets. The sequence would be > gain control of planet A > explore planet A > gain control of planet B."
+E4 Designer ruling: "Can you explore a cultural planet and draw Freelancers, then build a mech on another planet in that system? A: No, you choose an order to gain and explore planets. The sequence would be > gain control of planet A > explore planet A > gain control of planet B."
 E8 PoK rulebook p. 11: "If a player gains control of multiple planets at the same time, they choose the order in which they explore those planets, drawing and resolving each planet's exploration card before exploring the next planet."
 @7
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @8
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
 @9
-E4 "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+E4 Designer ruling: "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @10
-E4 "Relics are purged, relic fragments discarded."
+E4 Designer ruling: "Relics are purged, relic fragments discarded."
 @11
-E4 "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+E4 Designer ruling: "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @12
-E4 "Relics are purged, relic fragments discarded."
+E4 Designer ruling: "Relics are purged, relic fragments discarded."
 @13
 N No source found.
 @14
 I1 LRR FAQ: "If the 'Hil Colish' moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …?" Assumes the Creuss player orders the flagship's move.
 @15
-E4 "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path."
+E4 Designer ruling: "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path."
 E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips."
 @16
 N No source found.
 @17
-E6 "Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
+E6 Community consensus: "Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
 @18
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
 @19
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @20
 E2 RulesPal, "When I find Mirage by exploring, do I control it and explore it too?": "Yes — take the planet card, place a control token, and explore it as a cultural planet, since you gained control of a planet nobody controlled."
 @21
 N No source found.
 @22
-E4 "Relics are purged, relic fragments discarded."
+E4 Designer ruling: "Relics are purged, relic fragments discarded."

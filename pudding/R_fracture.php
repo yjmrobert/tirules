@@ -36,15 +36,15 @@
         </ul></li>
     <li>While The Fracture is not in play, its systems, such as the one containing Styx, are not legal targets for abilities such as those of the <a href="/F_yin">Yin</a> player&rsquo;s and <a href="/F_lizix">L1Z1X</a> player&rsquo;s heroes.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can the Yin or L1Z1X hero be used on Styx if the Fracture isn&rsquo;t in Play? A: No. The Fracture is not in play and not a legal target.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Yin or L1Z1X hero be used on Styx if the Fracture isn&rsquo;t in Play? A: No. The Fracture is not in play and not a legal target.&rdquo;</li>
         </ul></li>
     <li>If The Fracture enters play as a result of the expedition that also places <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed first, and then the final ingress token is placed in its system.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Thunder&rsquo;s Edge is placed, then you place the final Ingress in the Thunder&rsquo;s Edge system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Thunder&rsquo;s Edge is placed, then you place the final Ingress in the Thunder&rsquo;s Edge system.&rdquo;</li>
         </ul></li>
     <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
         </ul></li>
     </ol>
     <li>When The Fracture is brought into play, neutral units are placed on the planets in The Fracture as well as the space area of those planets&rsquo; systems, as indicated on the reverse side of The Fracture tiles.<sup>7</sup>
@@ -84,7 +84,7 @@
     <li>A system cannot contain two or more ingress tokens.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;A system cannot have more than one ingress token.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;the rules state that a system may not contain more than 1 ingress token.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;the rules state that a system may not contain more than 1 ingress token.&rdquo;</li>
         </ul></li>
     <li>When a player gains control of a planet in The Fracture that is not already controlled by another player, they draw one relic card.<sup>7</sup>
         <ul>

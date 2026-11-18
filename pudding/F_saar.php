@@ -176,7 +176,7 @@
     </ol>
     <li>If the Saar player&rsquo;s last ship in a system is destroyed, any Floating Factories in that system are blockaded and destroyed before the <a href="/F_yin">Yin</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a>, can be resolved to place fighters.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved.&rdquo;</li>
         </ul></li>
     <li>If another player&rsquo;s ships move through a system that contains a Floating Factory and none of the Saar player&rsquo;s ships, the Floating Factory is not destroyed; it is destroyed only if those ships end their movement in that system.<sup>5</sup>
         <ul>
@@ -210,12 +210,12 @@
     <ol class="note">
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo;</li>
         </ul></li>
     <ol>
         <li>Move value modifying effects that trigger after a system is activated, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#FAQ:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo;</li>
         </ul></li>
         <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>*</sup>
         <ul>
@@ -224,7 +224,7 @@
     </ol>
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When leaving a Nebula, is Clan of Saar&rsquo;s agent, Mendosa, applied as a bonus or setting the move value? A: &hellip; Mendosa would be treated as a bonus and would override the Nebula&rsquo;s movement value rule.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When leaving a Nebula, is Clan of Saar&rsquo;s agent, Mendosa, applied as a bonus or setting the move value? A: &hellip; Mendosa would be treated as a bonus and would override the Nebula&rsquo;s movement value rule.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -268,7 +268,7 @@
         </ul></li>
     <li>The Saar player chooses which unit the hits get assigned to.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced.&rdquo;</li>
         </ul></li>
     <li>If the chosen unit has the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may be used to cancel the hit.<sup>6</sup>
         <ul>

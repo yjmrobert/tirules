@@ -8,7 +8,7 @@
     <li>Relic fragments may be traded. Relics themselves cannot be.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 94.3: &ldquo;Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens.&rdquo; LRR 73.4: &ldquo;Relics cannot be traded.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>8</sup> Prophecy of Kings Rulebook, Relics: &ldquo;Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>8</sup> PoK rulebook, Relics: &ldquo;Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged.&rdquo;</li>
         </ul></li>
     <li>Captured non&ndash;fighter ships and mechs may be returned to the player that originally owned them as part of a transaction.<sup>1,8</sup>
         <ul>

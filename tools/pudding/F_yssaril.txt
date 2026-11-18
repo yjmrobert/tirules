@@ -8,7 +8,7 @@ E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players 
 @3
 N No source found.
 @4
-E6 "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming." The discard may come from the hand.
+E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming." The discard may come from the hand.
 @5
 E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
 @6
@@ -55,4 +55,4 @@ N No source found.
 @26
 N No source found.
 @27
-E6 "What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability."
+E6 Community consensus: "What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability."

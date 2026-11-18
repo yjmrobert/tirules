@@ -6,4 +6,4 @@ E1 LRR 23.5: "players can swap infantry and fighter tokens for plastic pieces" a
 E2 RulesPal, "Are fighter and infantry tokens limited …?": "Tokens are unlimited."
 I1 LRR 23.4: "Units are limited to those included in the game, except for fighters and ground forces."
 @3
-E4 "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."
+E4 Designer ruling: "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."

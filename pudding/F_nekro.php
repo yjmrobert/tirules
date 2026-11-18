@@ -103,7 +103,7 @@
     </ol>
     <li>The Nekro player cannot use <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;They cannot do this when they GAIN technology via their Technological Singularity faction ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;They cannot do this when they GAIN technology via their Technological Singularity faction ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do.&rdquo;</li>
         </ul></li>
     </ol>
@@ -124,7 +124,7 @@
         </ul></li>
     <ol><li>If the Nekro player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do, so it does nothing for them.&rdquo;</li>
         </ul></li></ol>
     <li>If an ability triggers &ldquo;after&rdquo; a player researches a technology, that ability will never be triggered by the Nekro player.<sup>*</sup>
@@ -234,7 +234,7 @@
     </ol>
     <li>If the <a href="/F_jol_nar">Jol&ndash;Nar</a> player uses their hero to replace a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a Valefar Assimilator token on it while in that player&rsquo;s technology deck.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
         </ul></li>
     <li>For the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Adapt%20New%20Strategies"><i>Adapt New Strategies</i></a> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.<sup>5</sup>
         <ul>
@@ -331,11 +331,11 @@
         </ul></li>
     <li>Ground forces on planets remain there while participating in combat.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet.&rdquo;</li>
         </ul></li>
     <ol><li>When the Nekro player is in a space combat against the <a href="/F_argent">Argent</a> player, their infantry on planets participating in the combat cannot be targeted by the ability of the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Strike%20Wing%20Alpha%20II"><i>Strike Wing Alpha II</i></a> destroyers.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2&rsquo;s ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2&rsquo;s ability.&rdquo;</li>
         </ul></li></ol>
     <li>If <i>The Alastor</i> is destroyed during space combat, any ground forces in that combat remain in that combat.<sup>1</sup>
         <ul>
@@ -381,7 +381,7 @@
         </ul></li></ol>
     <li>The ability of Nekro Malleon cannot be resolved while another ability is resolving.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can I use the Nekro Virus&rsquo; Agent, Nekro Malleon &hellip; to interrupt another ability since the timing is &lsquo;during the action phase&rsquo;? A: No, any ability that is used &lsquo;during the action phase&rsquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can I use the Nekro Virus&rsquo; Agent, Nekro Malleon &hellip; to interrupt another ability since the timing is &lsquo;during the action phase&rsquo;? A: No, any ability that is used &lsquo;during the action phase&rsquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -442,15 +442,15 @@
         </ul></li>
     <li>If the Nekro player copies the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, they may capture their own units, and may return their own captured units to their reinforcements at any time.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction when Nekro has Vuil&rsquo;raith&rsquo;s flagship &hellip;? A: Nekro can capture their own units and can decide to return them to reinforcements at any time.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction when Nekro has Vuil&rsquo;raith&rsquo;s flagship &hellip;? A: Nekro can capture their own units and can decide to return them to reinforcements at any time.&rdquo;</li>
         </ul></li>
     <li>If the Nekro player copies the <a href="/F_firmament">Firmament</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye"><i>Heaven&rsquo;s Eye</i></a>, references to &ldquo;your plots&rdquo; refer to the <a href="/F_firmament">Firmament</a> player&rsquo;s plots.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says &lsquo;1 of your plots&rsquo;)? A: Nekro references the Firmaments plots when copying the Firmament flagship.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says &lsquo;1 of your plots&rsquo;)? A: Nekro references the Firmaments plots when copying the Firmament flagship.&rdquo;</li>
         </ul></li>
     <li>If the Nekro player has copied the <a href="/F_firmament">Firmament</a> player&rsquo;s flagship, and the <a href="/F_firmament">Firmament</a> becomes the <a href="/F_firmament">Obsidian</a>, the Valefar Assimilator Z token is moved to the <a href="/F_firmament">Obsidian</a> player&rsquo;s flagship.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship.&rdquo;</li>
         </ul></li>
     <li>The Nekro player&rsquo;s flagship gains only the text abilities of a copied flagship. Unit abilities, such as <a href="/R_deploy"><sc>Deploy</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, are not copied.<sup>2</sup>
         <ul>

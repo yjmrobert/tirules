@@ -4,7 +4,7 @@ I2 RulesPal, "Are 'start of combat' and 'start of the first combat round' abilit
 @1
 I1 LRR 42.4b: "During the last round of a combat, 'end of combat' and 'end of combat round' effects occur during the same timing window."
 @2
-E4 "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
+E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
 @3
 E3 Learn to Play: "Ground combats on multiple planets are resolved in the order of the active player's choice."
 @4

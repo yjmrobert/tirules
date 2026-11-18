@@ -32,4 +32,4 @@ E3 Learn to Play: "If a player exceeds this number, they must choose which seven
 @12
 E2 RulesPal, "Is the action card discard pile face up, and can players look through it?": "Yes to both — discards are face up and public."
 E5 Designer ruling: "Action cards are discarded faceup and players may look through the discard deck."
-E4 "the discard is public knowledge."
+E4 Designer ruling: "the discard is public knowledge."

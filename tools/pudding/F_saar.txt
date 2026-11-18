@@ -78,7 +78,7 @@ E5 Designer ruling: "it is destroyed, though the space cannons can certainly att
 @32
 N No source found.
 @33
-E6 "if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved."
+E6 Community consensus: "if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved."
 @34
 I2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "destroyed, the moment enemy ships arrive." Ships passing through do not arrive.
 E5 Designer ruling (Yin4Life, 12/10/2018): "No, only if you stop in the system."
@@ -92,13 +92,13 @@ E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, a
 @38
 N No source found.
 @39
-E4 "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
+E4 Designer ruling: "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
 @40
-E4 "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
+E4 Designer ruling: "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
 @41
 N No source found.
 @42
-E4 "When leaving a Nebula, is Clan of Saar's agent, Mendosa, applied as a bonus or setting the move value? A: … Mendosa would be treated as a bonus and would override the Nebula's movement value rule."
+E4 Designer ruling: "When leaving a Nebula, is Clan of Saar's agent, Mendosa, applied as a bonus or setting the move value? A: … Mendosa would be treated as a bonus and would override the Nebula's movement value rule."
 @43
 N No source found.
 @44
@@ -112,7 +112,7 @@ E2 RulesPal, "If Saar take several planets in one action, can they deploy a mech
 @48
 N No source found.
 @49
-E6 "Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced."
+E6 Community consensus: "Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced."
 @50
 E6 Same ruling: "the targeted player uses Sustain Damage when the hit is produced."
 @51

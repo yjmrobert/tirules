@@ -15,7 +15,7 @@
         </ul></li>
     <li>If the Ral Nel player&rsquo;s ships leave a system or are destroyed, their structures in the space area remain there until they are blockaded, transported, or placed onto planets.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens to Ral Nel structures in space if their ships leave the system/are destroyed? A: They remain in space until they are blockaded, transported, or placed onto planets.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to Ral Nel structures in space if their ships leave the system/are destroyed? A: They remain in space until they are blockaded, transported, or placed onto planets.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -59,12 +59,12 @@
     <ol class="note">
     <li>Linkships cannot fire <a href="/R_space_cannon"><sc>Space Cannon</sc></a> against adjacent units, even if the Ral Nel player has PDS II.<sup>6,9</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Linkship (Unit): If the Ral Nel player has the PDS II unit upgrade, can their Linkships&rsquo; SPACE CANNON be used to target ships in adjacent systems? A: No, Link Ship 1 only allows use of Space Canon unit ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Linkship (Unit): If the Ral Nel player has the PDS II unit upgrade, can their Linkships&rsquo; SPACE CANNON be used to target ships in adjacent systems? A: No, Link Ship 1 only allows use of Space Canon unit ability.&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A: &ldquo;RalNel Linkships and PDS 2&rdquo;: &ldquo;range probably shouldn&rsquo;t be transitive.&rdquo; designer ruling, hedged.</li>
         </ul></li>
     <li>If a space dock gains <a href="/R_space_cannon"><sc>Space Cannon</sc></a> from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card, each Linkship II in the system may use that <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction between Experimental Battlestation and Linkship II? &hellip; A: Yes, previous rulings on EBS have clarified that the dock gains the ability during the movement step, thus it can be used by Linkship&rsquo;s ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Experimental Battlestation and Linkship II? &hellip; A: Yes, previous rulings on EBS have clarified that the dock gains the ability during the movement step, thus it can be used by Linkship&rsquo;s ability.&rdquo;</li>
         </ul></li>
     <li>Each Linkship II rolls one space cannon die, regardless of how many PDS are in its system.<sup>2</sup>
         <ul>
@@ -92,7 +92,7 @@
         </ul></li>
     <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -104,11 +104,11 @@
         </ul></li>
     <li>The ability of Kan Kip Rel resolves fully before the action card hand limit is checked.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size.&rdquo;</li>
         </ul></li>
     <li>If the <a href="/F_yssaril">Yssaril</a> player uses this ability, they draw three action cards instead of two due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> faction ability. They discard one card from those drawn or from their hand, then take one of the drawn cards and give another to another player, keeping the third if it was not discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -124,7 +124,7 @@
         </ul></li>
     <li>Watchful Ojz is a &ldquo;when&rdquo; ability. It resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card is played and resolved.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card &hellip;? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card &hellip;? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -144,7 +144,7 @@
         </ul></li>
     <li>Purging Director Nel does not prevent the active player from scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> objective. The active player scores <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> when they pass, then the Ral Nel player purges their hero.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -152,11 +152,11 @@
     <ol class="note">
     <li>Ground forces may only be moved from adjacent systems, not from within the active system.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can their mech move the infantry within the system &hellip;? A: No, only from adjacent systems, not the active system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can their mech move the infantry within the system &hellip;? A: No, only from adjacent systems, not the active system.&rdquo;</li>
         </ul></li>
     <li>If an Alarum moves another Alarum into the system, the newly moved Alarum cannot use its ability to move additional ground forces.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -172,11 +172,11 @@
         </ul></li>
     <li>Action cards on <i>Data Skimmer</i> are not in the discard pile.<sup>6</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>6</sup> &ldquo;What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: &hellip; all action cards on it are immediately discarded.&rdquo; They are discarded only then.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: &hellip; all action cards on it are immediately discarded.&rdquo; They are discarded only then.</li>
         </ul></li>
     <li>If the Ral Nel player is eliminated, <i>Data Skimmer</i> is returned to the game box, and all action cards on it are immediately discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The breakthrough is returned to the box and all action cards on it are immediately discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The breakthrough is returned to the box and all action cards on it are immediately discarded.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

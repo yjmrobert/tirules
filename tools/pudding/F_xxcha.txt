@@ -3,7 +3,7 @@ I1 LRR 60 (Neighbors) treats a unit or planet "in the same system" as sharing th
 I2 RulesPal, "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems" planet adjacency covers its own and neighboring systems.
 I5 Designer ruling (maverikki, Nov 29, 2017): "Yes, the second planet is considered adjacent for the purpose of peace accords." Planet in the same system counts as adjacent.
 @1
-E6 "Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet."
+E6 Community consensus: "Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet."
 I2 RulesPal, "When do I gain and lose control of a space station?": "A space station isn't a planet" From the space-station control entry; Peace Accords not named.
 @2
 E5 Designer ruling (maverikki, Nov 29, 2017): "You can indeed gain control of an uncontrolled planet in a system with an enemy fleet."
@@ -51,7 +51,7 @@ I2 RulesPal, "If my component action card is cancelled by Sabotage …?": "a can
 I2 Same entry: "If it was the optional extra action from Fleet Logistics, you can just end your turn."
 @22
 E2 RulesPal, "When must Xxcha use Nullification Field, and what can still happen after it ends the turn?": "Once the turn ends, nothing more happens in it: no further after-activation abilities."
-E4 Il Na Viroset ruling, which asks "Is this different from Nullification Field?": "Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+E4 Designer ruling on Il Na Viroset, which asks "Is this different from Nullification Field?": "Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
 @23
 E2 RulesPal, "When must Xxcha use Nullification Field, and what can still happen after it ends the turn?": "no further after-activation abilities."
 @24
@@ -62,7 +62,7 @@ E2 RulesPal, "When several players fire Space Cannon Offense, are they resolved 
 E1 LRR 6.3: "A planet is treated as being adjacent to the system that contains that planet."
 I2 RulesPal, "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems"
 @27
-E4 "Can the Xxcha Agent, Ggrocuto Rinn, be used to 'ready' a planet that is not exhausted? A: The target planet must be exhausted."
+E4 Designer ruling: "Can the Xxcha Agent, Ggrocuto Rinn, be used to 'ready' a planet that is not exhausted? A: The target planet must be exhausted."
 E2 RulesPal, "Can the Xxcha agent target a ready planet just to remove an infantry?": "No — you can't ready a planet that is already ready, so the target must be exhausted for any of it to work."
 @28
 E2 RulesPal, "Can the Xxcha agent ready another player's planet and remove their infantry?": "Yes — it can ready any planet, including another player's, and if that planet is adjacent to a planet you control, the infantry you remove can be another player's too."
@@ -77,15 +77,15 @@ I14 Codex II, Xxcha alliance: "Each planet you exhaust to cast votes provides 1 
 E2 RulesPal, "What does the Xxcha commander allow, and does it beat Political Secret or a rider?": "Through the Xxcha alliance even the Nekro can vote."
 I14 Codex II, Xxcha Alliance: "Game effects cannot prevent you from voting on an agenda." Xxcha Alliance card text.
 @33
-E4 "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda."
+E4 Designer ruling: "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda."
 @34
 N No source found.
 @35
 E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "A player elected for Public Execution can still vote in the next agenda phase."
 @36
-E4 "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
+E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
 @37
-E4 "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
+E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
 E2 RulesPal, "How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?": "the agendas are revealed, so Xxcha can play riders such as Imperial Rider on them."
 @38
 N No source found.
@@ -94,9 +94,9 @@ N No source found.
 @40
 N No source found.
 @41
-I4 FAQ: Xxcha hero Xxekir Grom and agendas: "The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero." all players resolve agenda effects.
+I4 Designer ruling, Xxcha hero Xxekir Grom and agendas: "The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero." all players resolve agenda effects.
 @42
-E4 "If the Xxcha hero gives two players in the lead a Victory Point … A: Initiative order determines the winner."
+E4 Designer ruling: "If the Xxcha hero gives two players in the lead a Victory Point … A: Initiative order determines the winner."
 @43
 E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Transactions during the hero's action still need neighbors, since it isn't the agenda phase."
 @44
@@ -106,23 +106,23 @@ N No source found.
 @46
 E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase."
 @47
-E4 "Checks and balances against reads 'Each player readies only 3 of their planets at the end of this agenda phase.' Does this trigger at the end of Xxchas hero? … A: This effect does not trigger if it happens during the Xxcha Hero."
+E4 Designer ruling: "Checks and balances against reads 'Each player readies only 3 of their planets at the end of this agenda phase.' Does this trigger at the end of Xxchas hero? … A: This effect does not trigger if it happens during the Xxcha Hero."
 @48
 N No source found.
 @49
-E4 "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
+E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
 E2 RulesPal, "How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?": "No other player may use abilities during it."
 @50
-E4 "If there are no laws in play a new agenda is drawn."
+E4 Designer ruling: "If there are no laws in play a new agenda is drawn."
 @51
-E4 "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete."
+E4 Designer ruling: "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete."
 @52
 E2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
-I4 "When using an ability that references 'resource value', the printed resource value of the planet is used."
+I4 Designer ruling: "When using an ability that references 'resource value', the printed resource value of the planet is used."
 @53
 N No source found.
 @54
-E4 "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum …? A: When using an ability that references 'resource value', the printed resource value of the planet is used."
+E4 Designer ruling: "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum …? A: When using an ability that references 'resource value', the printed resource value of the planet is used."
 E2 RulesPal, "How does the Xxcha hero's ability to combine a planet's resources and influence work?": "It doesn't change printed values, so it doesn't raise a space dock's Production."
 N2 Partial conflict: the same RulesPal entry says the combined value applies "even when exhausted for Uprising."
 @55

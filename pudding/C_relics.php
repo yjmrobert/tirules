@@ -15,7 +15,7 @@
         </ul></li></ol>
     <li>A player cannot gain a technology with a prerequisite by ignoring that prerequisite, such as by exhausting a planet with a technology specialty.<sup>6,11</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can a tier one &hellip; technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip &hellip;? A: No, only techs with no printed prerequisites may be researched.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a tier one &hellip; technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip &hellip;? A: No, only techs with no printed prerequisites may be researched.&rdquo;</li>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV, Book of Latvinia: &ldquo;technologies that have no prerequisites&rdquo; Book of Latvinia card text; only techs with no printed prerequisites qualify.</li>
         </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player draws the <i>Book of Latvinia</i>, they will gain six command tokens and zero technologies, even if they own all technologies without prerequisites.<sup>*</sup>
@@ -60,7 +60,7 @@
         </ul></li>
     <li>It is public knowledge which action cards a player takes using <i>The Codex</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are the cards removed from the discard pile via the Relic &lsquo;The Codex&rsquo; public knowledge? A: Yes, the discard is public knowledge.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are the cards removed from the discard pile via the Relic &lsquo;The Codex&rsquo; public knowledge? A: Yes, the discard is public knowledge.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -73,7 +73,7 @@
     <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which rolls can The Crown of Thalnos reroll?&rdquo;: &ldquo;Only combat rolls, not Anti-Fighter Barrage, Bombardment.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
         </ul></li>
     <li>For each unit that rolls multiple combat dice, the player with <i>The Crown of Thalnos</i> should roll those unit&rsquo;s dice separately from any other combat dice.<sup>*</sup>
         <ul>
@@ -105,7 +105,7 @@
     <ol class="note">
     <li>If a player uses the purge ability of <i>Dynamis Core</i>, they will need to return commodities if they now exceed their original commodity value.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -175,7 +175,7 @@
         </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged. Players may indicate a damaged infantry token in any way.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -207,7 +207,7 @@
         </ul></li>
     <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
         </ul></li>
     <li>If a player uses <i>Neuraloop</i> to purge <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a>, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup>
         <ul>
@@ -255,7 +255,7 @@
         </ul></li>
     <li>The <a href="/F_nekro">Nekro</a> player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -304,11 +304,11 @@
     <li>The <a href="/F_saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Silver Flame&rdquo;: &ldquo;Re: saar &hellip; I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: &ldquo;Silver Flame: Is Saar affected by the &lsquo;can&rsquo;t score publics&rsquo; clause?&rdquo;: &ldquo;No, Dane has indicated he will make an exception for Saar.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Silver Flame: Is Saar affected by the &lsquo;can&rsquo;t score publics&rsquo; clause?&rdquo;: &ldquo;No, Dane has indicated he will make an exception for Saar.&rdquo;</li>
         </ul></li>
     <li>Using <i>The Silver Flame</i> always causes The Fracture to enter play, regardless of the result of the roll.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -316,8 +316,8 @@
     <ol class="note">
     <li>A system that contains a planet destroyed by <i>Stellar Converter</i>, and no other planets, is considered to contain no planets.<sup>2,4,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>6</sup> On Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?&rdquo;: &ldquo;Most likely yes &mdash; the destroyed planet can&rsquo;t be controlled or invaded, so players treat the system as planetless.&rdquo; RulesPal hedges (no official ruling) but supports it.</li>
         </ul></li>
     <li>A player cannot target a planet they control with <i>Stellar Converter</i>.<sup>*</sup>
@@ -334,7 +334,7 @@
         </ul></li>
     <li><i>The Triad</i> is not considered a planet for other game effects.<sup>*</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>6</sup> &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
         </ul></li>
     <ol>
         <li>Units cannot be placed on <i>The Triad</i>.<sup>*</sup>
@@ -343,7 +343,7 @@
         </ul></li>
         <li><i>The Triad</i> cannot be exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The Triad: Can The Triad be exhausted by Uprising? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Can The Triad be exhausted by Uprising? A: No&rdquo;</li>
         </ul></li>
         <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agenda.<sup>*</sup>
         <ul>
@@ -351,11 +351,11 @@
         </ul></li>
         <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Nano-Forge and/or Terraform be attached to The Triad? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to The Triad? A: No&rdquo;</li>
         </ul></li>
         <li><i>The Triad</i> does not count towards the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count towards any objectives that require a planet in a specific type of system.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
         </ul></li>
         <li><i>The Triad</i> does not have a planet trait; it cannot be explored.<sup>*</sup>
         <ul>
@@ -365,19 +365,19 @@
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
         </ul></li>
     <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The Triad: Does an unknown relic fragment count as a fragment of its own type &hellip;? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Does an unknown relic fragment count as a fragment of its own type &hellip;? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial.&rdquo;</li>
         </ul></li>
     <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;The Triad: Is The Triad exhausted by Maw of Worlds? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Is The Triad exhausted by Maw of Worlds? A: No&rdquo;</li>
         </ul></li>
     <li>The <a href="/F_saar">Saar</a> player does not gain a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability when they gain <i>The Triad</i>.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No&rdquo;</li>
         </ul></li>
     </ol>
 </article>

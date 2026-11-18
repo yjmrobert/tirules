@@ -2,6 +2,6 @@
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
 E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
 @1
-E4 "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
+E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
 @2
 E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — a combat is a space combat or a ground combat … Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat."

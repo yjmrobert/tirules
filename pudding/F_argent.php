@@ -30,7 +30,7 @@
         </ul></li>
     <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When is Raid Formation applied? After rolling or after assigning hits? &hellip; A: Raid formation is applied after rolling, before cancelling or assigning hits.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When is Raid Formation applied? After rolling or after assigning hits? &hellip; A: Raid formation is applied after rolling, before cancelling or assigning hits.&rdquo;</li>
         </ul></li>
     <li>The Argent player may choose a damaged ship. This will have no effect.<sup>*</sup>
         <ul>
@@ -38,7 +38,7 @@
         </ul></li>
     <li>The chosen ship becomes damaged, it does not use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
         </ul></li>
     <ol>
@@ -85,11 +85,11 @@
     <ol class="note">
     <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are cancelled.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
     <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.<sup>*</sup>
         <ul>
@@ -137,7 +137,7 @@
         </ul></li>
     <li>Ships may transport units out of systems that contain one of the Argent player&rsquo;s command tokens.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup>
         <ul>
@@ -157,7 +157,7 @@
     <ol class="note">
     <li>The Argent player performs a tactical action as normal to trigger <i>Wing Transfer</i>. They cannot move ships with <i>Wing Transfer</i> into a board state that will not be resolved, such as a system that contains other players&rsquo; ships.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Why does the Argent breakthrough, Wing Transfer, have &lsquo;this action&rsquo; in its wording? &hellip; A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships).&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Why does the Argent breakthrough, Wing Transfer, have &lsquo;this action&rsquo; in its wording? &hellip; A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships).&rdquo;</li>
         </ul></li>
     <li>If the Argent player produces units on their turn in the active system, they will have to satisfy fleet pool and capacity limits there before they may move units to adjacent systems.<sup>*</sup>
         <ul>

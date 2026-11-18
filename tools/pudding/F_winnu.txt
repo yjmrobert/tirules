@@ -36,7 +36,7 @@ E2 RulesPal, "How do Nekro ground forces fighting via the flagship count for oth
 @15
 N No source found.
 @16
-E4 "Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? A: No, the commander only triggers once no matter how many conditions are met."
+E4 Designer ruling: "Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? A: No, the commander only triggers once no matter how many conditions are met."
 @17
 E2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "Secondaries cost a strategy pool token, except Leadership's."
 @18

@@ -15,11 +15,11 @@ E2 RulesPal, "Is The Fracture 3 systems or 7 …?": "It can sit anywhere, and th
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "each of its systems is considered to be on the edge of the game board."
 E2 RulesPal: "every Fracture system also counts as on the edge."
 @6
-E6 "Can the Yin or L1Z1X hero be used on Styx if the Fracture isn't in Play? A: No. The Fracture is not in play and not a legal target."
+E6 Community consensus: "Can the Yin or L1Z1X hero be used on Styx if the Fracture isn't in Play? A: No. The Fracture is not in play and not a legal target."
 @7
-E6 "Thunder's Edge is placed, then you place the final Ingress in the Thunder's Edge system."
+E6 Community consensus: "Thunder's Edge is placed, then you place the final Ingress in the Thunder's Edge system."
 @8
-E6 RAW/Community: "Can Nano-Forge and/or Terraform be attached to planets in The Fracture?": "Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes"
+E6 Community consensus, "Can Nano-Forge and/or Terraform be attached to planets in The Fracture?": "Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes"
 @9
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "They then place neutral units as indicated on the back of The Fracture's tiles."
 @10
@@ -40,6 +40,6 @@ E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a differe
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
 @17
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system cannot have more than one ingress token."
-E6 "the rules state that a system may not contain more than 1 ingress token."
+E6 Community consensus: "the rules state that a system may not contain more than 1 ingress token."
 @18
 E7 Thunder's Edge Rulebook p. 9: "Each planet in the fracture has a relic icon." p. 10: "When a player gains a planet card from the planet deck that has a relic icon … they draw the top card of the relic deck."

@@ -26,7 +26,7 @@ E5 Designer ruling (Vinci, 12/11/2018): "rules as written, the Mentak would be a
 E2 RulesPal, "How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?": "Pillage triggers separately each time a neighbor gains trade goods or resolves a transaction."
 I5 Designer ruling (sigmazero13, Aug 15, 2018): "This ability triggers for each instance of a neighbor gaining trade goods or resolving a transaction" Pillage triggers per instance of gaining.
 @12
-E4 "whenever commodities are converted to a player's own trade good area, they are not considered gained."
+E4 Designer ruling: "whenever commodities are converted to a player's own trade good area, they are not considered gained."
 @13
 E2 RulesPal, "When exactly can Mentak use Pillage?": "After each instance of a neighbor gaining trade goods or resolving a transaction."
 @14
@@ -87,25 +87,25 @@ N No source found.
 @39
 I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
 @40
-E4 "If Mentak's Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent's ship, does combat continue? A: Yes."
+E4 Designer ruling: "If Mentak's Hero, Sleeper Cell, is used and their last ship is destroyed during a round of combat in which they also destroy an opponent's ship, does combat continue? A: Yes."
 E2 RulesPal, "How does the Mentak hero work, and can it be escaped?": "the combat can continue even if your other ships died."
 @41
 N No source found.
 @42
-E4 "after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues."
+E4 Designer ruling: "after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues."
 @43
 N No source found.
 @44
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @45
-E4 "If you use the Mentak Coalition's Hero … and lose your flagship in a combat, but destroy the other player's flagship and rebuild your own, can you score Unveil Flagship? A: No."
+E4 Designer ruling: "If you use the Mentak Coalition's Hero … and lose your flagship in a combat, but destroy the other player's flagship and rebuild your own, can you score Unveil Flagship? A: No."
 @46
 N No source found.
 @47
 N No source found.
 @48
-E4 "Can the Mentak Coalition's hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology? A: No."
+E4 Designer ruling: "Can the Mentak Coalition's hero, Sleeper Cell, be used to place a warsun if you do not own the warsun technology? A: No."
 @49
 E2 RulesPal, "How does the Mentak hero work, and can it be escaped?": "The opponent can limit it by retreating."
 @50
@@ -115,7 +115,7 @@ N No source found.
 @52
 N No source found.
 @53
-E6 "Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? … A: They cannot copy corsair."
+E6 Community consensus: "Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? … A: They cannot copy corsair."
 I2 RulesPal, "Are breakthroughs technologies, and do their passive abilities work while exhausted?": "They aren't technologies, so a breakthrough like Mentak's Corsair doesn't count as a unit upgrade" Valefar Assimilator copies faction technologies only.
 @54
 E6 Same ruling: "mentak is still considered to own cruiser II."

@@ -19,7 +19,7 @@
     <ol class="note">
     <li>Both infantry must be placed on the same planet.<sup>8</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>8</sup> Prophecy of Kings Rulebook, Primor (The Atrament): &ldquo;You may exhaust this card at the end of your turn to place up to 2 infantry from your reinforcements on any planet you control.&rdquo; &ldquo;any planet&rdquo; is singular.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Primor (The Atrament): &ldquo;You may exhaust this card at the end of your turn to place up to 2 infantry from your reinforcements on any planet you control.&rdquo; &ldquo;any planet&rdquo; is singular.</li>
         </ul></li>
     </ol>
 
@@ -63,7 +63,7 @@
         </ul></li>
     <li>A player cannot discard a scored secret objective to resolve this ability; only secret objectives in their hand may be discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Q: The Galactic Council - Mecatol Rex: Can a player discard a scored secret objective? A: No, only discards from hand are permitted.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: The Galactic Council - Mecatol Rex: Can a player discard a scored secret objective? A: No, only discards from hand are permitted.&rdquo;</li>
         </ul></li>
     </ol>
 

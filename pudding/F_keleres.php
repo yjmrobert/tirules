@@ -7,12 +7,12 @@
     <ol class="note">
     <li>The Keleres player chooses their starting technology after all other players have gained their starting technologies.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? &hellip; A: Keleres selects after all other players have selected their starting technology.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? &hellip; A: Keleres selects after all other players have selected their starting technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Council Keleres choose its starting technologies?&rdquo;: &ldquo;After every other faction has gathered its starting technologies, regardless of speaker order.&rdquo;</li>
         </ul></li>
     <li>If there is only one unique starting technology amongst those owned by other players, the Keleres player will start the game with only one technology.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -32,12 +32,12 @@
     <ol class="note">
     <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Law&rsquo;s Order: &ldquo;treat all laws as blank until the end of&rdquo; your turn.</li>
         </ul></li>
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.<sup>4,12</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
         <li><b>Explicit</b>: <sup>12</sup> Codex III: &ldquo;treat all laws as blank.&rdquo;</li>
         </ul></li>
     <li>If the Keleres player owns the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup>
@@ -50,7 +50,7 @@
         </ul></li></ol>
     <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -82,15 +82,15 @@
     <ol class="note">
     <li>Any abilities that trigger &ldquo;when/after a unit uses <a href="/R_production"><sc>Production</sc></a>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice).&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice).&rdquo;</li>
         </ul></li>
     <li>The additional <a href="/R_production"><sc>Production</sc></a> ability cannot belong to the same unit as the original <a href="/R_production"><sc>Production</sc></a> ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network.&rdquo;</li>
         </ul></li>
     <ol><li>During a tactical action, the active player must use every <a href="/R_production"><sc>Production</sc></a> ability of their units in the active system, or none of them. As such, the additional <a href="/R_production"><sc>Production</sc></a> ability must belong to a unit in a different system.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;PRODUCTION is all or nothing during tactical actions, so you couldn&rsquo;t choose to only use one ability in a system to then use another one in the same system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;PRODUCTION is all or nothing during tactical actions, so you couldn&rsquo;t choose to only use one ability in a system to then use another one in the same system.&rdquo;</li>
         </ul></li></ol>
     <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <a href="/R_production"><sc>Production</sc></a> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <a href="/R_production"><sc>Production</sc></a> ability, they may use an additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
         <ul>
@@ -111,7 +111,7 @@
     <li>Riders may be played when resolving <i>Executive Order</i>.<sup>2,6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Executive Order&rdquo;: &ldquo;Players can play riders etc.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can the &lsquo;when/after agenda is revealed&rsquo; effects be played on agenda revealed by the Keleres breakthrough, Executive Order? &hellip; A: Yes, the agenda is drawn and revealed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the &lsquo;when/after agenda is revealed&rsquo; effects be played on agenda revealed by the Keleres breakthrough, Executive Order? &hellip; A: Yes, the agenda is drawn and revealed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda voted through Keleres&rsquo;s Executive Order count as the agenda phase?&rdquo;: &ldquo;&rsquo;when/after an agenda is revealed&rsquo; effects still work.&rdquo;</li>
         </ul></li>
     <li>If the Keleres player draws one of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Judicial%20Abolishment"><i>Judicial Abolishment</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agendas, they will discard it if required and reveal a new agenda from the deck.<sup>*</sup>
@@ -128,7 +128,7 @@
         </ul></li>
     <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, which only affects voting during the agenda phase.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order &hellip;? A: No, Representative Government only affects voting during the Agenda Phase.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order &hellip;? A: No, Representative Government only affects voting during the Agenda Phase.&rdquo;</li>
         </ul></li>
     <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> secret objective cannot be scored until the agenda phase.<sup>*</sup>
         <ul>
@@ -141,15 +141,15 @@
     <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; will instead resolve at the end of the next agenda phase.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16: &ldquo;Agendas that refer to &lsquo;This Agenda Phase&rsquo; remain in play and are resolved during that game round&rsquo;s Agenda phase, or if that round does not have an Agenda phase, the next Agenda phase that is resolved.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;How are &lsquo;this agenda phase&rsquo; or &lsquo;next strategy phase&rsquo; abilities resolved? A: They will remain in play until their trigger timing.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How are &lsquo;this agenda phase&rsquo; or &lsquo;next strategy phase&rsquo; abilities resolved? A: They will remain in play until their trigger timing.&rdquo;</li>
         </ul></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still resolve at the start of the next strategy phase.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;They will remain in play until their trigger timing.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;They will remain in play until their trigger timing.&rdquo;</li>
         </ul></li>
     <li>When resolving <i>Executive Order</i>, the <a href="/F_argent">Argent</a> player does not vote first, but still casts additional votes.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Argent does not vote first but does still cast additional votes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Argent does not vote first but does still cast additional votes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Argent&rsquo;s Zeal gives its extra votes but not the vote-first part.&rdquo;</li>
         </ul></li>
     </ol>
@@ -166,15 +166,15 @@
     <ol class="note">
     <li>The Custodia Vigilia planet card is gained exhausted.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It is gained exhausted.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It is gained exhausted.&rdquo;</li>
         </ul></li>
     <li>Units cannot be placed on Custodia Vigilia.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;units cannot be placed on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;units cannot be placed on it.&rdquo;</li>
         </ul></li>
     <li>Custodia Vigilia is not on the game board, and does not exist in a system.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;This planet is not on the game board, and does not exist in a system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;This planet is not on the game board, and does not exist in a system.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;though it has no system tile.&rdquo;</li>
         </ul></li>
     <li>The Keleres player cannot lose control of Custodia Vigilia.<sup>12</sup>
@@ -183,19 +183,19 @@
         </ul></li>
     <ol><li>The Keleres player cannot be eliminated once they control Custodia Vigilia.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Keleres cannot be eliminated if they control Custodia Vigilia.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Keleres cannot be eliminated if they control Custodia Vigilia.&rdquo;</li>
         </ul></li></ol>
     <li>Custodia Vigilia may be used to qualify for objectives, if it meets any other requirements listed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas.&rdquo;</li>
         </ul></li>
     <li>Custodia Vigilia counts as a planet for agendas if it meets the specific criteria of those agendas.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria.&rdquo;</li>
         </ul></li>
     <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="/R_mecatol_rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial&rsquo;s ability to gain a Victory Point because you control Mecatol Rex.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial&rsquo;s ability to gain a Victory Point because you control Mecatol Rex.&rdquo;</li>
         </ul></li>
     <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.<sup>*</sup>
         <ul>
@@ -203,7 +203,7 @@
         </ul></li>
     <li>When the Keleres player uses the <a href="/R_production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &lsquo;as if it were a unit&rsquo;.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &lsquo;as if it were a unit&rsquo;.&rdquo;</li>
         </ul></li>
     <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup>
         <ul>
@@ -211,11 +211,11 @@
         </ul></li></ol>
     <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Terraform can be placed on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Terraform can be placed on it.&rdquo;</li>
         </ul></li>
     <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It may be explored.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It may be explored.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -231,7 +231,7 @@
     <ol class="note">
     <li>Xander Alexin Victori III applies to only a single instance of spending trade goods.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What is the duration of the Council Keleres agent &hellip;? A: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What is the duration of the Council Keleres agent &hellip;? A: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -311,7 +311,7 @@
     <ol class="note">
     <li>If a planet contains multiple mechs, the invading player must pay one influence for each, as separate payments.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? A: Each mech is one instance of spend one influence.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? A: Each mech is one instance of spend one influence.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;each mech is its own instance of the ability, so the attacker pays 1 influence per mech.&rdquo;</li>
         </ul></li>
     </ol>

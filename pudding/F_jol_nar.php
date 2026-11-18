@@ -140,7 +140,7 @@
         </ul></li>
     <li>All replacements happen simultaneously. If this ability returns a specific technology, it cannot then be regained via this ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> FAQ: Jol-Nar hero Rin: &ldquo;Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Jol-Nar hero Rin: &ldquo;Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action.&rdquo;</li>
         </ul></li>
     <li>If the Jol&ndash;Nar player later gains a technology they returned, they gain it readied.<sup>*</sup>
         <ul>
@@ -152,7 +152,7 @@
         </ul></li>
     <li>If this ability is used to replace a faction technology which is currently being copied by the <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#FAQ:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#FAQ:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token stays on that technology while it is in the technology deck, and <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#FAQ:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> still has that technology&rsquo;s text.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -168,11 +168,11 @@
     <ol class="note">
     <li>Due to the synergy of <i>Specialized Compounds</i>, the Jol&ndash;Nar player may exhaust a planet with a yellow technology specialty to research a green technology, and vice versa.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes&rdquo;</li>
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
         </ul></li>
     <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.<sup>*</sup>
         <ul>

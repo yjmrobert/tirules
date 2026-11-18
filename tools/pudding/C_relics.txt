@@ -3,7 +3,7 @@ E11 Codex IV, Book of Latvinia: "When you gain this card, research up to 2 techn
 @1
 E11 Codex IV, Book of Latvinia: "When you gain this card, research up to 2 technologies that have no prerequisites." "Up to" allows one.
 @2
-E6 "Can a tier one … technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip …? A: No, only techs with no printed prerequisites may be researched."
+E6 Community consensus: "Can a tier one … technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip …? A: No, only techs with no printed prerequisites may be researched."
 I11 Codex IV, Book of Latvinia: "technologies that have no prerequisites" Book of Latvinia card text; only techs with no printed prerequisites qualify.
 @3
 N No source found.
@@ -22,10 +22,10 @@ I11 The Circlet's first sentence is a passive ability; only the ACTION requires 
 @10
 E1 LRR 23.5: "When a deck is depleted, players shuffle the deck’s discard pile and place it facedown to create a new deck."
 @11
-E4 "Are the cards removed from the discard pile via the Relic 'The Codex' public knowledge? A: Yes, the discard is public knowledge."
+E4 Designer ruling: "Are the cards removed from the discard pile via the Relic 'The Codex' public knowledge? A: Yes, the discard is public knowledge."
 @12
 E2 RulesPal, "Which rolls can The Crown of Thalnos reroll?": "Only combat rolls, not Anti-Fighter Barrage, Bombardment."
-E4 "War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+E4 Designer ruling: "War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
 @13
 N No source found.
 @14
@@ -37,7 +37,7 @@ N No source found.
 @17
 E2 RulesPal, "Can units leave a system with my command token … and does Dominus Orb ignore range?": "Dominus Orb doesn't extend range; the units still need to reach the active system."
 @18
-E4 "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
+E4 Designer ruling: "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
 @19
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
 @20
@@ -59,7 +59,7 @@ N No source found.
 @28
 N No source found.
 @29
-E6 "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this."
+E6 Community consensus: "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this."
 @30
 I14 Codex II: "The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives."
 @31
@@ -71,7 +71,7 @@ N No source found.
 @34
 N No source found.
 @35
-E4 "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
+E4 Designer ruling: "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
 @36
 N No source found.
 @37
@@ -91,7 +91,7 @@ N No source found.
 @44
 N No source found.
 @45
-E4 "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
+E4 Designer ruling: "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
 @46
 N No source found.
 @47
@@ -108,37 +108,37 @@ N No source found.
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
 @53
 E9 Designer Q&A, "Silver Flame": "Re: saar … I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]"
-E6 RAW/Community: "Silver Flame: Is Saar affected by the 'can’t score publics' clause?": "No, Dane has indicated he will make an exception for Saar."
+E6 Community consensus, "Silver Flame: Is Saar affected by the 'can’t score publics' clause?": "No, Dane has indicated he will make an exception for Saar."
 @54
-E6 "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
+E6 Community consensus: "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
 @55
-E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
-I6 On Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
 I2 RulesPal, "Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?": "Most likely yes — the destroyed planet can't be controlled or invaded, so players treat the system as planetless." RulesPal hedges (no official ruling) but supports it.
 @56
 N No source found.
 @57
 N No source found.
 @58
-I6 "Does The Triad count as a planet for scoring objectives? A: No"
+I6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
 @59
 N No source found.
 @60
-E6 "The Triad: Can The Triad be exhausted by Uprising? A: No"
+E6 Community consensus: "The Triad: Can The Triad be exhausted by Uprising? A: No"
 @61
 N No source found.
 @62
-E6 "Can Nano-Forge and/or Terraform be attached to The Triad? A: No"
+E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to The Triad? A: No"
 @63
-E6 "Does The Triad count as a planet for scoring objectives? A: No"
+E6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
 @64
 N No source found.
 @65
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
-E6 "Q: Can you vote using The Triad relic? A: Yes."
+E6 Community consensus: "Q: Can you vote using The Triad relic? A: Yes."
 @66
-E6 "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
+E6 Community consensus: "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
 @67
-E6 "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
+E6 Community consensus: "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
 @68
-E6 "Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No"
+E6 Community consensus: "Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No"

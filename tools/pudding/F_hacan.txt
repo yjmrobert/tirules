@@ -12,7 +12,7 @@ E2 RulesPal: "Any number of action cards can go either way in a transaction the 
 E1 LRR 2.4: "If a player ever has more than seven action cards, that player must choose seven cards to keep and discard the rest."
 E3 Learn to Play: "If a player exceeds this number, they must choose which seven cards they wish to keep and discard the rest."
 @6
-E4 "Can Hacan trade action cards after having Political Secret played against them? A: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless."
+E4 Designer ruling: "Can Hacan trade action cards after having Political Secret played against them? A: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless."
 E2 RulesPal, "What exactly does Political Secret stop the affected player from doing?": "Mandatory and passive abilities still apply, such as … Hacan's Arbiters."
 E1 LRR FAQ: Political Secret "only prevents the use of faction abilities that a player must choose to use."
 @7
@@ -33,7 +33,7 @@ E2 RulesPal, "How does the Hacan flagship's trade-good bonus work?": "spend 1 tr
 @14
 E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 @15
-E4 "transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved."
+E4 Designer ruling: "transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved."
 @16
 N No source found.
 @17
@@ -41,12 +41,12 @@ E2 RulesPal, "Are the Arborec and Hacan heroes limited by Production?": "The Hac
 @18
 N No source found.
 @19
-E4 "A planet that has the Hacan Mech can't be traded in combat."
+E4 Designer ruling: "A planet that has the Hacan Mech can't be traded in combat."
 @20
 N No source found.
 @21
-E6 "Coexisting units remain in a state of coexistence as ownership changes through Hacan mech … The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before" coexistence ends.
+E6 Community consensus: "Coexisting units remain in a state of coexistence as ownership changes through Hacan mech … The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before" coexistence ends.
 @22
-E6 "Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes"
+E6 Community consensus: "Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes"
 @23
-E6 "Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."
+E6 Community consensus: "Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."

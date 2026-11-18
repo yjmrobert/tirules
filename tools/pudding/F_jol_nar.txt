@@ -46,19 +46,19 @@ N No source found.
 @22
 N No source found.
 @23
-E4 FAQ: Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
+E4 Designer ruling, Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
 @24
 N No source found.
 @25
 N No source found.
 @26
-E4 "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+E4 Designer ruling: "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
 @27
 N No source found.
 @28
-E6 "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
+E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
 @29
-E6 "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
+E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
 @30
 N No source found.
 @31

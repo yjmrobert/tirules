@@ -121,7 +121,7 @@
     <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead. This ship will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>A fighter may be placed with Letani Ospha.<sup>*</sup>
         <ul>
@@ -151,7 +151,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     <li>A unit with <a href="/R_production"><sc>Production</sc></a> in an entropic scar still has <a href="/R_production"><sc>Production</sc></a>, even though it cannot use it. As such, Dirzuga Rophal may still be used in that system.<sup>2</sup>
         <ul>

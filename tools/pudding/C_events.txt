@@ -45,7 +45,7 @@ N No source found.
 @22
 N No source found.
 @23
-I7 Thunder’s Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." alliance ability usable on gaining the card, no unlock needed.
+I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." alliance ability usable on gaining the card, no unlock needed.
 @24
 N No source found.
 @25
@@ -72,7 +72,7 @@ N No source found.
 N No source found.
 @36
 E1 LRR 98.7: "If multiple players would simultaneously gain their 10th victory point, the player who is earliest in initiative order among those players is the winner."
-E4 On the Xxcha hero giving two players the win: "Initiative order determines the winner."
+E4 Designer ruling, on the Xxcha hero giving two players the win: "Initiative order determines the winner."
 @37
 N No source found.
 @38

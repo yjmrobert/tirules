@@ -3,7 +3,7 @@ E1 LRR 16.4c: "A player's fighters and ground forces do not count against capaci
 E2 RulesPal, "When is capacity checked if a carrier is lost?": "During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends."
 I5 Designer ruling (Milty, 08/02/2018): "During a combat, the fighters would persist until the end of combat" Fighters persist through combat despite capacity.
 @1
-I4 "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
+I4 Designer ruling: "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
 @2
 N No source found.
 @3
@@ -30,7 +30,7 @@ E5 Designer ruling (sigmazero13, Jul 18, 2018): "They’d be destroyed."
 E5 Designer ruling: "Assault Cannon and Mentak's Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat)."
 E2 RulesPal, "How does Mentak's Ambush work?": "At the start of space combat, before Anti-Fighter Barrage."
 @11
-E4 "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
+E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
 @12
 E2 RulesPal, "What happens if neither side can ever win a space combat?": "The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed."
 I1 LRR FAQ: "If neither side has the potential to win, the attacker must retreat."

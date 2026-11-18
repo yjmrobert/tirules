@@ -155,7 +155,7 @@
     <ol class="note">
     <li>If all of a player&rsquo;s ships are destroyed during combat, they may still place ships with this ability. If they do, combat will continue.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> On a similar effect, the Mentak hero: &ldquo;after both players assign hits the Mentak player then places a ship &hellip; and combat continues.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on a similar effect, the Mentak hero: &ldquo;after both players assign hits the Mentak player then places a ship &hellip; and combat continues.&rdquo;</li>
         </ul></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
         <ul>
@@ -171,7 +171,7 @@
         </ul></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -179,7 +179,7 @@
     <ol class="note">
     <li>Brother Milor &Omega; may only be used during the action phase.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase.&rdquo;</li>
         </ul></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
         <ul>
@@ -195,7 +195,7 @@
         </ul></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
     <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World"><i>Make an Example of Their World</i></a> secret objective before the new infantry are placed.<sup>*</sup>
         <ul>
@@ -203,11 +203,11 @@
         </ul></li>
     <li>If the Yin player uses Brother Milor &Omega; when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
         </ul></li>
     <ol><li>If placed this way during a space combat, any newly placed infantry cannot participate. If placed this way during a ground combat, any newly placed fighters cannot participate.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -223,7 +223,7 @@
         </ul></li>
     <li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Naalu Collective commander, M&rsquo;aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Naalu Collective commander, M&rsquo;aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Yin and Naalu commanders&rsquo; extra infantry and fighters work?&rdquo;: &ldquo;you may produce one extra for its cost, outside your Production limit.&rdquo;</li>
         </ul></li>
     </ol>
@@ -265,7 +265,7 @@
         </ul></li>
     <li>Only ground combats are resolved on the chosen planets, not the full steps of an invasion.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
         </ul></li>
     <li>The Yin player commits all infantry before resolving any combats.<sup>*</sup>
         <ul>
@@ -285,7 +285,7 @@
         </ul></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#FAQ:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup>
@@ -328,7 +328,7 @@
         </ul></li>
     <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;When the Obsidian isn&rsquo;t being played, and a game effect instructs a player to gain their alliance ability &hellip;? A: Each has their own alliance card.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;When the Obsidian isn&rsquo;t being played, and a game effect instructs a player to gain their alliance ability &hellip;? A: Each has their own alliance card.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

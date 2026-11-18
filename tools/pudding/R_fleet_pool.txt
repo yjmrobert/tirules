@@ -5,7 +5,7 @@ I3 Learn to Play: the excess units are destroyed "If at any time" capacity is ex
 @1
 E2 RulesPal, "Can I deliberately go over my fleet pool by moving or producing, then remove ships of my choice?": "Yes — nothing stops you; you just remove the excess right away, choosing which."
 E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."
-E6 On Auto-Factories: "with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."
+E6 Community consensus, on Auto-Factories: "with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."
 @2
 E2 RulesPal, "Can fighters stay in a system without a carrier or space dock?": "Fighter IIs that don't fit in capacity count against your fleet pool like other ships."
 @3

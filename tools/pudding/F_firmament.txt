@@ -1,36 +1,36 @@
 @0
-E6 "Does the Enervate plot card work on any secondary usage …? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate."
+E6 Community consensus: "Does the Enervate plot card work on any secondary usage …? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate."
 @1
-E6 "What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players' tokens on it."
+E6 Community consensus: "What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players' tokens on it."
 @2
-E6 "If there are no other player tokens on the Plot, it returns to hand."
+E6 Community consensus: "If there are no other player tokens on the Plot, it returns to hand."
 @3
 E7 Thunder's Edge Rulebook p. 16: "When the Firmament's home system is flipped, units on Cronos are placed on Cronos Hollow. Units on Tallin are placed on Tallin Hollow. Units in the space area remain in the space area."
 @4
 N No source found.
 @5
-E6 RAW/Community: Puppets of the Blade and Become a Martyr: "do they qualify for BecomeA Martyr? A: No."
+E6 Community consensus, Puppets of the Blade and Become a Martyr: "do they qualify for BecomeA Martyr? A: No."
 @6
-E6 "The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves."
+E6 Community consensus: "The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves."
 @7
-E6 "Malevolency (Obsidian Promissory Note): Does this go into the receiver's play area? … A: It remains in a player's hand but is mandatory during status, this is an explicit exception to all other promissory notes."
+E6 Community consensus: "Malevolency (Obsidian Promissory Note): Does this go into the receiver's play area? … A: It remains in a player's hand but is mandatory during status, this is an explicit exception to all other promissory notes."
 @8
 N No source found.
 @9
 N No source found.
 @10
-E6 "What is the interaction between Coup D'etat and the Obsidian's Planesplitter technology? A: Planesplitter would resolve before Coup D'etat is played and resolved."
+E6 Community consensus: "What is the interaction between Coup D'etat and the Obsidian's Planesplitter technology? A: Planesplitter would resolve before Coup D'etat is played and resolved."
 @11
-E6 "No space cannon against any ships moving. Only ships not transporting may move through other player's ships."
+E6 Community consensus: "No space cannon against any ships moving. Only ships not transporting may move through other player's ships."
 @12
 N No source found.
 @13
-E6 "Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes."
+E6 Community consensus: "Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes."
 @14
-E6 "If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No"
+E6 Community consensus: "If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No"
 @15
-E6 "Can you use Firmament's mech when you are the active player (to commit the Mech & start coexisting)? A: Yes"
+E6 Community consensus: "Can you use Firmament's mech when you are the active player (to commit the Mech & start coexisting)? A: Yes"
 @16
 N No source found.
 @17
-E6 "Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains."
+E6 Community consensus: "Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains."

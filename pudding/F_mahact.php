@@ -7,12 +7,12 @@
     <ol class="note">
     <li>If an agenda requires the Mahact player to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If you are the Mahact player, what happens when an agenda tells you to &lsquo;remove one of your command tokens from your fleet pool &hellip;&rsquo; but you only have tokens from&rdquo; other players? &ldquo;A: You are required to remove another player&rsquo;s token and return it to that player&rsquo;s reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are the Mahact player, what happens when an agenda tells you to &lsquo;remove one of your command tokens from your fleet pool &hellip;&rsquo; but you only have tokens from&rdquo; other players? &ldquo;A: You are required to remove another player&rsquo;s token and return it to that player&rsquo;s reinforcements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Armed Forces Standardization affect Mahact holding other players&rsquo; fleet tokens?&rdquo;: &ldquo;other players&rsquo; tokens removed go back to their owners&rsquo; reinforcements.&rdquo;</li>
         </ul></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
         </ul></li>
     <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.<sup>*</sup>
         <ul>
@@ -72,12 +72,12 @@
     <ol class="note">
     <li>A player that cannot vote due to a game effect or because they have zero influence on readied planets cannot be targeted by <i>Genetic Recombination</i>.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Genetic Recombination target a player who isn&rsquo;t voting, such as one who played a rider?&rdquo;: &ldquo;No &mdash; it triggers before a player casts votes, and a non-voter never reaches that point.&rdquo;</li>
         </ul></li>
     <ol><li>If a player then gains the ability to vote, they may then be targeted by <i>Genetic Recombination</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If they obtain an ability that would allow them to vote, they could be targeted by the tech before the votes are cast.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -113,13 +113,13 @@
     <ol class="note">
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?&rdquo;: &ldquo;the commander ends your turn as part of resolving it, so no window for other abilities opens&rdquo;</li>
         </ul></li>
     <ol>
         <li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?&rdquo;: &ldquo;the commander ends your turn as part of resolving it, so no window for other abilities opens&rdquo; No window opens for any player.</li>
         </ul></li>
         <li>If the Mahact player activates a system containing another player&rsquo;s units, they must still return any promissory notes with such an activation as the return condition.<sup>*</sup>
@@ -129,16 +129,16 @@
     </ol>
     <li>The Mahact player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;What&rsquo;s the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What&rsquo;s the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play Counterstroke on a system I activate that already has my command token?&rdquo;: &ldquo;Mahact&rsquo;s commander doesn&rsquo;t help either, since activating that way ends your turn at once with no after-activation abilities&rdquo;</li>
         </ul></li>
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology does not trigger.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? A: No.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? A: No.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -147,12 +147,12 @@
     <li>If the Mahact player moves another player&rsquo;s ships, ground forces on planets are left behind.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;move all units in its space area.&rdquo; Ground forces on planets are not in the space area.</li>
-        <li><b>Implicit</b>: <sup>4</sup> &ldquo;can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo; Stated only for the Mahact player&rsquo;s own ships.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo; Stated only for the Mahact player&rsquo;s own ships.</li>
         </ul></li>
     <ol>
         <li>If the Mahact player moves their own ships, they may transport ground forces on planets.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo;</li>
         </ul></li>
         <li>If the Mahact player moves the <a href="/F_saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup>
         <ul>
@@ -183,7 +183,7 @@
     <!--li>The Mahact player may only move the <a href="/F_empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.<sup>3,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die.&rdquo;</li>
         </ul></li>
     <ol><li>If the Mahact player is moving the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup>
@@ -200,11 +200,11 @@
         </ul></li>
     <li>The system the combat is taking place in is considered the active system during that combat.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The combat system is treated as the active system during that combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The combat system is treated as the active system during that combat.&rdquo;</li>
         </ul></li>
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;The ships being moved belong to the &lsquo;attacker&rsquo; and the ships not being moved belong to the &lsquo;defender.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The ships being moved belong to the &lsquo;attacker&rsquo; and the ships not being moved belong to the &lsquo;defender.&rsquo;&rdquo;</li>
         </ul></li>
     <ol><li>Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.<sup>*</sup>
         <ul>
@@ -240,7 +240,7 @@
     </ol>
     <li>After the ships are moved, capacity is checked before the space combat begins.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? &hellip; A: A Capacity check is resolved before the space combat begins.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? &hellip; A: A Capacity check is resolved before the space combat begins.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -248,23 +248,23 @@
     <ol class="note">
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
     <ol><li>Other players, including the Mahact player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: &ldquo;Can Mahact use their mech ability on themselves?&rdquo;: &ldquo;Can Mahact use their mech ability on themselves? A: Yes.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, &ldquo;Can Mahact use their mech ability on themselves?&rdquo;: &ldquo;Can Mahact use their mech ability on themselves? A: Yes.&rdquo;</li>
         </ul></li>
     <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If Mahact has an Arborec Command Token in their fleet pool &hellip; can the Mahact player produce a mech &hellip;? A: No, the mech was not in the system at the time of activation, so it didn&rsquo;t see the trigger for its ability.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If Mahact has an Arborec Command Token in their fleet pool &hellip; can the Mahact player produce a mech &hellip;? A: No, the mech was not in the system at the time of activation, so it didn&rsquo;t see the trigger for its ability.&rdquo;</li>
         </ul></li>
     </ol>
 

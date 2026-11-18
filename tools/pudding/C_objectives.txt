@@ -11,7 +11,7 @@ E3 Learn to Play: "To score such an objective, a player must pay the specified c
 E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
 I1 LRR 19.2: trade goods "can be spent by that player as resources, influence, or to resolve certain game effects."
 @4
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @5
 N No source found.
 @6
@@ -21,7 +21,7 @@ N No source found.
 @8
 N No source found.
 @9
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @10
 N No source found.
@@ -30,12 +30,12 @@ I2 RulesPal, "Can Become a Martyr be scored by losing a planet in another player
 @12
 N No source found.
 @13
-E4 "Secrets are scored 'after', so Become a Martyr would trigger after Shard of the Throne is lost or elimination."
+E4 Designer ruling: "Secrets are scored 'after', so Become a Martyr would trigger after Shard of the Throne is lost or elimination."
 @14
-E4 "Become a Martyr would trigger after Shard of the Throne is lost."
+E4 Designer ruling: "Become a Martyr would trigger after Shard of the Throne is lost."
 @15
 E9 Designer Q&A, "Silver Flame": "You can lose your home system from the relic to satisfy BAM."
-E6 "Does purging your home system with The Silver Flame score Become a Martyr? A: Yes."
+E6 Community consensus: "Does purging your home system with The Silver Flame score Become a Martyr? A: Yes."
 @16
 N No source found.
 @17
@@ -45,13 +45,13 @@ N No source found.
 @19
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "Become the Gatekeeper needs ships in both an alpha and a beta system, as Creuss's Quantum Entanglement only makes them adjacent."
 @20
-E4 "Does another player having my 'Trade Agreement' promissory note count for the secret objectives 'Strengthen Bonds' or 'Betray a Friend'? A: No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
+E4 Designer ruling: "Does another player having my 'Trade Agreement' promissory note count for the secret objectives 'Strengthen Bonds' or 'Betray a Friend'? A: No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
 @21
-E4 "Does the Titans of Ul promissory note 'Terraform' count …? A: Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+E4 Designer ruling: "Does the Titans of Ul promissory note 'Terraform' count …? A: Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
 @22
 N No source found.
 @23
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @24
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
@@ -60,7 +60,7 @@ E3 Learn to Play: "To score such an objective, a player must pay the specified c
 @25
 N No source found.
 @26
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @27
 N No source found.
 @28
@@ -73,7 +73,7 @@ N No source found.
 E1 LRR 39.2a: "The Ghosts of Creuss home system and the wormhole nexus are on the edge of the game board."
 E8 PoK rulebook p. 16: "The wormhole nexus and the Ghosts of Creuss' home system are on the edge of the game board for the purpose of scoring objectives."
 @32
-E4 "In maps utilizing hyperlanes … what counts as the edge of the game board? A: Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
+E4 Designer ruling: "In maps utilizing hyperlanes … what counts as the edge of the game board? A: Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
 E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."
 @33
 E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
@@ -84,7 +84,7 @@ N No source found.
 @36
 N No source found.
 @37
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @38
 N No source found.
 @39
@@ -127,7 +127,7 @@ N No source found.
 N No source found.
 @57
 E2 RulesPal, "How do Confusing and Confounding Legal Text interact with riders and Drive the Debate?": "They act before the outcome resolves, so riders and agenda-phase secrets like Drive the Debate use the final elected player."
-E4 "'Legal Text' ACs would be played before Drive the Debate can be scored."
+E4 Designer ruling: "'Legal Text' ACs would be played before Drive the Debate can be scored."
 @58
 N No source found.
 @59
@@ -144,10 +144,10 @@ N No source found.
 @63
 E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
 @64
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @65
-E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
-I6 "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus: "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
 @66
 E1 LRR 61.7: "they can only score one objective during or after each combat."
 I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
@@ -218,7 +218,7 @@ E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjac
 @93
 N No source found.
 @94
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @95
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
@@ -233,7 +233,7 @@ E2 RulesPal, "How and when are action-phase secret objectives scored?": "only on
 @100
 N No source found.
 @101
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @102
 N No source found.
 @103
@@ -243,7 +243,7 @@ N No source found.
 @105
 N No source found.
 @106
-E4 "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @107
 N No source found.
@@ -261,12 +261,12 @@ E3 Learn to Play: "To score such an objective, a player must pay the specified c
 @111
 E2 RulesPal, "Where do Saar Floating Factories go …?": "In the space area, never on a planet."
 @112
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @113
-E4 "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
-I6 On Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
 @114
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @115
 N No source found.
 @116
@@ -279,14 +279,14 @@ N No source found.
 E1 LRR 39.2a: "The Ghosts of Creuss home system and the wormhole nexus are on the edge of the game board."
 E8 PoK rulebook p. 16: "The wormhole nexus and the Ghosts of Creuss' home system are on the edge of the game board for the purpose of scoring objectives."
 @120
-E4 "Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
+E4 Designer ruling: "Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
 E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."
 @121
 E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
 @122
 N No source found.
 @123
-E4 FAQ: Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @124
 N No source found.
 @125
@@ -294,7 +294,7 @@ N No source found.
 @126
 N No source found.
 @127
-E6 "Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass."
+E6 Community consensus: "Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass."
 @128
 E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
 @129
@@ -304,12 +304,12 @@ E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the s
 I2 RulesPal: "when a copied faction upgrade covers a generic one, like Dreadnought II, only one of them counts."
 I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, what is intended." Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.
 @131
-E4 "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player's Home Systems."
+E4 Designer ruling: "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player's Home Systems."
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "Rule Distant Lands needs planets near two different players' home systems."
 @132
 N No source found.
 @133
-E4 "it does not mean 1 planet that is adjacent to 2 different Home Systems."
+E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
 @134
 E2 RulesPal, "Can I score an objective for beating 'the player with the most victory points' … if I'm the leader?": "If you lead alone, nobody else qualifies."
 @135
@@ -319,12 +319,12 @@ I2 Same entry: "when players are tied for most points, each of them counts as ha
 @137
 E2 RulesPal, "If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?": "Yes, both."
 @138
-E6 "Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence."
+E6 Community consensus: "Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence."
 I2 RulesPal, "How does coexistence work?" (general rules; does not mention Stake Your Claim).
 @139
-E4 "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
+E4 Designer ruling: "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
 @140
-E4 "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+E4 Designer ruling: "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
 @141
 E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
 @142
@@ -349,7 +349,7 @@ E1 LRR FAQ: "or by destroying a unit with capacity and allowing transported figh
 E2 RulesPal: "fighters lost to the capacity rule weren't destroyed by Space Cannon."
 I5 Designer ruling (Milty, 08/02/2018): "You can’t claim “Turn Their Fleets to Dust” in this manner." Fighters immediately destroyed for lack of capacity after PDS hits do not qualify.
 @149
-E4 "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @150
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @151
@@ -365,5 +365,5 @@ N No source found.
 @156
 N No source found.
 @157
-E4 "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
+E4 Designer ruling: "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
 E2 RulesPal: "Unveil Flagship needs your flagship to survive the combat."

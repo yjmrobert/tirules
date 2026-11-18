@@ -24,4 +24,4 @@ E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess a
 E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units."
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity, so you can't overload to destroy your own units."
 @9
-E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
+E4 Designer ruling: "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."

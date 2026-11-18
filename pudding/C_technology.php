@@ -25,15 +25,15 @@
     <li>Exploring the frontier token is mandatory if the player has a ship in the active system at the end of the tactical action.<sup>2,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;It has no &lsquo;may&rsquo;, so it is mandatory.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>8</sup> Card text: &ldquo;if you have 1 or more ships in that system, explore that token.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook card text: &ldquo;if you have 1 or more ships in that system, explore that token.&rdquo;</li>
         </ul></li>
     <li>When a player gains <i>Dark Energy Tap</i>, they do not immediately explore any frontier tokens in systems containing their ships. They must activate those systems to explore those tokens.<sup>8</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>8</sup> Card text: &ldquo;After you perform a tactical action in a system that contains a frontier token.&rdquo; Gaining the technology is not a trigger.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook card text: &ldquo;After you perform a tactical action in a system that contains a frontier token.&rdquo; Gaining the technology is not a trigger.</li>
         </ul></li>
     <ol><li>If a player moves or places a ship into a system outside of a tactical action, they cannot explore a frontier token in that system.<sup>2,8</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>8</sup> Card text: the trigger is &ldquo;After you perform a tactical action.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook card text: the trigger is &ldquo;After you perform a tactical action.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;After the tactical action ends, and only if your ships are still there.&rdquo;</li>
         </ul></li></ol>
     <li>The <a href="/F_saar">Saar</a> player cannot explore a frontier token with a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a>. However, if they produce a ship during the <b>Production</b> step, they will be able to use that ship to explore the token.<sup>*</sup>
@@ -62,7 +62,7 @@
         </ul></li>
     <li><i>Sling Relay</i> cannot be used without producing a unit.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you Sling Relay without producing anything? A: No, you must produce a ship.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you Sling Relay without producing anything? A: No, you must produce a ship.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play a component action that I can&rsquo;t fully resolve?&rdquo;: &ldquo;You can&rsquo;t &hellip; use Sling Relay with nowhere to produce.&rdquo;</li>
         </ul></li>
     </ol>
@@ -125,11 +125,11 @@
     <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Psychoarchaeology be used?&rdquo;: &ldquo;At any point in the action phase, not only on your turn, but never in the middle of resolving another player&rsquo;s ability&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> FAQ: Nekro agent / Psychoarchaeology / Hacan agent timing: &ldquo;any ability that is used &ldquo;during the action phase&rdquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Nekro agent / Psychoarchaeology / Hacan agent timing: &ldquo;any ability that is used &ldquo;during the action phase&rdquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
         </ul></li>
     <li>If multiple planets are exhausted, the trade goods are gained one at a time.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? A: You gain them one at a time.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? A: You gain them one at a time.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Psychoarchaeology give 1 trade good per planet or 1 total?&rdquo;: &ldquo;each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet&rdquo; each use gives one trade good, so multiple planets give them one at a time.</li>
         </ul></li>
     </ol>
@@ -183,7 +183,7 @@
         </ul></li>
     <li>Effects that cancel hits will only cancel hits based on the doubled number of hits.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What is the interaction between X-89 and hit cancellation &hellip;? A: X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between X-89 and hit cancellation &hellip;? A: X89 turns all hits into 2 before abilities and effects like Titan&rsquo;s agent or Proxima.&rdquo;</li>
         </ul></li>
     <li>Ground forces that are participating in space combat as though they were ships do not double the hits they produce.<sup>*</sup>
         <ul>
@@ -199,7 +199,7 @@
         </ul></li>
     <li>A player who bombards another player&rsquo;s coexisting units on a planet they control must still exhaust that planet.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes.&rdquo;</li>
         </ul></li>
     <li>A war sun must target the same planet with all three of its <a href="/R_bombardment"><sc>bombardment</sc></a> dice.<sup>2</sup>
         <ul>
@@ -227,7 +227,7 @@
         <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Bombardment is a single step, so one extra die however many planets you bombard.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&ldquo;Plasma Scoring&rdquo; only grants one additional die for each &ldquo;Bombardment&rdquo; or &ldquo;Space Cannon&rdquo; roll, and the unit benefiting from this technology must be decided before rolling.&rdquo; Bombardment is a single roll, so one unit gets the die.</li>
         </ul></li>
         <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup>
@@ -237,7 +237,7 @@
     </ol>
     <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         </ul></li>
     <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
         <ul>
@@ -327,7 +327,7 @@
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -359,7 +359,7 @@
         </ul></li>
     <li>Only units participating in the combat may be chosen to be repaired.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it repairs one of your damaged units in that combat.&rdquo;</li>
         </ul></li>
     </ol>
@@ -445,7 +445,7 @@
     <ol class="note">
     <li>The ability of <i>Predictive Intelligence</i> to cast additional votes cannot be used if it is exhausted.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -469,7 +469,7 @@
         </ul></li>
     <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;If it is being removed and placed via an ability such as Transit Diodes it stays in the same state.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If it is being removed and placed via an ability such as Transit Diodes it stays in the same state.&rdquo;</li>
         </ul></li>
     </ol>
 

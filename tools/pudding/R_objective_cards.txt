@@ -19,7 +19,7 @@ E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "Anti-Fighter Barrage, whic
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "Secret objectives marked Action Phase are scored the moment you meet them, even on another player's turn and even after you have passed."
 I1 LRR 61.5b: "When a player scores an objective during the action phase, they can do so at any time during that phase." any time in the phase, not limited to own turn.
 @6
-E4 On the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
+E4 Designer ruling, on the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 @7
 E1 LRR FAQ: "Can you intentionally reveal hidden information to another player, such as … your secret objective? A: Yes. This information is kept hidden by default, but it is permissible to reveal it."
 E2 RulesPal, "Can I show my action cards or secret objectives to other players?": "Yes — you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards."

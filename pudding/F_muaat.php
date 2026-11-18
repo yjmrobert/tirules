@@ -23,7 +23,7 @@
     <ol class="note">
     <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)? A: No, you are not resolving the ability fully if you already have the specified technology.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)? A: No, you are not resolving the ability fully if you already have the specified technology.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -130,7 +130,7 @@
         </ul></li>
     <li><i>Nova Seed</i> purges all tokens on the replaced system tile other than command tokens and frontier tokens. Any faction&ndash;specific tokens, such as <a href="/F_creuss">Creuss</a> wormhole tokens or <a href="/F_ul">Ul</a> sleeper tokens, are returned to the player that owns them instead.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;How does The Embers of Muaat Hero, Nova Seed, interact with tokens &hellip;? A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does The Embers of Muaat Hero, Nova Seed, interact with tokens &hellip;? A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.&rdquo;</li>
         </ul></li>
     <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a>.<sup>2</sup>
         <ul>
@@ -154,7 +154,7 @@
         </ul></li>
     <li><i>Nova Seed</i> cannot replace a system tile in the Fracture, such as the system containing Styx.<sup>6,9</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can the Muaat Hero, Nova Seed, be used on tiles in the Fracture? A: No, you cannot nova seed tiles which contain multiple systems.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Muaat Hero, Nova Seed, be used on tiles in the Fracture? A: No, you cannot nova seed tiles which contain multiple systems.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Styx and Novaseed&rdquo;: &ldquo;No, the fracture tiles are not able to be replaced due to their unusual shape.&rdquo;</li>
         </ul></li>
     <li>If the Muaat player moves a war sun into a system containing the <a href="/F_naalu">Naalu</a> player&rsquo;s ships, the Muaat player, as the active player, may resolve <i>Nova Seed</i> before the <a href="/F_naalu">Naalu</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight"><sc>Foresight</sc></a> faction ability.<sup>2</sup>
@@ -201,7 +201,7 @@
     </ol>
     <li>If the Muaat player moves Avernus into a supernova while another player has units on it, those units are unaffected.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Stellar Genesis (Breakthrough): If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Stellar Genesis (Breakthrough): If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -221,15 +221,15 @@
         </ul></li>
     <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: Avernus and gravity rifts: &ldquo;Avernus does not roll for gravity rift, it is not a ship.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Avernus and gravity rifts: &ldquo;Avernus does not roll for gravity rift, it is not a ship.&rdquo;</li>
         </ul></li>
     <li>If the Muaat player is eliminated, Avernus, its token, its planet card, and its legendary planet ability card remain in play.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play.&rdquo;</li>
         </ul></li>
     <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

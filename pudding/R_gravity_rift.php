@@ -49,7 +49,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;gets +1 move for that path, one per rift &hellip; Each ship that leaves or passes through a rift rolls.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook quick reference: the same text.</li>
-        <li><b>Explicit</b>: <sup>6</sup> RAW, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
         </ul></li>
     <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>*</sup>
@@ -58,12 +58,12 @@
         </ul></li>
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift &hellip;?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>
         </ul></li>
     <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>Using a <sc>Deploy</sc> ability is always optional, even if the ability&rsquo;s text does not include the word &ldquo;may&rdquo;.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Is the Iconoclast deploy ability mandatory (there is no &lsquo;may&rsquo; in the wording)? A: Deploy being a unit ability is always a may.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is the Iconoclast deploy ability mandatory (there is no &lsquo;may&rsquo; in the wording)? A: Deploy being a unit ability is always a may.&rdquo;</li>
         </ul></li>
     <li>A player may only resolve a deploy ability to place a unit that is in their reinforcements. A player cannot remove a unit from the board to use its deploy ability.<sup>1,8</sup>
         <ul>

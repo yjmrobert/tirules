@@ -132,16 +132,16 @@
         </ul></li>
     <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems; IFF not specifically mentioned.</li>
         </ul></li>
     <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> RAW/Community: &ldquo;Do neutral ships block wormhole placement?&rdquo;: &ldquo;Do neutral ships block wormhole placement? A: Yes&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Do neutral ships block wormhole placement?&rdquo;: &ldquo;Do neutral ships block wormhole placement? A: Yes&rdquo;</li>
         </ul></li>
     <li>The Creuss player may use <i>Wormhole Generator</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token &hellip;? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token &hellip;? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -199,7 +199,7 @@
         </ul></li>
     <li>The <i>Hil Colish</i> is not a wormhole token. If it is in an entropic scar, its delta wormhole is unaffected by that entropic scar.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: &hellip; there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: &hellip; there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -215,7 +215,7 @@
         </ul></li>
     <li>If this ability is used, the active system will be adjacent to systems with delta wormholes.<sup>8</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>8</sup> Prophecy of Kings Rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; all systems containing wormholes includes delta.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; all systems containing wormholes includes delta.</li>
         </ul></li>
     <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a> wormhole and chooses to do so.<sup>2</sup>
         <ul>
@@ -235,7 +235,7 @@
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> &ldquo;When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first.&rdquo;</li>
         </ul></li>
     <ol>
         <li>The Creuss player cannot remove a ground force to create capacity for a fighter.<sup>*</sup>
@@ -275,7 +275,7 @@
     <ol class="note">
     <li>Any tokens on either system are moved with their system.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> FAQ: Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo; tokens stay with tile, so move with system.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo; tokens stay with tile, so move with system.</li>
         </ul></li>
     <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup>
         <ul>
@@ -303,7 +303,7 @@
     <ol class="note">
     <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? &hellip; A: Yes, each wormhole, even wormholes of the same type,&rdquo; provides it.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? &hellip; A: Yes, each wormhole, even wormholes of the same type,&rdquo; provides it.</li>
         </ul></li>
     <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
         <ul>

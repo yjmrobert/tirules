@@ -15,7 +15,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I deliberately go over my fleet pool by moving or producing, then remove ships of my choice?&rdquo;: &ldquo;Yes &mdash; nothing stops you; you just remove the excess right away, choosing which.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Once all ships are in, fleet supply is in violation and must immediately be dealt with.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> On Auto-Factories: &ldquo;with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, on Auto-Factories: &ldquo;with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
         </ul></li>
     <ol><li>If some of those ships are fighters II, they may instead count towards that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.<sup>2</sup>
         <ul>

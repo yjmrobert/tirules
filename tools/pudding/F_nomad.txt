@@ -5,7 +5,7 @@ N No source found.
 @2
 N No source found.
 @3
-I4 "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says 'resolved with no effect'. A: 'Resolved with no effect' is not an outcome that could have been predicted, so no prediction abilities can trigger."
+I4 Designer ruling: "What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says 'resolved with no effect'. A: 'Resolved with no effect' is not an outcome that could have been predicted, so no prediction abilities can trigger."
 @4
 N No source found.
 @5
@@ -25,7 +25,7 @@ N No source found.
 @12
 N No source found.
 @13
-E4 "Does Nomad's Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite's transaction does not affect performing a second transaction with the same player that turn."
+E4 Designer ruling: "Does Nomad's Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite's transaction does not affect performing a second transaction with the same player that turn."
 @14
 N No source found.
 @15
@@ -95,7 +95,7 @@ N No source found.
 @47
 I1 LRR 40 (Game Round): "Players skip the agenda phase during the early portion of each game."
 @48
-E4 "Does the Nomad's Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? A: Yes."
+E4 Designer ruling: "Does the Nomad's Hero, Ahk-Syl Siven, allow their flagship to pick up groundforces in systems that contain their tokens? A: Yes."
 E2 RulesPal, "With the Nomad hero active, can the Memoria pick up units from systems with Nomad command tokens?": "Yes — the hero lets the flagship and the units it transports leave command-token systems."
 @49
 N No source found.
@@ -106,6 +106,6 @@ N No source found.
 @52
 N No source found.
 @53
-E4 "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat."
+E4 Designer ruling: "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat."
 @54
 N No source found.

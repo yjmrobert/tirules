@@ -13,7 +13,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;A player gains control of a space station from the deck or from another player when they are the only player that has ships in its system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do I gain and lose control of a space station?&rdquo;: &ldquo;You gain it as soon as you are the only player with ships in its system.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>6</sup> &ldquo;Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?&rsquo; Answer: &lsquo;Yes, there is no Neutral Player.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?&rsquo; Answer: &lsquo;Yes, there is no Neutral Player.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If another player moves ships into that system, they will not gain control of that space station unless they win the resulting space combat.<sup>7</sup>
@@ -28,15 +28,15 @@
     </ol>
     <li>Space stations are not planets, so attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can&rsquo;t have attachments.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can&rsquo;t have attachments.&rdquo;</li>
         </ul></li>
     <li>A player does not lose control of a space station if a neutral ship is placed in its system, as there is no neutral player.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does a player lose control of a space station if a neutral ship is placed in its system? A: No, there is no Neutral Player.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does a player lose control of a space station if a neutral ship is placed in its system? A: No, there is no Neutral Player.&rdquo;</li>
         </ul></li>
     <li>A player whose ships are in a space station&rsquo;s system with only neutral units gains control of that space station before resolving combat against those neutral units, as there is no neutral player.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Does a player gain control of a space station before combat against neutral units &hellip;? A: Yes, there is no Neutral Player.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does a player gain control of a space station before combat against neutral units &hellip;? A: Yes, there is no Neutral Player.&rdquo;</li>
         </ul></li>
     <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup>
         <ul>
@@ -53,7 +53,7 @@
     <li>A player can exhaust space stations to cast votes. However, space stations are not planets, so they cannot be elected.<sup>6,7,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations &hellip;? A: Yeah you can vote with them.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected.&rdquo;</li>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: space stations &ldquo;do not count as planets for the purpose voting, objectives, or controlling a home system.&rdquo; Read with sources 6 and 9 as covering election, not casting votes.</li>
         </ul></li>
     <li>Space Stations do not count as planets for the purpose of scoring objectives, and a player may still score public objectives even if another player controls a space station in their home system.<sup>7</sup>
