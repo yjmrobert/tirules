@@ -94,7 +94,7 @@
     <li>Suffi An does not trigger from the component action of the action card used that was to unlock her.<sup>*</sup></li>
     <ol><li>If the Keleres player can perform a second action through some other game effect (such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology), they may unlock Suffi An by playing an action card with a component action for their first action, then perform a second component action, which will then allow them to perform a third action because of Suffi An.<sup>*</sup></li></ol>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use Suffi An to perform an additional action.<sup>*</sup></li>
-    <li>A player cannot use Suffi An to pass on the same turn they performed an action.<sup>*</sup></li>
+    <li>A player cannot use Suffi An to pass on the same turn they performed an action.<sup>1</sup></li>
     <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate additional action on that turn.<sup>*</sup></li>
     </ol>
 

@@ -35,7 +35,7 @@
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.<sup>2</sup></li>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Fleet Logistics</i> to perform an additional action.<sup>2</sup></li>
-    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>*</sup></li>
+    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>1</sup></li>
     <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>2</sup></li>
     <li>If a player&rsquo;s first action is a strategic action, the other players resolve the secondary ability of that strategy card before the player performs their second action.<sup>2</sup></li>
     </ol>

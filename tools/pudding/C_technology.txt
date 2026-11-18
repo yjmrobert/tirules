@@ -31,7 +31,7 @@ E2 RulesPal, "Can I use a technology right after researching it, such as Fleet L
 @13
 I2 RulesPal, "When must Xxcha use Nullification Field": "Once the turn ends, nothing more happens in it."
 @14
-N No source found.
+I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
 @15
 E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
 @16

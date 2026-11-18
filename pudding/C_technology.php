@@ -81,9 +81,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When must Xxcha use Nullification Field&rdquo;: &ldquo;Once the turn ends, nothing more happens in it.&rdquo;</li>
         </ul></li>
-    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>*</sup>
+    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 3.1: &ldquo;During a player&rsquo;s turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action.&rdquo; LRR 3.2: &ldquo;If a player cannot perform an action, they must pass.&rdquo; Passing is not one of the three actions, so an additional action cannot be a pass.</li>
         </ul></li>
     <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>2</sup>
         <ul>
