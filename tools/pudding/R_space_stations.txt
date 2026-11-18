@@ -24,7 +24,7 @@ E7 Same passage: "structures and ground forces cannot be placed on or committed 
 @10
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations …? A: Yeah you can vote with them."
 E6 "Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected."
-N7 Conflicts: Thunder's Edge Rulebook p. 10 says space stations "do not count as planets for the purpose voting, objectives, or controlling a home system." The site follows the Designer Q&A.
+I7 Thunder's Edge Rulebook p. 10: space stations "do not count as planets for the purpose voting, objectives, or controlling a home system." Read with sources 6 and 9 as covering election, not casting votes.
 @11
 E7 Thunder's Edge Rulebook p. 10: they "do not count as planets for the purpose voting, objectives, or controlling a home system."
 @12
