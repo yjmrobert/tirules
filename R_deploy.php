@@ -15,11 +15,13 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>Using a <sc>Deploy</sc> ability is always optional, even if the ability&rsquo;s text does not include the word &ldquo;may&rdquo;.<sup>6</sup></li>
+    <li>A player may only resolve a deploy ability to place a unit that is in their reinforcements. A player cannot remove a unit from the board to use its deploy ability.<sup>1,8</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
+    <li><a href="/R_component_limitations">Component Limitations</a></li>
     <li><a href="/R_mechs">Mechs</a></li>
     <li><a href="/R_reinforcements">Reinforcements</a></li>
     </ul>
