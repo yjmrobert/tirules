@@ -184,6 +184,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement.&rdquo;</li>
         </ul></li>
+    <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;can a slow ship copy a value, then get the +1 from Gravity Drive? &hellip; A: No the copy happens after gravity drive.&rdquo;</li>
+        </ul></li>
+    <li>The +1 to move value from moving out of or through a gravity rift is not included in the move value copied by <i>Gravleash Maneuvers</i>.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus.&rdquo;</li>
+        </ul></li>
     <li>The combat bonus of <i>Gravleash Maneuvers</i> is assigned to a ship during the <b>Roll Dice</b> step of combat, and only applies to combat rolls. It does not apply to anti&ndash;fighter barrage rolls.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is &lsquo;before you roll dice&rsquo; literal i.e. does it apply to AFB rolls? &hellip; A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls.&rdquo;</li>
@@ -195,14 +203,6 @@
     <li>If the <a href="/F_nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? &hellip; A: Yes, Barony can assign to a&rdquo; new ship.</li>
-        </ul></li>
-    <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;can a slow ship copy a value, then get the +1 from Gravity Drive? &hellip; A: No the copy happens after gravity drive.&rdquo;</li>
-        </ul></li>
-    <li>The +1 to move value from moving out of or through a gravity rift is not included in the move value copied by <i>Gravleash Maneuvers</i>.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

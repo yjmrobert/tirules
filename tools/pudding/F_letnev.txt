@@ -68,12 +68,12 @@ N No source found.
 @30
 E6 Community consensus: "What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement."
 @31
-E6 Community consensus: "Is 'before you roll dice' literal i.e. does it apply to AFB rolls? … A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls."
-@32
-E6 Community consensus: "if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus."
-@33
-E6 Community consensus: "If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? … A: Yes, Barony can assign to a" new ship.
-@34
 E6 Community consensus: "can a slow ship copy a value, then get the +1 from Gravity Drive? … A: No the copy happens after gravity drive."
-@35
+@32
 E6 Community consensus: "How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus."
+@33
+E6 Community consensus: "Is 'before you roll dice' literal i.e. does it apply to AFB rolls? … A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls."
+@34
+E6 Community consensus: "if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus."
+@35
+E6 Community consensus: "If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? … A: Yes, Barony can assign to a" new ship.
