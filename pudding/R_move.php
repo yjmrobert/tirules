@@ -5,9 +5,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>2</sup>
+    <li>When an effect, such as retreating, moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo; The cited entry (Benediction) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
         </ul></li>
     </ol>
 </article>
