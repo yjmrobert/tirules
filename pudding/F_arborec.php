@@ -5,10 +5,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Abilities:~:text=Mitosis">Mitosis</a></h2>
     <ol class="note">
-    <li>If the Arborec player produces one or more units with a space dock, and produces any infantry with their Letani Warriors, the produced infantry may be placed on the same planet as the space dock, regardless of if that planet contains any Letani Warriors.<sup>2</sup>
+    <li>If the Arborec player produces units with both a space dock and Letani Warriors in the same system, any infantry they produce must be placed on a planet that contains a Letani Warrior.<sup>2,5</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Where are produced ground forces placed?&rdquo;: &ldquo;On a planet that holds a unit that used Production &hellip; With several producing planets you may split them among those planets however you like.&rdquo;</li>
-        <li><b>Unverified</b>: <sup>5</sup> Possible conflict: Designer ruling on pooled Letani production: &ldquo;the infantry must be placed on a planet that has a Letani Warrior on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vidyaraja, Sep 18, 2017): &ldquo;Letani Warriors in the same system can pool their production. You can use them to produce infantry in the way that you described (though the infantry must be placed on a planet that has a Letani Warrior on it).&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Arborec infantry Production work?&rdquo;: &ldquo;Arborec space docks can never produce infantry, so infantry output is capped by the Letani Warriors&rsquo; own Production.&rdquo;</li>
         </ul></li>
     <li>The Arborec player may produce <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a> with their space docks.<sup>2</sup>
         <ul>

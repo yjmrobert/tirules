@@ -1,6 +1,6 @@
 @0
-I2 RulesPal, "Where are produced ground forces placed?": "On a planet that holds a unit that used Production … With several producing planets you may split them among those planets however you like."
-N5 Possible conflict: Designer ruling on pooled Letani production: "the infantry must be placed on a planet that has a Letani Warrior on it."
+E5 Designer ruling (Vidyaraja, Sep 18, 2017): "Letani Warriors in the same system can pool their production. You can use them to produce infantry in the way that you described (though the infantry must be placed on a planet that has a Letani Warrior on it)."
+I2 RulesPal, "How does Arborec infantry Production work?": "Arborec space docks can never produce infantry, so infantry output is capped by the Letani Warriors' own Production."
 @1
 I2 RulesPal, "How does Arborec infantry Production work?": "Arborec space docks can never produce infantry." Mechs are not infantry.
 @2

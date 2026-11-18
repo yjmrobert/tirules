@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Abilities:~:text=Mitosis">Mitosis</a></h2>
     <ol class="note">
-    <li>If the Arborec player produces one or more units with a space dock, and produces any infantry with their Letani Warriors, the produced infantry may be placed on the same planet as the space dock, regardless of if that planet contains any Letani Warriors.<sup>2</sup></li>
+    <li>If the Arborec player produces units with both a space dock and Letani Warriors in the same system, any infantry they produce must be placed on a planet that contains a Letani Warrior.<sup>2,5</sup></li>
     <li>The Arborec player may produce <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a> with their space docks.<sup>2</sup></li>
     </ol>
 
