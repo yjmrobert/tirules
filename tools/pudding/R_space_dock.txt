@@ -5,3 +5,5 @@ E2 RulesPal, "Are PDS and space docks ground forces?": "No — PDS and space doc
 E1 LRR 95.1a: "These transported units remain with the transporting ship until it is finished moving."
 E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "No — only while moving."
 I5 Designer ruling (sigmazero13, Aug 24, 2018): "The intent is that the units are dropped off after the ship has ended its movement in the active system." Units stay aboard until movement ends.
+@2
+I1 LRR 95.1a: "These transported units remain with the transporting ship until it is finished moving." Ground forces are picked up while the ship is moving, before the fighters can be reassigned.
