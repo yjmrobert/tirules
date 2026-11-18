@@ -74,7 +74,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;What happens in the rare situation that, when Thunder&rsquo;s Edge is due to be placed, every system &hellip;? A: Place Thunder&rsquo;s Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova.&rdquo;</li>
         </ul></li>
-        <li><a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> may be placed in a system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, provided that system contains no other planets.<sup>6</sup>
+        <li><a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> may be placed in a system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, provided that system contains no other planets (and meets the other requirements).<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can Thunder&rsquo;s Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements.&rdquo;</li>
         </ul></li>
