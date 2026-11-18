@@ -224,7 +224,7 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Plasma Scoring: &ldquo;When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,6</sup>
+        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Bombardment is a single step, so one extra die however many planets you bombard.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>

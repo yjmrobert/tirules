@@ -733,7 +733,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe">Occupy the Fringe</a></h2>
     <ol class="note">
-    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>*</sup>
+    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where do Saar Floating Factories go &hellip;?&rdquo;: &ldquo;In the space area, never on a planet.&rdquo;</li>
         </ul></li>

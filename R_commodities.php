@@ -23,7 +23,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A player starts the game with zero commodities.<sup>2</sup></li>
-    <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>2</sup></li>
+    <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

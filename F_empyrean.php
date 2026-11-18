@@ -64,7 +64,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>5</sup></li>
+    <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>2,5</sup></li>
     <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.<sup>*</sup></li>
     <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.<sup>*</sup></li>
     <li>If the Empyrean player moves a ship into a system containing one of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="/F_saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>*</sup></li>

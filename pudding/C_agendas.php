@@ -401,7 +401,7 @@
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>*</sup>
+        <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a technology I just researched &hellip; count as a prerequisite?&rdquo;: &ldquo;the first technology from the Technology primary counts for the second.&rdquo;</li>
         </ul></li>
@@ -491,7 +491,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 24.4a: &ldquo;If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         </ul></li></ol>
-    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>*</sup>
+    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> The overturned designer ruling: &ldquo;&rsquo;replacing&rsquo; does not trigger the L1Z1X Minister of Industry, only effects that say &lsquo;place&rsquo; do.&rdquo;</li>

@@ -48,7 +48,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window.&rdquo;</li>
         </ul></li>
-    <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>*</sup>
+    <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Exotrireme II use its ability?&rdquo;: &ldquo;Each Exotrireme II has its own copy, resolved one at a time.&rdquo;</li>
         </ul></li></ol>

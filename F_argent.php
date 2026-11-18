@@ -59,9 +59,9 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Mirik%20Aun%20Sissiri">Mirik Aun Sissiri</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Helix%20Protocol">Helix Protocol</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Fighters may be moved without being transported.<sup>*</sup></li>
-    <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.<sup>*</sup></li>
+    <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.<sup>2</sup></li>
     <li>Ships may transport units out of systems that contain one of the Argent player&rsquo;s command tokens.<sup>4</sup></li>
-    <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>*</sup></li>
+    <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup></li>
     <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>2</sup></li>
     </ol>
 

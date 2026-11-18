@@ -100,7 +100,7 @@
     <ol class="note">
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.<sup>1,2,3</sup></li>
     <ol>
-        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,6</sup></li>
+        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,2,6</sup></li>
         <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
     </ol>
     <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup></li>

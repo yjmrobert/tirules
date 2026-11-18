@@ -188,7 +188,7 @@ li.ixth:before
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
-        <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>*</sup></li>
+        <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>2</sup></li>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
@@ -226,7 +226,7 @@ li.ixth:before
     <li>The produced units must be paid for.<sup>1</sup></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup></li>
     <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on the game board, they may first remove a space dock from a system that does not contain their command token.<sup>1</sup></li></ol>
-    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>*</sup></li>
+    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup></li>
     <li>Moving the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup></li>
     </ol>
 

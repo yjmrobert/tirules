@@ -131,7 +131,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.<sup>*</sup>
+    <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;from any number of systems for the Argent hero, ignoring command tokens in the systems they leave.&rdquo;</li>
         </ul></li>
@@ -139,7 +139,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
-    <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>*</sup>
+    <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;no path or move value &hellip; The ships can carry units starting with them, but can&rsquo;t pick up along a path.&rdquo;</li>
         </ul></li>

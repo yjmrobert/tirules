@@ -27,7 +27,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1</sup></li>
+    <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1,2</sup></li>
     <li>When an ability moves a player&rsquo;s ships outside of a tactical action, those ships may transport units out of systems that contain that player&rsquo;s command tokens; this restriction only applies during tactical actions.<sup>1,2,4</sup></li>
     <ol><li>During a retreat, units may be transported from the active system.<sup>5,10</sup></li></ol>
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.<sup>1,5</sup></li>

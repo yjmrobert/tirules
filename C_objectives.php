@@ -360,7 +360,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe">Occupy the Fringe</a></h2>
     <ol class="note">
-    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>*</sup></li>
+    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Occupy%20the%20Seat%20of%20the%20Empire">Occupy the Seat of the Empire</a></h2>

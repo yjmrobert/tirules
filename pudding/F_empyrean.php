@@ -145,7 +145,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>5</sup>
+    <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can players make transactions with non-neighbors during the agenda phase?&rdquo;: &ldquo;That doesn&rsquo;t make them neighbors for anything else, as the developer confirmed when asked about Mentak&rsquo;s Pillage.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 01/17/2019): &ldquo;Simply being in the agenda phase does not confer neighbor status to all players.&rdquo;</li>

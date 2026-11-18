@@ -66,7 +66,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If the Winnu player places a Reclaimer with the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup></li>
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup></li>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup></li>
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.<sup>*</sup></li>
     <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, or some exploration cards.<sup>*</sup></li>
     </ol>

@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.<sup>2</sup>
+    <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 100.2: &ldquo;After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do players reach the Wormhole Nexus &hellip;?&rdquo;: &ldquo;Once a unit enters or someone gains Mallice, the Nexus flips.&rdquo;</li>

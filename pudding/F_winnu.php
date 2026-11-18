@@ -136,7 +136,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End, can the Winnu mech ability then place a space dock?&rdquo;: &ldquo;No &mdash; Hope&rsquo;s End resolves at the end of your turn, after the window where the mech&rsquo;s ability triggers.&rdquo;</li>
         </ul></li>
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>*</sup>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>
