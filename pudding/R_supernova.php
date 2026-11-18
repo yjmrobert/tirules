@@ -18,6 +18,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;A supernova can be activated; it only stops ships moving into or through it &hellip; and ships can always move out.&rdquo;</li>
         </ul></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a> planet can be placed in a supernova, as nothing prevents a planet from being in a supernova.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;Yes to all. Nothing stops a planet being in a supernova, and an exploration card can give you the Mirage there.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>
