@@ -167,7 +167,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?&rdquo;: &ldquo;it is destroyed before anything can be done.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Saar Floating Factories move and produce in the same action, and how many can share a system?&rdquo;: &ldquo;A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;it is destroyed, though the space cannons can certainly attempt to avenge it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (garfielder, Sep 19 2017), asked whether &ldquo;lonely Space Dock can still be saved if all enemy ships destroyed by Space Cannon fire&rdquo;: &ldquo;I&rsquo;m afraid not&mdash;if the Saar Space dock was alone when the ships move in, it is destroyed, though the space cannons can certainly attempt to avenge it.&rdquo;</li>
         </ul></li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.<sup>*</sup>
         <ul>

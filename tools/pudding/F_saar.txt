@@ -74,7 +74,7 @@ E5 Designer ruling (garfielder, Sep 19 2017): "if the Saar Space dock was alone 
 @31
 E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "it is destroyed before anything can be done."
 E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships."
-E5 Designer ruling: "it is destroyed, though the space cannons can certainly attempt to avenge it."
+E5 Designer ruling (garfielder, Sep 19 2017), asked whether "lonely Space Dock can still be saved if all enemy ships destroyed by Space Cannon fire": "I'm afraid not—if the Saar Space dock was alone when the ships move in, it is destroyed, though the space cannons can certainly attempt to avenge it."
 @32
 N No source found.
 @33
