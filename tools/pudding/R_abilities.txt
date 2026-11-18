@@ -28,6 +28,7 @@ E5 Designer ruling (kaiteinomen, Sep 20, 2017): "The order would be 5, 6, 7, 1, 
 @11
 E1 LRR 1.19: "each player takes a turn resolving an ability … This process continues until each player has resolved each ability that they wish to resolve."
 E5 Designer ruling: "You keep going around the circle/sequence until everybody passes simultaneously. … Dane: Regarding your question, option 2 is the intended method of resolution."
+I2 RulesPal, "If both players have the same 'after a round of space combat' ability, such as two Exotrireme II dreadnoughts, who resolves first?": "alternating one ability at a time until nobody wants to resolve more"
 @12
 I1 LRR 1.19: players take turns, one ability at a time.
 @13

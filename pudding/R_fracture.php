@@ -54,6 +54,7 @@
     <li>When The Fracture is brought into play, several ingress tokens will be placed on the game board. Several systems in The Fracture contain a printed egress. Each ingress is adjacent to each egress, and vice versa. An ingress is not adjacent to an ingress and an egress is not adjacent to an egress.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;A system that contains an ingress is adjacent to each system in The Fracture that contains an egress. However, ingress systems are not adjacent to other ingress systems, and egress systems are not adjacent to other egress systems.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ships move from an egress back to an ingress to leave The Fracture?&rdquo;: &ldquo;ingress and egress adjacency works both ways, like wormholes, except ingresses aren&rsquo;t adjacent to other ingresses and egresses aren&rsquo;t adjacent to other egresses&rdquo;</li>
         </ul></li>
     <ol><li>With sufficient movement, a ship could move from a system containing an ingress in the regular game map, into a system containing an egress within The Fracture, and then out to a different system containing an ingress in the regular game map. A ship could also do the reverse to travel from an egress to a different egress via an ingress.<sup>2</sup>
         <ul>
@@ -70,6 +71,7 @@
     <li>If a different game effect places The Fracture into play, or The Fracture enters play because of the <a href="/F_nekro">Nekro</a> player&rsquo;s breakthrough (which does not have a synergy), then the player that caused The Fracture to enter play chooses one planet with a technology specialty for each of the four colors of technology, and places ingress tokens in each of those planets&rsquo; systems.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets&rsquo; systems.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Who places ingress tokens when Rapid Mobilization brings the Fracture in?&rdquo;: &ldquo;the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able&rdquo; About Rapid Mobilization; Nekro not named.</li>
         </ul></li>
     <li>If one system contains two planets with a technology specialty, only one of those planets may be chosen when placing ingress tokens.<sup>7</sup>
         <ul>

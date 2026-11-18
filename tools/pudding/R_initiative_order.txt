@@ -7,17 +7,25 @@ E1 LRR 48.1: "Initiative order is determined by the initiative numbers on strate
 E3 Learn to Play: "Each strategy card has a number between '1' and '8' in the upper-right corner."
 @2
 I3 The initiative number is printed on each strategy card (Learn to Play: "a number between '1' and '8' in the upper-right corner").
+E1 LRR 52 (Leadership strategy card): "This card's initiative value is '1.'"
 @3
 I3 Printed on the card.
+E1 LRR 32 (Diplomacy strategy card): "This card's initiative value is '2.'"
 @4
 I3 Printed on the card.
+E1 LRR 66 (Politics strategy card): "This card's initiative value is '3.'"
 @5
 I3 Printed on the card.
+E1 LRR 24 (Construction strategy card): "This card's initiative value is '4.'"
 @6
 I3 Printed on the card.
+E1 LRR 92 (Trade strategy card): "This card's initiative value is '5.'"
 @7
 I3 Printed on the card.
+E1 LRR 99 (Warfare strategy card): "This card's initiative value is '6.'"
 @8
 I3 Printed on the card.
+E1 LRR 91 (Technology strategy card): "This card's initiative value is '7.'"
 @9
 I3 Printed on the card.
+E1 LRR 45 (Imperial strategy card): "This card's initiative value is '8.'"

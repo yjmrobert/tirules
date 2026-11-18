@@ -4,6 +4,7 @@ E11 Codex IV, Book of Latvinia: "When you gain this card, research up to 2 techn
 E11 Codex IV, Book of Latvinia: "When you gain this card, research up to 2 technologies that have no prerequisites." "Up to" allows one.
 @2
 E6 "Can a tier one … technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip …? A: No, only techs with no printed prerequisites may be researched."
+I11 Codex IV, Book of Latvinia: "technologies that have no prerequisites" Book of Latvinia card text; only techs with no printed prerequisites qualify.
 @3
 N No source found.
 @4

@@ -99,7 +99,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor">The Alastor</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.<sup>1,4</sup></li>
+    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.<sup>1</sup></li>
     <ol>
         <li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology.<sup>1</sup></li>
         <li>The <a href="/F_winnu">Winnu</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Salai%20Sai%20Corian"><i>Salai Sai Corian</i></a>, will roll one dice for each infantry the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.<sup>1,2</sup></li>

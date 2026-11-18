@@ -21,6 +21,7 @@
         <li>If a game effect instructs a player to coexist on a planet they do control, then another player will gain control of that planet (which will exhaust that planet).<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;if they already controlled it, the player they are now coexisting with gains control of it instead, exhausted.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo;: &ldquo;if they held it, they lose control&rdquo;</li>
         </ul></li>
     <li>All coexisting units are blockaded, including units that are not structures, such as mechs with the <a href="/R_production"><sc>Production</sc></a> ability.<sup>6,9</sup>
         <ul>
@@ -53,6 +54,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting structures are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;coexisting units are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A: &ldquo;Coexisting units &hellip; are always blockaded.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo;: &ldquo;Coexisting structures still work but count as blockaded&rdquo;</li>
         </ul></li>
     <li>If additional units are added to those already coexisting, by, for example, committing additional ground forces during an invasion, or resolving an effect that allows a unit to be placed directly on a planet, the added units immediately coexist.<sup>7</sup>
         <ul>
@@ -62,6 +64,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;If a player&rsquo;s coexisting units become the only units on a planet, that player gains control of the planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence Control Default (With Multiple Coexisting Players).&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> &ldquo;control is exchanged immediately after the coexisting player becomes the only player with units on the planet&rdquo;</li>
         </ul></li>
     <li>When a player uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup>
         <ul>
@@ -80,10 +83,12 @@
     <li>A player who controls a planet may start a ground combat against a coexisting player during the invasion step of a tactical action.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting units can have combat initiated against them by units being committed to the planet that contains them, including units that they were already coexisting with.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> &ldquo;if you own the planet, or win ground combat against the planet&rsquo;s owner you can attack other players who were already in coexistence at the start of this turn&rdquo;</li>
         </ul></li>
     <li>A player who is coexisting on a planet may start a ground combat against the player that controls that planet during the invasion step of a tactical action.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;a coexisting player may choose to end their coexistence by activating the coexisting unit&rsquo;s system and committing the coexisting units against the planet they are coexisting on.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a coexisting player end coexistence and attack?&rdquo;: &ldquo;activate the system and commit the coexisting units against the planet; win the ground combat and you take control as normal&rdquo;</li>
         </ul></li>
     <li>A player who had no units on a planet, but commits 1 or more ground forces during the invasion step of a tactical action must start a ground combat against the player that controls that planet (unless they have an ability that would allow them to coexist).<sup>7</sup>
         <ul>
@@ -98,6 +103,7 @@
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Yes, coexist&rsquo;s control counts for any rule regarding &lsquo;scoring objectives&rsquo;.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence, Perspective During Scoring&rdquo;: &ldquo;the coexisting player sees both themselves and the controlling player as controlling that planet when scoring objectives.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When scoring objectives&rdquo; a coexisting player counts as controlling the planet.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo;: &ldquo;they count as controlling it for objectives and neighbors&rdquo;</li>
         </ul></li>
     <li>If multiple players are coexisting on a planet and the player that controls that planet no longer has units on it, control passes to the next coexisting player in the order used to resolve abilities in the current phase: initiative order during the action phase, otherwise clockwise order.<sup>6,9</sup>
         <ul>
@@ -107,6 +113,7 @@
     <li>When scoring an objective, the player that controls a planet does not count a coexisting player as also controlling it; the coexisting player considers both themselves and the controlling player to control that planet.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence, Perspective During Scoring&rdquo;: &ldquo;Only the coexisting player counts themselves as controlling that planet. The player the coexisting player is coexisting with does not count the coexisting player as also controlling that planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> &ldquo;Control via coexistence is only seen by the player coexisting, so the other players see 3 planets controlled&rdquo;</li>
         </ul></li>
     <li>A player may score public objectives even if they coexist on, but do not control, each planet in their home system.<sup>6,9</sup>
         <ul>
@@ -116,6 +123,7 @@
     <li>A player must control a planet, not merely coexist on it, to explore it.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist and Exploration&rdquo;: &ldquo;You must control a planet outright to explore it.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> &ldquo;You cannot explore a planet owned by another player&rdquo;</li>
         </ul></li>
     <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source"><i>Volatile Fuel Source</i></a>.<sup>9</sup>
         <ul>
@@ -124,6 +132,7 @@
     <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <a href="/R_bombardment"><sc>Bombardment</sc></a>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist Control Default (During Invasions)&rdquo;: &ldquo;During invasion, control default due to coexistence does not occur until the establish control step. The invading player may land ground forces and take control of the planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> &ldquo;During the Invasion step of a tactical action, control is not exchanged until the Establish Control step&rdquo; Does not state that the coexisting player remains.</li>
         </ul></li>
     <li>Coexisting units may use their <a href="/R_production"><sc>Production</sc></a> ability to produce ground forces, but cannot produce ships.<sup>9</sup>
         <ul>

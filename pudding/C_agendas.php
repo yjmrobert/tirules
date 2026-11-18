@@ -292,6 +292,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban in the sense that it is creating a second, separate and more extensive method of adjacency.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;What does Enforced Travel Ban do&rdquo;: &ldquo;It also cancels the adjacency from Lost Star Chart for movement.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Lost Star Chart work, including with Enforced Travel Ban?&rdquo;: &ldquo;It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban.&rdquo;</li>
         </ul></li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.<sup>2</sup>
         <ul>

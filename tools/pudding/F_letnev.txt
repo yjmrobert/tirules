@@ -16,6 +16,7 @@ E3 Learn to Play: "The active player may negotiate only once with each of their 
 E4 "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
 @7
 E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes."
+I3 Learn to Play: "they may negotiate a transaction with one or more of their neighbors, even during a combat." Covers receiving it during combat, not playing it immediately.
 @8
 I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
 I1 LRR FAQ: "As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player’s turn." transactions require the active player, so the defender cannot receive the card.

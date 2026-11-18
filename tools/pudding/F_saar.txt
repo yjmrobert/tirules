@@ -21,6 +21,7 @@ E2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay fo
 N No source found.
 @10
 E2 RulesPal, "How does Saar's Chaos Mapping production work?": "At the start of each of your turns, including the turn you pass, you may produce one unit."
+E1 LRR FAQ: "'Chaos Mapping' can be used as many times as you have turns during the action phase."
 @11
 E1 LRR FAQ: "Can the Clan of Saar's 'Chaos Mapping' faction-specific technology be used on the turn that the Saar player passes? A: Yes."
 E2 RulesPal: "including the turn you pass."
@@ -45,6 +46,7 @@ E2 RulesPal, "Are Saar Floating Factories ships …?": "every ability that affec
 I5 Designer ruling (Jan 2018) on Floating Factory movement.
 @20
 E2 RulesPal, "Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?": "they get Gravity Drive, Flank Speed and rift bonuses, and he later confirmed they roll when leaving a gravity rift."
+E5 Designer ruling: "You still would roll for the Floating Factory."
 @21
 I2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "If it is alone with enemy ships, it is destroyed."
 I5 Designer ruling (garfielder, Sep 19 2017): "As a rule, in any situation where a Floating Factory is alone with enemy ships, it is destroyed before it can retreat." Factory with no surviving Saar ships is alone with enemies.
@@ -72,6 +74,7 @@ E5 Designer ruling (garfielder, Sep 19 2017): "if the Saar Space dock was alone 
 @31
 E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "it is destroyed before anything can be done."
 E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships."
+E5 Designer ruling: "it is destroyed, though the space cannons can certainly attempt to avenge it."
 @32
 N No source found.
 @33
@@ -81,6 +84,7 @@ I2 RulesPal, "Can Saar Floating Factories move and produce in the same action, a
 E5 Designer ruling (Yin4Life, 12/10/2018): "No, only if you stop in the system."
 @35
 E2 RulesPal, "What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?": "If other Saar ships, even fighters, are with it, it can retreat or Skilled Retreat with them as long as it is never left alone with enemy ships."
+E5 Designer ruling: "The space dock can attempt to retreat with the other ships (in this case—just its own fighters)."
 @36
 E2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "Any number can share a system."
 @37

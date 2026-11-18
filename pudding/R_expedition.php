@@ -68,6 +68,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;the player who claimed the final slice flips Thunder&rsquo;s Edge to its planet side and places it in a system of their choice that does not contain a planet, a supernova, or a printed wormhole.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge expedition finish, and who gets the planet?&rdquo;: &ldquo;that player must flip Thunder&rsquo;s Edge and place it in a system with no planet &hellip; supernova or printed wormhole.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> &ldquo;Place Thunder&rsquo;s Edge into a system with a printed wormhole following the other restrictions.&rdquo; The question lists the restrictions, including The Fracture.</li>
         </ul></li>
         <li>If there is no system that meets all of these requirements, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed in a system with a printed wormhole that meets the other requirements. If this is still impossible, it may be placed in a supernova.<sup>6</sup>
         <ul>

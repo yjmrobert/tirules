@@ -788,6 +788,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Feb 2018): &ldquo;Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;What does Enforced Travel Ban do&rdquo;: &ldquo;It also cancels the adjacency from Lost Star Chart for movement.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Lost Star Chart work, including with Enforced Travel Ban?&rdquo;: &ldquo;It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban.&rdquo;</li>
         </ul></li>
     <ol><li>A player may move from a system containing an alpha wormhole to a system containing an alpha wormhole, and similarly for beta wormholes.<sup>5</sup>
         <ul>
@@ -950,7 +951,7 @@
         </ul></li>
     <li>A player may move ships into a supernova. After moving into, those ships may remain there and move out during a later action without harm.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can move into or through a supernova?&rdquo;: &ldquo;A supernova never destroys ships already there.&rdquo; The cited entry (Warfare) does not address supernovas.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;A supernova can be activated; it only stops ships moving into or through it, so placing structures, producing, committing ground forces with the Sardakk commander, or entering with Nav Suite all work, and ships can always move out.&rdquo;</li>
         </ul></li>
     <li>Other players cannot ignore the effect of anomalies during this tactical action.<sup>*</sup>
         <ul>

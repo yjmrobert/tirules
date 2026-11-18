@@ -110,6 +110,7 @@ E2 RulesPal, "What exactly does Creuss's Quantum Entanglement connect …?": "no
 @51
 E5 Designer ruling: "Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban in the sense that it is creating a second, separate and more extensive method of adjacency."
 N2 Conflicts: RulesPal, "What does Enforced Travel Ban do": "It also cancels the adjacency from Lost Star Chart for movement."
+E2 RulesPal, "How does Lost Star Chart work, including with Enforced Travel Ban?": "It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban."
 @52
 E2 RulesPal, "Where can my ships retreat to?": "Under Enforced Travel Ban, alpha and beta wormholes give no adjacency for a retreat."
 @53

@@ -1,6 +1,7 @@
 @0
 E2 RulesPal, "Can I mark an objective as soon as I meet it and score it later …?": "You must qualify at the moment you score. Status-phase objectives check the condition then." The cited entry (scoring order in combat) is less direct.
 E1 LRR 61.5a: "When a player scores an objective during the status phase, they must fulfill the requirement on the card during the “Score Objectives” step of the status phase to score that objective."
+E3 Learn to Play: "requirement on the card during the 'Score Objectives' step of the status phase to score that objective."
 @1
 E2 RulesPal, "Do revealed public objectives stay in play, and can several players score the same one?": "Any number of players can score each, but each player scores a given objective only once."
 E3 Learn to Play: "Any number of players can score each of these objectives."

@@ -31,6 +31,7 @@
         <li>If the two systems are adjacent because of two types of wormholes, the player chooses which type of wormhole the ship moves through.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip, and does using a matching wormhole in the same system flip it?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use&rdquo;</li>
         </ul></li>
         <li>A player may move a ship back and forth through a wormhole between two systems any number of times, if its movement value is high enough.<sup>*</sup>
         <ul>

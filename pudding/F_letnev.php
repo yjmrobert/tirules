@@ -52,6 +52,7 @@
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;they may negotiate a transaction with one or more of their neighbors, even during a combat.&rdquo; Covers receiving it during combat, not playing it immediately.</li>
         </ul></li>
     <ol>
         <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup>

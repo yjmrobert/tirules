@@ -9,6 +9,7 @@ I2 "If all my space docks or PDS are on the board, can I place another?": "if no
 @3
 I1 LRR 23.4a: a player "can remove" a unit; it is optional.
 I4 "'replace' can be considered to say 'remove and place' if no units are left in reinforcements."
+I2 RulesPal, "If my reinforcements are empty, must I take units from the board to place a new one?": "you are not required to" Entry names L1Z1X Assimilate.
 @4
 E6 "Do the L1Z1X replace coexisting structures when they gain control of a planet? A: Yes."
 @5

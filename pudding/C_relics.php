@@ -16,6 +16,7 @@
     <li>A player cannot gain a technology with a prerequisite by ignoring that prerequisite, such as by exhausting a planet with a technology specialty.<sup>6,11</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Can a tier one &hellip; technology be researched when drawing the Book of Latvinia by ignoring the prerequisite with a tech skip &hellip;? A: No, only techs with no printed prerequisites may be researched.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>11</sup> Codex IV, Book of Latvinia: &ldquo;technologies that have no prerequisites&rdquo; Book of Latvinia card text; only techs with no printed prerequisites qualify.</li>
         </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player draws the <i>Book of Latvinia</i>, they will gain six command tokens and zero technologies, even if they own all technologies without prerequisites.<sup>*</sup>
         <ul>

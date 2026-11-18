@@ -105,6 +105,7 @@
     <li>The N&rsquo;orr player may only commit ground forces as the active player.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Sardakk N&rsquo;orr player commit ground forces via their commander, G&rsquo;hom Sek&rsquo;kus, on defense? A: No, only the active player can commit ground forces.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Sardakk commander be used when defending?&rdquo;: &ldquo;only the active player commits ground forces&rdquo;</li>
         </ul></li>
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup>
         <ul>

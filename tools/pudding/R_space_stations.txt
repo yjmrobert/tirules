@@ -3,6 +3,7 @@ E7 Thunder's Edge Rulebook p. 10: "Some systems contain space stations."
 @1
 E7 Same passage: "A player gains control of a space station from the deck or from another player when they are the only player that has ships in its system."
 E2 RulesPal, "When do I gain and lose control of a space station?": "You gain it as soon as you are the only player with ships in its system."
+I6 "Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?' Answer: 'Yes, there is no Neutral Player."
 @2
 I7 Same passage: control requires being "the only player that has ships in its system."
 @3

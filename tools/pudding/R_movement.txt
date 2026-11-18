@@ -1,5 +1,6 @@
 @0
 E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
+I1 LRR 58.9: "If an ability moves a unit outside of the 'Movement' step of a tactical action, players follow the rules specified by that ability; neither a unit's move value nor the rules specified above apply."
 @1
 E4 "The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens."
 E2 RulesPal, "When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?": "the command-token restriction and other tactical-action movement rules are ignored."

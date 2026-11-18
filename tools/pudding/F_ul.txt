@@ -38,6 +38,7 @@ E4 "Yes, when Terraform is attached to a planet it counts as being in that plane
 @17
 E7 Thunder's Edge Rulebook p. 11: "Planets that have dual planet traits count as having both traits. When exploring one of these planets …, the exploring player can choose to draw a card matching either" trait.
 I1 LRR 35.2c: "If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from."
+E2 RulesPal, "Which exploration deck do I draw from when a planet has more than one trait?": "You choose one of the matching trait decks and draw a single card from it."
 @18
 E6 "If Terraform is attached, can planets in The Fracture be explored? A: Yes"
 @19
@@ -78,8 +79,10 @@ E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit tha
 @35
 E4 "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't place a PDS via Sleeper token onto a planet where another player already has 2 PDS? … A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player's PDS units. You cannot place a structure on a planet with the maximum number of your structures."
 E4 Same ruling: "which prevents using the DEPLOY ability on a planet with 2 PDS of yours."
+I3 Learn to Play: "Players are limited to two PDS units and one space dock on each planet." The Deploy consequence is not stated.
 @36
 E4 "You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet."
+I1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 @37
 E6 "Can Titans use the Mech's deploy ability for coexistence? A: Yes."
 @38

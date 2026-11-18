@@ -274,6 +274,7 @@
     <li>The <a href="/F_nekro">Nekro</a> player cannot place a Valefar token on the Corsair card.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are breakthroughs technologies, and do their passive abilities work while exhausted?&rdquo;: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade&rdquo; Valefar Assimilator copies faction technologies only.</li>
         </ul></li>
     <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup>
         <ul>

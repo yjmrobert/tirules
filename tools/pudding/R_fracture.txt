@@ -24,6 +24,7 @@ E6 RAW/Community: "Can Nano-Forge and/or Terraform be attached to planets in The
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "They then place neutral units as indicated on the back of The Fracture's tiles."
 @10
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system that contains an ingress is adjacent to each system in The Fracture that contains an egress. However, ingress systems are not adjacent to other ingress systems, and egress systems are not adjacent to other egress systems."
+E2 RulesPal, "Can ships move from an egress back to an ingress to leave The Fracture?": "ingress and egress adjacency works both ways, like wormholes, except ingresses aren't adjacent to other ingresses and egresses aren't adjacent to other egresses"
 @11
 E2 RulesPal, "Can ships pass through the Fracture in one move …?": "Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows."
 @12
@@ -32,6 +33,7 @@ E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their 
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
 @14
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets' systems."
+I2 RulesPal, "Who places ingress tokens when Rapid Mobilization brings the Fracture in?": "the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able" About Rapid Mobilization; Nekro not named.
 @15
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @16

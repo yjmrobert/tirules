@@ -39,6 +39,7 @@ E2 RulesPal, "What happens to committed ground forces when Parley is played?": "
 N No source found.
 @17
 E4 "Can the Sardakk N'orr player commit ground forces via their commander, G'hom Sek'kus, on defense? A: No, only the active player can commit ground forces."
+E2 RulesPal, "Can the Sardakk commander be used when defending?": "only the active player commits ground forces"
 @18
 E4 "only the active player can use BOMBARDMENT."
 @19

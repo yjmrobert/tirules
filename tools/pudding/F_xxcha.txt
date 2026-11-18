@@ -4,6 +4,7 @@ I2 "Is a system adjacent to itself, and are planets in the same system adjacent?
 I5 Designer ruling (maverikki, Nov 29, 2017): "Yes, the second planet is considered adjacent for the purpose of peace accords." Planet in the same system counts as adjacent.
 @1
 E6 "Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet."
+I2 RulesPal, "When do I gain and lose control of a space station?": "A space station isn't a planet" From the space-station control entry; Peace Accords not named.
 @2
 E5 Designer ruling (maverikki, Nov 29, 2017): "You can indeed gain control of an uncontrolled planet in a system with an enemy fleet."
 @3
@@ -59,8 +60,10 @@ E4 Same ruling: "End of turn abilities can still be used."
 E2 RulesPal, "When several players fire Space Cannon Offense, are they resolved together?": "a unit destroyed earlier, such as an Xxcha flagship, never gets to shoot."
 @26
 E1 LRR 6.3: "A planet is treated as being adjacent to the system that contains that planet."
+I2 RulesPal, "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems"
 @27
 E4 "Can the Xxcha Agent, Ggrocuto Rinn, be used to 'ready' a planet that is not exhausted? A: The target planet must be exhausted."
+E2 RulesPal, "Can the Xxcha agent target a ready planet just to remove an infantry?": "No — you can't ready a planet that is already ready, so the target must be exhausted for any of it to work."
 @28
 E2 RulesPal, "Can the Xxcha agent ready another player's planet and remove their infantry?": "Yes — it can ready any planet, including another player's, and if that planet is adjacent to a planet you control, the infantry you remove can be another player's too."
 @29
@@ -72,6 +75,7 @@ E2 RulesPal, "What does the Xxcha commander allow, and does it beat Political Se
 I14 Codex II, Xxcha alliance: "Each planet you exhaust to cast votes provides 1 additional vote."
 @32
 E2 RulesPal, "What does the Xxcha commander allow, and does it beat Political Secret or a rider?": "Through the Xxcha alliance even the Nekro can vote."
+I14 Codex II, Xxcha Alliance: "Game effects cannot prevent you from voting on an agenda." Xxcha Alliance card text.
 @33
 E4 "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda."
 @34

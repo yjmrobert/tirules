@@ -32,6 +32,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes. For example, a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can trade a promissory note and have it be immediately used during the start of turn window.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?&rdquo;: &ldquo;you can trade for the note and then resolve its start-of-turn ability.&rdquo;</li>
         </ul></li>
     <li>Returning a promissory note to its owner as part of resolving it is not a transaction. The note is returned even if the two players are not neighbors.<sup>2</sup>
         <ul>

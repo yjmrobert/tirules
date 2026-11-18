@@ -8,6 +8,7 @@
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 58.9: &ldquo;If an ability moves a unit outside of the &lsquo;Movement&rsquo; step of a tactical action, players follow the rules specified by that ability; neither a unit&rsquo;s move value nor the rules specified above apply.&rdquo;</li>
         </ul></li>
     <li>When an ability moves a player&rsquo;s ships outside of a tactical action, those ships may transport units out of systems that contain that player&rsquo;s command tokens; this restriction only applies during tactical actions.<sup>1,2,4</sup>
         <ul>

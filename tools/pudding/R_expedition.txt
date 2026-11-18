@@ -29,6 +29,7 @@ N No source found.
 @14
 E7 Thunder's Edge Rulebook p. 8: "the player who claimed the final slice flips Thunder's Edge to its planet side and places it in a system of their choice that does not contain a planet, a supernova, or a printed wormhole."
 E2 RulesPal, "How does the Thunder's Edge expedition finish, and who gets the planet?": "that player must flip Thunder's Edge and place it in a system with no planet … supernova or printed wormhole."
+I6 "Place Thunder's Edge into a system with a printed wormhole following the other restrictions." The question lists the restrictions, including The Fracture.
 @15
 E6 "What happens in the rare situation that, when Thunder's Edge is due to be placed, every system …? A: Place Thunder's Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova."
 @16

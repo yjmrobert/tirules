@@ -15,6 +15,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Each player&rsquo;s lowest-numbered strategy card is used to determine their placement in initiative order.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;With two strategy cards, which one sets my initiative, and must I use the lower card first?&rdquo;: &ldquo;Only your lower-numbered card sets your initiative.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 48.3: &ldquo;When playing with three or four players, a player&rsquo;s initiative is determined only by their lowest-numbered strategy card.&rdquo;</li>
         </ul></li></ol>
     <li>A player with two strategy cards may perform the strategic actions of those cards in either order. They still take only one action per turn.<sup>2</sup>
         <ul>

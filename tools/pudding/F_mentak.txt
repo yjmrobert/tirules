@@ -116,5 +116,6 @@ N No source found.
 N No source found.
 @53
 E6 "Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? … A: They cannot copy corsair."
+I2 RulesPal, "Are breakthroughs technologies, and do their passive abilities work while exhausted?": "They aren't technologies, so a breakthrough like Mentak's Corsair doesn't count as a unit upgrade" Valefar Assimilator copies faction technologies only.
 @54
 E6 Same ruling: "mentak is still considered to own cruiser II."

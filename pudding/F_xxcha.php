@@ -14,6 +14,7 @@
     <li>The Xxcha player cannot gain control of a space station with <sc>Peace Accords</sc>, as a space station is not a planet.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> &ldquo;Peace Accords (Ability): Can Xxcha gain control of a space station with PEACE ACCORDS? A: No, it is not a planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When do I gain and lose control of a space station?&rdquo;: &ldquo;A space station isn&rsquo;t a planet&rdquo; From the space-station control entry; Peace Accords not named.</li>
         </ul></li>
     <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in a system that contains another player&rsquo;s ships.<sup>5</sup>
         <ul>
@@ -145,10 +146,12 @@
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 6.3: &ldquo;A planet is treated as being adjacent to the system that contains that planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a system adjacent to itself, and are planets in the same system adjacent?&rdquo;: &ldquo;Planets are treated as adjacent to other planets in their system and in neighboring systems&rdquo;</li>
         </ul></li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Can the Xxcha Agent, Ggrocuto Rinn, be used to &lsquo;ready&rsquo; a planet that is not exhausted? A: The target planet must be exhausted.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Xxcha agent target a ready planet just to remove an infantry?&rdquo;: &ldquo;No &mdash; you can&rsquo;t ready a planet that is already ready, so the target must be exhausted for any of it to work.&rdquo;</li>
         </ul></li>
     <li>Ggrocuto Rinn may ready a planet controlled by another player. If that planet is in a system adjacent to a planet the Xxcha player controls, the infantry removed may belong to another player.<sup>2</sup>
         <ul>
@@ -174,6 +177,7 @@
     <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Through the Xxcha alliance even the Nekro can vote.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha Alliance: &ldquo;Game effects cannot prevent you from voting on an agenda.&rdquo; Xxcha Alliance card text.</li>
         </ul></li>
     </ol>
 

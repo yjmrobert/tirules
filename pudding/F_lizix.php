@@ -23,6 +23,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 23.4a: a player &ldquo;can remove&rdquo; a unit; it is optional.</li>
         <li><b>Implicit</b>: <sup>4</sup> &ldquo;&rsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my reinforcements are empty, must I take units from the board to place a new one?&rdquo;: &ldquo;you are not required to&rdquo; Entry names L1Z1X Assimilate.</li>
         </ul></li>
     <li>When the L1Z1X player gains control of a planet, they also replace coexisting structures on that planet.<sup>6</sup>
         <ul>

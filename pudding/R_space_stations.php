@@ -13,6 +13,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;A player gains control of a space station from the deck or from another player when they are the only player that has ships in its system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do I gain and lose control of a space station?&rdquo;: &ldquo;You gain it as soon as you are the only player with ships in its system.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> &ldquo;Does a player gain control of a space station before combat against neutral units, as they will be the only player with units there?&rsquo; Answer: &lsquo;Yes, there is no Neutral Player.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If another player moves ships into that system, they will not gain control of that space station unless they win the resulting space combat.<sup>7</sup>

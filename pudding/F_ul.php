@@ -92,6 +92,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11: &ldquo;Planets that have dual planet traits count as having both traits. When exploring one of these planets &hellip;, the exploring player can choose to draw a card matching either&rdquo; trait.</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 35.2c: &ldquo;If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which exploration deck do I draw from when a planet has more than one trait?&rdquo;: &ldquo;You choose one of the matching trait decks and draw a single card from it.&rdquo;</li>
         </ul></li>
     <li>If <i>Terraform</i> is attached to a planet in The Fracture, that planet may be explored.<sup>6</sup>
         <ul>
@@ -198,10 +199,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;which prevents using the DEPLOY ability on a planet with 2 PDS of yours.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo; The Deploy consequence is not stated.</li>
         </ul></li>
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         </ul></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup>
         <ul>

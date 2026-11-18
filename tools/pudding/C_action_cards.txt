@@ -300,6 +300,7 @@ E6 "Q: Lie In Wait: Say two players make a deal for one of them to play an actio
 @128
 E5 Designer ruling (Feb 2018): "Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban."
 N2 Conflicts: RulesPal, "What does Enforced Travel Ban do": "It also cancels the adjacency from Lost Star Chart for movement."
+E2 RulesPal, "How does Lost Star Chart work, including with Enforced Travel Ban?": "It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban."
 @129
 E5 Designer ruling: "All are connected to all—alpha to alpha, alpha to beta, beta to beta."
 @130
@@ -366,7 +367,7 @@ N No source found.
 @158
 N No source found.
 @159
-I2 RulesPal, "Who can move into or through a supernova?": "A supernova never destroys ships already there." The cited entry (Warfare) does not address supernovas.
+E2 RulesPal, "Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?": "A supernova can be activated; it only stops ships moving into or through it, so placing structures, producing, committing ground forces with the Sardakk commander, or entering with Nav Suite all work, and ships can always move out."
 @160
 N No source found.
 @161

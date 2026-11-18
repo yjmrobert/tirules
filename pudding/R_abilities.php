@@ -63,6 +63,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 1.19: &ldquo;each player takes a turn resolving an ability &hellip; This process continues until each player has resolved each ability that they wish to resolve.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You keep going around the circle/sequence until everybody passes simultaneously. &hellip; Dane: Regarding your question, option 2 is the intended method of resolution.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If both players have the same &lsquo;after a round of space combat&rsquo; ability, such as two Exotrireme II dreadnoughts, who resolves first?&rdquo;: &ldquo;alternating one ability at a time until nobody wants to resolve more&rdquo;</li>
         </ul></li>
         <li>For example, Alice, the active player, wishes to resolve four abilities during the current timing window. Bob, the next player in order, wishes to resolve one. Cheng, later in the order, wishes to resolve two. The order of resolution would be: Alice &num;1; Bob &num;1; Cheng &num;1; Alice &num;2; Cheng &num;2; Alice &num;3; Alice &num;4.<sup>1</sup>
         <ul>

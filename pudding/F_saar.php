@@ -63,6 +63,7 @@
     <li>A unit may be produced on each of the Saar player&rsquo;s turns.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;At the start of each of your turns, including the turn you pass, you may produce one unit.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Chaos Mapping&rsquo; can be used as many times as you have turns during the action phase.&rdquo;</li>
         </ul></li>
     <ol><li>A unit may be produced on the turn the Saar player passes.<sup>1,2</sup>
         <ul>
@@ -111,6 +112,7 @@
     <li>A Floating Factory moving through or out of a gravity rift must roll for removal. It will receive the +1 to its movement.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?&rdquo;: &ldquo;they get Gravity Drive, Flank Speed and rift bonuses, and he later confirmed they roll when leaving a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You still would roll for the Floating Factory.&rdquo;</li>
         </ul></li>
     <li>If the Saar player announces a retreat during a space combat, but all their ships are destroyed that round, any Floating Factories in that system are destroyed without retreating.<sup>5</sup>
         <ul>
@@ -165,6 +167,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?&rdquo;: &ldquo;it is destroyed before anything can be done.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Saar Floating Factories move and produce in the same action, and how many can share a system?&rdquo;: &ldquo;A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;it is destroyed, though the space cannons can certainly attempt to avenge it.&rdquo;</li>
         </ul></li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.<sup>*</sup>
         <ul>
@@ -183,6 +186,7 @@
     <li>If the Saar player retreats from a space combat, Floating Factories in the active system may retreat with the Saar player&rsquo;s other ships, even if those ships are only fighters. Floating Factories may also be moved by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, provided they are never alone with another player&rsquo;s ships.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?&rdquo;: &ldquo;If other Saar ships, even fighters, are with it, it can retreat or Skilled Retreat with them as long as it is never left alone with enemy ships.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The space dock can attempt to retreat with the other ships (in this case&mdash;just its own fighters).&rdquo;</li>
         </ul></li>
     <li>There is no limit to the number of Floating Factories that may be in the same system.<sup>2</sup>
         <ul>

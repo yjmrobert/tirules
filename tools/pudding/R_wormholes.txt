@@ -12,5 +12,6 @@ E4 "When you move between systems that both contain a viable wormhole path, you 
 E2 RulesPal, "How do wormholes work, and must my ships use them?": "A wormhole only adds connections: you don't have to use it."
 @5
 E4 "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path their ships move through."
+E2 RulesPal, "When does the Ion Storm flip, and does using a matching wormhole in the same system flip it?": "With several wormhole routes, the moving player chooses which, if any, they use"
 @6
 N No source found.

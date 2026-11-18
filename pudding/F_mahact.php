@@ -114,11 +114,13 @@
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?&rdquo;: &ldquo;the commander ends your turn as part of resolving it, so no window for other abilities opens&rdquo;</li>
         </ul></li>
     <ol>
         <li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?&rdquo;: &ldquo;the commander ends your turn as part of resolving it, so no window for other abilities opens&rdquo; No window opens for any player.</li>
         </ul></li>
         <li>If the Mahact player activates a system containing another player&rsquo;s units, they must still return any promissory notes with such an activation as the return condition.<sup>*</sup>
         <ul>
@@ -132,6 +134,7 @@
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;What&rsquo;s the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play Counterstroke on a system I activate that already has my command token?&rdquo;: &ldquo;Mahact&rsquo;s commander doesn&rsquo;t help either, since activating that way ends your turn at once with no after-activation abilities&rdquo;</li>
         </ul></li>
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology does not trigger.<sup>4</sup>
         <ul>
