@@ -52,7 +52,7 @@
     <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.<sup>2</sup></li></ol>
     <li>A player may score an action phase secret objective when they are not the active player.<sup>1,2</sup></li>
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>4</sup></li>
-    <li>A player may choose to reveal any or all of their unscored secret objectives to other players, if they so choose.<sup>1,2,5</sup></li>
+    <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup></li>
     <li>If two players could each score an action phase objective during the same combat, the player whose condition is met first scores first; for example, a flagship or war sun is destroyed during a combat round, before the combat ends and has a winner. If both conditions are met at the same moment, the active player scores first.<sup>2</sup></li>
     </ol>
 

@@ -13,7 +13,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player may choose to reveal any or all of the action cards in their hand, if they so choose.<sup>1,2,5</sup>
+    <li>A player may choose to reveal any or all of the action cards in their hand.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player, such as an action card from your hand &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo;</li>

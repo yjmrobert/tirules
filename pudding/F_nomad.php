@@ -276,7 +276,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Breakthrough:~:text=Thunder%27s%20Paradox">Thunder&rsquo;s Paradox</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The readied agent can belong to any player. It need not belong to the Nomad player nor the active player.<sup>*</sup>
+    <li>The readied agent can belong to any player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

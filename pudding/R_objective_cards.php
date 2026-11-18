@@ -37,7 +37,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> On the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         </ul></li>
-    <li>A player may choose to reveal any or all of their unscored secret objectives to other players, if they so choose.<sup>1,2,5</sup>
+    <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player, such as &hellip; your secret objective? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo;</li>

@@ -23,7 +23,7 @@
     <ol class="note">
     <li>Players start the game with zero action cards.<sup>2</sup></li>
     <li>The number of action cards in a player&rsquo;s hand is public information.<sup>*</sup></li>
-    <li>A player may choose to reveal any or all of the action cards in their hand, if they so choose.<sup>1,2,5</sup></li>
+    <li>A player may choose to reveal any or all of the action cards in their hand.<sup>1,2,5</sup></li>
     <li>If the action card deck is depleted, immediately shuffle the discard pile to form a new action card deck.<sup>1</sup></li>
     <li>Action cards are dealt out in initiative order. Though it rarely matters in practice.<sup>2</sup></li>
     <ol>

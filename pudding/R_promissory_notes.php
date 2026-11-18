@@ -23,7 +23,7 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Support for the Throne: &ldquo;When you receive this card &hellip; you must place it faceup in your play area.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>A player may choose to reveal any or all of the promissory notes in their hand, if they so choose.<sup>1,2</sup>
+    <li>A player may choose to reveal any or all of the promissory notes in their hand.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo; The matched LRR passage (elimination) is less direct.</li>
         <li><b>Implicit</b>: <sup>2</sup> &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;you may reveal your own hidden cards to anyone at any time&rdquo; promissory notes in hand are hidden cards of the player.</li>

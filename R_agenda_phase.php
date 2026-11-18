@@ -51,7 +51,7 @@
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.<sup>1,2</sup></li>
     <li>If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.<sup>1</sup></li>
     <li>Each pair of players may resolve one transaction during each agenda.<sup>1,2,3</sup></li>
-    <li>Only planets ready at the end of the phase. Technologies, leaders, relics, and other cards do not.<sup>2</sup></li>
+    <li>Only planets ready at the end of the phase.<sup>2</sup></li>
     <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
     <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
     <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup></li>

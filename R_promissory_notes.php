@@ -26,7 +26,7 @@
         <li>However, it is public information that a promissory note was traded.<sup>*</sup></li>
         <li>The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.<sup>*</sup></li>
     </ol>
-    <li>A player may choose to reveal any or all of the promissory notes in their hand, if they so choose.<sup>1,2</sup></li>
+    <li>A player may choose to reveal any or all of the promissory notes in their hand.<sup>1,2</sup></li>
     <li>If a player receives a card, such as a promissory note, in a transaction during that card&rsquo;s timing window, they may play it immediately. For example, a promissory note with &ldquo;At the start of your turn:&rdquo; timing may be played immediately if the transaction occurred during the &ldquo;start of turn&rdquo; timing window.<sup>1,2,5</sup></li>
     <li>Returning a promissory note to its owner as part of resolving it is not a transaction. The note is returned even if the two players are not neighbors.<sup>2</sup></li>
     </ol>

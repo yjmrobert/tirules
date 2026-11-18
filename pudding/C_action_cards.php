@@ -1506,7 +1506,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
-    <ol><li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1,2</sup>
+    <ol><li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.14: &ldquo;When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol of the matching type.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do technology specialties work when researching?&rdquo;: &ldquo;Exhaust a ready planet with a specialty to ignore one prerequisite of that color.&rdquo;</li>

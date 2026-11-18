@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 14.2: &ldquo;When a player blockades another player&rsquo;s space dock, if the blockaded player has captured any of the blockading player&rsquo;s units, those units are returned to the blockading player&rsquo;s reinforcements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If I win the space combat and then invade the planet with an enemy dock in the same action &hellip;?&rdquo;: &ldquo;the dock is blockaded from the end of space combat until it is destroyed, so the units return.&rdquo;</li>
         </ul></li>
-    <li>A captured unit may only be returned to the player that originally owned it, and not to another player.<sup>1</sup>
+    <li>A captured unit may only be returned to the player that originally owned it.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 17.1: &ldquo;When such a unit is returned, it is placed into the reinforcements of the original owner.&rdquo;</li>
         </ul></li>

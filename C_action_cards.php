@@ -664,7 +664,7 @@
     <li>The effect of a successful <i>Technology Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Technology Rider</i>.<sup>1</sup></li>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
-    <ol><li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1,2</sup></li></ol>
+    <ol><li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology.<sup>1,2</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider">Trade Rider</a></h2>
