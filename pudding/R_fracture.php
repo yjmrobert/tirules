@@ -34,6 +34,11 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;each of its systems is considered to be on the edge of the game board.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;every Fracture system also counts as on the edge.&rdquo;</li>
         </ul></li>
+        <li>Systems that The Fracture is touching remain on the edge of the game board.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9: &ldquo;Regardless of where The Fracture is placed, its systems are not adjacent to the systems it is touching, and each of its systems is considered to be on the edge of the game board.&rdquo; The touching systems gain no adjacent system, so their edge status is unchanged.</li>
+        </ul></li>
+    </ol>
     <li>While The Fracture is not in play, its systems, such as the one containing Styx, are not legal targets for abilities such as those of the <a href="/F_yin">Yin</a> player&rsquo;s and <a href="/F_lizix">L1Z1X</a> player&rsquo;s heroes.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Yin or L1Z1X hero be used on Styx if the Fracture isn&rsquo;t in Play? A: No. The Fracture is not in play and not a legal target.&rdquo;</li>
@@ -46,7 +51,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
         </ul></li>
-    </ol>
     <li>When The Fracture is brought into play, neutral units are placed on the planets in The Fracture as well as the space area of those planets&rsquo; systems, as indicated on the reverse side of The Fracture tiles.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;They then place neutral units as indicated on the back of The Fracture&rsquo;s tiles.&rdquo;</li>

@@ -15,31 +15,33 @@ E2 RulesPal, "Is The Fracture 3 systems or 7 …?": "It can sit anywhere, and th
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "each of its systems is considered to be on the edge of the game board."
 E2 RulesPal: "every Fracture system also counts as on the edge."
 @6
-E6 Community consensus: "Can the Yin or L1Z1X hero be used on Styx if the Fracture isn't in Play? A: No. The Fracture is not in play and not a legal target."
+I7 Thunder's Edge Rulebook p. 9: "Regardless of where The Fracture is placed, its systems are not adjacent to the systems it is touching, and each of its systems is considered to be on the edge of the game board." The touching systems gain no adjacent system, so their edge status is unchanged.
 @7
-E6 Community consensus: "Thunder's Edge is placed, then you place the final Ingress in the Thunder's Edge system."
+E6 Community consensus: "Can the Yin or L1Z1X hero be used on Styx if the Fracture isn't in Play? A: No. The Fracture is not in play and not a legal target."
 @8
-E6 Community consensus, "Can Nano-Forge and/or Terraform be attached to planets in The Fracture?": "Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes"
+E6 Community consensus: "Thunder's Edge is placed, then you place the final Ingress in the Thunder's Edge system."
 @9
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "They then place neutral units as indicated on the back of The Fracture's tiles."
+E6 Community consensus, "Can Nano-Forge and/or Terraform be attached to planets in The Fracture?": "Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes"
 @10
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "They then place neutral units as indicated on the back of The Fracture's tiles."
+@11
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system that contains an ingress is adjacent to each system in The Fracture that contains an egress. However, ingress systems are not adjacent to other ingress systems, and egress systems are not adjacent to other egress systems."
 E2 RulesPal, "Can ships move from an egress back to an ingress to leave The Fracture?": "ingress and egress adjacency works both ways, like wormholes, except ingresses aren't adjacent to other ingresses and egresses aren't adjacent to other egresses"
-@11
-E2 RulesPal, "Can ships pass through the Fracture in one move …?": "Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows."
 @12
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems."
+E2 RulesPal, "Can ships pass through the Fracture in one move …?": "Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows."
 @13
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems."
 @14
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
+@15
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets' systems."
 I2 RulesPal, "Who places ingress tokens when Rapid Mobilization brings the Fracture in?": "the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able" About Rapid Mobilization; Nekro not named.
-@15
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @16
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @17
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+@18
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system cannot have more than one ingress token."
 E6 Community consensus: "the rules state that a system may not contain more than 1 ingress token."
-@18
+@19
 E7 Thunder's Edge Rulebook p. 9: "Each planet in the fracture has a relic icon." p. 10: "When a player gains a planet card from the planet deck that has a relic icon … they draw the top card of the relic deck."

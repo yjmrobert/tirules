@@ -13,10 +13,11 @@
     <ol>
         <li>The placement location of The Fracture is arbitrary, and should have no mechanical effect on the game state.<sup>2,7</sup></li>
         <li>All systems in The Fracture are considered to be on the edge of the game board.<sup>2,7</sup></li>
+        <li>Systems that The Fracture is touching remain on the edge of the game board.<sup>7</sup></li>
+    </ol>
     <li>While The Fracture is not in play, its systems, such as the one containing Styx, are not legal targets for abilities such as those of the <a href="/F_yin">Yin</a> player&rsquo;s and <a href="/F_lizix">L1Z1X</a> player&rsquo;s heroes.<sup>6</sup></li>
     <li>If The Fracture enters play as a result of the expedition that also places <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed first, and then the final ingress token is placed in its system.<sup>6</sup></li>
     <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup></li>
-    </ol>
     <li>When The Fracture is brought into play, neutral units are placed on the planets in The Fracture as well as the space area of those planets&rsquo; systems, as indicated on the reverse side of The Fracture tiles.<sup>7</sup></li>
     <li>When The Fracture is brought into play, several ingress tokens will be placed on the game board. Several systems in The Fracture contain a printed egress. Each ingress is adjacent to each egress, and vice versa. An ingress is not adjacent to an ingress and an egress is not adjacent to an egress.<sup>2,7</sup></li>
     <ol><li>With sufficient movement, a ship could move from a system containing an ingress in the regular game map, into a system containing an egress within The Fracture, and then out to a different system containing an ingress in the regular game map. A ship could also do the reverse to travel from an egress to a different egress via an ingress.<sup>2</sup></li></ol>
