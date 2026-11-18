@@ -12,10 +12,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can trade a promissory note and have it be immediately used during the start of turn window. That is allowed.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.
-        <ul>
-        <li><b>Unverified</b>: The page gives no citation for this introductory note.</li>
-        </ul></li>
+        <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.</li>
         <ol>
             <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup>
         <ul>

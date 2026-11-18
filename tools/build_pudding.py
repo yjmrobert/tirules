@@ -3,7 +3,7 @@
 tools/pudding/<page>.txt. Run from the repo root: ./tools/build_pudding.py C_action_cards
 
 Proof file format: "@n" starts the proofs for the page's nth note (0-based, in page order,
-sub-notes included). Each following line is one proof:
+sub-notes included; uncited <li> headers without a <sup> are skipped). Each following line is one proof:
     E9 Designer Q&A, "Voting with Space Stations": "Yeah you can vote with them."
     I1 LRR 8.4: "Each player readies each of their exhausted planets." Names only planets.
     N No source found.
@@ -57,6 +57,8 @@ def build(page):
         block = s[m.start():end]
         def add(li):
             nonlocal n
+            if "<sup>" not in li.group(1):
+                return li.group(0)  # uncited header: shown as context, no proof, not counted
             items = pr.get(n, ["<li><b>Unverified</b>: not yet checked.</li>"])
             n += 1
             return li.group(1) + "\n        <ul>\n        " + "\n        ".join(items) + "\n        </ul></li>"

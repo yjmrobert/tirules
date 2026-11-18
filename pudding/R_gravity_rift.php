@@ -24,10 +24,26 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;one die is rolled immediately before it exits the gravity rift system.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?&rdquo;: &ldquo;Fleet pool isn&rsquo;t checked in systems you pass through, only at the end, and you remove any excess then.&rdquo;</li>
         </ul></li>
-    <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup>
+    <li>Retreating from a gravity rift will result in the following:</li>
+    <ol>
+        <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?&rdquo;: &ldquo;Declare which ship carries what before rolling.&rdquo;</li>
         </ul></li>
+        <li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal. Transported units are also removed if the ship transporting them is removed.<sup>1,2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system&rdquo;; 41.2b: &ldquo;Units that are being transported are removed from the board if the ship transporting them is removed from the board.&rdquo; A retreat moves ships out of the system.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?&rdquo;: &ldquo;only the ships moving out roll &hellip; if a carrier is lost, everything it carries goes with it.&rdquo;</li>
+        </ul></li>
+        <li>The +1 will have no effect, as retreats are restricted to adjacent systems.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
+        </ul></li>
+        <li>If all ships are lost to the rift, the retreating player will not place a command token in the destination system.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR, Space Combat, Retreat step: &ldquo;If any of a player&rsquo;s units successfully retreat and are moved into an adjacent system, that player must place a command token from their reinforcements in the system to which their units retreated.&rdquo; No unit arrives if every ship is removed.</li>
+        </ul></li>
+    </ol>
     <li>If a ship moves through or out of multiple gravity rifts, each gravity rift provides +1 to its move value and requires a separate roll for removal. If it moves out of the same gravity rift more than once, that gravity rift provides +1 only once, but each instance requires a separate roll.<sup>1,2,6,7,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;gets +1 move for that path, one per rift &hellip; Each ship that leaves or passes through a rift rolls.&rdquo;</li>

@@ -302,7 +302,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor">The Alastor</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.<sup>1,4</sup>
+    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Infantry that are participating in space combat due to the effects of &lsquo;The Alastor&rsquo; do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system.&rdquo;</li>
         </ul></li>
