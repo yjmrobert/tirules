@@ -36,6 +36,29 @@
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can two players agree not to fight &hellip;?&rdquo;: &ldquo;rolling and assigning hits are mandatory and a deal can&rsquo;t override the rules.&rdquo;</li>
         </ul></li>
     </ol>
+    <li>The following are examples of binding deals:<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;&mdash;Binding: Give me two trade goods and I&rsquo;ll let you refresh your commodities without spending a command token.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you not to fire.&rdquo;</li>
+        </ul></li>
+    <ol>
+        <li>Making a deal to use a promissory note in a specific way, when the player who would resolve it already has that promissory note and can resolve it immediately.<sup>5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling, on a deal to trade the Creuss IFF and have it used: &ldquo;If he already had the IFF, it could be a binding transaction.&rdquo;</li>
+        </ul></li>
+        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, at the moment that player decides whether to use it.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you not to fire.&rdquo;</li>
+        </ul></li>
+        <li>Making a deal to give trade goods to the active player in exchange for the active player choosing that player to replenish their commodities without spending a command token, during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, via Skootur, Oct 19, 2017): &ldquo;&mdash;Binding: Give me two trade goods and I&rsquo;ll let you refresh your commodities without spending a command token.&rdquo;</li>
+        </ul></li>
+        <li>Making a deal for a player to vote on an agenda in a certain way, when that player is about to cast their votes.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a deal to buy someone&rsquo;s votes binding?&rdquo;: &ldquo;Only for a player about to cast votes right now. Paying the next voter in exchange for their vote binds it, since nothing can happen in between&rdquo;</li>
+        </ul></li>
+    </ol>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

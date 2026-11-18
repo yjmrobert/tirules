@@ -13,3 +13,14 @@ E5 Designer ruling: "The 'immediate' requirement for binding deals is satisfied 
 E2 RulesPal, "Is a deal to buy someone's votes binding?": "Only for a player about to cast votes right now … a promise to vote a certain way later can still be broken."
 @6
 I2 RulesPal, "Can two players agree not to fight …?": "rolling and assigning hits are mandatory and a deal can't override the rules."
+@7
+E5 Designer ruling: "—Binding: Give me two trade goods and I'll let you refresh your commodities without spending a command token."
+E2 RulesPal, "When is a deal binding?": "taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you not to fire."
+@8
+E5 Designer ruling, on a deal to trade the Creuss IFF and have it used: "If he already had the IFF, it could be a binding transaction."
+@9
+E2 RulesPal, "When is a deal binding?": "taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you not to fire."
+@10
+E5 Designer ruling (Dane, via Skootur, Oct 19, 2017): "—Binding: Give me two trade goods and I'll let you refresh your commodities without spending a command token."
+@11
+E2 RulesPal, "Is a deal to buy someone's votes binding?": "Only for a player about to cast votes right now. Paying the next voter in exchange for their vote binds it, since nothing can happen in between"
