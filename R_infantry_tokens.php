@@ -16,7 +16,7 @@
     <ol class="note">
     <li>As each player only has twelve plastic infantry figures, a player cannot have infantry on more than twelve planets or being transported in more than twelve space areas, or any combination thereof.<sup>2</sup></li>
     <li>Infantry tokens are not component limited.<sup>1,2</sup></li>
-    <li>A player may remove a plastic infantry figure from a planet or space area, along with any accompanying infantry tokens, if doing so allows them to swap it into the active system and allows them to commit ground forces to and fight ground combats on multiple planets during the <b>Invasion</b> step of the tactical action in that system when they could otherwise not do so.<sup>*</sup></li>
+    <li>A player may remove a plastic infantry figure from a planet or space area, along with any accompanying infantry tokens, if doing so allows them to swap it into the active system and allows them to commit ground forces to and fight ground combats on multiple planets during the <b>Invasion</b> step of the tactical action in that system when they could otherwise not do so.<sup>2,5</sup></li>
     <li>If a player has an infantry token that is not accompanied by a plastic infantry and cannot replace it, the token is removed instead of destroyed.<sup>4</sup></li>
     </ol>
 
