@@ -7,7 +7,7 @@ E2 RulesPal, "Can I deliberately go over my fleet pool by moving or producing, t
 E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."
 E6 On Auto-Factories: "with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."
 @2
-E2 RulesPal, "Can fighters stay in a system without a carrier or space dock?": "Fighter IIs that don't fit in capacity count against your fleet pool like other ships." The cited entry is less direct.
+E2 RulesPal, "Can fighters stay in a system without a carrier or space dock?": "Fighter IIs that don't fit in capacity count against your fleet pool like other ships."
 @3
 E2 RulesPal, "When is the fleet pool limit checked …?": "At all times, except for ships that are only moving through other systems."
 E5 Designer ruling (Bocks, Mar 17, 2018): "In neither instance do you need to destroy any ships due to fleet supply"

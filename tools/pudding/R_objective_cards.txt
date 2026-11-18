@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Can I mark an objective as soon as I meet it and score it later …?": "You must qualify at the moment you score. Status-phase objectives check the condition then." The cited entry (scoring order in combat) is less direct.
+E2 RulesPal, "Can I mark an objective as soon as I meet it and score it later …?": "You must qualify at the moment you score. Status-phase objectives check the condition then."
 E1 LRR 61.5a: "When a player scores an objective during the status phase, they must fulfill the requirement on the card during the “Score Objectives” step of the status phase to score that objective."
 E3 Learn to Play: "requirement on the card during the 'Score Objectives' step of the status phase to score that objective."
 @1

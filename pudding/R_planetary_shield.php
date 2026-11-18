@@ -7,7 +7,7 @@
     <ol class="note">
     <li>A unit with the <sc>Planetary Shield</sc> ability on a planet does not stop of the use of a unit&rsquo;s <a href="/R_bombardment"><sc>Bombardment</sc></a> ability on other planets in the same system.<sup>1</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 65: &ldquo;Units cannot use the &lsquo;Bombardment&rsquo; ability against a planet that contains a unit that has the &lsquo;Planetary Shield&rsquo; ability.&rdquo; Only that planet is protected. The matched passage (LRR 1.27) is less direct.</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 65: &ldquo;Units cannot use the &lsquo;Bombardment&rsquo; ability against a planet that contains a unit that has the &lsquo;Planetary Shield&rsquo; ability.&rdquo; Only that planet is protected.</li>
         </ul></li>
     <li>If the <sc>Planetary Shield</sc> ability prevents the use of a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology cannot be used.<sup>2,10</sup>
         <ul>

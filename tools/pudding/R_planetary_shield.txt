@@ -1,5 +1,5 @@
 @0
-E1 LRR 65: "Units cannot use the 'Bombardment' ability against a planet that contains a unit that has the 'Planetary Shield' ability." Only that planet is protected. The matched passage (LRR 1.27) is less direct.
+E1 LRR 65: "Units cannot use the 'Bombardment' ability against a planet that contains a unit that has the 'Planetary Shield' ability." Only that planet is protected.
 @1
 E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "Planetary Shield, by blocking Bombardment, blocks it too."
 I10 Codex I, X-89 Ω: works only if "1 of your opponent's infantry was destroyed" by Bombardment.

@@ -19,7 +19,7 @@
         </ul></li>
     <ol><li>If some of those ships are fighters II, they may instead count towards that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can fighters stay in a system without a carrier or space dock?&rdquo;: &ldquo;Fighter IIs that don&rsquo;t fit in capacity count against your fleet pool like other ships.&rdquo; The cited entry is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can fighters stay in a system without a carrier or space dock?&rdquo;: &ldquo;Fighter IIs that don&rsquo;t fit in capacity count against your fleet pool like other ships.&rdquo;</li>
         </ul></li></ol>
     <li>During movement, a ship may move through a system regardless of how many ships are in that system relative to the fleet pool limit.<sup>2,5</sup>
         <ul>

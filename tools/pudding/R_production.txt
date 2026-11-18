@@ -1,6 +1,6 @@
 @0
 E1 LRR 68.1: "This value is the maximum number of units that this unit can produce."
-E2 RulesPal, "Does Production limit the number of units or their total cost?": "The number of units … a war sun uses one point of Production and you pay its 12 cost separately." The cited entry (Sarween Tools) is less direct.
+E2 RulesPal, "Does Production limit the number of units or their total cost?": "The number of units … a war sun uses one point of Production and you pay its 12 cost separately."
 @1
 E2 RulesPal, "Where are produced ground forces placed?": "With several producing planets you may split them among those planets however you like, even all on one."
 I5 Designer ruling (kaiteinomen, Sep 28, 2017): "you can put both of the Letani warriors on the same planet, if you wish, as long as one of the units that used Production is located there." Only location of producing unit matters for placement.

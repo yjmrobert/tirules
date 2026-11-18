@@ -11,6 +11,6 @@ N No source found.
 @3
 E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "Yes to both. Owned technologies always count, exhausted or not."
 @4
-E2 Same entry: "the first technology from the Technology primary counts for the second." The cited entry (mandatory parts) is less direct.
+E2 Same entry: "the first technology from the Technology primary counts for the second."
 @5
 E2 RulesPal, "If an exhausted technology returns to my deck and is researched again, is it exhausted?": "No — cards in the deck have no state, so it comes back ready."

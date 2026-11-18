@@ -7,7 +7,7 @@
     <ol class="note">
     <li>As each player only has ten plastic fighter figures, a player cannot have fighters in more than ten systems.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited, and what are they for?&rdquo;: &ldquo;each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them.&rdquo; The cited entry (moving plastic to produce) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are fighter and infantry tokens limited, and what are they for?&rdquo;: &ldquo;each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them.&rdquo;</li>
         </ul></li>
     <li>Players may also swap fighter tokens for plastic pieces at any time.<sup>1</sup>
         <ul>

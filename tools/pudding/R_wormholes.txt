@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered." The cited entry (galaxy setup) is less direct.
+E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered."
 @1
 N No source found.
 @2

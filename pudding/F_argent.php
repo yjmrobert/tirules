@@ -121,7 +121,7 @@
         </ul></li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.<sup>1</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 18: &ldquo;Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards.&rdquo; The matched passage (LRR 55.4) is the wrong rule.</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 18: &ldquo;Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -145,7 +145,7 @@
         </ul></li>
     <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action.&rdquo; The cited entry (reaching the Nexus) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action.&rdquo;</li>
         </ul></li>
     </ol>
 

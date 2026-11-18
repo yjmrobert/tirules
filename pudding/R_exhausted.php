@@ -7,7 +7,7 @@
     <ol class="note">
     <li>Planets will also ready at the end of each agenda phase.<sup>1,2,3</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 8.4: &ldquo;STEP 3&mdash;READY PLANETS: Each player readies each of their exhausted planets.&rdquo; The matched passage (Atrament) is the wrong rule.</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 8.4: &ldquo;STEP 3&mdash;READY PLANETS: Each player readies each of their exhausted planets.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the agenda phase happen, and when are planets readied?&rdquo;: &ldquo;Planets ready again at the end of the agenda phase for the next action phase.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase step 3: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>A status phase objective must have its condition met during the status phase.<sup>1,2,3</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I mark an objective as soon as I meet it and score it later &hellip;?&rdquo;: &ldquo;You must qualify at the moment you score. Status-phase objectives check the condition then.&rdquo; The cited entry (scoring order in combat) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I mark an objective as soon as I meet it and score it later &hellip;?&rdquo;: &ldquo;You must qualify at the moment you score. Status-phase objectives check the condition then.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.5a: &ldquo;When a player scores an objective during the status phase, they must fulfill the requirement on the card during the &ldquo;Score Objectives&rdquo; step of the status phase to score that objective.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;requirement on the card during the &lsquo;Score Objectives&rsquo; step of the status phase to score that objective.&rdquo;</li>
         </ul></li>

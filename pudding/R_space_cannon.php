@@ -11,7 +11,7 @@
         </ul></li>
     <li>The <b>Space Cannon Offense</b> step happens before combat. Any secret objectives that require winning a combat or similar cannot be scored if all of one player&rsquo;s ships in a system are destroyed during this step.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;Destroying ships with Space Cannon during movement &hellip; involves no combat.&rdquo; The cited entry is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;Destroying ships with Space Cannon during movement &hellip; involves no combat.&rdquo;</li>
         </ul></li>
     <li>If a player chooses to use the <sc>Space Cannon</sc> ability of their units, they must do so for all of their eligible units with the <sc>Space Cannon</sc> ability. This includes units in adjacent systems, if applicable.<sup>*</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional &hellip;?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it.&rdquo; The cited entry is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional &hellip;?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it.&rdquo;</li>
         </ul></li></ol>
     <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup>
         <ul>
@@ -36,7 +36,7 @@
         </ul></li>
     <li>A player cannot assign hits produced by a space cannon roll to their own units.<sup>2,5</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;During Space Cannon Offense, who can shoot at whom?&rdquo;: &ldquo;The active player fires first and chooses which other player&rsquo;s ships in the active system take the hits.&rdquo; The cited entry (Floating Factories) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;During Space Cannon Offense, who can shoot at whom?&rdquo;: &ldquo;The active player fires first and chooses which other player&rsquo;s ships in the active system take the hits.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 09/10/2018): &ldquo;You cannot use a PDS to target your own ships.&rdquo;</li>
         </ul></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>

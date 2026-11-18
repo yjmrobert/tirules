@@ -16,11 +16,11 @@
         </ul></li></ol>
     <li>A player cannot produce one fighter and one infantry for one resource.<sup>1</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 67.2: &ldquo;If the cost is accompanied by two icons&mdash;typically for fighters and infantry&mdash;a player produces two of that unit for that cost.&rdquo; The matched passage (Arborec FAQ) is the wrong rule.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 67.2: &ldquo;If the cost is accompanied by two icons&mdash;typically for fighters and infantry&mdash;a player produces two of that unit for that cost.&rdquo;</li>
         </ul></li>
     <li>If an effect allows a player to produce a unit of a specific type, then factional variations do not prevent that player from producing that type of unit.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo; The cited entry (home space dock) is less direct.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo;</li>
         </ul></li>
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.<sup>4</sup>
         <ul>

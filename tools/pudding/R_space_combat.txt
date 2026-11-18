@@ -10,7 +10,7 @@ N No source found.
 E8 PoK rulebook, Dark Energy Tap: "Your ships can retreat into adjacent systems that do not contain other players' units, even if you do not have units or control planets in that system."
 E2 RulesPal, "Where can my ships retreat to?": "Dark Energy Tap drops the second requirement."
 @4
-E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system." The cited entry (Skilled Retreat) is less direct.
+E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
 @5
 E10 Codex I: "when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal."
 I2 RulesPal, "When my ships retreat, can they pick up ground forces from my planets in the combat system?": "retreating ships move and transport units like any other movement."

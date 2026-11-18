@@ -7,7 +7,7 @@
     <ol class="note">
     <li>Resolving the secondary ability of Warfare does not activate the player&rsquo;s home system. It may be resolved even if that system already contains one of their command tokens.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Warfare secondary work?&rdquo;: &ldquo;It doesn&rsquo;t activate the system and works even if your home system already has your token.&rdquo; The cited entry (activating a system with your token) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Warfare secondary work?&rdquo;: &ldquo;It doesn&rsquo;t activate the system and works even if your home system already has your token.&rdquo;</li>
         </ul></li>
     <li>If a tactical action that is part of the <i>Warfare</i> primary ability is cancelled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.<sup>7</sup>
         <ul>

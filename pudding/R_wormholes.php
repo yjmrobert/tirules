@@ -7,7 +7,7 @@
     <ol class="note">
     <li>A system with a wormhole is not an anomaly.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which systems count as anomalies?&rdquo;: &ldquo;Empty systems and wormhole systems are not anomalies unless bordered.&rdquo; The cited entry (galaxy setup) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which systems count as anomalies?&rdquo;: &ldquo;Empty systems and wormhole systems are not anomalies unless bordered.&rdquo;</li>
         </ul></li>
     <li>If a system contains multiple wormholes of the same type, those are treated as separate wormholes.<sup>*</sup>
         <ul>

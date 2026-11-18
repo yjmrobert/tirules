@@ -1,5 +1,5 @@
 @0
-E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them." The cited entry (moving plastic to produce) is less direct.
+E2 RulesPal, "Are fighter and infantry tokens limited, and what are they for?": "each stack of tokens must sit with at least one plastic piece of the same type. So your plastic fighters and infantry limit how many places you can have them."
 @1
 E1 LRR 23.5: "players can swap infantry and fighter tokens for plastic pieces" as necessary.
 @2

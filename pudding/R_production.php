@@ -8,7 +8,7 @@
     <li>A unit&rsquo;s <sc>Production</sc> value is the maximum number of units that may be produced by that unit, regardless of cost. For example, a space dock with &ldquo;<sc>Production</sc> 6&rdquo; could produce six dreadnoughts or six fighters.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 68.1: &ldquo;This value is the maximum number of units that this unit can produce.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Production limit the number of units or their total cost?&rdquo;: &ldquo;The number of units &hellip; a war sun uses one point of Production and you pay its 12 cost separately.&rdquo; The cited entry (Sarween Tools) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Production limit the number of units or their total cost?&rdquo;: &ldquo;The number of units &hellip; a war sun uses one point of Production and you pay its 12 cost separately.&rdquo;</li>
         </ul></li>
     <li>Placement of produced units is not limited by a unit&rsquo;s <sc>Production</sc> value, only by the location of the producing units.<sup>1,2,5</sup>
         <ul>

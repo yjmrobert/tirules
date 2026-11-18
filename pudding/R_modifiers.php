@@ -7,7 +7,7 @@
     <ol class="note">
     <li>&ldquo;Combat roll&rdquo; modifiers do not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 10.1c: &ldquo;Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls.&rdquo; Bombardment and Space Cannon have the same rule. The matched passage is the LRR index.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 10.1c: &ldquo;Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls.&rdquo; Bombardment and Space Cannon have the same rule.</li>
         </ul></li>
     <li>When an effect, such as retreating, moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1,2</sup>
         <ul>

@@ -7,7 +7,7 @@
     <ol class="note">
     <li>A commander&rsquo;s ability cannot be applied to the instance of the effect that unlocked it.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro commander draw an action card for the very technology that unlocks it?&rdquo;: &ldquo;No &mdash; unlock conditions are checked only after the current effect fully resolves.&rdquo; The cited entry (Argent agent) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro commander draw an action card for the very technology that unlocks it?&rdquo;: &ldquo;No &mdash; unlock conditions are checked only after the current effect fully resolves.&rdquo;</li>
         </ul></li>
     <li>A commander may be unlocked between two abilities that occur in the same timing window.<sup>2</sup>
         <ul>

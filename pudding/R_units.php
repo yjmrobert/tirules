@@ -7,7 +7,7 @@
     <ol class="note">
     <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo; The cited entry (home space dock) is less direct.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo;</li>
         </ul></li>
     <li>Units are component limited.<sup>1</sup>
         <ul>

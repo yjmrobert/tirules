@@ -2,7 +2,7 @@
 E1 LRR 34.4a: "Passive abilities on an exhausted card are still in effect while that card is exhausted."
 I2 RulesPal, "Are breakthroughs technologies …?": "Their passive abilities keep working while exhausted."
 @1
-E1 LRR 8.4: "Each player readies each of their exhausted planets." The matched passage (Atrament) is the wrong rule.
+E1 LRR 8.4: "Each player readies each of their exhausted planets."
 E2 RulesPal, "When does the agenda phase happen, and when are planets readied?": "Planets ready again at the end of the agenda phase."
 E3 Learn to Play: "Each player readies all of their planet cards."
 @2

@@ -26,7 +26,7 @@
         </ul></li>
     <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo; The cited entry (Skilled Retreat) is less direct.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
         </ul></li>
     <li>While retreating, a player may transport zero or more ground forces from planets they control in the active system. The player need not decide which ground forces they transport until they execute the retreat.<sup>2,10</sup>
         <ul>
