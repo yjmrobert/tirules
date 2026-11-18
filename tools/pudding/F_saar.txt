@@ -96,7 +96,7 @@ E4 Designer ruling: "How does Clan of Saar's agent, Mendosa, interact with abili
 @40
 E4 Designer ruling: "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect."
 @41
-N No source found.
+I4 Designer ruling: "How does Clan of Saar's agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar's agent, Mendosa, will get an errata to 'WHEN you activate a system.' This means other bonuses would be applied after Mendosa takes effect." A gravity rift's +1 is applied during movement, after Mendosa takes effect.
 @42
 E4 Designer ruling: "When leaving a Nebula, is Clan of Saar's agent, Mendosa, applied as a bonus or setting the move value? A: … Mendosa would be treated as a bonus and would override the Nebula's movement value rule."
 @43

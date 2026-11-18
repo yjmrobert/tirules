@@ -77,7 +77,7 @@
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup></li>
     <ol>
         <li>Move value modifying effects that trigger after a system is activated, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#FAQ:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
-        <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>*</sup></li>
+        <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
     </ol>
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
     </ol>

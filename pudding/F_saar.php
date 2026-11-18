@@ -217,9 +217,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo;</li>
         </ul></li>
-        <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>*</sup>
+        <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does Clan of Saar&rsquo;s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar&rsquo;s agent, Mendosa, will get an errata to &lsquo;WHEN you activate a system.&rsquo; This means other bonuses would be applied after Mendosa takes effect.&rdquo; A gravity rift&rsquo;s +1 is applied during movement, after Mendosa takes effect.</li>
         </ul></li>
     </ol>
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup>
