@@ -121,11 +121,13 @@ E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a sys
 @56
 N No source found.
 @57
-N No source found.
+I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 @58
 N No source found.
 @59
 N No source found.
 @60
+N No source found.
+@61
 E4 Designer ruling: "How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? A: Each mech is one instance of spend one influence."
 E2 RulesPal: "each mech is its own instance of the ability, so the attacker pays 1 influence per mech."

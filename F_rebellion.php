@@ -69,6 +69,7 @@
     <ol class="note">
     <li>The Rebellion player may only start placing ships on Homesick Phantom once the hero has been unlocked.<sup>*</sup></li>
     <li><i>Fragment Reality</i> cannot be used during a combat between two other players.<sup>*</sup></li>
+    <li>Ships placed by <i>Fragment Reality</i> count against the Rebellion player&rsquo;s fleet pool immediately, but capacity is not checked until the end of the combat.<sup>1,2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Mech:~:text=Revenant">Revenant</a> <sub>(Mech)</sub></h2>

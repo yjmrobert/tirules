@@ -160,6 +160,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>Ships placed by <i>Fragment Reality</i> count against the Rebellion player&rsquo;s fleet pool immediately, but capacity is not checked until the end of the combat.<sup>1,2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?&rdquo;: &ldquo;At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 16.4c: &ldquo;A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Mech:~:text=Revenant">Revenant</a> <sub>(Mech)</sub></h2>

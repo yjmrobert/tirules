@@ -60,6 +60,9 @@ N No source found.
 @27
 N No source found.
 @28
-N No source found.
+I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
+E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."
 @29
+N No source found.
+@30
 I2 RulesPal, on the similar Lazax Gate Folding: "The passive part … doesn't need the card ready, so it works while exhausted."

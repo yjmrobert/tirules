@@ -108,6 +108,7 @@
     <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.<sup>12</sup></li>
     <ol><li><i>Overwing Zeta</i> may be played in a round following the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris"><i>Artemiris</i></a> being destroyed.<sup>*</sup></li></ol>
+    <li>Ships placed by <i>Overwing Zeta</i> count against the Keleres player&rsquo;s fleet pool immediately; any excess non&ndash;fighter ships are removed at once.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Odlynn%20Myrr">Odlynn Myrr</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Operation%20Archon">Operation Archon</a> <sub>(Hero)</sub></h2>

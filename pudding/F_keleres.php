@@ -289,6 +289,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
+    <li>Ships placed by <i>Overwing Zeta</i> count against the Keleres player&rsquo;s fleet pool immediately; any excess non&ndash;fighter ships are removed at once.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?&rdquo;: &ldquo;At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Odlynn%20Myrr">Odlynn Myrr</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Operation%20Archon">Operation Archon</a> <sub>(Hero)</sub></h2>
