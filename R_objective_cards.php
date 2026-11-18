@@ -48,8 +48,8 @@
     <li>A status phase objective must have its condition met during the status phase.<sup>1,2,3</sup></li>
     <li>Any number of players may score a given public objective during the status phase.<sup>2,3</sup></li>
     <li>The number of secret objective cards in a player&rsquo;s hand is public information.<sup>*</sup></li>
-    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of combat.<sup>2</sup></li>
-    <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.<sup>2</sup></li></ol>
+    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of combat.<sup>1,2</sup></li>
+    <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.<sup>1,2,5</sup></li></ol>
     <li>A player may score an action phase secret objective when they are not the active player.<sup>1,2</sup></li>
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>4</sup></li>
     <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup></li>

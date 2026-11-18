@@ -9,8 +9,12 @@ E3 Learn to Play: "Any number of players can score each of these objectives."
 N No source found.
 @3
 E2 RulesPal, "Which kills trigger Nekro's Technological Singularity?": "Kills from Space Cannon, Bombardment … happen outside combat."
+I1 LRR Movement, Step 2: "Space Cannon Offense: After the Move Ships step, players can use the Space Cannon abilities of their units in the active system." Space combat is a later step of the tactical action.
+I1 LRR Invasion: "Step 1 – Bombardment" and "Step 3 – Space Cannon Defense" come before "Step 4 – Ground Combat."
 @4
 E2 Same entry: "Anti-Fighter Barrage is part of combat and counts."
+E1 LRR Space Combat: "Step 1 – Anti-Fighter Barrage: If this is the first round of a space combat, the players may simultaneously use the Anti-Fighter Barrage ability of any of their units in the active system."
+E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat)"
 @5
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "Secret objectives marked Action Phase are scored the moment you meet them, even on another player's turn and even after you have passed."
 I1 LRR 61.5b: "When a player scores an objective during the action phase, they can do so at any time during that phase." any time in the phase, not limited to own turn.

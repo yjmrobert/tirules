@@ -20,13 +20,17 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of combat.<sup>2</sup>
+    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of combat.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which kills trigger Nekro&rsquo;s Technological Singularity?&rdquo;: &ldquo;Kills from Space Cannon, Bombardment &hellip; happen outside combat.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR Movement, Step 2: &ldquo;Space Cannon Offense: After the Move Ships step, players can use the Space Cannon abilities of their units in the active system.&rdquo; Space combat is a later step of the tactical action.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR Invasion: &ldquo;Step 1 &ndash; Bombardment&rdquo; and &ldquo;Step 3 &ndash; Space Cannon Defense&rdquo; come before &ldquo;Step 4 &ndash; Ground Combat.&rdquo;</li>
         </ul></li>
-    <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.<sup>2</sup>
+    <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;Anti-Fighter Barrage is part of combat and counts.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR Space Combat: &ldquo;Step 1 &ndash; Anti-Fighter Barrage: If this is the first round of a space combat, the players may simultaneously use the Anti-Fighter Barrage ability of any of their units in the active system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (livestrongbelwas, Feb 08, 2018): &ldquo;Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat)&rdquo;</li>
         </ul></li></ol>
     <li>A player may score an action phase secret objective when they are not the active player.<sup>1,2</sup>
         <ul>
