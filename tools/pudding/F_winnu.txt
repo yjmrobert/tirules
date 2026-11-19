@@ -40,7 +40,7 @@ E4 Designer ruling: "Does the Winnu commander, Rickar Rickani, stack if Mecatol 
 @17
 E2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "Secondaries cost a strategy pool token, except Leadership's."
 @18
-N No source found.
+I1 LRR 92 (Trade), Step 3: "The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token." Players chosen only with Imperial Seal use the normal secondary rules.
 @19
 N No source found.
 @20

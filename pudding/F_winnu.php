@@ -116,14 +116,14 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card and potentially the <a href="/R_trade"><i>Trade</i></a> strategy card.<sup>2</sup>
+    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a strategy card&rsquo;s primary ability cost a command token, and does the Leadership secondary?&rdquo;: &ldquo;Secondaries cost a strategy pool token, except Leadership&rsquo;s.&rdquo;</li>
         </ul></li>
-    <li>If the Winnu player chooses the <a href="/R_trade"><i>Trade</i></a> strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero&rsquo;s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.<sup>*</sup>
+    <ol><li>If the Winnu player resolves the <a href="/R_trade"><i>Trade</i></a> strategy card, the players they choose with its primary ability must resolve the secondary ability without spending a command token. Other players chosen with <i>Imperial Seal</i> may choose whether to resolve the secondary ability, but must spend a command token to do so.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 92 (Trade), Step 3: &ldquo;The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token.&rdquo; Players chosen only with Imperial Seal use the normal secondary rules.</li>
+        </ul></li></ol>
     <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
