@@ -6,7 +6,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the puppeted player resolves the secondary ability of a strategy card in their play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Enervate plot card work on any secondary usage &hellip;? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.&rdquo;</li>
         </ul></li>
