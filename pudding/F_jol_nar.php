@@ -178,10 +178,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
         </ul></li>
-    <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.<sup>*</sup>
+    <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 90 (Technology): &ldquo;Unit upgrades do not have a color and do not satisfy prerequisites.&rdquo; Specialized Compounds needs a technology matching the planet&rsquo;s specialty color.</li>
         </ul></li>
+    <ol><li>Unit upgrades do not have a color.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 90 (Technology): &ldquo;Unit upgrades do not have a color and do not satisfy prerequisites.&rdquo;</li>
+        </ul></li></ol>
     <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
