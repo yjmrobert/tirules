@@ -40,7 +40,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir">Visz El Vir</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Each mech will roll an additional die.<sup>*</sup></li>
-    <li>The <i>Visz El Vir</i> ability applies to both Eidolon and Z&ndash;Grav Eidolon.<sup>*</sup></li>
+    <li>The <i>Visz El Vir</i> ability applies to Eidolon, Z&ndash;Grav Eidolon and the Eidolon Maximum.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Garv%20and%20Gunn">Garv and Gunn</a> <sub>(Agent)</sub></h2>

@@ -88,7 +88,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <i>Visz El Vir</i> ability applies to both Eidolon and Z&ndash;Grav Eidolon.<sup>*</sup>
+    <li>The <i>Visz El Vir</i> ability applies to Eidolon, Z&ndash;Grav Eidolon and the Eidolon Maximum.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
