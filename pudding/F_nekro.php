@@ -139,6 +139,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus play Reveal Prototype?&rdquo;: &ldquo;Yes, gaining 3 command tokens instead of the technology, but only if there&rsquo;s a valid unit upgrade the card could research.&rdquo;</li>
         </ul></li>
+    <ol><li>For example, if the Nekro player&rsquo;s only units in the combat are dreadnoughts and fighters, and they already own both Dreadnought II and Fighter II, they cannot play <i>Reveal Prototype</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Example of the parent note.</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Promissory_Note:~:text=Antivirus">Antivirus</a> <sub>(Promissory Note)</sub></h2>

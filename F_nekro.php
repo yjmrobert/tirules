@@ -46,6 +46,7 @@
     <li>If an ability triggers &ldquo;after&rdquo; a player researches a technology, that ability will never be triggered by the Nekro player.<sup>*</sup></li>
     <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> law is in play, the Nekro player will not destroy a ship when they would research a technology.<sup>2</sup></li></ol>
     <li>The Nekro player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, gaining three command tokens instead of researching, but only if there is a unit upgrade technology the card could research.<sup>2</sup></li>
+    <ol><li>For example, if the Nekro player&rsquo;s only units in the combat are dreadnoughts and fighters, and they already own both Dreadnought II and Fighter II, they cannot play <i>Reveal Prototype</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Promissory_Note:~:text=Antivirus">Antivirus</a> <sub>(Promissory Note)</sub></h2>
