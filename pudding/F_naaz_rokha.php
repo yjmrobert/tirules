@@ -41,7 +41,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Promissory_Note:~:text=Black%20Market%20Forgery">Black Market Forgery</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If there are no cards in the relic deck, a player cannot gain a relic.<sup>1,4</sup>
+    <li>If the relic deck is empty, a player may still purge two relic fragments as an action to resolve <i>Black Market Forgery</i>, but they do not gain a relic.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 73.2a: &ldquo;If there are no cards in the relic deck, they do not gain a relic.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;Can a player &ldquo;gain&rdquo; a relic by purging fragments if there are no relics left?&rdquo;: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>

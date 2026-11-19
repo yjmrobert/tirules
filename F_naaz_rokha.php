@@ -18,7 +18,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Promissory_Note:~:text=Black%20Market%20Forgery">Black Market Forgery</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If there are no cards in the relic deck, a player cannot gain a relic.<sup>1,4</sup></li>
+    <li>If the relic deck is empty, a player may still purge two relic fragments as an action to resolve <i>Black Market Forgery</i>, but they do not gain a relic.<sup>1,4</sup></li>
     <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup></li>
     </ol>
 
