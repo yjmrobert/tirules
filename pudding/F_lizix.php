@@ -13,17 +13,12 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,2,4</sup>
+    <li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may, but are not required to, remove a structure of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs&rdquo; general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.</li>
-        </ul></li>
-    <li>If there are none of a structure&rsquo;s type in their reinforcements, the L1Z1X player is not forced to replace that structure.<sup>1,2,4</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 23.4a: a player &ldquo;can remove&rdquo; a unit; it is optional.</li>
-        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my reinforcements are empty, must I take units from the board to place a new one?&rdquo;: &ldquo;you are not required to&rdquo; Entry names L1Z1X Assimilate.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my reinforcements are empty, must I take units from the board to place a new one?&rdquo;: &ldquo;No &mdash; the rules let you remove a unit from the board to place it elsewhere, but you are not required to. This matters for effects such as L1Z1X Assimilate or Swords to Plowshares.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If all my space docks or PDS are on the board, can I place another?&rdquo;: &ldquo;if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs.&rdquo;</li>
         </ul></li>
     <li>When the L1Z1X player gains control of a planet, they also replace coexisting structures on that planet.<sup>6</sup>
         <ul>

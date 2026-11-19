@@ -5,8 +5,7 @@
     <ol class="note">
     <li>Any space docks that are placed by this ability during a tactical action may produce units during the <b>Production</b> step of that tactical action.<sup>2</sup></li>
     <li>If the L1Z1X player resolves their <sc>Assimilate</sc> ability, and then plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup></li>
-    <li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,2,4</sup></li>
-    <li>If there are none of a structure&rsquo;s type in their reinforcements, the L1Z1X player is not forced to replace that structure.<sup>1,2,4</sup></li>
+    <li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may, but are not required to, remove a structure of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,2,4</sup></li>
     <li>When the L1Z1X player gains control of a planet, they also replace coexisting structures on that planet.<sup>6</sup></li>
     </ol>
 
