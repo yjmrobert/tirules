@@ -33,7 +33,7 @@ I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non
 @12
 E1 LRR FAQ: "Can the Creuss Promissory note still be used if the Creuss have not researched 'Wormhole Generator'? A: Yes."
 @13
-N No source found.
+I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" An eliminated player's home system is still a home system, so only the planet-control option allows it.
 @14
 E2 RulesPal, "Does the Creuss flagship's delta wormhole trigger Dimensional Splicer?": "Yes — it is a wormhole."
 @15

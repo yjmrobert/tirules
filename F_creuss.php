@@ -28,7 +28,7 @@
     <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>5</sup></li></ol>
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.<sup>1,5</sup></li>
     <li>The <i>Creuss IFF</i> may be played even if the Creuss player has not researched <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a>.<sup>1</sup></li>
-    <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player.<sup>*</sup></li>
+    <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player, unless the player resolving it controls a planet in that system.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>

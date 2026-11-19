@@ -77,9 +77,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Creuss Promissory note still be used if the Creuss have not researched &lsquo;Wormhole Generator&rsquo;? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player.<sup>*</sup>
+    <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player, unless the player resolving it controls a planet in that system.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; An eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
     </ol>
 
