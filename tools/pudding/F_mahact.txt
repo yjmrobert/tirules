@@ -53,7 +53,7 @@ E2 RulesPal, "Can I play Counterstroke on a system I activate that already has m
 E4 Designer ruling: "Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? A: No."
 @24
 E2 RulesPal, "How does the Mahact hero's Benediction work?": "move all units in its space area." Ground forces on planets are not in the space area.
-I4 Designer ruling: "can the Mahact player transport their own ground forces from planets when moving? A: Yes." Stated only for the Mahact player's own ships.
+E4 Designer ruling: "When using the Mahact Hero, Benediction, can the Mahact player transport other players' ground forces from planets? Can the units' owner transport ground forces from planets? A: No in both circumstances."
 @25
 E4 Designer ruling: "When using the Mahact Hero, Benediction, can the Mahact player transport their own ground forces from planets when moving? A: Yes."
 @26

@@ -147,7 +147,7 @@
     <li>If the Mahact player moves another player&rsquo;s ships, ground forces on planets are left behind.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;move all units in its space area.&rdquo; Ground forces on planets are not in the space area.</li>
-        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;can the Mahact player transport their own ground forces from planets when moving? A: Yes.&rdquo; Stated only for the Mahact player&rsquo;s own ships.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, can the Mahact player transport other players&rsquo; ground forces from planets? Can the units&rsquo; owner transport ground forces from planets? A: No in both circumstances.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If the Mahact player moves their own ships, they may transport ground forces on planets.<sup>4</sup>
