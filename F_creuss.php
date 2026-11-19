@@ -45,7 +45,7 @@
     <ol class="note">
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.<sup>2,5</sup></li>
     <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.<sup>5</sup></li></ol>
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup></li>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup></li>
     <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup></li>
     <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup></li>
     <li>The Creuss player may use <i>Wormhole Generator</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup></li>
@@ -53,7 +53,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup></li>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>

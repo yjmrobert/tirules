@@ -125,9 +125,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling: &ldquo;there is nothing stopping the Creuss from &lsquo;moving&rsquo; the token into the system that it is already in.&rdquo;</li>
         </ul></li></ol>
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
     <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup>
         <ul>
@@ -146,9 +146,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
     </ol>
 

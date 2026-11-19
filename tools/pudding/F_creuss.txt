@@ -55,7 +55,7 @@ E5 Designer ruling (Sep 2017): "The effect is mandatory, once researched."
 @21
 E5 Same ruling: "there is nothing stopping the Creuss from 'moving' the token into the system that it is already in."
 @22
-N No source found.
+I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player's home system is still a home system, so only the planet-control option allows it.
 @23
 E6 Community consensus: "Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture."
 I2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Wormholes can be placed there, since nothing forbids it." wormhole tokens may be placed in Fracture systems; IFF not specifically mentioned.
@@ -64,7 +64,7 @@ E6 Community consensus, "Do neutral ships block wormhole placement?": "Do neutra
 @25
 E6 Community consensus: "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token …? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
 @26
-N No source found.
+I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player's home system is still a home system, so only the planet-control option allows it.
 @27
 E2 RulesPal, "How does the Creuss flagship's 'move before or after your other ships' work?": "If it moves into the active system first, that system becomes adjacent to other delta wormholes such as the Creuss home system, so your other ships can come in through it."
 @28
