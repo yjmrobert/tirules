@@ -12,7 +12,7 @@ N No source found.
 @5
 I1 LRR FAQ: "a promissory note with “At the start of your turn:” timing may be immediately played if the transaction occurred within the “start of turn” timing window." same principle applies to a card received during its timing window.
 @6
-N No source found.
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event." The Jol-Nar player's research is the timing event; Research Agreement can be resolved only once for it.
 @7
 N No source found.
 @8

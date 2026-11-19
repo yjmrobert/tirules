@@ -22,7 +22,7 @@
     <li>If the Jol&ndash;Nar player will research several technologies in a row, then after each, the player holding <i>Research Agreement</i> may play it. The Jol&ndash;Nar player does not decide the next technology they will research until after the player holding the <i>Research Agreement</i> plays it or declines to.<sup>*</sup></li>
     <li>If a player receives <i>Research Agreement</i> in a transaction immediately after the Jol&ndash;Nar player researched a technology, that player may play it immediately to gain that technology.<sup>1</sup></li>
     <ol>
-        <li>Once a player has used <i>Research Agreement</i> after the Jol&ndash;Nar player researches a technology, no other player may use <i>Research Agreement</i> for that same Jol&ndash;Nar research instance to gain the same technology.<sup>*</sup></li>
+        <li>Once a player has used <i>Research Agreement</i> after the Jol&ndash;Nar player researches a technology, no other player may use <i>Research Agreement</i> for that same Jol&ndash;Nar research instance to gain the same technology.<sup>1</sup></li>
         <li>If the active player received the <i>Research Agreement</i> on a previous turn, they may play it and immediately perform a transaction with the Jol&ndash;Nar player to regain it. They may then play it when the Jol&ndash;Nar player researches their next technology.<sup>*</sup></li>
     </ol>
     <li>Any deal between the Jol&ndash;Nar player and another player regarding when <i>Research Agreement</i> will be played, if made before <i>Research Agreement</i> is exchanged, is non&ndash;binding.<sup>1</sup></li>

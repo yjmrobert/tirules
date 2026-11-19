@@ -43,9 +43,9 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a promissory note with &ldquo;At the start of your turn:&rdquo; timing may be immediately played if the transaction occurred within the &ldquo;start of turn&rdquo; timing window.&rdquo; same principle applies to a card received during its timing window.</li>
         </ul></li>
     <ol>
-        <li>Once a player has used <i>Research Agreement</i> after the Jol&ndash;Nar player researches a technology, no other player may use <i>Research Agreement</i> for that same Jol&ndash;Nar research instance to gain the same technology.<sup>*</sup>
+        <li>Once a player has used <i>Research Agreement</i> after the Jol&ndash;Nar player researches a technology, no other player may use <i>Research Agreement</i> for that same Jol&ndash;Nar research instance to gain the same technology.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo; The Jol-Nar player&rsquo;s research is the timing event; Research Agreement can be resolved only once for it.</li>
         </ul></li>
         <li>If the active player received the <i>Research Agreement</i> on a previous turn, they may play it and immediately perform a transaction with the Jol&ndash;Nar player to regain it. They may then play it when the Jol&ndash;Nar player researches their next technology.<sup>*</sup>
         <ul>
