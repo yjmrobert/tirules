@@ -144,7 +144,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Nova Seed</i> may target the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) or the Wormhole Nexus (tile 82).<sup>*</sup>
+    <li><i>Nova Seed</i> may target the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17), the <a href="/F_rebellion">Rebellion</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=The%20Sorrow">Sorrow</a> (tile 94), or the Wormhole Nexus (tile 82).<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
