@@ -17,7 +17,7 @@
         <li>The Yin cannot choose their own ships as targets.<sup>1</sup></li>
         <li>The targeted ship may cancel the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup></li>
     </ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2,5</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup></li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.<sup>*</sup></li>
     <li>If the Yin player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
     <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup></li>

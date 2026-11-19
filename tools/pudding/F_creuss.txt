@@ -43,7 +43,6 @@ E2 RulesPal, "When Dimensional Splicer or Yin's Devotion hits my ship, who picks
 @17
 E1 LRR FAQ: "'Shields Holding' may be used to cancel hits that are produced by these abilities," including "Dimensional Splicer."
 E2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both."
-E5 Designer ruling: "Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits."
 @18
 E2 RulesPal, "When Dimensional Splicer or Yin's Devotion hits my ship …?": "Only that ship can use its own Sustain Damage to cancel it; you can't move the hit elsewhere."
 @19
