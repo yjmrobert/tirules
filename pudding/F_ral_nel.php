@@ -86,10 +86,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same text: &ldquo;you may destroy 1 ship in the active system.&rdquo;</li>
         </ul></li>
-    <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>*</sup>
+    <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move.&rdquo; The Last Dispatch triggers &ldquo;When this unit retreats.&rdquo;</li>
         </ul></li>
+    <ol><li><i>Skilled Retreat</i> is not a retreat.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move.&rdquo;</li>
+        </ul></li></ol>
     <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>

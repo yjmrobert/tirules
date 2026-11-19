@@ -30,38 +30,40 @@ I7 Same text: the target must be a ship "that does not have SUSTAIN DAMAGE."
 @14
 E7 Same text: "you may destroy 1 ship in the active system."
 @15
-N No source found.
+I2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move." The Last Dispatch triggers "When this unit retreats."
 @16
-E6 Community consensus: "What happens if the flagship ability destroys the last player's ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves."
+E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move."
 @17
-N No source found.
+E6 Community consensus: "What happens if the flagship ability destroys the last player's ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves."
 @18
-E6 Community consensus: "Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size."
+N No source found.
 @19
-E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming."
+E6 Community consensus: "Kan Kip Rel (Agent): How would this resolve if the Ral Nel player would go over their action card hand limit? A: The ability resolves before checking hand limit size."
 @20
-E9 Designer Q&A, "RalNel Commander": "Sometimes, RalNel will not have a valid, regular retreat path. Does this mean that they cannot announce a retreat, and thus cannot use their commander …? A: This means they can't use it."
+E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming, then take 1 and give the other to another player keeping the 3rd if not discarded to scheming."
 @21
-N No source found.
+E9 Designer Q&A, "RalNel Commander": "Sometimes, RalNel will not have a valid, regular retreat path. Does this mean that they cannot announce a retreat, and thus cannot use their commander …? A: This means they can't use it."
 @22
-E6 Community consensus: "Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card …? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved."
-@23
 N No source found.
+@23
+E6 Community consensus: "Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card …? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved."
 @24
 N No source found.
 @25
 N No source found.
 @26
-E6 Community consensus: "Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero."
-@27
-E6 Community consensus: "Can their mech move the infantry within the system …? A: No, only from adjacent systems, not the active system."
-@28
-E6 Community consensus: "If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger."
-@29
 N No source found.
+@27
+E6 Community consensus: "Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero."
+@28
+E6 Community consensus: "Can their mech move the infantry within the system …? A: No, only from adjacent systems, not the active system."
+@29
+E6 Community consensus: "If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces? A: No, it does not see the trigger."
 @30
 N No source found.
 @31
-I6 Community consensus: "What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: … all action cards on it are immediately discarded." They are discarded only then.
+N No source found.
 @32
+I6 Community consensus: "What happens to the action cards stored on Ral Nel breakthrough, Data Skimmer, if the Ral Nel player is eliminated? A: … all action cards on it are immediately discarded." They are discarded only then.
+@33
 E6 Community consensus: "The breakthrough is returned to the box and all action cards on it are immediately discarded."
