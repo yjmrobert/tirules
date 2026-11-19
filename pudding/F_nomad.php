@@ -87,13 +87,13 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <i>Memoria</i> cannot retreat to a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>, unless it is adjacent to that system using another adjacency method.<sup>*</sup>
+    <li>The <i>Memoria</i> cannot retreat to a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>, unless it is adjacent to that system using another adjacency method.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 78.7b: &ldquo;To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system.&rdquo; The retreat destination must be a system adjacent to the active system; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems, not its system.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to <a href="/R_mecatol_rex">Mecatol Rex</a>. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>*</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to <a href="/R_mecatol_rex">Mecatol Rex</a>. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;Intimidate Council needs ships in two different systems next to Mecatol Rex.&rdquo; The objective needs the systems to be adjacent, not the ships; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems.</li>
         </ul></li>
     <li>The <i>Memoria</i> is adjacent to the system that the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is in before movement, regardless of if that <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is transported during that movement.<sup>*</sup>
         <ul>

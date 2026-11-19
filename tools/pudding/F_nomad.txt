@@ -31,9 +31,9 @@ N No source found.
 @15
 N No source found.
 @16
-N No source found.
+I1 LRR 78.7b: "To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system." The retreat destination must be a system adjacent to the active system; the Memoria's ability makes only the ship adjacent to mech systems, not its system.
 @17
-N No source found.
+E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "Intimidate Council needs ships in two different systems next to Mecatol Rex." The objective needs the systems to be adjacent, not the ships; the Memoria's ability makes only the ship adjacent to mech systems.
 @18
 N No source found.
 @19
