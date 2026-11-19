@@ -132,6 +132,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does The Embers of Muaat Hero, Nova Seed, interact with tokens &hellip;? A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction.&rdquo;</li>
         </ul></li>
+    <ol><li>The Avernus token is purged, not returned to the Muaat player. This also purges the Avernus planet card, <i>The Nucleus</i> legendary planet ability card, and any attachments on Avernus.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if Nova Seed is used on a system that contains the Avernus token? A: The token is purged, this causes the planet card, legendary ability card, and any attachments to be purged as well.&rdquo;</li>
+        </ul></li></ol>
     <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Muaat hero&rsquo;s Nova Seed treat Muaat&rsquo;s own units &hellip;?&rdquo;: &ldquo;Muaat&rsquo;s own stay, the war sun included, and can leave later, since nothing stops ships moving out of a supernova.&rdquo;</li>
