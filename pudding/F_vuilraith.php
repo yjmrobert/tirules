@@ -227,7 +227,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Vuil&rsquo;raith hero make a ship roll once per adjacent dimensional tear?&rdquo;: &ldquo;No &mdash; each non-fighter ship in or next to a dimensional tear rolls once, however many tears it touches.&rdquo;</li>
         </ul></li>
-    <li>The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.<sup>*</sup>
+    <li>Units can only be captured by the dice specifically allocated to them.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
