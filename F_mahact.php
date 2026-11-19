@@ -114,7 +114,7 @@
     <ol><li>The technology may be exhausted when it is purged.<sup>*</sup></li></ol>
     <li>Once a technology has been purged, the Mahact player cannot regain it for the remainder of the game.<sup>7,8</sup></li>
     <li>If the Mahact player purges the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup></li>
-    <li>If the Mahact player purges their War Sun unit upgrade technology, they must remove each of their war suns from the game board.<sup>*</sup></li>
+    <li>If the Mahact player purges their War Sun unit upgrade technology, each of their war suns are removed from the game board.<sup>1</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

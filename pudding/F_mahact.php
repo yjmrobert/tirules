@@ -294,9 +294,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player purges their War Sun unit upgrade technology, they must remove each of their war suns from the game board.<sup>*</sup>
+    <li>If the Mahact player purges their War Sun unit upgrade technology, each of their war suns is removed from the game board.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 90.20: &ldquo;If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player&rsquo;s war suns are returned to their reinforcements.&rdquo; By analogy: a player who loses their war sun unit upgrade loses their war suns.</li>
         </ul></li>
     </ol>
 </article>

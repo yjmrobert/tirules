@@ -280,7 +280,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.19: &ldquo;If a Valefar Assimilator token is removed from the Saar &lsquo;Floating Factory&rsquo; unit upgrade, each of the Nekro Virus&rsquo; space docks must be placed on an eligible planet they control in that space dock&rsquo;s system, or the space dock is returned to their reinforcements.&rdquo;</li>
         </ul></li>
-        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns are returned to their reinforcements.<sup>1</sup>
+        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns is removed from the game board.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.20: &ldquo;If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player&rsquo;s war suns are returned to their reinforcements.&rdquo;</li>
         </ul></li>

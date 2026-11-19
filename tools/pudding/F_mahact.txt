@@ -121,4 +121,4 @@ I8 PoK rulebook: "A purged card is removed from the" game.
 @55
 N No source found.
 @56
-N No source found.
+I1 LRR 90.20: "If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player's war suns are returned to their reinforcements." By analogy: a player who loses their war sun unit upgrade loses their war suns.
