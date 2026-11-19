@@ -10,6 +10,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which side of the sleeper token is used &hellip;?&rdquo;: &ldquo;A planet holds one sleeper.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Titans put more than one sleeper on a planet with Terragenesis &hellip;?&rdquo;: &ldquo;a planet holds at most one.&rdquo;</li>
         </ul></li>
+    <li>The Ul player may only move a sleeper token with <sc>Terragenesis</sc> once all of their sleeper tokens are on the game board.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which side of the sleeper token is used, when does Terragenesis move one, and can Awaken work with no PDS left?&rdquo;: &ldquo;Terragenesis moves one only once all yours are on the board.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken">Awaken</a> <sub></sub></h2>

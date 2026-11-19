@@ -4,6 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis">Terragenesis</a></h2>
     <ol class="note">
     <li>A planet cannot contain more than one sleeper token.<sup>2</sup></li>
+    <li>The Ul player may only move a sleeper token with <sc>Terragenesis</sc> once all of their sleeper tokens are on the game board.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken">Awaken</a> <sub></sub></h2>
