@@ -11,6 +11,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
     <ol class="note">
     <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup></li>
+    <ol><li>When the Deepwrought player scores objectives, planets they are <a href="/R_coexistence">coexisting</a> on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup></li></ol>
     <li>If all of the Deepwrought player&rsquo;s ocean cards are already in play, they cannot resolve <sc>Oceanbound</sc> to ready one of their oceans.<sup>6</sup></li>
     <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup></li>
     </ol>

@@ -25,6 +25,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? &hellip; A: Oceans do not count as planets for scoring. They may be spent as planet cards.&rdquo;</li>
         </ul></li>
+    <ol><li>When the Deepwrought player scores objectives, planets they are <a href="/R_coexistence">coexisting</a> on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If DWS is coexisting on 3 planets and has 3 they control, they count as 6 when scoring Push Boundaries. How many do they control when other players want to score Push Boundaries? A: Control via coexistence is only seen by the player coexisting, so the other players see 3 planets controlled.&rdquo;</li>
+        </ul></li></ol>
     <li>If all of the Deepwrought player&rsquo;s ocean cards are already in play, they cannot resolve <sc>Oceanbound</sc> to ready one of their oceans.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
