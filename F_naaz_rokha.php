@@ -3,10 +3,10 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Distant%20Suns">Distant Suns</a></h2>
     <ol class="note">
-    <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup></li>
+    <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup></li>
+    <ol><li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup></li></ol>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.<sup>4</sup></li>
     <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.<sup>*</sup></li>
-    <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Fabrication">Fabrication</a></h2>

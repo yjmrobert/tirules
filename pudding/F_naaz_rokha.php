@@ -3,12 +3,16 @@
 <article>
 <p>The source text behind each note on <a href="/F_naaz_rokha">The Naaz&ndash;Rokha Alliance</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Distant_Suns">Distant Suns</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Distant%20Suns">Distant Suns</a></h2>
     <ol class="note">
-    <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup>
+    <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Naaz-Rokha&rsquo;s Distant Suns work with more than one mech on the planet?&rdquo;: &ldquo;Yes &mdash; &lsquo;contains 1 of your mechs&rsquo; means at least one.&rdquo;</li>
+        </ul></li>
+    <ol><li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
+        </ul></li></ol>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;For the Naaz-Rokha&rsquo;s Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn.&rdquo;</li>
@@ -16,10 +20,6 @@
     <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Naaz-Rokha&rsquo;s Distant Suns work with more than one mech on the planet?&rdquo;: &ldquo;Yes &mdash; &lsquo;contains 1 of your mechs&rsquo; means at least one.&rdquo;</li>
         </ul></li>
     </ol>
 

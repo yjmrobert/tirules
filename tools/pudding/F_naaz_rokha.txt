@@ -1,11 +1,11 @@
 @0
-N No source found.
-@1
-E4 Designer ruling: "For the Naaz-Rokha's Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn."
-@2
-N No source found.
-@3
 E2 RulesPal, "Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?": "Yes — 'contains 1 of your mechs' means at least one."
+@1
+N No source found.
+@2
+E4 Designer ruling: "For the Naaz-Rokha's Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn."
+@3
+N No source found.
 @4
 E4 Designer ruling: "Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @5
