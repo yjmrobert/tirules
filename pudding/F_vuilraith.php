@@ -270,6 +270,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>They cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Vuil&rsquo;raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, The Fracture: &ldquo;A system cannot have more than one ingress token.&rdquo;</li>
+        </ul></li></ol>
     <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Al&rsquo;raith Ix Ianovar (Breakthrough): Can the Vuil&rsquo;raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability.&rdquo;</li>

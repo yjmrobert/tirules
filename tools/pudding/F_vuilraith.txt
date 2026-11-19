@@ -110,6 +110,9 @@ N No source found.
 @52
 N No source found.
 @53
-E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
+E6 Community consensus: "Can the Vuil'raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token."
+E7 Thunder's Edge Rulebook, The Fracture: "A system cannot have more than one ingress token."
 @54
+E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
+@55
 E6 Community consensus: "Can the Vuil'raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play …? A: No, ingress tokens cannot be placed in the Fracture."

@@ -53,6 +53,7 @@
 <h2>&#x2716; Planesplitter <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The ingress token must be moved when the Obsidian player performs the primary ability of their strategy card, before any other players decide if they wish to perform the secondary ability.<sup>*</sup></li>
+    <li>The Obsidian player cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup></li>
     <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup></li>
     </ol>
 

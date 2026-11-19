@@ -104,6 +104,7 @@
         <li>When <i>Al&rsquo;raith Ix Ianovar</i> causes The Fracture to enter play, all the ingress tokens will be placed before the Vuil&rsquo;raith player chooses which tokens they wish to move into gravity rifts.<sup>*</sup></li>
     </ol>
     <li>The Vuil&rsquo;raith player may move the ingress tokens into systems that contain their Dimensional Tears.<sup>*</sup></li>
+    <ol><li>They cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup></li></ol>
     <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup></li>
     <li>Ingress tokens cannot be placed in The Fracture. The Vuil&rsquo;raith player cannot move an ingress token into a system in The Fracture, even if they have a space dock in that system.<sup>6</sup></li>
     </ol>

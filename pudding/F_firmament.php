@@ -83,6 +83,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The Obsidian player cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, The Fracture: &ldquo;A system cannot have more than one ingress token.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Vuil&rsquo;raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token.&rdquo; Stated for the Vuil&rsquo;raith; the same rule applies to Planesplitter.</li>
+        </ul></li>
     <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Coup D&rsquo;etat and the Obsidian&rsquo;s Planesplitter technology? A: Planesplitter would resolve before Coup D&rsquo;etat is played and resolved.&rdquo;</li>
