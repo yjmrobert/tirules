@@ -92,6 +92,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, when Terraform is attached to a planet it counts as being in that planet owner&rsquo;s play area.&rdquo;</li>
         </ul></li>
+    <ol><li>If the Ul player gains control of a planet with <i>Terraform</i> attached, their own <i>Terraform</i> will be in their play area.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, when Terraform is attached to a planet it counts as being in that planet owner&rsquo;s play area.&rdquo; Applies when the Ul player owns the planet.</li>
+        </ul></li></ol>
     <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11: &ldquo;Planets that have dual planet traits count as having both traits. When exploring one of these planets &hellip;, the exploring player can choose to draw a card matching either&rdquo; trait.</li>

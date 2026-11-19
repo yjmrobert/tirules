@@ -33,6 +33,7 @@
     <ol class="note">
     <li>Once played, <i>Terraform</i> is never returned to the Ul player.<sup>2</sup></li>
     <li>Once played, <i>Terraform</i> counts as being in the play area of the player who controls the planet.<sup>4</sup></li>
+    <ol><li>If the Ul player gains control of a planet with <i>Terraform</i> attached, their own <i>Terraform</i> will be in their play area.<sup>4</sup></li></ol>
     <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.<sup>2,7</sup></li>
     <li>If <i>Terraform</i> is attached to a planet in The Fracture, that planet may be explored.<sup>6</sup></li>
     <li><i>Terraform</i> may be attached to <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>.<sup>6</sup></li>
