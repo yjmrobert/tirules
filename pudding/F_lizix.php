@@ -143,10 +143,10 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
-    <li>Ships cannot move into a supernova, even if it contains one of the L1Z1X player&rsquo;s command tokens.<sup>1,2,3</sup>
+    <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When an ability moves units outside a tactical action &hellip;?&rdquo;: &ldquo;Anomaly rules still apply, so no ability moves ships into a supernova unless it says so.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR 86.1: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
         </ul></li>
     <ol><li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>

@@ -58,7 +58,7 @@ E4 Designer ruling: "Do ships roll when moving out of a gravity rift due to the 
 I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
 @22
 E2 RulesPal, "When an ability moves units outside a tactical action …?": "Anomaly rules still apply, so no ability moves ships into a supernova unless it says so."
-I3 Learn to Play: "A ship cannot move through or into a supernova."
+E3 Learn to Play: "A ship cannot move through or into a supernova."
 E1 LRR 86.1: "A ship cannot move through or into a supernova."
 @23
 I2 RulesPal: "Anomaly rules still apply."

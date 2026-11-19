@@ -61,7 +61,7 @@
     <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup></li>
     <li>Ships moving out of a gravity rift must roll for removal.<sup>1,2,3,4</sup></li>
-    <li>Ships cannot move into a supernova, even if it contains one of the L1Z1X player&rsquo;s command tokens.<sup>1,2,3</sup></li>
+    <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup></li>
     <ol><li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li></ol>
     <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>1,8</sup></li>
     </ol>
