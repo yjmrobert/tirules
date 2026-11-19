@@ -125,7 +125,7 @@ E2 RulesPal, "Does the Creuss commander trigger if my ship just passes through a
 @54
 E2 RulesPal, "Do Creuss wormhole tokens count for unlocking the Creuss commander?": "Yes — the tokens are wormholes for all purposes."
 @55
-I4 Designer ruling, Creuss hero Singularity Reactor and tokens: "All tokens stay with their original tile" tokens stay with tile, so move with system.
+E4 Designer ruling, Creuss hero Singularity Reactor and tokens: "All tokens stay with their original tile"
 @56
 I7 Thunder's Edge Rulebook (Age of Exploration): "New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles." Covers a different effect.
 @57

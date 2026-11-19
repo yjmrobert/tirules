@@ -287,7 +287,7 @@
     <ol class="note">
     <li>Any tokens on either system are moved with their system.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo; tokens stay with tile, so move with system.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo;</li>
         </ul></li>
     <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup>
         <ul>
