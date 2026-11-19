@@ -29,6 +29,7 @@
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.<sup>1,5</sup></li>
     <li>The <i>Creuss IFF</i> may be played even if the Creuss player has not researched <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a>.<sup>1</sup></li>
     <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player, unless the player resolving it controls a planet in that system.<sup>2</sup></li>
+    <li>The <i>Creuss IFF</i> may place wormhole tokens in <a href="/R_fracture">The Fracture</a>.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
@@ -46,7 +47,7 @@
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.<sup>2,5</sup></li>
     <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.<sup>5</sup></li></ol>
     <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup></li>
-    <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup></li>
+    <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup></li>
     <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup></li>
     <li>The Creuss player may use <i>Wormhole Generator</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup></li>
     </ol>

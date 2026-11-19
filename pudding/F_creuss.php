@@ -81,6 +81,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; An eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
+    <li>The <i>Creuss IFF</i> may place wormhole tokens in <a href="/R_fracture">The Fracture</a>.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
@@ -129,10 +133,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
-    <li>Creuss wormhole tokens may be placed in The Fracture, including with the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note.<sup>2,6</sup>
+    <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems; IFF not specifically mentioned.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems.</li>
         </ul></li>
     <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup>
         <ul>
