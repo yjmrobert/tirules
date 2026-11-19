@@ -78,7 +78,7 @@
     <ol class="note">
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.<sup>2</sup></li>
     <li>A delta wormhole in the system (such as from the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>) does not prevent this ability from being usable.<sup>8</sup></li>
-    <li>If this ability is used, the active system will be adjacent to systems with delta wormholes.<sup>8</sup></li>
+    <li>If this ability is used, the active system will be adjacent to systems with delta and epsilon wormholes.<sup>8</sup></li>
     <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a> wormhole and chooses to do so.<sup>2</sup></li>
     <li>The system must have a non&ndash;delta wormhole in it at the moment of activation.<sup>8</sup></li>
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a>, then Emissary Taivra may be used for the activation immediately following.<sup>*</sup></li></ol>

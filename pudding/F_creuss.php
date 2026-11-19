@@ -225,9 +225,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra: &ldquo;After any player activates a system that contains a non-delta wormhole.&rdquo; A delta wormhole does not stop the trigger.</li>
         </ul></li>
-    <li>If this ability is used, the active system will be adjacent to systems with delta wormholes.<sup>8</sup>
+    <li>If this ability is used, the active system will be adjacent to systems with delta and epsilon wormholes.<sup>8</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; all systems containing wormholes includes delta.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; All systems containing wormholes includes delta and epsilon.</li>
         </ul></li>
     <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a> wormhole and chooses to do so.<sup>2</sup>
         <ul>
