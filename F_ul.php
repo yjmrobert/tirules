@@ -84,7 +84,7 @@
     <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup></li>
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup></li>
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup></li>
-    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup></li>
+    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="/R_construction"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup></li>
     </ol>
 

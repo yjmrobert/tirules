@@ -214,7 +214,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         </ul></li>
-    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence.<sup>6</sup>
+    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Titans use the Mech&rsquo;s deploy ability for coexistence? A: Yes.&rdquo;</li>
         </ul></li>
