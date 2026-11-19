@@ -83,7 +83,7 @@ N No source found.
 @34
 I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non-binding deal." system activation happens later, so it cannot be resolved immediately.
 @35
-E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player. The tactical action is part of the Naalu player's turn, so ending it ends the Naalu player's turn.
 @36
 N No source found.
 @37
