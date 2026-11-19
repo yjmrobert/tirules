@@ -48,7 +48,7 @@ N No source found.
 @23
 I4 Designer ruling, Vuil’raith Vortex: "No, since they cannot fully resolve Vortex." cannot target if none in reinforcements.
 @24
-N No source found.
+I8 PoK rulebook, Capture: "If at least one of a player's space docks is being blockaded, they cannot capture units from the player who is blockading them." The Vuil'raith player's space docks are Dimensional Tears.
 @25
 E2 RulesPal, "Is a Hel-Titan a valid target for effects on non-structures, and can it produce?": "It is a structure as well as a ground force, so the Vuil'raith vortex, which needs a non-structure, can't take it."
 @26
@@ -89,7 +89,7 @@ E4 Designer ruling: "Does Cabal Agent count as 'converting your own commodities'
 @42
 N No source found.
 @43
-N No source found.
+I8 PoK rulebook, Capture: "If at least one of a player's space docks is being blockaded, they cannot capture units from the player who is blockading them." The Vuil'raith player's space docks are Dimensional Tears.
 @44
 E2 RulesPal, "Does the Vuil'raith hero make a ship roll once per adjacent dimensional tear?": "No — each non-fighter ship in or next to a dimensional tear rolls once, however many tears it touches."
 @45

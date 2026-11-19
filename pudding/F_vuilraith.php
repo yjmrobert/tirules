@@ -120,9 +120,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Vuil&rsquo;raith Vortex: &ldquo;No, since they cannot fully resolve Vortex.&rdquo; cannot target if none in reinforcements.</li>
         </ul></li>
-    <li>If another player is blockading a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, their units cannot be targeted with <i>Vortex</i>.<sup>*</sup>
+    <li>If another player is blockading a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, their units cannot be targeted with <i>Vortex</i>.<sup>8</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Capture: &ldquo;If at least one of a player&rsquo;s space docks is being blockaded, they cannot capture units from the player who is blockading them.&rdquo; The Vuil&rsquo;raith player&rsquo;s space docks are Dimensional Tears.</li>
         </ul></li>
     <li><i>Vortex</i> cannot target the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan, as it is a structure.<sup>2</sup>
         <ul>
@@ -219,9 +219,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.<sup>*</sup>
+    <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.<sup>8</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Capture: &ldquo;If at least one of a player&rsquo;s space docks is being blockaded, they cannot capture units from the player who is blockading them.&rdquo; The Vuil&rsquo;raith player&rsquo;s space docks are Dimensional Tears.</li>
         </ul></li>
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.<sup>2</sup>
         <ul>
