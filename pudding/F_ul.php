@@ -76,7 +76,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
         </ul></li></ol>
-    <li>If the Ul player&rsquo;s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup>
+    <li>If the Ul player&rsquo;s turn is ended by another game effect, the combat still occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Coalescence forces combat steps to occur. No other steps of the tactical action occur, and abilities can only be used within combat.&rdquo;</li>
         </ul></li>

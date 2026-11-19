@@ -26,7 +26,7 @@
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup></li>
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup></li></ol>
-    <li>If the Ul player&rsquo;s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup></li>
+    <li>If the Ul player&rsquo;s turn is ended by another game effect, the combat still occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform">Terraform</a> <sub>(Promissory Note)</sub></h2>
