@@ -15,7 +15,7 @@ N No source found.
 E5 Designer ruling: "The N'orr player selects the units to be destroyed."
 E2 RulesPal, "Can Sustain Damage save a ship from Exotrireme II …?": "For Exotrireme II, the Sardakk player chooses which ships (up to 2) are destroyed."
 @7
-N No source found.
+I1 LRR FAQ: "Can abilities that destroy units, such as the 'Lucky Shot' action card, be used by a player against their own units or planets? A: No. 'Lucky Shot' and other similar effects can only be used against other player's units and planets."
 @8
 E1 LRR 87.5: "The 'Sustain Damage' ability cannot be used to cancel an effect that directly destroys a unit."
 E2 RulesPal: "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
