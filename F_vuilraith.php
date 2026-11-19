@@ -4,7 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Devour">Devour</a></h2>
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.<sup>4</sup></li>
-    <li>The Vuil&rsquo;raith player cannot capture the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>*</sup></li>
+    <li>The Vuil&rsquo;raith player cannot capture the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>2</sup></li>
     <li>Units destroyed by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> are destroyed during combat, and are captured.<sup>2</sup></li>
     </ol>
 
@@ -45,6 +45,7 @@
     <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>*</sup></li>
     <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted.<sup>4</sup></li>
     <li>If another player is blockading a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, their units cannot be targeted with <i>Vortex</i>.<sup>*</sup></li>
+    <li><i>Vortex</i> cannot target the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan, as it is a structure.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> <sub>(Unit)</sub></h2>

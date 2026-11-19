@@ -9,9 +9,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, &ldquo;What is the interaction between Infantry 2 and Capture?&rdquo;: &ldquo;What is the interaction between Infantry 2 and Capture? A: Both happen&rdquo; both capture and resurrection apply.</li>
         </ul></li>
-    <li>The Vuil&rsquo;raith player cannot capture the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>*</sup>
+    <li>The Vuil&rsquo;raith player cannot capture the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan PDS.<sup>2</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures &hellip;?&rdquo;: &ldquo;It is a structure as well as a ground force.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures, and can it produce?&rdquo;: &ldquo;It is a structure as well as a ground force, so the Vuil&rsquo;raith vortex, which needs a non-structure, can&rsquo;t take it.&rdquo; Devour also captures only non-structure units.</li>
         </ul></li>
     <li>Units destroyed by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> are destroyed during combat, and are captured.<sup>2</sup>
         <ul>
@@ -119,6 +119,10 @@
     <li>If another player is blockading a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, their units cannot be targeted with <i>Vortex</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li><i>Vortex</i> cannot target the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan, as it is a structure.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures, and can it produce?&rdquo;: &ldquo;It is a structure as well as a ground force, so the Vuil&rsquo;raith vortex, which needs a non-structure, can&rsquo;t take it.&rdquo;</li>
         </ul></li>
     </ol>
 
