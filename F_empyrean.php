@@ -96,7 +96,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.<sup>6</sup></li>
+    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects, even if both systems contain matching <a href="/R_wormholes">wormholes</a>. The Empyrean player continues to treat them as adjacent.<sup>6</sup></li>
     <ol><li>If the Empyrean player has units or controls a planet in one of the systems, they will be neighbors with any player with units or controlling a planet in the other, and vice versa.<sup>6</sup></li></ol>
     <li>If the Empyrean player is eliminated, <i>Void Tether</i> remains in play, and the Void Tether tokens continue to function.<sup>6</sup></li>
     </ol>

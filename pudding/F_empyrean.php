@@ -237,7 +237,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
+    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects, even if both systems contain matching <a href="/R_wormholes">wormholes</a>. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means.&rdquo;</li>
         </ul></li>
