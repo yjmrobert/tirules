@@ -38,6 +38,7 @@
     <li>If a ship could move from its current system to the active system through a gravity rift if its move value were +2, it may do so using <i>Crucible</i>. This is true even if that ship could not reach the gravity rift without <i>Crucible</i>.<sup>4</sup></li>
     <ol><li>For example, consider a series of systems X&ndash;S&ndash;G&ndash;Y. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. System &ldquo;G&rdquo; is a gravity rift. Systems &ldquo;X&rdquo;, &ldquo;S&rdquo; and &ldquo;Y&rdquo; are standard systems with no movement restrictions. A ship with a move value of one is in system &ldquo;X&rdquo;. Were it to have +2 to its movement value, it could reach system &ldquo;Y&rdquo;. Currently, that ship may reach only system &ldquo;S&rdquo;. Despite this, if its owner activated system &ldquo;Y&rdquo; and played <i>Crucible</i>, the ship could move to that system.<sup>4</sup></li></ol>
     <li>If a player plays both <i>Crucible</i> and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.<sup>*</sup></li>
+    <ol><li>This +1 comes from the effect of <i>Crucible</i>. The gravity rift itself does not give its +1 because of <i>Nav Suite</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>

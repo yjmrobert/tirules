@@ -104,6 +104,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>This +1 comes from the effect of <i>Crucible</i>. The gravity rift itself does not give its +1 because of <i>Nav Suite</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
