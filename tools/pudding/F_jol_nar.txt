@@ -40,28 +40,30 @@ E2 RulesPal, "How many hits can the Jol-Nar flagship produce?": "Each die showin
 @19
 E2 RulesPal, "Does Infantry II trigger on infantry removed by the Jol-Nar agent?": "No — removing isn't destroying."
 @20
-I1 LRR 18: "Combat is an attribute of some units."
+I1 LRR 1.26: "The following abilities are unit abilities: Anti-Fighter Barrage, Production, Bombardment, Space Cannon, Deploy, Sustain Damage, Planetary Shield." Of these, only Anti-Fighter Barrage, Bombardment and Space Cannon roll dice.
 @21
-N No source found.
+I1 LRR 18: "Combat is an attribute of some units."
 @22
 N No source found.
 @23
-E4 Designer ruling, Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
-@24
 N No source found.
+@24
+E4 Designer ruling, Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
 @25
 N No source found.
 @26
-E4 Designer ruling: "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+N No source found.
 @27
-N No source found.
+E4 Designer ruling: "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
 @28
-E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
-@29
-E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
-@30
 N No source found.
+@29
+E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
+@30
+E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
 @31
 N No source found.
 @32
+N No source found.
+@33
 N No source found.

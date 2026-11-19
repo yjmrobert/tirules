@@ -122,6 +122,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Ta%20Zern">Ta Zern</a> /<br/><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Agnlan%20Oln">Agnlan Oln</a> <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>The unit abilities that roll dice, and whose dice may be rerolled with this ability, are <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.26: &ldquo;The following abilities are unit abilities: Anti-Fighter Barrage, Production, Bombardment, Space Cannon, Deploy, Sustain Damage, Planetary Shield.&rdquo; Of these, only Anti-Fighter Barrage, Bombardment and Space Cannon roll dice.</li>
+        </ul></li>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 18: &ldquo;Combat is an attribute of some units.&rdquo;</li>
