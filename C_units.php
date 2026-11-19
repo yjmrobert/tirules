@@ -7,7 +7,7 @@
     <li>A player without the war sun unit upgrade technology cannot produce a war sun.<sup>1,3,5,7,8</sup></li>
     <ol><li>The <a href="/F_muaat">Muaat</a> player may do so without owning their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li></ol>
     <li>If a war sun&rsquo;s ability results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup></li>
-    <ol><li>A war sun has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li></ol>
+    <ol><li>A war sun has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>2,15</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Flagships">Flagship</a></h2>

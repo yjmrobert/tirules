@@ -21,9 +21,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield: a war sun makes other players&rsquo; units lose Planetary Shield.&rdquo;</li>
         </ul></li>
-    <ol><li>A war sun has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
+    <ol><li>A war sun has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>2,15</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;The Codex Omega version only&rdquo; needs a structure.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;The Codex Omega version only needs a structure and isn&rsquo;t affected by war suns.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>15</sup> Codex 4.5 Technology Card Updates, Magen Defense Grid: &ldquo;At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent&rsquo;s ground forces.&rdquo; Requires only a structure, not Planetary Shield, so a war sun does not affect it.</li>
         </ul></li></ol>
     </ol>
 

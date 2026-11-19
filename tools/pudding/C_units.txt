@@ -9,7 +9,8 @@ I2 RulesPal, "Do faction units like the Muaat Prototype War Sun count as their b
 @2
 E2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield: a war sun makes other players' units lose Planetary Shield."
 @3
-E2 Same entry: "The Codex Omega version only" needs a structure.
+E2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "The Codex Omega version only needs a structure and isn't affected by war suns."
+I15 Codex 4.5 Technology Card Updates, Magen Defense Grid: "At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent's ground forces." Requires only a structure, not Planetary Shield, so a war sun does not affect it.
 @4
 E2 RulesPal, "Can a destroyed flagship be rebuilt?": "Yes — it goes back to reinforcements and can be produced again."
 @5
