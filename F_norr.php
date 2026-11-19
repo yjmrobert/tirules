@@ -50,7 +50,7 @@
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup></li>
     <ol>
         <li>If another player plays the N&rsquo;orr player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup></li>
-        <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup></li>
+        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup></li>
         <li>If the N&rsquo;orr player commits any ground forces from a gravity rift system, those ground forces must roll for removal.<sup>*</sup></li>
         <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law is in play.<sup>4</sup></li>
     </ol>

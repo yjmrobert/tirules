@@ -124,7 +124,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
-        <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup>
+        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
