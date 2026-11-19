@@ -30,10 +30,17 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 16.1: &ldquo;A unit&rsquo;s capacity value indicates the maximum combined number of fighters and ground forces that it can transport.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling on retreats: &ldquo;the number you can attempt to move out of the system is still limited by your ships capacity.&rdquo;</li>
         </ul></li>
-    <li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup>
+    <li>Ships moving out of a gravity rift with <sc>Foresight</sc> must roll for removal.<sup>1,2,3,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work &hellip;?&rdquo;: &ldquo;Each ship that leaves or passes through a rift rolls, and is removed on a 1-3.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
+        </ul></li>
+    <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
+        </ul></li></ol>
     <li>If the destination system already contains one of the Naalu player&rsquo;s command tokens, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;for Foresight the Naalu player still takes a command token from the their Strategy Pool but they place it in their reinforcements instead of on the map. Dane&rsquo;s Answer: That is correct.&rdquo;</li>
