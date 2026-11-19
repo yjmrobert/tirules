@@ -75,17 +75,21 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Technologies:~:text=Inheritance%20Systems">Inheritance Systems</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
+    <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
     <li><i>Inheritance Systems</i> may be used when researching a unit upgrade technology, including the L1Z1X player&rsquo;s own faction technologies such as <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> II.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;It ignores all prerequisites for one research, unit upgrades and your own faction technologies like Super Dreadnought included.&rdquo;</li>
         </ul></li>
-    <li>If <i>Inheritance Systems</i> is researched as the first technology with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, it may be used when researching the second technology.<sup>2</sup>
+    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;Researched as the first tech of the Technology primary, it can pay for the second.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;Researched as the first tech of the Technology primary, it can pay for the second.&rdquo; Ixthian Artifact and other back-to-back research follow the same timing; no source names them.</li>
         </ul></li>
     </ol>
 
