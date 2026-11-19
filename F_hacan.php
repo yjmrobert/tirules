@@ -36,6 +36,7 @@
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup></li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.<sup>2</sup></li>
     <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace"><i>Public Disgrace</i></a> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>

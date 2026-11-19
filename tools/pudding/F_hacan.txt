@@ -29,24 +29,26 @@ E2 RulesPal, "How does Hacan's Quantum Datahub Node swap strategy cards?": "Haca
 @12
 N No source found.
 @13
-E2 RulesPal, "How does the Hacan flagship's trade-good bonus work?": "spend 1 trade good for +1 on any of your units' dice in its system, at most once per die."
+E2 RulesPal, "Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?": "No — Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren't choices."
 @14
-E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
+E2 RulesPal, "How does the Hacan flagship's trade-good bonus work?": "spend 1 trade good for +1 on any of your units' dice in its system, at most once per die."
 @15
-E4 Designer ruling: "transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved."
+E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 @16
-N No source found.
+E4 Designer ruling: "transactions may occur after an exploration card is revealed, before the effect is resolved, but other abilities may not be used until after the effect is resolved."
 @17
-E2 RulesPal, "Are the Arborec and Hacan heroes limited by Production?": "The Hacan hero makes every unit you produce free, though fleet and unit limits still apply." Production limits are not mentioned.
+N No source found.
 @18
-N No source found.
+E2 RulesPal, "Are the Arborec and Hacan heroes limited by Production?": "The Hacan hero makes every unit you produce free, though fleet and unit limits still apply." Production limits are not mentioned.
 @19
-E4 Designer ruling: "A planet that has the Hacan Mech can't be traded in combat."
-@20
 N No source found.
+@20
+E4 Designer ruling: "A planet that has the Hacan Mech can't be traded in combat."
 @21
-E6 Community consensus: "Coexisting units remain in a state of coexistence as ownership changes through Hacan mech … The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before" coexistence ends.
+N No source found.
 @22
-E6 Community consensus: "Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes"
+E6 Community consensus: "Coexisting units remain in a state of coexistence as ownership changes through Hacan mech … The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before" coexistence ends.
 @23
+E6 Community consensus: "Auto-Factories (Breakthrough): Can the new fleet token be used to support the newly placed ship? A: Yes"
+@24
 E6 Community consensus: "Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool."

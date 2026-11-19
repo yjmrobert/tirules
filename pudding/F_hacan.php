@@ -81,6 +81,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace"><i>Public Disgrace</i></a> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?&rdquo;: &ldquo;No &mdash; Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren&rsquo;t choices.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
