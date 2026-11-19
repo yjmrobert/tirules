@@ -444,17 +444,13 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s faction sheet, they will capture destroyed units.<sup>*</sup>
+    <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s faction sheet, copying their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, they will capture destroyed units. They may also capture their own units, and may return their own captured units to their reinforcements at any time.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction when Nekro has Vuil&rsquo;raith&rsquo;s flagship &hellip;? A: Nekro can capture their own units and can decide to return them to reinforcements at any time.&rdquo;</li>
         </ul></li>
     <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_firmament">Firmament</a> player&rsquo;s faction sheet, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a> will lose the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye"><i>Heaven&rsquo;s Eye</i></a> when that player converts to the <a href="/F_firmament">Obsidian</a> components.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>If the Nekro player copies the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, they may capture their own units, and may return their own captured units to their reinforcements at any time.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction when Nekro has Vuil&rsquo;raith&rsquo;s flagship &hellip;? A: Nekro can capture their own units and can decide to return them to reinforcements at any time.&rdquo;</li>
         </ul></li>
     <li>If the Nekro player copies the <a href="/F_firmament">Firmament</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye"><i>Heaven&rsquo;s Eye</i></a>, references to &ldquo;your plots&rdquo; refer to the <a href="/F_firmament">Firmament</a> player&rsquo;s plots.<sup>6</sup>
         <ul>
