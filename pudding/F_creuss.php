@@ -150,9 +150,22 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
+    <li><i>Wormhole Generator &Omega;</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
+        </ul></li>
+    <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems.</li>
+        </ul></li>
+    <li>Neutral ships prevent a Creuss wormhole token from being placed in their system, in the same way as another player&rsquo;s ships.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Do neutral ships block wormhole placement?&rdquo;: &ldquo;Do neutral ships block wormhole placement? A: Yes&rdquo;</li>
+        </ul></li>
+    <li>The Creuss player may use <i>Wormhole Generator &Omega;</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token &hellip;? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
     </ol>
 
