@@ -149,9 +149,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Sh%27val%2C%20Harbinger">Sh&rsquo;val, Harbinger</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Conditioning">Tekklar Conditioning</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>*</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to committed ground forces when Parley is played?&rdquo;: &ldquo;They return to the space area rather than being destroyed, within capacity.&rdquo; The N&rsquo;orr player has no capacity in the space area, so all of them are removed.</li>
         </ul></li>
     <li>The <b>Space Cannon Offense</b>, <b>Space Combat</b> and <b>Bombardment</b> steps are skipped.<sup>*</sup>
         <ul>
