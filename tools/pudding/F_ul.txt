@@ -21,11 +21,11 @@ E2 RulesPal, "Is the Titans' Hel Titan a ground force, and does a sleeper stay w
 @9
 E2 RulesPal, "If the Titans retreat into a system with a sleeper, does it awaken?": "No — a retreat places a command token but doesn't activate the system."
 @10
-N No source found.
-@11
-E4 Designer ruling: "If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur."
-@12
 E2 RulesPal, "When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?": "Ceasefire only stops movement, so Awaken still works."
+@11
+N No source found.
+@12
+E4 Designer ruling: "If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur."
 @13
 E3 Learn to Play, Bombardment: "A player uses this ability during the 'Bombardment' step of an invasion."
 E4 Designer ruling: "only the active player can use BOMBARDMENT."

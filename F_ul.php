@@ -17,13 +17,13 @@
     <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup></li>
     <li>A sleeper token is not removed when another player gains control of the planet it is on. The Ul player may still replace it using <sc>Awaken</sc>.<sup>2</sup></li>
     <li>If the Ul player retreats into a system containing their sleeper token, <sc>Awaken</sc> is not triggered, as the system is not activated.<sup>2</sup></li>
+    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
     <ol class="note">
     <li>Units placed on planets via the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup></li>
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup></li>
-    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup></li>
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup></li></ol>
     <li>If the Ul player&rsquo;s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup></li>

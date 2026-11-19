@@ -51,6 +51,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If the Titans retreat into a system with a sleeper, does it awaken?&rdquo;: &ldquo;No &mdash; a retreat places a command token but doesn&rsquo;t activate the system.&rdquo;</li>
         </ul></li>
+    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Ceasefire only stops movement, so Awaken still works.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
@@ -62,10 +66,6 @@
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur.&rdquo;</li>
-        </ul></li>
-    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Ceasefire only stops movement, so Awaken still works.&rdquo;</li>
         </ul></li>
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
         <ul>
