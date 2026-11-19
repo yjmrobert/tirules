@@ -150,7 +150,7 @@
     <li>When a player uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup></li>
     <li>When <i>Direct Hit</i> is used outside of combat, if used on a ship with capacity, then fighters and/or ground forces must immediately be removed from the space area to meet the capacity limit.<sup>5</sup></li>
     <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.<sup>5</sup></li></ol>
-    <li>A mech cannot be destroyed by <i>Direct Hit</i>.<sup>2</sup></li>
+    <li>A mech cannot be destroyed by <i>Direct Hit</i>, as it is not a ship.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>

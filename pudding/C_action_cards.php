@@ -343,7 +343,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling: the fighter is &ldquo;immediately destroyed&rdquo; when its carrier is destroyed outside combat.</li>
         </ul></li></ol>
-    <li>A mech cannot be destroyed by <i>Direct Hit</i>.<sup>2</sup>
+    <li>A mech cannot be destroyed by <i>Direct Hit</i>, as it is not a ship.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Direct Hit destroy a mech that uses Sustain Damage?&rdquo;: &ldquo;No &mdash; Direct Hit targets ships, and mechs are ground forces.&rdquo;</li>
         </ul></li>
