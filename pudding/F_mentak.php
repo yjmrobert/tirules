@@ -50,7 +50,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage when &ldquo;neighbors with another faction as a result of the &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability &hellip; because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
+    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vinci, 12/11/2018): &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
@@ -204,6 +204,11 @@
     <li>Capacity is not checked during combat. As such, the Mentak player may place an unlimited number of fighters into a combat with this ability.<sup>3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During combat, a player&rsquo;s fighters and ground forces can exceed their ships&rsquo; capacity, but at the end of the combat, any excess units are destroyed.&rdquo; Capacity is not enforced mid-combat.</li>
+        </ul></li>
+    <li>Unlike capacity, the fleet pool limit applies at all times, including during combat. If placing ships with this ability causes the number of the Mentak player&rsquo;s non-fighter ships in the active system to exceed the number of command tokens in their fleet pool, they must immediately remove the excess ships, returning them to their reinforcements.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 37.3: &ldquo;If at any time the number of a player&rsquo;s non-fighter ships in a system exceeds the number of tokens in that player&rsquo;s fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?&rdquo;: &ldquo;At all times, except for ships that are only moving through other systems.&rdquo;</li>
         </ul></li>
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.<sup>2,4</sup>
         <ul>

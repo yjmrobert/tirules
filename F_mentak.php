@@ -75,6 +75,7 @@
     <li>The Mentak player can trigger the <i>Sleeper Cell</i> ability, their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> ability, or any other &ldquo;at the start of a space combat&rdquo; abilities they have in any order.<sup>*</sup></li>
     <li>If ships are destroyed before the <i>Sleeper Cell</i> ability is triggered, the Mentak player cannot place those units.<sup>*</sup></li>
     <li>Capacity is not checked during combat. As such, the Mentak player may place an unlimited number of fighters into a combat with this ability.<sup>3</sup></li>
+    <li>Unlike capacity, the fleet pool limit applies at all times, including during combat. If placing ships with this ability causes the number of the Mentak player&rsquo;s non-fighter ships in the active system to exceed the number of command tokens in their fleet pool, they must immediately remove the excess ships, returning them to their reinforcements.<sup>1,2</sup></li>
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.<sup>2,4</sup></li>
     <li>No costs are paid for the placed units.<sup>*</sup></li>
     <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability.<sup>4</sup></li>
