@@ -5,8 +5,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup></li>
-    <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, the Firmament player draws it.<sup>6</sup></li>
-    <li>If the only player token on a plot card belongs to an eliminated player, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
+    <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>

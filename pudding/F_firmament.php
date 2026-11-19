@@ -10,12 +10,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Enervate plot card work on any secondary usage &hellip;? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.&rdquo;</li>
         </ul></li>
-    <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, the Firmament player draws it.<sup>6</sup>
+    <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players&rsquo; tokens on it.&rdquo;</li>
-        </ul></li>
-    <li>If the only player token on a plot card belongs to an eliminated player, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup>
-        <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If there are no other player tokens on the Plot, it returns to hand.&rdquo;</li>
         </ul></li>
     </ol>
