@@ -48,11 +48,11 @@ I4 Designer ruling, Naaz-Rokha hero Hesh and Prit with no tokens in reinforcemen
 @23
 N No source found.
 @24
-N No source found.
+I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The mechs become Z-Grav Eidolon only once space combat starts.
 @25
 E2 RulesPal, "Is flipping Naaz-Rokha mechs to ships mandatory …?": "Flipping is mandatory, as nothing says 'may', but only for mechs already in the space area when combat starts."
 @26
-N No source found.
+I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.
 @27
 N No source found.
 @28

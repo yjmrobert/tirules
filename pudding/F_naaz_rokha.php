@@ -140,17 +140,17 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon">Eidolon /<br/>Z&ndash;Grav Eidolon</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.<sup>*</sup>
+    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;?&rdquo;: &ldquo;Mech Flips at start of Space Combat in player order timing.&rdquo; The mechs become Z-Grav Eidolon only once space combat starts.</li>
         </ul></li>
     <li>If the Naaz&ndash;Rokha player had an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is flipping Naaz-Rokha mechs to ships mandatory &hellip;?&rdquo;: &ldquo;Flipping is mandatory, as nothing says &lsquo;may&rsquo;, but only for mechs already in the space area when combat starts.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>*</sup>
+    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;?&rdquo;: &ldquo;Mech Flips at start of Space Combat in player order timing.&rdquo; The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.</li>
         </ul></li></ol>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.<sup>*</sup>
         <ul>
