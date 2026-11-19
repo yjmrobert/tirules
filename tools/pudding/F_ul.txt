@@ -96,9 +96,12 @@ I9 Designer Q&A, "Titans Breakthrough": "There is no real timing window or other
 @42
 E9 Same answer: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal."
 @43
-E6 Community consensus: "Does that mean that you'll be receiving additional AC for the Minister of Policy …? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards."
+I1 LRR 28.3: "If the terms of a deal can be resolved immediately, it is a binding deal." The sleeper token can be placed immediately, with no timing window.
+I9 Designer Q&A, Titans Breakthrough: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players."
 @44
+E6 Community consensus: "Does that mean that you'll be receiving additional AC for the Minister of Policy …? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards."
+@45
 E2 RulesPal: "a planet holds at most one."
 E6 Community consensus, Slumberstate Computing, limit of Sleeper tokens on another player’s planet: "Is there a limit to the number of Sleeper tokens that may be placed on another player's planet? A: One per planet"
-@45
+@46
 E6 Community consensus: "Does the agreement to place a Sleeper token require agreeing to a specific planet …? A: Agreement includes which planet."

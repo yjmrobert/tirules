@@ -234,6 +234,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Same answer: &ldquo;There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal.&rdquo;</li>
         </ul></li>
+    <ol><li>As such, allowing the Ul player to place a sleeper token can be part of a binding deal.<sup>1,9</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 28.3: &ldquo;If the terms of a deal can be resolved immediately, it is a binding deal.&rdquo; The sleeper token can be placed immediately, with no timing window.</li>
+        <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, Titans Breakthrough: &ldquo;There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players.&rdquo;</li>
+        </ul></li></ol>
     <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>

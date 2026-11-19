@@ -92,6 +92,7 @@
     <ol class="note">
     <li>The Ul player does not have to be neighbors with the player that agrees to have a sleeper token placed on their planet.<sup>9</sup></li>
     <li>There is no timing window or other requirement for another player allowing the Ul player to place a sleeper token on a planet they control; it may be included as part of a transaction or deal.<sup>9</sup></li>
+    <ol><li>As such, allowing the Ul player to place a sleeper token can be part of a binding deal.<sup>1,9</sup></li></ol>
     <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup></li>
     <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup></li>
     <li>When another player agrees to allow the Ul player to place a sleeper token, the agreement includes which planet the token will be placed on.<sup>6</sup></li>
