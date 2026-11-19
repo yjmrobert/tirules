@@ -26,7 +26,7 @@ N No source found.
 @12
 E6 Community consensus: "Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes."
 @13
-E6 Community consensus: "If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No"
+E6 Community consensus: "If CaptainAroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No, both are treated as controlling it for purposes of scoring objectives."
 @14
 E6 Community consensus: "Can you use Firmament's mech when you are the active player (to commit the Mech & start coexisting)? A: Yes"
 @15

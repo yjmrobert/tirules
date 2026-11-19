@@ -77,7 +77,7 @@
     <ol class="note">
     <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military"><i>Mechanize the Military</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe"><i>Occupy the Fringe</i></a> secret objectives.<sup>*</sup></li>
     <li>The Firmament player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim"><i>Stake Your Claim</i></a> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup></li>
-    <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, both the Firmament player and the planet&rsquo;s actual controller are treated as controlling it for the purpose of scoring objectives. This also applies to <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">Aroz Hollow</a>.<sup>6</sup></li>
+    <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, the Firmament player may use it only to score secret objectives, while the planet&rsquo;s actual controller may still use it to score any objective.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">&#x2716; Aroz Hollow</a> <sub>(Commander)</sub></h2>

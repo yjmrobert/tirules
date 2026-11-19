@@ -119,9 +119,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, both the Firmament player and the planet&rsquo;s actual controller are treated as controlling it for the purpose of scoring objectives. This also applies to <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">Aroz Hollow</a>.<sup>6</sup>
+    <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, the Firmament player may use it only to score secret objectives, while the planet&rsquo;s actual controller may still use it to score any objective.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If CaptainAroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No, both are treated as controlling it for purposes of scoring objectives.&rdquo;</li>
         </ul></li>
     </ol>
 
