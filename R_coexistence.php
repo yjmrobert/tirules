@@ -15,6 +15,7 @@
     <li>If multiple players may choose to coexist on a planet during the same timing window, the active player chooses first; if they decline, the other player may then choose to coexist.<sup>6</sup></li>
     <li>If additional units are added to those already coexisting, by, for example, committing additional ground forces during an invasion, or resolving an effect that allows a unit to be placed directly on a planet, the added units immediately coexist.<sup>7</sup></li>
     <li>Structures without ground forces may coexist on a planet by themselves, and may maintain control of a planet while another player&rsquo;s ground forces coexist on it.<sup>9</sup></li>
+    <li>Structure limits apply to each player separately. A planet in coexistence may contain up to two PDS and one space dock belonging to each player.<sup>1,4</sup></li>
     <li>If only one player has units on a planet that was in coexistence, and that player was coexisting, they gain control of that planet.<sup>6,7,9</sup></li>
     <ol>
         <li>Outside of the <b>Invasion</b> step of a tactical action, this happens immediately, such as when the controlling player moves all of their units off that planet.<sup>6</sup></li>

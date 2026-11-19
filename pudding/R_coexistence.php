@@ -36,6 +36,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and Structures&rdquo;: &ldquo;Structures without ground forces may maintain control of a planet with coexisting ground forces. Structures without ground forces may coexist by themselves.&rdquo;</li>
         </ul></li>
+    <li>Structure limits apply to each player separately. A planet in coexistence may contain up to two PDS and one space dock belonging to each player.<sup>1,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 85.4: &ldquo;A player can have a maximum of one space dock on each planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 85.5: &ldquo;A player can have a maximum of two PDS units on each planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures &hellip;&rdquo;</li>
+        </ul></li>
     <li>If only one player has units on a planet that was in coexistence, and that player was coexisting, they gain control of that planet.<sup>6,7,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;If a player&rsquo;s coexisting units become the only units on a planet, that player gains control of the planet.&rdquo;</li>
