@@ -87,7 +87,11 @@
     <li>The Eidolon Maximum only repairs during combats that it is participating in.<sup>*</sup></li>
     <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir"><i>Visz El Vir</i></a>.<sup>*</sup></li>
     <li>The Eidolon Maximum is considered a ship for all relevant game effects.<sup>6</sup></li>
-    <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup></li></ol>
+    <ol>
+        <li>The Eidolon Maximum participates in space combat even when it is on a planet.<sup>6</sup></li>
+        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts towards objectives that require ships, and can blockade space docks.<sup>6</sup></li>
+        <li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup></li>
+    </ol>
     <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup></li>
     </ol>
 </article>

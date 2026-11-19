@@ -76,6 +76,10 @@ N No source found.
 @37
 E6 Community consensus, Eidelon Maximum treated as a ship: "Yes, it is a ship in that system."
 @38
-N No source found.
+E6 Community consensus: "Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet? A: Yes, it is a ship in that system."
 @39
+E6 Community consensus: "In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player's ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system."
+@40
+N No source found.
+@41
 E6 Community consensus: "Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes"

@@ -204,10 +204,20 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Eidelon Maximum treated as a ship: &ldquo;Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>
-    <ol><li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup>
+    <ol>
+        <li>The Eidolon Maximum participates in space combat even when it is on a planet.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet? A: Yes, it is a ship in that system.&rdquo;</li>
+        </ul></li>
+        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts towards objectives that require ships, and can blockade space docks.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player&rsquo;s ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system.&rdquo;</li>
+        </ul></li>
+        <li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
+        </ul></li>
+    </ol>
     <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes&rdquo;</li>
