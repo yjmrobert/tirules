@@ -3,11 +3,11 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
     <ol class="note">
-    <li>The Nekro player may still play rider action cards.<sup>1,2</sup></li>
+    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup></li>
+    <ol><li>The Nekro player may still play rider action cards.<sup>1,2</sup></li></ol>
     <li>If the Nekro player has the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup></li>
     <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.<sup>2</sup></li>
     <ol><li>If no player casts votes, then no technology can be gained.<sup>2</sup></li></ol>
-    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity">Technological Singularity</a></h2>

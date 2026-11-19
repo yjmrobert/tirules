@@ -1,14 +1,14 @@
 @0
+E2 RulesPal, "When does the Nekro make its Galactic Threat prediction, and what can it predict?": "In the same window as riders: after 'when revealed' effects such as Veto or Quash, before anyone votes. It predicts an outcome; abstaining isn't one."
+@1
 E1 LRR FAQ: "Can a player who cannot vote (such as the Nekro Virus) play rider action cards? A: Yes."
 E2 RulesPal, "When does the Nekro make its Galactic Threat prediction …?": "The Nekro may also play riders on the same or different outcomes."
-@1
-N No source found.
 @2
-E2 RulesPal, "Does Galactic Threat gain a technology if nobody voted for the predicted outcome?": "No — the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker's tie-break … with no player voting for it, there is nobody to take from."
+N No source found.
 @3
 E2 RulesPal, "Does Galactic Threat gain a technology if nobody voted for the predicted outcome?": "No — the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker's tie-break … with no player voting for it, there is nobody to take from."
 @4
-E2 RulesPal, "When does the Nekro make its Galactic Threat prediction, and what can it predict?": "In the same window as riders: after 'when revealed' effects such as Veto or Quash, before anyone votes. It predicts an outcome; abstaining isn't one."
+E2 RulesPal, "Does Galactic Threat gain a technology if nobody voted for the predicted outcome?": "No — the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker's tie-break … with no player voting for it, there is nobody to take from."
 @5
 N No source found.
 @6

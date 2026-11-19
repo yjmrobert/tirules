@@ -5,11 +5,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
     <ol class="note">
-    <li>The Nekro player may still play rider action cards.<sup>1,2</sup>
+    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Nekro make its Galactic Threat prediction, and what can it predict?&rdquo;: &ldquo;In the same window as riders: after &lsquo;when revealed&rsquo; effects such as Veto or Quash, before anyone votes. It predicts an outcome; abstaining isn&rsquo;t one.&rdquo;</li>
+        </ul></li>
+    <ol><li>The Nekro player may still play rider action cards.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a player who cannot vote (such as the Nekro Virus) play rider action cards? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Nekro make its Galactic Threat prediction &hellip;?&rdquo;: &ldquo;The Nekro may also play riders on the same or different outcomes.&rdquo;</li>
-        </ul></li>
+        </ul></li></ol>
     <li>If the Nekro player has the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -22,10 +26,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Galactic Threat gain a technology if nobody voted for the predicted outcome?&rdquo;: &ldquo;No &mdash; the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker&rsquo;s tie-break &hellip; with no player voting for it, there is nobody to take from.&rdquo;</li>
         </ul></li></ol>
-    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Nekro make its Galactic Threat prediction, and what can it predict?&rdquo;: &ldquo;In the same window as riders: after &lsquo;when revealed&rsquo; effects such as Veto or Quash, before anyone votes. It predicts an outcome; abstaining isn&rsquo;t one.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity">Technological Singularity</a></h2>
@@ -280,7 +280,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.19: &ldquo;If a Valefar Assimilator token is removed from the Saar &lsquo;Floating Factory&rsquo; unit upgrade, each of the Nekro Virus&rsquo; space docks must be placed on an eligible planet they control in that space dock&rsquo;s system, or the space dock is returned to their reinforcements.&rdquo;</li>
         </ul></li>
-        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns is removed from the game board.<sup>1</sup>
+        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.20: &ldquo;If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player&rsquo;s war suns are returned to their reinforcements.&rdquo;</li>
         </ul></li>
