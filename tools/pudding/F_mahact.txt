@@ -12,7 +12,7 @@ N No source found.
 @5
 N No source found.
 @6
-N No source found.
+N No source found. Related: LRR FAQ (source 1): "a promissory note with 'At the start of your turn:' timing may be immediately played if the transaction occurred within the 'start of turn' timing window." Edict is a "when" ability and S'ula Mentarion an "after" ability.
 @7
 N No source found.
 @8

@@ -30,9 +30,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
+    <li>If the Mahact player wins a space combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they may resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player, if S&rsquo;ula Mentarion is unlocked. <sc>Edict</sc> resolves when the combat is won, so the token is already in the Mahact player&rsquo;s fleet pool when S&rsquo;ula Mentarion resolves after the combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Related: LRR FAQ (source 1): &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred within the &lsquo;start of turn&rsquo; timing window.&rdquo; Edict is a &ldquo;when&rdquo; ability and S&rsquo;ula Mentarion an &ldquo;after&rdquo; ability.</li>
         </ul></li>
     </ol>
 
