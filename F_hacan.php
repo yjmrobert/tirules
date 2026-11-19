@@ -66,7 +66,7 @@
     <li>Structures are also moved.<sup>*</sup></li>
     <li>The planet cannot be traded during combat.<sup>4</sup></li>
     <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.<sup>*</sup></li>
-    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology before coexistence would end.<sup>6</sup></li>
+    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or a similar ability, before coexistence would end.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>

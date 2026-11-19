@@ -141,7 +141,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology before coexistence would end.<sup>6</sup>
+    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or a similar ability, before coexistence would end.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Coexisting units remain in a state of coexistence as ownership changes through Hacan mech &hellip; The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before&rdquo; coexistence ends.</li>
         </ul></li>
