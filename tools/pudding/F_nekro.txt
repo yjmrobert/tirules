@@ -206,10 +206,8 @@ N No source found.
 @91
 E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
 @92
-N No source found.
-@93
 E6 Community consensus: "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
-@94
+@93
 E6 Community consensus: "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
-@95
+@94
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "your flagship gains that flagship's text abilities … Unit abilities like Deploy, Space Cannon or Sustain Damage aren't text abilities, so copying flagships that rely on them gains nothing."
