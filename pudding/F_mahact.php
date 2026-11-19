@@ -211,6 +211,7 @@
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The ships being moved belong to the &lsquo;attacker&rsquo; and the ships not being moved belong to the &lsquo;defender.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, if another player&rsquo;s fleet is moved into a Mahact fleet, who is the attacker/defender? A: The player that is moved is the attacker, the player that is moved into is the defender.&rdquo;</li>
         </ul></li>
     <ol><li>Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.<sup>*</sup>
         <ul>

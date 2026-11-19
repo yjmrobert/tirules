@@ -84,6 +84,7 @@ N No source found.
 E4 Designer ruling: "The combat system is treated as the active system during that combat."
 @38
 E4 Designer ruling: "The ships being moved belong to the 'attacker' and the ships not being moved belong to the 'defender.'"
+E4 Designer ruling: "When using the Mahact Hero, Benediction, if another player's fleet is moved into a Mahact fleet, who is the attacker/defender? A: The player that is moved is the attacker, the player that is moved into is the defender."
 @39
 N No source found.
 @40
