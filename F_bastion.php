@@ -54,7 +54,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Leaders:~:text=Nip%20and%20Tuck">Nip and Tuck</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The Bastion player&rsquo;s action cards may still be cancelled by other game effects.<sup>*</sup></li>
+    <li>The Bastion player&rsquo;s action cards may still be cancelled by other game effects, such as the <a href="/F_empyrean">Empyrean</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> mech.<sup>*</sup></li>
     <li>If the <a href="/F_nekro">Nekro</a> player already has a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on one of the Bastion player&rsquo;s components, it will remain there when Nip and Tuck are unlocked.<sup>*</sup></li>
     </ol>
 

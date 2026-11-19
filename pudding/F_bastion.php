@@ -103,7 +103,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Leaders:~:text=Nip%20and%20Tuck">Nip and Tuck</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The Bastion player&rsquo;s action cards may still be cancelled by other game effects.<sup>*</sup>
+    <li>The Bastion player&rsquo;s action cards may still be cancelled by other game effects, such as the <a href="/F_empyrean">Empyrean</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> mech.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
