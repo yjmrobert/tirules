@@ -73,6 +73,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked &hellip;?&rdquo;: &ldquo;Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Once all ships are in, fleet supply is in violation and must immediately be dealt with.&rdquo;</li>
         </ul></li>
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
+    <ol class="note">
     <li>Fighter II units are still fighters for all other game effects.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are Fighter II units still fighters for other effects?&rdquo;: &ldquo;they remain fighters for every other effect.&rdquo;</li>
@@ -85,6 +89,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry">Infantry</a></h2>
     <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
+    <ol class="note">
     <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When those infantry would be placed on a home planet, they are returned to that player&rsquo;s reinforcements instead.&rdquo;</li>
@@ -94,6 +102,10 @@
     </ol>
 
 <h2><a href="/R_pds">PDS</a></h2>
+    <ol class="note">
+    </ol>
+
+<h2><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit">PDS II</a></h2>
     <ol class="note">
     </ol>
 
