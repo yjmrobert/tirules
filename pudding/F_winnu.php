@@ -108,7 +108,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic to <a href="/R_mecatol_rex">Mecatol Rex</a>), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup>
+    <li>If a system meets two (or more) of the conditions listed, Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Winnu commander, Rickar Rickani, stack if Mecatol Rex is also a Legendary Planet? A: No, the commander only triggers once no matter how many conditions are met.&rdquo;</li>
         </ul></li>

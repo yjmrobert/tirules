@@ -53,7 +53,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If Rickar Rickani is unlocked via a combat in the <a href="/R_mecatol_rex">Mecatol Rex</a> system, then the +2 will apply to combat rolls during that combat.<sup>*</sup></li>
-    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic to <a href="/R_mecatol_rex">Mecatol Rex</a>), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup></li>
+    <li>If a system meets two (or more) of the conditions listed, Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
