@@ -159,18 +159,24 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;move all units in its space area (fighters, ground forces in space and Saar docks included).&rdquo;</li>
         </ul></li>
     </ol>
-    <li>Any abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.<sup>*</sup>
+    <li>Abilities that trigger on ships moving resolve according to their wording:<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.<sup>*</sup>
+    <ol>
+        <li>Abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any abilities that trigger when a player moves their ships do not trigger.<sup>*</sup>
+        <li>Abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+        <li>Abilities that trigger when a player moves their own ships trigger for the Mahact player only if the ships moved are their own. They do not trigger for a player whose ships the Mahact player moved.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    </ol>
     <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;The moved ships&rsquo; owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can&rsquo;t enter.&rdquo;</li>

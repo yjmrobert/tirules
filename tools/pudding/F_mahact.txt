@@ -65,25 +65,25 @@ N No source found.
 @29
 N No source found.
 @30
-E2 RulesPal, "How does the Mahact hero's Benediction work?": "The moved ships' owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can't enter."
+N No source found.
 @31
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "The moved ships' owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can't enter."
+@32
 E2 RulesPal, "How does the Mahact hero's Benediction work?": "no pushing them into asteroid fields or supernovas they can't enter."
 I2 RulesPal, "Who can move into or through a supernova?": "Magmus Reactor lets ships move into and stop in one."
-@32
+@33
 E4 Designer ruling: "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
 E3 Learn to Play: "A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die."
-@33
-N No source found.
 @34
-E2 RulesPal, "How does the Mahact hero's Benediction work?": "Creuss's alpha-beta adjacency can't be used."
+N No source found.
 @35
-N No source found.
+E2 RulesPal, "How does the Mahact hero's Benediction work?": "Creuss's alpha-beta adjacency can't be used."
 @36
-E4 Designer ruling: "The combat system is treated as the active system during that combat."
-@37
-E4 Designer ruling: "The ships being moved belong to the 'attacker' and the ships not being moved belong to the 'defender.'"
-@38
 N No source found.
+@37
+E4 Designer ruling: "The combat system is treated as the active system during that combat."
+@38
+E4 Designer ruling: "The ships being moved belong to the 'attacker' and the ships not being moved belong to the 'defender.'"
 @39
 N No source found.
 @40
@@ -97,25 +97,27 @@ N No source found.
 @44
 N No source found.
 @45
-E4 Designer ruling: "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? … A: A Capacity check is resolved before the space combat begins."
+N No source found.
 @46
-E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+E4 Designer ruling: "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? … A: A Capacity check is resolved before the space combat begins."
 @47
 E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
 @48
 E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
 @49
-I4 Designer ruling, "Can Mahact use their mech ability on themselves?": "Can Mahact use their mech ability on themselves? A: Yes."
+E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
 @50
-E4 Designer ruling: "If Mahact has an Arborec Command Token in their fleet pool … can the Mahact player produce a mech …? A: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability."
+I4 Designer ruling, "Can Mahact use their mech ability on themselves?": "Can Mahact use their mech ability on themselves? A: Yes."
 @51
-N No source found.
+E4 Designer ruling: "If Mahact has an Arborec Command Token in their fleet pool … can the Mahact player produce a mech …? A: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability."
 @52
 N No source found.
 @53
+N No source found.
+@54
 I7 Thunder's Edge Rulebook, Purge: "If an ability instructs a player to purge a component, that component is removed from the game and returned to the box." purged component is out of the game.
 I8 PoK rulebook: "A purged card is removed from the" game.
-@54
-N No source found.
 @55
+N No source found.
+@56
 N No source found.

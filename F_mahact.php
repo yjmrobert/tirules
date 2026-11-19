@@ -70,9 +70,12 @@
         <li>If the Mahact player moves their own ships, they may transport ground forces on planets.<sup>4</sup></li>
         <li>If the Mahact player moves the <a href="/F_saar">Saar</a> player&rsquo;s units, any Floating Factories in the origin system will also be moved.<sup>2</sup></li>
     </ol>
-    <li>Any abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.<sup>*</sup></li>
-    <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.<sup>*</sup></li>
-    <li>Any abilities that trigger when a player moves their ships do not trigger.<sup>*</sup></li>
+    <li>Abilities that trigger on ships moving resolve according to their wording:<sup>*</sup></li>
+    <ol>
+        <li>Abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.<sup>*</sup></li>
+        <li>Abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.<sup>*</sup></li>
+        <li>Abilities that trigger when a player moves their own ships trigger for the Mahact player only if the ships moved are their own. They do not trigger for a player whose ships the Mahact player moved.<sup>*</sup></li>
+    </ol>
     <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li>
     <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> <a href="/F_muaat">Muaat</a> factional technology.<sup>2</sup></li>
     <!--li>The Mahact player may only move the <a href="/F_empyrean">Empyrean</a> player&rsquo;s ships into a nebula.</li-->
