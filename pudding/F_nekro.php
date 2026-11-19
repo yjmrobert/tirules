@@ -440,6 +440,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>Placing a Valefar Assimilator Z token is not gaining a technology. It does not trigger the ability of Nekro Acidos, the Nekro player&rsquo;s commander.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?&rdquo;: &ldquo;It isn&rsquo;t a technology, so the Nekro commander doesn&rsquo;t trigger.&rdquo;</li>
+        </ul></li>
     <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_mahact">Mahact</a> player&rsquo;s faction sheet, they will always apply the +2 to the combat rolls for <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
