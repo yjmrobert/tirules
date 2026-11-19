@@ -10,7 +10,7 @@ the nth cited item in the Rules Reference section (an <li> or <p> with a <sup>, 
     N No source found.
 E = explicit, I = implicit, N = no support found; the number is the source's footnote number.
 """
-import html, os, re, sys
+import html, os, re, sys, unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENT = {"‘": "&lsquo;", "’": "&rsquo;", "“": "&ldquo;", "”": "&rdquo;", "–": "&ndash;", "—": "&mdash;", "…": "&hellip;"}
@@ -39,9 +39,25 @@ def proofs(page):
         cur.append(f"<li><b>{kind}</b>:{sup} {typo(m.group(3))}</li>")
     return out
 
+def page_title(h1):
+    """Header markup -> plain text, as prefix.php does for <title>: <br> becomes " / ", entities
+    are decoded, decorative symbols are dropped. Typographic characters go back to entities."""
+    t = html.unescape(re.sub(r"<[^>]+>", "", re.sub(r"<br\s*/?>", " / ", h1, flags=re.I)))
+    t = re.sub(r"\s+", " ", "".join(c for c in t if unicodedata.category(c) != "So")).strip()
+    t = html.escape(t, quote=False)
+    for ch, ent in ENT.items():
+        t = t.replace(ch, ent)
+    return t
+
 def build(page):
     s = open(os.path.join(ROOT, page + ".php"), encoding="utf-8").read()
-    title = re.sub(r"<[^>]+>", "", re.search(r"<h1>(.*?)</h1>", s, re.S).group(1)).strip()
+    h1 = re.search(r"<h1>(.*?)</h1>", s, re.S).group(1).strip()
+    h1 = re.sub(r"<(?!br\s*/?>)[^>]+>", "", h1)  # keep symbols and line breaks, drop other tags
+    title = page_title(h1)
+    # The proof page's <h1> keeps the page's symbols and line breaks; ": Proof" goes
+    # before any trailing spacing entities so they keep balancing the line.
+    pad = re.search(r"(?:&emsp14;|&emsp;|&ensp;|&nbsp;)*$", h1).group(0)
+    heading = h1[:len(h1) - len(pad)] + ": Proof" + pad
     pr = proofs(page)
     body, n, emitted = [], 0, set()
     # Cited Rules Reference items (outside the note lists), proved as @r0, @r1, ...
@@ -79,7 +95,8 @@ def build(page):
     extra = sorted(k for k in pr if isinstance(k, int) and k >= n) + sorted(k for k in pr if isinstance(k, str) and int(k[1:]) >= len(rr))
     if extra:
         sys.exit(f"{page}: proofs for notes {extra} but the page has only {n} notes")
-    out = (f'<?php include __DIR__ . "/../prefix.php"?>\n<header><h1>{title}: Proof</h1></header>\n<article>\n'
+    styles = "".join(m + "\n" for m in re.findall(r"<style>.*?</style>", s[:s.find("<header>")], re.S))
+    out = (f'<?php include __DIR__ . "/../prefix.php"?>\n{styles}<header><h1>{heading}</h1></header>\n<article>\n'
            f'<p>The source text behind each note on <a href="/{page}">{title}</a>. <b>Explicit</b> sources state the note directly. '
            f"<b>Implicit</b> sources support it without stating it.</p>\n"
            + "\n".join(body) + '\n</article>\n<?php include __DIR__ . "/../suffix.php"?>\n')

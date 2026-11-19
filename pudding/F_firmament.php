@@ -1,7 +1,8 @@
 <?php include __DIR__ . "/../prefix.php"?>
-<header><h1>&#x26AA; The Firmament&#x2716; The Obsidian&emsp14;&emsp14;&emsp14;&emsp14;: Proof</h1></header>
+<style>body, header {font-variant-emoji: text;}</style>
+<header><h1>&#x26AA; The Firmament<br/>&#x2716; The Obsidian: Proof&emsp14;&emsp14;&emsp14;&emsp14;</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_firmament">&#x26AA; The Firmament&#x2716; The Obsidian&emsp14;&emsp14;&emsp14;&emsp14;</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_firmament">The Firmament / The Obsidian</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
     <ol class="note">
