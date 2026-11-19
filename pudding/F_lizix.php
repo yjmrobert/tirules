@@ -43,20 +43,15 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;It still resolves after the round in which L1Z1X lose their last ground force; if it then kills the last defender, the combat is a draw.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The combat ending doesn&rsquo;t nullify the end of a round of combat trigger. Harrow, in this case, would still resolve.&rdquo;</li>
         </ul></li>
-    <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on.<sup>1,2</sup>
+    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;Every ship with Bombardment there can join in, not just those that bombarded that planet.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 15.1d: &ldquo;a player must declare which planet a unit is bombarding before making a bombardment roll.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the L1Z1X&rsquo;s &lsquo;Harrow&rsquo; faction ability should read as follows: &lsquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rsquo;&rdquo;</li>
         </ul></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can L1Z1X mechs bombard through Harrow?&rdquo;: &ldquo;Only when not in that ground combat: a mech fighting on a planet can&rsquo;t bombard it, but one on another planet in the system can.&rdquo;</li>
         </ul></li></ol>
-    <li>The text of <sc>Harrow</sc> is changed to: &ldquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rdquo;<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the L1Z1X&rsquo;s &lsquo;Harrow&rsquo; faction ability should read as follows: &lsquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rsquo;&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;Per errata it triggers at the end of each round of ground combat.&rdquo;</li>
-        </ul></li>
     <li>The L1Z1X player may use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;Harrow is Bombardment.&rdquo;</li>

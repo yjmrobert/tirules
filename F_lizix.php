@@ -14,9 +14,8 @@
     <li>The <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup></li>
     <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player.<sup>4</sup></li>
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup></li>
-    <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on.<sup>1,2</sup></li>
+    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2</sup></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup></li></ol>
-    <li>The text of <sc>Harrow</sc> is changed to: &ldquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rdquo;<sup>1,2</sup></li>
     <li>The L1Z1X player may use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
     </ol>
 
