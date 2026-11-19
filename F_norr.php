@@ -55,7 +55,7 @@
         <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law is in play.<sup>4</sup></li>
     </ol>
     <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.<sup>*</sup></li>
-    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup></li>
+    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup></li>
     <li>Ground forces cannot be committed to a planet if it has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup></li>
     </ol>
 
