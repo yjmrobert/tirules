@@ -25,26 +25,29 @@ E6 Community consensus, "Can Nano-Forge and/or Terraform be attached to planets 
 @10
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "They then place neutral units as indicated on the back of The Fracture's tiles."
 @11
+E6 Community consensus: "Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: No, Frontier tokens are placed during setup and the fracture is not in play at this time. The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play."
+E2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Not at the start: frontier tokens are placed at setup, before the Fracture is in play, though the Empyrean hero can later put them on its empty systems."
+@12
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system that contains an ingress is adjacent to each system in The Fracture that contains an egress. However, ingress systems are not adjacent to other ingress systems, and egress systems are not adjacent to other egress systems."
 E2 RulesPal, "Can ships move from an egress back to an ingress to leave The Fracture?": "ingress and egress adjacency works both ways, like wormholes, except ingresses aren't adjacent to other ingresses and egresses aren't adjacent to other egresses"
-@12
-E2 RulesPal, "Can ships pass through the Fracture in one move …?": "Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows."
 @13
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems."
+E2 RulesPal, "Can ships pass through the Fracture in one move …?": "Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows."
 @14
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems."
 @15
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "must choose three systems … if able."
+@16
 E6 Community consensus: "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
 E9 Designer Q&A, "Cabal Breakthrough": "According to cabal BT colors."
-@16
+@17
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "If The Fracture was brought into play by another ability, or by a breakthrough that does not have synergy (as is the case with the Nekro Virus faction), the player chooses four planets and places an ingress token in those planets' systems."
 I2 RulesPal, "Who places ingress tokens when Rapid Mobilization brings the Fracture in?": "the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able" About Rapid Mobilization; Nekro not named.
-@17
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @18
-E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Each planet must be in a different system and must have a different technology specialty."
 @19
+E7 Thunder's Edge Rulebook p. 9, The Fracture: "Finally, the players place an ingress token in the Thunder's Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed."
+@20
 E7 Thunder's Edge Rulebook p. 9, The Fracture: "A system cannot have more than one ingress token."
 E6 Community consensus: "the rules state that a system may not contain more than 1 ingress token."
-@20
+@21
 E7 Thunder's Edge Rulebook p. 9: "Each planet in the fracture has a relic icon." p. 10: "When a player gains a planet card from the planet deck that has a relic icon … they draw the top card of the relic deck."

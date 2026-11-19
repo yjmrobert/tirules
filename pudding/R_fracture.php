@@ -55,6 +55,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;They then place neutral units as indicated on the back of The Fracture&rsquo;s tiles.&rdquo;</li>
         </ul></li>
+    <li>Frontier tokens are not placed in systems in The Fracture when it is brought into play, as frontier tokens are only placed during setup. However, if The Fracture is in play when the <a href="/F_empyrean">Empyrean</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift"><i>Multiverse Shift</i></a> hero ability, frontier tokens will be placed in the systems in The Fracture that do not contain a planet.<sup>2,6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: No, Frontier tokens are placed during setup and the fracture is not in play at this time. The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Not at the start: frontier tokens are placed at setup, before the Fracture is in play, though the Empyrean hero can later put them on its empty systems.&rdquo;</li>
+        </ul></li>
     <li>When The Fracture is brought into play, several ingress tokens will be placed on the game board. Several systems in The Fracture contain a printed egress. Each ingress is adjacent to each egress, and vice versa. An ingress is not adjacent to an ingress and an egress is not adjacent to an egress.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;A system that contains an ingress is adjacent to each system in The Fracture that contains an egress. However, ingress systems are not adjacent to other ingress systems, and egress systems are not adjacent to other egress systems.&rdquo;</li>
