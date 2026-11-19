@@ -125,7 +125,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling: &ldquo;there is nothing stopping the Creuss from &lsquo;moving&rsquo; the token into the system that it is already in.&rdquo;</li>
         </ul></li></ol>
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.<sup>*</sup>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -146,7 +146,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.<sup>*</sup>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
