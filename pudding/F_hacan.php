@@ -93,6 +93,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Hacan flagship&rsquo;s trade-good bonus work?&rdquo;: &ldquo;spend 1 trade good for +1 on any of your units&rsquo; dice in its system, at most once per die.&rdquo;</li>
         </ul></li>
+    <li>This ability only affects combat rolls. It cannot modify rolls for <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, or other unit abilities.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Hacan flagship&rsquo;s trade-good bonus work?&rdquo;: &ldquo;It only modifies combat rolls, not Space Cannon or other ability rolls.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>
