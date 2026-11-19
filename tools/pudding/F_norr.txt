@@ -65,6 +65,8 @@ N No source found.
 @29
 N No source found.
 @30
-N No source found.
+N No source found. The card returns the ships to reinforcements; it does not destroy them.
 @31
+N No source found.
+@32
 N No source found.

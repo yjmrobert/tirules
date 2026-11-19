@@ -161,6 +161,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The N&rsquo;orr player&rsquo;s ships in the active system are returned to their reinforcements; they are not destroyed. Abilities that trigger when ships are destroyed cannot be used.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. The card returns the ships to reinforcements; it does not destroy them.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>
