@@ -232,6 +232,12 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
+    <li>If the Nekro player copies the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a> flagship unit upgrade technology, its attributes and abilities replace those of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 97.1a: &ldquo;The Nekro Virus player may upgrade their units with units of the same type (e.g., &lsquo;dreadnought&rsquo; or &lsquo;infantry&rsquo;) even if those unit&rsquo;s names do not match.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 97.4: &ldquo;After a player gains a unit upgrade card, each of that player&rsquo;s units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit, such as the one printed on that player&rsquo;s faction sheet, are ignored.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can the Nekro copy with Valefar Assimilator?&rdquo;: &ldquo;Units printed on faction sheets, like Muaat&rsquo;s Prototype War Sun I or flagships, aren&rsquo;t technologies and can&rsquo;t be copied (the Nomad&rsquo;s Memoria II card is the exception).&rdquo; Memoria II is the only copyable flagship upgrade.</li>
+        </ul></li>
     <li>If the <a href="/F_jol_nar">Jol&ndash;Nar</a> player uses their hero to replace a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a Valefar Assimilator token on it while in that player&rsquo;s technology deck.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
@@ -311,7 +317,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Do infantry involved in a space combat via the effects of &lsquo;The Alastor&rsquo; flagship count toward the ships required to use the &lsquo;Assault Cannon&rsquo; technology? A: Yes.&rdquo;</li>
         </ul></li>
-        <li>The <a href="/F_winnu">Winnu</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Salai%20Sai%20Corian"><i>Salai Sai Corian</i></a>, will roll one dice for each infantry the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.<sup>1,2</sup>
+        <li>The <a href="/F_winnu">Winnu</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Flagship:~:text=Salai%20Sai%20Corian"><i>Salai Sai Corian</i></a>, will roll one dice for each infantry the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Winnu &lsquo;Salai Sai Corian&rsquo; flagship get additional dice for infantry participating in a fight due to the Nekro &lsquo;Alastor&rsquo; flagship? A: Yes. The &lsquo;Salai Sai Corian&rsquo; would get one additional die per infantry.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Nekro ground forces fighting via the flagship count for other effects?&rdquo;: &ldquo;they count as non-fighter ships for things like the Winnu flagship&rsquo;s extra dice (per the LRR FAQ).&rdquo;</li>
@@ -345,6 +351,12 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>This applies only to copying another player&rsquo;s flagship unit upgrade technology, currently only the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a>, with a <i>Valefar Assimilator</i> X or Y token. Copying a flagship with <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Breakthrough:~:text=Valefar%20Assimilator%20Z"><i>Valefar Assimilator Z</i></a> does not replace the abilities of <i>The Alastor</i>.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 97.4: &ldquo;After a player gains a unit upgrade card, each of that player&rsquo;s units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit &hellip; are ignored.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can the Nekro copy with Valefar Assimilator?&rdquo;: &ldquo;Units printed on faction sheets, like Muaat&rsquo;s Prototype War Sun I or flagships, aren&rsquo;t technologies and can&rsquo;t be copied (the Nomad&rsquo;s Memoria II card is the exception).&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?&rdquo;: &ldquo;you may put an Assimilator Z token on their faction sheet instead, and your flagship gains that flagship&rsquo;s text abilities.&rdquo; Gains, in addition to its own.</li>
+        </ul></li></ol>
     <li>Ground forces participating in a space combat due to the effect of <i>The Alastor</i> are units that can be transported, so they do not count toward the Nekro player&rsquo;s fleet pool limit.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Infantry that are participating in space combat due to the effects of &lsquo;The Alastor&rsquo; do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system.&rdquo;</li>

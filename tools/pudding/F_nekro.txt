@@ -106,18 +106,20 @@ I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, w
 @46
 N No source found.
 @47
-E4 Designer ruling: "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+E1 LRR 97.1a: "The Nekro Virus player may upgrade their units with units of the same type (e.g., 'dreadnought' or 'infantry') even if those unit's names do not match."
+E1 LRR 97.4: "After a player gains a unit upgrade card, each of that player's units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit, such as the one printed on that player's faction sheet, are ignored."
+I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Units printed on faction sheets, like Muaat's Prototype War Sun I or flagships, aren't technologies and can't be copied (the Nomad's Memoria II card is the exception)." Memoria II is the only copyable flagship upgrade.
 @48
+E4 Designer ruling: "The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+@49
 I2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "Yes — a copied technology counts with its colour and type."
 I5 FFG ruling (stephen986, Sep 19 2017): "The intent was that after placing an assimilator token on another faction’s faction specific technology, it would then count toward the secret objective." Counting only once a token is placed on another technology implies the if-and-only-if.
-@49
-N No source found.
 @50
 N No source found.
 @51
-E1 LRR FAQ, on combats that are "impossible for either side to win—for example, certain configurations of ships using the 'Non-Euclidean Shielding' and 'Duranium Armor' technologies in concert? A: If neither side has the potential to win, the attacker must retreat."
-@52
 N No source found.
+@52
+E1 LRR FAQ, on combats that are "impossible for either side to win—for example, certain configurations of ships using the 'Non-Euclidean Shielding' and 'Duranium Armor' technologies in concert? A: If neither side has the potential to win, the attacker must retreat."
 @53
 N No source found.
 @54
@@ -127,45 +129,47 @@ N No source found.
 @56
 N No source found.
 @57
-E1 LRR 90.19: "If a Valefar Assimilator token is removed from the Saar 'Floating Factory' unit upgrade, each of the Nekro Virus' space docks must be placed on an eligible planet they control in that space dock's system, or the space dock is returned to their reinforcements."
+N No source found.
 @58
-E1 LRR 90.20: "If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player's war suns are returned to their reinforcements."
+E1 LRR 90.19: "If a Valefar Assimilator token is removed from the Saar 'Floating Factory' unit upgrade, each of the Nekro Virus' space docks must be placed on an eligible planet they control in that space dock's system, or the space dock is returned to their reinforcements."
 @59
+E1 LRR 90.20: "If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player's war suns are returned to their reinforcements."
+@60
 E2 RulesPal, "What happens when the Nekro move a Valefar token off a technology their units depend on?": "Ships already in a supernova after losing Magmus Reactor are fine."
 I5 Designer ruling (Vidyaraja, Sep 18, 2017): "Losing Magmus Reactor in a supernova has no effect on the ships in the supernova, as the effects of a supernova do not kill ships, only restrict or disallow movement." Units stay; restriction on moving in or through follows from the supernova rule.
-@60
-N No source found.
 @61
 N No source found.
 @62
-E1 LRR FAQ: "Infantry that are participating in space combat due to the effects of 'The Alastor' do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system."
+N No source found.
 @63
-E1 LRR FAQ: "Do infantry involved in a space combat via the effects of 'The Alastor' flagship count toward the ships required to use the 'Assault Cannon' technology? A: Yes."
+E1 LRR FAQ: "Infantry that are participating in space combat due to the effects of 'The Alastor' do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system."
 @64
+E1 LRR FAQ: "Do infantry involved in a space combat via the effects of 'The Alastor' flagship count toward the ships required to use the 'Assault Cannon' technology? A: Yes."
+@65
 E1 LRR FAQ: "Does the Winnu 'Salai Sai Corian' flagship get additional dice for infantry participating in a fight due to the Nekro 'Alastor' flagship? A: Yes. The 'Salai Sai Corian' would get one additional die per infantry."
 E2 RulesPal, "How do Nekro ground forces fighting via the flagship count for other effects?": "they count as non-fighter ships for things like the Winnu flagship's extra dice (per the LRR FAQ)."
-@65
-N No source found.
 @66
 N No source found.
 @67
 N No source found.
 @68
-E4 Designer ruling: "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet."
-@69
-E4 Designer ruling: "If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2's ability."
-@70
-E1 LRR FAQ: "Infantry that are committed to the space combat due to the effects of 'The Alastor' continue to participate until the end of the combat, even if 'The Alastor' is destroyed."
-@71
 N No source found.
+@69
+E4 Designer ruling: "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet."
+@70
+E4 Designer ruling: "If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2's ability."
+@71
+E1 LRR FAQ: "Infantry that are committed to the space combat due to the effects of 'The Alastor' continue to participate until the end of the combat, even if 'The Alastor' is destroyed."
 @72
+N No source found.
+@73
+E1 LRR 97.4: "After a player gains a unit upgrade card, each of that player's units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit … are ignored."
+I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Units printed on faction sheets, like Muaat's Prototype War Sun I or flagships, aren't technologies and can't be copied (the Nomad's Memoria II card is the exception)."
+I2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "you may put an Assimilator Z token on their faction sheet instead, and your flagship gains that flagship's text abilities." Gains, in addition to its own.
+@74
 E1 LRR FAQ: "Infantry that are participating in space combat due to the effects of 'The Alastor' do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system."
 I2 RulesPal, "How do ground forces fighting with the Nekro Virus flagship work?": "They take part in the space combat as if they were ships."
 I5 Designer ruling (greghouse, Dec 29, 2017): "Can i have the ground forces number over my fleet pool? … 1) Yes" The Alastor ground forces do not count against the fleet pool.
-@73
-N No source found.
-@74
-N No source found.
 @75
 N No source found.
 @76
@@ -175,20 +179,20 @@ N No source found.
 @78
 N No source found.
 @79
-E4 Designer ruling: "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
+N No source found.
 @80
-E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves."
+N No source found.
 @81
-N No source found.
+E4 Designer ruling: "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
 @82
-N No source found.
+E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves."
 @83
-I1 LRR 90.8b: "Unit upgrades do not have a color."
-I2 RulesPal, "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
+N No source found.
 @84
 N No source found.
 @85
-N No source found.
+I1 LRR 90.8b: "Unit upgrades do not have a color."
+I2 RulesPal, "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
 @86
 N No source found.
 @87
@@ -198,10 +202,14 @@ N No source found.
 @89
 N No source found.
 @90
-E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
+N No source found.
 @91
-E6 Community consensus: "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
+N No source found.
 @92
-E6 Community consensus: "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
+E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
 @93
+E6 Community consensus: "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
+@94
+E6 Community consensus: "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
+@95
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "your flagship gains that flagship's text abilities … Unit abilities like Deploy, Space Cannon or Sustain Damage aren't text abilities, so copying flagships that rely on them gains nothing."
