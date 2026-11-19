@@ -207,6 +207,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Stellar Genesis (Breakthrough): If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected.&rdquo;</li>
         </ul></li>
+    <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Avernus and gravity rifts: &ldquo;Avernus does not roll for gravity rift, it is not a ship.&rdquo;</li>
+        </ul></li>
+    <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Avernus">Avernus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Specific_Components:~:text=The%20Nucleus">The Nucleus</a> <sub>(Legendary Planet)</sub></h2>
@@ -223,17 +231,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Avernus and gravity rifts: &ldquo;Avernus does not roll for gravity rift, it is not a ship.&rdquo;</li>
-        </ul></li>
     <li>If the Muaat player is eliminated, Avernus, its token, its planet card, and its legendary planet ability card remain in play.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play.&rdquo;</li>
-        </ul></li>
-    <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

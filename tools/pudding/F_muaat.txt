@@ -77,14 +77,14 @@ N No source found.
 @37
 E6 Community consensus: "Stellar Genesis (Breakthrough): If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected."
 @38
-N No source found.
+E6 Community consensus, Avernus and gravity rifts: "Avernus does not roll for gravity rift, it is not a ship."
 @39
-N No source found.
+E6 Community consensus: "Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship."
 @40
 N No source found.
 @41
-E6 Community consensus, Avernus and gravity rifts: "Avernus does not roll for gravity rift, it is not a ship."
+N No source found.
 @42
-E6 Community consensus: "Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play."
+N No source found.
 @43
-E6 Community consensus: "Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship."
+E6 Community consensus: "Does the Avernus remain in play if the Muaat player is eliminated? A: Avernus, its token, planet card and legendary ability remain in play."

@@ -89,6 +89,8 @@
         <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <a href="/R_production"><sc>Production</sc></a> ability during the production step of the same tactical action the planet is moved.<sup>*</sup></li>
     </ol>
     <li>If the Muaat player moves Avernus into a supernova while another player has units on it, those units are unaffected.<sup>6</sup></li>
+    <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup></li>
+    <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Avernus">Avernus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Specific_Components:~:text=The%20Nucleus">The Nucleus</a> <sub>(Legendary Planet)</sub></h2>
@@ -96,9 +98,7 @@
     <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
     <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.<sup>*</sup></li>
     <li>If another player controls Avernus, they may use <i>The Nucleus</i> only if they have a war sun on the game board.<sup>*</sup></li>
-    <li>Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.<sup>6</sup></li>
     <li>If the Muaat player is eliminated, Avernus, its token, its planet card, and its legendary planet ability card remain in play.<sup>6</sup></li>
-    <li>Avernus may be moved out of a system that contains the Muaat player&rsquo;s command token during a tactical action, even if there are ground forces on it, as it is not a ship.<sup>6</sup></li>
     </ol>
 
 </article>
