@@ -35,7 +35,6 @@
     <ol class="note">
     <li>Fighters and ground forces do not count towards capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup></li>
     <li>A ship cannot move through a system that contains fighters that are controlled by another player during the <b>Movement</b> step of a tactical action.<sup>1,2,3,5</sup></li>
-    <li>Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>

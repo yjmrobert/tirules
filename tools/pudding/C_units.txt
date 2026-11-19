@@ -24,17 +24,14 @@ E5 Designer ruling: "Lone advanced fighters can block other players' ship moveme
 I3 Learn to Play: ships move only through systems without other players' ships.
 E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included."
 @7
-E2 RulesPal, "When is the fleet pool limit checked …?": "Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
-E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."
-@8
 E2 RulesPal, "Are Fighter II units still fighters for other effects?": "they remain fighters for every other effect."
-@9
+@8
 E1 LRR FAQ: "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead."
 E2 RulesPal, "What happens to infantry on the Infantry II card if I don't control my home system?": "If you control none there, they are lost (returned to reinforcements), per a relayed developer email."
 E5 Designer ruling: "The units would be lost, in this case."
-@10
+@9
 E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
-@11
+@10
 E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
-@12
+@11
 E2 RulesPal, "How many units can a space dock produce?": "The planet being exhausted doesn't matter."

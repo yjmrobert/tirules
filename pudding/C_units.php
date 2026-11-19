@@ -68,11 +68,6 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: ships move only through systems without other players&rsquo; ships.</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
         </ul></li>
-    <li>Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.<sup>2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked &hellip;?&rdquo;: &ldquo;Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Once all ships are in, fleet supply is in violation and must immediately be dealt with.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
