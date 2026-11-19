@@ -31,6 +31,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
     <ol class="note">
     <li>The <a href="/F_xxcha">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup></li>
+    <li>Ground forces cannot be committed to a planet with <i>Demilitarized Zone</i> attached.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Derelict%20Vessel">Derelict Vessel</a></h2>

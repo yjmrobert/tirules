@@ -141,13 +141,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup>
+    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does using Dominus Orb allow the Sardakk N&rsquo;orr player to commit ground forces via their commander &hellip;? A: No, G&rsquo;hom Sek&rsquo;kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place.&rdquo;</li>
-        </ul></li>
-    <li>Ground forces cannot be committed to a planet if it has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 

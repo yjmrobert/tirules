@@ -45,6 +45,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet with the Demilitarized Zone attachment be invaded?&rdquo;: &ldquo;Effects that take control without placing units, such as Peace Accords, still can.&rdquo;</li>
         </ul></li>
+    <li>Ground forces cannot be committed to a planet with <i>Demilitarized Zone</i> attached.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Derelict%20Vessel">Derelict Vessel</a></h2>
