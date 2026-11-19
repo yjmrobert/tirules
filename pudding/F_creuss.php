@@ -183,10 +183,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;Its system counts as containing a delta wormhole.&rdquo;</li>
         </ul></li></ol>
-    <li>If the <i>Hil Colish</i> is moved first, and is removed due to the effect of a gravity rift, other ships that were declared to move that can reach the destination system must do so, even if the path is through the gravity rift. Ships that cannot reach the active system do not move.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found. LRR FAQ covers the related case: other ships cannot use the wormhole once the Hil Colish is removed.</li>
-        </ul></li>
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
