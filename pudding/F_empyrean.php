@@ -154,13 +154,16 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.<sup>*</sup>
+    <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When does a commander unlock?&rdquo;: &ldquo;As soon as its condition is met, mid-turn if need be &hellip; It is checked only after the current effect fully resolves.&rdquo; The current effect is the movement, so Xuange unlocks only after the movement resolves, after the window to resolve its ability from that movement.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;No &mdash; production is one step, so the unlock condition is only met after it finishes; use the commander from your next production.&rdquo; The same applies to movement.</li>
         </ul></li>
-    <li>If the Empyrean player moves a ship into a system containing one of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="/F_saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>*</sup>
+    <li>If the Empyrean player moves a ship into a system containing one of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories, and no other ships, that <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and <a href="/F_saar">Saar</a> players are not neighbors in any other way, then Xuange will not unlock.<sup>2,6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Saar Floating Factories move and produce in the same action, and how many can share a system?&rdquo;: &ldquo;A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When does a commander unlock?&rdquo;: &ldquo;It is checked only after the current effect fully resolves.&rdquo; By then the Floating Factory has already been destroyed.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved.&rdquo; Blockade destruction happens immediately, before other abilities resolve.</li>
         </ul></li>
     <li>Only the system in which a ship ends its movement is &ldquo;moved into&rdquo;; systems a ship moves through are not. As such, Xuange returns at most one command token for each movement.<sup>2</sup>
         <ul>

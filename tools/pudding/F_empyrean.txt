@@ -58,9 +58,12 @@ E5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does
 @26
 N No source found.
 @27
-N No source found.
+I2 RulesPal, "When does a commander unlock?": "As soon as its condition is met, mid-turn if need be … It is checked only after the current effect fully resolves." The current effect is the movement, so Xuange unlocks only after the movement resolves, after the window to resolve its ability from that movement.
+I2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "No — production is one step, so the unlock condition is only met after it finishes; use the commander from your next production." The same applies to movement.
 @28
-N No source found.
+I2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships."
+I2 RulesPal, "When does a commander unlock?": "It is checked only after the current effect fully resolves." By then the Floating Factory has already been destroyed.
+I6 Community consensus: "Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved." Blockade destruction happens immediately, before other abilities resolve.
 @29
 E2 RulesPal, "Do abilities that trigger on ships moving into a system … count systems merely passed through?": "No — only the system where movement ends is 'moved into', so the Empyrean commander returns at most one token per move."
 @30
