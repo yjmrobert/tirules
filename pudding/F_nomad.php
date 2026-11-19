@@ -143,9 +143,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any damaged mechs remain damaged.<sup>*</sup>
+    <li>Any damaged mechs remain damaged.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired or does it remain damaged. A: If it is being removed and placed via an ability such as Transit Diodes it stays in the same state.&rdquo; Field Marshal Mercer removes and places ground forces the same way Transit Diodes does.</li>
         </ul></li>
     </ol>
 

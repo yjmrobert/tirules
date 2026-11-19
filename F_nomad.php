@@ -57,7 +57,7 @@
     <li>The ground forces may be on a planet or in a space area.<sup>*</sup></li>
     <li>The ground forces may be from different systems.<sup>*</sup></li>
     <li>The ground forces may be placed on one or two planets.<sup>*</sup></li>
-    <li>Any damaged mechs remain damaged.<sup>*</sup></li>
+    <li>Any damaged mechs remain damaged.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> <sub>(Agent)</sub></h2>
