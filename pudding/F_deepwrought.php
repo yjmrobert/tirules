@@ -98,7 +98,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a researching player use both the Deepwrought commander and alliance for -2?&rdquo;: &ldquo;Yes &mdash; each is a separate optional trigger, and the Deepwrought and their ally can&rsquo;t refuse.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Aello (Deepwrought Commander): &ldquo;The Deepwrought player cannot choose to disallow Aello from being used by other players.&rdquo;</li>
         </ul></li>
-    <li>Aello cannot be used to reduce a cost paid with trade goods, influence, or any other currency.<sup>*</sup>
+    <li>Aello can only reduce a cost paid with <a href="/R_resources">resources</a>, including <a href="/R_trade_goods">trade goods</a> spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -47,7 +47,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.<sup>2,7</sup></li>
-    <li>Aello cannot be used to reduce a cost paid with trade goods, influence, or any other currency.<sup>*</sup></li>
+    <li>Aello can only reduce a cost paid with <a href="/R_resources">resources</a>, including <a href="/R_trade_goods">trade goods</a> spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup></li>
     <li>If a player has the Deepwrought player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup></li>
     <ol>
         <li>Another player may use the ability from both for a two resource discount, triggering the commodity ability for both the Deepwrought player and the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>2</sup></li>
