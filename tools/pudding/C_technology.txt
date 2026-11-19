@@ -1,158 +1,158 @@
 @0
 I2 RulesPal, "What does Antimass Deflectors do?": "other players' Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are" -1 applies to all Space Cannon rolls against the player, Defense explicitly included.
 @1
-E8 PoK rulebook, Dark Energy Tap: "After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token."
+E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
 @2
+E8 PoK rulebook, Dark Energy Tap: "After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token."
+@3
 E2 RulesPal, "When does Dark Energy Tap explore frontier tokens, and is it mandatory?": "After the tactical action ends, and only if your ships are still there, so it comes after Space Cannon Offense and production."
 I8 PoK rulebook card text: "After you perform a tactical action."
-@3
+@4
 E2 RulesPal: "It has no 'may', so it is mandatory."
 I8 PoK rulebook card text: "if you have 1 or more ships in that system, explore that token."
-@4
-I8 PoK rulebook card text: "After you perform a tactical action in a system that contains a frontier token." Gaining the technology is not a trigger.
 @5
+I8 PoK rulebook card text: "After you perform a tactical action in a system that contains a frontier token." Gaining the technology is not a trigger.
+@6
 I8 PoK rulebook card text: the trigger is "After you perform a tactical action."
 I2 RulesPal: "After the tactical action ends, and only if your ships are still there."
-@6
-N No source found.
 @7
-E8 PoK rulebook, Dark Energy Tap: "Your ships can retreat into adjacent systems that do not contain other players' units."
+N No source found.
 @8
-I2 RulesPal, "Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?": "they get Gravity Drive, Flank Speed and rift bonuses."
+E8 PoK rulebook, Dark Energy Tap: "Your ships can retreat into adjacent systems that do not contain other players' units."
 @9
-E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay …? A: Yes, a unit that is produced must always be paid for."
+I2 RulesPal, "Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?": "they get Gravity Drive, Flank Speed and rift bonuses."
 @10
+E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay …? A: Yes, a unit that is produced must always be paid for."
+@11
 E4 Designer ruling: "Can you Sling Relay without producing anything? A: No, you must produce a ship."
 I2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Sling Relay with nowhere to produce."
-@11
-N No source found.
 @12
-E2 RulesPal, "Can I use a technology right after researching it, such as Fleet Logistics?": "Yes. Research Fleet Logistics with the Technology primary on your turn, and once that strategic action, secondaries included, is done you may take a second action that turn."
+N No source found.
 @13
-I2 RulesPal, "When must Xxcha use Nullification Field": "Once the turn ends, nothing more happens in it."
+E2 RulesPal, "Can I use a technology right after researching it, such as Fleet Logistics?": "Yes. Research Fleet Logistics with the Technology primary on your turn, and once that strategic action, secondaries included, is done you may take a second action that turn."
 @14
-I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
+I2 RulesPal, "When must Xxcha use Nullification Field": "Once the turn ends, nothing more happens in it."
 @15
-E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
+I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
 @16
-E2 RulesPal, "What does Fleet Logistics allow?": "If the first is Warfare, other players resolve its secondary before your second action."
+E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
 @17
-E2 RulesPal, "With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?": "Yes — moving through such a system is allowed, and ships can pick up units in any system they pass through."
+E2 RulesPal, "What does Fleet Logistics allow?": "If the first is Warfare, other players resolve its secondary before your second action."
 @18
-E2 RulesPal, "Does Light/Wave Deflector let my ships ignore blockades?": "It doesn't let you produce ships in a blockaded system."
+E2 RulesPal, "With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?": "Yes — moving through such a system is allowed, and ships can pick up units in any system they pass through."
 @19
-E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities."
+E2 RulesPal, "Does Light/Wave Deflector let my ships ignore blockades?": "It doesn't let you produce ships in a blockaded system."
 @20
+E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities."
+@21
 E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw."
 E5 Designer ruling (Mar 2019): "NM is intended to refer to the specific step of the status phase, not a blanket rule."
-@21
+@22
 E2 RulesPal, "When can Psychoarchaeology be used?": "At any point in the action phase, not only on your turn, but never in the middle of resolving another player's ability"
 E4 Designer ruling, Nekro agent / Psychoarchaeology / Hacan agent timing: "any ability that is used “during the action phase” cannot be resolved unless there are no other abilities currently being resolved."
-@22
+@23
 E4 Designer ruling: "When you gain trade goods from multiple planets using the Psychoarchaeology technology, do you gain them 1 at a time or as a group? A: You gain them one at a time."
 I2 RulesPal, "Does Psychoarchaeology give 1 trade good per planet or 1 total?": "each use exhausts one planet with a specialty for 1 trade good, and you can repeat it for each such planet" each use gives one trade good, so multiple planets give them one at a time.
-@23
+@24
 E1 LRR errata: "The text of the 'Hyper Metabolism' technology should read as follows: 'During the status phase, gain 3 command tokens instead of 2.'"
 E10 Codex I: "An error in the original printing … left this biotic technology with incorrect text. … the technology provides three."
-@24
-N No source found.
 @25
 N No source found.
 @26
 N No source found.
 @27
-E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "It needs your Bombardment to destroy at least one infantry; if hits go to mechs and no infantry dies, nothing happens."
-@28
-E15 Codex 4.5, X-89 Bacterial Weapon: "Double the hits produced by your units' BOMBARDMENT and ground combat rolls." No "may".
-@29
-E6 Community consensus: "What is the interaction between X-89 and hit cancellation …? A: X89 turns all hits into 2 before abilities and effects like Titan's agent or Proxima."
-@30
 N No source found.
+@28
+E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "It needs your Bombardment to destroy at least one infantry; if hits go to mechs and no infantry dies, nothing happens."
+@29
+E15 Codex 4.5, X-89 Bacterial Weapon: "Double the hits produced by your units' BOMBARDMENT and ground combat rolls." No "may".
+@30
+E6 Community consensus: "What is the interaction between X-89 and hit cancellation …? A: X89 turns all hits into 2 before abilities and effects like Titan's agent or Proxima."
 @31
 N No source found.
 @32
-E15 Codex 4.5: "Exhaust each planet you use BOMBARDMENT against."
+N No source found.
 @33
-E6 Community consensus: "Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes."
+E15 Codex 4.5: "Exhaust each planet you use BOMBARDMENT against."
 @34
-E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
+E6 Community consensus: "Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes."
 @35
-I2 RulesPal: "a unit bombards a single planet with all its dice."
+E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
 @36
-E2 RulesPal: "You may pick any planet in the system, since bombardment comes before ground forces are committed."
+I2 RulesPal: "a unit bombards a single planet with all its dice."
 @37
+E2 RulesPal: "You may pick any planet in the system, since bombardment comes before ground forces are committed."
+@38
 E1 LRR FAQ: "'Plasma Scoring' only grants one additional die for each 'Bombardment' or 'Space Cannon' roll."
 E2 RulesPal, "How many extra dice does Plasma Scoring add …?": "One extra die per use of the ability, not per unit or per planet."
 E3 Learn to Play, Plasma Scoring: "When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die."
-@38
+@39
 E2 RulesPal: "Bombardment is a single step, so one extra die however many planets you bombard."
 E6 Community consensus: "Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 I1 LRR FAQ: "“Plasma Scoring” only grants one additional die for each “Bombardment” or “Space Cannon” roll, and the unit benefiting from this technology must be decided before rolling." Bombardment is a single roll, so one unit gets the die.
-@39
-E1 LRR FAQ: "If a player has multiple planets with PDS that are being invaded in a single system, does the 'Plasma Scoring' technology add one die to each planet's space cannon roll …? A: The 'Plasma Scoring' technology adds one die for each … planet's 'Space Cannon' roll."
 @40
-E6 Community consensus: "BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
+E1 LRR FAQ: "If a player has multiple planets with PDS that are being invaded in a single system, does the 'Plasma Scoring' technology add one die to each planet's space cannon roll …? A: The 'Plasma Scoring' technology adds one die for each … planet's 'Space Cannon' roll."
 @41
-E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
+E6 Community consensus: "BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 @42
-E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "you can exhaust AI Development Algorithm and still count it."
+E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
 @43
-E2 Same entry: "you can exhaust AI Development Algorithm and still count it."
+E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "you can exhaust AI Development Algorithm and still count it."
 @44
+E2 Same entry: "you can exhaust AI Development Algorithm and still count it."
+@45
 I3 Learn to Play, Magen Defense Grid: "contains 1 or more of your units that have PLANETARY SHIELD."
 I2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield" original Magen needs a unit with Planetary Shield, so it fails if all have lost it.
-@45
-E10 Codex I, Magen Defense Grid Ω: "you may produce 1 hit and assign it to 1 of your opponent's ground forces."
 @46
-N No source found.
+E10 Codex I, Magen Defense Grid Ω: "you may produce 1 hit and assign it to 1 of your opponent's ground forces."
 @47
 N No source found.
 @48
-E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work …?": "That hit lands at the start of ground combat, before any dice are rolled."
-@49
-E15 Codex 4.5, Magen Defense Grid: "produce 1 hit and assign it to 1 of your opponent's ground forces."
-@50
 N No source found.
+@49
+E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work …?": "That hit lands at the start of ground combat, before any dice are rolled."
+@50
+E15 Codex 4.5, Magen Defense Grid: "produce 1 hit and assign it to 1 of your opponent's ground forces."
 @51
 N No source found.
 @52
-E15 Codex 4.5: "When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures."
+N No source found.
 @53
-E15 Same text: "place 1 infantry … with each of those structures."
+E15 Codex 4.5: "When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures."
 @54
 E15 Same text: "place 1 infantry … with each of those structures."
 @55
-N No source found.
+E15 Same text: "place 1 infantry … with each of those structures."
 @56
-E2 RulesPal, "Can Self-Assembly Routines place a mech when Muaat produce in a supernova?": "No — there is no planet in a supernova to place it on."
+N No source found.
 @57
+E2 RulesPal, "Can Self-Assembly Routines place a mech when Muaat produce in a supernova?": "No — there is no planet in a supernova to place it on."
+@58
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@58
-E3 Learn to Play, Duranium Armor: "During each combat round, after you assign hits to your units, repair 1 of your damaged units." No "may".
 @59
-E2 RulesPal, "How does Duranium Armor work?": "Once per combat round, after hits are assigned."
+E3 Learn to Play, Duranium Armor: "During each combat round, after you assign hits to your units, repair 1 of your damaged units." No "may".
 @60
-E2 RulesPal: "even if you had no hits to assign."
+E2 RulesPal, "How does Duranium Armor work?": "Once per combat round, after hits are assigned."
 @61
-E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
+E2 RulesPal: "even if you had no hits to assign."
 @62
 E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
 @63
-E3 Learn to Play, Duranium Armor: "repair 1 of your damaged units that did not use SUSTAIN DAMAGE during this combat round."
+E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
 @64
+E3 Learn to Play, Duranium Armor: "repair 1 of your damaged units that did not use SUSTAIN DAMAGE during this combat round."
+@65
 E4 Designer ruling: "Duranium Armor only affects units participating (rolling dice) in a combat."
 E2 RulesPal: "it repairs one of your damaged units in that combat."
-@65
-E2 RulesPal, "If both players have start-of-combat abilities like Assault Cannon …": "Assault Cannon is mandatory when it applies."
 @66
+E2 RulesPal, "If both players have start-of-combat abilities like Assault Cannon …": "Assault Cannon is mandatory when it applies."
+@67
 E2 Same entry: "each trigger re-checked when its turn comes. So the attacker's Assault Cannon can push the defender below 3 non-fighter ships and deny the defender's own Assault Cannon."
 E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "The second player doesn’t get to use his Assault Cannons"
-@67
+@68
 E2 Same entry: "the attacker's Assault Cannon can push the defender below 3 non-fighter ships and deny the defender's own Assault Cannon."
 E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "The second player doesn’t get to use his Assault Cannons"
-@68
-N No source found.
 @69
 N No source found.
 @70
@@ -160,24 +160,24 @@ N No source found.
 @71
 N No source found.
 @72
+N No source found.
+@73
 E2 RulesPal, "Can Sustain Damage save a ship from Exotrireme II, Assault Cannon or other 'destroy' effects?": "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
 E5 Designer ruling: "sustain damage cannot be used against abilities that 'destroy'."
-@73
+@74
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."
 E3 Learn to Play, Sarween Tools: "When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1."
-@74
-I2 RulesPal, "Can I move into a system, fight, invade and then produce there in the same tactical action?": "the steps run activation, movement, space combat, invasion, then production."
 @75
-E2 RulesPal, "Does Graviton Laser System do anything during Space Cannon Defense?": "No — … the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto."
+I2 RulesPal, "Can I move into a system, fight, invade and then produce there in the same tactical action?": "the steps run activation, movement, space combat, invasion, then production."
 @76
-E2 RulesPal, "How does Graviton Laser System affect Space Cannon hits?": "They are still ordinary hits, so Sustain Damage can cancel them before assignment."
+E2 RulesPal, "Does Graviton Laser System do anything during Space Cannon Defense?": "No — … the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto."
 @77
-E2 RulesPal, "Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships …?": "Yes — it applies to the whole Space Cannon roll, borrowed dice included."
+E2 RulesPal, "How does Graviton Laser System affect Space Cannon hits?": "They are still ordinary hits, so Sustain Damage can cancel them before assignment."
 @78
-E4 Designer ruling: "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used."
+E2 RulesPal, "Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships …?": "Yes — it applies to the whole Space Cannon roll, borrowed dice included."
 @79
-N No source found.
+E4 Designer ruling: "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used."
 @80
 N No source found.
 @81
@@ -185,15 +185,17 @@ N No source found.
 @82
 N No source found.
 @83
-E4 Designer ruling: "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state."
+N No source found.
 @84
+E4 Designer ruling: "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state."
+@85
 E1 LRR FAQ: "a unit that is produced must always be paid for."
 E2 RulesPal, "What can Integrated Economy produce?": "up to the new planet's resource value in cost, paid normally."
-@85
-E2 RulesPal, "What can Integrated Economy produce?": "Any units, ships or ground forces, up to the new planet's resource value in cost."
 @86
+E2 RulesPal, "What can Integrated Economy produce?": "Any units, ships or ground forces, up to the new planet's resource value in cost."
+@87
 E2 RulesPal, "What can Integrated Economy produce?": "ships appear in that system, unless enemy ships are there."
 E5 FFG ruling (eumaies, Feb 21, 2018): "You can build ships normally, but if enemy ships are present, you cannot."
-@87
+@88
 E2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."

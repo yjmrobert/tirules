@@ -9,6 +9,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What does Antimass Deflectors do?&rdquo;: &ldquo;other players&rsquo; Space Cannon rolls get -1 against all your units, ground forces in Space Cannon Defense included, wherever they are&rdquo; -1 applies to all Space Cannon rolls against the player, Defense explicitly included.</li>
         </ul></li>
+    <li>If a player gains then loses the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any <a href="/R_asteroid_field">asteroid fields</a> they are currently in, but cannot move additional units into or through.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap">Dark Energy Tap</a></h2>

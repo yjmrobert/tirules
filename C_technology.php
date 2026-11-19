@@ -6,6 +6,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors">Antimass Deflectors</a></h2>
     <ol class="note">
     <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>2</sup></li>
+    <li>If a player gains then loses the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any <a href="/R_asteroid_field">asteroid fields</a> they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap">Dark Energy Tap</a></h2>
