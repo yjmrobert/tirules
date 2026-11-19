@@ -39,13 +39,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation">Propagation</a></h2>
     <ol class="note">
-    <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens.<sup>2</sup></li>
+    <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens. They must still spend a command token from their strategy pool and four resources to do so.<sup>2</sup></li>
     <ol><li>The Nekro player may still benefit from owning the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> agenda card.<sup>*</sup></li></ol>
     <li>If an ability triggers &ldquo;when&rdquo; a player researches a technology, that ability will still be triggered by the Nekro player.<sup>*</sup></li>
     <ol><li>If the Nekro player owns <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic, they may draw an action card whenever they would research a technology.<sup>4</sup></li></ol>
     <li>If an ability triggers &ldquo;after&rdquo; a player researches a technology, that ability will never be triggered by the Nekro player.<sup>*</sup></li>
     <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> law is in play, the Nekro player will not destroy a ship when they would research a technology.<sup>2</sup></li></ol>
-    <li>To resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, the Nekro player must still spend a command token from their strategy pool and four resources.<sup>2</sup></li>
     <li>The Nekro player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, gaining three command tokens instead of researching, but only if there is a unit upgrade technology the card could research.<sup>2</sup></li>
     </ol>
 

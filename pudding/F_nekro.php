@@ -101,7 +101,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The Nekro player cannot use <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
+    <li>The Nekro player cannot use <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;They cannot do this when they GAIN technology via their Technological Singularity faction ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do.&rdquo;</li>
@@ -110,9 +110,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation">Propagation</a></h2>
     <ol class="note">
-    <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens.<sup>2</sup>
+    <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens. They must still spend a command token from their strategy pool and four resources to do so.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;because they can&rsquo;t research, Propagation gives them 3 command tokens instead.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;Yes &mdash; like anyone they spend a strategy token and 4 resources, and because they can&rsquo;t research, Propagation gives them 3 command tokens instead.&rdquo;</li>
         </ul></li>
     <ol><li>The Nekro player may still benefit from owning the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> agenda card.<sup>*</sup>
         <ul>
@@ -122,7 +122,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Nekro player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
+    <ol><li>If the Nekro player owns <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do, so it does nothing for them.&rdquo;</li>
@@ -135,10 +135,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>To resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, the Nekro player must still spend a command token from their strategy pool and four resources.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;Yes &mdash; like anyone they spend a strategy token and 4 resources.&rdquo;</li>
-        </ul></li>
     <li>The Nekro player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, gaining three command tokens instead of researching, but only if there is a unit upgrade technology the card could research.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus play Reveal Prototype?&rdquo;: &ldquo;Yes, gaining 3 command tokens instead of the technology, but only if there&rsquo;s a valid unit upgrade the card could research.&rdquo;</li>
