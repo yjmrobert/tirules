@@ -84,7 +84,7 @@
     <ol class="note">
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.<sup>2</sup></li>
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.<sup>2</sup></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
     <li>If a game effect instructs the Naalu player to produce ships without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce additional fighters if that game effect allows them to produce fighters.<sup>*</sup></li>
     <li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.<sup>2,4</sup></li>
     </ol>

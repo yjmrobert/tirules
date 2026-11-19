@@ -212,7 +212,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

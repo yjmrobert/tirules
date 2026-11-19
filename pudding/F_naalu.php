@@ -217,7 +217,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
