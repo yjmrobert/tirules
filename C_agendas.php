@@ -278,13 +278,12 @@ li.ixth:before
         <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> will be discarded and replaced.<sup>*</sup></li>
         <li>When the elected law is treated as revealed, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup></li>
         <li>After the elected law is treated as revealed, riders may be played to predict the outcome of the elected law.<sup>2</sup></li>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> is elected by Miscount Disclosed, the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2</sup></li>
     <li>Planets are not readied between the vote on Miscount Disclosed and the vote on the elected law. The vote on the elected law does not replace the second agenda of the agenda phase, so three agendas may be voted on during that agenda phase.<sup>2</sup></li>
     </ol>
     <li>After all players have voted for <i>Miscount Disclosed</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card may be played. If so, the elected law is not voted on and remains in play.<sup>*</sup></li>
     <li>After all players have voted for the elected law, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card may be played. If so, the elected law is discarded.<sup>*</sup></li>
     <li>Players who resolved a transaction while voting on and resolving <i>Miscount Disclosed</i> may resolve an additional transaction voting on and resolving the elected law.<sup>5</sup></li>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth"><i>Holy Planet of Ixth</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia"><i>The Crown of Emphidia</i></a> is elected by <i>Miscount Disclosed</i>, the owner will not lose a victory point.<sup>2,5</sup></li>
+    <li class="removed">If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth"><i>Holy Planet of Ixth</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia"><i>The Crown of Emphidia</i></a> is elected by <i>Miscount Disclosed</i>, the previous owner keeps their victory point, and the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
@@ -345,9 +344,8 @@ li.ixth:before
     <ol class="note">
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a> (removed in Prophecy of Kings)</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
     <ol class="note">
-    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>

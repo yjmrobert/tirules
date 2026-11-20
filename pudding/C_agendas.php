@@ -638,10 +638,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
         </ul></li>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> is elected by Miscount Disclosed, the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If Shard of the Throne, The Crown of Emphidia or Holy Planet of Ixth is discarded or re-elected &hellip;&rdquo;: &ldquo;No &mdash; a point from these laws is lost only through the condition printed on the card.&rdquo; The note&rsquo;s gain on re-election is not stated.</li>
-        </ul></li>
     <li>Planets are not readied between the vote on Miscount Disclosed and the vote on the elected law. The vote on the elected law does not replace the second agenda of the agenda phase, so three agendas may be voted on during that agenda phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Planets are not readied in between, and the revote doesn&rsquo;t replace the phase&rsquo;s second agenda, so a phase can have three votes.&rdquo;</li>
@@ -659,9 +655,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, asked whether Miscount Disclosed &ldquo;refresh[es] the &lsquo;transaction allowance&rsquo;&rdquo;: &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
         </ul></li>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth"><i>Holy Planet of Ixth</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia"><i>The Crown of Emphidia</i></a> is elected by <i>Miscount Disclosed</i>, the owner will not lose a victory point.<sup>2,5</sup>
+    <li class="removed">If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth"><i>Holy Planet of Ixth</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia"><i>The Crown of Emphidia</i></a> is elected by <i>Miscount Disclosed</i>, the previous owner keeps their victory point, and the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2,5</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;a point from these laws is lost only through the condition printed on the card.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Shard of the Throne, The Crown of Emphidia or Holy Planet of Ixth is discarded or re-elected &hellip;&rdquo;: &ldquo;If the law is discarded some other way, such as Repeal Law, or re-elected via Miscount Disclosed, the old owner keeps the point; a newly elected owner gains one, and the same player re-elected scores again.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the VP from the original Agenda is now permanently associated with the player who had it when the law was re-voted on, and that the &ldquo;new&rdquo; card is now worth a second VP that functions as normal.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Because the losing of the victory points is tied to the combat and not the losing of the card, the former owner would keep the victory point in both cases.&rdquo;</li>
         </ul></li>
     </ol>
@@ -787,12 +784,8 @@
     <ol class="note">
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a> (removed in Prophecy of Kings)</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
     <ol class="note">
-    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>
