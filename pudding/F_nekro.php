@@ -163,7 +163,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Nekro player this turn.<sup>*</sup>
+    <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Nekro player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -221,7 +221,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The intent is not that that the generic upgrades are lost, in this case.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
+        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade toward the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the Nekro Virus owns multiple unit upgrade technologies of the same type &hellip; does each one count toward the &lsquo;Develop Weaponry&rsquo; and &lsquo;Revolutionize Warfare&rsquo; objectives? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts.&rdquo;</li>
@@ -268,7 +268,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s Exotrireme II unit upgrade is copied, and the Nekro player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the players will alternate when resolving end of combat round abilities, starting with the active player (all players may resolve abilities in initiative order, but it is most common for only the two players involved in the combat to want to resolve abilities). For example, if the attacking player has two Exotriremes II in the system and the defender has four, assuming both players are hostile towards each other, the most likely sequence is as follows: The attacker activates one of their Exotriremes II, leaving them with one and the defender with two; The defender activates one of their Exotriremes II leaving them with one and the attacker with none.<sup>*</sup>
+        <li>If the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s Exotrireme II unit upgrade is copied, and the Nekro player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the players will alternate when resolving end of combat round abilities, starting with the active player (all players may resolve abilities in initiative order, but it is most common for only the two players involved in the combat to want to resolve abilities). For example, if the attacking player has two Exotriremes II in the system and the defender has four, assuming both players are hostile toward each other, the most likely sequence is as follows: The attacker activates one of their Exotriremes II, leaving them with one and the defender with two; The defender activates one of their Exotriremes II leaving them with one and the attacker with none.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -313,7 +313,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Infantry that are participating in space combat due to the effects of &lsquo;The Alastor&rsquo; do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology.<sup>1</sup>
+        <li>This includes counting toward the three non&ndash;fighter ships necessary to trigger the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Do infantry involved in a space combat via the effects of &lsquo;The Alastor&rsquo; flagship count toward the ships required to use the &lsquo;Assault Cannon&rsquo; technology? A: Yes.&rdquo;</li>
         </ul></li>
@@ -367,7 +367,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A ground force participating in a space combat may count towards scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
+    <li>A ground force participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

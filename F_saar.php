@@ -37,7 +37,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>A floating Factory does not count towards the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
+    <li>A floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.<sup>2</sup></li>
     <li>Hits produced by space cannon rolls cannot be assigned to a Floating Factory.<sup>1,2,5</sup></li>
     <li>Game effects that affect ship movement, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#FAQ:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, etc, may affect Floating Factories.<sup>2,5</sup></li>
@@ -65,7 +65,7 @@
     <li>If the Saar player retreats from a space combat, Floating Factories in the active system may retreat with the Saar player&rsquo;s other ships, even if those ships are only fighters. Floating Factories may also be moved by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, provided they are never alone with another player&rsquo;s ships.<sup>2,5</sup></li>
     <li>There is no limit to the number of Floating Factories that may be in the same system.<sup>2</sup></li>
     <li>A Floating Factory may move into the active system and use its <a href="/R_production"><sc>Production</sc></a> ability during the same tactical action.<sup>2</sup></li>
-    <li>A Floating Factory cannot count towards the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup></li>
+    <li>A Floating Factory cannot count toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>

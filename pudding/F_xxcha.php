@@ -80,12 +80,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Xxcha&rsquo;s Instinct Training cancel any action card, even outside their own combats?&rdquo;: &ldquo;it cancels any other player&rsquo;s action card, Sabotage included.&rdquo;</li>
         </ul></li>
-    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by <i>Instinct Training</i>.<sup>2,5</sup>
+    <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Instinct Training</i>.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my action card is cancelled by Sabotage, can I play another copy &hellip;?&rdquo;: &ldquo;a cancelled card is treated as never having been played.&rdquo; Same principle.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;If an action card is cancelled with &lsquo;Sabotage&rsquo; (or the Xxcha Nullification Field), can another copy &hellip; be played? Dane: Because the card was cancelled, yes.&rdquo;</li>
         </ul></li>
-    <li>If an action card is cancelled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup>
+    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a cancelled card is treated as never having been played.&rdquo;</li>
         </ul></li>
@@ -111,11 +111,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Instinct Training</i> when it is originally played.<sup>*</sup>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Instinct Training</i> when it is originally played.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the action card that was cancelled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup>
+    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage &hellip;?&rdquo;: &ldquo;a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
@@ -144,7 +144,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense, are they resolved together?&rdquo;: &ldquo;a unit destroyed earlier, such as an Xxcha flagship, never gets to shoot.&rdquo;</li>
         </ul></li>
@@ -322,7 +322,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense &hellip;?&rdquo;: &ldquo;one player at a time &hellip; Each player&rsquo;s roll, hit assignment &hellip; finish before the next fires.&rdquo;</li>
         </ul></li>

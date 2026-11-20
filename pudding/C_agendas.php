@@ -108,7 +108,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does a secret objective made public by Classified Document Leaks work?&rdquo;: &ldquo;Nobody can score it twice, its original owner included.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;No, the objective cannot be scored a second time.&rdquo;</li>
         </ul></li>
-    <li>The elected secret objective no longer counts towards the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup>
+    <li>The elected secret objective no longer counts toward the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives, so they may hold another secret.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public.&rdquo;</li>

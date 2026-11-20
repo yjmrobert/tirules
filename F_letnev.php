@@ -41,7 +41,7 @@
     <ol class="note">
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>*</sup></li>
-    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
+    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
     <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
     </ol>
 

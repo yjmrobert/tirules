@@ -37,7 +37,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If a player&rsquo;s action card is cancelled, usually via a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card, then if that player has a second copy of that action card, they may play it.<sup>2,5</sup>
+    <li>If a player&rsquo;s action card is canceled, usually via a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card, then if that player has a second copy of that action card, they may play it.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my action card is cancelled by Sabotage, can I play another copy &hellip;?&rdquo;: &ldquo;Yes &mdash; a cancelled card is treated as never having been played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Because the card was cancelled, yes, you can play another copy of the same action card.&rdquo;</li>

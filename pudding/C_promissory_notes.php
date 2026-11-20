@@ -66,7 +66,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I trade on a promissory note I received from another player &hellip;?&rdquo;: &ldquo;Notes face up in your play area, like Support for the Throne, can&rsquo;t be traded or handed back voluntarily.&rdquo;</li>
         </ul></li></ol>
-    <li><i>Support For The Throne</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the other player this turn.<sup>2,3</sup>
+    <li><i>Support For The Throne</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the other player this turn.<sup>2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must I return another player&rsquo;s Support for the Throne?&rdquo;: &ldquo;As soon as you activate a system containing any of that player&rsquo;s units, whether or not you move in or attack.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, card text: &ldquo;If you activate a system that contains 1 or more of the blue player&rsquo;s units &hellip; lose 1 victory point and return this card.&rdquo;</li>

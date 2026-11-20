@@ -78,7 +78,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=E-Res%20Siphons">E&ndash;Res Siphons</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts towards the Jol&ndash;Nar player this turn.<sup>*</sup>
+    <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts toward the Jol&ndash;Nar player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

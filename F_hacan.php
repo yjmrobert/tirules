@@ -22,7 +22,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys">Trade Convoys</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Hacan player this turn.<sup>*</sup></li>
+    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Hacan player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Hacan player&rsquo;s structures will still cause <i>Trade Convoys</i> to be returned.<sup>*</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Trade Convoys</i> to be returned.<sup>*</sup></li>
     </ol>

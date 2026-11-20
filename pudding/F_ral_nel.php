@@ -170,7 +170,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or cancelled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup>
+    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

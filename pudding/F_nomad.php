@@ -254,7 +254,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.<sup>*</sup>
+    <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be canceled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -263,7 +263,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.<sup>*</sup>
+        <li>Hits that are produced outside of combat cannot be canceled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

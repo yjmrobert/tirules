@@ -14,7 +14,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave">Valkyrie Particle Weave</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The hit produced by <i>Valkyrie Particle Weave</i> is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>*</sup></li>
-    <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be cancelled. Cancelling the original hits will not cause the additional hit to be cancelled.<sup>4</sup></li></ol>
+    <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be canceled. Canceling the original hits will not cause the additional hit to be canceled.<sup>4</sup></li></ol>
     <li>The N&rsquo;orr player producing zero hits with their combat roll will not prevent <i>Valkyrie Particle Weave</i> from producing an additional hit.<sup>*</sup></li>
     <li>If the opponent produces a hit, <i>Valkyrie Particle Weave</i> mandatorily produces a hit.<sup>*</sup></li>
     </ol>

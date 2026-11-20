@@ -89,7 +89,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 3.1: &ldquo;During a player&rsquo;s turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action.&rdquo; LRR 3.2: &ldquo;If a player cannot perform an action, they must pass.&rdquo; Passing is not one of the three actions, so an additional action cannot be a pass.</li>
         </ul></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>2</sup>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li>
@@ -435,7 +435,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Graviton Laser System do anything during Space Cannon Defense?&rdquo;: &ldquo;No &mdash; &hellip; the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto.&rdquo;</li>
         </ul></li>
-    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be cancelled by the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup>
+    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be canceled by the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Graviton Laser System affect Space Cannon hits?&rdquo;: &ldquo;They are still ordinary hits, so Sustain Damage can cancel them before assignment.&rdquo;</li>
         </ul></li>

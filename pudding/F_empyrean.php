@@ -37,7 +37,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.15: &ldquo;Some game effects allow a player to cast additional votes for an outcome.&rdquo; LRR 8.16 bars a player who cannot vote from casting votes.</li>
         </ul></li></ol>
-    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup>
+    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -70,7 +70,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling, asked &ldquo;(For the purposes of Pillage)&rdquo;: &ldquo;It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>
-    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup>
+    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -199,7 +199,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If an action card is cancelled by a Watcher, no costs are paid.<sup>*</sup>
+    <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -225,7 +225,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by a Watcher when it is originally played.<sup>*</sup>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by a Watcher when it is originally played.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

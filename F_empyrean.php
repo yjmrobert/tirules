@@ -20,7 +20,7 @@
     <ol class="note">
     <li>Both players must cast at least one vote to trigger the additional votes.<sup>*</sup></li>
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>*</sup></li></ol>
-    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
+    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     </ol>
@@ -31,7 +31,7 @@
     <li>If the Empyrean player plays a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup></li>
     <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players.<sup>4</sup></li>
     <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup></li>
-    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.<sup>*</sup></li>
+    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
     </ol>
@@ -82,7 +82,7 @@
     <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>*</sup></li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.<sup>*</sup></li>
     <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.<sup>*</sup></li></ol>
-    <li>If an action card is cancelled by a Watcher, no costs are paid.<sup>*</sup></li>
+    <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup></li>
     <li>A player playing an action card announces the following before a Watcher may be triggered:<sup>*</sup></li>
     <ol>
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup></li>
@@ -90,7 +90,7 @@
     </ol>
     <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by a Watcher when it is originally played.<sup>*</sup></li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by a Watcher when it is originally played.<sup>*</sup></li>
     <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup></li>
     </ol>
 

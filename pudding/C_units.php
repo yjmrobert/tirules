@@ -54,7 +54,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter">Fighter</a></h2>
     <ol class="note">
-    <li>Fighters and ground forces do not count towards capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup>
+    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 16.4c: &ldquo;A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my carrier is destroyed in combat &hellip;?&rdquo;: &ldquo;capacity isn&rsquo;t checked during combat, so they stay while it lasts.&rdquo;</li>

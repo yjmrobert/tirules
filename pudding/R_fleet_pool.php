@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Fighters and ground forces do not count towards capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3</sup>
+    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 16.4c: &ldquo;A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my carrier is destroyed in combat &hellip;?&rdquo;: &ldquo;capacity isn&rsquo;t checked during combat, so they stay while it lasts.&rdquo;</li>
@@ -17,7 +17,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Once all ships are in, fleet supply is in violation and must immediately be dealt with.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, on Auto-Factories: &ldquo;with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
         </ul></li>
-    <ol><li>If some of those ships are fighters II, they may instead count towards that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.<sup>2</sup>
+    <ol><li>If some of those ships are fighters II, they may instead count toward that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can fighters stay in a system without a carrier or space dock?&rdquo;: &ldquo;Fighter IIs that don&rsquo;t fit in capacity count against your fleet pool like other ships.&rdquo;</li>
         </ul></li></ol>

@@ -37,7 +37,7 @@
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.<sup>2</sup></li>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Fleet Logistics</i> to perform an additional action.<sup>2</sup></li>
     <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.<sup>1</sup></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>2</sup></li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>2</sup></li>
     <li>If a player&rsquo;s first action is a strategic action, the other players resolve the secondary ability of that strategy card before the player performs their second action.<sup>2</sup></li>
     </ol>
 
@@ -184,7 +184,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Graviton_Laser_System">Graviton Laser System</a></h2>
     <ol class="note">
     <li><i>Graviton Laser System</i> has no effect during the <b>Space Cannon Defense</b> step, as hits can only be assigned to ground forces.<sup>2</sup></li>
-    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be cancelled by the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup></li>
+    <li>Hits produced while <i>Graviton Laser System</i> is in effect may still be canceled by the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>2</sup></li>
     <li><i>Graviton Laser System</i> applies to every die rolled for the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> roll, including dice rolled by units using another unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, such as the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s Linkships.<sup>2</sup></li>
     </ol>
 

@@ -38,7 +38,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;Discard 1 Unscored Secret Objective.&rdquo;</li>
         </ul></li>
-        <li>Exhaust a planet that has a technology speciality; or<sup>7</sup>
+        <li>Exhaust a planet that has a technology specialty; or<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;Exhaust 1 Technology Specialty Planet.&rdquo;</li>
         </ul></li>

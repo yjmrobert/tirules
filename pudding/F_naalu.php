@@ -17,7 +17,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight">Foresight</a></h2>
     <ol class="note">
-    <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be cancelled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>2</sup>
+    <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does Naalu Foresight happen, and where can the ships go?&rdquo;: &ldquo;Intercept doesn&rsquo;t stop it, as it isn&rsquo;t a combat retreat.&rdquo;</li>
         </ul></li>
@@ -98,7 +98,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to space docks and PDS when an enemy takes the planet?&rdquo;: &ldquo;Fighters fighting via the Naalu flagship don&rsquo;t destroy them, since they aren&rsquo;t on the planet afterwards.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Sep 17, 2018): &ldquo;The Space dock would not be destroyed, in this instance, for the reason you have stated.&rdquo; Fighters-only invaders are never contained by the planet.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies"><i>Daxcive Animators</i></a> technology will not allow the Naalu player to gain control of a planet without committing a ground force.<sup>1,2,5</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies"><i>Dacxive Animators</i></a> technology will not allow the Naalu player to gain control of a planet without committing a ground force.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Using &lsquo;The Matriarch&rsquo; flagship in combination with the &lsquo;Dacxive Animators&rsquo; technology, can the Naalu gain control of a planet using only fighters? A: No. Because the combat ends in a draw, the &lsquo;Dacxive Animators&rsquo; ability is not triggered.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?&rdquo;: &ldquo;If only fighters remain, the combat is a draw, Dacxive Animators doesn&rsquo;t trigger.&rdquo;</li>
@@ -217,7 +217,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

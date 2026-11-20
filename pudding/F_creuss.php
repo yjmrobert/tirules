@@ -196,7 +196,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <i>Hil Colish</i> is destroyed between the <b>Announce Retreats</b> step and the <b>Retreat</b> step, then the retreating player must retreat to a different eligible system. If no such system exists, then their retreat is cancelled.<sup>*</sup>
+    <ol><li>If the <i>Hil Colish</i> is destroyed between the <b>Announce Retreats</b> step and the <b>Retreat</b> step, then the retreating player must retreat to a different eligible system. If no such system exists, then their retreat is canceled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

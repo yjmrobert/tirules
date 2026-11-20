@@ -4,7 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=The%20Tribunii">The Tribunii</a></h2>
     <ol class="note">
     <li>The Keleres player chooses their starting technology after all other players have gained their starting technologies.<sup>2,4</sup></li>
-    <li>If there is only one unique starting technology amongst those owned by other players, the Keleres player will start the game with only one technology.<sup>4</sup></li>
+    <li>If there is only one unique starting technology among those owned by other players, the Keleres player will start the game with only one technology.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Council%20Patronage">Council Patronage</a></h2>
@@ -95,7 +95,7 @@
     <ol><li>If the Keleres player can perform a second action through some other game effect (such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology), they may unlock Suffi An by playing an action card with a component action for their first action, then perform a second component action, which will then allow them to perform a third action because of Suffi An.<sup>*</sup></li></ol>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use Suffi An to perform an additional action.<sup>*</sup></li>
     <li>A player cannot use Suffi An to pass on the same turn they performed an action.<sup>1</sup></li>
-    <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate additional action on that turn.<sup>*</sup></li>
+    <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate additional action on that turn.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Harka%20Leeds">Harka Leeds</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Erwan%27s%20Covenant">Erwan&rsquo;s Covenant</a> <sub>(Hero)</sub></h2>

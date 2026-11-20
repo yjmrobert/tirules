@@ -23,7 +23,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
     <ol class="note">
     <li>Units placed on planets via the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup></li>
-    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup></li>
+    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occurring.<sup>4</sup></li>
     <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>4</sup></li></ol>
     <li>If the Ul player&rsquo;s turn is ended by another game effect, the combat still occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.<sup>4</sup></li>
@@ -60,7 +60,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup></li>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tungstantus">Tungstantus</a> <sub>(Commander)</sub></h2>

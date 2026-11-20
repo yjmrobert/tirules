@@ -13,7 +13,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A Fighter II may count towards either the fleet pool limit or a player&rsquo;s capacity.<sup>2</sup></li>
+    <li>A Fighter II may count toward either the fleet pool limit or a player&rsquo;s capacity.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

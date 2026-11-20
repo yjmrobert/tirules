@@ -44,7 +44,7 @@
         <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
         </ul></li>
     </ol>
-    <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count towards the active player&rsquo;s transaction limit.<sup>2</sup>
+    <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count toward the active player&rsquo;s transaction limit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is replenishing other players&rsquo; commodities with Trade a transaction?&rdquo;: &ldquo;No &mdash; it is a strategy card effect: recipients needn&rsquo;t be neighbors, can&rsquo;t refuse, it doesn&rsquo;t use up a transaction&rdquo;</li>
         </ul></li>

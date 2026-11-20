@@ -63,7 +63,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occuring.<sup>4</sup>
+    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, effects that end the Ul player&rsquo;s turn cannot prevent the combat from occurring.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur.&rdquo;</li>
         </ul></li>
@@ -156,7 +156,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is cancelled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>

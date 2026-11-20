@@ -18,7 +18,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Stymie</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Arborec player this turn.<sup>*</sup>
+    <li><i>Stymie</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Arborec player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

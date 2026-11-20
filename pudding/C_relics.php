@@ -221,7 +221,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to reveal a secret objective as a public objective, that objective does not count towards the limit of three scored or unscored secret objectives for any player that scores it.<sup>*</sup>
+    <li>If a player uses <i>Neuraloop</i> to reveal a secret objective as a public objective, that objective does not count toward the limit of three scored or unscored secret objectives for any player that scores it.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -353,7 +353,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to The Triad? A: No&rdquo;</li>
         </ul></li>
-        <li><i>The Triad</i> does not count towards the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count towards any objectives that require a planet in a specific type of system.<sup>6</sup>
+        <li><i>The Triad</i> does not count toward the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
         </ul></li>

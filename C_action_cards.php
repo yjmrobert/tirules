@@ -148,7 +148,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit">Direct Hit</a></h2>
     <ol class="note">
     <li>If multiple ships use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup></li>
-    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup></li>
+    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are canceled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup></li>
     <li>When a player uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup></li>
     <li>When <i>Direct Hit</i> is used outside of combat, if used on a ship with capacity, then fighters and/or ground forces must immediately be removed from the space area to meet the capacity limit.<sup>5</sup></li>
     <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Offense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.<sup>5</sup></li></ol>
@@ -173,7 +173,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding">Divert Funding</a></h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
-    <ol><li>The returned technology does not count towards meeting the prerequisites.<sup>*</sup></li></ol>
+    <ol><li>The returned technology does not count toward meeting the prerequisites.<sup>*</sup></li></ol>
     <li>The researched technology may be a unit upgrade technology, and it may be a faction technology.<sup>*</sup></li>
     <li>The researched technology cannot be the returned technology.<sup>*</sup></li>
     <li>If a player later gains the technology they returned, they gain it readied.<sup>*</sup></li>
@@ -241,7 +241,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed">Flank Speed</a></h2>
     <ol class="note">
     <li>A second <i>Flank Speed</i> cannot be played to give +2 to the move value of each ship.<sup>2</sup></li>
-    <li>Cancelling <i>Flank Speed</i> will not cancel the system activation.<sup>2</sup></li>
+    <li>Canceling <i>Flank Speed</i> will not cancel the system activation.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research">Focused Research</a></h2>
@@ -392,7 +392,7 @@
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Master Plan</i> to perform an additional action.<sup>2</sup></li>
     <li>A player cannot use <i>Master Plan</i> to pass on the same turn they performed an action.<sup>*</sup></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>*</sup></li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
@@ -552,8 +552,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer">Reverse Engineer</a></h2>
     <ol class="note">
-    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or cancelled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>2</sup></li>
-    <li>It is public knowlege which action cards a player takes using <i>Reverse Engineer</i>.<sup>4</sup></li>
+    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>2</sup></li>
+    <li>It is public knowledge which action cards a player takes using <i>Reverse Engineer</i>.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Rise%20of%20a%20Messiah">Rise of a Messiah</a></h2>
@@ -569,8 +569,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage">Sabotage</a></h2>
     <ol class="note">
-    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by <i>Sabotage</i>.<sup>1,2,5</sup></li>
-    <li>If an action card is cancelled by <i>Sabotage</i>, no costs are paid.<sup>2</sup></li>
+    <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Sabotage</i>.<sup>1,2,5</sup></li>
+    <li>If an action card is canceled by <i>Sabotage</i>, no costs are paid.<sup>2</sup></li>
     <li>A player playing an action card announces the following before <i>Sabotage</i> may be played:<sup>1,2,5</sup></li>
     <ol>
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup></li>
@@ -578,8 +578,8 @@
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.<sup>1,2,5</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.<sup>2</sup></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Sabotage</i> when it is originally played.<sup>*</sup></li>
-    <li>If the action card that was cancelled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>*</sup></li>
+    <li>If the action card that was canceled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
     </ol>
 
@@ -625,7 +625,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
     <ol class="note">
-    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be cancelled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup></li>
+    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup></li>
     <li>A player may use <i>Skilled Retreat</i> to move into a system that does not contain their ships, as long as it does not contain another player&rsquo;s ships.<sup>2</sup></li>
     <li>Ground forces may be transported.<sup>1,2,5</sup></li>
     <li>After moving, capacity and fleet pool limits apply in the destination system.<sup>2</sup></li>

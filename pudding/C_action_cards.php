@@ -333,7 +333,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can several Direct Hits or Shields Holdings be played in the same combat round?&rdquo;: &ldquo;Several Direct Hits, yes: each Sustain Damage use is its own trigger, so you can answer each with a Direct Hit on that ship.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Because the Direct Hits are targeting different ships/instances of sustain damage use, this is allowed.&rdquo;</li>
         </ul></li>
-    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup>
+    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are canceled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the &lsquo;Direct Hit&rsquo; action cards be played when a ship uses &lsquo;Sustain Damage&rsquo; to cancel a hit produced by one of your abilities? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;each Sustain Damage use is its own trigger.&rdquo;</li>
@@ -401,7 +401,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
-    <ol><li>The returned technology does not count towards meeting the prerequisites.<sup>*</sup>
+    <ol><li>The returned technology does not count toward meeting the prerequisites.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -555,7 +555,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play two copies of the same action card, like Morale Boost or Flank Speed, in one timing window?&rdquo;: &ldquo;No &mdash; you cannot play more than one action card with the same name in a single timing window to affect the same units or effect.&rdquo;</li>
         </ul></li>
-    <li>Cancelling <i>Flank Speed</i> will not cancel the system activation.<sup>2</sup>
+    <li>Canceling <i>Flank Speed</i> will not cancel the system activation.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;Anything that happened before you played it stands: if Flank Speed or Upgrade is Sabotaged after you activated a system, the system stays activated.&rdquo;</li>
         </ul></li>
@@ -884,7 +884,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.<sup>*</sup>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1244,11 +1244,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer">Reverse Engineer</a></h2>
     <ol class="note">
-    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or cancelled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>2</sup>
+    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Reverse Engineer take an action card another player just played or had Sabotaged &hellip;?&rdquo;: &ldquo;It takes a component action card another player discards for any reason, so one they just played or one cancelled by Sabotage.&rdquo;</li>
         </ul></li>
-    <li>It is public knowlege which action cards a player takes using <i>Reverse Engineer</i>.<sup>4</sup>
+    <li>It is public knowledge which action cards a player takes using <i>Reverse Engineer</i>.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on The Codex relic: &ldquo;the discard is public knowledge, so anything removed from the discard is also public knowledge.&rdquo;</li>
         </ul></li>
@@ -1277,13 +1277,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage">Sabotage</a></h2>
     <ol class="note">
-    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by <i>Sabotage</i>.<sup>1,2,5</sup>
+    <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Sabotage</i>.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Jan 2018): &ldquo;Because the card was cancelled, yes, you can play another copy of the same action card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my action card is cancelled by Sabotage, can I play another copy &hellip;?&rdquo;: &ldquo;Yes &mdash; a cancelled card is treated as never having been played, so the same-name restriction doesn&rsquo;t stop a second copy.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 2.6b: &ldquo;Canceled cards are not treated as being played.&rdquo; a canceled card is not played, so a second copy is not barred.</li>
         </ul></li>
-    <li>If an action card is cancelled by <i>Sabotage</i>, no costs are paid.<sup>2</sup>
+    <li>If an action card is canceled by <i>Sabotage</i>, no costs are paid.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a cancelled card is treated as never having been played.&rdquo;</li>
         </ul></li>
@@ -1315,11 +1315,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window.&rdquo;</li>
         </ul></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Sabotage</i> when it is originally played.<sup>*</sup>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the action card that was cancelled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
+    <li>If the action card that was canceled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;No &mdash; a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
@@ -1412,7 +1412,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
     <ol class="note">
-    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be cancelled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup>
+    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Skilled Retreat&rsquo; is not a retreat and cannot be canceled in this way.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move, so Intercept can&rsquo;t cancel it.&rdquo;</li>

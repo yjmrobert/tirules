@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A Fighter II may count towards either the fleet pool limit or a player&rsquo;s capacity.<sup>2</sup>
+    <li>A Fighter II may count toward either the fleet pool limit or a player&rsquo;s capacity.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Fighter IIs move on their own into a system already at my fleet limit?&rdquo;: &ldquo;If ships in the destination have room for them, they don&rsquo;t count against your fleet pool.&rdquo;</li>
         </ul></li>

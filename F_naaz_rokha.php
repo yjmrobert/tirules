@@ -67,10 +67,10 @@
     <ol class="note">
     <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.<sup>6</sup></li>
     <li>If the Naaz&ndash;Rokha player had an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.<sup>2</sup></li>
-    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>6</sup></li></ol>
+    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon toward the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>6</sup></li></ol>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.<sup>*</sup></li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.<sup>*</sup></li>
-    <li>A Z&ndash;Grav Eidolon participating in a space combat may count towards scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup></li>
+    <li>A Z&ndash;Grav Eidolon participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup></li>
     <li>The mech flips at the start of space combat, resolved in the normal player order for abilities at that timing.<sup>6</sup></li>
     </ol>
 
@@ -82,14 +82,14 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup></li>
+    <li>When in the space area of a system, the Eidolon Maximum counts toward either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup></li>
     <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.<sup>*</sup></li>
     <li>The Eidolon Maximum only repairs during combats that it is participating in.<sup>*</sup></li>
     <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir"><i>Visz El Vir</i></a>.<sup>*</sup></li>
     <li>The Eidolon Maximum is considered a ship for all relevant game effects.<sup>6</sup></li>
     <ol>
         <li>The Eidolon Maximum participates in space combat even when it is on a planet.<sup>6</sup></li>
-        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts towards objectives that require ships, and can blockade space docks.<sup>6</sup></li>
+        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts toward objectives that require ships, and can blockade space docks.<sup>6</sup></li>
         <li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, including if it does so during a ground combat.<sup>*</sup></li>
     </ol>
     <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup></li>

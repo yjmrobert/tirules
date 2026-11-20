@@ -148,7 +148,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is flipping Naaz-Rokha mechs to ships mandatory &hellip;?&rdquo;: &ldquo;Flipping is mandatory, as nothing says &lsquo;may&rsquo;, but only for mechs already in the space area when combat starts.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>6</sup>
+    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon toward the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology ability.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;?&rdquo;: &ldquo;Mech Flips at start of Space Combat in player order timing.&rdquo; The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.</li>
         </ul></li></ol>
@@ -160,7 +160,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A Z&ndash;Grav Eidolon participating in a space combat may count towards scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
+    <li>A Z&ndash;Grav Eidolon participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -184,7 +184,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup>
+    <li>When in the space area of a system, the Eidolon Maximum counts toward either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -209,7 +209,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet? A: Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>
-        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts towards objectives that require ships, and can blockade space docks.<sup>6</sup>
+        <li>When on a planet, the Eidolon Maximum blocks other players&rsquo; ships from moving through the system, counts toward objectives that require ships, and can blockade space docks.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player&rsquo;s ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>

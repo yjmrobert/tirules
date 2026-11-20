@@ -5,7 +5,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
     <ol class="note">
-    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be cancelled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
+    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What is Yssaril&rsquo;s Stall Tactics for, and can it be Sabotaged?&rdquo;: &ldquo;It is a faction ability, not an action card, so Sabotage cannot cancel it.&rdquo;</li>
         </ul></li>

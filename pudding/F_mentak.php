@@ -101,7 +101,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I hold Mentak&rsquo;s Promise of Protection without playing it &hellip;?&rdquo;: &ldquo;it also doesn&rsquo;t protect you from Pillage until it is face up in your play area.&rdquo;</li>
         </ul></li>
-    <li><i>Promise of Protection</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Mentak player this turn.<sup>*</sup>
+    <li><i>Promise of Protection</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Mentak player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What is the order of gaining starting technology when Winnu and/or Argent Flight are in a game with Council Keleres? &hellip; A: Keleres selects after all other players have selected their starting technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Council Keleres choose its starting technologies?&rdquo;: &ldquo;After every other faction has gathered its starting technologies, regardless of speaker order.&rdquo;</li>
         </ul></li>
-    <li>If there is only one unique starting technology amongst those owned by other players, the Keleres player will start the game with only one technology.<sup>4</sup>
+    <li>If there is only one unique starting technology among those owned by other players, the Keleres player will start the game with only one technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Keleres only gets one starting technology if there is only one other starting technology among all other factions at the table.&rdquo;</li>
         </ul></li>
@@ -261,7 +261,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 3.1: &ldquo;During a player&rsquo;s turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action.&rdquo; LRR 3.2: &ldquo;If a player cannot perform an action, they must pass.&rdquo; Passing is not one of the three actions, so an additional action cannot be a pass.</li>
         </ul></li>
-    <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate additional action on that turn.<sup>*</sup>
+    <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate additional action on that turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

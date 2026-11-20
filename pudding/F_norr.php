@@ -26,7 +26,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be cancelled. Cancelling the original hits will not cause the additional hit to be cancelled.<sup>4</sup>
+    <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be canceled. Canceling the original hits will not cause the additional hit to be canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Valkyrie Particle Weave trigger after hits were produced if the hits were cancelled? A: Yes, the hit from Valkyrie Particle Weave is still applied.&rdquo;</li>
         </ul></li></ol>

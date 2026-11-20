@@ -32,7 +32,7 @@
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 16: &ldquo;The &lsquo;Anti-Fighter Barrage&rsquo; step can occur even if a player&rsquo;s opponent has no fighters in the combat.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;Argent fire barrage even when the opponent has no fighters.&rdquo;</li>
         </ul></li>
-    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup>
+    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, canceling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When is Raid Formation applied? After rolling or after assigning hits? &hellip; A: Raid formation is applied after rolling, before cancelling or assigning hits.&rdquo;</li>
         </ul></li>
@@ -87,7 +87,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are cancelled.<sup>4</sup>
+    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>

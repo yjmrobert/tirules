@@ -25,7 +25,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Dok%20%27N%20Pic%27s%20Salvage%20Yard">Dok &rsquo;N Pic&rsquo;s Salvage Yard</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Garbozia">Garbozia</a></h2>
     <ol class="note">
-    <li>Cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> do not count towards a player&rsquo;s action card hand limit.<sup>*</sup>
+    <li>Cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> do not count toward a player&rsquo;s action card hand limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

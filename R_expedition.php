@@ -15,7 +15,7 @@
         <li>Discard two action cards;<sup>7</sup></li>
         <li>Spend five influence;<sup>7</sup></li>
         <li>Discard one unscored secret objective;<sup>7</sup></li>
-        <li>Exhaust a planet that has a technology speciality; or<sup>7</sup></li>
+        <li>Exhaust a planet that has a technology specialty; or<sup>7</sup></li>
         <li>Spend three trade goods.<sup>7</sup></li>
     </ol>
     <li>One player may claim multiple slices. A single slice cannot be claimed multiple times (neither by the same or different players).<sup>7</sup></li>

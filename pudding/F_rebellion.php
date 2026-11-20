@@ -122,7 +122,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Leaders:~:text=Ahk%20Ravin">Ahk Ravin</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="/F_saar">Saar</a> Spacedock.<sup>6,9</sup>
+    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="/F_saar">Saar</a> player&rsquo;s space dock.<sup>6,9</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, Crimson agent swapping out of a gravity rift: &ldquo;Swapping is not movement, so no roll is required.&rdquo; only the gravity-rift half is supported; Saar Spacedock claim is not in this source.</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A: &ldquo;Crimson Agent&rdquo;: &ldquo;Does not have to abide by anything movement related. Does not work on saar docks.&rdquo;</li>

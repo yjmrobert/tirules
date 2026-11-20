@@ -54,7 +54,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Leaders:~:text=Ahk%20Ravin">Ahk Ravin</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="/F_saar">Saar</a> Spacedock.<sup>6,9</sup></li>
+    <li>Ahk Ravin is a swap, not a move. This means units will not trigger gravity rift rolls and the ability cannot be used to swap with a <a href="/F_saar">Saar</a> player&rsquo;s space dock.<sup>6,9</sup></li>
     <li>If the Rebellion player transports ground forces during the swap, those ground forces will be placed in the space area of their destination system. They cannot be committed to planets in that system until and unless a tactical action is resolved in that system.<sup>2</sup></li>
     </ol>
 

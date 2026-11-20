@@ -90,7 +90,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>A floating Factory does not count towards the Saar player&rsquo;s fleet pool.<sup>2</sup>
+    <li>A floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are Saar Floating Factories ships, and do they count against the fleet pool?&rdquo;: &ldquo;No &mdash; Floating Factories are never ships &hellip; They don&rsquo;t count against your fleet pool.&rdquo;</li>
         </ul></li>
@@ -196,7 +196,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Saar Floating Factories move and produce in the same action, and how many can share a system?&rdquo;: &ldquo;Yes &mdash; nothing requires a dock to start the turn in the active system, so a Floating Factory can move in, carry ground forces to invade, and produce.&rdquo;</li>
         </ul></li>
-    <li>A Floating Factory cannot count towards the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup>
+    <li>A Floating Factory cannot count toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

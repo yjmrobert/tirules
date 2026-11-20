@@ -41,7 +41,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;Each captured unit or token gives one unit, even fighters or infantry.&rdquo;</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count toward their production limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

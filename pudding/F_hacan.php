@@ -48,7 +48,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys">Trade Convoys</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Hacan player this turn.<sup>*</sup>
+    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Hacan player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

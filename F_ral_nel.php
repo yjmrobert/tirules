@@ -74,7 +74,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Breakthrough:~:text=Data%20Skimmer">Data Skimmer</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Action cards discarded by the Ral Nel player are placed in the action card discard pile, and not on <i>Data Skimmer</i>.<sup>*</sup></li>
-    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or cancelled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup></li>
+    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup></li>
     <li>Action cards on <i>Data Skimmer</i> are not in the discard pile.<sup>6</sup></li>
     <li>If the Ral Nel player is eliminated, <i>Data Skimmer</i> is returned to the game box, and all action cards on it are immediately discarded.<sup>6</sup></li>
     </ol>

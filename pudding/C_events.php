@@ -125,7 +125,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_keleres">Keleres</a> reference card, then they select a home system at random from amongst the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_keleres">Keleres</a> reference card, then they select a home system at random from among the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Minor Factions setup: &ldquo;If Keleres is a minor faction, choose one of its three possible home systems at random.&rdquo;</li>
         </ul></li>

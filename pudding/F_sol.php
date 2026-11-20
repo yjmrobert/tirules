@@ -96,7 +96,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Breakthrough:~:text=Bellum%20Gloriosum">Bellum Gloriosum</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count towards the <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count toward the <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

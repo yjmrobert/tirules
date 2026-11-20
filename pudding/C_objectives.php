@@ -46,16 +46,16 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.<sup>*</sup>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.<sup>*</sup>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -64,7 +64,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -180,7 +180,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Control the Borderlands</i>.<sup>*</sup>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Control the Borderlands</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -264,7 +264,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count towards scoring <i>Demonstrate Your Power</i>.<sup>*</sup>
+    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count toward scoring <i>Demonstrate Your Power</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -662,16 +662,16 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.<sup>*</sup>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Make History</i>.<sup>*</sup>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -680,7 +680,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -766,7 +766,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

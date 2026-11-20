@@ -29,8 +29,8 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Instinct%20Training">Instinct Training</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
-    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by <i>Instinct Training</i>.<sup>2,5</sup></li>
-    <li>If an action card is cancelled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup></li>
+    <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Instinct Training</i>.<sup>2,5</sup></li>
+    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup></li>
     <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>*</sup></li>
     <ol>
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup></li>
@@ -38,8 +38,8 @@
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>*</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Instinct Training</i>.<sup>*</sup></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Instinct Training</i> when it is originally played.<sup>*</sup></li>
-    <li>If the action card that was cancelled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup></li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Instinct Training</i> when it is originally played.<sup>*</sup></li>
+    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup></li>
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup></li></ol>
     </ol>
 
@@ -52,7 +52,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
@@ -114,7 +114,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>

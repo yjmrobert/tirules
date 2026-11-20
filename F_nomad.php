@@ -101,10 +101,10 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When a Quantum Manipulator uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup></li>
-    <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.<sup>*</sup></li>
+    <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be canceled.<sup>*</sup></li>
     <ol>
         <li>Effects which directly destroy a ship cannot be prevented with the ability of a Quantum Manipulator.<sup>*</sup></li>
-        <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.<sup>*</sup></li>
+        <li>Hits that are produced outside of combat cannot be canceled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.<sup>*</sup></li>
     </ol>
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, as it is not participating in the combat.<sup>4</sup></li>
     </ol>

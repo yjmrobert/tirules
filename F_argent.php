@@ -12,7 +12,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation">Raid Formation</a></h2>
     <ol class="note">
     <li>The <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability can still be used even if no fighters are present in the system.<sup>1,2,8</sup></li>
-    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup></li>
+    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, canceling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup></li>
     <li>The Argent player may choose a damaged ship. This will have no effect.<sup>*</sup></li>
     <li>The chosen ship becomes damaged, it does not use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup></li>
     <ol>
@@ -36,7 +36,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are cancelled.<sup>4</sup></li>
+    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are canceled.<sup>4</sup></li>
     <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup></li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.<sup>*</sup></li>
     </ol>

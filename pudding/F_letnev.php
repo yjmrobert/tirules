@@ -89,7 +89,7 @@
         <ul>
         <li><b>Unverified</b>: No source found. LRR 87.4: Sustain Damage can be used &ldquo;any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo;</li>
         </ul></li>
-    <li>If there are multiple hits that can be cancelled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup>
+    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Non-Euclidean Shielding work?&rdquo;: &ldquo;Every time one of your units uses Sustain Damage, it cancels 2 hits instead of 1.&rdquo;</li>
         </ul></li>

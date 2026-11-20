@@ -22,12 +22,12 @@
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.<sup>*</sup></li>
     <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
@@ -85,7 +85,7 @@
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.<sup>*</sup></li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Control the Borderlands</i>.<sup>*</sup></li></ol>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Control the Borderlands</i>.<sup>*</sup></li></ol>
     <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> is not a home system.<sup>*</sup></li>
     <li>The Wormhole Nexus and the <a href="/F_creuss">Creuss</a> home system are both on the edge of the game board.<sup>1,8</sup></li>
@@ -125,7 +125,7 @@
     <ol class="note">
     <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card.<sup>*</sup></li>
     <li>A player involved in a combat due to the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability may score <i>Demonstrate Your Power</i> after that combat.<sup>*</sup></li>
-    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count towards scoring <i>Demonstrate Your Power</i>.<sup>*</sup></li>
+    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count toward scoring <i>Demonstrate Your Power</i>.<sup>*</sup></li>
     <li>The <a href="/F_mentak">Mentak</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> ability of their hero, during the last round of combat to place ships before scoring <i>Demonstrate Your Power</i>. However, fleet pool limits are also checked before scoring.<sup>*</sup></li>
     <ol><li>The <a href="/F_mentak">Mentak</a> player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup></li></ol>
     </ol>
@@ -319,12 +319,12 @@
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.<sup>*</sup></li>
     <ol>
-        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count towards the requirements of <i>Make History</i>.<sup>*</sup></li>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Make History</i>.<sup>*</sup></li>
+        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Make History</i>.<sup>*</sup></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li>
+    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li>
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system towards the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>
@@ -377,7 +377,7 @@
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.<sup>*</sup></li>
-    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup></li></ol>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup></li></ol>
     <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> is not a home system.<sup>*</sup></li>
     <li>The Wormhole Nexus and the <a href="/F_creuss">Creuss</a> home system are both on the edge of the game board.<sup>1,8</sup></li>

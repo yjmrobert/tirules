@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8, Synergy: &ldquo;A breakthrough will give each faction a unique new ability and grants synergy between two technology colors.&rdquo;</li>
         </ul></li>
-    <li>When researching a technology, a player may treat each technology they own and/or each technology speciality on a planet they control that matches one color of their synergy as any color of that synergy.<sup>7</sup>
+    <li>When researching a technology, a player may treat each technology they own and/or each technology specialty on a planet they control that matches one color of their synergy as any color of that synergy.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8, Synergy: &ldquo;A technology or technology specialty of a color that a player has synergy with can count as the other color instead, for the purposes of researching technology.&rdquo;</li>
         </ul></li>
@@ -18,15 +18,15 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8, Synergy: &ldquo;and for scoring technology-related objectives.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are breakthroughs technologies &hellip;?&rdquo;: &ldquo;Synergy lets a technology of one linked colour count as the other for colour objectives.&rdquo;</li>
         </ul></li>
-    <li>These choices are made individually for each technology and/or each technology speciality.<sup>7</sup>
+    <li>These choices are made individually for each technology and/or each technology specialty.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;A technology or technology specialty &hellip; can count as the other color.&rdquo;</li>
         </ul></li>
-    <li>Each technology and/or each technology speciality can only be one color of technology at any given point in time.<sup>7</sup>
+    <li>Each technology and/or each technology specialty can only be one color of technology at any given point in time.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8, Synergy: &ldquo;Even so, a technology can only count as one or the other at any given time, not both.&rdquo;</li>
         </ul></li>
-    <li>A technology and/or each technology speciality may be treated as different colors of technologies at different points in time.<sup>*</sup>
+    <li>A technology and/or each technology specialty may be treated as different colors of technologies at different points in time.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;at any given time.&rdquo;</li>
         </ul></li>
