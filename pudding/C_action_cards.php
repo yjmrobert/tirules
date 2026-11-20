@@ -908,6 +908,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>The agenda phase still occurs each round, as the custodians token is no longer on Mecatol Rex.<sup>3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Status Phase step 8: &ldquo;if the custodians token is no longer on Mecatol Rex (the planet in the center of the game board) the game round continues to the agenda phase.&rdquo; Agenda Phase: &ldquo;After the custodians token has been removed from Mecatol Rex, a new phase is added to each round for the remainder of the game: the agenda phase.&rdquo;</li>
+        </ul></li></ol>
     <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
