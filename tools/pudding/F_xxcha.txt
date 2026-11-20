@@ -148,13 +148,13 @@ N No source found.
 @65
 I2 RulesPal, "When several players fire Space Cannon Offense …?": "one player at a time … Each player's roll, hit assignment … finish before the next fires."
 @66
-I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
+E2 RulesPal, "Can mechs carried in the space area use Space Cannon?": "Yes — nothing limits Space Cannon to units on planets, so carried mechs, such as Xxcha mechs, can fire in the active system under the normal targeting rules."
 @67
 I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @68
 I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @69
-N No source found.
+I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @70
 N No source found.
 @71
@@ -164,4 +164,6 @@ N No source found.
 @73
 N No source found.
 @74
+N No source found.
+@75
 N No source found.

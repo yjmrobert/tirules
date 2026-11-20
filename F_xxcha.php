@@ -117,6 +117,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
+    <li>An Indomitus being transported in the space area of a system may still use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>

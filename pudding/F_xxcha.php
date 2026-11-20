@@ -334,6 +334,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense &hellip;?&rdquo;: &ldquo;one player at a time &hellip; Each player&rsquo;s roll, hit assignment &hellip; finish before the next fires.&rdquo;</li>
         </ul></li>
+    <li>An Indomitus being transported in the space area of a system may still use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can mechs carried in the space area use Space Cannon?&rdquo;: &ldquo;Yes &mdash; nothing limits Space Cannon to units on planets, so carried mechs, such as Xxcha mechs, can fire in the active system under the normal targeting rules.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
