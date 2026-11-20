@@ -69,7 +69,7 @@
     <ol class="note">
     </ol>
 
-<h2>&#x26AA; Planesplitter <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x26AA; Planesplitter</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If The Fracture is already in play when the Firmament player gains <i>Planesplitter</i>, it will have no immediate effect.<sup>*</sup>
         <ul>
@@ -77,7 +77,7 @@
         </ul></li>
     </ol>
 
-<h2>&#x2716; Planesplitter <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x2716; Planesplitter</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The ingress token must be moved when the Obsidian player performs the primary ability of their strategy card, before any other players decide if they wish to perform the secondary ability.<sup>*</sup>
         <ul>

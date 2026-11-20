@@ -355,7 +355,7 @@
     <ol class="note">
     </ol>
 
-<h2>Mine Rare Minerals</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#:~:text=Mine%20Rare%20Minerals">Mine Rare Minerals</a></h2>
     <ol class="note">
     </ol>
 

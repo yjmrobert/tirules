@@ -147,7 +147,7 @@
     <ol><li>If the <a href="/F_saar">Saar</a> player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Floating%20Factory">Floating Factory</a> is activated, then the infantry will be placed in the space area.<sup>*</sup></li></ol>
     </ol>
 
-<h2>Self&ndash;Assembly Routines</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Self-Assembly_Routines">Self&ndash;Assembly Routines</a></h2>
     <ol class="note">
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.<sup>2</sup></li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>

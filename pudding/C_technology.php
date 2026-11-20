@@ -356,7 +356,7 @@
         </ul></li></ol>
     </ol>
 
-<h2>Self&ndash;Assembly Routines</h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Self-Assembly_Routines">Self&ndash;Assembly Routines</a></h2>
     <ol class="note">
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.<sup>2</sup>
         <ul>
