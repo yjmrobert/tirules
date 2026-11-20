@@ -537,7 +537,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?&rdquo;: &ldquo;No &mdash; you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;To score such an objective, a player must pay the specified cost at the time indicated on the card.&rdquo;</li>
         </ul></li>
-    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.<sup>*</sup>
+    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain one trade good for each of those tokens that comes from their strategy pool, one at a time, when scoring <i>Galvanize the People</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -606,7 +606,7 @@
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;you pay the full amount in one go when you score the objective, as its cost.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;To score such an objective, a player must pay the specified cost at the time indicated on the card.&rdquo;</li>
         </ul></li>
-    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.<sup>*</sup>
+    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain one trade good for each of those tokens that comes from their strategy pool, one at a time, when scoring <i>Lead From the Front</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

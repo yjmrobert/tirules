@@ -260,7 +260,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People">Galvanize the People</a></h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
-    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.<sup>*</sup></li>
+    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain one trade good for each of those tokens that comes from their strategy pool, one at a time, when scoring <i>Galvanize the People</i>.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Gather%20a%20Mighty%20Fleet">Gather a Mighty Fleet</a></h2>
@@ -294,7 +294,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front">Lead From the Front</a></h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup></li>
-    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.<sup>*</sup></li>
+    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the <a href="/F_muaat">Muaat</a> player has unlocked their commander, Magmus, they will gain one trade good for each of those tokens that comes from their strategy pool, one at a time, when scoring <i>Lead From the Front</i>.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos">Learn the Secrets of the Cosmos</a></h2>
