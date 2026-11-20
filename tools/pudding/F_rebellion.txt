@@ -60,7 +60,7 @@ N No source found.
 @27
 N No source found.
 @28
-N No source found.
+E2 RulesPal, "Can the Crimson Rebellion hero join a combat between two other players?": "No — it is meant for combats you are part of; there are no rules for three-way combat"
 @29
 I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."

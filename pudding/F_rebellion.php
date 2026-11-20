@@ -160,9 +160,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Fragment Reality</i> cannot be used during a combat between two other players.<sup>*</sup>
+    <li><i>Fragment Reality</i> cannot be used during a combat between two other players.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Crimson Rebellion hero join a combat between two other players?&rdquo;: &ldquo;No &mdash; it is meant for combats you are part of; there are no rules for three-way combat&rdquo;</li>
         </ul></li>
     <li>Ships placed by <i>Fragment Reality</i> count against the Rebellion player&rsquo;s fleet pool immediately, but capacity is not checked until the end of the combat.<sup>1,2</sup>
         <ul>
