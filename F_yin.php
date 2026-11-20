@@ -42,6 +42,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Impulse%20Core">Impulse Core</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>When resolving <i>Impulse Core</i>, the Yin player&rsquo;s opponent chooses which ship is assigned the hit.<sup>*</sup></li>
+    <ol><li>The chosen ship must be in the active system.<sup>*</sup></li></ol>
     <li><i>Impulse Core</i> will resolve before the <b>Anti&ndash;Fighter Barrage</b> step of a space combat. As such, any destroyed destroyers will not make an anti&ndash;fighter barrage roll.<sup>5</sup></li>
     </ol>
 

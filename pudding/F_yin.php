@@ -107,6 +107,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>The chosen ship must be in the active system.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
     <li><i>Impulse Core</i> will resolve before the <b>Anti&ndash;Fighter Barrage</b> step of a space combat. As such, any destroyed destroyers will not make an anti&ndash;fighter barrage roll.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage &hellip; likely would be assault cannons first, followed by impulse drive, followed by ambush.&rdquo;</li>
