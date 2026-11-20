@@ -100,12 +100,14 @@ E2 RulesPal, "With the Nomad hero active, can the Memoria pick up units from sys
 @49
 N No source found.
 @50
-N No source found.
+N No numbered source. RulesPal, "Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?" (graded Best reading, unconfirmed; not used): "Yes — the Mentak flagship stops other players' ships using Sustain Damage, and a mech isn't a ship."
 @51
 N No source found.
 @52
 N No source found.
 @53
-E4 Designer ruling: "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat."
+N No source found.
 @54
+E4 Designer ruling: "Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat."
+@55
 N No source found.

@@ -254,6 +254,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>For the same reason, a Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability while the <a href="/F_mentak">Mentak</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, is in the system.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Yes &mdash; the Mentak flagship stops other players&rsquo; ships using Sustain Damage, and a mech isn&rsquo;t a ship.&rdquo;</li>
+        </ul></li></ol>
     <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be canceled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
