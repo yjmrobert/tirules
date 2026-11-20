@@ -50,3 +50,15 @@ Deferred: unanswered question, 2026-11-19, after 504d316. The note "If the Techn
 
 ## C_events.php: "in the equidistant" wording
 Deferred: unanswered question, 2026-11-19, after de74eba (spell check). Two setup notes say "…place the Creuss Gate (tile 17) in the equidistant…" and "…place the Sorrow (tile 94) in the equidistant…". The Thunder's Edge rulebook only uses "equidistant" as an adjective. Suggested: "in an equidistant system position". Owner chose the spelling option without answering this.
+
+## Should the "(Sorry, Creuss.)" aside carry <sup>*</sup>?
+Context: Wormhole Reconstruction note 2.1 on C_agendas.php is `<li class="ixth">(Sorry, Creuss.)</li>` with no citation, so build_pudding skips it (no @n block). The other ixth note (Ixthian Artifact heresy) carries <sup>*</sup>. Asked whether to add <sup>*</sup> plus an N proof (renumbering later proofs).
+Unanswered: the owner approved the change without addressing it.
+
+## Destroy Their Greatest Ship 2.2: "secret objective" or just "objective"?
+Context: sub-note 2.2 on C_objectives.php (commit a531a31) reads "A player may still only score one secret objective during or after each combat.<sup>1</sup>". The LRR limit it cites is one objective of any kind per combat. Asked whether to drop "secret".
+Unanswered: the owner approved without addressing it.
+
+## Harrow sub-note: also cite source 5? / Ω section Harrow note?
+Context: Make an Example of Their World (base) note 4.1 on C_objectives.php (commit 1fa80c0) cites 1. Source 5 (05_Compiled_Designer_Rulings_2018-2019.txt:1131) quotes Harrow's timing ("After each round of ground combat") and could be a third citation. Also, the Ω section has no Harrow note; Ω card text isn't in the sources, so whether Harrow can score Ω is unknown.
+Unanswered: the owner approved without addressing either.

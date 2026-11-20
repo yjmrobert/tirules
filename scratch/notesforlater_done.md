@@ -1156,3 +1156,102 @@ Commit: de74eba (eligable fixed earlier in 368123f)
 If Classified Document Leaks is elected by Miscount Disclosed, and there are no other secret objectives eligable to be elected by the Miscount Disclosed revote, Classified Document Leaks will be discarded and replaced.*
 Unverified: No source found.
 eligible. maybe a site wide spell check
+
+## lets check the wiki for action cards and agendas
+Commit: e22b831
+lets check the wiki for action cards and agendas that were removed in POK and mark them as such in their respective pages.
+
+## on miscount disclosed there are two mentions to
+Commit: d4bd523, e4dab52, 339e9db
+on miscount disclosed there are two mentions to various agendas that were removed in PoK. 1. bring them closer to each other. 2. lets see if we can isolate things that reference old components (not omegas, removed in PoK) and flag them (turn them red) sitewide
+
+## mutiny, if against is resolved the players
+Commit: f9f7fda
+mutiny, if against is resolved the players also lose their point in speaker order (although in practice this is irrelevant)
+
+## add a note under political censure 1.2 that
+Commit: 6d948cf
+add a note under political censure 1.2 that says the owner of political censure remains under its effects until the vote has concluded (The elected law remains in play while it is being voted on) from miscount disclosed.
+word it better
+
+## lets look for a ruling about public execution
+Commit: 3e2b7d9
+lets look for a ruling about public execution if its voted on during the action phase
+
+## If a player draws the Drive the Debate
+Commit: b8c57ff
+If a player draws the Drive the Debate secret objective while resolving Search Warrant, they cannot score it immediately.*
+Unverified: No source found.
+(as the timing window has already passed)
+
+## add a note under wormhole reconstruction 2
+Commit: bc78ee2
+add a note under wormhole reconstruction 2 that just says (sorry creuss)
+
+## minor factions players can enter the rebellions
+Commit: ed1a210
+minor factions players can enter the rebellions home system as the factions ability that destroys ships is not in play
+
+## If Mahact exists as a minor faction, the
+Commit: f5d0740
+If Mahact exists as a minor faction, the player that controls Ixth gains access to the ability of Il Na Viroset, the Mahact commander.*
+Unverified: No source found.
+we should mention this under yin breakthrough
+
+## All neutral infantry have a combat value of
+Commit: 877d56d
+All neutral infantry have a combat value of 8.11
+Explicit: 11 Codex IV p. 15: “Use proxy components or figures for neutral infantry; they have a combat value of 8.”
+Planets with neutral infantry cannot be targeted with action cards such as Plague or Uprising.*
+Unverified: No source found.
+Planets with neutral infantry cannot be elected by “elect planet” agendas, and are unaffected by agendas such as Swords to Plowshares.*
+Unverified: No source found.
+Planets with neutral infantry cannot be used to score objectives such as Make an Example of their World or Stake Your Claim.*
+Unverified: No source found.
+these things dont need to be under minor factions. they should be under the relevant agendas. the neutral infantry combat value shouldnt be here at all
+
+## why is this line under total war 3
+Commit: 016db04
+why is this line under total war 3
+If another player gains control of the home system planet holding the commodities, they also take those commodities.2
+remove it
+
+## The Creuss player may do this by moving
+Commit: 39886a9
+The Creuss player may do this by moving their Hil Colish flagship before or after their other ships.*
+Implicit: 1 LRR FAQ: “If the ‘Hil Colish’ moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …?” Assumes the Creuss player orders the flagship’s move.
+i think this should have more note. something that says it will flip after movement. investigate. checking what was removed from here
+
+## ion storm 3 readd that the ion storm
+Commit: dcffdcd
+ion storm 3 readd that the ion storm only flips if it was the chosen wormhole
+
+## control the region. fighters count.
+Commit: 87d339e
+control the region. fighters count. whether fighter II or they are in a system with a space dock
+
+## destroy their greatest ship 2.2 a player
+Commit: a531a31
+destroy their greatest ship 2.2 a player may still only score one secret per combat
+
+## Any effect that triggers when a command token
+Commit: 8122921
+Any effect that triggers when a command token is spent will be triggered six times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring Galvanize the People.*
+if those tokens come from their strategy pool
+same with lead from the front
+
+## for establish hegemny and hoard raw materials
+Commit: 1ce63b6
+for establish hegemny and hoard raw materials lets put notes about the xxcha breakthrough
+
+## make an example of their world 1 and
+Commit: 8273114
+make an example of their world 1 and omega 2. add as the bombardment step occurs outside of combat
+
+## make an example of their world 3. this
+Commit: 1fa80c0
+make an example of their world 3. this would count as the secret objective for the combat
+
+## prove endurance add. in the case where
+Commit: 02bf34f
+prove endurance add. in the case where a player unpasses, such as the ral nel hero, multiple players may be eligible to score prove endurance during the same round
