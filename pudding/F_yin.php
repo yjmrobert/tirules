@@ -219,6 +219,34 @@
         </ul></li></ol>
     </ol>
 
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
+    <ol class="note">
+    <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Card text (Brother Milor ΩΩ, supplied by the owner): &ldquo;After a player&rsquo;s unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit&rsquo;s system if it was a ship, or 2 infantry on its planet if it was a ground force.&rdquo;</li>
+        </ul></li>
+    <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega;&Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During combat, a player&rsquo;s fighters and ground forces can exceed their ships&rsquo; capacity, but at the end of the combat, any excess units are destroyed.&rdquo; Capacity is not enforced mid-combat.</li>
+        </ul></li>
+    <li>If all units in the combat are destroyed, and there are excess hits that have not been assigned to a unit, those hits will lapse, and cannot be assigned to the newly placed units.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
+    <li>If the Yin player uses Brother Milor &Omega;&Omega; when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
+        </ul></li>
+    <ol><li>If placed this way during a space combat, any newly placed infantry cannot participate. If placed this way during a ground combat, any newly placed fighters cannot participate.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed.&rdquo;</li>
+        </ul></li></ol>
+    </ol>
+
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one towards their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>

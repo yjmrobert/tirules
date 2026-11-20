@@ -89,51 +89,63 @@ E4 Designer ruling: "The units participating in combat via these flagship abilit
 @40
 E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @41
-N No source found.
+N No source found. Card text (Brother Milor ΩΩ, supplied by the owner): "After a player's unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry on its planet if it was a ground force."
 @42
-N No source found.
+I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
 @43
-E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
-E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit."
+N No source found.
 @44
 N No source found.
 @45
-N No source found.
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @46
-N No source found.
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @47
 N No source found.
 @48
-E2 RulesPal, "Does the Yin hero commit 3 infantry per planet or 3 in total?": "3 in total, spread across one or more non-home planets."
-E12 Codex III: "Commit up to 3 infantry from your reinforcements to any non-home planets."
-@49
 N No source found.
+@49
+E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
+E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit."
 @50
-E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
+N No source found.
 @51
 N No source found.
 @52
-E12 Codex III: "Commit up to 3 infantry from your reinforcements."
+N No source found.
 @53
 N No source found.
 @54
-N No source found.
+E2 RulesPal, "Does the Yin hero commit 3 infantry per planet or 3 in total?": "3 in total, spread across one or more non-home planets."
+E12 Codex III: "Commit up to 3 infantry from your reinforcements to any non-home planets."
 @55
-E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
-@56
 N No source found.
+@56
+E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
 @57
 N No source found.
 @58
-E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
-E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
+E12 Codex III: "Commit up to 3 infantry from your reinforcements."
 @59
 N No source found.
 @60
 N No source found.
 @61
-N No source found.
+E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
 @62
-I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
+N No source found.
 @63
+N No source found.
+@64
+E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
+E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
+@65
+N No source found.
+@66
+N No source found.
+@67
+N No source found.
+@68
+I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
+@69
 E6 Community consensus: "When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability …? A: Each has their own alliance card."
