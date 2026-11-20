@@ -579,7 +579,7 @@
     <li>A player playing an action card announces the following before <i>Sabotage</i> may be played:<sup>1,2,5</sup></li>
     <ol>
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup></li>
+        <li>The value of any variable cost to be paid.<sup>5</sup></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.<sup>1,2,5</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.<sup>2</sup></li>

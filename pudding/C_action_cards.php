@@ -1320,9 +1320,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on).&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;For sabotage, you would play after the target is chosen.&rdquo;</li>
         </ul></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup>
+        <li>The value of any variable cost to be paid.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: &ldquo;Bribery. Player declares how many TGs to be spent and which side he&rsquo;s voting for. Sabotage is played before he actually enacts it.&rdquo; Dane: &ldquo;This list is mostly correct with one correction&rdquo; (the correction concerns Focused Research only).</li>
         </ul></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.<sup>1,2,5</sup>

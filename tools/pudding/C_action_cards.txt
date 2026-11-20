@@ -513,7 +513,7 @@ E1 LRR FAQ: Sabotage "can be played after card targets (such as units, planets, 
 E2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
 E5 Designer ruling: "For sabotage, you would play after the target is chosen."
 @225
-N No source found.
+E5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
 @226
 E1 LRR FAQ: Sabotage "must be played before any effects have been resolved, votes have been cast, or any dice have been rolled."
 E2 RulesPal: "but before anything changes the game state, such as rolling dice or spending trade goods."
