@@ -25,6 +25,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a player resolve an ability to gain a technology when they already have that technology (Fires of the Gashlai)? A: No, you are not resolving the ability fully if you already have the specified technology.&rdquo;</li>
         </ul></li>
+    <li>If the Muaat player has no command tokens in their fleet pool, <i>Fires of the Gashlai</i> cannot be played.<sup>5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (reddit, 2019), on the L1Z1X, Muaat, Sol, Xxcha and Letnev promissory notes whose first step removes a token: &ldquo;The command tokens must be present in order to resolve these PNs, as was the understanding before my recent ruling.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>

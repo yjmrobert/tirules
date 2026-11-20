@@ -14,6 +14,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai">Fires of the Gashlai</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.<sup>4</sup></li>
+    <li>If the Muaat player has no command tokens in their fleet pool, <i>Fires of the Gashlai</i> cannot be played.<sup>5</sup></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
