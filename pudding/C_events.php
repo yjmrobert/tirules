@@ -147,9 +147,9 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If <a href="/F_mahact">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the <a href="/F_mahact">Mahact</a> commander.<sup>*</sup>
+    <li>If <a href="/F_mahact">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the <a href="/F_mahact">Mahact</a> commander.<sup>7</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood&rsquo;s breakthrough card. When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; The Mahact alliance card carries Il Na Viroset&rsquo;s ability.</li>
         </ul></li>
     <li>Commander abilities of minor factions do not need to be unlocked; they are available as soon as a player takes the corresponding alliance card.<sup>7</sup>
         <ul>

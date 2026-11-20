@@ -45,7 +45,7 @@ N No source found.
 @22
 N No source found.
 @23
-N No source found.
+I7 Thunder's Edge Rulebook, Alliance Reference Cards: "These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood’s breakthrough card. When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." The Mahact alliance card carries Il Na Viroset's ability.
 @24
 I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." alliance ability usable on gaining the card, no unlock needed.
 @25

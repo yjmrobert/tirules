@@ -385,6 +385,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; Yin breakthrough gains the card; ability usable without unlock.</li>
         </ul></li>
+    <ol><li>If the Yin player gains the <a href="/F_mahact">Mahact</a> alliance card, they gain access to the ability of Il Na Viroset, the Mahact commander.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood&rsquo;s breakthrough card. When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; The Mahact alliance card carries Il Na Viroset&rsquo;s ability.</li>
+        </ul></li></ol>
     <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;When the Obsidian isn&rsquo;t being played, and a game effect instructs a player to gain their alliance ability &hellip;? A: Each has their own alliance card.&rdquo;</li>

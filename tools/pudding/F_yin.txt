@@ -161,4 +161,6 @@ N No source found.
 @74
 I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
 @75
+I7 Thunder's Edge Rulebook, Alliance Reference Cards: "These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood’s breakthrough card. When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." The Mahact alliance card carries Il Na Viroset's ability.
+@76
 E6 Community consensus: "When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability …? A: Each has their own alliance card."

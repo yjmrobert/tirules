@@ -146,6 +146,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Breakthrough:~:text=Yin%20Ascendant">Yin Ascendant</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Yin player may use the alliance ability as though that faction&rsquo;s commander were unlocked.<sup>7</sup></li>
+    <ol><li>If the Yin player gains the <a href="/F_mahact">Mahact</a> alliance card, they gain access to the ability of Il Na Viroset, the Mahact commander.<sup>7</sup></li></ol>
     <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup></li>
     </ol>
 </article>
