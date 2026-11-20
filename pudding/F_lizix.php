@@ -83,10 +83,16 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
+    <ol>
+        <li>For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
+        </ul></li>
+        <li>The owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> law must still spend the two resources for <i>Inheritance Systems</i>, as they pay to ignore prerequisites, not to research the technology.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Does Minister of Sciences waive the 2 resources for L1Z1X&rsquo;s Inheritance Systems?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;No &mdash; those 2 resources pay to ignore prerequisites, not to research the technology.&rdquo;</li>
+        </ul></li>
+    </ol>
     <li><i>Inheritance Systems</i> may be used when researching a unit upgrade technology, including the L1Z1X player&rsquo;s own faction technologies such as <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> II.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;It ignores all prerequisites for one research, unit upgrades and your own faction technologies like Super Dreadnought included.&rdquo;</li>
