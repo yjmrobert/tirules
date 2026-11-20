@@ -138,17 +138,15 @@ E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate 
 @63
 N No source found.
 @64
-N No source found.
-@65
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
+@65
+N No source found.
 @66
 N No source found.
 @67
 N No source found.
 @68
-N No source found.
-@69
 I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
-@70
+@69
 E6 Community consensus: "When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability …? A: Each has their own alliance card."

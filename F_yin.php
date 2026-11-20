@@ -126,10 +126,7 @@
     <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup></li>
     <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.<sup>*</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#FAQ:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup></li>
-    <ol>
-        <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup></li>
-        <li>If the Yin player does have ships with capacity in the planet&rsquo;s system, then the infantry will be placed in the space area of the system. The Yin player might then need to remove infantry and/or fighters from the system to satisfy the capacity limit.<sup>*</sup></li>
-    </ol>
+    <ol><li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>

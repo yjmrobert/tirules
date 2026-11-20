@@ -328,16 +328,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
         </ul></li>
-    <ol>
-        <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup>
+    <ol><li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-        <li>If the Yin player does have ships with capacity in the planet&rsquo;s system, then the infantry will be placed in the space area of the system. The Yin player might then need to remove infantry and/or fighters from the system to satisfy the capacity limit.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    </ol>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
