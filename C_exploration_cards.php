@@ -92,7 +92,7 @@
     <li>The active player chooses which side of the Ion Storm token is initially face up.<sup>*</sup></li>
     <li>All ships move simultaneously, so a player cannot move some ships through one side of the Ion Storm token, flip it, and then move other ships through the other side.<sup>*</sup></li>
     <ol><li>The <a href="/F_creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships; the token flips after the flagship moves.<sup>1</sup></li></ol>
-    <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type.<sup>2,4</sup></li>
+    <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type. The Ion Storm token only flips if it was the chosen wormhole.<sup>2,4</sup></li>
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, the Ion Storm token is not flipped.<sup>*</sup></li>
     <li>If the Ion Storm token would be placed in an entropic scar, the <i>Ion Storm</i> card is still placed in the common play area, and the token is discarded.<sup>6</sup></li>
     </ol>

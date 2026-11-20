@@ -148,7 +148,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Hil Colish&rsquo; moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole &hellip;?&rdquo; Assumes the Creuss player orders the flagship&rsquo;s move.</li>
         </ul></li></ol>
-    <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type.<sup>2,4</sup>
+    <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type. The Ion Storm token only flips if it was the chosen wormhole.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips.&rdquo;</li>
