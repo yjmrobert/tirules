@@ -1589,9 +1589,10 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Unstable Planet&rsquo; action card should read as follows: &lsquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rsquo;&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it was errata&rsquo;d to destroy up to 3 infantry.&rdquo;</li>
         </ul></li>
-    <li>A player may choose an exhausted hazardous planet.<sup>2</sup>
+    <li>A player may choose an exhausted hazardous planet.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;It can also target an exhausted hazardous planet, since its effects are joined by &lsquo;and&rsquo;.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, 1/25/2019), &ldquo;Can you use Unstable Planet on an exhausted world?&rdquo;: &ldquo;it SHOULD be allowed, so please play as if that is the case.&rdquo;</li>
         </ul></li>
     </ol>
 

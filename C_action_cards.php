@@ -692,7 +692,7 @@
     <ol class="note">
     <li>A player may select a planet with fewer than three infantry on it (including zero).<sup>1,2</sup></li>
     <li>The text of <i>Unstable Planet</i> is changed to: &ldquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rdquo;<sup>1,2</sup></li>
-    <li>A player may choose an exhausted hazardous planet.<sup>2</sup></li>
+    <li>A player may choose an exhausted hazardous planet.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Upgrade">Upgrade</a></h2>

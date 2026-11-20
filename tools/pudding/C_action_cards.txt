@@ -626,6 +626,7 @@ E1 LRR errata: "The text of the 'Unstable Planet' action card should read as fol
 E2 RulesPal: "it was errata'd to destroy up to 3 infantry."
 @269
 E2 RulesPal: "It can also target an exhausted hazardous planet, since its effects are joined by 'and'."
+E5 Designer ruling (Dane, 1/25/2019), "Can you use Unstable Planet on an exhausted world?": "it SHOULD be allowed, so please play as if that is the case."
 @270
 E1 LRR FAQ: "When playing the 'Upgrade' action card, does the cruiser already have to be present in the active system? A: Yes. The cruiser must already be in the activated system."
 E2 RulesPal, "When can the Upgrade action card be played?": "Immediately after you activate a system containing your ships — not later in that tactical action, such as after producing a new cruiser."
