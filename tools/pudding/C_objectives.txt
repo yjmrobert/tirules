@@ -146,238 +146,242 @@ I1 LRR 19.2: trade goods "can be spent by that player as resources, influence, o
 @64
 N No source found.
 @65
-E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+N No source found. Same ruling as the Archon's Gift note on F_xxcha.php ("does not apply when scoring the Establish Hegemony or Hoard Raw Materials objectives", also *).
 @66
-E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
 @67
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+@68
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus: "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
-@68
-E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Fight With Precision".
 @69
-E1 LRR 61.7: "they can only score one objective during or after each combat."
-I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Fight With Precision".
 @70
-N No source found.
-@71
 E1 LRR 61.7: "they can only score one objective during or after each combat."
 I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
-@72
+@71
 N No source found.
+@72
+E1 LRR 61.7: "they can only score one objective during or after each combat."
+I2 RulesPal, "How and when are action-phase secret objectives scored?": "You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not." only one secret objective per combat, so Fight with Precision uses up that combat's scoring.
 @73
 N No source found.
 @74
 N No source found.
 @75
+N No source found.
+@76
 E2 RulesPal, "When do I discard the 5 action cards for Form a Spy Network?": "When you score it in the status phase, as its cost, without resolving the cards."
 I1 LRR 61.10: "a player must pay the specified cost at the time indicated on the card."
-@76
-N No source found.
 @77
-E2 RulesPal, "Who counts as my neighbor?": "The Hacan can transact with non-neighbors, and anyone can with them, but that doesn't make them neighbors for Pillage."
+N No source found.
 @78
-E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
+E2 RulesPal, "Who counts as my neighbor?": "The Hacan can transact with non-neighbors, and anyone can with them, but that doesn't make them neighbors for Pillage."
 @79
+E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
+@80
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-@80
+@81
 E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
 I1 LRR 19.2: trade goods "can be spent by that player as resources, influence, or to resolve certain game effects."
-@81
-N No source found.
 @82
+N No source found.
+@83
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-@83
-N No source found.
 @84
 N No source found.
 @85
+N No source found.
+@86
+N No source found. Same ruling as the Archon's Gift note on F_xxcha.php ("does not apply when scoring the Establish Hegemony or Hoard Raw Materials objectives", also *).
+@87
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-@86
+@88
 E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
 I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "In place of spending one influence."
-@87
-N No source found.
-@88
-N No source found.
 @89
 N No source found.
 @90
-I2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "a system isn't adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex" ships in the Mecatol system itself do not count toward Intimidate Council.
+N No source found.
 @91
 N No source found.
 @92
-E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-I2 RulesPal: "you pay the full amount in one go when you score the objective, as its cost."
-E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
+I2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "a system isn't adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex" ships in the Mecatol system itself do not count toward Intimidate Council.
 @93
 N No source found.
 @94
-N No source found.
+E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
+I2 RulesPal: "you pay the full amount in one go when you score the objective, as its cost."
+E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 @95
-E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "ships inside an anomaly don't count as adjacent to it."
+N No source found.
 @96
 N No source found.
 @97
+E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "ships inside an anomaly don't count as adjacent to it."
+@98
+N No source found.
+@99
 E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
 E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
-@98
-E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Make an Example of Their World".
-@99
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @100
-N No source found.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Make an Example of Their World".
 @101
-E2 RulesPal, "Are there common clarifications for specific objectives …?": "destroying the last ground forces with L1Z1X's Harrow counts for Make an Example, since Harrow is Bombardment."
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @102
 N No source found.
 @103
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+E2 RulesPal, "Are there common clarifications for specific objectives …?": "destroying the last ground forces with L1Z1X's Harrow counts for Make an Example, since Harrow is Bombardment."
 @104
 N No source found.
 @105
-N No source found.
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @106
-E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+N No source found.
 @107
 N No source found.
 @108
-N No source found.
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @109
 N No source found.
 @110
 N No source found.
 @111
-E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
-E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
+N No source found.
 @112
 N No source found.
 @113
-E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
-E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
+E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears."
+E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock systems are anomalies, which counts for objectives like Making History."
 @114
-E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
-I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "In place of spending one influence."
+N No source found.
 @115
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 @116
-E2 RulesPal, "Where do Saar Floating Factories go …?": "In the space area, never on a planet."
+E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
+I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "In place of spending one influence."
 @117
-E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
+E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
+E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 @118
-E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
-I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+E2 RulesPal, "Where do Saar Floating Factories go …?": "In the space area, never on a planet."
 @119
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @120
-N No source found.
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
 @121
-N No source found.
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @122
 N No source found.
 @123
 N No source found.
 @124
+N No source found.
+@125
+N No source found.
+@126
 E1 LRR 39.2a: "The Ghosts of Creuss home system and the wormhole nexus are on the edge of the game board."
 E8 PoK rulebook p. 16: "The wormhole nexus and the Ghosts of Creuss' home system are on the edge of the game board for the purpose of scoring objectives."
-@125
+@127
 E4 Designer ruling: "Intention is that one of the edges of a system tile does not touch another system tile OR hyperlane tile in order to be considered on the edge of the board."
 E2 RulesPal, "With hyperlanes, which systems are on the edge of the board?": "A system is on the edge only if one of its sides touches neither another system nor a hyperlane tile."
-@126
-E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
-@127
-N No source found.
 @128
-E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edge systems."
 @129
 N No source found.
 @130
-N No source found.
+E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @131
 N No source found.
 @132
-E6 Community consensus: "Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass."
-@133
-E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
-@134
 N No source found.
+@133
+N No source found.
+@134
+E6 Community consensus: "Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass."
 @135
+E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
+@136
+N No source found.
+@137
 E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the same type … A: No. Only one upgrade of a given type counts toward those objectives."
 I2 RulesPal: "when a copied faction upgrade covers a generic one, like Dreadnought II, only one of them counts."
 I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, what is intended." Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.
-@136
+@138
 E4 Designer ruling: "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player's Home Systems."
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "Rule Distant Lands needs planets near two different players' home systems."
-@137
-N No source found.
-@138
-E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
 @139
-E2 RulesPal, "Can I score an objective for beating 'the player with the most victory points' … if I'm the leader?": "If you lead alone, nobody else qualifies."
+N No source found.
 @140
-E2 Same entry: "when players are tied for most points, each of them counts as having the most."
+E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
 @141
-I2 Same entry: "when players are tied for most points, each of them counts as having the most." A 0–0 tie is a tie for most.
+E2 RulesPal, "Can I score an objective for beating 'the player with the most victory points' … if I'm the leader?": "If you lead alone, nobody else qualifies."
 @142
-E2 RulesPal, "If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?": "Yes, both."
+E2 Same entry: "when players are tied for most points, each of them counts as having the most."
 @143
+I2 Same entry: "when players are tied for most points, each of them counts as having the most." A 0–0 tie is a tie for most.
+@144
+E2 RulesPal, "If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?": "Yes, both."
+@145
 E6 Community consensus: "Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence."
 I2 RulesPal, "How does coexistence work?" (general rules; does not mention Stake Your Claim).
-@144
-N No source found.
-@145
-E4 Designer ruling: "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
 @146
-E4 Designer ruling: "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+N No source found.
 @147
-E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+E4 Designer ruling: "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
 @148
+E4 Designer ruling: "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+@149
+E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+@150
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-@149
+@151
 E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
 I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "In place of spending one influence."
-@150
-N No source found.
-@151
-N No source found.
 @152
 N No source found.
 @153
-E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Turn Their Fleets to Dust".
+N No source found.
 @154
+N No source found.
+@155
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Turn Their Fleets to Dust".
+@156
 E1 LRR FAQ: "Can the 'Turn Their Fleets to Dust' objective be fulfilled by using a 'Direct Hit' action card …? A: No."
 E2 RulesPal: "Direct Hit's own text destroys the ship, not the Space Cannon."
 E5 Designer ruling: "Would using a Direct Hit to finish off a Dreadnaught after a PDS hit qualify for 'Turn Their Fleets to Dust'? Dane's Answer: It would not."
-@155
+@157
 E1 LRR FAQ: "or by destroying a unit with capacity and allowing transported fighters to be removed as a result? A: No. In both situations, the 'Space Cannon' ability did not destroy the last ship in the system."
 E2 RulesPal: "fighters lost to the capacity rule weren't destroyed by Space Cannon."
 I5 Designer ruling (Milty, 08/02/2018): "You can’t claim “Turn Their Fleets to Dust” in this manner." Fighters immediately destroyed for lack of capacity after PDS hits do not qualify.
-@156
-E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
-@157
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @158
-N No source found.
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @159
-N No source found.
-@160
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+@160
+N No source found.
 @161
 N No source found.
 @162
-N No source found.
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @163
 N No source found.
 @164
+N No source found.
+@165
+N No source found.
+@166
 E4 Designer ruling: "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
 E2 RulesPal: "Unveil Flagship needs your flagship to survive the combat."

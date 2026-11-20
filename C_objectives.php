@@ -194,6 +194,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony">Establish Hegemony</a></h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.<sup>*</sup></li>
+    <li>The <a href="/F_xxcha">Xxcha</a> player&rsquo;s <i>Archon&rsquo;s Gift</i> breakthrough does not apply when scoring <i>Establish Hegemony</i>; only the influence values of their planets count.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders">Expand Borders</a></h2>
@@ -270,6 +271,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials">Hoard Raw Materials</a></h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.<sup>*</sup></li>
+    <li>The <a href="/F_xxcha">Xxcha</a> player&rsquo;s <i>Archon&rsquo;s Gift</i> breakthrough does not apply when scoring <i>Hoard Raw Materials</i>; only the resource values of their planets count.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Hold%20Vast%20Reserves">Hold Vast Reserves</a></h2>

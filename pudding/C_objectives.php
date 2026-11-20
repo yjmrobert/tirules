@@ -408,6 +408,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The <a href="/F_xxcha">Xxcha</a> player&rsquo;s <i>Archon&rsquo;s Gift</i> breakthrough does not apply when scoring <i>Establish Hegemony</i>; only the influence values of their planets count.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Same ruling as the Archon&rsquo;s Gift note on F_xxcha.php (&ldquo;does not apply when scoring the Establish Hegemony or Hoard Raw Materials objectives&rdquo;, also *).</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders">Expand Borders</a></h2>
@@ -552,6 +556,10 @@
     <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>The <a href="/F_xxcha">Xxcha</a> player&rsquo;s <i>Archon&rsquo;s Gift</i> breakthrough does not apply when scoring <i>Hoard Raw Materials</i>; only the resource values of their planets count.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Same ruling as the Archon&rsquo;s Gift note on F_xxcha.php (&ldquo;does not apply when scoring the Establish Hegemony or Hoard Raw Materials objectives&rdquo;, also *).</li>
         </ul></li>
     </ol>
 
