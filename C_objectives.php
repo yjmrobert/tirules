@@ -141,7 +141,10 @@
     <ol class="note">
     <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup></li>
     <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup></li>
-    <ol><li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup></li></ol>
+    <ol>
+        <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup></li>
+        <li>A player may still only score one secret objective during or after each combat.<sup>1</sup></li>
+    </ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>

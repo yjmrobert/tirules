@@ -304,10 +304,16 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players could each score an action-phase objective in the same combat, who scores first?&rdquo;: &ldquo;Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner.&rdquo;</li>
         </ul></li>
-    <ol><li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup>
+    <ol>
+        <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda resolved with the Xxcha hero that destroys an enemy flagship score Destroy Their Greatest Ship?&rdquo;: &ldquo;the agenda destroyed it, not your units or abilities, and only those count.&rdquo; Winning is not a requirement.</li>
-        </ul></li></ol>
+        </ul></li>
+        <li>A player may still only score one secret objective during or after each combat.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.&rdquo;</li>
+        </ul></li>
+    </ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
