@@ -288,7 +288,7 @@ li.ixth:before
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
     <ol class="note">
-    <li>If the &ldquo;For&rdquo; outcome of <i>Mutiny</i> is resolved, players gain victory points in speaker order.<sup>*</sup></li>
+    <li>Whichever outcome of <i>Mutiny</i> is resolved, players gain or lose victory points in speaker order.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution">New Constitution</a></h2>

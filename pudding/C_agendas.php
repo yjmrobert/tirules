@@ -665,7 +665,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
     <ol class="note">
-    <li>If the &ldquo;For&rdquo; outcome of <i>Mutiny</i> is resolved, players gain victory points in speaker order.<sup>*</sup>
+    <li>Whichever outcome of <i>Mutiny</i> is resolved, players gain or lose victory points in speaker order.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
