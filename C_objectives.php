@@ -313,6 +313,7 @@
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action, as the <b>Bombardment</b> step occurs outside of combat.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.<sup>*</sup></li>
     <li>The <a href="/F_lizix">L1Z1X</a> player may score <i>Make an Example of Their World</i> by using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>2</sup></li>
+    <ol><li>As <sc>Harrow</sc> is resolved after a round of ground combat, scoring <i>Make an Example of Their World</i> this way counts as the L1Z1X player&rsquo;s one objective for that combat.<sup>1</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>

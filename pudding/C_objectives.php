@@ -660,6 +660,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;destroying the last ground forces with L1Z1X&rsquo;s Harrow counts for Make an Example, since Harrow is Bombardment.&rdquo;</li>
         </ul></li>
+    <ol><li>As <sc>Harrow</sc> is resolved after a round of ground combat, scoring <i>Make an Example of Their World</i> this way counts as the L1Z1X player&rsquo;s one objective for that combat.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;they can only score one objective during or after each combat.&rdquo; Harrow resolves &ldquo;After each round of ground combat&rdquo; (L1Z1X faction sheet), so it falls within that combat.</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
