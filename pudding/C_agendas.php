@@ -127,7 +127,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;the one he originally completed now counts as public.&rdquo;</li>
         </ul></li>
-    <ol><li>If there are no other secret objectives eligable to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup>
+    <ol><li>If there are no other secret objectives eligible to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -596,7 +596,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;First vote on Miscount Disclosed, with riders predicting only which law is chosen. Then vote on that law as if it had just been revealed.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligable to be elected by the <i>Miscount Disclosed</i> revote, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> will be discarded and replaced.<sup>*</sup>
+        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> will be discarded and replaced.<sup>*</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 19, 2018): &ldquo;If &lsquo;Miscount Disclosed&rsquo; causes a law to come up to be voted on again: Can Xxcha &lsquo;Quash&rsquo; it (or someone &lsquo;Veto&rsquo;) it? &hellip; Dane: &hellip; Yes to both questions regarding Miscount disclosed&rdquo;</li>
