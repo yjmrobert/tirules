@@ -120,10 +120,14 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li class="removed">Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup>
+    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
         </ul></li>
+    <ol><li class="removed">The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>
