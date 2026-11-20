@@ -308,6 +308,7 @@ li.ixth:before
     <ol class="note">
     <li>When a player is elected for <i>Political Censure</i>, they may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action card before it resolves.<sup>2</sup></li>
     <li>If <i>Political Censure</i> is elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a>, the previous owner loses one victory point when they lose the card, and the newly elected player gains one victory point. If the same player is elected again, they lose and then regain the victory point.<sup>2</sup></li>
+    <ol><li>While <i>Political Censure</i> is being voted on again, it remains in play, so its current owner still cannot play action cards until the vote has resolved.<sup>1,2</sup></li></ol>
     <li><i>Political Censure</i> only prevents the elected player from playing action cards; it does not affect strategy cards. The elected player cannot discard <i>Political Censure</i> themselves.<sup>2</sup></li>
     </ol>
 

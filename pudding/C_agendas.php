@@ -711,6 +711,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Miscount Disclosed revotes Political Censure, who gains or loses points?&rdquo;: &ldquo;the previous owner loses 1 and the new owner gains 1; the same player re-elected loses and regains it.&rdquo;</li>
         </ul></li>
+    <ol><li>While <i>Political Censure</i> is being voted on again, it remains in play, so its current owner still cannot play action cards until the vote has resolved.<sup>1,2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Q: During a revote initiated by the &ldquo;Miscount Disclosed&rdquo; agenda, does the law that is being voted on remain active and in play? A: Yes, the law that is being voted on because of &ldquo;Miscount Disclosed&rdquo; remains in play during the revote.&rdquo; Political Censure stays in play, so its effect on the current owner continues.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When Miscount Disclosed forces a revote on a law, does that law stay in effect during the revote?&rdquo;: &ldquo;Yes &mdash; the law remains in play until the revote resolves, so Representative Government, for example, still limits everyone to 1 vote.&rdquo;</li>
+        </ul></li></ol>
     <li><i>Political Censure</i> only prevents the elected player from playing action cards; it does not affect strategy cards. The elected player cannot discard <i>Political Censure</i> themselves.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does Political Censure stop, and how is it removed?&rdquo;: &ldquo;Only playing action cards; strategy cards are unaffected. The elected player can&rsquo;t discard it themselves.&rdquo;</li>
