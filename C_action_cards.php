@@ -178,6 +178,7 @@
     <li>The researched technology cannot be the returned technology.<sup>*</sup></li>
     <li>If a player later gains the technology they returned, they gain it readied.<sup>*</sup></li>
     <li>If the player returns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player plays <i>Divert Funding</i>, they return a technology, but gain 3 command tokens instead of researching a technology, due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation"><sc>Propagation</sc></a> faction ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Economic%20Initiative">Economic Initiative</a></h2>

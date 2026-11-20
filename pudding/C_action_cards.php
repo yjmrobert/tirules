@@ -421,6 +421,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player plays <i>Divert Funding</i>, they return a technology, but gain 3 command tokens instead of researching a technology, due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation"><sc>Propagation</sc></a> faction ability.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;because they can&rsquo;t research, Propagation gives them 3 command tokens instead.&rdquo; The same applies to the research in Divert Funding.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Economic%20Initiative">Economic Initiative</a></h2>
