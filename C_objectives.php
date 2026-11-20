@@ -99,6 +99,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Control%20the%20Region">Control the Region</a></h2>
     <ol class="note">
     <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
+    <li>Fighters are ships, so a system containing only fighters counts for <i>Control the Region</i>, such as fighters held by a space dock&rsquo;s capacity or Fighter IIs.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Corner%20the%20Market">Corner the Market</a></h2>
