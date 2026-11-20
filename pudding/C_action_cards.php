@@ -175,6 +175,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What triggers Minister of Industry?&rdquo;: &ldquo;a dock placed by a Construction Rider in the agenda phase does, payable only with planets you haven&rsquo;t exhausted.&rdquo;</li>
         </ul></li>
+    <ol><li>All planets will be readied at the end of the agenda phase.<sup>3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a></h2>

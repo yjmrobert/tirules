@@ -73,6 +73,7 @@
     <li>If a player wishes to place a space dock, but there are none left in their reinforcements, they may remove a space dock from any system that does not contain one of their command tokens and place that instead.<sup>1,2</sup></li>
     <li>The <a href="/F_saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup></li>
     <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <a href="/R_production"><sc>Production</sc></a> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup></li>
+    <ol><li>All planets will be readied at the end of the agenda phase.<sup>3</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a></h2>
