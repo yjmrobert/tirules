@@ -287,7 +287,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum &hellip;? A: When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine a planet&rsquo;s resources and influence work?&rdquo;: &ldquo;It doesn&rsquo;t change printed values, so it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
-        <li><b>Unverified</b>: <sup>2</sup> Partial conflict: the same RulesPal entry says the combined value applies &ldquo;even when exhausted for Uprising.&rdquo;</li>
         </ul></li>
     <ol>
         <li>A space dock will not add the influence value of the planet it is on to its <a href="/R_production"><sc>Production</sc></a> value.<sup>2</sup>
