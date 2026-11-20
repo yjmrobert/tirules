@@ -375,7 +375,7 @@ E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda
 @170
 N No source found.
 @171
-E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included."
+E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included." Every wormhole system includes gamma and epsilon.
 I5 Designer ruling: "The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction."
 @172
 E2 RulesPal: "ships in any wormhole system, gamma and delta included, qualify … only ships in alpha or beta systems are then destroyed."
