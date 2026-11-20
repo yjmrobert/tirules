@@ -31,7 +31,8 @@
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>*</sup></li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.<sup>1,2,5</sup></li>
     <ol><li>If the <a href="/F_argent">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup></li></ol>
-    <li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after another player plays <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup></li>
+    <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a>; it can only be played after their normal vote.<sup>1</sup></li>
+    <ol><li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup></li></ol>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup></li>
     <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup></li>
     </ol>
@@ -164,7 +165,7 @@
     <ol class="note">
     <li>A player must have cast votes for an outcome to play <i>Distinguished Councilor</i>.<sup>1,2,5</sup></li>
     <li>A player may only play <i>Distinguished Councilor</i> after their normal vote, not after they cast additional votes at another point.<sup>1</sup></li>
-    <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>, as both are played in the timing window after the speaker votes.<sup>5</sup></li>
+    <ol><li>The speaker may play <i>Distinguished Councilor</i> after they or another player play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>, as both are played in the timing window after the speaker votes.<sup>5</sup></li></ol>
     <li><i>Distinguished Councilor</i> is played before any effects that change the outcome of an agenda.<sup>*</sup></li>
     </ol>
 
