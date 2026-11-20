@@ -425,6 +425,15 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Units destroyed by &lsquo;Ixthian Artifact&rsquo; are destroyed simultaneously.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Clipper, Sep 2018): &ldquo;the intent is that the ancient artifact explosions should happen simultaneously.&rdquo;</li>
         </ul></li>
+    <li>The <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> faction ability does not make any additional systems adjacent to the Mecatol Rex system for the purposes of <i>Ixthian Artifact</i>.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;Adjacency is the normal kind for everyone: a matching wormhole on Mecatol counts, but Creuss&rsquo;s Quantum Entanglement doesn&rsquo;t extend it.&rdquo;</li>
+        </ul></li>
+    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>*</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;a matching wormhole on Mecatol counts&rdquo; The Hil Colish puts a delta wormhole in its system.</li>
+        </ul></li>
     <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

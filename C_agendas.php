@@ -194,6 +194,8 @@ li.ixth:before
     </ol>
     <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup></li>
     <li>All units are destroyed simultaneously.<sup>1,5</sup></li>
+    <li>The <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> faction ability does not make any additional systems adjacent to the Mecatol Rex system for the purposes of <i>Ixthian Artifact</i>.<sup>1,2</sup></li>
+    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>*</sup></li>
     <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.<sup>*</sup></li>
     </ol>
 
