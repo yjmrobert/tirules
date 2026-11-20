@@ -114,7 +114,7 @@
     <ol class="note">
     <li>Any prediction made for a rider or similar ability is incorrect, and will not resolve.<sup>4</sup></li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.<sup>4</sup></li>
-    <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.<sup>*</sup></li>
+    <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> action cards.<sup>*</sup></li>
     <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda.<sup>4</sup></li>
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup></li>
     <ol><li>If the <a href="/F_xxcha">Xxcha</a> player uses their commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.<sup>*</sup></li></ol>
