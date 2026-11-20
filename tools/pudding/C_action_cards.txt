@@ -558,106 +558,104 @@ I5 Designer ruling on retreats: "the number you can attempt to move out of the s
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "Capacity and fleet limits apply again at the destination, and you choose which excess units to lose."
 @242
 E2 RulesPal, "Can I retreat or Skilled Retreat into … systems that contain my command token?": "A normal retreat or Skilled Retreat may go into a system that already has your command token; you just don't place a second one."
+E5 Designer ruling (JamesG, Jan 19, 2018): "That is correct."
 @243
 E5 Designer ruling: "Q: For Skilled Retreat, if the player has no Command Tokens in their reinforcements, can they use one from their command sheet …? Dane Beltrami's Answer: You can take a command token from anywhere on your sheet instead."
 I1 LRR 32.2a (Diplomacy): "If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet."
 @244
-E2 RulesPal: "A normal retreat or Skilled Retreat may go into a system that already has your command token."
-E5 Designer ruling (JamesG, Jan 19, 2018): "That is correct."
-@245
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "fighters move with the fleet without needing capacity. Capacity and fleet limits apply again at the destination."
 E5 Designer ruling (sigmazero13, Jul 18, 2018): "Yes, move all of your ships."
-@246
+@245
 I10 Codex I, Solar Flare: "Other players cannot use SPACE CANNON against your ships." Only other players are restricted.
-@247
+@246
 I10 Codex I, Solar Flare limits Space Cannon "against your ships." Space Cannon Defense targets ground forces.
-@248
+@247
 N No source found.
-@249
+@248
 I2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "Secondaries cost a strategy pool token, except Leadership's."
-@250
+@249
 E2 RulesPal, "Can Tactical Bombardment be played in a system with no enemy planets?": "it only requires that you have a unit with Bombardment in that system."
-@251
+@250
 E2 RulesPal, "Can Tactical Bombardment be played in a system with no enemy planets?": "Yes — it only requires that you have a unit with Bombardment in that system."
+@251
+E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
+E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
+E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
 @252
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
-E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
-E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@253
-E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@254
+@253
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@255
+@254
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@256
+@255
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
-@257
+@256
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol of the matching type."
 E2 RulesPal, "How do technology specialties work when researching?": "Exhaust a ready planet with a specialty to ignore one prerequisite of that color."
-@258
+@257
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@259
+@258
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@260
+@259
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@261
+@260
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@262
+@261
 E2 RulesPal, "Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?": "Yes — it was errata'd to destroy up to 3 infantry, so it removes whatever is there, up to 3."
 E1 LRR errata, Unstable Planet: "destroy up to 3 infantry on it."
-@263
+@262
 E1 LRR errata: "The text of the 'Unstable Planet' action card should read as follows: 'Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.'"
 E2 RulesPal: "it was errata'd to destroy up to 3 infantry."
-@264
+@263
 E2 RulesPal: "It can also target an exhausted hazardous planet, since its effects are joined by 'and'."
-@265
+@264
 E1 LRR FAQ: "When playing the 'Upgrade' action card, does the cruiser already have to be present in the active system? A: Yes. The cruiser must already be in the activated system."
 E2 RulesPal, "When can the Upgrade action card be played?": "Immediately after you activate a system containing your ships — not later in that tactical action, such as after producing a new cruiser."
-@266
+@265
 E1 LRR FAQ: "The cruiser must already be in the activated system."
-@267
+@266
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+@267
+E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
 @268
 E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
 @269
-E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
-@270
 E2 RulesPal, "Do 'when an agenda is revealed' effects like Veto and Quash come before Riders?": "Yes — 'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first, then 'after' effects (Riders …)."
-@271
+@270
 E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded by an effect such as the 'Veto' action card, can that player vote …? A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
-@272
+@271
 E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
-@273
+@272
 N No source found. RulesPal: "A Veto card, by contrast, is one card and one use." That limits one copy, not a second card.
-@274
+@273
 E1 LRR errata: "The text of the 'Veto' action card should read as follows: 'When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.'"
 I2 RulesPal: "Veto and Political Favor were errata'd to 'when' timing to match Quash."
-@275
+@274
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@276
+@275
 E10 Codex I, War Machine: "When 1 or more of your units use PRODUCTION."
-@277
+@276
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@278
+@277
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@279
+@278
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@280
+@279
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@281
+@280
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@282
+@281
 E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."

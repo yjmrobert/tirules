@@ -1431,19 +1431,15 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;Capacity and fleet limits apply again at the destination, and you choose which excess units to lose.&rdquo;</li>
         </ul></li>
-    <li>If the destination system already contains a player&rsquo;s command token, no command token is placed.<sup>2</sup>
+    <li>A player may move their ships to a system that already contains one of their command tokens. If they do, no command token is placed.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I retreat or Skilled Retreat into &hellip; systems that contain my command token?&rdquo;: &ldquo;A normal retreat or Skilled Retreat may go into a system that already has your command token; you just don&rsquo;t place a second one.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (JamesG, Jan 19, 2018): &ldquo;That is correct.&rdquo;</li>
         </ul></li>
     <li>If a player has no command tokens in their reinforcements, they must take one from any pool of their command sheet and place that instead.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Q: For Skilled Retreat, if the player has no Command Tokens in their reinforcements, can they use one from their command sheet &hellip;? Dane Beltrami&rsquo;s Answer: You can take a command token from anywhere on your sheet instead.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 32.2a (Diplomacy): &ldquo;If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.&rdquo;</li>
-        </ul></li>
-    <li>A player may move their ships to a system that already contains one of their command tokens.<sup>2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A normal retreat or Skilled Retreat may go into a system that already has your command token.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (JamesG, Jan 19, 2018): &ldquo;That is correct.&rdquo;</li>
         </ul></li>
     <li>All of the player&rsquo;s ships in the active system are moved, including fighters, even if there is not enough capacity to transport them.<sup>2,5</sup>
         <ul>

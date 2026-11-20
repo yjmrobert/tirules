@@ -629,9 +629,8 @@
     <li>A player may use <i>Skilled Retreat</i> to move into a system that does not contain their ships, as long as it does not contain another player&rsquo;s ships.<sup>2</sup></li>
     <li>Ground forces may be transported.<sup>1,2,5</sup></li>
     <li>After moving, capacity and fleet pool limits apply in the destination system.<sup>2</sup></li>
-    <li>If the destination system already contains a player&rsquo;s command token, no command token is placed.<sup>2</sup></li>
+    <li>A player may move their ships to a system that already contains one of their command tokens. If they do, no command token is placed.<sup>2,5</sup></li>
     <li>If a player has no command tokens in their reinforcements, they must take one from any pool of their command sheet and place that instead.<sup>1,5</sup></li>
-    <li>A player may move their ships to a system that already contains one of their command tokens.<sup>2,5</sup></li>
     <li>All of the player&rsquo;s ships in the active system are moved, including fighters, even if there is not enough capacity to transport them.<sup>2,5</sup></li>
     </ol>
 
