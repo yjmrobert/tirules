@@ -1437,6 +1437,10 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Skilled Retreat&rsquo; is not a retreat and cannot be canceled in this way.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move, so Intercept can&rsquo;t cancel it.&rdquo;</li>
         </ul></li>
+    <li>When a player uses <i>Skilled Retreat</i>, the combat is a draw. Neither player can resolve abilities that trigger after winning or losing a combat.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If the defender leaves with Skilled Retreat or Foresight, does the attacker still invade, and has anyone won a combat?&rdquo;: &ldquo;But no combat was won: after a normal retreat the player left in the system wins, whereas Foresight happens before combat and Skilled Retreat leaves no winner, so &lsquo;win a combat&rsquo; objectives and effects don&rsquo;t trigger.&rdquo;</li>
+        </ul></li>
     <li>A player may use <i>Skilled Retreat</i> to move into a system that does not contain their ships, as long as it does not contain another player&rsquo;s ships.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It can go to any adjacent system without other players&rsquo; ships, including the one the attacker came from.&rdquo;</li>

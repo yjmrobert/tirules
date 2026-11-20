@@ -631,6 +631,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
     <ol class="note">
     <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup></li>
+    <li>When a player uses <i>Skilled Retreat</i>, the combat is a draw. Neither player can resolve abilities that trigger after winning or losing a combat.<sup>2</sup></li>
     <li>A player may use <i>Skilled Retreat</i> to move into a system that does not contain their ships, as long as it does not contain another player&rsquo;s ships.<sup>2</sup></li>
     <li>Ground forces may be transported.<sup>1,2,5</sup></li>
     <li>After moving, capacity and fleet pool limits apply in the destination system.<sup>2</sup></li>
