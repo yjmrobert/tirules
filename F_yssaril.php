@@ -42,6 +42,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the Yssaril player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup></li>
+    <li>If the <a href="/F_argent">Argent</a> player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology, the <i>Y&rsquo;sia Y&rsquo;ssrila</i> cannot move through systems that contain the Argent player&rsquo;s structures.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Ssruu">Ssruu</a> <sub>(Agent)</sub></h2>

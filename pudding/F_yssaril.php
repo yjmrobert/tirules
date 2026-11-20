@@ -91,6 +91,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>If the <a href="/F_argent">Argent</a> player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology, the <i>Y&rsquo;sia Y&rsquo;ssrila</i> cannot move through systems that contain the Argent player&rsquo;s structures.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Argent&rsquo;s Aerie Hololattice stop ships with Light/Wave Deflector moving through?&rdquo;: &ldquo;Yes &mdash; it says other players can&rsquo;t move through systems with Argent structures, and &lsquo;cannot&rsquo; is absolute; Light/Wave Deflector only covers systems with enemy ships.&rdquo; The same applies to the Y&rsquo;sia Y&rsquo;ssrila, which also only ignores systems with other players&rsquo; ships.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Ssruu">Ssruu</a> <sub>(Agent)</sub></h2>

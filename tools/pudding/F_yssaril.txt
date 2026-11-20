@@ -31,7 +31,7 @@ N No source found.
 @14
 N No source found.
 @15
-N No source found.
+I2 RulesPal, "Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?": "Yes — it says other players can't move through systems with Argent structures, and 'cannot' is absolute; Light/Wave Deflector only covers systems with enemy ships." The same applies to the Y'sia Y'ssrila, which also only ignores systems with other players' ships.
 @16
 N No source found.
 @17
@@ -45,12 +45,14 @@ N No source found.
 @21
 N No source found.
 @22
-E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
-@23
 N No source found.
+@23
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
 @24
 N No source found.
 @25
 N No source found.
 @26
+N No source found.
+@27
 E6 Community consensus: "What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability."
