@@ -320,6 +320,7 @@ li.ixth:before
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution">Public Execution</a></h2>
     <ol class="note">
     <li>The <a href="/F_yssaril">Yssaril</a> player&rsquo;s Crafty faction ability does not prevent them from discarding their action cards if they are elected by Public Execution, as the discard is not caused by the hand limit.<sup>2</sup></li>
+    <li>If <i>Public Execution</i> is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> <i>Executive Order</i> technology, the elected player may still vote in the following agenda phase.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>

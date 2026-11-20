@@ -736,6 +736,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution &hellip;, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;The discard comes from being elected, not from the hand limit, so Yssaril must discard too.&rdquo;</li>
         </ul></li>
+    <li>If <i>Public Execution</i> is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> <i>Executive Order</i> technology, the elected player may still vote in the following agenda phase.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?&rdquo;: &ldquo;A player elected for Public Execution can still vote in the next agenda phase.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution stop the elected player voting in the next agenda phase &hellip;?&rdquo;: &ldquo;The voting ban only covers that agenda phase.&rdquo; Neither names Executive Order; it also resolves an agenda outside the agenda phase.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>
