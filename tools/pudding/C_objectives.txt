@@ -314,78 +314,80 @@ N No source found.
 @135
 E6 Community consensus: "Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass."
 @136
-E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
+I6 Community consensus: "Q: Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero." The Ral Nel player, having unpassed, then passes later in the round.
 @137
-N No source found.
+E2 RulesPal, "Who counts as my neighbor?": "Players with a unit or controlled planet in the same system or adjacent systems, wormholes included."
 @138
+N No source found.
+@139
 E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the same type … A: No. Only one upgrade of a given type counts toward those objectives."
 I2 RulesPal: "when a copied faction upgrade covers a generic one, like Dreadnought II, only one of them counts."
 I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, what is intended." Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.
-@139
+@140
 E4 Designer ruling: "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player's Home Systems."
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "Rule Distant Lands needs planets near two different players' home systems."
-@140
-N No source found.
 @141
-E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
+N No source found.
 @142
-E2 RulesPal, "Can I score an objective for beating 'the player with the most victory points' … if I'm the leader?": "If you lead alone, nobody else qualifies."
+E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
 @143
-E2 Same entry: "when players are tied for most points, each of them counts as having the most."
+E2 RulesPal, "Can I score an objective for beating 'the player with the most victory points' … if I'm the leader?": "If you lead alone, nobody else qualifies."
 @144
-I2 Same entry: "when players are tied for most points, each of them counts as having the most." A 0–0 tie is a tie for most.
+E2 Same entry: "when players are tied for most points, each of them counts as having the most."
 @145
-E2 RulesPal, "If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?": "Yes, both."
+I2 Same entry: "when players are tied for most points, each of them counts as having the most." A 0–0 tie is a tie for most.
 @146
+E2 RulesPal, "If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?": "Yes, both."
+@147
 E6 Community consensus: "Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence."
 I2 RulesPal, "How does coexistence work?" (general rules; does not mention Stake Your Claim).
-@147
-N No source found.
 @148
-E4 Designer ruling: "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
+N No source found.
 @149
-E4 Designer ruling: "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
+E4 Designer ruling: "only promissory notes that specifically instruct that player to place them in their play area count for these objectives."
 @150
-E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+E4 Designer ruling: "Yes, when Terraform is attached to a planet it counts as being in that planet owner's play area."
 @151
+E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
+@152
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
-@152
+@153
 E2 RulesPal: "Trade goods can stand in for resources or influence there, though a 'spend trade goods' objective needs actual trade goods."
 I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "In place of spending one influence."
-@153
-N No source found.
 @154
 N No source found.
 @155
 N No source found.
 @156
-E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Turn Their Fleets to Dust".
+N No source found.
 @157
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Turn Their Fleets to Dust".
+@158
 E1 LRR FAQ: "Can the 'Turn Their Fleets to Dust' objective be fulfilled by using a 'Direct Hit' action card …? A: No."
 E2 RulesPal: "Direct Hit's own text destroys the ship, not the Space Cannon."
 E5 Designer ruling: "Would using a Direct Hit to finish off a Dreadnaught after a PDS hit qualify for 'Turn Their Fleets to Dust'? Dane's Answer: It would not."
-@158
+@159
 E1 LRR FAQ: "or by destroying a unit with capacity and allowing transported fighters to be removed as a result? A: No. In both situations, the 'Space Cannon' ability did not destroy the last ship in the system."
 E2 RulesPal: "fighters lost to the capacity rule weren't destroyed by Space Cannon."
 I5 Designer ruling (Milty, 08/02/2018): "You can’t claim “Turn Their Fleets to Dust” in this manner." Fighters immediately destroyed for lack of capacity after PDS hits do not qualify.
-@159
-E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @160
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @161
-N No source found.
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @162
 N No source found.
 @163
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
-@164
 N No source found.
+@164
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @165
 N No source found.
 @166
 N No source found.
 @167
+N No source found.
+@168
 E4 Designer ruling: "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
 E2 RulesPal: "Unveil Flagship needs your flagship to survive the combat."

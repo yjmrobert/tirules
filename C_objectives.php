@@ -413,6 +413,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance">Prove Endurance</a></h2>
     <ol class="note">
     <li><i>Prove Endurance</i> is scored when the player passes during the action phase.<sup>6</sup></li>
+    <li>If a player unpasses, such as with the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s hero, Director Nel, multiple players may be eligible to score <i>Prove Endurance</i> during the same round.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries">Push Boundaries</a></h2>

@@ -866,6 +866,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass.&rdquo;</li>
         </ul></li>
+    <li>If a player unpasses, such as with the <a href="/F_ral_nel">Ral Nel</a> player&rsquo;s hero, Director Nel, multiple players may be eligible to score <i>Prove Endurance</i> during the same round.<sup>6</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero.&rdquo; The Ral Nel player, having unpassed, then passes later in the round.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries">Push Boundaries</a></h2>
