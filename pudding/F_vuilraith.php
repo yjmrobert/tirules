@@ -70,9 +70,9 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can a ship benefit from the Vuil&rsquo;raith Cabal promissory note, The Crucible &hellip;? A: Yes &hellip; the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work &hellip;?&rdquo;: &ldquo;A ship whose path moves out of or through a rift gets +1 move for that path, one per rift.&rdquo;</li>
         </ul></li>
-    <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.<sup>*</sup>
+    <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Crucible note&rsquo;s +1 and a gravity rift&rsquo;s +1 stack, and can I use several end-of-turn abilities?&rdquo;: &ldquo;Yes to both: movement bonuses stack&rdquo;</li>
         </ul></li>
     <ol>
         <li>A ship that moves through or out of no gravity rifts will apply +0 to its move value.<sup>*</sup>

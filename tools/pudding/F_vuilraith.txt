@@ -26,7 +26,7 @@ E2 RulesPal, "With Riftmeld, must the captured unit belong to a player who has t
 E4 Designer ruling: "Can a ship benefit from the Vuil'raith Cabal promissory note, The Crucible …? A: Yes … the bonus would apply to all ships that can make it to the active system, including the bonuses from the promissory and the rift they are passing through."
 I2 RulesPal, "How do gravity rifts work …?": "A ship whose path moves out of or through a rift gets +1 move for that path, one per rift."
 @13
-N No source found.
+E2 RulesPal, "Do the Crucible note's +1 and a gravity rift's +1 stack, and can I use several end-of-turn abilities?": "Yes to both: movement bonuses stack"
 @14
 N No source found.
 @15

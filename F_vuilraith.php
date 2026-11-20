@@ -28,7 +28,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible">Crucible</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.<sup>2,4</sup></li>
-    <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.<sup>*</sup></li>
+    <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.<sup>2</sup></li>
     <ol>
         <li>A ship that moves through or out of no gravity rifts will apply +0 to its move value.<sup>*</sup></li>
         <li>A ship that moves through or out of two gravity rifts will apply +3 to its move value.<sup>*</sup></li>
