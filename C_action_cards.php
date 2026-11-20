@@ -522,7 +522,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding">Reflective Shielding</a></h2>
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>4</sup></li>
-    <ol><li>A unit that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and been repaired, cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>.<sup>*</sup></li></ol>
+    <ol><li>A unit that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and has been repaired, cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>. This most often occurs when the unit is repaired by the <a href="/F_empyrean">Empyrean</a> flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo"><i>Dynamo</i></a>.<sup>*</sup></li></ol>
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup></li>
     </ol>
 
