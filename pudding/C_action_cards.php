@@ -1082,10 +1082,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace">Public Disgrace</a></h2>
     <ol class="note">
-    <li>If the originally chosen strategy card has trade goods on it, those will not be taken if <i>Public Disgrace</i> is played.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Public Disgrace makes a player give back a strategy card, who gets its trade goods?&rdquo;: &ldquo;Whoever ends up choosing that card. Trade goods are collected once the choice sticks, so they stay on the returned card for the next chooser.&rdquo;</li>
-        </ul></li>
     <li>The player who must choose a different strategy card does not gain any trade goods that are on the strategy card they originally chose. Trade goods on a strategy card are gained by the player who ends up with that strategy card.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Public Disgrace is intended to replace that effect and force them to choose a different card instead. The trade good should go to the person who actually ends up with the card.&rdquo;</li>

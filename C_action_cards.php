@@ -479,7 +479,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace">Public Disgrace</a></h2>
     <ol class="note">
-    <li>If the originally chosen strategy card has trade goods on it, those will not be taken if <i>Public Disgrace</i> is played.<sup>2</sup></li>
     <li>The player who must choose a different strategy card does not gain any trade goods that are on the strategy card they originally chose. Trade goods on a strategy card are gained by the player who ends up with that strategy card.<sup>2,5</sup></li>
     <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> agenda.<sup>2</sup></li>
     </ol>
