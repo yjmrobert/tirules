@@ -32,8 +32,10 @@
     <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Support For The Throne</i> to be returned.<sup>2</sup></li>
     <li>If two players trade their <i>Support For The Throne</i> to one another simultaneously, the active player will be the first to gain a victory point.<sup>2</sup></li>
     <ol><li>During the agenda phase, the first player in speaker order will be the first to gain a victory point.<sup>2</sup></li></ol>
-    <li>A player may give their <i>Support for the Throne</i> to another player even if doing so gives that player the victory point they need to win the game. The player who gave it may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup></li>
+    <li>A player who has given away their <i>Support For The Throne</i> may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup></li>
     <li>Activating a system that contains only another player&rsquo;s control tokens does not cause their <i>Support For The Throne</i> to be returned, as control tokens are not units.<sup>2</sup></li>
+    <li>A player may give their <i>Support For The Throne</i> to another player even if doing so gives that player the victory point they need to win the game.<sup>2</sup></li>
+    <ol><li class="ixth">Doing so is considered a dick move.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>

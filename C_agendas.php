@@ -180,16 +180,6 @@
     <ol class="note">
     </ol>
 
-<style>
-li.ixth
-{
-    font-family: lazax;
-}
-li.ixth:before
-{
-    font-family: helv, Arial, sans-serif;
-}
-</style>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact">Ixthian Artifact</a></h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>

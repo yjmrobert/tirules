@@ -37,13 +37,17 @@ E2 RulesPal, "If two players swap Support for the Throne and both would hit 10, 
 @15
 I2 RulesPal, "If two players could both reach 10 points in the same status phase, who wins?": "The speaker-order tiebreak only covers truly simultaneous gains."
 @16
-E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Yes to both. … The giver can attack freely."
+E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Only the holder risks losing it, by activating a system with the giver's units, any system, even by mistake. The giver can attack freely."
 @17
 E2 RulesPal: "not control tokens, so activating a system where they only have control tokens is fine."
 @18
+E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Yes to both. Trading it is a normal transaction, and a ban is a house rule."
+@19
+N No source found. Owner's comment on table etiquette.
+@20
 E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 I1 LRR 21.2: "The commodity value on a player's faction sheet indicates the maximum number of commodities that player can have."
-@19
+@21
 N No source found.
-@20
+@22
 E3 Learn to Play, Trade Agreement card: "When the blue player replenishes commodities: The blue player gives you all of his commodities."

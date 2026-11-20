@@ -87,14 +87,22 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players could both reach 10 points in the same status phase, who wins?&rdquo;: &ldquo;The speaker-order tiebreak only covers truly simultaneous gains.&rdquo;</li>
         </ul></li></ol>
-    <li>A player may give their <i>Support for the Throne</i> to another player even if doing so gives that player the victory point they need to win the game. The player who gave it may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup>
+    <li>A player who has given away their <i>Support For The Throne</i> may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Yes to both. &hellip; The giver can attack freely.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Only the holder risks losing it, by activating a system with the giver&rsquo;s units, any system, even by mistake. The giver can attack freely.&rdquo;</li>
         </ul></li>
     <li>Activating a system that contains only another player&rsquo;s control tokens does not cause their <i>Support For The Throne</i> to be returned, as control tokens are not units.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;not control tokens, so activating a system where they only have control tokens is fine.&rdquo;</li>
         </ul></li>
+    <li>A player may give their <i>Support For The Throne</i> to another player even if doing so gives that player the victory point they need to win the game.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Yes to both. Trading it is a normal transaction, and a ban is a house rule.&rdquo;</li>
+        </ul></li>
+    <ol><li class="ixth">Doing so is considered a dick move.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Owner&rsquo;s comment on table etiquette.</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>

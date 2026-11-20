@@ -319,3 +319,12 @@ body
         padding: 2em;
     }
 }
+
+li.ixth
+{
+    font-family: lazax;
+}
+li.ixth:before
+{
+    font-family: helv, Arial, sans-serif;
+}
