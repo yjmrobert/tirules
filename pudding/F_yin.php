@@ -262,6 +262,11 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Naalu Collective commander, M&rsquo;aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Yin and Naalu commanders&rsquo; extra infantry and fighters work?&rdquo;: &ldquo;you may produce one extra for its cost, outside your Production limit.&rdquo;</li>
         </ul></li>
+    <ol><li>As such, each time the Yin player spends one resource on infantry, they may produce one, two or three infantry.<sup>2,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Yin and Naalu commanders&rsquo; extra infantry and fighters work?&rdquo;: &ldquo;you may produce one extra for its cost, outside your Production limit, so 1 resource buys 3 infantry (Yin) or 3 fighters (Naalu), and it works even when producing just one.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do.&rdquo;</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;</a> <sub>(Commander)</sub></h2>
