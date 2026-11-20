@@ -269,7 +269,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;(&Omega;)</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The faction abilities to unlock Brother Omar are <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion"><sc>Devotion</sc></a>.<sup>*</sup>
         <ul>
@@ -293,7 +293,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;(&Omega;)</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;(&Omega;)</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.<sup>2,12</sup>
         <ul>

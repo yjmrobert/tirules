@@ -104,7 +104,7 @@
     <ol><li>As such, each time the Yin player spends one resource on infantry, they may produce one, two or three infantry.<sup>2,4</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;(&Omega;)</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The faction abilities to unlock Brother Omar are <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion"><sc>Devotion</sc></a>.<sup>*</sup></li>
     <li>If another player owns a faction specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using Brother Omar.<sup>*</sup></li>
@@ -116,7 +116,7 @@
     <li>The Yin player may ready a planet they control containing zero infantry.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;(&Omega;)</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;(&Omega;)</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.<sup>2,12</sup></li>
     <li>The Yin player may commit infantry to Mallice even if the wormhole nexus has not been flipped to its active side. Doing so will cause the wormhole nexus to flip.<sup>*</sup></li>
