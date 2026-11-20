@@ -20,6 +20,7 @@ E2 RulesPal, "How does the L1Z1X Harrow ability work?": "It still resolves after
 E5 Designer ruling: "The combat ending doesn't nullify the end of a round of combat trigger. Harrow, in this case, would still resolve."
 @7
 E2 RulesPal, "How does the L1Z1X Harrow ability work?": "Every ship with Bombardment there can join in, not just those that bombarded that planet."
+E5 Designer ruling (Dane, Feb 16, 2018), "…can they use EVERY ship in the system, or only those that originally bombarded the planet before the combat?": "Each ship in the system can be part of Harrow."
 E1 LRR errata: "The text of the L1Z1X's 'Harrow' faction ability should read as follows: 'At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent's ground forces on the planet.'"
 @8
 E2 RulesPal, "Can L1Z1X mechs bombard through Harrow?": "Only when not in that ground combat: a mech fighting on a planet can't bombard it, but one on another planet in the system can."

@@ -43,9 +43,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;It still resolves after the round in which L1Z1X lose their last ground force; if it then kills the last defender, the combat is a draw.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The combat ending doesn&rsquo;t nullify the end of a round of combat trigger. Harrow, in this case, would still resolve.&rdquo;</li>
         </ul></li>
-    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2</sup>
+    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;Every ship with Bombardment there can join in, not just those that bombarded that planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, Feb 16, 2018), &ldquo;&hellip;can they use EVERY ship in the system, or only those that originally bombarded the planet before the combat?&rdquo;: &ldquo;Each ship in the system can be part of Harrow.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the L1Z1X&rsquo;s &lsquo;Harrow&rsquo; faction ability should read as follows: &lsquo;At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent&rsquo;s ground forces on the planet.&rsquo;&rdquo;</li>
         </ul></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup>
