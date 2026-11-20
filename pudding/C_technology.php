@@ -532,6 +532,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;It isn&rsquo;t a Production ability, so Sarween Tools &hellip; don&rsquo;t apply.&rdquo;</li>
         </ul></li>
+    <li>Effects that let a player produce a unit for less than its cost, such as the <a href="/F_nomad">Nomad</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a>, do not change that unit&rsquo;s cost.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Matches the Navarch Feng note on F_nomad (&ldquo;The flagship still has a cost of 8.&rdquo;), also unsourced.</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

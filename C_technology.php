@@ -217,6 +217,7 @@
     <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.<sup>2</sup></li>
     <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.<sup>2,5</sup></li>
     <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
+    <li>Effects that let a player produce a unit for less than its cost, such as the <a href="/F_nomad">Nomad</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a>, do not change that unit&rsquo;s cost.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

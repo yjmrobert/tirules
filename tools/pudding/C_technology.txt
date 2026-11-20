@@ -217,3 +217,5 @@ E5 FFG ruling (eumaies, Feb 21, 2018): "You can build ships normally, but if ene
 @95
 E2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."
+@96
+N No source found. Matches the Navarch Feng note on F_nomad ("The flagship still has a cost of 8."), also unsourced.
