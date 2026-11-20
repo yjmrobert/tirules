@@ -13,7 +13,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret">Archived Secret</a></h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately.<sup>*</sup></li>
+    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Armed%20Forces%20Standardization">Armed Forces Standardization</a></h2>
@@ -390,7 +390,7 @@ li.ixth:before
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup></li>
     <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is revealed before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.<sup>*</sup></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately.<sup>*</sup></li>
+    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>

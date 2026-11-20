@@ -13,7 +13,7 @@ N No source found.
 E4 Designer ruling, on Impersonation at the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
 @6
-N No source found.
+N No source found. Source 4 gives only the general timing: "Secrets are scored “after”, so … “Legal Text” ACs would be played before Drive the Debate can be scored." The player is elected before the agenda resolves, so they did not hold the card in that window.
 @7
 E2 RulesPal, "How does Armed Forces Standardization affect Mahact holding other players' fleet tokens?": "Mahact chooses which tokens to remove, and other players' tokens removed go back to their owners' reinforcements."
 @8
@@ -353,7 +353,7 @@ I1 LRR 45.4: "If a player has more than three secret objective cards after drawi
 @160
 N No source found.
 @161
-N No source found.
+N No source found. Source 4 gives only the general timing: "Secrets are scored “after”, so … “Legal Text” ACs would be played before Drive the Debate can be scored." The player is elected before the agenda resolves, so they did not hold the card in that window.
 @162
 I2 RulesPal, "When several players are tied for the most or fewest victory points …?": "All of them — every tied player counts." Order is not addressed.
 @163

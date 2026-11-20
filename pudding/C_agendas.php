@@ -35,9 +35,9 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on Impersonation at the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 45.4: &ldquo;If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it.&rdquo;</li>
         </ul></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately.<sup>*</sup>
+    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Source 4 gives only the general timing: &ldquo;Secrets are scored &ldquo;after&rdquo;, so &hellip; &ldquo;Legal Text&rdquo; ACs would be played before Drive the Debate can be scored.&rdquo; The player is elected before the agenda resolves, so they did not hold the card in that window.</li>
         </ul></li>
     </ol>
 
@@ -897,9 +897,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately.<sup>*</sup>
+    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Source 4 gives only the general timing: &ldquo;Secrets are scored &ldquo;after&rdquo;, so &hellip; &ldquo;Legal Text&rdquo; ACs would be played before Drive the Debate can be scored.&rdquo; The player is elected before the agenda resolves, so they did not hold the card in that window.</li>
         </ul></li>
     </ol>
 

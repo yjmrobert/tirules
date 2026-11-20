@@ -131,7 +131,7 @@ E4 Designer ruling: "'Legal Text' ACs would be played before Drive the Debate ca
 @58
 N No source found.
 @59
-N No source found.
+N No source found. Source 4 gives only the general timing: "Secrets are scored “after”, so … “Legal Text” ACs would be played before Drive the Debate can be scored." The player is elected before the agenda resolves, so they did not hold the card in that window.
 @60
 E1 LRR 61.10: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."

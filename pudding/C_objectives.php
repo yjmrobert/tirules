@@ -363,9 +363,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player draws <i>Drive the Debate</i> while resolving the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret"><i>Archived Secret</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant"><i>Search Warrant</i></a> agendas, they cannot score it immediately.<sup>*</sup>
+    <li>If a player draws <i>Drive the Debate</i> while resolving the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret"><i>Archived Secret</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant"><i>Search Warrant</i></a> agendas, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Source 4 gives only the general timing: &ldquo;Secrets are scored &ldquo;after&rdquo;, so &hellip; &ldquo;Legal Text&rdquo; ACs would be played before Drive the Debate can be scored.&rdquo; The player is elected before the agenda resolves, so they did not hold the card in that window.</li>
         </ul></li>
     </ol>
 
