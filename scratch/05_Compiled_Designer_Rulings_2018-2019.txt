@@ -1268,11 +1268,11 @@ DANE
         Dane's answer(17/09/28):The effect is mandatory, once researched, though there is nothing stopping the Creuss from “moving” the token into the system that it is already in.
 
 
-sigmazero13, May 17, 2018
-https://boardgamegeek.com/article/29101132#29101132
-Yin's "Devotion" ability reads: "After each space battle round, you may destroy 1 of your cruisers or destroyers to produce 1 hit and assign it to 1 of your opponent's ships." Direct Hit reads: "After another player's ships uses SUSTAIN DAMAGE to cancel a hit produced by your units: Destroy that ship." The question is, what is meant by "produced by your units", and does the Devotion ability count as that? Obviously hits rolled in combat do. My thought is that Devotion does, too, because the destruction of the ship is what produces the hit, and thus the ship itself produces the hit (just like a ship rolling dice produces the hit = the ship producing the hit). Thanks!
-Dane wrote:
-You can use direct hit off of a Devotion use. Let me know if you have any other questions
+        sigmazero13, May 17, 2018
+        https://boardgamegeek.com/article/29101132#29101132
+        Yin's "Devotion" ability reads: "After each space battle round, you may destroy 1 of your cruisers or destroyers to produce 1 hit and assign it to 1 of your opponent's ships." Direct Hit reads: "After another player's ships uses SUSTAIN DAMAGE to cancel a hit produced by your units: Destroy that ship." The question is, what is meant by "produced by your units", and does the Devotion ability count as that? Obviously hits rolled in combat do. My thought is that Devotion does, too, because the destruction of the ship is what produces the hit, and thus the ship itself produces the hit (just like a ship rolling dice produces the hit = the ship producing the hit). Thanks!
+        Dane wrote:
+        You can use direct hit off of a Devotion use. Let me know if you have any other questions
 
 
         sigmazero13, May 23, 2018

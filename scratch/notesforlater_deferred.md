@@ -33,3 +33,20 @@ Deferred: owner request 2026-11-19 after f767658 (Research Agreement). Sweep not
 
 ## Dimensional Anchor: restore the excess-capacity removal note?
 Deferred: unanswered question, 2026-11-19, after b84f402. The old F_vuilraith Dimensional Anchor note ("The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.") was replaced by "Units can only be captured by the dice specifically allocated to them." Asked whether to re-add the capacity point as its own note, cited 1 (E1 LRR 16.3: "that player must remove the excess units"; 16.4: "Fighters and ground forces are not assigned to specific ships, except while they are being transported."). Owner didn't answer.
+
+## Brother Milor ΩΩ: where does the card text come from?
+Question: which product (Thunder's Edge, a Codex, or something else) is Brother Milor ΩΩ from, so it can be added as a source and the new ΩΩ section on F_yin.php cited instead of *?
+Context: the ΩΩ text is in no scratch/ source file, and the wiki fetch was refused (HTTP 402). The owner supplied the card text, which is quoted in the @41 proof in tools/pudding/F_yin.txt.
+Went unanswered: the owner gave the card text but not its source (2026-11-19).
+
+## War Funding (Ω): drop the generic once-per-turn transaction sub-notes too?
+Deferred: unanswered question, 2026-11-19, after cc7310d (Spy Net sub-note removed). F_letnev.php has the same sub-note under War Funding (line 20) and War Funding Ω (line 30): "The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive War Funding more than once per turn." Asked whether to remove those as well. Owner approved the Spy Net change without answering.
+
+## Direct Hit example: "During the Roll Dice step" outside combat
+Deferred: unanswered question, 2026-11-19, after 4833dc5. The Direct Hit example sub-note on C_action_cards.php (now "during the Space Cannon Offense step") still says "During the Roll Dice step, two hits are produced". Roll Dice is a combat step, and Space Cannon Offense has no step by that name. Asked whether to reword it, e.g. "Two hits are produced against that player." Owner approved the Defense→Offense fix without answering.
+
+## Technology strategy card note on C_agendas.php: cite 3 instead of *?
+Deferred: unanswered question, 2026-11-19, after 504d316. The note "If the Technology strategy card is elected, a player may exhaust a planet with a technology specialty … This planet will ready at the end of the agenda phase.<sup>*</sup>" could cite 3 (E3 Learn to Play: "3. READY PLANETS Each player readies all of their planet cards."), as the Ixthian Artifact and Wormhole Research notes now do. Owner approved those without answering.
+
+## C_events.php: "in the equidistant" wording
+Deferred: unanswered question, 2026-11-19, after de74eba (spell check). Two setup notes say "…place the Creuss Gate (tile 17) in the equidistant…" and "…place the Sorrow (tile 94) in the equidistant…". The Thunder's Edge rulebook only uses "equidistant" as an adjective. Suggested: "in an equidistant system position". Owner chose the spelling option without answering this.

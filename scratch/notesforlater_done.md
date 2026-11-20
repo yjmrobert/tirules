@@ -951,3 +951,208 @@ Explicit: 2 RulesPal, “Does a strategy card’s primary ability cost a command
 If the Winnu player chooses the Trade strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero’s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.*
 Unverified: No source found.
 these could be combined or reworded to be less redundant
+
+## Acquiescence Ω cannot be triggered by this ability
+Commit: def6373
+Acquiescence Ω cannot be triggered by this ability.* [as the winnu player is not performing a strategic action]
+Unverified: No source found.
+
+## The Reclaimer need only be on the planet
+Commit: 5ce8c22
+The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the Infiltrate action card, or some exploration cards.*
+infiltrate doesnt do this. use integrated economy instead
+
+## peace accords can be used against home system planets?
+Commit: 0c14883
+peace accords can be used against home system planets?
+
+## sigmazero13, Jun 19, 2018 (Quash on Miscount Disclosed)
+Commit: 2c6e585
+        sigmazero13, Jun 19, 2018
+        https://boardgamegeek.com/article/29345926#29345926
+        A couple follow-on questions about it:
+        - Can the NEW Agenda be "Quashed"? (I would say yes, because it's a different agenda)
+        - If players (for some reason) made transactions prior to the Quash, does the new agenda "reset" this? (I would say yes here, too, for the same reason. I should note that 83.6 was modified to say "each of the two agendas", though originally the word "two" wasn't there. Perhaps it should just say "each of the agendas"?)
+        And another semi-related question:
+        - If "Miscount Disclosed" causes a law to come up to be voted on again:
+* Can Xxcha "Quash" it (or someone "Veto") it?
+        * Does it refresh the "transaction allowance"?
+        (I would say yes to both; for simplicity, if nothing else, if they are treated as if you are resolving them afresh, then it all works, and treating it as "just revealed" makes sense, too.)
+        Dane: Yes, the other Agenda can be Quashed. I would also say that they could perform new transactions (I can’t really see how this could be abused—the intent of the limit was just to provide boundaries and keep negotiations from lasting an eternity. I’d like people to be able to form new bargains as new developments occur). Yes to both questions regarding Miscount disclosed, but the wording of the two cards don’t quite interact, it is something I’ll have to add to the FAQ.
+xxxcha can quash miscount disclosed subsequent law. lets add to quash notes
+
+## Unverified: 2 Partial conflict: the same RulesPal entry
+Commit: 022f220
+Unverified: 2 Partial conflict: the same RulesPal entry says the combined value applies “even when exhausted for Uprising.”
+remove this it was overwritten by something in source 4
+
+## lets say something about direct hit under devotion yin
+Commit: 359d92f
+lets say something about direct hit under devotion yin
+
+## When resolving Impulse Core, the Yin player’s opponent
+Commit: 37d7655
+When resolving Impulse Core, the Yin player’s opponent chooses which ship is assigned the hit.*
+Unverified: No source found.
+- the chosen ship must be in the active system
+
+## ensure pudding pages are not going to show up
+no change: already noindexed by prefix.php (99bd9f3), verified locally
+ensure pudding pages are not going to show up in google or other searches. AI looking at them is fine
+
+## If all ships in the system are destroyed by hits
+Commit: 2920796
+If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the Turn Their Fleets to Dust secret objective before the new fighters are placed.4
+Implicit: 4 “If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.”
+this is explicit
+
+## we need a brother milor omega omega section
+Commit: 75b1ae2
+we need a brother milor omega omega section. looks like most is the same as the omega version except
+1. omega omega can only be used during combat (whenever that may occur)
+4. is irrelevant
+5. is irrellevant
+
+## The Yin player may choose to produce one infantry
+Commit: 202ab66
+The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.2,4
+- ie the yin player may choose to produce 1, 2, or 3 infantry each time they produce infantry
+
+## brother omar should be Brother Omar Ω(Ω)
+Commit: 8f6f006
+brother omar should be Brother Omar Ω(Ω) since the text is the same in each case same with dannel of the tenth
+
+## If the Yin player does have ships with capacity
+Commit: 128b1b6
+If the Yin player does have ships with capacity in the planet’s system, then the infantry will be placed in the space area of the system. The Yin player might then need to remove infantry and/or fighters from the system to satisfy the capacity limit.*
+get rid of this its redundant
+
+## The active player may perform a transaction (Spy Net)
+Commit: cc7310d
+The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive Spy Net more than once per turn.3
+this doesnt need to be under spy net
+
+## put a note under ysia yssrila that argent
+Commit: 588f7f2
+put a note under ysia yssrila that argent can stop it from travelling with whatever it is that blocks movement past their structures
+
+## suffi an on the yssaril page says mentak
+Commit: a6207f9
+suffi an on the yssaril page says mentak but links to keleres
+
+## The speaker may play Distinguished Councilor after Bribery
+Commit: 598dafe
+The speaker may play Distinguished Councilor after another player plays Bribery.*
+Unverified: No source found. LRR FAQ says the reverse case: “an effect that casts ‘additional votes,’ such as the ‘Bribery’ action card” does not “create a timing window for playing the ‘Distinguished Councilor’ action card.”
+this one seems wrong. the source explicitly says otherwise. find another source or reverse the note
+
+## Q: Does an effect that casts additional votes (Bribery / DC follow-up)
+Commit: abab6b3
+      Q: Does an effect that casts “additional votes,” such as the 
+      “Bribery” action card, create a timing window for playing the 
+      “Distinguished Councilor” action card?
+      A: No. The “Distinguished Councilor” action card can only be 
+      played after you vote during the “V ote” step of resolving an agenda.
+      to me this sounds like what its saying is i cant play bribery and then distinguished counsilor immediately after since i just voted. if i wanted to play distinguised councilor i would have to do it immediately after my vote. 
+      the ruling above i think more applies to the speaker playing distinguished councilor during the same timing window as another player (or themselves) played bribery
+      similar note under distinguished councilor and under bribery
+
+## under construction rider 6
+Commit: 9c019b8
+under construction rider 6
+- all planets will ready at the end of the agenda phase
+
+## Deadly Plot is played after any effects
+Commit: 60d9feb
+Deadly Plot is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.* [such as confusing or confounding legal text]
+
+## this should say space cannon offense
+Commit: 4833dc5
+this should say space cannon offense
+For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the Space Cannon Defense step. During the Roll Dice step, two hits are produced against that player. They cancel one with the dreadnought’s Sustain Damage ability, but a Direct Hit is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.5
+
+## mention the nekro valefar assimilator under divert funding
+Commit: 06d614b (owner: ignore Valefar; note Propagation instead)
+mention the nekro valefar assimilator under divert funding
+
+## lets add that emergency repairs can be played
+Commit: 9d3b47c
+lets add that emergency repairs can be played at the end of the last round of space combat
+
+## If the Mecatol Rex planet card is returned
+Commit: 141c7c8
+If the Mecatol Rex planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.*
+Unverified: No source found.
+if this happens do we still do the agenda phase
+
+## Public Disgrace (duplicate trade-goods notes)
+Commit: 1959700
+Public Disgrace
+If the originally chosen strategy card has trade goods on it, those will not be taken if Public Disgrace is played.2
+Explicit: 2 RulesPal, “If Public Disgrace makes a player give back a strategy card, who gets its trade goods?”: “Whoever ends up choosing that card. Trade goods are collected once the choice sticks, so they stay on the returned card for the next chooser.”
+The player who must choose a different strategy card does not gain any trade goods that are on the strategy card they originally chose. Trade goods on a strategy card are gained by the player who ends up with that strategy card.2,5
+Explicit: 5 Designer ruling: “Public Disgrace is intended to replace that effect and force them to choose a different card instead. The trade good should go to the person who actually ends up with the card.”
+Explicit: 2 RulesPal: “Whoever ends up choosing that card.”
+these are the same. i like the second one better
+
+## f Reflective Shielding is played after a ship
+Commit: 424aa27
+f Reflective Shielding is played after a ship uses its Sustain Damage ability during an Assign Hits step, then the hits produced by Reflective Shielding are added to any other hits produced in the immediately proceeding Roll Dice step.4
+preceeding
+
+## A unit that used its Sustain Damage ability (Reflective Shielding)
+Commit: 2656189
+A unit that used its Sustain Damage ability to cancel some of those other hits, and been repaired, cannot use its Sustain Damage ability again to cancel the hits produced by Reflective Shielding.*
+most often in the case of the empyrean
+
+## If the destination system already contains (Skilled Retreat)
+Commit: 5a0a2e5
+If the destination system already contains a player’s command token, no command token is placed.2
+and
+A player may move their ships to a system that already contains one of their command tokens.2,5
+say the same thing
+
+## why does deploy seem to be the only ability
+no change: LRR 30.2/30.2a make Deploy a specific exception to 23.3a; already noted on R_deploy and R_component_limitations
+why does deploy seem to be the only ability that doesnt work if there are no matching units in the reinforcements. everything else can be removed and placed
+
+## anti-intellectual: this needs investigation
+Commit: 86f15a3
+anti-intellectual:
+this needs investigation
+The Nekro player’s Valefar Assimilator technologies count for the “Against” effect, whether their tokens are on another player’s faction technology or not.*
+Implicit: 2 RulesPal, “Do technologies the Nekro copy with Valefar Assimilator count for objectives?”: “a copied technology counts with its colour and type.”
+
+## If the For outcome is resolved, a player who has been given
+no change: "gives" pairs with "chooses"; owner kept as is
+If the “For” outcome is resolved, a player who has been given a strategy card still chooses a strategy card on their turn and give~s~ it to an eligible player.2
+
+## If there are no other secret objectives eligable
+Commit: 368123f
+If there are no other secret objectives eligable (eligible)
+
+## what happens if the owner of DMZ is eliminated?
+no change: answered (the owner cannot be eliminated while controlling the DMZ planet, LRR 33.1); owner chose not to add a note
+what happens if the owner of DMZ is eliminated?
+
+## ixthian artifact 1.2 mention it will ready
+Commit: 504d316
+ixthian artifact 1.2 mention it will ready at the end of the agenda phase
+same with wormhole research 2.1
+
+## lets mention under ixthian artifact that creuss
+Commit: 69b7e2b
+lets mention under ixthian artifact that creuss quantum entaglement does not provide adjaceny for it but their flagship, the hil colish would cause their home system to be affected
+
+## An ability that puts a space dock on the game board by replacing
+Commit: 8e782cb (also a933196, which fixes a proof misplaced in 2c6e585)
+An ability that puts a space dock on the game board by “replacing”, rather than “placing”, such as the Infiltrate action card, will trigger Minister of Industry.*
+Explicit: 4 “Any instance of ‘replace’ can be considered to say ‘remove and place’ if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry.”
+Implicit: 5 The overturned designer ruling: “’replacing’ does not trigger the L1Z1X Minister of Industry, only effects that say ‘place’ do.”
+this says overturned. prove it was overturned
+
+## If Classified Document Leaks is elected by Miscount Disclosed (spell check)
+Commit: de74eba (eligable fixed earlier in 368123f)
+If Classified Document Leaks is elected by Miscount Disclosed, and there are no other secret objectives eligable to be elected by the Miscount Disclosed revote, Classified Document Leaks will be discarded and replaced.*
+Unverified: No source found.
+eligible. maybe a site wide spell check
