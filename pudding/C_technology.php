@@ -113,15 +113,33 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator">Neural Motivator</a></h2>
     <ol class="note">
-    <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <a href="/R_politics"><i>Politics</i></a> action card, or any other effect outside of the status phase.<sup>1</sup>
+    <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply to other effects that draw action cards, including but not limited to:<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo;</li>
-        </ul></li>
-    <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply when a player draws action cards due to the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> law or similar effects.<sup>1,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
         </ul></li>
+    <ol>
+        <li>The <a href="/R_politics"><i>Politics</i></a> strategy card.<sup>1,5</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; Politics draws outside the status phase.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
+        </ul></li>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> law.<sup>1,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Neural Motivator&rsquo; technology give an additional action card for both the standard status phase draw as well as the &lsquo;Minister of Policy&rsquo; agenda? &hellip; A: No.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Mar 2019), on Neural Motivator and Minister of Policy: &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule. I can see the reasoning there, but no.&rdquo;</li>
+        </ul></li>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base"><i>Functioning Base</i></a> exploration card.<sup>1,5</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; Functioning Base draws outside the status phase.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
+        </ul></li>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>Prophet&rsquo;s Tears</i></a> relic.<sup>1,5</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; The Prophet&rsquo;s Tears draws when researching, outside the status phase.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
+        </ul></li>
+    </ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
