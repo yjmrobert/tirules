@@ -386,7 +386,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>
     <ol class="note">
-    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>*</sup></li>
+    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>2</sup></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a> (removed in Prophecy of Kings)</h2>
@@ -403,6 +403,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
     <ol class="note">
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>

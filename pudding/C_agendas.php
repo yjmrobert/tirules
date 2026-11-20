@@ -909,8 +909,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>
     <ol class="note">
-    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>*</sup>
+    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>2</sup>
         <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If players are tied for the most or fewest points when Seed of an Empire resolves, who scores?&rdquo;: &ldquo;Every tied player gains the point. Effects aimed at the player with the most or fewest points hit everyone tied; the speaker doesn&rsquo;t break this kind of tie.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players are tied for the most or fewest victory points &hellip;?&rdquo;: &ldquo;All of them &mdash; every tied player counts.&rdquo; Order is not addressed.</li>
         </ul></li>
     </ol>
@@ -943,6 +944,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
     <ol class="note">
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Under Shared Research&rsquo;s Against outcome, what if I have no command tokens in reinforcements?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Then you place nothing &mdash; the outcome places a token only if able, so you don&rsquo;t take one from your sheet.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>

@@ -357,6 +357,7 @@ N No source found.
 @162
 N No source found. Source 4 gives only the general timing: "Secrets are scored “after”, so … “Legal Text” ACs would be played before Drive the Debate can be scored." The player is elected before the agenda resolves, so they did not hold the card in that window.
 @163
+E2 RulesPal, "If players are tied for the most or fewest points when Seed of an Empire resolves, who scores?": "Every tied player gains the point. Effects aimed at the player with the most or fewest points hit everyone tied; the speaker doesn't break this kind of tie."
 I2 RulesPal, "When several players are tied for the most or fewest victory points …?": "All of them — every tied player counts." Order is not addressed.
 @164
 E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
@@ -369,30 +370,30 @@ E5 Designer ruling: "the former owner would keep the victory point in both cases
 @167
 E2 RulesPal, "Does Shard of the Throne change hands if both sides' ground forces are wiped out?": "No — if neither player has ground forces left, nobody won the combat, so the Shard stays put. It also never moves through combats that don't happen, such as landing unopposed or bombarding the last defenders."
 @168
-N No source found.
+N No numbered source. RulesPal, "Under Shared Research's Against outcome, what if I have no command tokens in reinforcements?" (graded Best reading, unconfirmed; not used): "Then you place nothing — the outcome places a token only if able, so you don't take one from your sheet."
 @169
-E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once."
+N No source found.
 @170
-N No source found.
+E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once."
 @171
-E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
-@172
 N No source found.
+@172
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
 @173
+N No source found.
+@174
 E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included." Every wormhole system includes gamma and epsilon.
 I5 Designer ruling: "The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction."
-@174
+@175
 E2 RulesPal: "ships in any wormhole system, gamma and delta included, qualify … only ships in alpha or beta systems are then destroyed."
 E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (not D) will be destroyed."
-@175
-I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
 @176
-E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
 @177
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+@178
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
 E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
-@178
-N No source found.
 @179
 N No source found.
 @180
@@ -402,4 +403,6 @@ N No source found.
 @182
 N No source found.
 @183
+N No source found.
+@184
 N No source found.
