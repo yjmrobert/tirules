@@ -24,6 +24,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Xxcha&rsquo;s Peace Accords take a planet another player controls if no units are on it?&rdquo;: &ldquo;Yes &mdash; the condition refers to units on the planet itself, so an enemy-controlled planet with no units on it qualifies.&rdquo;</li>
         </ul></li>
+    <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in another player&rsquo;s home system.<sup>3</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Peace Accords: &ldquo;you may gain control of 1 planet other than Mecatol Rex that does not contain any units and is in a system that is adjacent to a planet you control.&rdquo; Only Mecatol Rex is excluded, so home system planets qualify.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>

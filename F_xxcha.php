@@ -7,6 +7,7 @@
     <li>The Xxcha player cannot gain control of a space station with <sc>Peace Accords</sc>, as a space station is not a planet.<sup>2,6</sup></li>
     <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in a system that contains another player&rsquo;s ships.<sup>5</sup></li>
     <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet controlled by another player, if that planet contains no units.<sup>2</sup></li>
+    <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in another player&rsquo;s home system.<sup>3</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>
