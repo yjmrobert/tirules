@@ -462,6 +462,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague">Plague</a></h2>
     <ol class="note">
     <li>A planet with zero infantry on it may be targeted by <i>Plague</i>.<sup>2</sup></li>
+    <li><i>Plague</i> cannot target a planet that contains neutral infantry, as no player controls that planet.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
@@ -703,6 +704,7 @@
     <ol class="note">
     <li><i>Uprising</i> cannot be played if all planets owned by each other player is exhausted.<sup>2</sup></li>
     <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup></li>
+    <li><i>Uprising</i> cannot target a planet that contains neutral infantry, as no player controls that planet.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>

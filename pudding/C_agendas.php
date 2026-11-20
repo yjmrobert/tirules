@@ -151,6 +151,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Both agendas may target the same planet. However, in that situation, infantry cannot be placed on the elected planet, so it remains under the control of its original owner.&rdquo;</li>
         </ul></li>
+    <li>A planet that contains neutral infantry cannot be elected, as players must cast votes for a planet that is controlled by a player.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR, Agenda Phase, Voting: &ldquo;When electing a planet, a player must cast votes for a planet that is controlled by a player.&rdquo; No player controls a planet that contains neutral infantry.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation">Committee Formation</a></h2>
@@ -950,6 +954,10 @@
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once.&rdquo;</li>
+        </ul></li>
+    <li>Neutral infantry are unaffected by <i>Swords to Plowshares</i>, as there is no neutral player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 

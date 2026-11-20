@@ -189,22 +189,6 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>All neutral infantry have a combat value of 8.<sup>11</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;Use proxy components or figures for neutral infantry; they have a combat value of 8.&rdquo;</li>
-        </ul></li>
-    <li>Planets with neutral infantry cannot be targeted with action cards such as <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>Planets with neutral infantry cannot be elected by &ldquo;elect planet&rdquo; agendas, and are unaffected by agendas such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares"><i>Swords to Plowshares</i></a>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>Planets with neutral infantry cannot be used to score objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20their%20World"><i>Make an Example of their World</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim"><i>Stake Your Claim</i></a>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Monuments%20to%20the%20Ages">Monuments to the Ages</a></h2>

@@ -65,7 +65,8 @@ N No source found.
 @32
 N No source found.
 @33
-E11 Codex IV p. 15: "Use proxy components or figures for neutral infantry; they have a combat value of 8."
+E1 LRR 98.7: "If multiple players would simultaneously gain their 10th victory point, the player who is earliest in initiative order among those players is the winner."
+E4 Designer ruling, on the Xxcha hero giving two players the win: "Initiative order determines the winner."
 @34
 N No source found.
 @35
@@ -73,8 +74,7 @@ N No source found.
 @36
 N No source found.
 @37
-E1 LRR 98.7: "If multiple players would simultaneously gain their 10th victory point, the player who is earliest in initiative order among those players is the winner."
-E4 Designer ruling, on the Xxcha hero giving two players the win: "Initiative order determines the winner."
+N No source found.
 @38
 N No source found.
 @39
@@ -84,18 +84,10 @@ N No source found.
 @41
 N No source found.
 @42
-N No source found.
-@43
-N No source found.
-@44
-N No source found.
-@45
-N No source found.
-@46
 E2 RulesPal, "How does the Total War variant's commodity tally work?": "Whoever takes that home system takes the stored commodities too. Units captured without being destroyed, as by the Vuil'raith hero, add nothing."
-@47
+@43
 E2 RulesPal, "Do neutral fighters need capacity, and do neutral units count for Total War?": "They have no cost, so destroying them adds nothing for Total War."
-@48
+@44
 E7 Thunder's Edge Rulebook p. 16, Wild, Wild Galaxy: "if there are no planets in a player's home system, they still control every planet in their home system and can score public objectives."
-@49
+@45
 E7 Same passage: "If a player's home system is replaced by a supernova, it is still that player's home system."

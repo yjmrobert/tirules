@@ -62,6 +62,7 @@
     <ol class="note">
     <li>If the player that originally controlled the elected planet has the fewest victory points, they may choose themselves to place an infantry on that planet.<sup>*</sup></li>
     <li>If the elected planet has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached, no infantry will be placed on it. Control of the planet will remain with the original player.<sup>1</sup></li>
+    <li>A planet that contains neutral infantry cannot be elected, as players must cast votes for a planet that is controlled by a player.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation">Committee Formation</a></h2>
@@ -418,6 +419,7 @@ li.ixth:before
     <ol class="note">
     <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i>.<sup>*</sup></li>
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup></li>
+    <li>Neutral infantry are unaffected by <i>Swords to Plowshares</i>, as there is no neutral player.<sup>*</sup></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a> (removed in Prophecy of Kings)</h2>

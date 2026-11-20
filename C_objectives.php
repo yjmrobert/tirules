@@ -314,6 +314,7 @@
     <li class="removed">If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup></li>
     <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.<sup>*</sup></li>
+    <li>Destroying the last neutral infantry on a planet does not score <i>Make an Example of Their World &Omega;</i>; there is no neutral player, and the objective refers to a player, not their units.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
@@ -448,6 +449,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
     <ol class="note">
     <li>A player coexisting on a planet may score <i>Stake Your Claim</i> using that planet, even if it is the only planet in its system, as the planet is also controlled by another player.<sup>2,6</sup></li>
+    <li>A planet that contains neutral infantry is not controlled by another player, so it cannot be used to score <i>Stake Your Claim</i>.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Strengthen%20Bonds">Strengthen Bonds</a></h2>

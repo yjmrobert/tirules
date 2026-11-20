@@ -657,6 +657,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>Destroying the last neutral infantry on a planet does not score <i>Make an Example of Their World &Omega;</i>; there is no neutral player, and the objective refers to a player, not their units.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
@@ -917,6 +921,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo; (general rules; does not mention Stake Your Claim).</li>
+        </ul></li>
+    <li>A planet that contains neutral infantry is not controlled by another player, so it cannot be used to score <i>Stake Your Claim</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 

@@ -1046,6 +1046,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play an action card whose effect would amount to nothing, like Plague on a planet with no infantry?&rdquo;: &ldquo;Yes &mdash; doing the card&rsquo;s text with a result of zero still counts as resolving it &hellip; Players relaying an official reply confirmed Plague for zero.&rdquo;</li>
         </ul></li>
+    <li><i>Plague</i> cannot target a planet that contains neutral infantry, as no player controls that planet.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
@@ -1610,6 +1614,10 @@
     <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play a component action that I can&rsquo;t fully resolve?&rdquo;: &ldquo;You can&rsquo;t &hellip; use Uprising on an exhausted planet.&rdquo;</li>
+        </ul></li>
+    <li><i>Uprising</i> cannot target a planet that contains neutral infantry, as no player controls that planet.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
