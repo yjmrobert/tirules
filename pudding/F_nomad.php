@@ -67,7 +67,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
+    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

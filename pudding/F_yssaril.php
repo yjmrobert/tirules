@@ -111,7 +111,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Yssaril player duplicates the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a> agent, then the Yssaril player and the player targeted by the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability will draw action cards. The <a href="/F_mentak">Mentak</a> player will not.<sup>*</sup>
+    <li>If the Yssaril player duplicates the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> agent, then the Yssaril player and the player targeted by the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability will draw action cards. The <a href="/F_mentak">Mentak</a> player will not.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -155,7 +155,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>Deepgloom Executable</i> may allow the Yssaril player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Yssaril player may allow either of those players to use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, and then perform a transaction with that player.<sup>*</sup>
+    <ol><li><i>Deepgloom Executable</i> may allow the Yssaril player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Yssaril player may allow either of those players to use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, and then perform a transaction with that player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

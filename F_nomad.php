@@ -29,7 +29,7 @@
     <ol class="note">
     <li>The Nomad player may perform a transaction with another player without being neighbors with that player.<sup>*</sup></li>
     <li>The Nomad player may perform a transaction with another player even if neither player is the active player.<sup>*</sup></li>
-    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="/F_mentak">Mentak</a> player.<sup>*</sup></li></ol>
+    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="/F_mentak">Mentak</a> player.<sup>*</sup></li></ol>
     <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn.<sup>4</sup></li>
     </ol>
 
