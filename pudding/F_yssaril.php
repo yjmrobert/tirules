@@ -59,10 +59,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred&rdquo; in that window.</li>
         </ul></li>
-    <ol><li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>Spy Net</i> more than once per turn.<sup>3</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;The active player may negotiate only once with each of their neighbors per turn.&rdquo;</li>
-        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>
