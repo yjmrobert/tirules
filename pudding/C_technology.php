@@ -269,9 +269,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         </ul></li>
-    <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
+    <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional, and does it work with Experimental Battlestation?&rdquo;: &ldquo;It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional, and does it work with Experimental Battlestation?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it. It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation.&rdquo;</li>
         </ul></li>
     </ol>
 

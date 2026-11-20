@@ -109,7 +109,7 @@ E1 LRR FAQ: "If a player has multiple planets with PDS that are being invaded in
 @46
 E6 Community consensus: "BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 @47
-E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
+E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It is a 'may', so you can decline it. It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
 @48
 E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "you can exhaust AI Development Algorithm and still count it."
 @49

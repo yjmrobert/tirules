@@ -112,7 +112,7 @@
         <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
     </ol>
     <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup></li>
-    <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card rolls an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
+    <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm">AI Development Algorithm</a></h2>
