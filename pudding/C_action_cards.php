@@ -441,6 +441,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>A player may play <i>Emergency Repairs</i> at the end of the last round of a space combat to repair ships damaged during that combat.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li><i>Emergency Repairs</i> cannot prevent a ship from being destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, as <i>Emergency Repairs</i> is played at the end of the combat round.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Emergency Repairs save a ship from Direct Hit?&rdquo;: &ldquo;No &mdash; Direct Hit is played as Sustain Damage is used, while hits are being assigned; Emergency Repairs comes at the end of the round, too late.&rdquo;</li>

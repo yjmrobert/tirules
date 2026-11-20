@@ -189,6 +189,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs">Emergency Repairs</a></h2>
     <ol class="note">
     <li>A player may play <i>Emergency Repairs</i> at the start of the first round of combat to repair ships damaged in a previous combat, or during the <b>Space Cannon Offense</b> step of the current action.<sup>*</sup></li>
+    <li>A player may play <i>Emergency Repairs</i> at the end of the last round of a space combat to repair ships damaged during that combat.<sup>*</sup></li>
     <li><i>Emergency Repairs</i> cannot prevent a ship from being destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, as <i>Emergency Repairs</i> is played at the end of the combat round.<sup>2</sup></li>
     </ol>
 
