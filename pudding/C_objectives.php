@@ -647,9 +647,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Make an Example of Their World&rdquo;.</li>
         </ul></li>
-    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup>
+    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action, as the <b>Bombardment</b> step occurs outside of combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;only one per combat or step: one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;No &mdash; &hellip; bombarding away all defenders &hellip; involves no combat.&rdquo;</li>
         </ul></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.<sup>*</sup>
         <ul>
@@ -667,9 +668,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup>
+    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action, as the <b>Bombardment</b> step occurs outside of combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;only one per combat or step: one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;No &mdash; &hellip; bombarding away all defenders &hellip; involves no combat.&rdquo;</li>
         </ul></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.<sup>*</sup>
         <ul>

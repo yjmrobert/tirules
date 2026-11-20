@@ -310,7 +310,7 @@
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
-    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
+    <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action, as the <b>Bombardment</b> step occurs outside of combat.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.<sup>*</sup></li>
     <li>The <a href="/F_lizix">L1Z1X</a> player may score <i>Make an Example of Their World</i> by using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>2</sup></li>
     </ol>
@@ -318,7 +318,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
     <ol class="note">
     <li class="removed">If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup></li>
-    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
+    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action, as the <b>Bombardment</b> step occurs outside of combat.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.<sup>*</sup></li>
     <li>Destroying the last neutral infantry on a planet does not score <i>Make an Example of Their World &Omega;</i>; there is no neutral player, and the objective refers to a player, not their units.<sup>*</sup></li>
     </ol>

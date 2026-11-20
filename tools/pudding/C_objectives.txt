@@ -234,6 +234,7 @@ E2 RulesPal, "Do the Vuil'raith roll for ordinary gravity rifts?": "Those dock s
 E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Make an Example of Their World".
 @101
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — … bombarding away all defenders … involves no combat."
 @102
 N No source found.
 @103
@@ -242,6 +243,7 @@ E2 RulesPal, "Are there common clarifications for specific objectives …?": "de
 N No source found.
 @105
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — … bombarding away all defenders … involves no combat."
 @106
 N No source found.
 @107
