@@ -32,22 +32,24 @@ E4 Designer ruling: "Relics are purged, relic fragments discarded."
 @14
 N No source found.
 @15
-I1 LRR FAQ: "If the 'Hil Colish' moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …?" Assumes the Creuss player orders the flagship's move.
+N No source found. Closest: the site's movement rules ("all movement is simultaneous"). RulesPal, "When does the Ion Storm flip …?": "It flips whenever any player's ships move into or out of a system through it, so you can exit through it and later use the other side, even in one long move."
 @16
+I1 LRR FAQ: "If the 'Hil Colish' moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …?" Assumes the Creuss player orders the flagship's move.
+@17
 E4 Designer ruling: "When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path."
 E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips."
-@17
-N No source found.
 @18
-E6 Community consensus: "Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
+N No source found.
 @19
-E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+E6 Community consensus: "Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
 @20
+E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+@21
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@21
-E2 RulesPal, "When I find Mirage by exploring, do I control it and explore it too?": "Yes — take the planet card, place a control token, and explore it as a cultural planet, since you gained control of a planet nobody controlled."
 @22
-N No source found.
+E2 RulesPal, "When I find Mirage by exploring, do I control it and explore it too?": "Yes — take the planet card, place a control token, and explore it as a cultural planet, since you gained control of a planet nobody controlled."
 @23
+N No source found.
+@24
 E4 Designer ruling: "Relics are purged, relic fragments discarded."

@@ -140,10 +140,14 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="/F_creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships.<sup>*</sup>
+    <li>All ships move simultaneously, so a player cannot move some ships through one side of the Ion Storm token, flip it, and then move other ships through the other side.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Closest: the site&rsquo;s movement rules (&ldquo;all movement is simultaneous&rdquo;). RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;It flips whenever any player&rsquo;s ships move into or out of a system through it, so you can exit through it and later use the other side, even in one long move.&rdquo;</li>
+        </ul></li>
+    <ol><li>The <a href="/F_creuss">Creuss</a> player may do this by moving their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> flagship before or after their other ships; the token flips after the flagship moves.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Hil Colish&rsquo; moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole &hellip;?&rdquo; Assumes the Creuss player orders the flagship&rsquo;s move.</li>
-        </ul></li>
+        </ul></li></ol>
     <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When you move between systems that both contain a viable wormhole path, you can choose to use those wormholes, a different set of wormholes that are adjacent, or regular adjacency. The player moving the ships chooses the path.&rdquo;</li>
