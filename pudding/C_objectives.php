@@ -897,7 +897,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;when players are tied for most points, each of them counts as having the most.&rdquo; A 0&ndash;0 tie is a tie for most.</li>
         </ul></li></ol>
-    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score Spark a <a href="/F_rebellion">Rebellion</a> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup>
+    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?&rdquo;: &ldquo;Yes, both.&rdquo;</li>
         </ul></li>

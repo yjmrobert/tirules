@@ -440,7 +440,7 @@
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.<sup>2</sup></li>
     <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.<sup>2</sup></li>
     <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.<sup>2</sup></li></ol>
-    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score Spark a <a href="/F_rebellion">Rebellion</a> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup></li>
+    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
