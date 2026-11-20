@@ -179,7 +179,7 @@
         </ul></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -203,7 +203,7 @@
         </ul></li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
     <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World"><i>Make an Example of Their World</i></a> secret objective before the new infantry are placed.<sup>*</sup>
         <ul>

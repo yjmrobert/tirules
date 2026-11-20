@@ -71,7 +71,7 @@ N No source found.
 @31
 N No source found.
 @32
-I4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @33
 E4 Designer ruling: "Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase."
 @34
@@ -81,7 +81,7 @@ N No source found.
 @36
 N No source found.
 @37
-I4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
 @38
 N No source found.
 @39
