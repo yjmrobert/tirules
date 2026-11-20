@@ -1042,6 +1042,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust &Omega;</a></h2>
     <ol class="note">
+    <li>Any player may score <i>Turn Their Fleets to Dust &Omega;</i>, not just the active player.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. The card has no active-player restriction; during the Space Cannon Offense step every player with a unit in range may fire.</li>
+        </ul></li>
     <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

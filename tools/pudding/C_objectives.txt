@@ -380,17 +380,19 @@ E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be s
 @162
 E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @163
-N No source found.
+N No source found. The card has no active-player restriction; during the Space Cannon Offense step every player with a unit in range may fire.
 @164
 N No source found.
 @165
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
-@166
 N No source found.
+@166
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @167
 N No source found.
 @168
 N No source found.
 @169
+N No source found.
+@170
 E4 Designer ruling: "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
 E2 RulesPal: "Unveil Flagship needs your flagship to survive the combat."
