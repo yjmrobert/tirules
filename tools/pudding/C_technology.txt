@@ -212,10 +212,12 @@ E2 RulesPal, "What can Integrated Economy produce?": "up to the new planet's res
 @93
 E2 RulesPal, "What can Integrated Economy produce?": "Any units, ships or ground forces, up to the new planet's resource value in cost."
 @94
+E2 RulesPal, "Does exploring a new planet happen before Integrated Economy?": "Yes — exploring triggers when you take control, Integrated Economy after, so you explore first. Attachments can stack, so a planet may hold several."
+@95
 E2 RulesPal, "What can Integrated Economy produce?": "ships appear in that system, unless enemy ships are there."
 E5 FFG ruling (eumaies, Feb 21, 2018): "You can build ships normally, but if enemy ships are present, you cannot."
-@95
+@96
 E2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."
-@96
+@97
 N No source found. Matches the Navarch Feng note on F_nomad ("The flagship still has a cost of 8."), also unsourced.

@@ -522,6 +522,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;Any units, ships or ground forces, up to the new planet&rsquo;s resource value in cost.&rdquo;</li>
         </ul></li>
+    <li>A player explores a newly controlled planet before resolving <i>Integrated Economy</i>, so any attachment gained from that exploration affects the planet&rsquo;s resource value.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does exploring a new planet happen before Integrated Economy?&rdquo;: &ldquo;Yes &mdash; exploring triggers when you take control, Integrated Economy after, so you explore first. Attachments can stack, so a planet may hold several.&rdquo;</li>
+        </ul></li>
     <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;ships appear in that system, unless enemy ships are there.&rdquo;</li>
