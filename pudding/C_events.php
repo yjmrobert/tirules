@@ -125,6 +125,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
+    <ol><li>If the Rebellion is a minor faction, other players may move ships into the Rebellion home system, as the Rebellion&rsquo;s <sc>Sundered</sc> faction ability, which destroys those ships, is not in play.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Closest: Codex IV, Minor Factions: &ldquo;When a player controls each planet in a minor faction system, they take that faction&rsquo;s alliance card&rdquo; (only the alliance card is gained, not faction abilities); Thunder&rsquo;s Edge Rulebook, Minor Factions: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
+        </ul></li></ol>
     <li>During setup, if a player is dealt the <a href="/F_keleres">Keleres</a> reference card, then they select a home system at random from among the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Minor Factions setup: &ldquo;If Keleres is a minor faction, choose one of its three possible home systems at random.&rdquo;</li>
