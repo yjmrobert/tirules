@@ -597,7 +597,8 @@
     <ol>
         <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligable to be elected by the <i>Miscount Disclosed</i> revote, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> will be discarded and replaced.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 19, 2018): &ldquo;If &lsquo;Miscount Disclosed&rsquo; causes a law to come up to be voted on again: Can Xxcha &lsquo;Quash&rsquo; it (or someone &lsquo;Veto&rsquo;) it? &hellip; Dane: &hellip; Yes to both questions regarding Miscount disclosed&rdquo;</li>
         </ul></li>
         <li>When the elected law is treated as revealed, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup>
         <ul>

@@ -50,6 +50,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Xxcha Quash more than once, including the replacement agenda?&rdquo;: &ldquo;Yes &mdash; Quash can be used on any newly revealed agenda as long as Xxcha pays a strategy token each time.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Yes, the other Agenda can be Quashed.&rdquo;</li>
         </ul></li>
+    <li><sc>Quash</sc> may be used on a law elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> when that law is treated as revealed for the revote.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 19, 2018): &ldquo;If &lsquo;Miscount Disclosed&rsquo; causes a law to come up to be voted on again: Can Xxcha &lsquo;Quash&rsquo; it (or someone &lsquo;Veto&rsquo;) it? &hellip; Dane: &hellip; Yes to both questions regarding Miscount disclosed&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor">Political Favor</a> <sub>(Promissory Note)</sub></h2>

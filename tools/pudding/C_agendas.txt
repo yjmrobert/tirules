@@ -228,7 +228,8 @@ E2 RulesPal: "the law remains in play until the revote resolves, so Representati
 @105
 E2 RulesPal, "How does the revote from Miscount Disclosed work?": "First vote on Miscount Disclosed, with riders predicting only which law is chosen. Then vote on that law as if it had just been revealed."
 @106
-N No source found.
+E2 RulesPal, "How does the revote from Miscount Disclosed work?": "Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it."
+E5 Designer ruling (sigmazero13, Jun 19, 2018): "If 'Miscount Disclosed' causes a law to come up to be voted on again: Can Xxcha 'Quash' it (or someone 'Veto') it? … Dane: … Yes to both questions regarding Miscount disclosed"
 @107
 E2 RulesPal: "vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it."
 E5 Designer ruling: "Yes, the other Agenda can be Quashed."

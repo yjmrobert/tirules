@@ -16,6 +16,7 @@
     <li>If <sc>Quash</sc> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup></li>
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     <li><sc>Quash</sc> may be used on the replacement agenda.<sup>2,5</sup></li>
+    <li><sc>Quash</sc> may be used on a law elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> when that law is treated as revealed for the revote.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor">Political Favor</a> <sub>(Promissory Note)</sub></h2>
