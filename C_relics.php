@@ -70,6 +70,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds">Maw of Worlds</a></h2>
     <ol class="note">
     <li>The player does not have to meet the prerequisites of the technologies they acquire using <i>Maw of Worlds</i>.<sup>*</sup></li>
+    <li>The planets exhausted by <i>Maw of Worlds</i> will ready at the end of the agenda phase.<sup>3</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Armaments">Metali Void Armaments</a></h2>

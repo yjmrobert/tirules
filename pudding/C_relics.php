@@ -149,6 +149,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The planets exhausted by <i>Maw of Worlds</i> will ready at the end of the agenda phase.<sup>3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Armaments">Metali Void Armaments</a></h2>

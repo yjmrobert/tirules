@@ -51,7 +51,7 @@ N No source found.
 @24
 N No source found.
 @25
-N No source found.
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
 @26
 N No source found.
 @27
@@ -59,21 +59,21 @@ N No source found.
 @28
 N No source found.
 @29
-E6 Community consensus: "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this."
-@30
-I14 Codex II: "The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives."
-@31
-I11 Codex IV, Neuraloop: "you may purge one of your relics." Neuraloop is one of the player's relics.
-@32
 N No source found.
+@30
+E6 Community consensus: "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this."
+@31
+I14 Codex II: "The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives."
+@32
+I11 Codex IV, Neuraloop: "you may purge one of your relics." Neuraloop is one of the player's relics.
 @33
 N No source found.
 @34
 N No source found.
 @35
-E4 Designer ruling: "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
-@36
 N No source found.
+@36
+E4 Designer ruling: "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
 @37
 N No source found.
 @38
@@ -81,64 +81,66 @@ N No source found.
 @39
 N No source found.
 @40
-E1 LRR 61.7: "they can only score one objective during or after each combat."
-@41
-E11 Codex IV, Neuraloop: "that objective is a public objective, even if it is a secret objective."
-@42
 N No source found.
+@41
+E1 LRR 61.7: "they can only score one objective during or after each combat."
+@42
+E11 Codex IV, Neuraloop: "that objective is a public objective, even if it is a secret objective."
 @43
 N No source found.
 @44
 N No source found.
 @45
-E4 Designer ruling: "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
-@46
 N No source found.
+@46
+E4 Designer ruling: "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
 @47
 N No source found.
 @48
 N No source found.
 @49
-E2 RulesPal, "Can the Scepter of Emelpar help pay spend-token objectives?": "Yes — a token spent from reinforcements through the Scepter in place of a strategy token counts."
-@50
 N No source found.
+@50
+E2 RulesPal, "Can the Scepter of Emelpar help pay spend-token objectives?": "Yes — a token spent from reinforcements through the Scepter in place of a strategy token counts."
 @51
 N No source found.
 @52
+N No source found.
+@53
 E9 Designer Q&A, "Silver Flame": "Re: saar … I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]"
 E6 Community consensus, "Silver Flame: Is Saar affected by the 'can’t score publics' clause?": "No, Dane has indicated he will make an exception for Saar."
-@53
-E6 Community consensus: "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
 @54
-E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+E6 Community consensus: "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
 @55
+E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+@56
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
 I2 RulesPal, "Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?": "Most likely yes — the destroyed planet can't be controlled or invaded, so players treat the system as planetless." RulesPal hedges (no official ruling) but supports it.
-@56
-N No source found.
 @57
 N No source found.
 @58
-I6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
+N No source found.
 @59
-N No source found.
+I6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
 @60
-E6 Community consensus: "The Triad: Can The Triad be exhausted by Uprising? A: No"
+N No source found.
 @61
-N No source found.
+E6 Community consensus: "The Triad: Can The Triad be exhausted by Uprising? A: No"
 @62
-E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to The Triad? A: No"
-@63
-E6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
-@64
 N No source found.
+@63
+E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to The Triad? A: No"
+@64
+E6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
 @65
+N No source found.
+@66
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
 E6 Community consensus: "Q: Can you vote using The Triad relic? A: Yes."
-@66
-E6 Community consensus: "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
 @67
-E6 Community consensus: "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
+E6 Community consensus: "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
 @68
+E6 Community consensus: "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
+@69
 E6 Community consensus: "Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No"
