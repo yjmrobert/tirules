@@ -19,7 +19,7 @@ E1 LRR errata, Bribery: "cast 1 additional vote for the outcome on which you vot
 @7
 E2 RulesPal, "Who can play Bribery, and when?": "If an Argent speaker votes first with Zeal, Bribery comes right after that vote."
 @8
-N No source found. LRR FAQ says the reverse case: "an effect that casts 'additional votes,' such as the 'Bribery' action card" does not "create a timing window for playing the 'Distinguished Councilor' action card."
+I5 Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: "Once someone has played an ability, every other player will have exactly one chance to continue." Bribery ("After the speaker votes") and the speaker's Distinguished Councilor ("After you cast votes") share the window opened by the speaker's vote, so the speaker gets another chance after a Bribery. The LRR FAQ ("Bribery" does not "create a timing window for playing the 'Distinguished Councilor' action card") is about the Bribery player's own extra votes, not this case.
 @9
 N No source found.
 @10
@@ -147,7 +147,7 @@ E5 Designer ruling: "you are not allowed to cast zero votes. Consider zero votes
 @62
 E1 LRR FAQ: "Does an effect that casts 'additional votes,' such as the 'Bribery' action card, create a timing window for playing the 'Distinguished Councilor' action card? A: No."
 @63
-N No source found. LRR FAQ rules out the reverse (Bribery's additional votes do not open a Distinguished Councilor window).
+I5 Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: "Once someone has played an ability, every other player will have exactly one chance to continue." Bribery ("After the speaker votes") and the speaker's Distinguished Councilor ("After you cast votes") share the window opened by the speaker's vote, so the speaker gets another chance after a Bribery. The LRR FAQ ("Bribery" does not "create a timing window for playing the 'Distinguished Councilor' action card") is about the Bribery player's own extra votes, not this case.
 @64
 N No source found.
 @65

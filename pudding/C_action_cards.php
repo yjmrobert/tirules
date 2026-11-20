@@ -61,9 +61,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;If an Argent speaker votes first with Zeal, Bribery comes right after that vote.&rdquo;</li>
         </ul></li></ol>
-    <li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after another player plays <i>Bribery</i>.<sup>*</sup>
+    <li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after another player plays <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. LRR FAQ says the reverse case: &ldquo;an effect that casts &lsquo;additional votes,&rsquo; such as the &lsquo;Bribery&rsquo; action card&rdquo; does not &ldquo;create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: &ldquo;Once someone has played an ability, every other player will have exactly one chance to continue.&rdquo; Bribery (&ldquo;After the speaker votes&rdquo;) and the speaker&rsquo;s Distinguished Councilor (&ldquo;After you cast votes&rdquo;) share the window opened by the speaker&rsquo;s vote, so the speaker gets another chance after a Bribery. The LRR FAQ (&ldquo;Bribery&rdquo; does not &ldquo;create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card&rdquo;) is about the Bribery player&rsquo;s own extra votes, not this case.</li>
         </ul></li>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup>
         <ul>
@@ -377,9 +377,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does an effect that casts &lsquo;additional votes,&rsquo; such as the &lsquo;Bribery&rsquo; action card, create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card? A: No.&rdquo;</li>
         </ul></li>
-    <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>*</sup>
+    <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>, as both are played in the timing window after the speaker votes.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. LRR FAQ rules out the reverse (Bribery&rsquo;s additional votes do not open a Distinguished Councilor window).</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: &ldquo;Once someone has played an ability, every other player will have exactly one chance to continue.&rdquo; Bribery (&ldquo;After the speaker votes&rdquo;) and the speaker&rsquo;s Distinguished Councilor (&ldquo;After you cast votes&rdquo;) share the window opened by the speaker&rsquo;s vote, so the speaker gets another chance after a Bribery. The LRR FAQ (&ldquo;Bribery&rdquo; does not &ldquo;create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card&rdquo;) is about the Bribery player&rsquo;s own extra votes, not this case.</li>
         </ul></li>
     <li><i>Distinguished Councilor</i> is played before any effects that change the outcome of an agenda.<sup>*</sup>
         <ul>
