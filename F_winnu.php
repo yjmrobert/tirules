@@ -60,7 +60,7 @@
     <ol class="note">
     <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card.<sup>2</sup></li>
     <ol><li>If the Winnu player resolves the <a href="/R_trade"><i>Trade</i></a> strategy card, the players they choose with its primary ability must resolve the secondary ability without spending a command token. Other players chosen with <i>Imperial Seal</i> may choose whether to resolve the secondary ability, but must spend a command token to do so.<sup>1</sup></li></ol>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability.<sup>*</sup></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability, as using <i>Imperial Seal</i> is a component action, not a strategic action.<sup>2,10</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>

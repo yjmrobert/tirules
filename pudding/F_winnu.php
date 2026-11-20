@@ -124,9 +124,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 92 (Trade), Step 3: &ldquo;The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token.&rdquo; Players chosen only with Imperial Seal use the normal secondary rules.</li>
         </ul></li></ol>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability.<sup>*</sup>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence"><i>Acquiescence &Omega;</i></a> cannot be triggered by this ability, as using <i>Imperial Seal</i> is a component action, not a strategic action.<sup>2,10</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Coup d&rsquo;Etat stop a primary ability resolved through the Winnu hero or Overrule?&rdquo;: &ldquo;No &mdash; those are component actions that resolve a primary, not strategic actions, and Coup d&rsquo;Etat only cancels strategic actions.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I, Acquiescence: &ldquo;When the Winnu player resolves a strategic action: You do not have to spend or place a command token to resolve the secondary ability of that strategy card.&rdquo; It triggers only on a strategic action.</li>
         </ul></li>
     </ol>
 

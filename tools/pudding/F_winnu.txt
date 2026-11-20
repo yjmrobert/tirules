@@ -42,7 +42,8 @@ E2 RulesPal, "Does a strategy card's primary ability cost a command token, and d
 @18
 I1 LRR 92 (Trade), Step 3: "The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token." Players chosen only with Imperial Seal use the normal secondary rules.
 @19
-N No source found.
+I2 RulesPal, "Can Coup d'Etat stop a primary ability resolved through the Winnu hero or Overrule?": "No — those are component actions that resolve a primary, not strategic actions, and Coup d'Etat only cancels strategic actions."
+E10 Codex I, Acquiescence: "When the Winnu player resolves a strategic action: You do not have to spend or place a command token to resolve the secondary ability of that strategy card." It triggers only on a strategic action.
 @20
 E2 RulesPal, "If Winnu place a mech with Hope's End, can the Winnu mech ability then place a space dock?": "No — Hope's End resolves at the end of your turn, after the window where the mech's ability triggers."
 @21
