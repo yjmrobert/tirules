@@ -46,6 +46,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Jupiter%20Brain">Jupiter Brain</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a></h2>
     <ol class="note">
+    <li>The player who gains Thunder&rsquo;s Edge may use its ability immediately, as it is gained readied at the end of their turn.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Maxis%20Central%20Control">Maxis Central Control</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Faunus">Faunus</a></h2>

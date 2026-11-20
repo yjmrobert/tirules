@@ -77,6 +77,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Jupiter%20Brain">Jupiter Brain</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a></h2>
     <ol class="note">
+    <li>The player who gains Thunder&rsquo;s Edge may use its ability immediately, as it is gained readied at the end of their turn.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use Thunder&rsquo;s Edge&rsquo;s ability as soon as I gain it, and does it give a breakthrough?&rdquo;: &ldquo;Gained at the end of your turn, it arrives ready while you&rsquo;re still in that window, so you can use it at once.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Maxis%20Central%20Control">Maxis Central Control</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Faunus">Faunus</a></h2>
