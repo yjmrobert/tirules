@@ -406,9 +406,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a technology I just researched &hellip; count as a prerequisite?&rdquo;: &ldquo;the first technology from the Technology primary counts for the second.&rdquo;</li>
         </ul></li>
-        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.14: &ldquo;When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
         </ul></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>
@@ -931,9 +932,10 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.14: &ldquo;When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
         </ul></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>

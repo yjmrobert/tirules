@@ -189,7 +189,7 @@ li.ixth:before
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
         <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>2</sup></li>
-        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup></li>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
     <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup></li>
@@ -426,7 +426,7 @@ li.ixth:before
     <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>*</sup></li></ol>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
-        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal.<sup>1</sup></li>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
     <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.<sup>*</sup></li>

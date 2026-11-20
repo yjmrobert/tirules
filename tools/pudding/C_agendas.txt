@@ -154,6 +154,7 @@ E4 Designer ruling: "If an ability instructs you to 'research' a technology, you
 E2 RulesPal, "Does a technology I just researched … count as a prerequisite?": "the first technology from the Technology primary counts for the second."
 @71
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
 @72
 N No source found.
 @73
@@ -353,6 +354,7 @@ I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system 
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 @160
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
 @161
 N No source found.
 @162
