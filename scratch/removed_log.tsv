@@ -1,0 +1,10 @@
+page|first line	outcome	detail
+R_space_combat.php|- [Notes] If a player only has fighters I in the combat when they retreat, those will be removed fro	covered-ok	LRR retreat text on R_space_combat
+R_space_combat.php|- [Notes] A player is not required to use all of their available capacity to transport ground forces	covered-ok	'zero or more ground forces' retreat note
+R_space_combat.php|- [Notes] A player cannot retreat into a nebula. _(contradicted by FAQ Anomalies ('A Nebula will no 	keep-removed	contradicted; site now says ships can retreat into a nebula (ecc2201)
+R_space_combat.php|- [Notes] The Shared Research law will not allow a player to retreat into a nebula. _(no source; pre	keep-removed	moot; retreat into nebula allowed generally (ecc2201)
+R_space_combat.php|- [Notes] A player cannot leave fighters and ground forces in the space area behind in the active sy	keep-removed	contradicted by designer ruling (source 5)
+R_space_combat.php|- [Notes] A player may retreat into an asteroid field only if that player owns the Antimass Deflecto	covered-fixed	8ba58d5 (retreat sub-note on R_space_combat)
+R_space_combat.php|- [Notes] A player may retreat into a supernova only if that player owns the Magmus Reactor Muaat fa	covered-fixed	8ba58d5 (retreat sub-note on R_space_combat)
+R_space_combat.php|- [Notes] A player may attempt to retreat from a combat in a gravity rift, but will still be affecte	covered-fixed	8ba58d5 (retreat sub-note on R_space_combat)
+R_space_dock.php|- [Notes] If a player moves one of their units with capacity into a system, transporting fighters, t	restored	e49396d

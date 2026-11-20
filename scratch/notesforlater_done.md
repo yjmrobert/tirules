@@ -1,0 +1,953 @@
+## some rules have exceptions. in the rules reference
+Commit: 26ead52
+some rules have exceptions. in the rules reference part these should be ignored... for now but in notes they need to be accounted for
+ie A non–fighter ship cannot use its Sustain Damage ability to cancel a hit produced by an anti–fighter barrage roll.1 should account for waylay
+
+## Page titles are not formatted correctly. see: anti-fighter
+Commit: 64f7ec1
+Page titles are not formatted correctly. see: anti-fighter barrage
+
+## A single planet may have multiple attachments.2 Unverified
+Commit: 7bb1037
+A single planet may have multiple attachments.2
+Unverified: 2 The matched RulesPal entry (bombardment) does not address this.
+this is dumb stuff like this should meerly switch to an asterisk
+
+## related topics needs a review
+Commit: eec5462, e47e482, 100e6db, 83b8c2c, 1e766f6, e749d75  (rule: LRR 2.0 RELATED TOPICS lists + topics a note is actually about; existing extras kept)
+related topics needs a review
+
+
+## links to thinks like factions that have their own
+Commit: d5c2ad0, 5fb88bc  (faction names -> /F_x, rule topics -> /R_x, self-links unlinked; component links kept on wiki)
+links to thinks like factions that have their own dedicated page like mahact on the attacker page should link to their pages on this site. When the Mahact player resolves their Benediction hero ability, the player that had their ships moved will be the attacker.4
+
+## how do we check for updates from these
+Commit: c6e1032  (weekly GitHub Action + tools/check_sources.py; snapshots on source-snapshots branch; one-time diff vs scratch found 1 missing RulesPal entry, added to scratch)
+how do we check for updates from these sources. i dont want to have to do it manually. scheduled github actions? background php?
+
+## these seem like they can be consolidated:
+Commit: e010a81  (merged three capacity-timing notes into one with sub-points)
+these seem like they can be consolidated:
+If a player moves more fighters and/or ground forces into a system containing another player’s ships, capacity limits must be met before proceeding to the Space Cannon Offense substep or the Space Combat step.2
+Implicit: 2 RulesPal, “When is capacity checked if a carrier is lost?”: “Immediately whenever it isn’t combat, for example after each player’s Space Cannon Offense volley, before the next player fires.”
+If a ship with capacity is destroyed during the Space Cannon Offense step, capacity limits must be met before space combat starts.2,5
+Explicit: 2 RulesPal, “When is capacity checked if a carrier is lost?”: “Immediately whenever it isn’t combat, for example after each player’s Space Cannon Offense volley, before the next player fires.”
+Unverified: 5 The matched designer ruling does not address this.
+If multiple players use Space Cannon abilities during the Space Cannon Offense step, capacity limits must be met after each player’s hits are assigned, before the next player rolls.2
+Explicit: 2 RulesPal, “When is capacity checked if a carrier is lost?”: “Immediately whenever it isn’t combat, for example after each player’s Space Cannon Offense volley, before the next player fires.”
+
+## 3.2 through 3.6 should be subitems of 3.1
+Commit: e010a81  (example items nested under 3.1; stray notes un-nested)
+3.2 through 3.6 should be subitems of 3.1 on the r_capacity
+
+## somethings have more sources listed than they have
+Commit: 7c67c56  (62 notes audited: 61 proofs added, F_nekro Alastor note drops source 4)
+somethings have more sources listed than they have in proof A coexisting structure is always blockaded, regardless of what ships, if any, are in the system.2,6,7,9 find or add more proof or remove the citation. check everything
+
+## this needs more detail: A player is considered
+Commit: 6bd9f42  (objective notes merged as part of coexistence reorganization)
+this needs more detail: A player is considered to control a planet they are coexisting on when scoring an objective.2,6,7,9
+based on proof for each not expand information where its available and significantly changes the meaning. actually it looks like this one just needs to be combined with a note further down the page. lump this in to consolidation
+
+## unsurpisingly coexist page needs work. mostly consolidation
+Commit: 6bd9f42  (merged duplicates, fixed nesting, grouped by topic)
+unsurpisingly coexist page needs work. mostly consolidation and ordering
+
+## notes 2 and 3 on combat (attribute) should
+Commit: f6b0f0b  (copied to Space Combat and Ground Combat; kept on Combat too, per owner)
+notes 2 and 3 on combat (attribute) should only be in space combat and ground combat
+
+## why: (Not among the cited sources.)
+Commit: d18ec05  (remark = proof from an uncited source; cited it on R_commodities and 13 other notes with explicit uncited proofs; F_hacan @17 skipped, mislabeled E)
+why: (Not among the cited sources.)
+
+## this seems wrong A player may only resolve
+Commit: 891e0bc  (site note correct per LRR 30.2a; proof added, wording kept, RulesPal unconfirmed entry not used)
+this seems wrong
+A player may only resolve a deploy ability to place a unit that is in their reinforcements. A player cannot remove a unit from the board to use its deploy ability.1,8 maybe use the unconfirmed source from rulespal
+
+## this is silly Unverified: 2 The matched RulesPal
+Commit: 7da9f24  (quoted lines already removed earlier; last "matched ... does not address" filler on F_vuilraith @37 replaced)
+this is silly
+Unverified: 2 The matched RulesPal entry (Scanlink) does not address this.
+Unverified: 3 The matched Learn to Play passage (Production) does not address this.
+
+## ### Do units 'placed' by an effect cost
+Commit: ebfd545  (added place-is-free sub-note on R_cost and R_producing_units)
+ ### Do units 'placed' by an effect cost resources, and do they count as producing?
+
+## The following are examples of non–binding deals:5
+Commit: 53b2ace  (added four binding examples mirroring the non-binding ones)
+ The following are examples of non–binding deals:5
+ lets add some examples for binding deals
+
+## Resolving abilities will be by initiative order, starting
+Commit: 501ace8  (removed from R_defender; equivalent note already on F_mahact Benediction)
+ Resolving abilities will be by initiative order, starting with the Mahact player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.*
+Unverified: No source found.
+i want to move this to under mahact
+
+## lets add the bit about the token limits
+Commit: bd50785  (copied component-limits deploy note + proofs to R_deploy; added Related link)
+lets add the bit about the token limits to the deploy page
+
+## Wormhole tokens that would be placed in an
+Commit: ba56e55  (sub-notes: discarded = supply/reinforcements (*), Wormhole Generator, Hil Colish, gamma (moved), Ion Storm)
+Wormhole tokens that would be placed in an entropic scar are discarded instead.
+add a note here for the gamma wormhole and the creuss tokens. also indicate discarded means eturned to the supply or a player’s reinforcements as appropriate
+
+## some things seem to have become less specific
+Commit: cd9358f  (example already trimmed; site-wide judgment sweep: 13 proposed, owner kept 7 trims)
+some things seem to have become less specific. lets look at things like Planets will also ready at the end of each agenda phase. Leaders, relics and technologies will not. becoming Planets will also ready at the end of each agenda phase.
+
+## If a player already has their breakthrough when
+Commit: b7ca1ea  (dropped "other than for the sixth and final slice")
+If a player already has their breakthrough when they claim a slice, no additional effect will trigger, other than for the sixth and final slice.
+"other than for the sixth and final slice." is confusing. just leave it as no additional effect. then let the next note carry the rest
+
+## Thunder’s Edge may be placed in a system that
+Commit: 1dec709  (added "(and meets the other requirements)")
+Thunder’s Edge may be placed in a system that contains a planet destroyed by the Stellar Converter relic, provided that system contains no other planets (and meets the other requirements)
+
+## note ion storm in entropic scar wormhole removal
+Commit: no change: Ion Storm sub-note already added to R_entropic_scars in ba56e55
+note ion storm in entropic scar wormhole removal
+
+## "future rule changes" these seem like things BRR
+Commit: 8f8ba6c  (5 notes reworded to "intended"; 14 TE sub-items added inline to LRR text)
+"future rule changes" these seem like things BRR might have adressed There are 5 types of anomalies after TE
+Lets check to see if there are other rules that TE breaks in this way. consider wording changes in BRR's version of the LRR
+
+## A: Once all ships are in, fleet supply
+Commit: c820ea1  (old 2018 ordering superseded; added note: rift rolls during movement, fleet pool checked after arrival)
+A: Once all ships are in, fleet supply is in violation and must immediately be dealt with. Then, you roll for gravity rift.
+this seems to be an old ruling
+
+## Lost Star Chart vs. Enforced Travel Ban (C_action_cards
+Commit: no change: site follows the designer ruling; RulesPal contradicts itself (its Lost Star Chart entry agrees); N2 conflict lines kept
+Lost Star Chart vs. Enforced Travel Ban (C_action_cards 128, C_agendas 51): the designer ruling says Lost Star Chart overrides the ban; RulesPal says the ban cancels it for movement.
+
+## Classified Document Leaks discarded (C_agendas 19)
+Commit: eeb862d  (site follows LRR FAQ over RulesPal; added secret-total clause)
+Classified Document Leaks discarded (C_agendas 19): the LRR FAQ says the objective stays in play; RulesPal says it returns to its owner as a secret.
+
+## Prophet's Tears for the Nekro (F_nekro 25)
+Commit: no change: site follows designer-answered source 4 over RulesPal; N2 conflict kept
+Prophet's Tears for the Nekro (F_nekro 25): the Unofficially Official FAQ says yes; RulesPal says no.
+
+## Gravity rift bonus when crossing the same rift
+Commit: d3c445c  (note @5 + F_vuilraith @26 corrected per TE/RAW)
+Gravity rift bonus when crossing the same rift twice (R_gravity_rift 4, F_vuilraith 26): the notes say +1 each time; the RAW ruling says the bonus is once per ship per tactical action.
+
+## 41.3 A gravity rift can affect the same
+Commit: d3c445c  (first <del> strike-through; TE replacement cited 6,7)
+41.3 A gravity rift can affect the same ship multiple times during a single movement. this has changed. i want to make changes in line to the LRR sections but leave the old text as struck through with the new text cited
+
+## If a ship moves through or out of multiple
+Commit: d3c445c
+If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal. this is wrong the same rift can only apply to each ship once
+
+## Voting with space stations (R_space_stations 10)
+Commit: b62c625  (reconciled: can vote, cannot be elected; N7 -> I7; nesting fixed)
+Voting with space stations (R_space_stations 10): the site follows the Designer Q&A; the Thunder's Edge rulebook says space stations don't count for voting.
+
+## Uprising with Political Data Nexus Ω (F_xxcha 54)
+Commit: no change: site follows designer-answered source 4; RulesPal agrees on the general rule; N2 partial conflict kept
+Uprising with Political Data Nexus Ω (F_xxcha 54): RulesPal and the Unofficially Official FAQ partly disagree on which value is used.
+
+## Arborec infantry placement (F_arborec 0)
+Commit: 091e8b1  (reversed to follow designer ruling, source 5)
+Arborec infantry placement (F_arborec 0): a designer ruling may conflict with the note.
+
+## Retreating from a gravity rift will result in
+Commit: e5e8153  (header restored uncited + 3 dropped sub-notes; build_pudding skips uncited headers; site-wide check: only C_objectives Strengthen Bonds list also missing, owner chose to leave it out)
+Retreating from a gravity rift will result in the following:
+seems like some missing headers including this one. we'll have to find a way to include these if they were removed and keep them uncited. 
+
+## all of retreating from a rift needs to
+Commit: e5e8153
+all of retreating from a rift needs to be reviewed
+
+## clarify If a ship with capacity would transport
+Commit: 0d99026
+clarify If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.* this should be clear it only applys to units that would be picked up along the way to the active system after the unit with capacity exits the rift
+
+## this line is interesting. feels like it should
+Commit: 7592bd6  (on R_anomalies + 4 type pages, 'intended' wording, E4 proof)
+this line is interesting. feels like it should be on all anamolies or only in the anomoly page
+All units moving into, through or out of anomalies must follow the same rules as ships moving into, through or out of anomalies.4
+Implicit: 4 On Sardakk N’orr’s commander: the LRR “Will also prevent units from being committed to planets in anomalies without the appropriate technology.”
+"A future rule change will place the ship movement restrictions of anomalies upon all units."
+
+## Explicit: 7 Thunder's Edge Rulebook p. 13 (Alliance
+Commit: c3c19a5  (R_imperial @3: E7 alliance -> I7 coexist passage)
+Explicit: 7 Thunder’s Edge Rulebook p. 13 (Alliance variant): units “do not count for scoring objectives or scoring the ‘Imperial’ victory point.” Covers allies, not coexistence.
+this seems implicit
+
+## The cited entry (capacity) does not address this.
+Commit: no change: already removed in 7bb1037 (stale 'does not address' cleanup)
+The cited entry (capacity) does not address this.
+
+## A player may remove a plastic infantry figure
+Commit: e9e34af  (* -> 2,5 with I5 designer + I2 RulesPal swap proofs)
+A player may remove a plastic infantry figure from a planet or space area, along with any accompanying infantry tokens, if doing so allows them to swap it into the active system and allows them to commit ground forces to and fight ground combats on multiple planets during the Invasion step of the tactical action in that system when they could otherwise not do so.*
+Implicit: 2 RulesPal, “When all my plastic fighters or infantry are on the board, can I move some to where I’m producing?”: “you may remove them from systems without your command token.” Covers producing, not committing.
+
+## things that have top level pages such as
+Commit: 77dc27b  (13 Mecatol Rex wiki links -> /R_mecatol_rex; ability mentions already local; plain-text linking not done)
+things that have top level pages such as bombardment should link to this site not the wiki
+
+## When an effect (such as retreating) moves a
+Commit: 1a68c93  (example added on R_modifiers, R_move, R_movement; R_move stale remark removed)
+When an effect (such as retreating) moves a unit to an adjacent system, modifying that unit’s move value will have no effect.1
+Explicit: 2 RulesPal, “Where can my ships retreat to?”: “Movement bonuses don’t matter, as a retreat always goes to an adjacent system.”
+
+## To resolve movement, players perform the following steps:
+Commit: no change: owner chose to leave as is
+To resolve movement, players perform the following steps: dont like this indented
+
+## A future rule change will allow ships to
+Commit: 8f8ba6c  (already reworded to 'intended' with E4 nebula-rules proof)
+A future rule change will allow ships to move into a nebula when it is not the active system.4
+Implicit: 4 “The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1.”
+
+## nebula page needs work
+Commit: ecc2201  (retreat, bonuses, defender +1 scope, effects list; R_space_combat retreat note generalized)
+nebula page needs work
+
+## players fighting in space or ground combat are
+Commit: 32a08ee
+players fighting in space or ground combat are neighbors
+
+## The Bombardment and Space Cannon steps happen outside
+Commit: 6c34438  (added LRR step-order proofs + designer AFB ruling; cites 1,2 and 1,2,5)
+The Bombardment and Space Cannon steps happen outside of combat.2
+Explicit: 2 RulesPal, “Which kills trigger Nekro’s Technological Singularity?”: “Kills from Space Cannon, Bombardment … happen outside combat.”
+The Anti–Fighter Barrage step, however, is a step during combat.2
+Explicit: 2 Same entry: “Anti-Fighter Barrage is part of combat and counts.”
+can we source this better
+
+## A PDS is both a structure and a unit
+Commit: 2252160  (E1 LRR 83; E3 LTP faction sheet + I2 RulesPal, cite 2,3,8)
+A PDS is both a structure and a unit.1,2
+Explicit: 1 LRR 63: “A PDS (planetary defense system) is a structure that allows a player to defend their territory.”
+Explicit: 2 RulesPal, “Does the Codex (Omega) Magen Defense Grid still work if the PDS … has been hit by Disable?”: “it is still a structure.”
+Each PDS also has the Planetary Shield ability.3,8
+Explicit: 8 PoK rulebook unit card: “PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I.”
+Implicit: 3 Learn to Play (war sun): “Your opponents’ PDS units lose PLANETARY SHIELD.”
+this has to have a better source too
+
+## "The matched passage (LRR 1.27) is less direct."
+Commit: 4217b0d  (22 stale remarks removed across 18 proof files)
+"The matched passage (LRR 1.27) is less direct."
+The matched passage (Arborec FAQ) is the wrong rule.
+
+## these seem like they can be combined into
+Commit: 3a3418a  (R_politics @4 nested under @1)
+these seem like they can be combined into a sub item
+When resolving the primary ability of the Politics card, the active player cannot show the agenda cards they drew to any other player.2
+Explicit: 2 RulesPal, “After Politics, is it public whether the agenda cards went to the top or bottom of the deck?”: “You also can’t show the cards themselves to other players, since you may only reveal hidden components you own.”
+Other players may see whether each agenda card is placed on the top or the bottom of the agenda deck. Although the active player cannot show the cards, they may tell other players what the cards are, truthfully or not.2
+Explicit: 2 RulesPal, “After Politics, is it public whether the agenda cards went to the top or bottom …?”: “Yes — everyone can see where each card goes; only the faces stay secret … you can tell them what they are (truthfully or not).”
+
+## coexisting? A player cannot produce ground forces
+Commit: ee32473  (sub-note added, cites 7,9; no TE prefix on notes)
+coexisting?
+A player cannot produce ground forces on a planet that contains another player’s ground forces.4
+Explicit: 4 “You can’t produce ground forces on a planet with another player’s ground forces.”
+
+## this seems like it should have a 2
+Commit: 755275e  (* -> 1,2 with I1 LRR + I2; site-wide * sweep added to deferred)
+this seems like it should have a 2
+When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.*
+Implicit: 2 RulesPal, “Can I trade on a promissory note I received from another player, and must I show it?”: “you needn’t show it, though the recipient may want to see it first.”
+
+## this citation isnt complete
+Commit: 11b7788  (quote completed in 3 files; 'RulesPal,' label added to 53 more source-2 lines)
+this citation isnt complete
+Implicit: 2 “Can I show my action cards or secret objectives to other players?”: “you may reveal your own hidden cards to anyone at any time” promissory notes in hand are hidden cards of the player.
+
+## this has a 2 but no 2 in proof
+Commit: no change: R_promissory_notes @5 already has an E2 RulesPal proof (Creuss IFF entry)
+this has a 2 but no 2 in proof
+If a player receives a card, such as a promissory note, in a transaction during that card’s timing window, they may play it immediately. For example, a promissory note with “At the start of your turn:” timing may be played immediately if the transaction occurred during the “start of turn” timing window.1,2,5
+Explicit: 1 LRR FAQ: “Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes. For example, a promissory note with ‘At the start of your turn:’ timing may be immediately played.”
+Explicit: 5 Designer ruling: “You can trade a promissory note and have it be immediately used during the start of turn window.”
+either prove it using 2 or remove the citation
+
+## (follow-up) other sources with label inconsistencies
+Commit: dadadef  (source 4 -> Designer ruling, 6 -> Community consensus, 3/7/8 label fixes)
+also check if there are other sources that have inconsistencies like this
+
+## seems like this should be mentioned on command tokens
+Commit: no change: already covered by LRR 20.3a (cites 1,2); owner declined the spent-token note
+seems like this should be mentioned on command tokens
+### What happens if I would gain a command token but have none left in my reinforcements?
+    - id: `command-tokens-are-limited` — grade: Community consensus
+    - A: You don't gain it. Your 16 command tokens are a hard limit. Tokens you spend, such as for a secondary ability, go back to your reinforcements, not to your command sheet.
+
+## The matched passage is the LRR index.
+Commit: 4217b0d  (stale remarks already removed)
+The matched passage is the LRR index.
+
+## on the space combat page we should have retreat
+Commit: b52a473  (10 retreat notes nested under uncited 'The following apply to retreats:')
+on the space combat page we should have retreat information under a subheader
+
+## make sure this is on the bottom of every
+Commit: 5eede82  (moved on 5 lists; R_fracture sub-item left in place)
+make sure this is on the bottom of every notes list that contains it: The “0” side of the d10 represents a result of 10.1,2
+
+## The Shared Research law will not allow a
+Commit: 8ba58d5  (Shared Research/nebula keep-removed; added anomaly retreat, gravity rift pointer, fighters example; Queue C lines 9721,9854-9869 logged)
+The Shared Research law will not allow a player to retreat into a nebula.
+review the space combat page changes
+
+## The Nav Suite action card will not allow a
+Commit: 4b70ded  (reason added on R_space_combat only; C_action_cards change declined)
+The Nav Suite action card will not allow a player to ignore an anomaly while retreating.* [as retreating is not a tactical action]
+
+## do we say anywhere that the player has to
+Commit: no change: site says the opposite (need not decide until executing the retreat), per Codex I Retreating with Infantry
+do we say anywhere that the player has to declare which ground forces theyre taking with them at the time of announcing retreat?
+
+## try to organize the space combat (and other
+Commit: fbe6f8b  (R_space_combat + R_ground_combat reordered by step; R_combat unchanged)
+try to organize the space combat (and other combat notes) by the order of steps ie antifighter barrage comes first, retreat comes last.
+
+## A Space Dock is both a structure and a
+Commit: 4b4ae38  (E1 LRR 83 + E2 RulesPal pds-and-space-docks-are-structures)
+A Space Dock is both a structure and a unit.1,2
+Explicit: 1 LRR 79: “A space dock is a structure that allows players to produce units.”
+Implicit: 2 RulesPal, on the Hel-Titan: “It is a structure as well as a ground force.”
+neither of these prove this. find something better or asterisk it
+
+## Fighters transported during movement remain assigned
+Commit: e49396d  (sentence restored + pick-up sub-note cites 1; Queue C 9913 restored)
+Fighters transported during movement remain assigned to the transporting ship until movement is complete. They cannot be counted towards a space dock’s allocation until after movement is complete.
+If a player moves one of their units with capacity into a system, transporting fighters, they cannot pick up ground forces from a planet in that system with that ship by transferring those fighters to a space dock in that system to free up capacity. [as picking up ground forces is part of movement]
+
+## several notes have credits that arent listed in
+Commit: 82ff60d  (site-wide check: 0 cited numbers lack E/I proofs on all 136 proof pages; R_agenda_phase.txt was missing, rebuilt)
+several notes have credits that arent listed in proof. prove them or remove
+
+## With two strategy cards, which one sets my
+Commit: 9691262  (E2 added to R_strategy_card @2)
+ ### With two strategy cards, which one sets my initiative, and must I use the lower card first?
+    - id: `initiative-with-two-strategy-cards` — grade: Community consensus
+    - A: Only your lower-numbered card sets your initiative. You still take one turn at a time like everyone else, never two in a row, and you may use either card first.
+      - hooliganj · 2025-08-12 — https://boardgamegeek.com/thread/3558097/article/46462918#46462918
+      - TreacleMiner · 2025-08-12 — https://boardgamegeek.com/thread/3558097/article/46463060#46463060
+      - Clipper · 2020-10-09 — https://boardgamegeek.com/thread/2517925/article/35994768#35994768
+      - mpappy · 2023-03-26 — https://boardgamegeek.com/thread/3053864/article/41978380#41978380
+      - McBartsomeville · 2023-03-26 — https://boardgamegeek.com/thread/3053864/article/41978381#41978381
+this is better proof for
+A player with two strategy cards may perform the strategic actions of those cards in either order. They still take only one action per turn.2
+
+## mention on supernova that mirage can be place
+Commit: 73ab77e
+mention on supernova that mirage can be place in it
+
+## An ability that ends a player's turn ends
+Commit: e1f9667  (end-of-turn exception added, E4 Il Na Viroset ruling)
+An ability that ends a player’s turn ends that turn as soon as it is resolved. No further abilities may be resolved during that same timing window.2,4 [end of turn effects may still be resolved]
+
+## There are four colors of technologies. See your
+Commit: 0c49d20
+There are four colors of technologies. See your rulebook for images.
+    blue - propulsion
+    red - warfare
+    green - biotic
+    yellow - cybernetic?
+
+## Choosing players to resolve the secondary ability of
+Commit: 0dd1873
+Choosing players to resolve the secondary ability of Trade without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count towards the active player’s transaction limit.2
+Explicit: 2 “Is replenishing other players’ commodities with Trade a transaction?”: “No — it is a strategy card effect: recipients needn’t be neighbors, can’t refuse, it doesn’t use up a transaction”
+this doesnt need to be a subitem
+
+## wheres the proof for this (keep it under
+Commit: 6e64a9e  (<p> -> sub-note li with E5 Skootur + I2 proofs)
+wheres the proof for this (keep it under the example):
+A deal made during a given step is non–binding if any part of it is to resolve during a later step. As such, if Alice makes a deal to chose a player with the primary ability in exchange for commodities from that player after they perform the secondary, then such a deal will be non–binding.2,5
+
+## systems the fracture is touching are also considered
+Commit: 3a06ba2  (sub-note cites 7 via I7; nesting fixed)
+systems the fracture is touching are also considered to be on the edge of the game board
+
+## lets mention vulraith here:
+Commit: dacfd80
+lets mention vulraith here:
+If The Fracture was brought into play as a result of a player rolling a dice
+
+## can we tab in the rest of this example
+Commit: c41b879  (R_transport example nested and made identical to R_capacity, incl. proofs)
+can we tab in the rest of this example
+h four fighters. On the only planet in that system are eight infantry. There are no other units in the system. When the carrier moves out of the system, it obeys the following:5
+Explicit: 5 Same ruling: “You would have to leave some of them on the planet in this case.”
+The carrier may transport the four fighters, leaving behind all eight of the infantry in the system.2
+Explicit: 2 RulesPal, “Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?”: “You can’t pick up more than the moving ships’ capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can’t hold them.”
+The carrier may transport four of the eight infantry, leaving behind the four remaining infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.2,5
+Explicit: 2 RulesPal, “Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?”: “You can’t pick up more than the moving ships’ capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can’t hold them.”
+The carrier may transport two of the eight infantry and two of the four fighters, leaving behind the six remaining infantry in the system. Now that the system has zero capacity, the two remaining fighters will be removed.2
+Explicit: 2 RulesPal, “Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?”: “You can’t pick up more than the moving ships’ capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can’t hold them.”
+The carrier c
+
+## can you retreat out of a system with a
+Commit: 629a5f8
+can you retreat out of a system with a command token. to the retreat section. unless its already there
+
+## theres gotta be proof for this: faction-specific unit upgrade
+Commit: 67198b3  (* -> 2 on R_unit_upgrades and R_technology, I2 'replace' entry)
+theres gotta be proof for this:
+If a player is playing a faction with a faction–specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.*
+
+## lets throw proof for the rules references that
+Commit: 1bd330c  (build_pudding @rN; 20 Rules Reference items proved on 15 pages)
+lets throw proof for the rules references that have sources (warfare and others)
+
+## There are two advanced types of wormhole: delta
+Commit: 7b49bc0  (partial <del> + TE item, I9 Sundered quote)
+There are two advanced types of wormhole: delta and gamma. These wormholes follow all other wormhole rules. [now epsilon]
+
+## Stymie Ω (Promissory Note) Stymie cannot place
+Commit: 511f6c5  (* -> 2,6 with I2 + I6 Avernus ruling)
+Stymie Ω (Promissory Note)
+Stymie cannot place a command token in the home system of an eliminated player.*
+Unverified: No source found. (source this implicitly with a home system stays a home system when a player is eliminated)
+
+## Effects timed 'after the speaker votes', like Bribery,
+Commit: beec052  (Zeal sub-note on F_argent)
+Effects timed 'after the speaker votes', like Bribery, come right after the Argent vote when Argent is speaker.
+
+## dont like this proof (Viscount Unlenn combat rolls)
+Commit: 0ec3498  (E4 Unlenn ruling + I1 LRR 10.1c; cites 1,4)
+dont like this proof
+This ability only applies to combat rolls. It does not apply to dice rolls for a unit’s Anti–Fighter Barrage ability.4
+Explicit: 4 “Does the Crown of Thalnos Relic work with … Anti-Fighter Barrage? A: … no to Anti-Fighter Barrage. The intent is ONLY combat rolls.”
+
+## barony breakthrough should sort notes by combat vs
+Commit: d187c98
+barony breakthrough should sort notes by combat vs movement abilities of the breakthrough
+
+## want to find somewhere to put this (home planets
+Commit: 2ddc38f  (R_control @3)
+want to find somewhere to put this     ### Do I control both planets in my home system at the start, and does that trigger 'gain control' effects?
+    - id: `home-planets-controlled-at-start` — grade: Community consensus
+    - A: You control every home planet from the start, empty or not; a control token on an empty one is just a reminder. Because you begin with control rather than gaining it, abilities like Saar's Scavenge don't trigger at setup.
+
+## this should have this citation (Floating Factory)
+Commit: 1a62f4b  (F_saar @31 E5 full garfielder quote)
+this should have this citation
+
+Explicit: 5 Designer ruling (garfielder, Sep 19 2017): “if the Saar Space dock was alone when the ships move in, it is destroyed”
+This will happen before the Space Cannon Offense step. The Floating Factory is destroyed, even if all of the other player’ ships are destroyed during this step.2,5 
+
+## this source can be applied here as well (Mendosa)
+Commit: 3c6fe29  (F_saar @41 * -> 4, I4)
+this source can be applied here as well
+Explicit: 4 “How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed? A: Clan of Saar’s agent, Mendosa, will get an errata to ‘WHEN you activate a system.’ This means other bonuses would be applied after Mendosa takes effect.”
+Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa’s effect.*
+
+## If a third law is put into play, the
+Commit: 45489e1  (F_keleres @25, F_xxcha @45, C_objectives @54: * -> 2 with I2)
+If a third law is put into play, the Dictate Policy secret objective cannot be scored until the agenda phase.*
+Unverified: No source found.
+The Drive the Debate secret objective cannot be scored while resolving Executive Order.2
+Explicit: 2 RulesPal: “agenda-phase secrets, Drive the Debate included, can’t be scored.”
+these should have the same source
+
+## this seems wrong A player cannot use Suffi An
+Commit: b68a24d  (owner: pass isn't an action; kept, * -> 1 with I1 LRR 3.1-3.2; same for Fleet Logistics)
+this seems wrong A player cannot use Suffi An to pass on the same turn they performed an action.*
+Unverified: No source found.
+
+## fleet capacity is checked during overwing zeta.. also
+Commit: 396124f
+fleet capacity is checked during overwing zeta.. also during crimson rebellion hero. capacity isnt checked till end of combat. (only matters for crimson)
+
+## mention that the sever token remains in play
+Commit: 9fedfbd
+mention that the sever token remains in play if the crimson are eliminated. it is removed from the game when it expires at the end of the status phase
+
+## add something under ahk ravin that says it
+Commit: no change: owner — Ahk Ravin swaps two of the same player's ships, so it can't put another player's ship there
+add something under ahk ravin that says it could theoretically be used to swap another players ship into the crimson home system. not sure why anyone would want to do this. but i guess you could
+
+## Ocean cards are spent as though they were planet
+Commit: c8ec675
+Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as Push Boundaries.6
+Explicit: 6 “What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? … A: Oceans do not count as planets for scoring. They may be spent as planet cards.”
+note here that the planets they are coexisting on do count for the purposes are scoring and cite 
+Q: If DWS is coexisting on 3 planets and has 3 they control, they count as 6 when scoring Push Boundaries. How many do they control when other players want to score Push Boundaries?
+A: Control via coexistence is only seen by the player coexisting, so the other players see 3 planets controlled.
+
+## add this to tech page under antimass deflectors
+Commit: 925d90f
+add this to tech page under antimass deflectors:
+If a player gains then loses the Antimass Deflectors technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.2
+
+## Aello cannot be used to reduce a cost paid
+Commit: 381420d
+Aello cannot be used to reduce a cost paid with trade goods, influence, or any other currency.* [unless you are using trade goods as resources]
+
+## Nova Seed may target the Creuss Gate (tile 17)
+Commit: 4b3dc8e
+Nova Seed may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile 82).* [or the sorrow]
+
+## Nova Seed purges all tokens on the replaced system
+Commit: 1d65b3e
+Nova Seed purges all tokens on the replaced system tile other than command tokens and frontier tokens. Any faction–specific tokens, such as Creuss wormhole tokens or Ul sleeper tokens, are returned to the player that owns them instead.4 [including the avernus token if relevant]
+
+## Avernus is not a ship. It does not roll
+Commit: 3d9ae23
+Avernus is not a ship. It does not roll for removal when it moves out of or through a gravity rift.6
+Explicit: 6 RAW/Community: Avernus and gravity rifts: “Avernus does not roll for gravity rift, it is not a ship.”
+this should go under stellar genesis as its part of the breakthrough ability
+this too
+Avernus may be moved out of a system that contains the Muaat player’s command token during a tactical action, even if there are ground forces on it, as it is not a ship.6
+Explicit: 6 “Can Avernus be moved out of a locked system during a tactical action with Ground Forces on Avernus? A: Yes, it is not a ship.”
+
+## lets mention public disgrace under quantum datahub node
+Commit: 1b64fab
+lets mention public disgrace under quantum datahub node on the hacan page
+
+## wrath of kenara only affects combat rolls
+Commit: 821f5ef
+wrath of kenara only affects combat rolls
+
+## "The Hacan hero makes every unit you produce free
+no change: owner decided not to include the fleet/unit limits line
+"The Hacan hero makes every unit you produce free, though fleet and unit limits still apply."
+
+## mech is moved after control of the planet is
+Commit: 8ea7abd
+mech is moved after control of the planet is exchanged, the player gaining the planet may use their Integrated Economy [or similar] technology before coexi
+
+## empyrean can retreat into nebula's on empy page
+no change: owner decided not to add it; R_nebula already says any ships can retreat into a nebula
+empyrean can retreat into nebula's on empy page
+
+## mechs cant be hit by direct hit. as they
+Commit: d75d3dc
+mechs cant be hit by direct hit. as they arent ships
+
+## If the Empyrean player becomes neighbors with all
+Commit: 3036717
+If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player’s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.* this doesnt seem to fit with a commander unlocked in a timing window can be used immediatley. is it because neighbor status isnt in the "after movement window"
+
+id like to verify the above as well as If the Empyrean player moves a ship into a system containing one of the Saar player’s Floating Factories, and no other ships, that Floating Factory will be blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and Saar players are not neighbors in any other way, then Xuange will not unlock.*
+
+## lets say on the fracture page that frontier tokens
+Commit: 23fe55c
+lets say on the fracture page that frontier tokens arent placed there when it is brought into play (but they can be placed there by the empy hero)
+
+## lets add even wormhole adjacency is removed citing
+Commit: 6fbc87a
+lets add even wormhole adjacency is removed citing the same passage in 6 under void tether 1
+
+## firmament obsidian proof page has a weird header
+Commit: 4f3eddc
+firmament obsidian proof page has a weird header
+
+## The Enervate plot may be resolved whenever the
+Commit: cba6a43
+The Enervate plot may be resolved whenever the puppeted player resolves the secondary ability of a strategy card in their play area, including via the Strategize action card.6
+Explicit: 6 “Does the Enervate plot card work on any secondary usage …? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.”
+this is worded weirdly it should say something more like "whenever the obsidian player resolves the secondary ability of the strategy card in the puppeted players play area
+
+## If a player is eliminated, their control tokens are
+Commit: 68050df
+If a player is eliminated, their control tokens are removed from any plot cards.6
+Explicit: 6 “What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players’ tokens on it.”
+If the only player token on a plot card belongs to an eliminated player, that plot card returns to the Firmament player’s hand.6
+Explicit: 6 “If there are no other player tokens on the Plot, it returns to hand.”
+combine these two. use the return to hand terminology
+
+## If Captain Aroz causes the Firmament player to treat
+Commit: e6fdb1b
+If Captain Aroz causes the Firmament player to treat a planet as controlled by them, both the Firmament player and the planet’s actual controller are treated as controlling it for the purpose of scoring objectives. This also applies to Aroz Hollow.6
+theres no reason for this to apply to aroz hollow but clarify secret objectives for the firmament ie (just add, only the planets controller can use it to score public objectives)
+maybe:
+the firmament player is considered to control the planet for scoring secret objectives only
+the planets actual controller is considered to control the planet for all purposes
+...
+ask me with a few options. be succint but complete
+
+## The Creuss IFF cannot place wormhole tokens in the
+Commit: 19a1fa4
+The Creuss IFF cannot place wormhole tokens in the home system of an eliminated player.* [unless the player playing the note controls a planet in that system]
+
+## The Shields Holding action card may be used to
+Commit: e753a31
+The Shields Holding action card may be used to cancel the hit.1,2,5
+Explicit: 1 LRR FAQ: “’Shields Holding’ may be used to cancel hits that are produced by these abilities,” including “Dimensional Splicer.”
+Explicit: 2 RulesPal, “Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?”: “Yes to both.”
+Explicit: 5 Designer ruling: “Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits.”
+source 5 doesnt really support this
+
+## Wormhole Generator Ω (Technology)
+Commit: 86d62ca, 0cb34a2 (source 2 implicit proof)
+Wormhole Generator Ω (Technology)
+Wormhole Generator [omega] cannot place wormhole tokens in the home system of an eliminated player. [unless the creuss player controls a planet in that system]*
+Unverified: No source found.
+
+## can we list this under creuss iff too
+Commit: 6b66c02
+can we list this under creuss iff too: 
+Creuss wormhole tokens may be placed in The Fracture, including with the Creuss IFF promissory note.2,6
+
+## wormhole generator omega should have all the same
+Commit: 047f244
+wormhole generator omega should have all the same notes from wormhole generator except the first (the one about being mandatory) with the omega symbols being the only differences
+
+## id like to prove this: If the Hil Colish
+Commit: 049dbdd
+id like to prove this: 
+If the Hil Colish is moved first, and is removed due to the effect of a gravity rift, other ships that were declared to move that can reach the destination system must do so, even if the path is through the gravity rift. Ships that cannot reach the active system do not move.*
+Unverified: No source found. LRR FAQ covers the related case: other ships cannot use the wormhole once the Hil Colish is removed.
+
+## If this ability is used, the active system will
+Commit: 66f9a99
+If this ability is used, the active system will be adjacent to systems with delta wormholes.8
+Implicit: 8 Prophecy of Kings Rulebook, Emissary Taivra card: “that system is adjacent to all other systems that contain wormholes during this tactical action.” all systems containing wormholes includes delta.
+lets consider epsilon wormholes as well
+
+## Any tokens on either system are moved with
+Commit: 195f082
+Any tokens on either system are moved with their system.4
+Implicit: 4 FAQ: Creuss hero Singularity Reactor and tokens: “All tokens stay with their original tile” tokens stay with tile, so move with system.
+this is explicit. tile is synonymous with system in this case
+
+## If the L1Z1X player would have to place
+Commit: 4d2f6e4
+If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.1,2,4
+Explicit: 1 LRR 23.4a: “that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.”
+Explicit: 4 “Any instance of ‘replace’ can be considered to say ‘remove and place’ if no units are left in reinforcements, and would be covered by Component Limitations in the LRR.”
+Implicit: 2 “If all my space docks or PDS are on the board, can I place another?”: “if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs” general structure-replacement rule applies to L1Z1X; Assimilate named in a related entry.
+If there are none of a structure’s type in their reinforcements, the L1Z1X player is not forced to replace that structure.1,2,4
+Implicit: 1 LRR 23.4a: a player “can remove” a unit; it is optional.
+Implicit: 4 “’replace’ can be considered to say ‘remove and place’ if no units are left in reinforcements.”
+these seem to say the same thing
+
+## During the Bombardment step, each of the L1Z1X
+Commit: 69a8200
+During the Bombardment step, each of the L1Z1X player’s units with the Bombardment ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the Bombardment ability may use it against the planet the ground combat is taking place on.1,2
+(all units in the active system may use bombardment against the planet the ground combat is happening on, regardless of whether or not those units bombarded that planet during the bombardment step of the invasion)
+
+remove this
+The text of Harrow is changed to: “At the end of each round of ground combat, your ships in the active system may use their bombardment abilities against your opponent’s ground forces on the planet.”1,2
+
+## then spend two [additional resources] to pay for
+Commit: c66be03
+then spend two [additional resources] to pay for the cost of Inheritance Systems.
+
+If Inheritance Systems is researched as the first technology with the primary ability of the Technology strategy card, it may be used [immediately] to ignore prerequisites of the second technology.
+
+ - this also applies to ixthian artifact or any time a player may research two technologies back to back
+
+## whats the deal with Ships cannot move into
+Commit: 8cfbd67
+whats the deal with
+Ships cannot move into a supernova, even if it contains one of the L1Z1X player’s command tokens.1,2,3
+the command token thing shouldnt matter
+
+## this is interesting because sula mentarion is an
+Commit: 8760f07 (follow-up research deferred)
+this is interesting because sula mentarion is an after and edict is a when:
+If the Mahact player wins a combat against the Mentak player and gains one of their command tokens, they cannot resolve the ability of S’ula Mentarion, the Mentak commander, from winning that same combat to take a promissory note from the Mentak player.*
+
+## lets check for anything contradictory here: Any abilities
+Commit: a6d44fb
+lets check for anything contradictory here: Any abilities that trigger when a player moves their ships do not trigger.*
+Unverified: No source found.
+
+## The player whose ships were moved is considered
+Commit: ad58d39
+The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.4
+Explicit: 4 “The ships being moved belong to the ‘attacker’ and the ships not being moved belong to the ‘defender.’”
+Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.*
+Unverified: No source found.
+add 
+Q: When using the Mahact Hero, Benediction, if another player's fleet is moved into a Mahact fleet, who is the attacker/defender? 
+A: The player that is moved is the attacker, the player that is moved into is the defender.
+
+## this can be used as a source for Q:
+Commit: bb8c768
+this can be used as a source for Q: When using the Mahact Hero, Benediction, can the Mahact player transport other players' ground forces from planets? Can the units’ owner transport ground forces from planets?
+A: No in both circumstances.
+f the Mahact player moves another player’s ships, ground forces on planets are left behind
+
+## If the Mahact player purges their War Sun
+Commit: 942c43d
+If the Mahact player purges their War Sun unit upgrade technology, they must remove each of their war suns from the game board.*
+Unverified: No source found.
+we can prove this, at least implictly using similar rulings for muaat tech with nekro
+
+## Lazax Gate Folding is a winnu tech but
+Commit: 4d2a89b
+Lazax Gate Folding is a winnu tech but it links to the mentak wiki page on the mentak's tirules page
+
+## lets add something to fleet capacity to the
+Commit: 0ab63d9
+lets add something to fleet capacity to the mentak's hero. prove that fleet capacity can never be exceeded including mid combat
+
+## If all ships are removed, the strategy token
+Commit: 7c3cc90
+If all ships are removed, the strategy token will still be placed in the destination system.*
+Unverified: No source found.
+lets put this under a note that says they have to roll for a rift
+
+## The Minister of Peace agenda and the Mahact
+Commit: f5374eb
+The Minister of Peace agenda and the Mahact player’s Starlancer mech still end the chosen player’s turn, even though it is not considered their turn.4
+lets say end the naalu players turn as well as the chosen players action
+
+## This will count [as] one towards their Production
+Commit: cc40b70
+This will count [as] one towards their Production limit.*
+
+## Distant Suns is a naaz rokha ability
+Commit: a226035
+Distant Suns is a naaz rokha ability
+
+## for distant suns put make item 4 item
+Commit: 7b3ed70
+for distant suns put make item 4 item 1 and put what is currently item 1 as a sub item under it
+
+## for black market forgery If there are no
+Commit: 0152834
+for black market forgery If there are no cards in the relic deck, a player cannot gain a relic.1,4 should be replaced with a similar point to the first one under fabrication
+
+## add to the naaz flagship note 2 that
+Commit: 18ebfe4
+add to the naaz flagship note 2 that it applies to eidolon maximum
+
+## Q: Z-Grav Eidolon (Mech): Is flipping to a
+Commit: ef631db
+Q: Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability, or does it "just happen"? If NRA has mechs in the space area, and another player withAssault Cannon attacks them, the attacker gets to resolve an ability first. If flipping is an activated ability, then NRA couldn't kill a mech forAssault Cannon, but if it "just happens", they could.
+A: Mech Flips at start of Space Combat in player order timing
+this seems to support a few of the notes under eidolon
+
+## lets include these under eidolon maximum item 5
+Commit: 3df612d
+lets include these under eidolon maximum item 5
+Q: Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet?
+A: Yes, it is a ship in that system.
+Q: In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player's ship movement through the system? Can it count towards ship objectives? Can it blockade space docks?
+A: Yes, it is a ship in that system.
+
+## for galactic threat move item 4 up to
+Commit: 8289efa
+for galactic threat move item 4 up to item 1 and make what is currently item 1 a subitem of it 
+
+## The Prophet’s Tears relic links to the nekro
+Commit: 274b114
+The Prophet’s Tears relic  links to the nekro page not the relics one
+
+## under propogation for nekro we can combine item
+Commit: a18af66
+under propogation for nekro we can combine item 4 and 1
+
+## add an ie example to item 5 under
+Commit: 5d240d0
+add an ie example to item 5 under propogation
+
+## e Salai Sai Corian, link on nekro page
+Commit: a35a5f3
+e Salai Sai Corian, link on nekro page goes to nekro page not winnu
+
+## lets add a note to valefar assimilator x/y
+Commit: 0c70f90
+lets add a note to valefar assimilator x/y that says if nekro copies the nomads flagship it will overwrite the stats and abilities of the nekro flagship
+
+alsi under the alastor 6 that says this applies to copying other factions flagship unit uprades (only the nomad currently) and not to the nomad breakthrough which doesnt overrite the alastor's abilities. prove this and the one just above
+
+## there are two notes on the nekro valefar
+Commit: 2c088ce
+there are two notes on the nekro valefar assimilator z that talk about vuilraith. combine them
+
+## mention nekro valefar z isnt a tech and
+Commit: 42b3246
+mention nekro valefar z isnt a tech and doesnt trigger the commander
+
+## nekro valefar z viii and v conflict. use
+Commit: 0564005
+nekro valefar z viii and v conflict. use just VIII since its verified by the designer
+
+## is this The Memoria cannot retreat to a
+Commit: 562d619
+is this "The Memoria cannot retreat to a system containing a Quantum Manipulator, unless it is adjacent to that system using another adjacency method.*" true? same with the next one
+
+## this is definitely sourceable using the same logic
+Commit: db896d6
+this is definitely sourceable using the same logic as transit diodes
+Any damaged mechs remain damaged.*
+Unverified: No source found.
+
+## If the Ral Nel player plays the Skilled
+Commit: 3cdc8f5
+If the Ral Nel player plays the Skilled Retreat action card, they cannot resolve the ability of the Last Dispatch.*
+Unverified: No source found.
+why?
+
+## The N’orr cannot choose their own ships as
+Commit: 3b7994a
+The N’orr cannot choose their own ships as targets.*
+Unverified: No source found.
+we can probably source this with a player cant destroy their own ships
+
+## make sure sustain damage page says destroy overrules
+no change: already in the LRR list, R_sustain_damage.php:13
+make sure sustain damage page says destroy overrules it
+
+## The N’orr player cannot commit ground forces to
+Commit: 743b4fd
+The N’orr player cannot commit ground forces to Mirage if it is in an asteroid field, unless the N’orr player owns the Antimass Deflectors technology.4
+Explicit: 4 “Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N’orr’s commander …? A: Will change ‘commit ground forces’ in LRR to say ‘move’ to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.”
+why does this specify mirage. lets just say asteroid fields since other planets can be there
+
+## dominus orb links to saardak page it should
+Commit: feaa2dd
+dominus orb links to saardak page it should link to relics
+
+## this doesnt seem like it needs to be under
+Commit: 6b197f1
+this doesnt seem like it needs to be under the saardak commander
+Ground forces cannot be committed to a planet if it has the Demilitarized Zone exploration card attached.*
+Unverified: No source found.
+
+## The Parley action card will place the committed
+Commit: 3cea9a1
+The Parley action card will place the committed ground forces in the space area of the active system. As the N’orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.*
+Unverified: No source found.
+this is at least implicit from the third item of the commander's notes
+
+## under saardak hero lets say something like the
+Commit: 35f2d3b
+under saardak hero lets say something like the ships are removed not destroyed
+
+## id like to prove this: Any abilities that
+no change: no source found; owner keeps the note (Tekklar closes the after-movement window; N'orr as active player resolves it first)
+id like to prove this:
+Any abilities that trigger “after a player moves ships…” or similar cannot be used following Tekklar Conditioning.*
+Unverified: No source found.
+
+## The Bastion player’s action cards may still be
+Commit: 764df9a
+The Bastion player’s action cards may still be cancelled by other game effects.*
+Unverified: No source found. [such as the empyreans watcher mech]
+
+## A war sun has no effect on the Magen
+Commit: 27efc7f
+A war sun has no effect on the Magen Defense Grid Ω technology.2 or omega omega
+
+## do we have a page for details about the
+Commit: 2d448e2
+do we have a page for details about the unit upgrades and notes? we should include that under units if not. looks like we have unit upgrade info under units lets add sections for Infantry 2 fighter 2 and pds 2
+
+## this is under fighter. doesnt apply.
+Commit: ef7ce10
+this is under fighter. doesnt apply.
+Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.2,5
+Explicit: 2 RulesPal, “When is the fleet pool limit checked …?”: “Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.”
+Explicit: 5 Designer ruling: “Once all ships are in, fleet supply is in violation and must immediately be dealt with.”
+
+## add that for terragenesis tokens can only be
+Commit: efcb1f3
+add that for terragenesis tokens can only be moved once all tokens are on the board
+
+## do we have a note under coexist that says
+Commit: 9c920af
+do we have a note under coexist that says the structure limit is per player
+
+## If another player plays the Ul player’s Ceasefire
+Commit: a8da7c8
+If another player plays the Ul player’s Ceasefire promissory note, the Ul player may still place units into the active system using their Awaken ability.2
+Explicit: 2 RulesPal, “When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?”: “Ceasefire only stops movement, so Awaken still works.”
+this should be under awaken not coalescence
+
+## If the Ul player’s turn ends in this way,
+Commit: 393c5dd
+If the Ul player’s turn ends in this way, only the combat occurs. No other steps of the tactical action occur, and abilities may only be used within that combat.4
+what way, just say is ended by another game effect. rather than say only the combat occurs say the combat still occurs
+
+## is there something somewhere about the titans capturing
+Commit: db40a42
+is there something somewhere about the titans capturing the planet that has terraform attached? if not can we add a note that says in this situation the titans could have their own promissory note in their play area
+
+## The Ul player may use the Deploy ability of
+Commit: daa5e59
+The Ul player may use the Deploy ability of a Hecatoncheires to place units into coexistence.6
+[most often through using slumberstate computing]
+
+## add a not under There is no timing window
+Commit: 6e3ece6
+add a not under There is no timing window or other requirement for another player allowing the Ul player to place a sleeper token on a planet they control; it may be included as part of a transaction or deal.9
+ - as such it could be part of a binding deal
+
+## can we quote lrr 1.18 on things like
+Commit: f767658 (site-wide sweep deferred)
+ can we quote lrr 1.18 on things like this: Once a player has used Research Agreement after the Jol–Nar player researches a technology, no other player may use Research Agreement for that same Jol–Nar research instance to gain the same technology.*
+Unverified: No source found.
+
+## can we list what unit abilities that need
+Commit: dd95be6
+can we list what unit abilities that need dice are under jol nar commander: anti fighter, space cannon, bombardment that might be it
+
+## The Jol–Nar player cannot use Specialized Compounds when
+Commit: 246ade0
+
+
+## pretty sure i saw an explicit for this
+Commit: 7633aa9
+pretty sure i saw an explicit for this The Vuil’raith player cannot capture the Ul player’s Hel Titan PDS.*
+Implicit: 2 RulesPal, “Is a Hel-Titan a valid target for effects on non-structures …?”: “It is a structure as well as a ground force.”
+
+## If a player plays both Crucible and the Nav
+Commit: b88f663
+If a player plays both Crucible and the Nav Suite action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.*
+- this +1 is from the effect of the crucible. the rift itself will not give its +1 due to nav suite
+
+## this has no source: If another player is blockading
+Commit: 20f4648
+this has no source:
+If another player is blockading a Dimensional Tear, their units cannot be targeted with Vortex.*
+Unverified: No source found.
+prove it or remove it
+same with this one:
+If a player’s units are blockading one of the Vuil’raith player’s Dimensional Tears, dice will not be rolled for that player’s units when resolving Dimensional Anchor.*
+Unverified: No source found.
+it probably has to do with the rules on capturing
+
+## If a ship moves through or out of the
+no change: already corrected (F_vuilraith.php:56, R_gravity_rift.php:17)
+If a ship moves through or out of the same gravity rift multiple times, each instance will provide a +1 to movement.1
+Implicit: 1 LRR quick reference: “Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.” Repeat passes are not addressed.
+Unverified: 6 Conflicts: RAW ruling on moving through the same rift twice: “the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.”
+this is wrong it was errata'd in the te rulebook
+
+## The player that owns the ground forces and fighters
+Commit: b84f402
+The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.*
+Unverified: No source found.
+this conflicts with a note on the last bastion page. i believe last bastion is correct but check
+
+## lets add a note unde cabal breakthrough that says
+Commit: b7d70df
+lets add a note unde cabal breakthrough that says the player cant move ingress tokens into systems that already contain them. i believe it says something similar under nomad's planesplitter
+
+## this example is out of date
+Commit: 803e8c9
+this example is out of date
+If a system meets two (or more) of the conditions listed (such as by attaching the Nano–Forge relic to Mecatol Rex), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).4
+just remove the example
+
+## A player chosen to perform the secondary ability must
+Commit: d713672
+A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the Leadership strategy card and potentially the Trade strategy card.2
+Explicit: 2 RulesPal, “Does a strategy card’s primary ability cost a command token, and does the Leadership secondary?”: “Secondaries cost a strategy pool token, except Leadership’s.”
+If the Winnu player chooses the Trade strategy card for this ability and the Winnu player chooses a player to resolve the secondary without spending a command token via the primary ability, the chosen player must resolve the secondary ability. Additionally, if the Winnu player chooses a player to resolve the secondary via the Hero’s ability, it is optional for that player to resolve the secondary, but if they do, they must spend a strategy token to do so.*
+Unverified: No source found.
+these could be combined or reworded to be less redundant

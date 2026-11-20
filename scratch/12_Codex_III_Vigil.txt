@@ -1,0 +1,1994 @@
+########## ti_codex_volume_3_vigil_v2_1-compressed.pdf ##########
+===== PAGE 1 =====
+®
+Permission to print or photocopy for personal use.
+TWILIGHT CODEX
+VOLUME III: VIGIL
+===== PAGE 2 =====
+Credits
+FANTASY FLIGHT GAMES
+ CODEX DESIGN AND DEVELOPMENT Dane Beltrami
+ ORIGINAL GAME DESIGN AND  Christian T. Petersen
+ TWILIGHT IMPERIUM SETTING AND FICTION  
+ PRODUCER Jason Walden
+ FICTION Sam Gregor-Stewart
+ PROOFREADING Allan Kennedy
+ BOARD GAME MANAGER Chris Winebrenner-Palo
+ TWILIGHT IMPERIUM STORY REVIEW Frank Brooks
+ CULTURAL AND SENSITIVITY REVIEW Members of the FFG Cultural Sensitivity Panel
+ CREATIVE DIRECTOR OF STORY AND SETTING Katrina Ostrander
+ GRAPHIC DESIGN Christopher Hosch
+ GRAPHIC DESIGN MANAGER Mercedes Opheim
+ INTERIOR ART Anders Finér, Scott Schomburg, and Stephen Somers
+ ART DIRECTION Jeff Lee Johnson
+ MANAGING ART DIRECTOR Tony Bradt
+ VISUAL CREATIVE DIRECTOR Brian Schomburg
+ SENIOR PROJECT MANAGER John Franz-Wichlacz
+ PRODUCT STRATEGY DIRECTOR Jim Cartwright
+ EXECUTIVE GAME DESIGNER Nate French
+ HEAD OF STUDIO Chris Gerber
+FANTASY
+FLIGHT
+GAMES
+Fantasy Flight Games
+1995 West County Road B2
+Roseville, MN 55113
+USA
+www.FantasyFlightGames.com
+© 2022 Fantasy Flight Games. Twilight Imperium, Fantasy Flight Games,  
+and the FFG logo are registered trademarks of Fantasy Flight Games.
+===== PAGE 3 =====
+INTRODUCTION
+Welcome to the Twilight Codex Volume III: Vigil.
+Foreword From the Developer  . . . . . . . . . . . . . . . . 5
+“Shadow Operations”  
+ by Sam Gregor-Stewart  . . . . . . . . . . . . . . . . . . 6–9
+Genesys: A Vengeful Ghost  . . . . . . . . . . . . . . . . . . 10
+THE OMEGA INITIATIVE
+This section contains reworked versions of preexisting 
+components, or new components that provide 
+quality-of-life improvements to gameplay.
+The Xxcha Kingdom  . . . . . . . . . . . . . . . . . . . . . . . . . 13
+ ✦ Xxekir Grom (Political Data Nexus)
+The Yin Brotherhood  . . . . . . . . . . . . . . . . . . . . . . . . 13
+ ✦ Brother Milor
+ ✦ Brother Omar
+ ✦ Dannel of the Tenth (Quantum Dissemination)
+The Naalu Collective  . . . . . . . . . . . . . . . . . . . . . . . . 14
+ ✦ Z’eu
+ ✦ M’aban
+ ✦ Iconoclast
+Secret Objectives  . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ ✦ Turn Their Fleets to Dust
+ ✦ Make an Example of Their World
+ ✦ Fight With Precision
+IXTHIAN ARTIFACTS
+This section contains new components that are 
+debuting in the Twilight Codex for the first time. 
+Exploration Cards  . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ ✦ Dead World
+ ✦ Entropic Field (x3)
+ ✦ Keleres Ship (x2)
+GALACTIC VIGIL
+This section contains a new playable faction—The 
+Council Keleres—and all the components needed to 
+play that faction.
+Agent and Commander . . . . . . . . . . . . . . . . . . . . . . 16
+Faction Tech and Mech  . . . . . . . . . . . . . . . . . . . . . . 16
+Heroes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+The Custodia Vigilia  . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Promissory Note  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Faction Sheet  . . . . . . . . . . . . . . . . . . . . . . . . . . . 18–19
+Faction and Alliance Reference . . . . . . . . . . . . . . . 20
+Volume III: Vigil
+===== PAGE 4 =====
+4
+Rules Updates
+ For 25 years... For 25 years...
+Factions have battled.Factions have battled.
+Galaxies have been shaped.Galaxies have been shaped.
+Empires have risen, Empires have risen, 
+and empires have fallen.and empires have fallen.
+All in the name of All in the name of galactic dominationgalactic domination. . 
+Celebrating 25 Years of Celebrating 25 Years of 
+Twilight ImperiumTwilight Imperium
+www.FantasyFlightGames.comwww.FantasyFlightGames.com
+©  2022  Fantasy  Flight  Games.©  2022  Fantasy  Flight  Games.
+===== PAGE 5 =====
+Hello everyone! 
+It has been a wild and challenging year, but at long 
+last, the third issue of the Twilight Codex has arrived! 
+For those of you just joining us, the Codex is a web-
+based publication that highlights rules updates and 
+showcases new content for Twilight Imperium: Fourth 
+Edition and its Prophecy of Kings expansion.
+This issue of the Codex takes the idea of new content 
+and runs with it, adding an entirely new faction—The 
+Council Keleres—to the game. Additionally, several 
+components from Prophecy of Kings have received the 
+Omega treatment.
+Though the exact timing of each issue may vary 
+depending on my schedule and bandwidth, I hope 
+to continue doing the codex for a long time to come.  
+A couple notes about the provided content:
+ ✦ A separate file that contains high quality PDFs of all 
+new components released in the Codex is available 
+on our website alongside this document.
+ ✦ To best utilize these components, I recommend 
+that all components of a given type be sleeved, 
+along with the other cards of that type from the 
+base game, so that players cannot determine if they 
+are from the Codex before drawing them.
+ ✦ Components that do not need to be shuffled or 
+hidden (for example, technologies) do not need to 
+be sleeved in this way.
+ ✦ Each new component is marked with the icon 
+to the right to denote that it belongs to a 
+volume of the Codex.
+Additionally, this Codex includes an adversary that  
+Genesys game masters can use in their Ashes of Power 
+adventure or in this year’s Embers of the Imperium  
+release.
+I hope that everyone will enjoy this edition of the 
+Codex. This year is the 25th anniversary of Twilight 
+Imperium, and believe me when I say that there is 
+much more excitement to come.
+Dane Beltrami 
+Twilight Imperium Fourth Edition Developer
+Foreword From the Developer
+===== PAGE 6 =====
+6Shadow Operations
+BY SAM GREGOR-STEWART
+“You understand what we’re giving you?” 
+She smiled wryly. “Opportunity, right? Become part of 
+something greater, rise up through the ranks of this brand-
+new organization? The proverbial ‘chance to make a name 
+for myself?’” Her smirk faded as she waited for a response. 
+Finally: “You’re an expert sharpshooter, Operative. You 
+train to change the course of a battle with a single shot. But 
+in the Keleres, your kills will change the course of history. 
+That’ s not opportunity, Operative.
+“That’ s responsibility.” 
+High up on the support struts of Mecatol City’s southwestern 
+storm barriers, Zik Mita swung gently in her sniper’s harness. 
+She knew that between the darkness and her chameleonic 
+skin, she should be nearly invisible. That didn’t stop her gut 
+from churning. Fear, certainly. But under the fear, deep in her 
+mind, she also felt a heady, intoxicating thrill. 
+She closed her eyes. Responsibility, remember. Plenty of 
+time to enjoy making history when we’re done.  She counted 
+slowly to five. Then, moving with glacial slowness, she raised 
+her dart-caster to her eye and panned it over the streets below.
+The towering colonnade of the Aedificium Magna Canticus 
+appeared clearly in her rifle’s scope, a soft purple light 
+spilling from the vast double doors and illuminating the few 
+late audience members streaming into the grand opera. Mita 
+panned left, past the valets in fine regalia and guards lurking 
+discreetly in the shadows of the columns. She moved down 
+the street, finally focusing on the lee of a massive dust dune 
+that half blocked the road. She could just make out the shapes 
+crouched in its shadow: a Human, a Winnu, and a hulking 
+N’orr, all three festooned with weapons and gear. 
+A voice breathed through her comm. “Ulpsa, your mission 
+is approved. Proceed.”
+“Acknowledged, Control.” She 
+switched to her team’s channel. 
+“Assault team ready?” 
+“We’re in position,” came Tik’Ak’s chittering hiss, “As 
+you can see, Lead.” In her scope, the N’orr looked toward 
+her and threw a mocking salute with his massive forelimbs.
+Mita chuckled. “Stand by, then. Support ready?” 
+“Freezing my butt for the last hour, Lead. I thought being 
+a Keleres was supposed to be exciting,” Adriana Merceda 
+grumbled. 
+“Humans have more fur than Yssaril do,” Murargh Gravor 
+growled. “So if Mita isn’t complaining, you shouldn’t be.”
+“Says the Saar tucked into his nice warm aircar,” Merceda 
+shot back. 
+“…if you two are quite finished,” Mita cut in. “Escape 
+ready?” 
+“Powered up and ready to go,” Gravor said. 
+“Good. We have received clearance to proceed. The target 
+entered the Aedificium twenty minutes ago. The show should 
+be beginning right…about…” 
+As if on cue, the valets moved to seal the main doors. 
+Through the building’s towering windows, she saw the lights 
+dim, then brighten as the first performers took the stage. 
+Mita smiled. “I love this part,” she whispered to herself. 
+Then, louder, “Proceed as planned! Cohort Ulpsa, go!” 
+Twelve weeks previously…
+“Artrel, you must understand,” Kuuasi Aun Jalatai said. 
+It took all his self-control to keep his facial feathers from 
+ruffing. “The last thing our galaxy needs is another army.” 
+Across the table, Viscount Artrel Duvos Patorin Nebozev, 
+Letnev Councilor of Wren Terra and newly appointed Tribunii, 
+swirled his tumbler of twice-aged avolac and smiled. “Come, 
+Kuuasi. I think that’ s exactly what we need. The Keleres 
+were founded to deal with threats like the Mahact, yes? So, 
+shouldn’t we arm and train them accordingly? It’ s not so 
+different from the approach your Argent Flight took, is it?”
+Kuuasi shook his head. “An approach that failed, Artrel. 
+The Mahact, the L1Z1X, the Nekro Virus: if they could be 
+eliminated in a straight fight, one of the Great Powers on the 
+Council already would have! The Keleres may need soldiers 
+in its cohorts, but it also needs diplomats, investigators, 
+researchers, and even spies. Your proposal for organizing the 
+Keleres is going to turn it into the Council’ s private military, 
+one more toy for the councilors to squabble over.”
+Nebozev sighed, his smile slipping from his face as his 
+blank, blue-white eyes narrowed. “And your proposal would 
+leave the Keleres toothless.”
+The two sat in the conference room for a long moment. 
+Finally, the feathers along Kuuasi’ s arms spread and shivered 
+slightly: the Shikrai equivalent of a shrug. “Then I suppose 
+we are at an impasse.” 
+“Indeed,” Nebozev replied. He took a sip of his avolac, 
+and his eyes relaxed slightly. “Until the Council elects the 
+third Tribunii. Then we see which of us can convince our new 
+colleague to back our plan.”
+SHADOW OPERATIONS
+===== PAGE 7 =====
+7Shadow Operations
+Mita breathed out slowly and pulled the trigger. The 
+dart-caster coughed, and the guard at the Aedificium’s side 
+entrance collapsed. Before the body hit the ground, Tik’Ak 
+and the rest of the assault team were flowing up the alleyway. 
+A flash of brilliant blue as he cut through the door with his 
+beam rifle, and the three Keleres were inside. 
+“Clearing the storage room,” Tik’Ak said. A pause, then, 
+“at the side entrance to the main theater now. No resistance, 
+and the music should provide a distraction. Going in quiet.” 
+Another long pause. Then, “Target is in his box, along with 
+both bodyguards. Moving for a clear shot.”
+“Wait,” Silana Silonias, one of the assault team, said. “I 
+think there’s a third guard across the theater—”
+The snarl of beam rifles cut through the comms, followed 
+by staccato bursts of some sort of projectile weapon. Then 
+Mita heard screaming.
+“Damnit!” One of the Aedificium’s windows exploded 
+outward, and through the shimmering plasticon shards, 
+she saw flashes of weapons fire and panicked movement. 
+“Assault team, report!” 
+“Hoang is hit,” Tik’Ak said. “Silonias is attempting medical 
+aid, but we’ve dealt with two—” he paused, and Mita heard 
+a heavy, wet thunk. There was an agonized shout, suddenly 
+interrupted by another liquid chopping sound. “—make that 
+three hostile guards.” 
+“What about the target? Tik’Ak, did you get the target?” 
+“Negative, Lead. Target escaped.”
+Nine weeks previously…
+Kuuasi caught up to Nebozev on the open promenade 
+that ran along the perimeter of the Council chambers, the 
+towering, inverted ziggurat in the heart of Mecatol City. Up 
+here they were exposed to the full force of the bitter winds that 
+whipped in from the Sea of Desolation. Normally, the biting 
+cold soothed Kuuasi, reminding him of happier years spent 
+on Avar. Now, it was all he could do not to grab Nebozev and 
+hurl him over the edge.
+“Tripling Keleres recruitment?” he shouted. “Doubling 
+the budget for arms and armor?”
+Nebozev raised his hands, a pained expression on his face. 
+“Kuuasi, I wish this could have been handled differently—”
+Kuuasi angrily waved his words away. “You asked the 
+Council to authorize military advisors and training officers 
+from the Barony! You requested assassination powers!” 
+“I’m simply doing what I feel is necessary.” 
+Kuuasi’ s glare never wavered. “What happened to waiting 
+for the third Tribunii’ s election? Was that a lie? Or were you 
+just doing what was necessary?” 
+At this, Nebozev looked away, pale-blue cheeks flushing 
+a darker gray. “I am sorry, Kuuasi. But…I believe you will 
+understand, in the end.” 
+“I don’t expect to have the chance,” Kuuasi snapped. “I’ll 
+bring my own proposal to the Council.”
+Nebozev still couldn’t meet his gaze. “Don’t bother, 
+Kuuasi,” he said softly. “The rest of the Barony’ s delegation 
+has spent the last week ensuring I have the votes. My 
+proposals will pass in the next few days. Well before you can 
+even finish drafting yours.” 
+Nebozev looked like he wanted to say something else. But, 
+after a long moment, he sighed and walked away. 
+===== PAGE 8 =====
+8Shadow Operations
+“Where did he go, Assault? Can you pursue?”
+“Target fled through the stage exit, Lead,” Tik’Ak 
+responded. “Negative on the pursuit.” 
+“Acknowledged.” Mita focused her scope on the alley 
+behind the Aedificium. Sure enough, the target was sprinting 
+down the center. She couldn’t keep the tight smile from 
+stealing across her face. “Firing!” 
+Her first shot went wide, the high-velocity barb blowing a 
+gaping hole in a trash receptacle two feet away. She caught 
+herself before she pulled the trigger again, breathed out, let 
+her body go still…only to have something fill her scope and 
+block her shot. 
+Mita looked up and saw an aircar settling down just by the 
+target, partially obscuring her view. The door slid open, and 
+she caught a glimpse of the target diving inside. Then the 
+aircar was aloft again, rising quickly. She swore to herself.
+“Target is mobile,” she said, switching the ammo selector 
+on her dart-caster. “Time for the contingency.” 
+She fired and hissed with relief when she saw the dart strike 
+the rear of the aircar. Strike, and stick. “Support, you’re up.” 
+“Fiiinally,” Merceda sighed. “I was worried I wouldn’t 
+have any fun.” 
+From the roof of a building a block away, there was a brief 
+flash. A moment later Mita heard the sharp crack of something 
+punching through the sound barrier. 
+The aircar had plenty of active and passive countermeasures, 
+and it instantly slewed into an evasive spiral as it dumped 
+crackling clouds of electrified chaff. But it didn’t matter. The 
+sliver missile homed in unerringly on Mita’s beacon dart and 
+tore the vehicle to scraps of burning metal. 
+The door to the Tribunii’s offices hissed open, and the 
+medical team charged through. They dashed across the thick 
+carpet to where a pair of Keleres bodyguards were beckoning 
+to them frantically. Both were on their knees, next to the 
+prone form of Tribunii Kuuasi. 
+“We found him like this,” one of the guards, a lieutenant in 
+charge of Kuuasi’s protection detail, shouted to the medics. 
+She gestured to a glass lying next to Kuuasi, pungent firespice 
+liqueur spilled across the floor. “The automedicum says his 
+vitals are nearly flatlined across the board. I think it might 
+be poison.” 
+The chief medic nodded. “We need to move, then. A 
+full hospital may be his only chance.” He looked over his 
+shoulder. “Get me that grav-plate and a stabilizer kit!” 
+Quickly, the team began prepping Kuuasi for transport. 
+As the two guards stood by, a third came into the office. 
+“Lieutenant…I…”
+The lieutenant glanced over at him. “Yes?” 
+The guard looked worried. “Maybe we should talk 
+outside?” 
+“Damnit, Ulgrav, I don’t have time for this,” the lieutenant 
+snarled. “Either talk or move yourself out of the room!” 
+The guard paled, then straightened. “Lieutenant, I just got 
+word. Nebozev was killed ten minutes ago.” 
+Everyone, even the medics, paused. “What did you say?” 
+the second guard asked.
+“He was at the Aedificium Magna Canticus, and someone 
+shot the place up. When he escaped, they took out his aircar 
+with a missile.” 
+For a long moment, nobody moved. Then there was a weak 
+cough. The lieutenant’s eyes snapped to the grav-plate, to see 
+Kuuasi gazing back with pain-wracked eyes. The Tribunii 
+raised a shuddering talon and pointed to his desk. “Check…
+my…savant,” he gasped. Then he fell back, eyes closed.
+“All right,” the chief medic snapped. “Let’s get him 
+moving, or we’ll have two dead Tribunii tonight.”
+Just on the far side of the storm barriers, Cohort Ulpsa 
+struggled through the dust drifts that filled the roads between 
+ruined buildings. It was slow going with Tik’Ak supporting 
+the limping Doran Hoang, but neither of them complained. 
+They were alive, and in the ruins of the old, devastated city 
+districts that bled into the Sea of Desolation. With any luck, 
+nobody would ever find them here.
+“Extraction point in sight,” Silonias said, pointing to a 
+mostly intact hab-tower looming ahead of them. The Winnu 
+looked back at Mita. “What’s wrong?”
+Mita shook her head and held up the comms device. “I 
+can’t get a response from Control.” 
+“You bust it when you were rappelling off the wall back 
+there?” Merceda asked.
+Mita tapped the screen. “No, it’s working fine. Just—no 
+answer.”
+The cohort lapsed into an uneasy silence as they reached 
+the lee of the hab-tower. As the rest of the team passed into 
+the portico, Mita switched her comm. “Escape, how’s it 
+looking up there?”
+“I’ve got the baffle nets off, and I’m ready to leave,” Gravor 
+replied. Then he growled. “Wait. There’s something—”
+The top of the hab-tower exploded. 
+Mita dove to the ground, scrambling into cover as shards 
+of permacrete crashed down around her. She looked as a pair 
+of starfighters screamed overhead, then rose into the clouds.
+The comms exploded with panicked shouts from the rest 
+of Ulpsa. Cursing, Mita grabbed for her dart-caster, then her 
+own comm. 
+“Listen up!” she shouted. “Spread out before those fighters 
+come back. Tik’Ak, Silana, dig in at the portico. Doran, 
+watch the building’s rear. Merceda, get high!”
+“They just killed Gravor,” Hoang yelled. “Who the hell 
+are they?” 
+“Doesn’t matter,” Tik’Ak growled. “We have our orders; 
+now move!” 
+Mita took a moment to look around. By chance she had 
+ended up in a good sniper’s nest: a protected corner where 
+thick stone planters abutted the hab-tower’s walls. She took 
+a long breath, then smoothly raised her rifle over the lip of a 
+planter and looked around. 
+The fighters hadn’t banked around for another pass. In fact, 
+Mita couldn’t see them at all, and she shifted her view to 
+study the approaches between the two nearest storm barriers 
+back toward Mecatol City. Sure enough, a trio of bulky 
+assault cutters were flying straight for their position. 
+===== PAGE 9 =====
+9Shadow Operations
+Kuuasi waited another minute, then he stood. He set the 
+comms device in his office’ s secure disposal unit and activated 
+the vaporizer. Then he erased the plans of the Blanc from his 
+savant, along with several other files. Finally, he called up 
+a new set of files on the savant and left them open. These 
+detailed a very lengthy, and very fictional, investigation into 
+a rogue Keleres cohort that Kuuasi had been conducting over 
+the past few weeks. 
+With that done, he took out a small vial of powder from his 
+robes and poured it into his drink. As he disposed of the vial 
+and raised his glass to his beak, he thought that it certainly 
+would be a just irony if he’d gotten the dose wrong, and the 
+poison did its work too well.
+Then he took a long gulp, and waited. 
+Three days later…
+The Winnaran custodians had been thorough. They had 
+swept the shattered hab-tower for the bodies of the rogue 
+Keleres with scanners and floating familiars. But besides 
+the N’orr, the Ulpsa had been caught in a storm of heavy 
+weapons fire and collapsing permacrete. In most cases, all 
+they found were…pieces. 
+So eventually, they left. Tribunii Kuuasi, still confined 
+to his hospital bed, was pushing ahead with a massive 
+internal investigation to find out who had nearly succeeded 
+in decapitating the Keleres leadership. Evidence had already 
+surfaced pointing to treachery on the part of some of the late 
+Nebozev’s allies in the Keleres. Several had refused to be 
+taken alive, and the Tribunii needed all the aid the Custodians 
+could offer. 
+Hours after the last transport lifted off, several chunks 
+of permacrete tumbled down the slope of a debris pile. A 
+figure, one who seemed to blend perfectly with the wreckage 
+around her, slowly climbed out of a hollow between two 
+collapsed beams. 
+Mita coughed and struggled to her feet. One of her arms 
+ended with a mangled stump and makeshift tourniquet. The 
+other slowly reached to her belt and pulled out her battered 
+comm. 
+She looked at the cracked screen of the device, her face 
+set. She remembered the thrill she had felt, knowing she was 
+about to change the course of galactic history. That feeling, 
+along with her nervous fear, was well and truly dead now. 
+“I guess responsibility only works one way,” she said 
+quietly. “I’ll keep that in mind.”
+Then Mita tossed the comm away. Even on foot, she 
+could reach the Mourta District by nightfall. There was a 
+gunrunner there who owed her a favor, and she was going to 
+need a new rifle.
+“We’ve got transports inbound, northwest,” she said. 
+“I see them,” Merceda growled. “Taking them out.” 
+“No, wait—” 
+Before Mita could finish the sentence, a fifth-story 
+window above her exploded outward as a pair of sliver 
+missiles shot toward the cutters. One suddenly veered up 
+and disappeared into the night sky, victim to the cutters’ 
+electronic countermeasures. The other struck its target just 
+as it banked, tearing a glancing blow across one of the wing 
+engines. Trailing smoke, the cutter headed for the ground in 
+what looked to be a barely controlled crash landing. 
+Merceda’s whoop of triumph was abruptly cut off as heavy 
+beam weapons carved into the hab-tower, chewing through 
+the façades of the fifth, sixth, and seventh stories. Mita swore. 
+Of course, the starfighters wouldn’t have left. Sure enough, 
+glancing skyward, she saw a flicker of movement among the 
+clouds, far out of range of anything her team had. 
+Or what was left of her team.
+The two remaining cutters banked hard and came down 
+in the broad street in front of the hab, engines screaming. 
+Through the billowing dust clouds, Mita could see armored 
+figures jumping from the hatches. She didn’t need to say 
+anything. 
+Cohort Ulpsa opened up with everything they had left. 
+Beams of blue energy flashed out from Tik’Ak and Silonias’s 
+positions, supported by the staccato chattering of Hoang’s 
+carbine. Mita squeezed off shot after shot with her dart-
+caster, forgoing stealth and pumping out high-explosive darts 
+that tore into their attackers. Two went down, then a third. 
+But they were firing back. 
+Mita heard Silonias’s scream, abruptly cut off. Tik’Ak 
+roared in pain and rage; then he was charging past her, into 
+the open, glaive swinging. A crashing volley slammed into 
+him, and the attackers were charging forward, firing into 
+the N’orr at point-blank range as he struggled to rise. Mita’s 
+finger slackened on the trigger. 
+They were Winnarans. The attackers were Winnaran 
+Custodian Guard. 
+She opened her mouth to shout at them to stand down, 
+to explain there was some mistake. But the Custodians had 
+already lost too many of their own in the assault. Grenade 
+lobbers coughed, and explosions ripped across the portico of 
+the hab-tower. A moment later the whole front of the building 
+collapsed, burying Mita, Hoang, and the bodies of their 
+comrades in rubble. 
+Two hours ago…
+Kuuasi sat at his office desk, his evening glass of firespice 
+liqueur sitting untouched at his side. He stared at his savant, 
+at the glowing green wireframe model of the towering 
+Aedificium Magna Canticus spinning slowly on the screen. 
+He took out his comms device and activated it. “Control 
+here.”
+“Cohort Ulpsa ready,” Zik Mita’ s soft tones responded. 
+He waited a long moment, then closed his eyes. “Ulpsa, 
+your mission is approved. Proceed.” 
+“Acknowledged, Control.” 
+===== PAGE 10 =====
+A Vengeful Ghost
+L
+ittle is known about Zik Mita, the former Keleres agent turned 
+traitor and eventually hired gun. Her career began in the 
+Yssaril’s Guild of Spies, and even after she became a fugitive and 
+criminal, the Guild has been completely unwilling to provide 
+any information about her. However, she was transferred to the 
+Keleres upon the organization’s founding. The Tribunii Kuuasi 
+Aun Jalatai recruited Mita personally; a mistake he would come 
+to profoundly regret. 
+Mita quickly rose through the ranks of the Keleres and in 
+several months was put in charge of her own cohort of agents. 
+For her own, unknown reasons, Mita used her position to at-
+tempt to assassinate both the Tribunii serving at the time. Her 
+cohort successfully killed Tribunii Artrel Nebozev, and Kuuasi 
+barely escaped with his life. 
+Though the rest of her cohort was killed during the attempt, 
+Mita managed to survive and escape capture. In the years since, 
+she has worked as a mercenary and contract killer on Tsion 
+Station, Ba’kal, Meer, Sem-Lore, and all three worlds in the Ke-
+nara system. Mita has even returned to Mecatol Rex on at least 
+one occasion, where she killed two Keleres and five Custodian 
+Guard during the subsequent failed attempt to apprehend her. 
+Those have been far from the only Keleres Mita has killed. 
+On several occasions she has taken jobs knowing the Keleres 
+may be involved. This may be part of some larger plan, but even 
+if Mita is simply bitter and looking for revenge, she remains a 
+danger for Keleres cohorts across the galaxy. 
+A character profile for the upcoming T wilight Imperium roleplaying game
+===== PAGE 11 =====
+What is Genesys?
+Genesys is a universal roleplaying game, or a narrative game 
+system that allows collaborative storytelling between a group of 
+players and an arbitrator known as a game master. What makes 
+Genesys "universal" is that instead of being designed for one 
+setting, it works for any setting. The Core Rulebook provides 
+the basic rules, which are used in every setting and version of 
+the game. Then, if you want to play in a specific setting, you 
+can pick up one of our setting sourcebooks.
+Embers of the Imperium is the upcoming sourcebook 
+that will allow players to use Genesys rules to play in the Twi-
+light Imperium setting. In this book, players will take on the 
+role of the Keleres, elite operatives of the Galactic Council who 
+have to deal with monumental threats while struggling with 
+factional infighting, Council politics, and betrayal. 
+Embers of the Imperium will be released later this year. 
+This profile can be used as an adversary (or dangerous ally) for 
+groups using it to play campaigns in the Twilight Imperium 
+setting.
+Zik Mita, Ex-Keleres (Nemesis)
+A life spent on the run has left its mark on Mita. Her skin is 
+scarred with beam burns and blade wounds, and her right arm 
+has been replaced by a battered cybernetic. She tends to wear 
+patchwork armor under a frayed, stained cloak that leaves her 
+looking like the vagrants living on the streets of any number of 
+inhabited worlds. However, beneath its wrappings of tattered 
+rags, her gleaming black dart-caster shows all the hallmarks of 
+careful and rigorous maintenance.
+Motivations: Desire (Revenge), Fear (Loss), Strength (Patience), 
+Flaw (Cold Fury)
+Species: Yssaril
+Skills: Cool 4, Coordination 3, Discipline 2, Melee 3, Perception 
+2, Ranged (Heavy) 5, Skullduggery 3, Stealth 4, Streetwise 3, 
+Survival 2, Vigilance 2
+Talents: Adversary 2 (upgrade difficulty of all combat checks 
+against this target twice), Spec Ops Elimination (after making 
+a successful combat check against a target who is unaware of 
+this character’s presence, may inflict a Critical Injury without 
+spending 󲊴󲊴 or 󲊵󲊵).
+Abilities: Chameleonic expert (once per session, may spend 
+1 Story Point to add 󲊰󲊰  󲊰󲊰 to the results of all Vigilance or 
+Perception checks made to detect this character or determine 
+initiative order until the end of the encounter). 
+Equipment: Long-barreled dart-caster (Ranged [Heavy]; Dam-
+age 7; Critical 4; Range [Extreme]; reduce the difficulty of com-
+bat checks made at long or extreme range with this weapon by 1), 
+bio-shiv (Melee; Damage 3; Critical 3; Range [Engaged]; Pierce 
+2, Prepare 1), patchwork armor (+1 soak), selective ammunition 
+hopper (see below), cybernetic lower arm, ascender rig. 
+Selective Ammunition Hopper
+As a maneuver, Mita may have the next combat check with her 
+dart-caster use one of the following ammo types: barbed (the 
+dart-caster gains the Vicious 3 item quality); respiratory paralytic 
+toxin (if an organic target suffers 1 or more wounds from the 
+attack, they must make a Hard [󲊷󲊷󲊷󲊷 󲊷󲊷󲊷󲊷 󲊷󲊷󲊷󲊷] Resilience check as 
+an out-of-turn incidental; if they fail the target suffocates [page 
+112 of the Core Rulebook] for the next three rounds plus one 
+additional round for every 󲊱󲊱 󲊱󲊱 scored on the check); tracker 
+(if the attack hits, reduce damage dealt to 0; target is tagged 
+with a tiny tracking beacon that can be followed from up to 200 
+kilometers away; the beacon may be noticed with a successful 
+Hard [󲊷󲊷󲊷󲊷 󲊷󲊷󲊷󲊷 󲊷󲊷󲊷󲊷] Vigilance or Perception check). 
+2 3 2 4 3 1
+15123
+BRAWN
+SOAK VALUE WOUND THRESHOLD STRAIN THRESHOLD
+AGILITY INTELLECT CUNNING WILLPOWER PRESENCE
+Zik Mita [Nemesis]
+ Keleres Alert!
+Listen up, Keleres. In a galaxy this big, you may not 
+think that one person can be that much of a threat. 
+But let me introduce you to Zik Mita. 
+Mita was one of our own, a member of the old 
+Ulpsa Cohort. Yes, that Ulpsa, the ones behind the 
+Nebozev assassination. In the fallout of that fiasco, 
+the Custodians ran Ulpsa to ground. Everyone thought 
+that a collapsing hab-tower meant the end of them, 
+but somehow Mita walked away from it. 
+Since then, she’s become a gun for hire, except she 
+prefers jobs that put her up against us. She’s killed 
+eleven Keleres on five worlds, that we know of. I don’t 
+know if she has some larger plan, but the Tribunii don’t 
+want to wait to find out. We have a lead on an armorer 
+who may be supplying her on Ba’kal, and we need a 
+cohort to follow up. Hopefully they can lead us to Mita.
+Caution: Mika is a crack shot and master infiltrator. 
+She prefers to fight from afar, and has no problem 
+fleeing and returning later. If you encounter her, don’t 
+hesitate and shoot to kill. 
+
+===== PAGE 12 =====
+Do you have what it takes to 
+save the galaxy?
+In Embers of the Imperium, you become one of the 
+elite Keleres, agents empowered by the Galactic 
+Council to seek out the worst threats and stop them 
+before they destroy civilization. 
+Embers of the Imperium is powered by the Genesys 
+roleplaying game, a fun, fast-paced experience 
+where every roll of the dice lets you tell a story! 
+Sneak through catacombs haunted by bloodthirsty 
+robots, travel to undiscovered worlds, engage in 
+high-stakes diplomacy with alien life-forms, or get 
+into a shootout with demonic creatures from anoth-
+er dimension! In Embers of the Imperium the only 
+limits are your imagination. 
+Coming this year.
+
+===== PAGE 13 =====
+13The Omega Initiative
+The Omega Initiative section is a regular feature that contains 
+supplementary or revised content. This edition of the Codex 
+contains several reworks of Prophecy of Kings leader content, as 
+well as a fresh take on a particular set of secret objectives.
+These cards can be found in the high-quality PDF found 
+alongside this document. They are standard American mini 
+cards, and replace their corresponding counterparts from the 
+Prophecy of Kings expansion.
+XXCHA HERO
+To reduce the wild and oftentimes unstoppable swing (or miss) 
+of the Xxcha hero, Political Data Nexus has been reenvisioned to 
+help the Xxcha both in and out of the Agenda phase in a new and 
+unique way.
+When you exhaust planets, combine 
+the values of their resources and 
+influence. Treat the combined value as 
+if it were both resources and influence.
+VOICE OF THE COUNCIL
+POLITICAL DATA NEXUS 
+THE YIN BROTHERHOOD
+The Yin Brotherhood are the first faction to have leaders that 
+have gone through the Omega Initiative, and all three of its 
+leaders have received reworks of varying degrees.
+Brother Milor sees his usage expanded to cover ground combat 
+as well as space combat. Use him in conjunction with Quantum 
+Dissemination and Indoctrination for great effect.
+With Brother Omar, we revisit the technological prowess of the 
+Yin, breathing new life into their technologies with the ability to 
+pick and choose tech from those already at the table.
+With Dannel of the Tenth’s Quantum Dissemination, we see the 
+Greyfire mutagen being turned to more nefarious purposes, and 
+the ability of the Yin to menace the other factions is improved 
+significantly.
+After a player’s unit is 
+destroyed: 
+You may exhaust this card to 
+allow that player to place  
+2 fighters in the destroyed 
+unit’s system if it was a ship, 
+or 2 infantry on its planet if it 
+was a ground force.
+PURIFIED BY FIRE
+BROTHER MILOR 
+This card satisfies a green 
+technology prerequisite.
+When you research a tech 
+owned by another player, you 
+may return 1 of your infantry 
+to reinforcements 
+to ignore its 
+prerequisites.
+BROTHER OMAR 
+SPINNER DEVOTEE
+ACTION: Commit up to 3 infantry 
+from your reinforcements to any non-
+home planets and resolve invasions 
+on those planets; players cannot use 
+SPACE CANNON against these units. 
+Then, purge this card.
+BLESSING OF THE YIN
+QUANTUM DISSEMINATION 
+THE OMEGA INITIATIVE
+
+===== PAGE 14 =====
+14The Omega Initiative
+THE NAALU
+Like the Yin Brotherhood, the Naalu Collective also sees a 
+number of revisions with this edition of the Codex. In addition  
+to two of their leaders, their mech has also been adjusted. 
+The new Z’eu brings the full force of a Naalu operative to the 
+table, affording the Naalu a much greater degree of flexibility in 
+their opening rounds, while remaining an enticing prize for the 
+Naalu to sell later in the game. 
+The all-knowing Crystalline Sorceress M’aban now allows 
+unfettered access into the minds of the council. Use this 
+knowledge wisely.
+The Iconoclast has been given a serious revision, and now 
+extends a degree of protection to any of the Naalu’s crystalline 
+fighters that are within its system.
+ACTION: Exhaust this 
+card and choose a player; 
+that player may perform 
+a tactical action in a 
+non-home system without 
+placing a command token; 
+that system still counts as 
+being activated.
+AGENT OF THE NEFISHH
+Z’EU 
+At any time:
+You may look at your 
+neighbors’ hands of 
+promissory notes and the 
+top and bottom card of the 
+agenda deck.
+M’ABAN 
+CRYSTALLINE SORCERESS
+SECRET OBJECTIVES 
+This infamous trio of secret objectives has been adjusted 
+to match expectations a little more closely and should now 
+synergize with various action cards and abilities that make 
+completing them a little more intuitive.
+6
+COMBATCOST
+2
+✦ ✦ SUSTAIN DAMAGESUSTAIN DAMAGE
+Other players cannot use ANTI-FIGHTER BARRAGE 
+against your units in this system.
+NAALU MECH
+ICONOCLAST 
+
+===== PAGE 15 =====
+15Ixthian Artifacts
+The Ixthian Artifacts section is a regular feature that contains 
+entirely new components. As we design, we experiment with 
+many concepts and ideas that don’t make it into the final game. 
+This section provides an opportunity for some of those buried 
+ideas—as well as new ideas—to see the light of day, so that 
+players may use them in their games. They are combined with 
+existing components from the base game and Prophecy of Kings. 
+EXPLORATION CARDS
+Six new frontier exploration cards are included in this edition of 
+the Codex. These can be combined with the rest of the frontier 
+exploration deck, bringing the deck to parity with the other 
+decks as well as raising the general reward ceiling of frontier 
+exploration itself.
+IXTHIAN ARTIFACTS
+
+===== PAGE 16 =====
+16Galactic Vigil
+NEW FACTION: THE COUNCIL KELERES
+With this edition of the Codex, an additional faction has been added to the existing 24 factions: 
+The Council Keleres. Their components are shown below and on the following pages.
+At any time:
+You may exhaust this card 
+to allow any player to spend 
+commodities as if they were 
+trade goods.
+XANDER ALEXIN VICTORI III
+MIRACLE WORKER
+After you perform a 
+component action: 
+You may perform an 
+additional action.
+SUFFI AN
+WORKING MULTIPLE ANGLES
+"It’s honestly incredible, the way 
+he manages to stretch a couple 
+aurei. To find money where there is 
+none. The man could fund an army 
+at the same cost you or I might get 
+lunch. Terrifying, really. "
+–Suffi An
+MIRACLE WORKER
+XANDER ALEXIN VICTORI III
+UNLOCK: Spend 1 trade 
+good after you play an 
+action card that has a 
+component action.
+Suffi looked over the contracts. “So 
+I get paid twice...once each by two 
+different contractors...for doing 
+the same job? What’s the catch?"
+WORKING MULTIPLE ANGLES
+SUFFI AN
+Whenever you resolve one of your 
+PRODUCTION abilities, you may resolve an 
+additional one of your PRODUCTION abilities 
+in any system; the additional use does not 
+trigger this ability.
+THE COUNCIL KELERES
+AGENCY SUPPLY NETWORK
+You are neighbors with all players that have 
+units or control planets in or adjacent to the 
+Mecatol Rex system.
+Gain the Custodia Vigilia planet card and  
+its legendary planet ability card. You cannot 
+lose these cards, and this card cannot  
+have an X or Y assimilator token  
+placed on it.
+ I.I.H.Q. MODERNIZATION
+THE COUNCIL KELERES
+6
+COMBATCOST
+2
+✦ ✦ SUSTAIN DAMAGESUSTAIN DAMAGE
+Other players must spend 1 influence to commit 
+ground forces to the planet that contains this unit.
+KELERES MECH
+OMNIOPIARES
+FACTION TECHNOLOGY AND MECH
+AGENT AND COMMANDER
+GALACTIC VIGIL
+===== PAGE 17 =====
+17Galactic Vigil
+At the start of a round of space 
+combat in a system that contains a 
+planet you control:
+Place your flagship and up to a total of 
+2 cruisers and/or destroyers from your 
+reinforcements in the active system.
+Then, purge this card.
+OVERWING ZETA
+ARTEMIRIS ASCENDANT
+After an agenda is revealed: 
+You may cast up to 6 additional 
+votes on this agenda. Predict aloud 
+an outcome of this agenda. For 
+each player that votes for another 
+outcome, gain 1 trade good and  
+1 command token.
+Then, purge this card.
+OPERATION ARCHON
+WITCHING HOUR
+ACTION: Reveal cards from the action 
+card deck until you reveal 3 action 
+cards that have component actions. 
+Draw those cards and shuffle the rest 
+back into the action card deck.
+Then, purge this card.
+ERWAN’S COVENANT
+THE WINDS OF CHANGE
+Pax magnifica,  
+bellum gloriosum.
+While you control Mecatol 
+Rex, it gains SPACE CANNON 5 
+and PRODUCTION 3.
+Gain 2 command tokens 
+when another player scores 
+VP using Imperial.
+CUSTODIA VIGILIA
+LEGENDARY—KELERES
+Valor. Grace. Wisdom.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Argent Flight during setup.
+KELERES TRIBUNII
+KUUASI AUN JALATAI
+Peace. Community. Deterrence.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Xxcha during setup.
+KELERES TRIBUNII
+ODLYNN MYRR
+Authority. Strength. Efficacy.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Mentak during setup.
+KELERES TRIBUNII
+HARKA LEEDS
+HEROES: THE TRIBUNII
+THE CUSTODIA VIGILIA AND PROMISSORY NOTE
+3
+2
+Custodia Vigilia. The fully realized 
+seat of the Keleres. A veritable fortress 
+in the heart of Mecatol City. Ten 
+thousand people come and go daily, 
+and the Keleres see them all.
+CUSTODIA VIGILIA
+After an agenda is 
+revealed: 
+You cannot vote on this 
+agenda. Predict aloud an 
+outcome of this agenda. If 
+your prediction is correct, 
+draw 1 action card and gain  
+2 trade goods. 
+Then, return this card to the 
+Keleres player.
+KELERES RIDER
+===== PAGE 18 =====
+18Galactic Vigil
+-
+COST
+-
+COMBAT
+-
+MOVE
+- -
+CAPACITY CAPACITY
+UPGRADEUPGRADEUPGRADE
+UPGRADE
+UPGRADE
+UPGRADE
+You cannot produce this unit unless  You cannot produce this unit unless  
+you own its unit upgrade technology.you own its unit upgrade technology.
+WAR SUN
+COST COMBAT
+1
+MOVE CAPACITY
+✦✦  SUSTAIN DAMAGESUSTAIN DAMAGE
+4
+COST
+5
+COMBAT
+1
+MOVE
+1
+CAPACITY
+✦✦  SUSTAIN DAMAGE   SUSTAIN DAMAGE   ✦✦  BOMBARDMENT 5BOMBARDMENT 5
+DREADNOUGHT I
+3
+COST
+9
+COMBAT
+1
+MOVE
+4
+CAPACITY
+CARRIER I
+2
+COST
+7
+COMBAT
+2
+MOVE
+CRUISER I
+1
+COST
+9
+COMBAT
+2
+MOVE
+✦✦  ANTI-FIGHTER BARRAGE 9 (X2)ANTI-FIGHTER BARRAGE 9 (X2)
+DESTROYER I
+✦✦  PLANETARY SHIELD   PLANETARY SHIELD   ✦✦  SPACE CANNON 6SPACE CANNON 6
+PDS I
+COST
+9
+COMBAT
+-
+MOVE
+FIGHTER I
+COST
+8
+COMBAT
+INFANTRY I
+✦✦  PRODUCTION XPRODUCTION X
+This unit’s PRODUCTION  value is equal to 2 
+more than the resource value of this planet. 
+Up to 3 fighters in this system do not count 
+against your ships’ capacity.
+SPACE DOCK I
+UPGRADE
+UPGRADE
+UPGRADE
+11
+COMMODITIES
+678
+2
+KELERES FLAGSHIP
+ARTEMIRIS
+Other players must spend 2 influence to 
+activate the system that contains this ship.
+THE TRIBUNII
+During setup, choose an unplayed faction 
+from among the Mentak, the Xxcha, and 
+The Argent Flight; take that faction’s home 
+system, command tokens, and control markers. 
+Additionally, take the Keleres Hero that 
+corresponds to that faction.
+COUNCIL PATRONAGE
+Replenish your commodities at the start of the 
+strategy phase, then gain 1 trade good.
+LAW’S ORDER
+You may spend 1 influence at the start of your 
+turn to treat all laws as blank until the end of 
+your turn.
+“Our duty is to protect the billions 
+of people in our galaxy, not the 
+few hundred in these Council 
+Chambers. ” –Tribunii Harka Leeds
+THE COUNCIL KELERES
+FACTION SHEET
+===== PAGE 19 =====
+19Galactic Vigil
+The old Imperial Intelligence HQ 
+in Mecatol City serves as both a 
+temporary base for the Keleres as 
+well as the site of its future home—
+the Custodia Vigilia—which is 
+currently undergoing a lengthy and 
+expensive construction process.
+Across the galaxy, planetary governors compete for trade opportu-
+nities, the Great Civilizations joust for superiority on the battlefront, 
+and still other, more insidious factions play at shaping galactic history 
+for their own ends. In a galaxy fraught with so many agendas, it’s no 
+surprise that the Galactic Council took it upon itself to assemble a 
+force of its own to manage its affairs. The Keleres of the Council are 
+that force, but they are also something more. They are a ragtag army of 
+bureaucrats, soldiers, and spies, often at odds with themselves and not 
+always appreciated by the galaxy they serve. 
+Though the Keleres are born of the Galactic Council, they are often 
+left to their own devices, traveling the galaxy brokering peace, inter -
+vening in conflicts, and tackling threats to galactic civilization as a 
+whole. They even act without the consent of the Tribunii or the Ga -
+lactic Council when timeliness is a factor, only to be censured by the 
+Galactic Council after the fact.  
+The member states of the Council send recruits, who are selected 
+according to the traditions of each individual planet or system, to 
+serve in the Keleres. The Great Powers have learned, since the Keleres’s 
+founding, that the Keleres are a useful tool for furthering their own 
+designs. Rather than sending their best operatives away to the Keleres, 
+many send political opponents, incompetents, dangerous prisoners, 
+and other individuals who are difficult to do away with and undesir -
+able to have around. On the other hand, a few Great Powers find it 
+prudent to send highly competent personnel, sometimes out of respect 
+for the Galactic Council but more often than not to clandestinely ad -
+vance their own goals. The Keleres, then, are a strange and difficult 
+order to manage.
+The Galactic Council elects three of its own to be the Tribunii of the 
+Keleres. Members of the Council treat the responsibility with mixed 
+sentiment: as both an honor and a burden. The Tribunii have the 
+power to command the Keleres and to implement the designs of the 
+Galactic Council in a concrete way. However, the mixed quality of the 
+Keleres means having to accept no small number of failures, which, in 
+turn, can hurt the Tribunii when members of the Galactic Council seek 
+accountability. Canny Tribunii, such as Tribunii Kuuasi Aun Jalatai, 
+learn when best to use the Keleres, when to set them aside, and who 
+among the ranks are right for the job.  
+The fraught political environment means that most Councilors 
+don’t serve as Tribunii long. In the five years since the Keleres’ found-
+ing, there have been seven Tribunii, including the current holders of 
+the office. Two were forced to resign in disgrace, one was killed on a 
+mission, and one was assassinated in an intra-agency power struggle. 
+For those Tribunii who meet and overcome the challenge of utilizing 
+the force of the Keleres, however, the fruits are significant indeed. It 
+requires much talent for this to happen, but when it does, it can tip the 
+balance of the Galactic Council itself. 
+The three Tribunii who currently serve are in delicate balance, and 
+therefore the future of the Keleres and the Imperium itself may be at 
+a tipping point. Kuuasi is oldest and wisest among them. Harka Leeds 
+is as ambitious and cunning as she is ruthless in her schemes. Odlynn 
+Myrr, though new to the role, brings a fresh perspective and hope for 
+unity and stability in the Imperium.
+Despite the delicate balance of power between the Tribunii, the 
+Keleres represent the Galactic Council and, as such, must embody the 
+unity of the galaxy, not just the whims of its leaders. The Great Civili -
+zations, however, frequently compete with one another in trade, war, 
+and politics. Though some conflict can cement the bonds of a society, 
+too much can just as easily rip it apart. Thus, the diverse skills of the 
+Keleres are brought to bear on missions of peace and negotiation. 
+At times, the Keleres act as a neutral party or temporary ally among 
+factions at war. Negotiation, knowledge of history, and familiarity with 
+alien species pave the way to peace and prosperity for the galaxy. They 
+broker peace on the one hand, but join battles on the other, especially 
+when violence seems to be the only means to stability.
+STARTING UNITS
+	✧ 2 Infantry
+	✧ 2 Carriers
+	✧ 2 Fighters
+	✧ 1 Cruiser
+	✧ 1 Space Dock
+IMPERIAL INTELLIGENCE HQ
+	✧ Location Mecatol City
+	✧ Leadership The Tribunii
+	✧ Agents Classified
+	✧ Support Staff ~5000
+	✧ Ongoing Ops Classified
+THE COUNCIL KELERES
+STARTING TECHNOLOGY
+Choose 2 non-faction 
+technologies owned by  
+other players.
+FACTION SHEET
+===== PAGE 20 =====
+20Galactic Vigil
+FACTION  
+REFERENCE CARD
+ALLIANCE  
+REFERENCE CARD
+COMPLEXITY
+2
+STARTING UNITS
+2 infantry
+2 carriers  
+2 fighters 
+1 cruiser
+1 space dock
+STARTING TECH
+Can start with two tech that 
+others started with
+FACTION TECH
+• Can produce in 
+multiple locations 
+at once
+• Has a planet that 
+nobody can take  
+from them
+FACTION LEADERS
+• Can spend commodities as if 
+they were trade goods
+• Can perform extra component 
+actions
+• Has three powerful hero options
+FACTION ABILITIES
+• Has a variable home system 
+and hero
+• Can ignore effects of laws
+• Automatically replenishes 
+commodities every round
+PROMISSORY
+Lets another 
+player benefit from 
+predicting agendas
+FLAGSHIP
+Others must spend 
+influence to fight
+MECH
+Others must spend 
+influence to fight
+HOME SYSTEM
+Variable (Argent, 
+Xxcha, or Mentak 
+home system)
+GALACTIC PEACEKEEPERS
+THE COUNCIL KELERES
+After you perform a 
+component action: 
+You may perform an 
+additional action.
+AGENCY LIAISON
+KELERES ALLIANCE
+UPCOMING UPCOMING 
+DOWNLOADABLE CONTENTDOWNLOADABLE CONTENT  
+Later this year, the Council Keleres joins the all-new Twilight 
+Inscription!  Follow us for updates.
+===== PAGE 21 =====
+21
+Rules Updates
+ACONYTEBOOKS.COM WORLD EXPANDING FICTIOn
+AVAILABLE FROM ALL GOOD BOOK STORES, HOBBY STORES 
+& ONLINE IN PAPERBACK, EBOOK & AUDIOBOOK
+BIANCA XING HAS SPENT a lifetime on a provincial planet, dreaming of 
+traveling the stars. When her planet is annexed by the Barony of Letnev, Bianca 
+/f_i  nds herself being taken into custody, told that she’s special – the secret daughter 
+of a brilliant scientist, hidden away on a remote planet for her own safety. 
+But the truth about Bianca is stranger. /T_h  ere are secrets hidden in her genetic 
+code that could have galaxy altering consequences. Driven by an incredible 
+yearning and assisted by the fearsome Letnev Captain, Dampierre, Bianca must 
+follow her destiny to the end, even if it leads to places that are best le/f_t   forgotten.
+352PP PAPERBACK 978-1-83908-076-0 // EBOOK 978-1-83908-077-7
+CAPTAIN FELIX DUVAL and the crew of the Temerarious quietly patrol a 
+remote Mentak Coalition colony system where nothing ever happens. But when 
+they answer a distress call from a moon under attack, that peaceful existence is torn 
+apart. /T_h  ey rescue a scientist, /T_h  ales, who’s developing revolutionary technology 
+to create new wormholes. He just needs a few things to make it fully operational… 
+And now, ordered to aid the scientist, the Temerarious is targeted by two rival 
+black-ops teams intent on reacquiring /T_h  ales. Can Felix trust /T_h  ales? Or is this a 
+conspiracy to tip the balance of power in the galaxy forever?
+352PP PAPERBACK 978-1-83908-046-3 // EBOOK 978-1-83908-047-0
+ a lifetime on a provincial planet, dreaming of 
+AVAILABLE FROM ALL GOOD BOOK STORES, HOBBY STORES 
+THE BALANCE OF POWER is shi/f_t  ing, with bold new alliances, unknown 
+invaders, and the rumored return of the galaxy’s ancient masters. When black-
+ops spy Amina Azad saves a Hacan ambassador from assassination, she draws 
+him into her investigation of a vast conspiracy: unseen forces are destabilizing the 
+whole galaxy, at the worst possible time.
+Pursued by agents from dozens of other factions, they can only make progress 
+by allying with their apparent enemies. But even they might be compromised – 
+duped into action by a secret puppet-master. How can they trust an alliance when 
+they can’t trust themselves?
+352PP PAPERBACK 978-1-83908-136-1 // EBOOK 978-1-83908-137-8
+ASTOUNDING SPACE OPERA FROM THE 
+TWILIGHT IMPERIUM  UNIVERSE, BY HUGO 
+AWARD-WINNING AUTHOR TIM PRATT
+===== PAGE 22 =====
+22
+Rules Updates
+A roll & write game set in the Twilight Imperium Universe, Twilight Inscription provides 
+a streamlined and accessible way to experience this legendary setting.  Players can 
+explore the galaxy, expand their influence, develop their infrastructure, and 
+ultimately strike down any rivals. 
+“Twilight Inscription is to roll & writes as Twilight Imperium is to 
+board games.  Make some room, you’re gonna need it. ”   
+Chris Gerber, FFG Head of Studio
+AN EPIC ROLL & WRITE
+Experience the legendary Twilight Imperium 
+Universe in this accessible adaptation for 1–8 
+players. Lead your civilization to greatness 
+as you explore the galaxy, expand your 
+influence, develop your infrastructure,  
+and strike down your rivals.
+MAKE YOUR MARK 
+ON THE GALAXY
+By marking only one sheet at 
+a time, will you forge a future 
+as resourceful warmongers 
+or industrious explorers? 
+Or will you try to master 
+them all?
+WITNESS THE FORGING  
+OF AN EMPIRE
+Oversized dice and bright 
+chalk markers bring the 
+galaxy to life on reusable 
+dry-erase player sheets.
+GOVERN 1 OF 24  
+INTERSTELLAR FACTIONS
+Choose any of the galaxy’s great 
+powers, including the cunning Emirates 
+of Hacan, the adventurous Naaz-Rokha 
+Alliance, or the enigmatic Ghosts of 
+Creuss.
+©2022 Fantasy Flight Games. Twilight Inscription, Fantasy Flight Games, 
+and the FFG logo are TM/® of Fantasy Flight Games.
+www.FantasyFlight games .com
+
+
+########## ti_codex_3_cards.pdf ##########
+===== PAGE 1 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+6
+COMBAT COST
+2
+✦ ✦ SUSTAIN DAMAGESUSTAIN DAMAGE
+Other players cannot use ANTI-FIGHTER BARRAGE 
+against your units in this system.
+NAALU MECH
+ICONOCLAST 
+This card satisfies a green 
+technology prerequisite.
+When you research a tech 
+owned by another player, you 
+may return 1 of your infantry 
+to reinforcements 
+to ignore its 
+prerequisites.
+BROTHER OMAR 
+SPINNER DEVOTEE
+At any time:
+You may look at your 
+neighbors’ hands of 
+promissory notes and the 
+top and bottom card of the 
+agenda deck.
+M’ABAN 
+CRYSTALLINE SORCERESS
+ACTION: Commit up to 3 infantry 
+from your reinforcements to any non-
+home planets and resolve invasions 
+on those planets; players cannot use 
+SPACE CANNON against these units. 
+Then, purge this card.
+BLESSING OF THE YIN
+QUANTUM DISSEMINATION 
+When you exhaust planets, combine 
+the values of their resources and 
+influence. Treat the combined value as 
+if it were both resources and influence.
+VOICE OF THE COUNCIL
+POLITICAL DATA NEXUS 
+After a player’s unit is 
+destroyed: 
+You may exhaust this card to 
+allow that player to place  
+2 fighters in the destroyed 
+unit’s system if it was a ship, 
+or 2 infantry on its planet if it 
+was a ground force.
+PURIFIED BY FIRE
+BROTHER MILOR 
+ACTION: Exhaust this 
+card and choose a player; 
+that player may perform 
+a tactical action in a 
+non-home system without 
+placing a command token; 
+that system still counts as 
+being activated.
+AGENT OF THE NEFISHH
+Z’EU 
+===== PAGE 2 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+It is said that Omar’s creation of 
+the genetic spinner loom is the 
+greatest breakthrough for the 
+Brotherhood since Darien’s first 
+forbidden research centuries ago.
+UNLOCK: Use one of your 
+faction abilities.
+SPINNER DEVOTEE
+BROTHER OMAR 
+First amongst Q’uesh’s sorceresses, 
+M’aban has been gifted with 
+radium crystal enhancements, 
+allowing her mind to sing to 
+thousands of Naalu at once.
+UNLOCK: Have ground 
+forces in or adjacent to the 
+Mecatol Rex system.
+CRYSTALLINE SORCERESS
+M’ABAN 
+At Dannel’s command, they burnt 
+out their spinners, welcoming 
+thousands of new brothers into 
+their ranks in mere weeks. Such is 
+the potential of the Yin.
+UNLOCK: Have 3 scored 
+objectives.
+HIGH PRIEST OF YIN
+DANNEL OF THE TENTH 
+When the motion of annexation 
+failed in the Galactic Council, 
+nobody was surprised. Grom 
+had personally guaranteed the 
+measure’s defeat, and it turned out 
+everyone owed the Xxcha a favor.
+UNLOCK: Have 3 scored 
+objectives.
+THE COUNCIL’S HEART
+XXEKIR GROM 
+"Brothers... " Milor said, openly 
+weeping as he watched the ships 
+break apart in the sky above. 
+“They must not be forgotten! In 
+Darien’s name, we fight to the 
+last!" The crowd roared in support.
+BROTHER MILOR 
+PURIFIED BY FIRE
+" …and that’s why the Letnev 
+will never cooperate with the 
+Shikrai zealots and extremists!" 
+Ambassador Beumosile 
+thundered. The Galactic Council 
+exploded in angry shouts as he 
+sat down. "Very good, my pet, " the 
+velvet voice hissed in his mind, 
+and he basked in the warmth of 
+its praise.
+AGENT OF THE NEFISHH
+Z’EU 
+===== PAGE 3 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+
+===== PAGE 4 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+
+===== PAGE 5 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+6
+COMBAT COST
+2
+✦ ✦ SUSTAIN DAMAGESUSTAIN DAMAGE
+Other players must spend 1 influence to commit 
+ground forces to the planet that contains this unit.
+KELERES MECH
+OMNIOPIARES
+ACTION: Reveal cards from the action 
+card deck until you reveal 3 action 
+cards that have component actions. 
+Draw those cards and shuffle the rest 
+back into the action card deck.
+Then, purge this card.
+ERWAN’S COVENANT
+THE WINDS OF CHANGE
+After you perform a 
+component action: 
+You may perform an 
+additional action.
+SUFFI AN
+WORKING MULTIPLE ANGLES
+Whenever you resolve one of your 
+PRODUCTION abilities, you may resolve an 
+additional one of your PRODUCTION abilities 
+in any system; the additional use does not 
+trigger this ability.
+THE COUNCIL KELERES
+AGENCY SUPPLY NETWORK
+You are neighbors with all players that have 
+units or control planets in or adjacent to the 
+Mecatol Rex system.
+Gain the Custodia Vigilia planet card and  
+its legendary planet ability card. You cannot 
+lose these cards, and this card cannot  
+have an X or Y assimilator token  
+placed on it.
+ I.I.H.Q. MODERNIZATION
+THE COUNCIL KELERES
+At the start of a round of space 
+combat in a system that contains a 
+planet you control:
+Place your flagship and up to a total of 
+2 cruisers and/or destroyers from your 
+reinforcements in the active system.
+Then, purge this card.
+OVERWING ZETA
+ARTEMIRIS ASCENDANT
+After an agenda is revealed: 
+You may cast up to 6 additional 
+votes on this agenda. Predict aloud 
+an outcome of this agenda. For 
+each player that votes for another 
+outcome, gain 1 trade good and  
+1 command token.
+Then, purge this card.
+OPERATION ARCHON
+WITCHING HOUR
+At any time:
+You may exhaust this card 
+to allow any player to spend 
+commodities as if they were 
+trade goods.
+XANDER ALEXIN VICTORI III
+MIRACLE WORKER
+===== PAGE 6 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+Authority. Strength. Efficacy.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Mentak during setup.
+KELERES TRIBUNII
+HARKA LEEDS
+UNLOCK: Spend 1 trade 
+good after you play an 
+action card that has a 
+component action.
+Suffi looked over the contracts. “So 
+I get paid twice...once each by two 
+different contractors...for doing 
+the same job? What’s the catch?"
+WORKING MULTIPLE ANGLES
+SUFFI AN
+Valor. Grace. Wisdom.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Argent Flight during setup.
+KELERES TRIBUNII
+KUUASI AUN JALATAI
+Peace. Community. Deterrence.
+UNLOCK: Have 3 scored 
+objectives.
+Available if you chose the 
+Xxcha during setup.
+KELERES TRIBUNII
+ODLYNN MYRR
+"It’s honestly incredible, the way 
+he manages to stretch a couple 
+aurei. To find money where there is 
+none. The man could fund an army 
+at the same cost you or I might get 
+lunch. Terrifying, really. "
+–Suffi An
+MIRACLE WORKER
+XANDER ALEXIN VICTORI III
+===== PAGE 7 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+Pax magnifica,  
+bellum gloriosum.
+While you control Mecatol 
+Rex, it gains SPACE CANNON 5 
+and PRODUCTION 3.
+Gain 2 command tokens 
+when another player gains 
+VP using Imperial.
+CUSTODIA VIGILIA
+LEGENDARY—KELERES
+3
+2
+Custodia Vigilia. The fully realized 
+seat of the Keleres. A veritable fortress 
+in the heart of Mecatol City. Ten 
+thousand people come and go daily, 
+and the Keleres see them all.
+CUSTODIA VIGILIA
+After an agenda is 
+revealed: 
+You cannot vote on this 
+agenda. Predict aloud an 
+outcome of this agenda. If 
+your prediction is correct, 
+draw 1 action card and gain  
+2 trade goods. 
+Then, return this card to the 
+Keleres player.
+KELERES RIDER
+After you perform a 
+component action: 
+You may perform an 
+additional action.
+AGENCY LIAISON
+KELERES ALLIANCE
+COURT SORCERESS
+NAALU ALLIANCE
+At any time:
+You may look at your 
+neighbors’ hands of 
+promissory notes and the 
+top and bottom card of the 
+agenda deck.
+SPINNER TRANSMISSION
+YIN ALLIANCE
+This card satisfies a green 
+technology prerequisite.
+When you research a tech 
+owned by another player, you 
+may return 1 of your infantry 
+to reinforcements 
+to ignore its 
+prerequisites.
+
+===== PAGE 8 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+CUSTODIA VIGILIA
+3
+2
+CUSTODIA VIGILIA
+
+===== PAGE 9 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+COMPLEXITY
+2
+STARTING UNITS
+2 infantry
+2 carriers 
+2 fighters 
+1 cruiser
+1 space dock
+STARTING TECH
+Can start with two tech that 
+others started with
+FACTION TECH
+• Can produce in 
+multiple locations 
+at once
+• Has a planet that 
+nobody can take  
+from them
+FACTION LEADERS
+• Can spend commodities as if 
+they were trade goods
+• Can perform extra component 
+actions
+• Has three powerful hero options
+FACTION ABILITIES
+• Has a variable home system 
+and hero
+• Can ignore effects of laws
+• Automatically replenishes 
+commodities every round
+PROMISSORY
+Lets another 
+player benefit from 
+predicting agendas
+FLAGSHIP
+Others must spend 
+influence to fight
+MECH
+Others must spend 
+influence to fight
+HOME SYSTEM
+Variable (Argent, 
+Xxcha, or Mentak 
+home system)
+GALACTIC PEACEKEEPERS
+THE COUNCIL KELERES
+COMPLEXITY
+HEART OF THE COUNCIL
+FACTION TECH
+• Cancels a player's turn 
+when they activate 
+your system
+• Cancels a player's 
+action card when it 
+is played
+FACTION LEADERS
+• Refreshes a planet and removes 
+an infantry from it
+• Provides extra votes for each 
+planet
+• Combines resource and 
+influence values of planets
+MECH
+Can use the space 
+cannon ability
+FLAGSHIP
+Can use the space 
+cannon ability
+PROMISSORY
+Allows another player 
+to quash an agenda
+HOME SYSTEM
+Archon Ren:
+Archon Tau:
+3 2
+1 1
+STARTING UNITS
+1 carrier
+2 cruisers 
+3 fighters 
+4 infantry
+1 space dock
+1 PDS
+STARTING TECH
+     Graviton Laser System
+FACTION ABILITIES
+• Can annex adjacent, empty 
+planets with the diplomacy 
+strategy card
+• Can spend command tokens 
+to quash an agenda and draw 
+a new one
+4
+THE XXCHA KINGDOM
+COMPLEXITY
+TELEPATHIC MANIPULATORS 
+PROMISSORY
+Allows another player 
+to be first in initiative 
+order
+FACTION TECH
+• Your fighters only 
+count as half of a ship 
+against your limit
+• Players lose a token 
+from fleet pool when 
+they attack you
+FACTION LEADERS
+• Lets a player take a free tactical 
+action
+• Allows you to spy on agendas 
+and promissory notes
+• Forces each other player to give 
+you a promissory note
+FLAGSHIP
+Accompanying 
+fighters can fight in 
+ground combat
+MECH
+Protects fighters from 
+anti-fighter barrage
+FACTION ABILITIES
+• You are always first in 
+initiative order
+• When others move ships into 
+your systems, you can move 
+your ships out in response
+• Your fighters are stronger
+HOME SYSTEM
+Maaluuk:
+Druua:
+2 0
+1 3
+STARTING TECH
+     Neural Motivator
+     Sarween Tools
+STARTING UNITS
+1 carrier
+1 cruiser 
+1 destroyer
+3 fighters 
+4 infantry
+1 space dock
+1 PDS
+3
+THE NAALU COLLECTIVE
+COMPLEXITY
+CHILDREN OF MOYIN
+FACTION TECH
+• Can sacrifice ships to 
+produce hits before 
+combat begins
+• Produces extra 
+infantry when you use 
+production
+FACTION LEADERS
+• Can turn destroyed units into 
+fighters and infantry
+• Counts as a green technology 
+and makes researching easier
+• Initiates several invasions across 
+the galaxy
+MECH
+Can spend influence 
+to place when 
+indoctrinating
+FLAGSHIP
+Explodes when 
+destroyed, destroying 
+all nearby ships
+FACTION ABILITIES
+• You can indoctrinate an 
+enemy infantry, causing them 
+to switch sides
+• You can sacrifice cruisers and 
+destroyers to hit enemy ships 
+after each combat round
+PROMISSORY
+Allows you to lend 
+your indoctrination 
+ability to others
+HOME SYSTEM
+Darien:
+4 4
+STARTING UNITS
+2 carriers
+1 destroyer 
+4 fighters 
+4 infantry
+1 space dock
+STARTING TECH
+     Sarween Tools
+2
+THE YIN BROTHERHOOD
+===== PAGE 10 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+
+===== PAGE 11 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+-
+COST
+-
+COMBAT
+-
+MOVE
+- -
+CAPACITY CAPACITY
+UPGRADEUPGRADEUPGRADE
+UPGRADE
+UPGRADE
+UPGRADE
+You cannot produce this unit unless  You cannot produce this unit unless  
+you own its unit upgrade technology.you own its unit upgrade technology.
+WAR SUN
+COST COMBAT
+1
+MOVE CAPACITY
+✦✦  SUSTAIN DAMAGESUSTAIN DAMAGE
+4
+COST
+5
+COMBAT
+1
+MOVE
+1
+CAPACITY
+✦✦  SUSTAIN DAMAGE   SUSTAIN DAMAGE   ✦✦  BOMBARDMENT 5BOMBARDMENT 5
+DREADNOUGHT I
+3
+COST
+9
+COMBAT
+1
+MOVE
+4
+CAPACITY
+CARRIER I
+2
+COST
+7
+COMBAT
+2
+MOVE
+CRUISER I
+1
+COST
+9
+COMBAT
+2
+MOVE
+✦✦  ANTI-FIGHTER BARRAGE 9 (X2)ANTI-FIGHTER BARRAGE 9 (X2)
+DESTROYER I
+✦✦  PLANETARY SHIELD   PLANETARY SHIELD   ✦✦  SPACE CANNON 6SPACE CANNON 6
+PDS I
+COST
+9
+COMBAT
+-
+MOVE
+FIGHTER I
+COST
+8
+COMBAT
+INFANTRY I
+✦✦  PRODUCTION XPRODUCTION X
+This unit’s PRODUCTION  value is equal to 2 
+more than the resource value of this planet. 
+Up to 3 fighters in this system do not count 
+against your ships’ capacity.
+SPACE DOCK I
+UPGRADE
+UPGRADE
+UPGRADE
+11
+COMMODITIES
+6 7 8
+2
+KELERES FLAGSHIP
+ARTEMIRIS
+Other players must spend 2 influence to 
+activate the system that contains this ship.
+THE TRIBUNII
+During setup, choose an unplayed faction 
+from among the Mentak, the Xxcha, and 
+The Argent Flight; take that faction’s home 
+system, command tokens, and control markers. 
+Additionally, take the Keleres Hero that 
+corresponds to that faction.
+COUNCIL PATRONAGE
+Replenish your commodities at the start of the 
+strategy phase, then gain 1 trade good.
+LAW’S ORDER
+You may spend 1 influence at the start of your 
+turn to treat all laws as blank until the end of 
+your turn.
+“Our duty is to protect the billions 
+of people in our galaxy, not the 
+few hundred in these Council 
+Chambers. ” –Tribunii Harka Leeds
+THE COUNCIL KELERES
+===== PAGE 12 =====
+Permission to print support items for individual use only. Not for commercial use, not for retail sale.
+TM/
+®
+ & © 2022 Fantasy Flight Games.
+The old Imperial Intelligence HQ 
+in Mecatol City serves as both a 
+temporary base for the Keleres as 
+well as the site of its future home—
+the Custodia Vigilia—which is 
+currently undergoing a lengthy and 
+expensive construction process.
+Across the galaxy, planetary governors compete for trade opportu-
+nities, the Great Civilizations joust for superiority on the battlefront, 
+and still other, more insidious factions play at shaping galactic history 
+for their own ends. In a galaxy fraught with so many agendas, it’s no 
+surprise that the Galactic Council took it upon itself to assemble a 
+force of its own to manage its affairs. The Keleres of the Council are 
+that force, but they are also something more. They are a ragtag army of 
+bureaucrats, soldiers, and spies, often at odds with themselves and not 
+always appreciated by the galaxy they serve. 
+Though the Keleres are born of the Galactic Council, they are often 
+left to their own devices, traveling the galaxy brokering peace, inter -
+vening in conflicts, and tackling threats to galactic civilization as a 
+whole. They even act without the consent of the Tribunii or the Ga -
+lactic Council when timeliness is a factor, only to be censured by the 
+Galactic Council after the fact.  
+The member states of the Council send recruits, who are selected 
+according to the traditions of each individual planet or system, to 
+serve in the Keleres. The Great Powers have learned, since the Keleres’s 
+founding, that the Keleres are a useful tool for furthering their own 
+designs. Rather than sending their best operatives away to the Keleres, 
+many send political opponents, incompetents, dangerous prisoners, 
+and other individuals who are difficult to do away with and undesir -
+able to have around. On the other hand, a few Great Powers find it 
+prudent to send highly competent personnel, sometimes out of respect 
+for the Galactic Council but more often than not to clandestinely ad -
+vance their own goals. The Keleres, then, are a strange and difficult 
+order to manage.
+The Galactic Council elects three of its own to be the Tribunii of the 
+Keleres. Members of the Council treat the responsibility with mixed 
+sentiment: as both an honor and a burden. The Tribunii have the 
+power to command the Keleres and to implement the designs of the 
+Galactic Council in a concrete way. However, the mixed quality of the 
+Keleres means having to accept no small number of failures, which, in 
+turn, can hurt the Tribunii when members of the Galactic Council seek 
+accountability. Canny Tribunii, such as Tribunii Kuuasi Aun Jalatai, 
+learn when best to use the Keleres, when to set them aside, and who 
+among the ranks are right for the job.  
+The fraught political environment means that most Councilors 
+don’t serve as Tribunii long. In the five years since the Keleres’ found-
+ing, there have been seven Tribunii, including the current holders of 
+the office. Two were forced to resign in disgrace, one was killed on a 
+mission, and one was assassinated in an intra-agency power struggle. 
+For those Tribunii who meet and overcome the challenge of utilizing 
+the force of the Keleres, however, the fruits are significant indeed. It 
+requires much talent for this to happen, but when it does, it can tip the 
+balance of the Galactic Council itself. 
+The three Tribunii who currently serve are in delicate balance, and 
+therefore the future of the Keleres and the Imperium itself may be at 
+a tipping point. Kuuasi is oldest and wisest among them. Harka Leeds 
+is as ambitious and cunning as she is ruthless in her schemes. Odlynn 
+Myrr, though new to the role, brings a fresh perspective and hope for 
+unity and stability in the Imperium.
+Despite the delicate balance of power between the Tribunii, the 
+Keleres represent the Galactic Council and, as such, must embody the 
+unity of the galaxy, not just the whims of its leaders. The Great Civili -
+zations, however, frequently compete with one another in trade, war, 
+and politics. Though some conflict can cement the bonds of a society, 
+too much can just as easily rip it apart. Thus, the diverse skills of the 
+Keleres are brought to bear on missions of peace and negotiation. 
+At times, the Keleres act as a neutral party or temporary ally among 
+factions at war. Negotiation, knowledge of history, and familiarity with 
+alien species pave the way to peace and prosperity for the galaxy. They 
+broker peace on the one hand, but join battles on the other, especially 
+when violence seems to be the only means to stability.
+STARTING UNITS
+	 ✧2 Infantry
+	 ✧2 Carriers
+	 ✧2 Fighters
+	 ✧1 Cruiser
+	 ✧1 Space Dock
+IMPERIAL INTELLIGENCE HQ
+	 ✧Location Mecatol City
+	 ✧Leadership The Tribunii
+	 ✧Agents Classified
+	 ✧Support Staff ~5000
+	 ✧Ongoing Ops Classified
+THE COUNCIL KELERES
+STARTING TECHNOLOGY
+Choose 2 non-faction 
+technologies owned by  
+other players.
+
