@@ -37,6 +37,8 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     echo $content;
     echo '<title>' . htmlspecialchars($page_title) . '</title>';
     echo "\n</head>\n<body>\n";
-    echo preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);
+    $page_content = preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);
+    // Wiki links open in a new tab (skips any link that already sets a target)
+    echo preg_replace('/<a href="(https:\/\/twilight-imperium\.fandom\.com[^"]*)"(?![^>]*\btarget=)/', '<a href="$1" target="_blank"', $page_content);
 });
 ?>
