@@ -76,8 +76,9 @@
     <ol><li>All planets will be readied at the end of the agenda phase.<sup>3</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke &Omega;</a></h2>
@@ -158,7 +159,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>
     <ol class="note">
     <li>If the <a href="/F_ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup></li>
-    <li><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li>
+    <li class="removed"><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li>
     <li><i>Disable</i> does not affect the <b>Space Cannon Offense</b> step, and is not played until the start of the <b>Invasion</b> step.<sup>2</sup></li>
     </ol>
 
@@ -276,8 +277,9 @@
     <li>A player may move zero ground forces with <i>Ghost Squad</i>.<sup>10</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup></li>
     <li>The speaker will still vote last.<sup>10</sup></li>
     <li>The <a href="/F_argent">Argent</a> player will still vote before all other players.<sup>*</sup></li>
     </ol>
@@ -325,8 +327,9 @@
     <ol><li>The <a href="/F_ul">Ul</a> player will place each of their Hel Titan PDS undamaged.<sup>4</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed, it resolves before <i>Insider Information</i>; the player looks at the agenda after the one drawn by the speaker.<sup>2</sup></li>
     </ol>
 

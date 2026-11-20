@@ -16,8 +16,9 @@
     <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> <sub>(Technology)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>The war sun must be in the system prior to the use of <a href="/R_production"><sc>Production</sc></a> to gain the trade good.<sup>*</sup></li>
     <li>The trade good is gained after the use of <a href="/R_production"><sc>Production</sc></a>; it cannot be used to pay for the produced units.<sup>*</sup></li>
     </ol>

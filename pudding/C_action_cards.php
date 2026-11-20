@@ -181,8 +181,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Counterstroke Ω.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke &Omega;</a></h2>
@@ -363,7 +367,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
+    <li class="removed"><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Codex (Omega) Magen Defense Grid still work if the PDS on the planet has been hit by Disable?&rdquo;: &ldquo;Yes &mdash; Disable only strips the PDS&rsquo;s Planetary Shield and Space Cannon; it is still a structure, so Magen Defense Grid still produces its hit.&rdquo;</li>
         </ul></li>
@@ -631,8 +635,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Hack Election Ω.</li>
+        </ul></li>
     <li>The speaker will still vote last.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Hack Election: &ldquo;During this agenda, voting begins with the player to the right of the speaker and continues counterclockwise.&rdquo; voting starts right of speaker, so speaker is last.</li>
@@ -737,8 +745,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Insider Information Ω.</li>
+        </ul></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed, it resolves before <i>Insider Information</i>; the player looks at the agenda after the one drawn by the speaker.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Insider Information interact with Covert Legislation?&rdquo;: &ldquo;Covert Legislation is a &lsquo;when&rsquo; effect that takes the next agenda first, so Insider Information, an &lsquo;after&rsquo; effect, sees the card after that.&rdquo;</li>

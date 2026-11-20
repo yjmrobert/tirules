@@ -30,14 +30,14 @@ E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability sho
 E2 RulesPal, "How does the Yin's Devotion work?": "the errata adds 'in the active system'."
 I5 Designer ruling (Yin4Life, 12/10/2018): "No, The Yin's Devotion ability cannot be used to destroy ships in a non-active system." Devotion limited to the active system.
 @13
+E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Greyfire Mutagen".
+@14
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships …?": the flagship's abilities are "text abilities," not faction abilities.
 E5 Designer ruling (sigmazero13, Mar 14, 2018): "Nope, a flagship's ability is not a faction ability."
-@14
-I1 LRR FAQ: a promissory note "acquired from a transaction during that window" may "be played immediately."
 @15
-I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
+I1 LRR FAQ: a promissory note "acquired from a transaction during that window" may "be played immediately."
 @16
-N No source found.
+I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
 @17
 N No source found.
 @18
@@ -45,108 +45,120 @@ N No source found.
 @19
 N No source found.
 @20
-E5 Designer ruling: "Assault Cannon and Mentak's Ambush happen before Anti-Fighter Barrage … likely would be assault cannons first, followed by impulse drive, followed by ambush."
-@21
-E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "on any planet you control in that system"
-@22
-E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "The original gives one infantry per use of Production, however many units produced."
-@23
-E2 Same entry: "it doesn't trigger from Integrated Economy, which uses no Production ability."
-@24
 N No source found.
+@21
+E5 Designer ruling: "Assault Cannon and Mentak's Ambush happen before Anti-Fighter Barrage … likely would be assault cannons first, followed by impulse drive, followed by ambush."
+@22
+E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Yin Spinner".
+@23
+E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "on any planet you control in that system"
+@24
+E2 RulesPal, "How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?": "The original gives one infantry per use of Production, however many units produced."
 @25
-E2 Same entry: "The Omega version gives 2 infantry, triggers whenever you produce."
-E7 Thunder's Edge card text: "After you produce units, place up to 2 infantry."
-E10 Codex I card text: "After you produce units, place up to 2 infantry."
+E2 Same entry: "it doesn't trigger from Integrated Economy, which uses no Production ability."
 @26
 N No source found.
 @27
-N No source found.
+E2 Same entry: "The Omega version gives 2 infantry, triggers whenever you produce."
+E7 Thunder's Edge card text: "After you produce units, place up to 2 infantry."
+E10 Codex I card text: "After you produce units, place up to 2 infantry."
 @28
-I4 Designer ruling, on a similar effect, the Mentak hero: "after both players assign hits the Mentak player then places a ship … and combat continues."
+N No source found.
 @29
-I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
+N No source found.
 @30
-N No source found.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Brother Milor".
 @31
-N No source found.
+I4 Designer ruling, on a similar effect, the Mentak hero: "after both players assign hits the Mentak player then places a ship … and combat continues."
 @32
-E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
 @33
-E4 Designer ruling: "Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase."
+N No source found.
 @34
-I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
+N No source found.
 @35
-N No source found.
-@36
-N No source found.
-@37
 E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+@36
+I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Brother Milor ΩΩ.
+@37
+E4 Designer ruling: "Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase."
 @38
-N No source found.
-@39
-E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
-@40
-E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
-@41
-N No source found. Card text (Brother Milor ΩΩ, supplied by the owner): "After a player's unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry on its planet if it was a ground force."
-@42
 I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
+@39
+N No source found.
+@40
+N No source found.
+@41
+E4 Designer ruling: "If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger."
+@42
+N No source found.
 @43
-N No source found.
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @44
-N No source found.
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @45
-E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
+N No source found. Card text (Brother Milor ΩΩ, supplied by the owner): "After a player's unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry on its planet if it was a ground force."
 @46
-E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
+I3 Learn to Play: "During combat, a player’s fighters and ground forces can exceed their ships’ capacity, but at the end of the combat, any excess units are destroyed." Capacity is not enforced mid-combat.
 @47
 N No source found.
 @48
 N No source found.
 @49
-E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
-E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit."
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @50
-E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit, so 1 resource buys 3 infantry (Yin) or 3 fighters (Naalu), and it works even when producing just one."
-E4 Designer ruling: "both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do."
+E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @51
-N No source found.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Brother Omar".
 @52
 N No source found.
 @53
 N No source found.
 @54
-N No source found.
+E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
+E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit."
 @55
-E2 RulesPal, "Does the Yin hero commit 3 infantry per planet or 3 in total?": "3 in total, spread across one or more non-home planets."
-E12 Codex III: "Commit up to 3 infantry from your reinforcements to any non-home planets."
+E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "you may produce one extra for its cost, outside your Production limit, so 1 resource buys 3 infantry (Yin) or 3 fighters (Naalu), and it works even when producing just one."
+E4 Designer ruling: "both of these commanders allow the player to choose to only build a single fighter/infantry for 1 resource and gain an additional unit of that type each time they do."
 @56
 N No source found.
 @57
-E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
+N No source found.
 @58
 N No source found.
 @59
-E12 Codex III: "Commit up to 3 infantry from your reinforcements."
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Dannel of the Tenth (Quantum Dissemination)".
 @60
 N No source found.
 @61
-N No source found.
+E2 RulesPal, "Does the Yin hero commit 3 infantry per planet or 3 in total?": "3 in total, spread across one or more non-home planets."
+E12 Codex III: "Commit up to 3 infantry from your reinforcements to any non-home planets."
 @62
-E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
+N No source found.
 @63
-N No source found.
+E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
 @64
-E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
-E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
-@65
 N No source found.
+@65
+E12 Codex III: "Commit up to 3 infantry from your reinforcements."
 @66
 N No source found.
 @67
 N No source found.
 @68
-I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
+E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
 @69
+N No source found.
+@70
+E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
+E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
+@71
+N No source found.
+@72
+N No source found.
+@73
+N No source found.
+@74
+I7 Thunder's Edge Rulebook, Alliance Reference Cards: "When gained for any reason other than a reference to an “Alliance” promissory note, the gaining player places the card in their play area. They can use its ability." Yin breakthrough gains the card; ability usable without unlock.
+@75
 E6 Community consensus: "When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability …? A: Each has their own alliance card."

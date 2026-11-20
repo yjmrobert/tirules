@@ -52,7 +52,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can L1Z1X mechs bombard through Harrow?&rdquo;: &ldquo;Only when not in that ground combat: a mech fighting on a planet can&rsquo;t bombard it, but one on another planet in the system can.&rdquo;</li>
         </ul></li></ol>
-    <li>The L1Z1X player may use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup>
+    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;Harrow is Bombardment.&rdquo;</li>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, X-89 Bacterial Weapon: &ldquo;After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent&rsquo;s infantry was destroyed, you may destroy all of your opponent&rsquo;s infantry on that planet.&rdquo; triggers whenever units use BOMBARDMENT.</li>
@@ -60,8 +60,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Cybernetic Enhancements&rdquo;.</li>
+        </ul></li>
     <li>If the L1Z1X player has no command tokens in their strategy pool, <i>Cybernetic Enhancements</i> cannot be played.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can L1Z1X Cybernetic Enhancements or Xxcha Political Favor be used if their owner has no command token in the strategy pool?&rdquo;: &ldquo;No &mdash; &hellip; if there is no token to remove, nothing on it resolves.&rdquo;</li>
@@ -116,7 +120,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup>
+    <li class="removed">Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
         </ul></li>

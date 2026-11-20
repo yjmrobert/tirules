@@ -72,12 +72,14 @@
     <li>The text of <i>Hyper Metabolism</i> is changed to: &ldquo;During the status phase, gain 3 command tokens instead of 2.&rdquo;<sup>1,10</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.<sup>*</sup></li>
     <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> will trigger only after all bombardment hits have been assigned.<sup>*</sup></li>
     <li>The <a href="/F_lizix">L1Z1X</a> may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>*</sup></li>
@@ -114,13 +116,15 @@
     <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.<sup>2</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.<sup>10</sup></li>
     <li>The chosen ground force may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ground force with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>*</sup></li>
     <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.<sup>*</sup></li>

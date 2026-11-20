@@ -16,11 +16,12 @@
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup></li>
     <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2</sup></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup></li></ol>
-    <li>The L1Z1X player may use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
+    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>If the L1Z1X player has no command tokens in their strategy pool, <i>Cybernetic Enhancements</i> cannot be played.<sup>2,5</sup></li>
     </ol>
 
@@ -52,7 +53,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup></li>
+    <li class="removed">Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>. The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>

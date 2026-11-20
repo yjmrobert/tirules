@@ -11,8 +11,9 @@
     <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.<sup>2,5</sup></li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.<sup>1</sup></li>
     <ol>
@@ -48,8 +49,8 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.<sup>*</sup></li>
-    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
-    <ol><li>The <i>Arc Secundus</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>*</sup></li></ol>
+    <li class="removed">If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
+    <ol><li>The <i>Arc Secundus</i> has no effect on the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>*</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>

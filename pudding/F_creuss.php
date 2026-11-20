@@ -118,8 +118,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> <sub>(Technology)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Wormhole Generator&rdquo;.</li>
+        </ul></li>
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Creuss&rsquo;s Wormhole Generator mandatory &hellip;?&rdquo;: &ldquo;A player relays a developer email saying it is mandatory each status phase, since it lacks &lsquo;may&rsquo;.&rdquo;</li>

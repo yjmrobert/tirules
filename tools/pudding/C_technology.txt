@@ -57,145 +57,153 @@ I2 RulesPal, "Does Psychoarchaeology give 1 trade good per planet or 1 total?": 
 E1 LRR errata: "The text of the 'Hyper Metabolism' technology should read as follows: 'During the status phase, gain 3 command tokens instead of 2.'"
 E10 Codex I: "An error in the original printing … left this biotic technology with incorrect text. … the technology provides three."
 @25
-N No source found.
+E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "X-89 Bacterial Weapon".
 @26
-N No source found.
+E7 Thunder's Edge Rulebook, integrating the codex cards: "for each remaining codex card, find and replace each corresponding component from the base game or Prophecy of Kings. In total, you will replace: … ✦ 8 “Magen Defense Grid” ✦ 8 “X-89 Bacterial Weapon” …" and "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge."
 @27
 N No source found.
 @28
-E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "It needs your Bombardment to destroy at least one infantry; if hits go to mechs and no infantry dies, nothing happens."
+N No source found.
 @29
-E15 Codex 4.5, X-89 Bacterial Weapon: "Double the hits produced by your units' BOMBARDMENT and ground combat rolls." No "may".
+N No source found.
 @30
-E6 Community consensus: "What is the interaction between X-89 and hit cancellation …? A: X89 turns all hits into 2 before abilities and effects like Titan's agent or Proxima."
+E2 RulesPal, "How does X-89 Bacterial Weapon Omega work?": "It needs your Bombardment to destroy at least one infantry; if hits go to mechs and no infantry dies, nothing happens."
 @31
-N No source found.
+E15 Codex 4.5, X-89 Bacterial Weapon: "Double the hits produced by your units' BOMBARDMENT and ground combat rolls." No "may".
 @32
-N No source found.
+E6 Community consensus: "What is the interaction between X-89 and hit cancellation …? A: X89 turns all hits into 2 before abilities and effects like Titan's agent or Proxima."
 @33
-E15 Codex 4.5: "Exhaust each planet you use BOMBARDMENT against."
+N No source found.
 @34
-E6 Community consensus: "Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes."
+N No source found.
 @35
-E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
+E15 Codex 4.5: "Exhaust each planet you use BOMBARDMENT against."
 @36
-I2 RulesPal: "a unit bombards a single planet with all its dice."
+E6 Community consensus: "Do you exhaust your own planets when you bombard the coexisting units with x89? A: Yes."
 @37
-E2 RulesPal: "You may pick any planet in the system, since bombardment comes before ground forces are committed."
+E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
 @38
+I2 RulesPal: "a unit bombards a single planet with all its dice."
+@39
+E2 RulesPal: "You may pick any planet in the system, since bombardment comes before ground forces are committed."
+@40
 E1 LRR FAQ: "'Plasma Scoring' only grants one additional die for each 'Bombardment' or 'Space Cannon' roll."
 E2 RulesPal, "How many extra dice does Plasma Scoring add …?": "One extra die per use of the ability, not per unit or per planet."
 E3 Learn to Play, Plasma Scoring: "When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die."
-@39
+@41
 E2 RulesPal: "Bombardment is a single step, so one extra die however many planets you bombard."
 E6 Community consensus: "Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 I1 LRR FAQ: "“Plasma Scoring” only grants one additional die for each “Bombardment” or “Space Cannon” roll, and the unit benefiting from this technology must be decided before rolling." Bombardment is a single roll, so one unit gets the die.
-@40
-E1 LRR FAQ: "If a player has multiple planets with PDS that are being invaded in a single system, does the 'Plasma Scoring' technology add one die to each planet's space cannon roll …? A: The 'Plasma Scoring' technology adds one die for each … planet's 'Space Cannon' roll."
-@41
-E6 Community consensus: "BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 @42
-E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
+E1 LRR FAQ: "If a player has multiple planets with PDS that are being invaded in a single system, does the 'Plasma Scoring' technology add one die to each planet's space cannon roll …? A: The 'Plasma Scoring' technology adds one die for each … planet's 'Space Cannon' roll."
 @43
-E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "you can exhaust AI Development Algorithm and still count it."
+E6 Community consensus: "BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times."
 @44
-E2 Same entry: "you can exhaust AI Development Algorithm and still count it."
+E2 RulesPal, "Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?": "It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation."
 @45
+E2 RulesPal, "Does a technology I just researched, or one that is exhausted, count as a prerequisite?": "you can exhaust AI Development Algorithm and still count it."
+@46
+E2 Same entry: "you can exhaust AI Development Algorithm and still count it."
+@47
+E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Magen Defense Grid".
+@48
 I3 Learn to Play, Magen Defense Grid: "contains 1 or more of your units that have PLANETARY SHIELD."
 I2 RulesPal, "Does a war sun shut off Magen Defense Grid?": "Only the original version, which needs a unit with Planetary Shield" original Magen needs a unit with Planetary Shield, so it fails if all have lost it.
-@46
-E10 Codex I, Magen Defense Grid Ω: "you may produce 1 hit and assign it to 1 of your opponent's ground forces."
-@47
-N No source found.
-@48
-N No source found.
 @49
-E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work …?": "That hit lands at the start of ground combat, before any dice are rolled."
+E7 Thunder's Edge Rulebook, integrating the codex cards: "for each remaining codex card, find and replace each corresponding component from the base game or Prophecy of Kings. In total, you will replace: … ✦ 8 “Magen Defense Grid” ✦ 8 “X-89 Bacterial Weapon” …" and "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge."
 @50
-E15 Codex 4.5, Magen Defense Grid: "produce 1 hit and assign it to 1 of your opponent's ground forces."
+E10 Codex I, Magen Defense Grid Ω: "you may produce 1 hit and assign it to 1 of your opponent's ground forces."
 @51
 N No source found.
 @52
 N No source found.
 @53
-E15 Codex 4.5: "When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures."
+E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work …?": "That hit lands at the start of ground combat, before any dice are rolled."
 @54
-E15 Same text: "place 1 infantry … with each of those structures."
+E15 Codex 4.5, Magen Defense Grid: "produce 1 hit and assign it to 1 of your opponent's ground forces."
 @55
-E15 Same text: "place 1 infantry … with each of those structures."
+N No source found.
 @56
 N No source found.
 @57
-E2 RulesPal, "Can Self-Assembly Routines place a mech when Muaat produce in a supernova?": "No — there is no planet in a supernova to place it on."
+E15 Codex 4.5: "When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures."
 @58
+E15 Same text: "place 1 infantry … with each of those structures."
+@59
+E15 Same text: "place 1 infantry … with each of those structures."
+@60
+N No source found.
+@61
+E2 RulesPal, "Can Self-Assembly Routines place a mech when Muaat produce in a supernova?": "No — there is no planet in a supernova to place it on."
+@62
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@59
-E3 Learn to Play, Duranium Armor: "During each combat round, after you assign hits to your units, repair 1 of your damaged units." No "may".
-@60
-E2 RulesPal, "How does Duranium Armor work?": "Once per combat round, after hits are assigned."
-@61
-E2 RulesPal: "even if you had no hits to assign."
-@62
-E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
 @63
-E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
+E3 Learn to Play, Duranium Armor: "During each combat round, after you assign hits to your units, repair 1 of your damaged units." No "may".
 @64
-E3 Learn to Play, Duranium Armor: "repair 1 of your damaged units that did not use SUSTAIN DAMAGE during this combat round."
+E2 RulesPal, "How does Duranium Armor work?": "Once per combat round, after hits are assigned."
 @65
+E2 RulesPal: "even if you had no hits to assign."
+@66
+E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
+@67
+E2 RulesPal: "A unit damaged by Space Cannon before combat can be repaired at the end of round one."
+@68
+E3 Learn to Play, Duranium Armor: "repair 1 of your damaged units that did not use SUSTAIN DAMAGE during this combat round."
+@69
 E4 Designer ruling: "Duranium Armor only affects units participating (rolling dice) in a combat."
 E2 RulesPal: "it repairs one of your damaged units in that combat."
-@66
+@70
 E2 RulesPal, "If both players have start-of-combat abilities like Assault Cannon …": "Assault Cannon is mandatory when it applies."
-@67
+@71
 E2 Same entry: "each trigger re-checked when its turn comes. So the attacker's Assault Cannon can push the defender below 3 non-fighter ships and deny the defender's own Assault Cannon."
 E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "The second player doesn’t get to use his Assault Cannons"
-@68
+@72
 E2 Same entry: "the attacker's Assault Cannon can push the defender below 3 non-fighter ships and deny the defender's own Assault Cannon."
 E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "The second player doesn’t get to use his Assault Cannons"
-@69
-N No source found.
-@70
-N No source found.
-@71
-N No source found.
-@72
-N No source found.
 @73
+N No source found.
+@74
+N No source found.
+@75
+N No source found.
+@76
+N No source found.
+@77
 E2 RulesPal, "Can Sustain Damage save a ship from Exotrireme II, Assault Cannon or other 'destroy' effects?": "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
 E5 Designer ruling: "sustain damage cannot be used against abilities that 'destroy'."
-@74
+@78
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."
 E3 Learn to Play, Sarween Tools: "When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1."
-@75
-I2 RulesPal, "Can I move into a system, fight, invade and then produce there in the same tactical action?": "the steps run activation, movement, space combat, invasion, then production."
-@76
-E2 RulesPal, "Does Graviton Laser System do anything during Space Cannon Defense?": "No — … the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto."
-@77
-E2 RulesPal, "How does Graviton Laser System affect Space Cannon hits?": "They are still ordinary hits, so Sustain Damage can cancel them before assignment."
-@78
-E2 RulesPal, "Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships …?": "Yes — it applies to the whole Space Cannon roll, borrowed dice included."
 @79
-E4 Designer ruling: "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used."
+I2 RulesPal, "Can I move into a system, fight, invade and then produce there in the same tactical action?": "the steps run activation, movement, space combat, invasion, then production."
 @80
-N No source found.
+E2 RulesPal, "Does Graviton Laser System do anything during Space Cannon Defense?": "No — … the only targets during Space Cannon Defense are the invading ground forces, so there are never non-fighter ships to force hits onto."
 @81
-N No source found.
+E2 RulesPal, "How does Graviton Laser System affect Space Cannon hits?": "They are still ordinary hits, so Sustain Damage can cancel them before assignment."
 @82
-N No source found.
+E2 RulesPal, "Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships …?": "Yes — it applies to the whole Space Cannon roll, borrowed dice included."
 @83
-N No source found.
+E4 Designer ruling: "Can you cast bonus votes using Predictive Intelligence if the technology is exhausted? A: No, the card being exhausted prevents that ability from being used."
 @84
-E4 Designer ruling: "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state."
+N No source found.
 @85
+N No source found.
+@86
+N No source found.
+@87
+N No source found.
+@88
+E4 Designer ruling: "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state."
+@89
 E1 LRR FAQ: "a unit that is produced must always be paid for."
 E2 RulesPal, "What can Integrated Economy produce?": "up to the new planet's resource value in cost, paid normally."
-@86
+@90
 E2 RulesPal, "What can Integrated Economy produce?": "Any units, ships or ground forces, up to the new planet's resource value in cost."
-@87
+@91
 E2 RulesPal, "What can Integrated Economy produce?": "ships appear in that system, unless enemy ships are there."
 E5 FFG ruling (eumaies, Feb 21, 2018): "You can build ships normally, but if enemy ships are present, you cannot."
-@88
+@92
 E2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 E2 RulesPal, "What can Integrated Economy produce?": "It isn't a Production ability, so Sarween Tools … don't apply."

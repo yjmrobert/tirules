@@ -17,8 +17,8 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A unit with the <sc>Planetary Shield</sc> ability on a planet does not stop of the use of a unit&rsquo;s <a href="/R_bombardment"><sc>Bombardment</sc></a> ability on other planets in the same system.<sup>1</sup></li>
-    <li>If the <sc>Planetary Shield</sc> ability prevents the use of a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology cannot be used.<sup>2,10</sup></li>
-    <li>If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, that unit may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li>
+    <li class="removed">If the <sc>Planetary Shield</sc> ability prevents the use of a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology cannot be used.<sup>2,10</sup></li>
+    <li class="removed">If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, that unit may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup></li>
     <li>If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, all units in that system with a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet that unit is on.<sup>2</sup></li>
     </ol>
 

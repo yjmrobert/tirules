@@ -52,69 +52,79 @@ E5 Designer ruling (Skootur, Oct 12, 2017): "The wording on Matriarch should rea
 @19
 E2 RulesPal, "What combat value do Naalu fighters use in ground combat …?": "Their own fighter combat value, upgrades included."
 @20
-E12 Codex III, Z'eu Ω: "that player may perform a tactical action in a non-home system without placing a command token."
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Z’eu".
 @21
-I1 LRR 5.2: "A player cannot activate a system that already contains one of their command tokens."
+I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Z’eu ΩΩ.
 @22
-N No source found.
+E12 Codex III, Z'eu Ω: "that player may perform a tactical action in a non-home system without placing a command token."
 @23
-I12 Codex III, Z’eu (Naalu agent): "that player may perform a tactical action in a non-home system without placing a command token; that system still counts as being activated." system counts as activated.
+I1 LRR 5.2: "A player cannot activate a system that already contains one of their command tokens."
 @24
-E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+N No source found.
 @25
+I12 Codex III, Z’eu (Naalu agent): "that player may perform a tactical action in a non-home system without placing a command token; that system still counts as being activated." system counts as activated.
+@26
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+@27
 E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 I2 RulesPal, "Does the tactical action granted by the Codex Naalu agent use a token …?": "The tactical action happens during the Naalu player's turn."
-@26
-N No source found.
-@27
-N No source found.
 @28
-E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+N No source found.
 @29
-E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
+N No source found.
 @30
-N No source found.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @31
-N No source found.
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player.
 @32
 N No source found.
 @33
 N No source found.
 @34
-I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non-binding deal." system activation happens later, so it cannot be resolved immediately.
+N No source found.
 @35
-E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player. The tactical action is part of the Naalu player's turn, so ending it ends the Naalu player's turn.
+N No source found.
 @36
-N No source found.
+I1 LRR 28.4: "If the terms of a deal cannot be resolved immediately, it is a non-binding deal." system activation happens later, so it cannot be resolved immediately.
 @37
-E2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "No — production is one step, so the unlock condition is only met after it finishes; use the commander from your next production."
+E4 Designer ruling: "The Naalu Collective agent, Z'eu Omega … effectively makes them the active player for the duration of the tactical action … This DOES NOT count as the tactical action player's turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War … Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action" player. The tactical action is part of the Naalu player's turn, so ending it ends the Naalu player's turn.
 @38
-I2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "production is one step, so the unlock condition is only met after it finishes" the example follows directly from this rule.
+N No source found.
 @39
-N No source found.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "M’aban".
 @40
-N No source found.
+E2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "No — production is one step, so the unlock condition is only met after it finishes; use the commander from your next production."
 @41
+I2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "production is one step, so the unlock condition is only met after it finishes" the example follows directly from this rule.
+@42
+N No source found.
+@43
+N No source found.
+@44
 E4 Designer ruling: "Can the Naalu Collective commander, M'aban, or the Yin Brotherhood commander, Brother Omar, allow the player to choose to produce only 1 infantry/fighter and then another with their commander? A: Yes."
 E2 RulesPal, "How do the Yin and Naalu commanders' extra infantry and fighters work?": "When producing those units you may produce one extra for its cost, outside your Production limit."
-@42
+@45
 E4 Designer ruling: "It also cannot be used to interrupt the primary ability of the Politics strategy card."
 E2 RulesPal: "A FAQ answer quoted by a player says it can't … interrupt the Politics primary."
-@43
+@46
 E4 Designer ruling: "The Naalu Collective Commander, M'aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck."
 E2 RulesPal: "it can't peek at the card Covert Legislation draws."
-@44
-E2 RulesPal, "Are my unplayed promissory notes in my hand …?": "With the Naalu hero, each player chooses which note to give."
-@45
-N No source found.
-@46
-I12 Codex III, Iconoclast (Naalu mech): "Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system." protection applies to units in the system, not just space area.
 @47
-E2 RulesPal, "Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?": "Yes — other players can't use barrage in that system, so no dice are rolled and effects tied to it, like Argent's, don't trigger."
+E2 RulesPal, "Are my unplayed promissory notes in my hand …?": "With the Naalu hero, each player chooses which note to give."
 @48
-N No source found.
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Iconoclast".
 @49
+N No source found.
+@50
+I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Iconoclast ΩΩ.
+@51
+I12 Codex III, Iconoclast (Naalu mech): "Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system." protection applies to units in the system, not just space area.
+@52
+E2 RulesPal, "Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?": "Yes — other players can't use barrage in that system, so no dice are rolled and effects tied to it, like Argent's, don't trigger."
+@53
+N No source found.
+@54
 I1 LRR 69.5: a player can trade "one promissory note from their hand."
 I2 RulesPal: unplayed notes "are your hand until placed face up in a play area."
-@50
+@55
 N No source found.

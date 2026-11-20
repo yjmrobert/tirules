@@ -155,12 +155,20 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;X-89 Bacterial Weapon&rdquo;.</li>
+        </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;for each remaining codex card, find and replace each corresponding component from the base game or Prophecy of Kings. In total, you will replace: &hellip; ✦ 8 &ldquo;Magen Defense Grid&rdquo; ✦ 8 &ldquo;X-89 Bacterial Weapon&rdquo; &hellip;&rdquo; and &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo;</li>
+        </ul></li>
     <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -261,8 +269,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Magen Defense Grid&rdquo;.</li>
+        </ul></li>
     <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability have lost it.<sup>2,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Magen Defense Grid: &ldquo;contains 1 or more of your units that have PLANETARY SHIELD.&rdquo;</li>
@@ -270,8 +282,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;for each remaining codex card, find and replace each corresponding component from the base game or Prophecy of Kings. In total, you will replace: &hellip; ✦ 8 &ldquo;Magen Defense Grid&rdquo; ✦ 8 &ldquo;X-89 Bacterial Weapon&rdquo; &hellip;&rdquo; and &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo;</li>
+        </ul></li>
     <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.<sup>10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I, Magen Defense Grid Ω: &ldquo;you may produce 1 hit and assign it to 1 of your opponent&rsquo;s ground forces.&rdquo;</li>

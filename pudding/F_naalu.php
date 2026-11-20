@@ -120,12 +120,20 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Z&rsquo;eu&rdquo;.</li>
+        </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Z&rsquo;eu ΩΩ.</li>
+        </ul></li>
     <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup>
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Z&rsquo;eu Ω: &ldquo;that player may perform a tactical action in a non-home system without placing a command token.&rdquo;</li>
@@ -207,8 +215,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> <sub>(Commander)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> (replaced by &Omega;) <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;M&rsquo;aban&rdquo;.</li>
+        </ul></li>
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;No &mdash; production is one step, so the unlock condition is only met after it finishes; use the commander from your next production.&rdquo;</li>
@@ -254,16 +266,24 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> <sub>(Mech)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> (replaced by &Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Iconoclast&rdquo;.</li>
+        </ul></li>
     <li>The +1 will not apply to an opponent who has a relic but zero relic fragments.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> <sub>(Mech)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Iconoclast ΩΩ.</li>
+        </ul></li>
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.<sup>12</sup>
         <ul>
         <li><b>Implicit</b>: <sup>12</sup> Codex III, Iconoclast (Naalu mech): &ldquo;Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.&rdquo; protection applies to units in the system, not just space area.</li>

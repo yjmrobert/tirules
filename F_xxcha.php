@@ -70,8 +70,9 @@
     <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> <sub>(Hero)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> (replaced by &Omega;) <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup></li>
     <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda, they cast one vote for an outcome of the elected law, and resolve it.<sup>*</sup></li>
     <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution"><i>Public Execution</i></a> agenda, the elected player may still vote in the agenda phase following the current action phase.<sup>2</sup></li>
@@ -92,8 +93,9 @@
     <li>If the Xxcha player draws an agenda that is replaced if there are no laws in play, and there are no laws in play, a new agenda is drawn.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus &Omega;</a><sub>(Hero)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>During the status phase, public and secret objectives are scored simultaneously. The Xxcha player cannot score a public objective, unlock Xxekir Grom, and then use <i>Political Data Nexus &Omega;</i> in order to score a secret objective, or vice versa.<sup>4</sup></li>
     <li>The combined value may be spent as either influence or resources, not both.<sup>2,4</sup></li>
     <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective by exhausting just it and spending three trade goods.<sup>*</sup></li></ol>

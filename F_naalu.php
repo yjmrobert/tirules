@@ -45,12 +45,14 @@
     <li>Fighters committed to a planet use their own combat value, including that of any fighter unit upgrade.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup></li>
     <ol>
         <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup></li>
@@ -80,8 +82,9 @@
     <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> <sub>(Commander)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> (replaced by &Omega;) <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.<sup>2</sup></li>
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.<sup>2</sup></li></ol>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
@@ -100,13 +103,15 @@
     <li>Each other player chooses which promissory note they give the Naalu player.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> <sub>(Mech)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> (replaced by &Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>The +1 will not apply to an opponent who has a relic but zero relic fragments.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> <sub>(Mech)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.<sup>12</sup></li>
     <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup></li>
     </ol>

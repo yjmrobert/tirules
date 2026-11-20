@@ -153,7 +153,7 @@
     <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup></li>
     <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.<sup>*</sup></li>
     <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>2</sup></li>
+    <li class="removed">If the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus"><i>Political Data Nexus</i></a> <a href="/F_xxcha">Xxcha</a> hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Discover%20Lost%20Outposts">Discover Lost Outposts</a></h2>
@@ -203,8 +203,9 @@
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup></li>
     <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup></li>
     </ol>
@@ -300,8 +301,9 @@
     <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.<sup>*</sup></li>
     <li>The <a href="/F_lizix">L1Z1X</a> player may score <i>Make an Example of Their World</i> by using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability.<sup>2</sup></li>
@@ -309,7 +311,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
     <ol class="note">
-    <li>If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup></li>
+    <li class="removed">If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup></li>
     <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.<sup>2</sup></li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.<sup>*</sup></li>
     </ol>
@@ -472,8 +474,9 @@
     <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust</a> (replaced by &Omega;)</h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup></li>
     <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup></li>
     <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.<sup>4</sup></li>

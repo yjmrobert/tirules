@@ -9,12 +9,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 65: &ldquo;Units cannot use the &lsquo;Bombardment&rsquo; ability against a planet that contains a unit that has the &lsquo;Planetary Shield&rsquo; ability.&rdquo; Only that planet is protected.</li>
         </ul></li>
-    <li>If the <sc>Planetary Shield</sc> ability prevents the use of a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology cannot be used.<sup>2,10</sup>
+    <li class="removed">If the <sc>Planetary Shield</sc> ability prevents the use of a <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology cannot be used.<sup>2,10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does X-89 Bacterial Weapon Omega work?&rdquo;: &ldquo;Planetary Shield, by blocking Bombardment, blocks it too.&rdquo;</li>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, X-89 Ω: works only if &ldquo;1 of your opponent&rsquo;s infantry was destroyed&rdquo; by Bombardment.</li>
         </ul></li>
-    <li>If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, that unit may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
+    <li class="removed">If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, that unit may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield &hellip; The Codex Omega version only&rdquo; needs a structure.</li>
         </ul></li>

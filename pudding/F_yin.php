@@ -70,8 +70,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Greyfire Mutagen&rdquo;.</li>
+        </ul></li>
     <li>Flagship abilities are not faction abilities.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nekro breakthrough, can the flagship copy several other flagships &hellip;?&rdquo;: the flagship&rsquo;s abilities are &ldquo;text abilities,&rdquo; not faction abilities.</li>
@@ -117,8 +121,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> <sub>(Technology)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Yin Spinner&rdquo;.</li>
+        </ul></li>
     <li>The infantry may be placed on a planet that does not contain a unit with <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;on any planet you control in that system&rdquo;</li>
@@ -159,8 +167,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Brother Milor&rdquo;.</li>
+        </ul></li>
     <li>If all of a player&rsquo;s ships are destroyed during combat, they may still place ships with this ability. If they do, combat will continue.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on a similar effect, the Mentak hero: &ldquo;after both players assign hits the Mentak player then places a ship &hellip; and combat continues.&rdquo;</li>
@@ -183,8 +195,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;</a> <sub>(Agent)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Brother Milor ΩΩ.</li>
+        </ul></li>
     <li>Brother Milor &Omega; may only be used during the action phase.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase.&rdquo;</li>
@@ -247,8 +263,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> <sub>(Commander)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> (replaced by &Omega;(&Omega;)) <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;(&Omega;) version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Brother Omar&rdquo;.</li>
+        </ul></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one toward their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -285,8 +305,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Spinner%20Overdrive">Spinner Overdrive</a> <sub>(Hero)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Spinner%20Overdrive">Spinner Overdrive</a> (replaced by &Omega;(&Omega;)) <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega;(&Omega;) version.<sup>12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Dannel of the Tenth (Quantum Dissemination)&rdquo;.</li>
+        </ul></li>
     <li>The Yin player may ready a planet they control containing zero infantry.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

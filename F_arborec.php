@@ -7,8 +7,9 @@
     <li>The Arborec player may produce <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a> with their space docks.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li><i>Stymie</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Arborec player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Arborec player&rsquo;s structures will still cause <i>Stymie</i> to be returned.<sup>*</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Arborec player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Stymie</i> to be returned.<sup>*</sup></li>

@@ -16,8 +16,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
+    <li>This card is replaced by the &Omega; version.<sup>10</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Stymie&rdquo;.</li>
+        </ul></li>
     <li><i>Stymie</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Arborec player this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

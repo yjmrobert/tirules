@@ -82,77 +82,77 @@ I14 Codex II, Xxcha alliance: "Each planet you exhaust to cast votes provides 1 
 E2 RulesPal, "What does the Xxcha commander allow, and does it beat Political Secret or a rider?": "Through the Xxcha alliance even the Nekro can vote."
 I14 Codex II, Xxcha Alliance: "Game effects cannot prevent you from voting on an agenda." Xxcha Alliance card text.
 @35
-E4 Designer ruling: "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda."
+E12 Codex III p. 13, "The Omega Initiative": "These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion." The Omega Initiative contents (p. 3) list "Xxekir Grom (Political Data Nexus)".
 @36
-N No source found.
+E4 Designer ruling: "Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda."
 @37
-E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "A player elected for Public Execution can still vote in the next agenda phase."
+N No source found.
 @38
-E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
+E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "A player elected for Public Execution can still vote in the next agenda phase."
 @39
 E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
-E2 RulesPal, "How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?": "the agendas are revealed, so Xxcha can play riders such as Imperial Rider on them."
 @40
-N No source found.
+E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
+E2 RulesPal, "How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?": "the agendas are revealed, so Xxcha can play riders such as Imperial Rider on them."
 @41
 N No source found.
 @42
 N No source found.
 @43
-I4 Designer ruling, Xxcha hero Xxekir Grom and agendas: "The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero." all players resolve agenda effects.
+N No source found.
 @44
-E4 Designer ruling: "If the Xxcha hero gives two players in the lead a Victory Point … A: Initiative order determines the winner."
+I4 Designer ruling, Xxcha hero Xxekir Grom and agendas: "The intent is that players still resolve agendas that the Xxcha player chooses off of their Hero." all players resolve agenda effects.
 @45
-E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Transactions during the hero's action still need neighbors, since it isn't the agenda phase."
+E4 Designer ruling: "If the Xxcha hero gives two players in the lead a Victory Point … A: Initiative order determines the winner."
 @46
-N No source found.
+E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Transactions during the hero's action still need neighbors, since it isn't the agenda phase."
 @47
-I2 RulesPal, "After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase." Dictate Policy is an agenda-phase secret objective.
-@48
-E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase."
-@49
-E4 Designer ruling: "Checks and balances against reads 'Each player readies only 3 of their planets at the end of this agenda phase.' Does this trigger at the end of Xxchas hero? … A: This effect does not trigger if it happens during the Xxcha Hero."
-@50
 N No source found.
+@48
+I2 RulesPal, "After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase." Dictate Policy is an agenda-phase secret objective.
+@49
+E2 RulesPal, "After the Xxcha hero resolves agendas in the action phase …?": "Agenda-phase secret objectives such as Drive the Debate can't be scored from it, since it isn't the agenda phase."
+@50
+E4 Designer ruling: "Checks and balances against reads 'Each player readies only 3 of their planets at the end of this agenda phase.' Does this trigger at the end of Xxchas hero? … A: This effect does not trigger if it happens during the Xxcha Hero."
 @51
+N No source found.
+@52
 E4 Designer ruling: "Can the Xxcha Kingdom player play riders while using their hero …? A: Yes, the Xxcha player can play riders, and use their quash ability during their hero … Other players cannot play any action cards as these are abilities."
 E2 RulesPal, "How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?": "No other player may use abilities during it."
-@52
-E4 Designer ruling: "If there are no laws in play a new agenda is drawn."
 @53
-E4 Designer ruling: "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete."
+E4 Designer ruling: "If there are no laws in play a new agenda is drawn."
 @54
+I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Xxekir Grom — Planetary Defense Nexus ΩΩ.
+@55
+E4 Designer ruling: "Scoring in the status phase is done all at once, the unlock condition of heroes is not checked until the score objectives step of the status phase is complete."
+@56
 E2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 I4 Designer ruling: "When using an ability that references 'resource value', the printed resource value of the planet is used."
-@55
+@57
 N No source found.
-@56
+@58
 E4 Designer ruling: "If the Xxcha Kingdom plays uprising with Political Data Nexus Omega unlocked do they get the sum …? A: When using an ability that references 'resource value', the printed resource value of the planet is used."
 E2 RulesPal, "How does the Xxcha hero's ability to combine a planet's resources and influence work?": "It doesn't change printed values, so it doesn't raise a space dock's Production."
-@57
-E2 RulesPal, "How does the Xxcha hero's ability to combine …?": "it doesn't raise a space dock's Production."
-@58
-N No source found.
 @59
-N No source found.
+E2 RulesPal, "How does the Xxcha hero's ability to combine …?": "it doesn't raise a space dock's Production."
 @60
-E12 Codex III: "Political Data Nexus has been reenvisioned to help the Xxcha both in and out of the Agenda phase … When you exhaust planets, combine the values of" resources and influence.
+N No source found.
 @61
 N No source found.
 @62
-N No source found.
+E12 Codex III: "Political Data Nexus has been reenvisioned to help the Xxcha both in and out of the Agenda phase … When you exhaust planets, combine the values of" resources and influence.
 @63
-I2 RulesPal, "When several players fire Space Cannon Offense …?": "one player at a time … Each player's roll, hit assignment … finish before the next fires."
+N No source found.
 @64
-I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
+N No source found.
 @65
-I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
+I2 RulesPal, "When several players fire Space Cannon Offense …?": "one player at a time … Each player's roll, hit assignment … finish before the next fires."
 @66
 I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @67
-N No source found.
+I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @68
-N No source found.
+I2 RulesPal, "Can a planet's resources and influence both be spent, or spent twice?": "No — exhausting a planet spends either its resources or its influence, never both."
 @69
 N No source found.
 @70
@@ -160,4 +160,8 @@ N No source found.
 @71
 N No source found.
 @72
+N No source found.
+@73
+N No source found.
+@74
 N No source found.

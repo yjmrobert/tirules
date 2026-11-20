@@ -52,66 +52,66 @@ E1 LRR FAQ: "'Direct Hit' can be used to follow up hits that are assigned by 'Am
 E2 RulesPal, "Does the Creuss flagship's delta wormhole trigger Dimensional Splicer?": "which can set up Direct Hit."
 I5 Designer ruling: Direct Hits target "different ships/instances of sustain damage use."
 @21
+E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Wormhole Generator".
+@22
 E2 RulesPal, "Is Creuss's Wormhole Generator mandatory …?": "A player relays a developer email saying it is mandatory each status phase, since it lacks 'may'."
 E5 Designer ruling (Sep 2017): "The effect is mandatory, once researched."
-@22
-E5 Same ruling: "there is nothing stopping the Creuss from 'moving' the token into the system that it is already in."
 @23
-I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player's home system is still a home system, so only the planet-control option allows it.
+E5 Same ruling: "there is nothing stopping the Creuss from 'moving' the token into the system that it is already in."
 @24
-E6 Community consensus: "Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture."
-I2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Wormholes can be placed there, since nothing forbids it." wormhole tokens may be placed in Fracture systems.
-@25
-E6 Community consensus, "Do neutral ships block wormhole placement?": "Do neutral ships block wormhole placement? A: Yes"
-@26
-E6 Community consensus: "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token …? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
-@27
 I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player's home system is still a home system, so only the planet-control option allows it.
-@28
+@25
 E6 Community consensus: "Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture."
 I2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Wormholes can be placed there, since nothing forbids it." wormhole tokens may be placed in Fracture systems.
-@29
+@26
 E6 Community consensus, "Do neutral ships block wormhole placement?": "Do neutral ships block wormhole placement? A: Yes"
-@30
+@27
 E6 Community consensus: "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token …? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
+@28
+I2 RulesPal, "Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?": "the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players' ships. Meeting either is enough" Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player's home system is still a home system, so only the planet-control option allows it.
+@29
+E6 Community consensus: "Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture."
+I2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Wormholes can be placed there, since nothing forbids it." wormhole tokens may be placed in Fracture systems.
+@30
+E6 Community consensus, "Do neutral ships block wormhole placement?": "Do neutral ships block wormhole placement? A: Yes"
 @31
-E2 RulesPal, "How does the Creuss flagship's 'move before or after your other ships' work?": "If it moves into the active system first, that system becomes adjacent to other delta wormholes such as the Creuss home system, so your other ships can come in through it."
+E6 Community consensus: "Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token …? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded."
 @32
-E2 Same entry: "or it can move after them. It can also use its own wormhole, for example to go home."
+E2 RulesPal, "How does the Creuss flagship's 'move before or after your other ships' work?": "If it moves into the active system first, that system becomes adjacent to other delta wormholes such as the Creuss home system, so your other ships can come in through it."
 @33
-E2 Same entry: "Its system counts as containing a delta wormhole."
+E2 Same entry: "or it can move after them. It can also use its own wormhole, for example to go home."
 @34
-N No source found.
+E2 Same entry: "Its system counts as containing a delta wormhole."
 @35
+N No source found.
+@36
 E1 LRR FAQ: "'Light/Wave Deflector' allows a player other than the Ghosts of Creuss to move their fleet through the 'Hil Colish's' system into the Creuss home system or the Creuss Gate system."
 E2 RulesPal, "Can other players use the Creuss Gate and the Creuss flagship's delta wormhole?": "enemies need a way to move through it (such as Light/Wave Deflector)."
-@36
-N No source found.
 @37
 N No source found.
 @38
 N No source found.
 @39
+N No source found.
+@40
 E1 LRR FAQ: "If the 'Hil Colish' moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …? A: No, the wormhole ceases to exist."
 E2 RulesPal: "If it moves first through a gravity rift and is destroyed, the wormhole is gone before the others move."
-@40
-E6 Community consensus: "What happens to the Hil Colish delta wormhole in the entropic scar? A: … there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish."
 @41
-E2 RulesPal, "How do players reach the Wormhole Nexus, and can the Creuss agent help on the first turn?": "the Creuss agent, used after activation and before movement, makes it adjacent to a delta wormhole system, so ships can move in that turn. Once a unit enters … the Nexus flips."
+E6 Community consensus: "What happens to the Hil Colish delta wormhole in the entropic scar? A: … there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish."
 @42
-I8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole." A delta wormhole does not stop the trigger.
+E2 RulesPal, "How do players reach the Wormhole Nexus, and can the Creuss agent help on the first turn?": "the Creuss agent, used after activation and before movement, makes it adjacent to a delta wormhole system, so ships can move in that turn. Once a unit enters … the Nexus flips."
 @43
-I8 PoK rulebook, Emissary Taivra card: "that system is adjacent to all other systems that contain wormholes during this tactical action." All systems containing wormholes includes delta and epsilon.
+I8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole." A delta wormhole does not stop the trigger.
 @44
-E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips."
+I8 PoK rulebook, Emissary Taivra card: "that system is adjacent to all other systems that contain wormholes during this tactical action." All systems containing wormholes includes delta and epsilon.
 @45
-E8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole."
+E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips."
 @46
-N No source found.
+E8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole."
 @47
-E4 Designer ruling: "When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first."
-@48
 N No source found.
+@48
+E4 Designer ruling: "When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first."
 @49
 N No source found.
 @50
@@ -121,20 +121,22 @@ N No source found.
 @52
 N No source found.
 @53
-E2 RulesPal, "Does the Creuss commander trigger if my ship just passes through a wormhole system?": "Only if the ship actually moved through the wormhole, whether it started in the wormhole's system or entered it along the way."
+N No source found.
 @54
-E2 RulesPal, "Do Creuss wormhole tokens count for unlocking the Creuss commander?": "Yes — the tokens are wormholes for all purposes."
+E2 RulesPal, "Does the Creuss commander trigger if my ship just passes through a wormhole system?": "Only if the ship actually moved through the wormhole, whether it started in the wormhole's system or entered it along the way."
 @55
-E4 Designer ruling, Creuss hero Singularity Reactor and tokens: "All tokens stay with their original tile"
+E2 RulesPal, "Do Creuss wormhole tokens count for unlocking the Creuss commander?": "Yes — the tokens are wormholes for all purposes."
 @56
-I7 Thunder's Edge Rulebook (Age of Exploration): "New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles." Covers a different effect.
+E4 Designer ruling, Creuss hero Singularity Reactor and tokens: "All tokens stay with their original tile"
 @57
-E2 RulesPal, "When the Creuss hero swaps two system tiles, do the units move with them?": "Yes — units are on the tile's planets and space area, so they go with it."
+I7 Thunder's Edge Rulebook (Age of Exploration): "New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles." Covers a different effect.
 @58
-E2 RulesPal, "For the Creuss mech's Icarus Drive, which system does 'this system' mean?": "The system the mech was in, not necessarily the one another player activated."
+E2 RulesPal, "When the Creuss hero swaps two system tiles, do the units move with them?": "Yes — units are on the tile's planets and space area, so they go with it."
 @59
-E2 Same entry: "a unit's 'this system' always means its own system."
+E2 RulesPal, "For the Creuss mech's Icarus Drive, which system does 'this system' mean?": "The system the mech was in, not necessarily the one another player activated."
 @60
-E6 Community consensus: "Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? … A: Yes, each wormhole, even wormholes of the same type," provides it.
+E2 Same entry: "a unit's 'this system' always means its own system."
 @61
+E6 Community consensus: "Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? … A: Yes, each wormhole, even wormholes of the same type," provides it.
+@62
 N No source found.
