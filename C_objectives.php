@@ -117,7 +117,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.<sup>*</sup></li>
     <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda.<sup>*</sup></li></ol>
     </ol>

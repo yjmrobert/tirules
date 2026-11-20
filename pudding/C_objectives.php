@@ -244,9 +244,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.<sup>*</sup>
         <ul>

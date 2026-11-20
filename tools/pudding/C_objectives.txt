@@ -87,6 +87,7 @@ I1 LRR, Ships: "A ship is a unit type consisting of carriers, cruisers, dreadnou
 N No source found.
 @38
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+E2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @39
 N No source found.
 @40
