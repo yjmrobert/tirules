@@ -1054,6 +1054,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
     <ol class="note">
+    <li>In a three&ndash; or four&ndash;player game, a player who plays <i>Political Stability</i> keeps both of their strategy cards, and does not choose any strategy cards during the next strategy phase.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;In a three- or four-player game, does Political Stability let you keep both strategy cards?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Yes &mdash; you keep both and skip choosing next strategy phase.&rdquo; The card refers to &ldquo;strategy card(s)&rdquo;.</li>
+        </ul></li>
     <li>During the upcoming agenda phase, all abilities stay resolved in speaker order, not initiative order.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

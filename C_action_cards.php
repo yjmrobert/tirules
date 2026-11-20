@@ -467,6 +467,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
     <ol class="note">
+    <li>In a three&ndash; or four&ndash;player game, a player who plays <i>Political Stability</i> keeps both of their strategy cards, and does not choose any strategy cards during the next strategy phase.<sup>*</sup></li>
     <li>During the upcoming agenda phase, all abilities stay resolved in speaker order, not initiative order.<sup>*</sup></li>
     <li>The strategy cards are readied when <i>Political Stability</i> is played.<sup>*</sup></li>
     <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.<sup>*</sup></li>
