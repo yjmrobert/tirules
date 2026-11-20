@@ -49,6 +49,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Devotion.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
+    <li>If the targeted ship cancels the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the Yin player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy that ship.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both. Direct Hit was errata&rsquo;d to cover hits produced by your units or abilities&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, May 17, 2018): &ldquo;does the Devotion ability count as that? &hellip; Dane wrote: You can use direct hit off of a Devotion use.&rdquo;</li>
+        </ul></li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
