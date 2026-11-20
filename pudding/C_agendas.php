@@ -13,8 +13,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>*</sup>
+    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>2</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do factions start with their faction technologies &hellip;?&rdquo;: &ldquo;The Nekro Virus is the exception, since its two Valefar Assimilator technologies are listed as starting technologies.&rdquo; The Nekro own both Valefar Assimilator cards from the start, whether or not a token is on another technology, so each counts as a technology they own.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;a copied technology counts with its colour and type.&rdquo;</li>
         </ul></li>
     <li>A player with no non&ndash;fighter ships on the game board may still research technology when <i>Anti&ndash;Intellectual Revolution</i> is a law in play.<sup>2</sup>

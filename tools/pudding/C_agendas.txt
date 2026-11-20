@@ -3,6 +3,7 @@ I2 RulesPal, "How does Anti-Intellectual Revolution work?": "For: after you rese
 @1
 E2 RulesPal, "How does Anti-Intellectual Revolution work?": "The Nekro are unaffected, since Propagation gains tokens instead of researching."
 @2
+I2 RulesPal, "Do factions start with their faction technologies …?": "The Nekro Virus is the exception, since its two Valefar Assimilator technologies are listed as starting technologies." The Nekro own both Valefar Assimilator cards from the start, whether or not a token is on another technology, so each counts as a technology they own.
 I2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "a copied technology counts with its colour and type."
 @3
 E2 RulesPal, "How does Anti-Intellectual Revolution work?": "It is an after-research effect, not a cost, so a player with no such ships can still research."

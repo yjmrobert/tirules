@@ -5,7 +5,7 @@
     <ol class="note">
     <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>*</sup></li>
     <ol><li>The <a href="/F_nekro">Nekro</a> player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.<sup>2</sup></li></ol>
-    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>*</sup></li>
+    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>2</sup></li>
     <li>A player with no non&ndash;fighter ships on the game board may still research technology when <i>Anti&ndash;Intellectual Revolution</i> is a law in play.<sup>2</sup></li>
     <li>A player may only exhaust planets they control for the &ldquo;Against&rdquo; effect of <i>Anti&ndash;Intellectual Revolution</i>.<sup>*</sup></li>
     </ol>
