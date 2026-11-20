@@ -117,7 +117,7 @@
         <li>The commodities on the planet in the other player&rsquo;s home system cannot be discarded to gain a victory point.<sup>*</sup></li>
         <li>If that player still controls that planet in another player&rsquo;s home system when they regain control of a planet in their own home system, they then move the commodities from the planet in the other player&rsquo;s home system to the planet in their own home system.<sup>*</sup></li>
     </ol>
-    <li>Units that are captured without being destroyed, such as by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities. If another player gains control of the home system planet holding the commodities, they also take those commodities.<sup>2</sup></li>
+    <li>Units that are captured without being destroyed, such as by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities.<sup>2</sup></li>
     <li>Neutral units have no cost; destroying them does not count toward <i>Total War</i>.<sup>2</sup></li>
     </ol>
 

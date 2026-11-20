@@ -84,7 +84,7 @@ N No source found.
 @41
 N No source found.
 @42
-E2 RulesPal, "How does the Total War variant's commodity tally work?": "Whoever takes that home system takes the stored commodities too. Units captured without being destroyed, as by the Vuil'raith hero, add nothing."
+E2 RulesPal, "How does the Total War variant's commodity tally work?": "Units captured without being destroyed, as by the Vuil'raith hero, add nothing."
 @43
 E2 RulesPal, "Do neutral fighters need capacity, and do neutral units count for Total War?": "They have no cost, so destroying them adds nothing for Total War."
 @44

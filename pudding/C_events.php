@@ -246,9 +246,9 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Units that are captured without being destroyed, such as by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities. If another player gains control of the home system planet holding the commodities, they also take those commodities.<sup>2</sup>
+    <li>Units that are captured without being destroyed, such as by the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s hero, do not add commodities.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Total War variant&rsquo;s commodity tally work?&rdquo;: &ldquo;Whoever takes that home system takes the stored commodities too. Units captured without being destroyed, as by the Vuil&rsquo;raith hero, add nothing.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Total War variant&rsquo;s commodity tally work?&rdquo;: &ldquo;Units captured without being destroyed, as by the Vuil&rsquo;raith hero, add nothing.&rdquo;</li>
         </ul></li>
     <li>Neutral units have no cost; destroying them does not count toward <i>Total War</i>.<sup>2</sup>
         <ul>
