@@ -950,6 +950,11 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a player score Stake Your Claim by coexisting on a planet in a single planet system? A: Yes, you control a planet in a system that contains a planet controlled by another player if you are in coexistence.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo; (general rules; does not mention Stake Your Claim).</li>
         </ul></li>
+    <li>The player who controls a planet cannot use it to score <i>Stake Your Claim</i> because another player is coexisting on it, as the controlling player does not count a coexisting player as also controlling that planet.<sup>6,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence, Perspective During Scoring&rdquo;: &ldquo;Only the coexisting player counts themselves as controlling that planet. The player the coexisting player is coexisting with does not count the coexisting player as also controlling that planet&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Control via coexistence is only seen by the player coexisting, so the other players see 3 planets controlled.&rdquo;</li>
+        </ul></li>
     <li>A planet that contains neutral infantry is not controlled by another player, so it cannot be used to score <i>Stake Your Claim</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

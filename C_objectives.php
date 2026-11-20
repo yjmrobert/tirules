@@ -457,6 +457,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
     <ol class="note">
     <li>A player coexisting on a planet may score <i>Stake Your Claim</i> using that planet, even if it is the only planet in its system, as the planet is also controlled by another player.<sup>2,6</sup></li>
+    <li>The player who controls a planet cannot use it to score <i>Stake Your Claim</i> because another player is coexisting on it, as the controlling player does not count a coexisting player as also controlling that planet.<sup>6,9</sup></li>
     <li>A planet that contains neutral infantry is not controlled by another player, so it cannot be used to score <i>Stake Your Claim</i>.<sup>*</sup></li>
     </ol>
 
