@@ -61,7 +61,7 @@ N No source found.
 @29
 N No source found.
 @30
-E6 Community consensus: "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this."
+E6 Community consensus: "Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? … A: Yes"
 @31
 I14 Codex II: "The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives."
 @32

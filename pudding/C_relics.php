@@ -177,9 +177,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged. Players may indicate a damaged infantry token in any way.<sup>6</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token? A: Yes, do whatever you want to indicate this.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Say Nekro has Metali Void Shielding, and has infantry participating in space combat as though they were ships. Can they be damaged? &hellip; A: Yes&rdquo;</li>
         </ul></li>
     </ol>
 
