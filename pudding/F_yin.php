@@ -175,6 +175,7 @@
         </ul></li>
     <li>If all of a player&rsquo;s ships are destroyed during combat, they may still place ships with this ability. If they do, combat will continue.<sup>4</sup>
         <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on a similar effect, the Mentak hero: &ldquo;after both players assign hits the Mentak player then places a ship &hellip; and combat continues.&rdquo;</li>
         </ul></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
@@ -204,6 +205,10 @@
     <li>Brother Milor &Omega; may only be used during the action phase.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Yin Brotherhood Agent, Brother Milor Omega, be used during the Agenda Phase? A: Brother Milor Omega can only be used during the action phase.&rdquo;</li>
+        </ul></li>
+    <li>If all of a player&rsquo;s units in a combat are destroyed, they may still place units with this ability. If they do, combat will continue.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on the earlier Brother Milor: &ldquo;Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? A: Yes.&rdquo; The Ω card places units the same way.</li>
         </ul></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
         <ul>
@@ -240,6 +245,10 @@
     <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Card text (Brother Milor ΩΩ, supplied by the owner): &ldquo;After a player&rsquo;s unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit&rsquo;s system if it was a ship, or 2 infantry on its planet if it was a ground force.&rdquo;</li>
+        </ul></li>
+    <li>If all of a player&rsquo;s units in a combat are destroyed, they may still place units with this ability. If they do, combat will continue.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, on the earlier Brother Milor: &ldquo;Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? A: Yes.&rdquo; The ΩΩ card places units the same way.</li>
         </ul></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega;&Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup>
         <ul>
