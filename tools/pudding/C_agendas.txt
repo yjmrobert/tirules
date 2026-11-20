@@ -192,8 +192,7 @@ E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
 @88
 E1 LRR 24.4a: "If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 @89
-E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry."
-I5 The overturned designer ruling: "'replacing' does not trigger the L1Z1X Minister of Industry, only effects that say 'place' do."
+E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry." Overturns the Oct 3, 2018 ruling (source 5 line 1457).
 @90
 E2 RulesPal, "What triggers Minister of Industry?": "A Saar Floating Factory moving into a system doesn't trigger it."
 @91

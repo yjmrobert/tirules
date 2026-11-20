@@ -504,8 +504,7 @@
         </ul></li></ol>
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>5</sup> The overturned designer ruling: &ldquo;&rsquo;replacing&rsquo; does not trigger the L1Z1X Minister of Industry, only effects that say &lsquo;place&rsquo; do.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any instance of &lsquo;replace&rsquo; can be considered to say &lsquo;remove and place&rsquo; if no units are left in reinforcements &hellip; Note, this overturns a previous ruling regarding Minister of Industry.&rdquo; Overturns the Oct 3, 2018 ruling (source 5 line 1457).</li>
         </ul></li>
     <li>Moving the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup>
         <ul>
