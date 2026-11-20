@@ -209,8 +209,12 @@
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>A planet with zero infantry on it may be elected.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -241,8 +245,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>If <i>The Crown of Emphidia</i> law is discarded, no player loses a victory point.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the &lsquo;Repeal Law&rsquo; action card, the point is not lost.&rdquo;</li>
@@ -258,16 +266,24 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>Only combat rolls may be rerolled with The Crown of Thalnos; anti&ndash;fighter barrage and bombardment rolls, including those from the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Harrow faction ability, cannot. A player may reroll dice for units that would otherwise be destroyed, as hits are not assigned until after rolling; each unit whose rerolled die does not produce a hit is destroyed, even if its other dice produced hits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which rolls can The Crown of Thalnos reroll?&rdquo;: &ldquo;Only combat rolls, not Anti-Fighter Barrage, Bombardment (L1Z1X Harrow included) &hellip; You may reroll units that look doomed, because hits aren&rsquo;t assigned until rolling ends; any unit whose reroll fails to hit is destroyed, even if its other dice hit.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>If the planet elected by Demilitarized Zone is given to another player by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a> agenda, no units are placed on it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a home planet &hellip; be elected for Demilitarized Zone or Colonial Redistribution?&rdquo;: &ldquo;A Demilitarized Zone planet given away by Colonial Redistribution gets no units, since none can be placed there.&rdquo;</li>
@@ -366,8 +382,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>If the <i>Holy Planet of Ixth</i> law is discarded, no player loses a victory point.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;the player who gained a victory point from these agendas can only lose that point through the effect stated on the card.&rdquo;</li>
@@ -767,8 +787,12 @@
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>
@@ -791,8 +815,12 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When a &lsquo;Research Team&rsquo; agenda that is attached to a planet is used to ignore a prerequisite, is the planet exhausted? A: No. The agenda is exhausted, not the planet.&rdquo;</li>
@@ -804,8 +832,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The agenda is exhausted, not the planet.&rdquo;</li>
@@ -817,8 +849,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The agenda is exhausted, not the planet.&rdquo;</li>
@@ -830,8 +866,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The agenda is exhausted, not the planet.&rdquo;</li>
@@ -868,12 +908,20 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     <li>If the <i>Shard of the Throne</i> law is discarded, no player loses a victory point.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;the player who gained a victory point from these agendas can only lose that point through the effect stated on the card.&rdquo;</li>
@@ -902,8 +950,12 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>8</sup> PoK Rulebook p. 6, &ldquo;Integrating This Expansion&rdquo;: &ldquo;remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Unconventional%20Measures">Unconventional Measures</a></h2>

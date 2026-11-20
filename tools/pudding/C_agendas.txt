@@ -81,292 +81,318 @@ N No source found.
 @37
 E6 Community consensus: "What if a planet with coexisting units is elected via Compensated Disarmament? … A: The planet controller gains all trade goods."
 @38
-N No source found.
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
 @39
-E4 Designer ruling: "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda."
-@40
 N No source found.
+@40
+E4 Designer ruling: "If Covert Legislation draws an agenda that self-replaces (e.g. miscount disclosed), does it replace immediately? A: Follow the text, draw a new agenda."
 @41
 N No source found.
 @42
-E4 Designer ruling: "The 'Legal Text' action cards and Deadly Plot must be played before the agenda that was voted on is revealed."
+N No source found.
 @43
-E4 Designer ruling: "Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes."
+E4 Designer ruling: "The 'Legal Text' action cards and Deadly Plot must be played before the agenda that was voted on is revealed."
 @44
+E4 Designer ruling: "Q: Does the Speaker vote when Covert Legislation is drawn? A: Yes."
+@45
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@46
 E1 LRR FAQ: "the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the 'Repeal Law' action card, the point is not lost."
 E2 RulesPal: "No — a point from these laws is lost only through the condition printed on the card."
-@45
-I2 RulesPal, "Do I lose The Crown of Emphidia if I lose a planet I control in another player's home system?": "only planets in your own home system count for it."
-@46
-E2 RulesPal: "No — only planets in your own home system count for it."
 @47
-E2 RulesPal, "Which rolls can The Crown of Thalnos reroll?": "Only combat rolls, not Anti-Fighter Barrage, Bombardment (L1Z1X Harrow included) … You may reroll units that look doomed, because hits aren't assigned until rolling ends; any unit whose reroll fails to hit is destroyed, even if its other dice hit."
+I2 RulesPal, "Do I lose The Crown of Emphidia if I lose a planet I control in another player's home system?": "only planets in your own home system count for it."
 @48
+E2 RulesPal: "No — only planets in your own home system count for it."
+@49
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@50
+E2 RulesPal, "Which rolls can The Crown of Thalnos reroll?": "Only combat rolls, not Anti-Fighter Barrage, Bombardment (L1Z1X Harrow included) … You may reroll units that look doomed, because hits aren't assigned until rolling ends; any unit whose reroll fails to hit is destroyed, even if its other dice hit."
+@51
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@52
 E2 RulesPal, "Can a home planet … be elected for Demilitarized Zone or Colonial Redistribution?": "A Demilitarized Zone planet given away by Colonial Redistribution gets no units, since none can be placed there."
 I1 LRR FAQ: "infantry cannot be placed on the elected planet."
-@49
+@53
 N No source found.
-@50
+@54
 E2 RulesPal, "What exactly does Creuss's Quantum Entanglement connect …?": "no game effect, Enforced Travel Ban included, can stop that."
-@51
+@55
 E5 Designer ruling: "Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban in the sense that it is creating a second, separate and more extensive method of adjacency."
 N2 Conflicts: RulesPal, "What does Enforced Travel Ban do": "It also cancels the adjacency from Lost Star Chart for movement."
 E2 RulesPal, "How does Lost Star Chart work, including with Enforced Travel Ban?": "It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban."
-@52
+@56
 E2 RulesPal, "Where can my ships retreat to?": "Under Enforced Travel Ban, alpha and beta wormholes give no adjacency for a retreat."
-@53
+@57
 E1 LRR FAQ: "Does the 'Enforced Travel Ban' agenda prevent 'Space Cannon' usage through wormholes? A: No."
 E2 RulesPal: "the systems stay adjacent for everything else, so Space Cannon still fires through them."
-@54
-E2 RulesPal, "What does Enforced Travel Ban do": "the systems stay adjacent for everything else."
-@55
-E2 RulesPal, "What does Enforced Travel Ban do": "Against: every PDS in or next to a system with any wormhole, gamma and delta included, is destroyed."
-@56
-N No source found.
-@57
-E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
 @58
-E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
+E2 RulesPal, "What does Enforced Travel Ban do": "the systems stay adjacent for everything else."
 @59
-E2 RulesPal, "When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?": "Excess fleet tokens return to reinforcements; you can't move them to other pools. Any ships over the new limit must be removed immediately."
+E2 RulesPal, "What does Enforced Travel Ban do": "Against: every PDS in or next to a system with any wormhole, gamma and delta included, is destroyed."
 @60
-E2 RulesPal, "How does Galactic Crisis Pact work when Leadership is elected?": "there's no token cost to waive, but spending influence for tokens still applies."
+N No source found.
 @61
-N No source found.
+E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
 @62
-N No source found.
+E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
 @63
-N No source found.
+E2 RulesPal, "When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?": "Excess fleet tokens return to reinforcements; you can't move them to other pools. Any ships over the new limit must be removed immediately."
 @64
-N No source found.
+E2 RulesPal, "How does Galactic Crisis Pact work when Leadership is elected?": "there's no token cost to waive, but spending influence for tokens still applies."
 @65
 N No source found.
 @66
-E1 LRR FAQ: "the player who gained a victory point from these agendas can only lose that point through the effect stated on the card."
-E2 RulesPal: "No — a point from these laws is lost only through the condition printed on the card."
+N No source found.
 @67
 N No source found.
 @68
 N No source found.
 @69
-E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+N No source found.
 @70
-E2 RulesPal, "Does a technology I just researched … count as a prerequisite?": "the first technology from the Technology primary counts for the second."
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
 @71
-E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
-E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
+E1 LRR FAQ: "the player who gained a victory point from these agendas can only lose that point through the effect stated on the card."
+E2 RulesPal: "No — a point from these laws is lost only through the condition printed on the card."
 @72
 N No source found.
 @73
-E2 RulesPal, "Which units does The Ixthian Artifact destroy?": "3 units of each player in every adjacent system (all of them if a player has fewer)."
+N No source found.
 @74
-E1 LRR FAQ: "Units destroyed by 'Ixthian Artifact' are destroyed simultaneously."
-E5 Designer ruling (Clipper, Sep 2018): "the intent is that the ancient artifact explosions should happen simultaneously."
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
 @75
-E1 LRR FAQ: "If there is an 'A' wormhole on Mecatol Rex when the 'Ixthian Artifact' agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a 'B' wormhole? A: No. Only the Creuss treats those systems as adjacent."
-E2 RulesPal, "Which units does The Ixthian Artifact destroy?": "Adjacency is the normal kind for everyone: a matching wormhole on Mecatol counts, but Creuss's Quantum Entanglement doesn't extend it."
+E2 RulesPal, "Does a technology I just researched … count as a prerequisite?": "the first technology from the Technology primary counts for the second."
 @76
-I2 RulesPal, "Which units does The Ixthian Artifact destroy?": "a matching wormhole on Mecatol counts" The Hil Colish puts a delta wormhole in its system.
+E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
 @77
 N No source found.
 @78
-E2 RulesPal, "If Judicial Abolishment comes up with only one law in play, can that law be saved?": "No — that law is the only eligible outcome. Abstaining isn't an outcome, and if nobody votes the speaker must break the 0-0 tie by choosing it."
+E2 RulesPal, "Which units does The Ixthian Artifact destroy?": "3 units of each player in every adjacent system (all of them if a player has fewer)."
 @79
-I1 LRR FAQ: "A player may play multiple rider action cards on a single agenda." No exception for a single eligible outcome.
+E1 LRR FAQ: "Units destroyed by 'Ixthian Artifact' are destroyed simultaneously."
+E5 Designer ruling (Clipper, Sep 2018): "the intent is that the ancient artifact explosions should happen simultaneously."
 @80
-I2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
+E1 LRR FAQ: "If there is an 'A' wormhole on Mecatol Rex when the 'Ixthian Artifact' agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a 'B' wormhole? A: No. Only the Creuss treats those systems as adjacent."
+E2 RulesPal, "Which units does The Ixthian Artifact destroy?": "Adjacency is the normal kind for everyone: a matching wormhole on Mecatol counts, but Creuss's Quantum Entanglement doesn't extend it."
 @81
-N No source found.
+I2 RulesPal, "Which units does The Ixthian Artifact destroy?": "a matching wormhole on Mecatol counts" The Hil Colish puts a delta wormhole in its system.
 @82
 N No source found.
 @83
-E2 RulesPal: "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
+E2 RulesPal, "If Judicial Abolishment comes up with only one law in play, can that law be saved?": "No — that law is the only eligible outcome. Abstaining isn't an outcome, and if nobody votes the speaker must break the 0-0 tie by choosing it."
 @84
-N No source found.
+I1 LRR FAQ: "A player may play multiple rider action cards on a single agenda." No exception for a single eligible outcome.
 @85
-I2 RulesPal: "Minister of Industry lets you produce in that system right after placing the dock."
+I2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
 @86
-E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
-@87
-E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
-@88
-E1 LRR 24.4a: "If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-@89
-E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry." Overturns the Oct 3, 2018 ruling (source 5 line 1457).
-@90
-E2 RulesPal, "What triggers Minister of Industry?": "A Saar Floating Factory moving into a system doesn't trigger it."
-@91
-E2 RulesPal, "When is Minister of Peace used …?": "Once it ends the active player's turn, no other abilities in that window can be resolved, per the developer's later FAQ ruling."
-@92
-E2 Same entry: "no other abilities in that window can be resolved."
-@93
-E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
-@94
-E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Peace's owner needn't have units in the activated system."
-@95
 N No source found.
+@87
+N No source found.
+@88
+E2 RulesPal: "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
+@89
+N No source found.
+@90
+I2 RulesPal: "Minister of Industry lets you produce in that system right after placing the dock."
+@91
+E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
+@92
+E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
+@93
+E1 LRR 24.4a: "If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+@94
+E4 Designer ruling: "Any instance of 'replace' can be considered to say 'remove and place' if no units are left in reinforcements … Note, this overturns a previous ruling regarding Minister of Industry." Overturns the Oct 3, 2018 ruling (source 5 line 1457).
+@95
+E2 RulesPal, "What triggers Minister of Industry?": "A Saar Floating Factory moving into a system doesn't trigger it."
 @96
-E1 LRR FAQ: "The Yssaril's 'Scheming' ability, however, is triggered each time that action cards are drawn."
+E2 RulesPal, "When is Minister of Peace used …?": "Once it ends the active player's turn, no other abilities in that window can be resolved, per the developer's later FAQ ruling."
 @97
+E2 Same entry: "no other abilities in that window can be resolved."
+@98
+E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
+@99
+E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Peace's owner needn't have units in the activated system."
+@100
+N No source found.
+@101
+E1 LRR FAQ: "The Yssaril's 'Scheming' ability, however, is triggered each time that action cards are drawn."
+@102
 E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities."
 E5 Designer ruling (Mar 2019): "NM is intended to refer to the specific step of the status phase, not a blanket rule. I can see the reasoning there, but no."
-@98
+@103
 N No source found.
-@99
+@104
 E1 LRR FAQ: "Is the trigger for the 'Minister of War' agenda card's ability 'performing an action'? A: Yes. Performing any action is the trigger for the remainder of the 'Minister of War' agenda card's ability."
 E2 RulesPal, "Can Minister of War be used after any action?": "its owner can discard it after any action … it doesn't need to follow an action that removed a token."
 E5 Designer ruling (Mattchew222, Feb 6, 2018): "You can discard the Minister of War card after doing ANY action to take an additional action."
-@100
+@105
 E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of War isn't an action itself, so with Fleet Logistics you can take three actions in a turn."
-@101
+@106
 N No source found. Compare RulesPal on Judicial Abolishment: "that law is the only eligible outcome … if nobody votes the speaker must break the 0-0 tie by choosing it."
-@102
+@107
 I1 LRR FAQ: "A player may play multiple rider action cards on a single agenda." No exception for a single eligible outcome.
-@103
+@108
 E2 RulesPal, "When Miscount Disclosed forces a revote on a law, does that law stay in effect during the revote?": "Yes — the law remains in play until the revote resolves."
 E1 LRR FAQ: "the law that is being voted on because of 'Miscount Disclosed' remains in play during the revote."
-@104
-N No source found.
-@105
-N No source found.
-@106
-E2 RulesPal: "the law remains in play until the revote resolves, so Representative Government, for example, still limits everyone to 1 vote."
-@107
-E2 RulesPal, "How does the revote from Miscount Disclosed work?": "First vote on Miscount Disclosed, with riders predicting only which law is chosen. Then vote on that law as if it had just been revealed."
-@108
-N No source found.
 @109
-E2 RulesPal: "vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it."
-E5 Designer ruling: "Yes, the other Agenda can be Quashed."
+N No source found.
 @110
-E2 RulesPal: "so Veto, Quash and a fresh round of riders can be played on it."
+N No source found.
 @111
-I2 RulesPal, "If Shard of the Throne, The Crown of Emphidia or Holy Planet of Ixth is discarded or re-elected …": "No — a point from these laws is lost only through the condition printed on the card." The note's gain on re-election is not stated.
+E2 RulesPal: "the law remains in play until the revote resolves, so Representative Government, for example, still limits everyone to 1 vote."
 @112
-E2 RulesPal: "Planets are not readied in between, and the revote doesn't replace the phase's second agenda, so a phase can have three votes."
+E2 RulesPal, "How does the revote from Miscount Disclosed work?": "First vote on Miscount Disclosed, with riders predicting only which law is chosen. Then vote on that law as if it had just been revealed."
 @113
 N No source found.
 @114
-N No source found.
+E2 RulesPal: "vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it."
+E5 Designer ruling: "Yes, the other Agenda can be Quashed."
 @115
-E5 Designer ruling, asked whether Miscount Disclosed "refresh[es] the 'transaction allowance'": "I would also say that they could perform new transactions."
+E2 RulesPal: "so Veto, Quash and a fresh round of riders can be played on it."
 @116
-E2 RulesPal: "a point from these laws is lost only through the condition printed on the card."
-E5 Designer ruling: "Because the losing of the victory points is tied to the combat and not the losing of the card, the former owner would keep the victory point in both cases."
+I2 RulesPal, "If Shard of the Throne, The Crown of Emphidia or Holy Planet of Ixth is discarded or re-elected …": "No — a point from these laws is lost only through the condition printed on the card." The note's gain on re-election is not stated.
 @117
-N No source found.
+E2 RulesPal: "Planets are not readied in between, and the revote doesn't replace the phase's second agenda, so a phase can have three votes."
 @118
-E4 Designer ruling: "Q: Does New Constitution exhaust home planets if they're not controlled by their owner? A: No, you only exhaust planets in your home system if you control them."
-E2 RulesPal: "A New Constitution only exhausts the planets each player controls in their own home system."
-I3 Learn to Play: "each player exhausts each planet in his home system."
+N No source found.
 @119
 N No source found.
 @120
-N No source found.
+E5 Designer ruling, asked whether Miscount Disclosed "refresh[es] the 'transaction allowance'": "I would also say that they could perform new transactions."
 @121
-N No source found.
+E2 RulesPal: "a point from these laws is lost only through the condition printed on the card."
+E5 Designer ruling: "Because the losing of the victory points is tied to the combat and not the losing of the card, the former owner would keep the victory point in both cases."
 @122
 N No source found.
 @123
-E2 RulesPal, "How do Confusing and Confounding Legal Text interact …?": "only the player originally elected can play them. They act before the outcome resolves."
+E4 Designer ruling: "Q: Does New Constitution exhaust home planets if they're not controlled by their owner? A: No, you only exhaust planets in your home system if you control them."
+E2 RulesPal: "A New Constitution only exhausts the planets each player controls in their own home system."
+I3 Learn to Play: "each player exhausts each planet in his home system."
 @124
-E2 RulesPal, "If Miscount Disclosed revotes Political Censure, who gains or loses points?": "the previous owner loses 1 and the new owner gains 1; the same player re-elected loses and regains it."
+N No source found.
 @125
-E2 RulesPal, "What does Political Censure stop, and how is it removed?": "Only playing action cards; strategy cards are unaffected. The elected player can't discard it themselves."
+N No source found.
 @126
-E2 RulesPal, "Does producing with Sling Relay trigger the Prophecy of Ixth drawback?": "No — it only applies when you use a unit's Production ability, which Sling Relay doesn't."
+N No source found.
 @127
-E2 RulesPal, "Does Public Execution …, and does Yssaril's Crafty save their hand?": "The discard comes from being elected, not from the hand limit, so Yssaril must discard too."
+N No source found.
 @128
-N No source found.
+E2 RulesPal, "How do Confusing and Confounding Legal Text interact …?": "only the player originally elected can play them. They act before the outcome resolves."
 @129
-E5 Designer ruling: "Do pre-printed units count as 'technologies'? Specifically, does Prototype War Sun I count as a technology? … Dane: They do not. Preprinted units do not count as technologies."
+E2 RulesPal, "If Miscount Disclosed revotes Political Censure, who gains or loses points?": "the previous owner loses 1 and the new owner gains 1; the same player re-elected loses and regains it."
 @130
-I5 Same ruling: "Preprinted units do not count as technologies."
+E2 RulesPal, "What does Political Censure stop, and how is it removed?": "Only playing action cards; strategy cards are unaffected. The elected player can't discard it themselves."
 @131
-E5 Same ruling, which asked whether it "count[s] against the 'Against' effects of Publicize Weapons Schematics": "They do not."
+E2 RulesPal, "Does producing with Sling Relay trigger the Prophecy of Ixth drawback?": "No — it only applies when you use a unit's Production ability, which Sling Relay doesn't."
 @132
-N No source found.
+E2 RulesPal, "Does Public Execution …, and does Yssaril's Crafty save their hand?": "The discard comes from being elected, not from the hand limit, so Yssaril must discard too."
 @133
-I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Faction technology cards another player has actually researched, unit upgrades included."
+N No source found.
 @134
-N No source found.
+E5 Designer ruling: "Do pre-printed units count as 'technologies'? Specifically, does Prototype War Sun I count as a technology? … Dane: They do not. Preprinted units do not count as technologies."
 @135
-E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+I5 Same ruling: "Preprinted units do not count as technologies."
 @136
-N No source found.
+E5 Same ruling, which asked whether it "count[s] against the 'Against' effects of Publicize Weapons Schematics": "They do not."
 @137
 N No source found.
 @138
-N No source found.
+I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Faction technology cards another player has actually researched, unit upgrades included."
 @139
 N No source found.
 @140
-N No source found.
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @141
+N No source found.
+@142
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@143
+N No source found.
+@144
+N No source found.
+@145
+N No source found.
+@146
+N No source found.
+@147
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@148
 E1 LRR FAQ: "When a 'Research Team' agenda that is attached to a planet is used to ignore a prerequisite, is the planet exhausted? A: No. The agenda is exhausted, not the planet."
 E2 RulesPal, "How do the Research Team agendas work?": "You exhaust the Research Team card, not the planet."
-@142
-E2 RulesPal, "How do the Research Team agendas work?": "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
-@143
-E1 LRR FAQ: "The agenda is exhausted, not the planet."
-E2 RulesPal: "You exhaust the Research Team card, not the planet."
-@144
-E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
-@145
-E1 LRR FAQ: "The agenda is exhausted, not the planet."
-E2 RulesPal: "You exhaust the Research Team card, not the planet."
-@146
-E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
-@147
-E1 LRR FAQ: "The agenda is exhausted, not the planet."
-E2 RulesPal: "You exhaust the Research Team card, not the planet."
-@148
-E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
 @149
+E2 RulesPal, "How do the Research Team agendas work?": "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
+@150
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@151
+E1 LRR FAQ: "The agenda is exhausted, not the planet."
+E2 RulesPal: "You exhaust the Research Team card, not the planet."
+@152
+E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
+@153
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@154
+E1 LRR FAQ: "The agenda is exhausted, not the planet."
+E2 RulesPal: "You exhaust the Research Team card, not the planet."
+@155
+E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
+@156
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@157
+E1 LRR FAQ: "The agenda is exhausted, not the planet."
+E2 RulesPal: "You exhaust the Research Team card, not the planet."
+@158
+E2 RulesPal: "They don't give the planet a technology specialty, so they don't count for objectives about specialty planets."
+@159
 E4 Designer ruling, on drawing past the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
-@150
+@160
 N No source found.
-@151
+@161
 N No source found.
-@152
+@162
 I2 RulesPal, "When several players are tied for the most or fewest victory points …?": "All of them — every tied player counts." Order is not addressed.
-@153
+@163
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@164
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@165
 E1 LRR FAQ: "the player who gained a victory point from these agendas can only lose that point through the effect stated on the card."
 E2 RulesPal: "No — a point from these laws is lost only through the condition printed on the card."
 E5 Designer ruling: "the former owner would keep the victory point in both cases."
-@154
-E2 RulesPal, "Does Shard of the Throne change hands if both sides' ground forces are wiped out?": "No — if neither player has ground forces left, nobody won the combat, so the Shard stays put. It also never moves through combats that don't happen, such as landing unopposed or bombarding the last defenders."
-@155
-N No source found.
-@156
-E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once."
-@157
-N No source found.
-@158
-E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included."
-I5 Designer ruling: "The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction."
-@159
-E2 RulesPal: "ships in any wormhole system, gamma and delta included, qualify … only ships in alpha or beta systems are then destroyed."
-E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (not D) will be destroyed."
-@160
-I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
-@161
-E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
-@162
-E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
-E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
-@163
-N No source found.
-@164
-N No source found.
-@165
-N No source found.
 @166
-N No source found.
+E2 RulesPal, "Does Shard of the Throne change hands if both sides' ground forces are wiped out?": "No — if neither player has ground forces left, nobody won the combat, so the Shard stays put. It also never moves through combats that don't happen, such as landing unopposed or bombarding the last defenders."
 @167
 N No source found.
 @168
+E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once."
+@169
+E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
+@170
+N No source found.
+@171
+E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included."
+I5 Designer ruling: "The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction."
+@172
+E2 RulesPal: "ships in any wormhole system, gamma and delta included, qualify … only ships in alpha or beta systems are then destroyed."
+E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (not D) will be destroyed."
+@173
+I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
+@174
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+@175
+E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
+@176
+N No source found.
+@177
+N No source found.
+@178
+N No source found.
+@179
+N No source found.
+@180
+N No source found.
+@181
 N No source found.

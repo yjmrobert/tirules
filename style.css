@@ -244,12 +244,14 @@ header, footer
 {
     --bg: white;
     --fg: black;
+    --removed: #b00000;
     color-scheme: light;
 }
 :root[data-theme="dark"]
 {
     --bg: #121218;
     --fg: #e4e4e4;
+    --removed: #ff6b6b;
     color-scheme: dark;
 }
 @media (prefers-color-scheme: dark)
@@ -258,8 +260,14 @@ header, footer
     {
         --bg: #121218;
         --fg: #e4e4e4;
+        --removed: #ff6b6b;
         color-scheme: dark;
     }
+}
+/* Components removed from the game (e.g. base-game agendas dropped by Prophecy of Kings) */
+.removed, .removed a
+{
+    color: var(--removed);
 }
 body
 {

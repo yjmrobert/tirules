@@ -87,8 +87,9 @@
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>A planet with zero infantry on it may be elected.<sup>*</sup></li>
     </ol>
 
@@ -101,20 +102,23 @@
     <li>The speaker may still vote on <i>Covert Legislation</i>.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>If <i>The Crown of Emphidia</i> law is discarded, no player loses a victory point.<sup>1,2</sup></li>
     <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.<sup>*</sup></li>
     <li>The owner of The Crown of Emphidia only loses it if they lose control of a planet in their own home system, not a planet they control in another player&rsquo;s home system.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>Only combat rolls may be rerolled with The Crown of Thalnos; anti&ndash;fighter barrage and bombardment rolls, including those from the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Harrow faction ability, cannot. A player may reroll dice for units that would otherwise be destroyed, as hits are not assigned until after rolling; each unit whose rerolled die does not produce a hit is destroyed, even if its other dice produced hits.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>If the planet elected by Demilitarized Zone is given to another player by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a> agenda, no units are placed on it.<sup>2</sup></li>
     </ol>
 
@@ -155,8 +159,9 @@
     <li>If a player has a strategy card in their play area due to the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a> action card, that strategy card is eligible to be elected.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>If the <i>Holy Planet of Ixth</i> law is discarded, no player loses a victory point.<sup>1,2</sup></li>
     </ol>
 
@@ -340,8 +345,9 @@ li.ixth:before
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>
@@ -352,26 +358,30 @@ li.ixth:before
     <ol><li>A player cannot exhaust a planet with a technology specialty to reduce the number of command tokens they remove.<sup>*</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup></li>
     <li>The elected planet does not gain a technology specialty, and does not count as a planet with a technology specialty for objectives.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup></li>
     <li>The elected planet does not gain a technology specialty, and does not count as a planet with a technology specialty for objectives.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup></li>
     <li>The elected planet does not gain a technology specialty, and does not count as a planet with a technology specialty for objectives.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.<sup>1,2</sup></li>
     <li>The elected planet does not gain a technology specialty, and does not count as a planet with a technology specialty for objectives.<sup>2</sup></li>
     </ol>
@@ -388,12 +398,14 @@ li.ixth:before
     <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>If the <i>Shard of the Throne</i> law is discarded, no player loses a victory point.<sup>1,2,5</sup></li>
     <li>Shard of the Throne does not change hands if a combat ends in a draw, or if no combat occurs, such as when ground forces land on a planet without opposing ground forces or the Bombardment ability destroys the last defending ground forces.<sup>2</sup></li>
     </ol>
@@ -408,8 +420,9 @@ li.ixth:before
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
+    <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Unconventional%20Measures">Unconventional Measures</a></h2>
