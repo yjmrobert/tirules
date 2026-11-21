@@ -20,6 +20,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;Immediately whenever it isn&rsquo;t combat, for example after each player&rsquo;s Space Cannon Offense volley, before the next player fires.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Milty, 08/02/2018): &ldquo;During a combat, the fighters would persist until the end of combat, but in this case they are immediately destroyed.&rdquo;</li>
         </ul></li>
+        <li>Capacity is checked after the winner of a space combat is determined. It is possible to win a space combat with only fighters remaining, before those fighters are removed due to lack of capacity.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player&rsquo;s ships in that system, that player must choose and remove any excess units.&rdquo; The winner is decided before the excess is removed; fighters are ships, so a side with only fighters remaining is the winner.</li>
+        </ul></li>
     </ol>
     <li>A ship cannot pick up more units from a planet than it has capacity. However, a ship may pick up any units (including zero) in a system as it transports, even if doing so would cause units to be removed due to capacity limits.<sup>2,5</sup>
         <ul>

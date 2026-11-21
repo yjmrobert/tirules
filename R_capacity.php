@@ -22,6 +22,7 @@
     <ol>
         <li>If, after movement, a player has more fighters and ground forces in the active system than their ships there can carry, they must remove the excess before the <b>Space Cannon Offense</b> step.<sup>2</sup></li>
         <li>If a ship with capacity is destroyed during the <b>Space Cannon Offense</b> step, its player removes the excess units immediately, after that player&rsquo;s hits are assigned and before the next player rolls. The excess units do not remain until space combat.<sup>2,5</sup></li>
+        <li>Capacity is checked after the winner of a space combat is determined. It is possible to win a space combat with only fighters remaining, before those fighters are removed due to lack of capacity.<sup>1</sup></li>
     </ol>
     <li>A ship cannot pick up more units from a planet than it has capacity. However, a ship may pick up any units (including zero) in a system as it transports, even if doing so would cause units to be removed due to capacity limits.<sup>2,5</sup></li>
     <ol>

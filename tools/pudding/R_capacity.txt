@@ -7,24 +7,26 @@ I2 RulesPal, "When is capacity checked if a carrier is lost?": "Immediately when
 E2 RulesPal, "When is capacity checked if a carrier is lost?": "Immediately whenever it isn't combat, for example after each player's Space Cannon Offense volley, before the next player fires."
 E5 Designer ruling (Milty, 08/02/2018): "During a combat, the fighters would persist until the end of combat, but in this case they are immediately destroyed."
 @3
-E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
-E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
+I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player's ships in that system, that player must choose and remove any excess units." The winner is decided before the excess is removed; fighters are ships, so a side with only fighters remaining is the winner.
 @4
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
 E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
 @5
-E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
-I5 Designer ruling: "you are allowed to choose what to transport and leave other stuff behind"
+E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
 @6
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
-E5 Designer ruling: "you CAN pick up 4 infantry and leave the system, causing the fighters to die."
+I5 Designer ruling: "you are allowed to choose what to transport and leave other stuff behind"
 @7
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
-I5 Designer ruling: "you are allowed to choose what to transport and leave other stuff behind"
+E5 Designer ruling: "you CAN pick up 4 infantry and leave the system, causing the fighters to die."
 @8
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
-I5 Designer ruling: "There is a passive total capacity for the system that determines how many things can exist in the space area"
+I5 Designer ruling: "you are allowed to choose what to transport and leave other stuff behind"
 @9
+E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed …?": "You can't pick up more than the moving ships' capacity … But you can load ground forces and leave fighters or infantry already in space behind; capacity is a system total, so those left over are removed if what remains can't hold them."
+I5 Designer ruling: "There is a passive total capacity for the system that determines how many things can exist in the space area"
+@10
 E5 Designer ruling: "No, you cannot exceed a unit's capacity to intentionally destroy units. You would have to leave some of them on the planet in this case."
 E2 RulesPal, "Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?": "You can't pick up more than the moving ships' capacity, so you can't overload to destroy your own units."
-@10
+@11
 E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."
