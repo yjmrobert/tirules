@@ -3,3 +3,8 @@ E2 RulesPal, "Do players start the game with commodities, trade goods or action 
 @1
 E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
+@2
+E7 Thunder's Edge Rulebook p. 10: "A player's commodity value is increased by 1 for each space station they control."
+@3
+E7 Thunder's Edge Rulebook p. 10: "players can exhaust a space station" to convert commodities to trade goods.
+E7 Thunder's Edge reference: "Exhaust to convert commodities to trade goods."

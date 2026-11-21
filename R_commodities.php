@@ -24,6 +24,8 @@
     <ol class="note">
     <li>A player starts the game with zero commodities.<sup>2</sup></li>
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1,2</sup></li>
+    <li>For each <a href="/R_space_stations">space station</a> a player controls, their commodity value is increased by one.<sup>7</sup></li>
+    <li>A player may exhaust a <a href="/R_space_stations">space station</a> at any time to convert any commodities that they have into trade goods.<sup>7</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

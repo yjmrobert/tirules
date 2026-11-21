@@ -14,6 +14,15 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Even if that player gains zero commodities when their commodities are refreshed, their &lsquo;Trade Agreement&rsquo; may still be played against them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Minister of Commerce, Industry, Peace and War interact &hellip;?&rdquo;: &ldquo;Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished.&rdquo;</li>
         </ul></li>
+    <li>For each <a href="/R_space_stations">space station</a> a player controls, their commodity value is increased by one.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;A player&rsquo;s commodity value is increased by 1 for each space station they control.&rdquo;</li>
+        </ul></li>
+    <li>A player may exhaust a <a href="/R_space_stations">space station</a> at any time to convert any commodities that they have into trade goods.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;players can exhaust a space station&rdquo; to convert commodities to trade goods.</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge reference: &ldquo;Exhaust to convert commodities to trade goods.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>
