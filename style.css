@@ -59,8 +59,6 @@ a
 }
 article
 {
-    column-width: 24em;
-    column-gap: 6em;
     padding: 2em 6em;
     flex: 1 0 auto;
 }
@@ -74,14 +72,12 @@ header h1
 }
 article > h1, article > h2
 {
-    column-span: all;
     margin: 0;
     padding-top: 1ex;
     padding-bottom: 0.2ex;
     font-family: slid, Futura, sans-serif;
     font-size: 250%;
     font-weight: normal;
-    counter-reset: nitem;
 }
 article h2
 {
@@ -164,6 +160,14 @@ h2 + p, p + p, li + p
 .note
 {
     list-style-type: none;
+    counter-reset: nitem;
+}
+/* Each list is its own column container. Columns used to be on <article> with
+   spanning headings, which Safari mis-balances (text clipped at column bottoms). */
+.note, .lrr, article > ul
+{
+    column-width: 21em;
+    column-gap: 6em;
 }
 .note > li:before
 {
@@ -298,9 +302,11 @@ body
     }
     article
     {
-        column-width: 24em;
-        column-gap: 2.4em;
         padding: 0.8em 2.4em;
+    }
+    .note, .lrr, article > ul
+    {
+        column-gap: 2.4em;
     }
     article > h1, article > h2
     {
