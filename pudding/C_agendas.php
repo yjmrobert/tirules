@@ -372,13 +372,13 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="/R_leadership"><i>Leadership</i></a>, <a href="/R_warfare"><i>Warfare</i></a> or <a href="/R_technology_sc"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>*</sup>
+    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="/R_leadership"><i>Leadership</i></a>, <a href="/R_warfare"><i>Warfare</i></a> or <a href="/R_technology_sc"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>3</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/R_technology_sc"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>*</sup>
+    <li>If the <a href="/R_technology_sc"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>3</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
     <ol><li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>

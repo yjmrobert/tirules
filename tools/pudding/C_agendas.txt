@@ -146,9 +146,9 @@ E2 RulesPal, "How does Galactic Crisis Pact work when Leadership is elected?": "
 @67
 N No source found.
 @68
-N No source found.
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards."
 @69
-N No source found.
+E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards."
 @70
 N No source found.
 @71
