@@ -5,7 +5,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution">Anti&ndash;Intellectual Revolution</a></h2>
     <ol class="note">
-    <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>*</sup>
+    <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;For: after you research a technology you must destroy one of your non-fighter ships.&rdquo; The trigger is researching.</li>
         </ul></li>
@@ -264,7 +264,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;the player who gained a victory point from these agendas can only lose that point through the effect stated on the card. If the card is discarded in any other way, such as the &lsquo;Repeal Law&rsquo; action card, the point is not lost.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;No &mdash; a point from these laws is lost only through the condition printed on the card.&rdquo;</li>
         </ul></li>
-    <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.<sup>*</sup>
+    <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do I lose The Crown of Emphidia if I lose a planet I control in another player&rsquo;s home system?&rdquo;: &ldquo;only planets in your own home system count for it.&rdquo;</li>
         </ul></li>
@@ -458,7 +458,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;Adjacency is the normal kind for everyone: a matching wormhole on Mecatol counts, but Creuss&rsquo;s Quantum Entanglement doesn&rsquo;t extend it.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>*</sup>
+    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;a matching wormhole on Mecatol counts&rdquo; The Hil Colish puts a delta wormhole in its system.</li>
         </ul></li>
@@ -486,7 +486,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Commerce">Minister of Commerce</a></h2>
     <ol class="note">
-    <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>*</sup>
+    <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Minister of Commerce, Industry, Peace and War interact &hellip;?&rdquo;: &ldquo;Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished.&rdquo;</li>
         </ul></li>
@@ -514,7 +514,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
-    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup>
+    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Minister of Industry lets you produce in that system right after placing the dock.&rdquo;</li>
         </ul></li>
@@ -762,7 +762,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Do pre-printed units count as &lsquo;technologies&rsquo;? Specifically, does Prototype War Sun I count as a technology? &hellip; Dane: They do not. Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Same ruling: &ldquo;Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
@@ -1003,7 +1003,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;ships in any wormhole system, gamma and delta included, qualify &hellip; only ships in alpha or beta systems are then destroyed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;only the ships in systems with alpha and beta wormholes (not D) will be destroyed.&rdquo;</li>
         </ul></li>
-    <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>*</sup>
+    <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;only ships in alpha or beta systems are then destroyed.&rdquo; A system with an alpha or beta wormhole qualifies whatever else it has.</li>
         </ul></li></ol>

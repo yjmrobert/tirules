@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution">Anti&ndash;Intellectual Revolution</a></h2>
     <ol class="note">
-    <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>*</sup></li>
+    <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>2</sup></li>
     <ol><li>The <a href="/F_nekro">Nekro</a> player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.<sup>2</sup></li></ol>
     <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>2</sup></li>
     <li>A player with no non&ndash;fighter ships on the game board may still research technology when <i>Anti&ndash;Intellectual Revolution</i> is a law in play.<sup>2</sup></li>
@@ -108,7 +108,7 @@
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
     <li>If <i>The Crown of Emphidia</i> law is discarded, no player loses a victory point.<sup>1,2</sup></li>
-    <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.<sup>*</sup></li>
+    <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.<sup>2</sup></li>
     <li>The owner of The Crown of Emphidia only loses it if they lose control of a planet in their own home system, not a planet they control in another player&rsquo;s home system.<sup>2</sup></li>
     </ol>
 
@@ -192,7 +192,7 @@
     <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup></li>
     <li>All units are destroyed simultaneously.<sup>1,5</sup></li>
     <li>The <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> faction ability does not make any additional systems adjacent to the Mecatol Rex system for the purposes of <i>Ixthian Artifact</i>.<sup>1,2</sup></li>
-    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>*</sup></li>
+    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>2</sup></li>
     <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.<sup>*</sup></li>
     </ol>
 
@@ -208,7 +208,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Commerce">Minister of Commerce</a></h2>
     <ol class="note">
-    <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>*</sup></li>
+    <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>2</sup></li>
     <ol><li>Gaining a fixed number of commodities does not trigger <i>Minister of Commerce</i>, even if doing so would result in its owner having commodities equal to their commodity value.<sup>*</sup></li></ol>
     <li>All trade goods are gained together.<sup>*</sup></li>
     <li>The owner of Minister of Commerce gains trade goods from Minister of Commerce when they replenish commodities, even if they already have their maximum number of commodities.<sup>2</sup></li>
@@ -221,7 +221,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
-    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>*</sup></li>
+    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>2</sup></li>
     <li>The produced units must be paid for.<sup>1</sup></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup></li>
     <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on the game board, they may first remove a space dock from a system that does not contain their command token.<sup>1</sup></li></ol>
@@ -320,7 +320,7 @@
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.<sup>*</sup></li>
     <li>If the <a href="/F_muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup></li>
     <ol>
-        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li>
+        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup></li>
         <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="/F_muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup></li>
     </ol>
     <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup></li>
@@ -433,7 +433,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research">Wormhole Research</a></h2>
     <ol class="note">
     <li>A player with ships in a delta wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.<sup>2,5</sup></li>
-    <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>*</sup></li></ol>
+    <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>2</sup></li></ol>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
