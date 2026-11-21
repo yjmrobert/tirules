@@ -107,6 +107,7 @@ E2 RulesPal, "How do players reach the Wormhole Nexus, and can the Creuss agent 
 I8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole." A delta wormhole does not stop the trigger.
 @45
 I8 PoK rulebook, Emissary Taivra card: "that system is adjacent to all other systems that contain wormholes during this tactical action." All systems containing wormholes includes delta and epsilon.
+I9 Designer Q&A, "Using Wormholes": "The Crimson Rebellion's 'Sundered' ability says 'You cannot use wormholes other than epsilon wormholes.'" The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.
 @46
 E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips."
 @47

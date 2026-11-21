@@ -989,10 +989,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, gamma, delta or epsilon wormhole and one or more of that player&rsquo;s ships.<sup>2,5</sup>
+    <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, gamma, delta or epsilon wormhole and one or more of that player&rsquo;s ships.<sup>2,5,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?&rdquo;: &ldquo;Wormhole Reconstruction&rsquo;s Against outcome hits every wormhole system, delta included.&rdquo; Every wormhole system includes gamma and epsilon.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.</li>
         </ul></li>
     <ol><li class="ixth">(Sorry, <a href="/F_creuss">Creuss</a>.)</li></ol>
     </ol>

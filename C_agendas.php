@@ -426,7 +426,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction">Wormhole Reconstruction</a></h2>
     <ol class="note">
     <li>While <i>Wormhole Reconstruction</i> is in play, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> will have no effect.<sup>*</sup></li>
-    <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, gamma, delta or epsilon wormhole and one or more of that player&rsquo;s ships.<sup>2,5</sup></li>
+    <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, gamma, delta or epsilon wormhole and one or more of that player&rsquo;s ships.<sup>2,5,9</sup></li>
     <ol><li class="ixth">(Sorry, <a href="/F_creuss">Creuss</a>.)</li></ol>
     </ol>
 

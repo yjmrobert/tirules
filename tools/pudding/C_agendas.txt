@@ -387,6 +387,7 @@ N No source found.
 @175
 E2 RulesPal, "Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?": "Wormhole Reconstruction's Against outcome hits every wormhole system, delta included." Every wormhole system includes gamma and epsilon.
 I5 Designer ruling: "The Creuss home and gate systems are eligible to be affected by Wormhole Reconstruction."
+I9 Designer Q&A, "Using Wormholes": "The Crimson Rebellion's 'Sundered' ability says 'You cannot use wormholes other than epsilon wormholes.'" The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.
 @176
 E2 RulesPal: "ships in any wormhole system, gamma and delta included, qualify … only ships in alpha or beta systems are then destroyed."
 E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (not D) will be destroyed."
