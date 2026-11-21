@@ -7,6 +7,7 @@
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup></li>
     <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
     <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
+    <li>Once the game starts, the Firmament player&rsquo;s plot cards are hidden information. Players may look at the plot cards before the game begins.<sup>7</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>
@@ -44,6 +45,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">&#x2716; Neural Parasite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
+    <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x26AA; Planesplitter</a> <sub>(Technology)</sub></h2>
@@ -57,6 +59,7 @@
     <li>The Obsidian player cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup></li>
     <li>The Obsidian player cannot move an ingress token into a system in The Fracture.<sup>6</sup></li>
     <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup></li>
+    <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye">&#x26AA; Heaven&rsquo;s Eye</a> <sub>(Flagship)</sub></h2>

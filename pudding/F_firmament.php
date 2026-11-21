@@ -19,6 +19,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? Do they immediately get VP? Can they score it again for VP? A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
         </ul></li>
+    <li>Once the game starts, the Firmament player&rsquo;s plot cards are hidden information. Players may look at the plot cards before the game begins.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Clarifications, Plot Cards: &ldquo;Once the game starts, the Firmament&rsquo;s Plot cards are hidden information. Players can look at the plot cards before the game begins, however.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>
@@ -71,6 +75,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">&#x2716; Neural Parasite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
+    <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): &ldquo;While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify &lsquo;gain.&rsquo;&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x26AA; Planesplitter</a> <sub>(Technology)</sub></h2>
@@ -99,6 +107,10 @@
     <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Coup D&rsquo;etat and the Obsidian&rsquo;s Planesplitter technology? A: Planesplitter would resolve before Coup D&rsquo;etat is played and resolved.&rdquo;</li>
+        </ul></li>
+    <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): &ldquo;While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify &lsquo;gain.&rsquo;&rdquo;</li>
         </ul></li>
     </ol>
 
