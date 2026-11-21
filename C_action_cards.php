@@ -28,7 +28,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery">Bribery</a></h2>
     <ol class="note">
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.<sup>1,2,5</sup></li>
-    <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>*</sup></li>
+    <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>1</sup></li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.<sup>1,2,5</sup></li>
     <ol><li>If the <a href="/F_argent">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup></li></ol>
     <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a>; it can only be played after their normal vote.<sup>1</sup></li>
@@ -206,7 +206,7 @@
     <li><i>Experimental Battlestation</i> cannot be played if no ships are moved into the active system, even if the active player already has ships in that system.<sup>1,2,5</sup></li>
     <ol>
         <li>If ships are moved into the active system, ships that were already in that system may be assigned any hits produced.<sup>5</sup></li>
-        <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.<sup>*</sup></li>
+        <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.<sup>2</sup></li>
         <li>If all moving ships are lost to a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.<sup>2</sup></li>
     </ol>
     <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup></li>
@@ -270,8 +270,8 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
     <ol class="note">
     <li><i>Ghost Squad</i> is played after the active player has assigned which planet each of their ground forces are being committed to.<sup>10</sup></li>
-    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup></li>
-    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>*</sup></li></ol>
+    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>10</sup></li>
+    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>10</sup></li></ol>
     <li>The <a href="/F_ul">Ul</a> player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.<sup>2,4</sup></li>
     <li>A player may move zero ground forces with <i>Ghost Squad</i>.<sup>10</sup></li>
     </ol>
@@ -286,7 +286,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election &Omega;</a></h2>
     <ol class="note">
     <li>The speaker votes before the player that played <i>Hack Election &Omega;</i>.<sup>*</sup></li>
-    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>*</sup></li></ol>
+    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>1</sup></li></ol>
     <li>If the <a href="/F_argent">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup></li>
     </ol>
 
@@ -374,7 +374,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
     <ol class="note">
-    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>*</sup></li>
+    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup></li>
     <li><i>Maneuvering Jets</i> may cancel hits produced during either the <b>Space Cannon Offense</b> or the <b>Space Cannon Defense</b> step.<sup>2</sup></li>
     <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.<sup>2</sup></li>
     <ol>
@@ -515,7 +515,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown">Reactor Meltdown</a></h2>
     <ol class="note">
-    <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>*</sup></li>
+    <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>1</sup></li>
     <li>If a player owns a space dock in another player&rsquo;s home system, that space dock cannot be targeted by <i>Reactor Meltdown</i>.<sup>*</sup></li>
     <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.<sup>*</sup></li></ol>
     </ol>
@@ -644,7 +644,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Solar%20Flare">Solar Flare</a></h2>
     <ol class="note">
     <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup></li>
-    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>*</sup></li>
+    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
@@ -654,7 +654,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
     <ol class="note">
-    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>*</sup></li>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Summit">Summit</a></h2>

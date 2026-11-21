@@ -47,7 +47,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Mar 7, 2018): &ldquo;You can still play Bribery even if the speaker does not vote.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;nor can a speaker who abstained, but others who voted still can.&rdquo;</li>
         </ul></li>
-    <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>*</sup>
+    <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR errata, Bribery: &ldquo;Spend any number of trade goods.&rdquo; Any number includes zero.</li>
         </ul></li>
@@ -488,7 +488,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: Experimental Battlestation &ldquo;is only fireable at the active player and at his ships in the active system.&rdquo; Not limited to the ships that moved.</li>
         </ul></li>
-        <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.<sup>*</sup>
+        <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Experimental Battlestation be used, and what can it shoot?&rdquo;: &ldquo;Only when another player&rsquo;s ships actually move during the movement step of a tactical action.&rdquo; A ship moving back in has moved in.</li>
         </ul></li>
@@ -612,11 +612,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I, Ghost Squad: &ldquo;After a player commits units to land on a planet you control.&rdquo;</li>
         </ul></li>
-    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>*</sup>
+    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination"><i>Quantum Dissemination &Omega;</i></a> hero ability.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers &ldquo;After a player commits units to land on a planet you control,&rdquo; whatever the source of the commitment.</li>
         </ul></li>
-    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>*</sup>
+    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers only &ldquo;After a player commits units to land.&rdquo;</li>
         </ul></li></ol>
@@ -653,7 +653,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>*</sup>
+    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Bribery and &ldquo;any effect with the timing window of &lsquo;after the speaker votes&rsquo;&rdquo; are played after the speaker&rsquo;s voting window.</li>
         </ul></li></ol>
@@ -842,7 +842,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
     <ol class="note">
-    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>*</sup>
+    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Maneuvering Jets protect infantry from Space Cannon Defense?&rdquo;: &ldquo;it cancels Space Cannon hits on your ground forces as well as your ships.&rdquo; Space Cannon hits only.</li>
         </ul></li>
@@ -1179,7 +1179,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown">Reactor Meltdown</a></h2>
     <ol class="note">
-    <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>*</sup>
+    <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Lucky Shot&rsquo; and other similar effects can only be used against other player&rsquo;s units and planets.&rdquo;</li>
         </ul></li>
@@ -1482,7 +1482,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Solar Flare: &ldquo;Other players cannot use SPACE CANNON against your ships.&rdquo; Only other players are restricted.</li>
         </ul></li>
-    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>*</sup>
+    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Solar Flare limits Space Cannon &ldquo;against your ships.&rdquo; Space Cannon Defense targets ground forces.</li>
         </ul></li>
@@ -1498,7 +1498,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
     <ol class="note">
-    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>*</sup>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a strategy card&rsquo;s primary ability cost a command token, and does the Leadership secondary?&rdquo;: &ldquo;Secondaries cost a strategy pool token, except Leadership&rsquo;s.&rdquo;</li>
         </ul></li>
