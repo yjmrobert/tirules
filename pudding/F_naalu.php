@@ -88,6 +88,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch">Matriarch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
+    <li>The text of the <i>Matriarch</i> is changed to: &ldquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rdquo;<sup>1,2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Naalu flagship &lsquo;Matriarch&rsquo; should read as follows: &lsquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?&rdquo;: &ldquo;per the errata they return to space when combat ends.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Skootur, Oct 12, 2017): &ldquo;The wording on Matriarch should read &ldquo;When combat ends, return those units to the space area&rdquo;&rdquo;</li>
+        </ul></li>
     <li>The committed fighters are returned to the space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The Naalu fighters return to the space area when ground combat ends. If no Naalu ground forces are present, the combat is considered to be a draw, and the Naalu do not gain control of the planet.&rdquo;</li>
@@ -108,12 +114,6 @@
     <li>The committed fighters may be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>The text of the <i>Matriarch</i> is changed to: &ldquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rdquo;<sup>1,2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Naalu flagship &lsquo;Matriarch&rsquo; should read as follows: &lsquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rsquo;&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?&rdquo;: &ldquo;per the errata they return to space when combat ends.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Skootur, Oct 12, 2017): &ldquo;The wording on Matriarch should read &ldquo;When combat ends, return those units to the space area&rdquo;&rdquo;</li>
         </ul></li>
     <li>Fighters committed to a planet use their own combat value, including that of any fighter unit upgrade.<sup>2</sup>
         <ul>

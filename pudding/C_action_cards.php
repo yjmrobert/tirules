@@ -41,6 +41,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery">Bribery</a></h2>
     <ol class="note">
+    <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the action card &lsquo;Bribery&rsquo; should read as follows: &lsquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;Per its errata, Bribery is played after the speaker votes and each trade good spent adds a vote to the outcome you voted for.&rdquo;</li>
+        </ul></li>
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;even if the speaker cannot vote, or chooses not to vote, the &lsquo;Bribery&rsquo; action card &hellip; can still be played after the timing window in which the speaker would have cast votes.&rdquo;</li>
@@ -72,11 +77,6 @@
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the action card &lsquo;Bribery&rsquo; should read as follows: &lsquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rsquo;&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;Per its errata, Bribery is played after the speaker votes and each trade good spent adds a vote to the outcome you voted for.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -278,10 +278,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
     <ol class="note">
-    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found. RulesPal&rsquo;s Mecatol Rex exclusion is for the Diplomacy strategy card, not this rider.</li>
-        </ul></li>
     <li>After playing a <i>Diplomacy Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes.&rdquo;</li>
@@ -301,6 +297,10 @@
     <li>A player who cannot vote may still play a <i>Diplomacy Rider</i>.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards.&rdquo;</li>
+        </ul></li>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. RulesPal&rsquo;s Mecatol Rex exclusion is for the Diplomacy strategy card, not this rider.</li>
         </ul></li>
     </ol>
 
@@ -844,13 +844,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
     <ol class="note">
-    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Maneuvering Jets protect infantry from Space Cannon Defense?&rdquo;: &ldquo;it cancels Space Cannon hits on your ground forces as well as your ships.&rdquo; Space Cannon hits only.</li>
-        </ul></li>
     <li><i>Maneuvering Jets</i> may cancel hits produced during either the <b>Space Cannon Offense</b> or the <b>Space Cannon Defense</b> step.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Maneuvering Jets protect infantry from Space Cannon Defense?&rdquo;: &ldquo;Yes &mdash; it cancels Space Cannon hits on your ground forces as well as your ships.&rdquo;</li>
+        </ul></li>
+    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Maneuvering Jets protect infantry from Space Cannon Defense?&rdquo;: &ldquo;it cancels Space Cannon hits on your ground forces as well as your ships.&rdquo; Space Cannon hits only.</li>
         </ul></li>
     <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.<sup>2</sup>
         <ul>
@@ -1331,7 +1331,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: &ldquo;Bribery. Player declares how many TGs to be spent and which side he&rsquo;s voting for. Sabotage is played before he actually enacts it.&rdquo; Dane: &ldquo;This list is mostly correct with one correction&rdquo; (the correction concerns Focused Research only).</li>
         </ul></li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.<sup>1,2,5</sup>
+    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Sabotage</i>.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Sabotage &ldquo;must be played before any effects have been resolved, votes have been cast, or any dice have been rolled.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;but before anything changes the game state, such as rolling dice or spending trade goods.&rdquo;</li>
@@ -1385,18 +1385,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding">Shields Holding</a></h2>
     <ol class="note">
-    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Not Space Cannon Offense or Defense, which happen outside space combat.&rdquo;</li>
-        </ul></li>
-    <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;not &lsquo;destroy&rsquo; effects such as Courageous to the End.&rdquo;</li>
-        </ul></li>
-    <li><i>Shields Holding</i> cannot be used during ground combat.<sup>2</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Hits during space combat.&rdquo; Ground combat is not space combat.</li>
-        </ul></li>
     <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during space combat.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Hits during space combat, including Anti-Fighter Barrage in the first round and ability hits like Dimensional Splicer, Ambush or Devotion.&rdquo;</li>
@@ -1417,6 +1405,18 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Each combatant may play one in the same round.&rdquo;</li>
+        </ul></li>
+    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Not Space Cannon Offense or Defense, which happen outside space combat.&rdquo;</li>
+        </ul></li>
+    <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;not &lsquo;destroy&rsquo; effects such as Courageous to the End.&rdquo;</li>
+        </ul></li>
+    <li><i>Shields Holding</i> cannot be used during ground combat.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which hits can Shields Holding cancel?&rdquo;: &ldquo;Hits during space combat.&rdquo; Ground combat is not space combat.</li>
         </ul></li>
     </ol>
 
@@ -1585,15 +1585,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unstable%20Planet">Unstable Planet</a></h2>
     <ol class="note">
-    <li>A player may select a planet with fewer than three infantry on it (including zero).<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?&rdquo;: &ldquo;Yes &mdash; it was errata&rsquo;d to destroy up to 3 infantry, so it removes whatever is there, up to 3.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata, Unstable Planet: &ldquo;destroy up to 3 infantry on it.&rdquo;</li>
-        </ul></li>
     <li>The text of <i>Unstable Planet</i> is changed to: &ldquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rdquo;<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Unstable Planet&rsquo; action card should read as follows: &lsquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rsquo;&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it was errata&rsquo;d to destroy up to 3 infantry.&rdquo;</li>
+        </ul></li>
+    <li>A player may select a planet with fewer than three infantry on it (including zero).<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?&rdquo;: &ldquo;Yes &mdash; it was errata&rsquo;d to destroy up to 3 infantry, so it removes whatever is there, up to 3.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata, Unstable Planet: &ldquo;destroy up to 3 infantry on it.&rdquo;</li>
         </ul></li>
     <li>A player may choose an exhausted hazardous planet.<sup>2,5</sup>
         <ul>
@@ -1604,14 +1604,14 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Upgrade">Upgrade</a></h2>
     <ol class="note">
+    <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The cruiser must already be in the activated system.&rdquo;</li>
+        </ul></li>
     <li>The cruiser must be in the system when it is activated for <i>Upgrade</i> to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When playing the &lsquo;Upgrade&rsquo; action card, does the cruiser already have to be present in the active system? A: Yes. The cruiser must already be in the activated system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Upgrade action card be played?&rdquo;: &ldquo;Immediately after you activate a system containing your ships &mdash; not later in that tactical action, such as after producing a new cruiser.&rdquo;</li>
-        </ul></li>
-    <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The cruiser must already be in the activated system.&rdquo;</li>
         </ul></li>
     <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup>
         <ul>
@@ -1622,11 +1622,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising">Uprising</a></h2>
     <ol class="note">
-    <li><i>Uprising</i> cannot be played if all planets owned by each other player is exhausted.<sup>2</sup>
+    <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play a component action that I can&rsquo;t fully resolve?&rdquo;: &ldquo;You can&rsquo;t &hellip; use Uprising on an exhausted planet.&rdquo;</li>
         </ul></li>
-    <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup>
+    <li><i>Uprising</i> cannot be played if all planets owned by each other player are exhausted.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play a component action that I can&rsquo;t fully resolve?&rdquo;: &ldquo;You can&rsquo;t &hellip; use Uprising on an exhausted planet.&rdquo;</li>
         </ul></li>
@@ -1638,6 +1638,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
+    <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Veto&rsquo; action card should read as follows: &lsquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rsquo;&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Veto and Political Favor were errata&rsquo;d to &lsquo;when&rsquo; timing to match Quash.&rdquo;</li>
+        </ul></li>
     <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
@@ -1646,18 +1651,13 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player&rsquo;s &lsquo;Political Secret&rsquo; promissory note is used against them, but that agenda is subsequently discarded by an effect such as the &lsquo;Veto&rsquo; action card, can that player vote &hellip;? A: Yes. It is a new agenda and thus the effect of the player&rsquo;s &lsquo;Political Secret&rsquo; is ended.&rdquo;</li>
         </ul></li></ol>
-    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (on Quash and the replacement agenda): &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
-        </ul></li>
     <li>A second <i>Veto</i> may be used on the replacement agenda.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal: &ldquo;A Veto card, by contrast, is one card and one use.&rdquo; That limits one copy, not a second card.</li>
         </ul></li>
-    <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup>
+    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Veto&rsquo; action card should read as follows: &lsquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rsquo;&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Veto and Political Favor were errata&rsquo;d to &lsquo;when&rsquo; timing to match Quash.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (on Quash and the replacement agenda): &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
         </ul></li>
     </ol>
 

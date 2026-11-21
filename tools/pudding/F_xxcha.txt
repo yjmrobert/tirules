@@ -25,9 +25,9 @@ E5 Designer ruling (sigmazero13, Jun 19, 2018): "If 'Miscount Disclosed' causes 
 @9
 E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
 @10
-E2 RulesPal: "'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first."
-@11
 E1 LRR errata: "The text of the Xxcha promissory note 'Political Favor' should read as follows: 'When an agenda is revealed: Remove 1 token from the Xxcha player's strategy pool and return it to their reinforcements. Then, discard the revealed agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.'"
+@11
+E2 RulesPal: "'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first."
 @12
 E2 RulesPal, "Can L1Z1X Cybernetic Enhancements or Xxcha Political Favor be used if their owner has no command token in the strategy pool?": "No."
 E5 Designer ruling: "The command tokens must be present in order to resolve these PNs."

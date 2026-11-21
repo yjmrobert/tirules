@@ -37,11 +37,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch">Matriarch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
+    <li>The text of the <i>Matriarch</i> is changed to: &ldquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rdquo;<sup>1,2,5</sup></li>
     <li>The committed fighters are returned to the space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.<sup>1,2,5</sup></li>
     <li>Any structures on the planet will not be destroyed if the Naalu player committed no ground forces.<sup>2,5</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies"><i>Dacxive Animators</i></a> technology will not allow the Naalu player to gain control of a planet without committing a ground force.<sup>1,2,5</sup></li>
     <li>The committed fighters may be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup></li>
-    <li>The text of the <i>Matriarch</i> is changed to: &ldquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rdquo;<sup>1,2,5</sup></li>
     <li>Fighters committed to a planet use their own combat value, including that of any fighter unit upgrade.<sup>2</sup></li>
     </ol>
 

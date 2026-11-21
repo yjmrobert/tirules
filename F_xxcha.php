@@ -21,8 +21,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor">Political Favor</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a>, <i>Political Favor</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <li>The text of <i>Political Favor</i> is changed to: &ldquo;When an agenda is revealed: Remove 1 token from the Xxcha player&rsquo;s strategy pool and return it to their reinforcements. Then, discard the revealed agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead. Then, return this card to the Xxcha player.&rdquo;<sup>1</sup></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a>, <i>Political Favor</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <li>If the Xxcha player has no command tokens in their strategy pool, <i>Political Favor</i> cannot be played.<sup>2,5</sup></li>
     </ol>
 

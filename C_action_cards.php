@@ -27,6 +27,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery">Bribery</a></h2>
     <ol class="note">
+    <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup></li>
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.<sup>1,2,5</sup></li>
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.<sup>1</sup></li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.<sup>1,2,5</sup></li>
@@ -34,7 +35,6 @@
     <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a>; it can only be played after their normal vote.<sup>1</sup></li>
     <ol><li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup></li></ol>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup></li>
-    <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Brilliance">Brilliance</a></h2>
@@ -128,11 +128,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
     <ol class="note">
-    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
     <li>After playing a <i>Diplomacy Rider</i>, a player may play other rider cards.<sup>1,2,5</sup></li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup></li></ol>
     <li>The effect of a successful <i>Diplomacy Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Diplomacy Rider</i>.<sup>1</sup></li>
+    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Diplomatic%20Pressure">Diplomatic Pressure</a></h2>
@@ -374,8 +374,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
     <ol class="note">
-    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup></li>
     <li><i>Maneuvering Jets</i> may cancel hits produced during either the <b>Space Cannon Offense</b> or the <b>Space Cannon Defense</b> step.<sup>2</sup></li>
+    <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.<sup>2</sup></li>
     <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.<sup>2</sup></li>
     <ol>
         <li>During the <b>Space Cannon Offense</b> step, each player makes their Space Cannon roll independent of each other player, in clockwise order. As such, a player may use one <i>Maneuvering Jets</i> after each other player makes a space cannon roll.<sup>2</sup></li>
@@ -582,7 +582,7 @@
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup></li>
         <li>The value of any variable cost to be paid.<sup>5</sup></li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.<sup>1,2,5</sup></li>
+    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Sabotage</i>.<sup>1,2,5</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.<sup>2</sup></li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>*</sup></li>
     <li>If the action card that was canceled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
@@ -613,13 +613,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding">Shields Holding</a></h2>
     <ol class="note">
-    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup></li>
-    <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.<sup>2</sup></li>
-    <li><i>Shields Holding</i> cannot be used during ground combat.<sup>2</sup></li>
     <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during space combat.<sup>1,2,5</sup></li>
     <ol><li><i>Shields Holding</i> may be used to cancel hits produced by an anti&ndash;fighter barrage roll.<sup>2</sup></li></ol>
     <li>During a space combat, each player may play a <i>Shields Holding</i> during the same timing window, as each card cancels a different set of hits.<sup>1,2,5</sup></li>
     <li>A player cannot play a second <i>Shields Holding</i> to cancel a second pair of hits produced by the same dice roll or other source.<sup>2,5</sup></li>
+    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup></li>
+    <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.<sup>2</sup></li>
+    <li><i>Shields Holding</i> cannot be used during ground combat.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
@@ -691,32 +691,32 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unstable%20Planet">Unstable Planet</a></h2>
     <ol class="note">
-    <li>A player may select a planet with fewer than three infantry on it (including zero).<sup>1,2</sup></li>
     <li>The text of <i>Unstable Planet</i> is changed to: &ldquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rdquo;<sup>1,2</sup></li>
+    <li>A player may select a planet with fewer than three infantry on it (including zero).<sup>1,2</sup></li>
     <li>A player may choose an exhausted hazardous planet.<sup>2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Upgrade">Upgrade</a></h2>
     <ol class="note">
-    <li>The cruiser must be in the system when it is activated for <i>Upgrade</i> to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.<sup>1,2</sup></li>
     <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.<sup>1</sup></li>
+    <li>The cruiser must be in the system when it is activated for <i>Upgrade</i> to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.<sup>1,2</sup></li>
     <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising">Uprising</a></h2>
     <ol class="note">
-    <li><i>Uprising</i> cannot be played if all planets owned by each other player is exhausted.<sup>2</sup></li>
     <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup></li>
+    <li><i>Uprising</i> cannot be played if all planets owned by each other player are exhausted.<sup>2</sup></li>
     <li><i>Uprising</i> cannot target a planet that contains neutral infantry, as no player controls that planet.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
+    <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup></li>
     <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <ol><li>If <i>Veto</i> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup></li></ol>
-    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     <li>A second <i>Veto</i> may be used on the replacement agenda.<sup>*</sup></li>
-    <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup></li>
+    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Effort">War Effort</a></h2>

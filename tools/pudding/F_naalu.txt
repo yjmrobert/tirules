@@ -34,22 +34,22 @@ E1 LRR FAQ: "Does the Naalu '0' token move with the strategy card it is placed o
 @13
 N No source found.
 @14
-E1 LRR FAQ: "The Naalu fighters return to the space area when ground combat ends. If no Naalu ground forces are present, the combat is considered to be a draw, and the Naalu do not gain control of the planet."
-E2 RulesPal, "Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?": "You need actual ground forces to take control."
-E5 Designer ruling (Skootur, Oct 12, 2017): "they are not supposed to establish control of a planet without ground force assistance."
-@15
-E2 RulesPal, "What happens to space docks and PDS when an enemy takes the planet?": "Fighters fighting via the Naalu flagship don't destroy them, since they aren't on the planet afterwards."
-I5 Designer ruling (sigmazero13, Sep 17, 2018): "The Space dock would not be destroyed, in this instance, for the reason you have stated." Fighters-only invaders are never contained by the planet.
-@16
-E1 LRR FAQ: "Using 'The Matriarch' flagship in combination with the 'Dacxive Animators' technology, can the Naalu gain control of a planet using only fighters? A: No. Because the combat ends in a draw, the 'Dacxive Animators' ability is not triggered."
-E2 RulesPal, "Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?": "If only fighters remain, the combat is a draw, Dacxive Animators doesn't trigger."
-E5 Designer ruling (Skootur, Oct 12, 2017): "Daxcive Animators does not trigger (the combat must be won)."
-@17
-N No source found.
-@18
 E1 LRR errata: "The text of the Naalu flagship 'Matriarch' should read as follows: 'During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.'"
 E2 RulesPal, "Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?": "per the errata they return to space when combat ends."
 E5 Designer ruling (Skootur, Oct 12, 2017): "The wording on Matriarch should read “When combat ends, return those units to the space area”"
+@15
+E1 LRR FAQ: "The Naalu fighters return to the space area when ground combat ends. If no Naalu ground forces are present, the combat is considered to be a draw, and the Naalu do not gain control of the planet."
+E2 RulesPal, "Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?": "You need actual ground forces to take control."
+E5 Designer ruling (Skootur, Oct 12, 2017): "they are not supposed to establish control of a planet without ground force assistance."
+@16
+E2 RulesPal, "What happens to space docks and PDS when an enemy takes the planet?": "Fighters fighting via the Naalu flagship don't destroy them, since they aren't on the planet afterwards."
+I5 Designer ruling (sigmazero13, Sep 17, 2018): "The Space dock would not be destroyed, in this instance, for the reason you have stated." Fighters-only invaders are never contained by the planet.
+@17
+E1 LRR FAQ: "Using 'The Matriarch' flagship in combination with the 'Dacxive Animators' technology, can the Naalu gain control of a planet using only fighters? A: No. Because the combat ends in a draw, the 'Dacxive Animators' ability is not triggered."
+E2 RulesPal, "Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?": "If only fighters remain, the combat is a draw, Dacxive Animators doesn't trigger."
+E5 Designer ruling (Skootur, Oct 12, 2017): "Daxcive Animators does not trigger (the combat must be won)."
+@18
+N No source found.
 @19
 E2 RulesPal, "What combat value do Naalu fighters use in ground combat …?": "Their own fighter combat value, upgrades included."
 @20

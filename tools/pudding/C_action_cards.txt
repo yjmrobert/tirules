@@ -7,26 +7,26 @@ N No source found.
 @3
 E2 RulesPal, "Can a player hit by Assassinate Representative still play riders?": "Yes — it only stops that player voting; unlike Political Secret, it doesn't block action cards."
 @4
+E1 LRR errata: "The text of the action card 'Bribery' should read as follows: 'After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.'"
+E2 RulesPal, "Who can play Bribery, and when?": "Per its errata, Bribery is played after the speaker votes and each trade good spent adds a vote to the outcome you voted for."
+@5
 E1 LRR FAQ: "even if the speaker cannot vote, or chooses not to vote, the 'Bribery' action card … can still be played after the timing window in which the speaker would have cast votes."
 E5 Designer ruling (sigmazero13, Mar 7, 2018): "You can still play Bribery even if the speaker does not vote."
 E2 RulesPal, "Who can play Bribery, and when?": "nor can a speaker who abstained, but others who voted still can."
-@5
-I1 LRR errata, Bribery: "Spend any number of trade goods." Any number includes zero.
 @6
+I1 LRR errata, Bribery: "Spend any number of trade goods." Any number includes zero.
+@7
 E5 Designer ruling (sigmazero13, Jun 11, 2018): "You can't use Bribery after abstaining and you can't use it if another effect is stopping you from casting votes."
 E2 RulesPal, "Who can play Bribery, and when?": "Only a player who actually voted. … each trade good spent adds a vote to the outcome you voted for."
 E1 LRR errata, Bribery: "cast 1 additional vote for the outcome on which you voted."
-@7
-E2 RulesPal, "Who can play Bribery, and when?": "If an Argent speaker votes first with Zeal, Bribery comes right after that vote."
 @8
-E1 LRR FAQ: "Does an effect that casts 'additional votes,' such as the 'Bribery' action card, create a timing window for playing the 'Distinguished Councilor' action card? A: No. The 'Distinguished Councilor' action card can only be played after you vote during the 'Vote' step of resolving an agenda."
+E2 RulesPal, "Who can play Bribery, and when?": "If an Argent speaker votes first with Zeal, Bribery comes right after that vote."
 @9
-I5 Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: "Once someone has played an ability, every other player will have exactly one chance to continue." Bribery ("After the speaker votes") and the speaker's Distinguished Councilor ("After you cast votes") share the window opened by the speaker's vote, so the speaker gets another chance after a Bribery. The LRR FAQ ("Bribery" does not "create a timing window for playing the 'Distinguished Councilor' action card") is about the Bribery player's own extra votes, not this case.
+E1 LRR FAQ: "Does an effect that casts 'additional votes,' such as the 'Bribery' action card, create a timing window for playing the 'Distinguished Councilor' action card? A: No. The 'Distinguished Councilor' action card can only be played after you vote during the 'Vote' step of resolving an agenda."
 @10
-N No source found.
+I5 Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: "Once someone has played an ability, every other player will have exactly one chance to continue." Bribery ("After the speaker votes") and the speaker's Distinguished Councilor ("After you cast votes") share the window opened by the speaker's vote, so the speaker gets another chance after a Bribery. The LRR FAQ ("Bribery" does not "create a timing window for playing the 'Distinguished Councilor' action card") is about the Bribery player's own extra votes, not this case.
 @11
-E1 LRR errata: "The text of the action card 'Bribery' should read as follows: 'After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.'"
-E2 RulesPal, "Who can play Bribery, and when?": "Per its errata, Bribery is played after the speaker votes and each trade good spent adds a vote to the outcome you voted for."
+N No source found.
 @12
 I2 RulesPal, "Are there quick answers for … Brilliance": "Brilliance's chosen player gains their own breakthrough." Does not address choosing oneself.
 @13
@@ -102,19 +102,19 @@ N No source found.
 @44
 E4 Designer ruling: "If it is being removed and placed via an ability such as Transit Diodes it stays in the same state."
 @45
-N No source found. RulesPal's Mecatol Rex exclusion is for the Diplomacy strategy card, not this rider.
-@46
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@47
+@46
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@48
+@47
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@49
+@48
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
+@49
+N No source found. RulesPal's Mecatol Rex exclusion is for the Diplomacy strategy card, not this rider.
 @50
 E2 RulesPal, "With Diplomatic Pressure or the Mentak commander, who picks the promissory note handed over?": "The target does; the other player can't look at or name a specific note."
 @51
@@ -328,9 +328,9 @@ I1 LRR 87.5: "The 'Sustain Damage' ability cannot be used to cancel an effect th
 E5 Designer ruling (on Exotrireme II and Assault Cannon): "sustain damage cannot be used against abilities that 'destroy'."
 I1 LRR 87.5: "The 'Sustain Damage' ability cannot be used to cancel an effect that directly destroys a unit."
 @139
-I2 RulesPal, "Do Maneuvering Jets protect infantry from Space Cannon Defense?": "it cancels Space Cannon hits on your ground forces as well as your ships." Space Cannon hits only.
-@140
 E2 RulesPal, "Does Maneuvering Jets protect infantry from Space Cannon Defense?": "Yes — it cancels Space Cannon hits on your ground forces as well as your ships."
+@140
+I2 RulesPal, "Do Maneuvering Jets protect infantry from Space Cannon Defense?": "it cancels Space Cannon hits on your ground forces as well as your ships." Space Cannon hits only.
 @141
 I2 RulesPal, "Can I play two copies of the same action card … in one timing window?": "you cannot play more than one action card with the same name in a single timing window to affect the same units or effect."
 @142
@@ -535,24 +535,24 @@ N No source found.
 @233
 E2 RulesPal, "Does Scramble Frequency reroll all the dice of a unit ability?": "Yes — all of that ability's dice are rolled together, so the card rerolls all of them, across different values or bombarded planets."
 @234
-E2 RulesPal, "Which hits can Shields Holding cancel?": "Not Space Cannon Offense or Defense, which happen outside space combat."
-@235
-E2 RulesPal, "Which hits can Shields Holding cancel?": "not 'destroy' effects such as Courageous to the End."
-@236
-I2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat." Ground combat is not space combat.
-@237
 E2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat, including Anti-Fighter Barrage in the first round and ability hits like Dimensional Splicer, Ambush or Devotion."
 I1 LRR FAQ: each player may play Shields Holding "to cancel hits against their own units" during space combat.
 I5 Designer ruling (sigmazero13, May 23, 2018): "Shields holding can be used against both of those abilities." Applies to Devotion and Dimensional Splicer hits; generalizes to hit-producing abilities.
-@238
+@235
 E2 RulesPal, "Which hits can Shields Holding cancel?": "including Anti-Fighter Barrage in the first round."
-@239
+@236
 E1 LRR FAQ: "During space combat, can each player play a 'Shields Holding' action card to cancel hits against their own units …? A: Yes. Because each of the 'Shields Holding' cards are targeting different sets of hits."
 E2 RulesPal: "Each combatant may play one in the same round."
 E5 Designer ruling: "Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits."
-@240
+@237
 E5 Designer ruling: "Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits."
 I2 RulesPal, "Which hits can Shields Holding cancel?": "Each combatant may play one in the same round."
+@238
+E2 RulesPal, "Which hits can Shields Holding cancel?": "Not Space Cannon Offense or Defense, which happen outside space combat."
+@239
+E2 RulesPal, "Which hits can Shields Holding cancel?": "not 'destroy' effects such as Courageous to the End."
+@240
+I2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat." Ground combat is not space combat.
 @241
 N No source found. RulesPal's Mecatol Rex exclusion is for the Diplomacy strategy card, not this card.
 @242
@@ -623,19 +623,19 @@ I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that wer
 @267
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
 @268
-E2 RulesPal, "Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?": "Yes — it was errata'd to destroy up to 3 infantry, so it removes whatever is there, up to 3."
-E1 LRR errata, Unstable Planet: "destroy up to 3 infantry on it."
-@269
 E1 LRR errata: "The text of the 'Unstable Planet' action card should read as follows: 'Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.'"
 E2 RulesPal: "it was errata'd to destroy up to 3 infantry."
+@269
+E2 RulesPal, "Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?": "Yes — it was errata'd to destroy up to 3 infantry, so it removes whatever is there, up to 3."
+E1 LRR errata, Unstable Planet: "destroy up to 3 infantry on it."
 @270
 E2 RulesPal: "It can also target an exhausted hazardous planet, since its effects are joined by 'and'."
 E5 Designer ruling (Dane, 1/25/2019), "Can you use Unstable Planet on an exhausted world?": "it SHOULD be allowed, so please play as if that is the case."
 @271
+E1 LRR FAQ: "The cruiser must already be in the activated system."
+@272
 E1 LRR FAQ: "When playing the 'Upgrade' action card, does the cruiser already have to be present in the active system? A: Yes. The cruiser must already be in the activated system."
 E2 RulesPal, "When can the Upgrade action card be played?": "Immediately after you activate a system containing your ships — not later in that tactical action, such as after producing a new cruiser."
-@272
-E1 LRR FAQ: "The cruiser must already be in the activated system."
 @273
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
@@ -646,16 +646,16 @@ E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You c
 @276
 N No source found.
 @277
-E2 RulesPal, "Do 'when an agenda is revealed' effects like Veto and Quash come before Riders?": "Yes — 'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first, then 'after' effects (Riders …)."
+E1 LRR errata: "The text of the 'Veto' action card should read as follows: 'When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.'"
+I2 RulesPal: "Veto and Political Favor were errata'd to 'when' timing to match Quash."
 @278
-E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded by an effect such as the 'Veto' action card, can that player vote …? A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
+E2 RulesPal, "Do 'when an agenda is revealed' effects like Veto and Quash come before Riders?": "Yes — 'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first, then 'after' effects (Riders …)."
 @279
-E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
+E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded by an effect such as the 'Veto' action card, can that player vote …? A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
 @280
 N No source found. RulesPal: "A Veto card, by contrast, is one card and one use." That limits one copy, not a second card.
 @281
-E1 LRR errata: "The text of the 'Veto' action card should read as follows: 'When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.'"
-I2 RulesPal: "Veto and Political Favor were errata'd to 'when' timing to match Quash."
+E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
 @282
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
