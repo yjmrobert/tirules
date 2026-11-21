@@ -135,7 +135,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The ground forces may be from different systems.<sup>*</sup>
+    <li>The ground forces may be removed from different systems.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

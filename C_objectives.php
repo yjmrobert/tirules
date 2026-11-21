@@ -26,7 +26,7 @@
         <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
     </ol>
 
@@ -56,7 +56,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void">Brave the Void</a></h2>
     <ol class="note">
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Build%20Defenses">Build Defenses</a></h2>
@@ -92,7 +92,7 @@
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
     </ol>
 
@@ -304,7 +304,7 @@
     <li>The three systems may be mutually adjacent to one system, or separate systems.<sup>*</sup></li>
     <li>Having ships in an anomaly is irrelevant, unless that system is also adjacent to another anomaly.<sup>2</sup></li>
     <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a> (replaced by &Omega;)</h2>
@@ -333,7 +333,7 @@
         <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Make History</i>.<sup>*</sup></li>
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
     </ol>
 

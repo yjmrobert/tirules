@@ -20,7 +20,7 @@
     <ol class="note">
     <li>An empty system is not an anomaly.<sup>2</sup></li>
     <li>A system containing a wormhole is not an anomaly.<sup>2</sup></li>
-    <li>A system with a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
     <li>The movement restrictions of anomalies are intended to apply to all units, not only ships.<sup>4</sup></li>
     </ol>
 

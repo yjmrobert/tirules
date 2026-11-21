@@ -18,7 +18,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A system with a wormhole is not an anomaly.<sup>2</sup></li>
+    <li>A system containing a wormhole is not an anomaly.<sup>2</sup></li>
     <li>If a system contains multiple wormholes of the same type, those are treated as separate wormholes.<sup>*</sup></li>
     <li>A system cannot be adjacent to itself, even if it has multiple wormholes in it.<sup>1,2</sup></li>
     <li>A player chooses the path of adjacent systems each ship moves through during movement.<sup>4</sup></li>

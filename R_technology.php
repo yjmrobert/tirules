@@ -51,7 +51,7 @@
     <ol class="note">
     <li>If a player is instructed to research a technology by any game effect, that player must meet the prerequisites for the technology they research.<sup>1,2,4</sup></li>
     <li>If a player is instructed to gain a technology, that player does not have to meet the prerequisites.<sup>1,2,4</sup></li>
-    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research the generic upgrade for that unit type.<sup>2</sup></li>
+    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>2</sup></li>
     <li>An exhausted technology still satisfies prerequisites.<sup>2</sup></li>
     <li>The first technology researched with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card may satisfy a prerequisite of the second technology researched with that ability.<sup>2</sup></li>
     <li>If an exhausted technology is returned to a player&rsquo;s technology deck and later researched again, it is gained readied.<sup>2</sup></li>

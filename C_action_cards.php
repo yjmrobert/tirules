@@ -735,7 +735,7 @@
     <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup></li></ol>
     <li>The effect of a successful <i>Warfare Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Warfare Rider</i>.<sup>1</sup></li>
-    <li>If a player wishes to place a dreadnought, but there are none in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup></li>
+    <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay">Waylay</a></h2>

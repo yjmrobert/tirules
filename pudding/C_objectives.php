@@ -60,7 +60,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
@@ -134,7 +134,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void">Brave the Void</a></h2>
     <ol class="note">
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
@@ -209,7 +209,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;tiles beside hyperlanes, and a system enclosed by them, aren&rsquo;t edge systems.&rdquo;</li>
         </ul></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -638,7 +638,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
@@ -717,7 +717,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
+    <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>

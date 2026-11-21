@@ -250,7 +250,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s action.<sup>*</sup></li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     <li>Performing any action is the trigger for the remainder of the ability of <i>Minister of War</i>.<sup>1,2,5</sup></li>
     <li>Resolving Minister of War is not an action. As such, a player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology may perform three actions in one turn.<sup>2</sup></li>
     </ol>
@@ -330,7 +330,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Rearmament%20Agreement">Rearmament Agreement</a></h2>
     <ol class="note">
     <li>A player that controls no planets in their home system will not place a mech if the &ldquo;For&rdquo; outcome of Rearmament Agreement is resolved.<sup>*</sup></li>
-    <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
     <li>A player that has no mechs on the game board is unaffected by the &ldquo;Against&rdquo; effect of Rearmament Agreement.<sup>*</sup></li>
     </ol>
 

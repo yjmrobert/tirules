@@ -584,7 +584,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s action.<sup>*</sup>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -788,7 +788,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>

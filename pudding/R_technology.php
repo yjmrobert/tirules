@@ -25,7 +25,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;&rsquo;Gain&rsquo; is different from &lsquo;research&rsquo;: gaining ignores prerequisites.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
         </ul></li>
-    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research the generic upgrade for that unit type.<sup>2</sup>
+    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction technologies replace generic ones?&rdquo;: &ldquo;Only faction unit upgrades replace the matching generic upgrade; all other faction technologies are extras.&rdquo;</li>
         </ul></li>

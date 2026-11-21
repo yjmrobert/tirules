@@ -13,7 +13,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A system with a wormhole is not an anomaly.<sup>2</sup>
+    <li>A system containing a wormhole is not an anomaly.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which systems count as anomalies?&rdquo;: &ldquo;Empty systems and wormhole systems are not anomalies unless bordered.&rdquo;</li>
         </ul></li>
