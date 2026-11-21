@@ -39,14 +39,6 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?&rdquo;: &ldquo;the agenda phase does not make everyone neighbors: transactions with non-neighbors are allowed then, yet Pillage still only works on the Mentak&rsquo;s actual neighbors, as the developer ruled.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 01/17/2019): &ldquo;Simply being in the agenda phase does not confer neighbor status to all players.&rdquo;</li>
         </ul></li>
-    <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
     <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage when &ldquo;neighbors with another faction as a result of the &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability &hellip; because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
@@ -55,15 +47,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vinci, 12/11/2018): &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
-        </ul></li>
-    <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?&rdquo;: &ldquo;Pillage triggers separately each time a neighbor gains trade goods or resolves a transaction.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Aug 15, 2018): &ldquo;This ability triggers for each instance of a neighbor gaining trade goods or resolving a transaction&rdquo; Pillage triggers per instance of gaining.</li>
-        </ul></li>
-    <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;whenever commodities are converted to a player&rsquo;s own trade good area, they are not considered gained.&rdquo;</li>
         </ul></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability even if the transaction does not involve trade goods.<sup>2</sup>
         <ul>
@@ -82,9 +65,26 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
+    <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
+    <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?&rdquo;: &ldquo;Pillage triggers separately each time a neighbor gains trade goods or resolves a transaction.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Aug 15, 2018): &ldquo;This ability triggers for each instance of a neighbor gaining trade goods or resolving a transaction&rdquo; Pillage triggers per instance of gaining.</li>
+        </ul></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Mentak Coalition use the &lsquo;Pillage&rsquo; faction ability for each time the Saar gain a trade good from the &lsquo;Scavenge&rsquo; faction ability in a single turn &hellip;? A: Yes.&rdquo;</li>
+        </ul></li>
+    <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;whenever commodities are converted to a player&rsquo;s own trade good area, they are not considered gained.&rdquo;</li>
         </ul></li>
     <li>A player cannot spend trade goods after the conditions of <sc>Pillage</sc> are met and before the Mentak player resolves it.<sup>2</sup>
         <ul>
@@ -126,19 +126,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;you still pay for it.&rdquo;</li>
-        </ul></li>
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Skootur, 1/25/2019): &ldquo;A draw is neither a win nor a loss. In both cases, Salvage Operations is not triggered.&rdquo;</li>
-        </ul></li>
-    <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,3</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens.&rdquo;</li>
         </ul></li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may use their <i>Salvage Operations</i> to produce a generic ship of the same type, or their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, as appropriate.<sup>1</sup>
         <ul>
@@ -154,6 +144,16 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, war sun: &ldquo;You cannot produce this unit unless you own its unit upgrade technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the Mentak player cannot use Salvage Operations to produce a War Sun if he does not have War Sun technology.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, on the Vuil&rsquo;raith: &ldquo;by analogy with rulings on Mentak&rsquo;s Salvage Operations.&rdquo;</li>
+        </ul></li>
+    <li>The produced unit must be paid for.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;you still pay for it.&rdquo;</li>
+        </ul></li>
+    <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens.&rdquo;</li>
         </ul></li>
     </ol>
 

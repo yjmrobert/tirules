@@ -15,30 +15,30 @@ E2 RulesPal, "How does Mentak's Ambush work?": "the ambushing ships still roll n
 E2 RulesPal, "How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?": "the agenda phase does not make everyone neighbors: transactions with non-neighbors are allowed then, yet Pillage still only works on the Mentak's actual neighbors, as the developer ruled."
 E5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does not confer neighbor status to all players."
 @7
-N No source found.
-@8
-N No source found.
-@9
 E1 LRR FAQ: Mentak may use Pillage when "neighbors with another faction as a result of the … 'Quantum Entanglement' faction ability … because the 'neighbor' status is active as a result of the ability."
-@10
+@8
 E1 LRR FAQ: Mentak may use Pillage "when they are neighbors with another faction as a result of the 'Lazax Gate Folding' faction technology."
 E5 Designer ruling (Vinci, 12/11/2018): "rules as written, the Mentak would be able to pillage the transaction."
-@11
-E2 RulesPal, "How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?": "Pillage triggers separately each time a neighbor gains trade goods or resolves a transaction."
-I5 Designer ruling (sigmazero13, Aug 15, 2018): "This ability triggers for each instance of a neighbor gaining trade goods or resolving a transaction" Pillage triggers per instance of gaining.
-@12
-E4 Designer ruling: "whenever commodities are converted to a player's own trade good area, they are not considered gained."
-@13
+@9
 E2 RulesPal, "When exactly can Mentak use Pillage?": "After each instance of a neighbor gaining trade goods or resolving a transaction."
-@14
+@10
 E2 RulesPal, "When exactly can Mentak use Pillage?": "Both sides of a transaction between two neighbors can each be pillaged, in the order Mentak chooses."
 E5 Designer ruling (sigmazero13, Aug 15, 2018): "so yes, you would be able to steal from both."
-@15
+@11
 E2 RulesPal, "When exactly can Mentak use Pillage?": "After each instance of a neighbor … resolving a transaction."
-@16
+@12
 N No source found.
-@17
+@13
+N No source found.
+@14
+N No source found.
+@15
+E2 RulesPal, "How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?": "Pillage triggers separately each time a neighbor gains trade goods or resolves a transaction."
+I5 Designer ruling (sigmazero13, Aug 15, 2018): "This ability triggers for each instance of a neighbor gaining trade goods or resolving a transaction" Pillage triggers per instance of gaining.
+@16
 E1 LRR FAQ: "Can the Mentak Coalition use the 'Pillage' faction ability for each time the Saar gain a trade good from the 'Scavenge' faction ability in a single turn …? A: Yes."
+@17
+E4 Designer ruling: "whenever commodities are converted to a player's own trade good area, they are not considered gained."
 @18
 E2 RulesPal, "When exactly can Mentak use Pillage?": "Nobody can dump trade goods between the trigger and Pillage."
 @19
@@ -54,22 +54,22 @@ N No source found.
 @24
 E2 RulesPal, "How does Mentak's Mirror Computing interact with Bribery or spend-trade-goods objectives?": "still 1 when spent as trade goods, so Bribery and objectives that spend trade goods get no bonus."
 @25
-E1 LRR FAQ: "a unit that is produced must always be paid for."
-I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
-@26
 E5 Designer ruling (Skootur, 1/25/2019): "A draw is neither a win nor a loss. In both cases, Salvage Operations is not triggered."
-@27
-E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E3 Learn to Play: "When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens."
-@28
+@26
 E1 LRR FAQ: "Can the Mentak Coalition use the 'Salvage Operations' … to produce their own flagship after destroying an opponent's flagship? A: Yes, even though the units are technically different, they share the flagship unit type."
-@29
+@27
 E1 LRR FAQ: "Can the Mentak Coalition use the 'Salvage Operations' … to produce infantry after a combat against … 'The Alastor' …? A: No, the infantry do not count as ships once the combat is over."
-@30
+@28
 E1 LRR FAQ: "Without war sun technology, they cannot produce a war sun, even using 'Salvage Operations.'"
 E3 Learn to Play, war sun: "You cannot produce this unit unless you own its unit upgrade technology."
 E5 Designer ruling: "the Mentak player cannot use Salvage Operations to produce a War Sun if he does not have War Sun technology."
 I2 RulesPal, on the Vuil'raith: "by analogy with rulings on Mentak's Salvage Operations."
+@29
+E1 LRR FAQ: "a unit that is produced must always be paid for."
+I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
+@30
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E3 Learn to Play: "When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens."
 @31
 E2 RulesPal, "Do Mentak ships that Ambush still roll in the first round, and how does The Fourth Moon block Sustain Damage?": "The Fourth Moon stops other players' Sustain Damage in any round it takes part in, including the round it is destroyed, because Sustain Damage is used before hits remove it."
 @32

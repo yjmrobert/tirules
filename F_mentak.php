@@ -14,17 +14,17 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage">Pillage</a></h2>
     <ol class="note">
     <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with the Mentak player.<sup>2,5</sup></li>
-    <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup></li>
-    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup></li></ol>
     <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup></li>
     <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup></li>
-    <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup></li>
-    <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability even if the transaction does not involve trade goods.<sup>2</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability against both players involved in a transaction.<sup>2,5</sup></li>
     <li>If the Mentak player resolves a transaction with another player, they may then use their <sc>Pillage</sc> ability against that player.<sup>2</sup></li>
     <ol><li>The Mentak player does not decide to use their <sc>Pillage</sc> ability until after the transaction has been resolved. Any deal made to not use their <sc>Pillage</sc> ability before the transaction has been resolved is non&ndash;binding.<sup>*</sup></li></ol>
+    <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup></li>
+    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup></li></ol>
+    <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup></li>
+    <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup></li>
     <li>A player cannot spend trade goods after the conditions of <sc>Pillage</sc> are met and before the Mentak player resolves it.<sup>2</sup></li>
     </ol>
 
@@ -44,12 +44,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup></li>
-    <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,3</sup></li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may use their <i>Salvage Operations</i> to produce a generic ship of the same type, or their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, as appropriate.<sup>1</sup></li>
     <li>The Mentak player cannot produce ground forces using <i>Salvage Operations</i>, even if their opponent has the ability to treat a ground force as a ship.<sup>1</sup></li>
     <li>The Mentak player cannot produce a war sun unless they have their war sun technology.<sup>1,2,3,5</sup></li>
+    <li>The produced unit must be paid for.<sup>1,2</sup></li>
+    <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,3</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
