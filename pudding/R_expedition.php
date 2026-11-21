@@ -60,7 +60,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;When all slices are claimed, the expedition is complete.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>First, all command tokens on the expedition token are returned to the respective player&rsquo;s reinforcements, noting which player(s) had the most claimed slices.<sup>*</sup>
+        <li>First, each control token on the expedition token is returned to the player it belongs to, noting which player(s) had claimed the most slices.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
