@@ -5,6 +5,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
     <ol class="note">
+    <li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be placed face up in their play area immediately.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I trade on a promissory note I received from another player &hellip;?&rdquo;: &ldquo;Notes face up in your play area, like Support for the Throne, can&rsquo;t be traded or handed back voluntarily.&rdquo; Alliance card text: &ldquo;When you receive this card, if you are not the (color) player, you must place it face up in your play area.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>

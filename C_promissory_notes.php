@@ -4,6 +4,7 @@
 <p>For notes about a promissory notes of a specific faction, see that faction&rsquo;s notes page.</p>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
     <ol class="note">
+    <li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be placed face up in their play area immediately.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
