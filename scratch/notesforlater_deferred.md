@@ -12,5 +12,3 @@ lets check the wiki faq for any notes that dont have rulings
 # Tier 5: new features
 
 ## support request/bugreport form that makes github issues
-
-lets research end a players turn in regards to that agent or leader that lets people take tactical actions

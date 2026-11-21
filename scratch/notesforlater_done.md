@@ -1468,3 +1468,7 @@ there are a handful of things that could be consolidated, formatted better or re
 Commit: 7065fcd … 8ac6f07 (page-by-page sweep of all 149 pages, 2026-11-21: main rule first, related notes grouped, errata first site-wide, misplaced notes moved (Nekro VA Z, Watcher parent restored), duplicate Auto-Factories heading removed, typos)
 Deferred: owner request 2026-11-17 after the coexistence reorganization (e.g. 6bd9f42): review other pages for misnesting, duplicate notes, and topic ordering.
 check other pages for better organization
+
+## research end a player's turn: Z'eu Ω / tactical actions outside a turn
+Commit: 0aeac74 (F_naalu Z'eu Ω note now matches the source 4 designer ruling; dropped the unsourced 'also ends the Naalu player's turn'. Puppets On A String (source 6, community: turn-enders don't prevent the action) left as is by owner's choice, though it points the other way.)
+lets research end a players turn in regards to that agent or leader that lets people take tactical actions
