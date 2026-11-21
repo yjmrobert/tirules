@@ -27,6 +27,7 @@
     <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_purge">Purge</a></li>
     <li><a href="/R_readied">Readied</a></li>
+    <li><a href="/C_relics">Relic Notes</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>
