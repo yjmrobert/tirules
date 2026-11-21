@@ -120,22 +120,18 @@
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?&rdquo;: &ldquo;If it is alone with enemy ships, it is destroyed.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (garfielder, Sep 19 2017): &ldquo;As a rule, in any situation where a Floating Factory is alone with enemy ships, it is destroyed before it can retreat.&rdquo; Factory with no surviving Saar ships is alone with enemies.</li>
         </ul></li>
-    <ol>
-        <li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.<sup>*</sup>
+    <ol><li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    </ol>
+        </ul></li></ol>
     <li>If the Saar player has their last ship destroyed during combat by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, a Floating Factory in the system will be blockaded and destroyed, even if the Saar player produced enough hits to destroy their opponent&rsquo;s remaining ships during that round of combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol>
-        <li>Players alternate using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
+    <ol><li>Players alternate using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    </ol>
+        </ul></li></ol>
     <li>If, at the end of the combat, the Saar player has no ships, and their opponent has only fighters, then any Floating Factories in the system will be blockaded, and thus destroyed, before the fighters are removed due to lack of capacity.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
