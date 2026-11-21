@@ -8,7 +8,7 @@
     <li data-src="1,3">When producing an infantry unit, a player can use an infantry token from the supply instead of a plastic piece.</li>
     <li data-src="1,2">Players can replace their plastic infantry with tokens at any time.</li>
     <li data-src="1,2">If a player ever has an infantry token on a planet that does not contain one of their plastic infantry or in the space area of a system that does not contain one of their plastic infantry, that player must replace it with one of their plastic infantry from their reinforcements.</li>
-    <ol><li data-src="1">If that player cannot replace the token, the unit is destroyed.</li></ol>
+    <ol><li data-src="1"><del>If that player cannot replace the token, the unit is destroyed.</del></li></ol>
     <li data-src="1">Infantry tokens come in values of one and three. A player can swap between these tokens as necessary.</li>
     </ol>
 

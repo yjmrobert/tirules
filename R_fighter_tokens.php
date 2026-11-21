@@ -8,7 +8,7 @@
     <li data-src="1,3">When producing a fighter unit, a player can use a fighter token from the supply instead of a plastic piece.</li>
     <li data-src="1,2">Players can replace their plastic fighters with tokens at any time.</li>
     <li data-src="1,2,3">If a player ever has a fighter token in a system that does not contain one of their plastic fighters, that player must replace it with a plastic fighter from their reinforcements.</li>
-    <ol><li data-src="1">If the player cannot replace the token, the unit is destroyed.</li></ol>
+    <ol><li data-src="1"><del>If the player cannot replace the token, the unit is destroyed.</del></li></ol>
     <li data-src="1">Fighter tokens come in values of one and three. A player can swap between these tokens as necessary.</li>
     </ol>
 
