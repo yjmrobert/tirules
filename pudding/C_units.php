@@ -78,7 +78,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Units#Structures:~:text=Mech">Mech</a></h2>
+<h2><a href="/R_mechs">Mech</a></h2>
     <ol class="note">
     </ol>
 
