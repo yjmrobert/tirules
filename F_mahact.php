@@ -3,12 +3,12 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Edict">Edict</a></h2>
     <ol class="note">
+    <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup></li>
     <li>If an agenda requires the Mahact player to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.<sup>2,4</sup></li>
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup></li>
     <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.<sup>*</sup></li>
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.<sup>*</sup></li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, if they have no tokens in their reinforcements, they must use a Mahact token from any pool of their command sheet, and not another player&rsquo;s token in their fleet pool.<sup>*</sup></li>
-    <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup></li>
     <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup></li>
     </ol>
 
@@ -86,6 +86,7 @@
     <li>The system the combat is taking place in is considered the active system during that combat.<sup>4</sup></li>
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.<sup>4</sup></li>
     <ol><li>Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.<sup>*</sup></li></ol>
+    <li>After the ships are moved, capacity is checked before the space combat begins.<sup>4</sup></li>
     <li>Resolving <i>Benediction</i> is not a tactical action. The <b>Activation</b>, <b>Movement</b>, <b>Invasion</b> and <b>Production</b> steps are not resolved.<sup>*</sup></li>
     <ol>
         <li>Any abilities that occur &ldquo;when/after you/another player activate a system&rdquo; will not trigger.<sup>*</sup></li>
@@ -96,16 +97,15 @@
         <li>The Mahact player cannot score these secret objectives unless they are participating in the combat.<sup>*</sup></li>
         <li>No player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend"><i>Betray a Friend</i></a> secret objective.<sup>*</sup></li>
     </ol>
-    <li>After the ships are moved, capacity is checked before the space combat begins.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Mech:~:text=Starlancer">Starlancer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup></li>
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>4</sup></li>
     <ol><li>Other players, including the Mahact player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>4</sup></li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup></li>
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup></li>
-    <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Breakthrough:~:text=Vaults%20of%20the%20Heir">Vaults of the Heir</a> <sub>(Breakthrough)</sub></h2>

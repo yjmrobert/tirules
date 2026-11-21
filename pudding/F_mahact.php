@@ -5,6 +5,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Edict">Edict</a></h2>
     <ol class="note">
+    <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li>If an agenda requires the Mahact player to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are the Mahact player, what happens when an agenda tells you to &lsquo;remove one of your command tokens from your fleet pool &hellip;&rsquo; but you only have tokens from&rdquo; other players? &ldquo;A: You are required to remove another player&rsquo;s token and return it to that player&rsquo;s reinforcements.&rdquo;</li>
@@ -23,10 +27,6 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, if they have no tokens in their reinforcements, they must use a Mahact token from any pool of their command sheet, and not another player&rsquo;s token in their fleet pool.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -217,6 +217,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
+    <li>After the ships are moved, capacity is checked before the space combat begins.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? &hellip; A: A Capacity check is resolved before the space combat begins.&rdquo;</li>
+        </ul></li>
     <li>Resolving <i>Benediction</i> is not a tactical action. The <b>Activation</b>, <b>Movement</b>, <b>Invasion</b> and <b>Production</b> steps are not resolved.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -245,14 +249,14 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>After the ships are moved, capacity is checked before the space combat begins.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? &hellip; A: A Capacity check is resolved before the space combat begins.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Mech:~:text=Starlancer">Starlancer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
+    <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If Mahact has an Arborec Command Token in their fleet pool &hellip; can the Mahact player produce a mech &hellip;? A: No, the mech was not in the system at the time of activation, so it didn&rsquo;t see the trigger for its ability.&rdquo;</li>
+        </ul></li>
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
@@ -269,10 +273,6 @@
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, &ldquo;Can Mahact use their mech ability on themselves?&rdquo;: &ldquo;Can Mahact use their mech ability on themselves? A: Yes.&rdquo;</li>
-        </ul></li>
-    <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If Mahact has an Arborec Command Token in their fleet pool &hellip; can the Mahact player produce a mech &hellip;? A: No, the mech was not in the system at the time of activation, so it didn&rsquo;t see the trigger for its ability.&rdquo;</li>
         </ul></li>
     </ol>
 

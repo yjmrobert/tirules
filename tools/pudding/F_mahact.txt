@@ -1,10 +1,10 @@
 @0
+N No source found.
+@1
 E4 Designer ruling: "If you are the Mahact player, what happens when an agenda tells you to 'remove one of your command tokens from your fleet pool …' but you only have tokens from" other players? "A: You are required to remove another player's token and return it to that player's reinforcements."
 I2 RulesPal, "How does Armed Forces Standardization affect Mahact holding other players' fleet tokens?": "other players' tokens removed go back to their owners' reinforcements."
-@1
-E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
 @2
-N No source found.
+E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
 @3
 N No source found.
 @4
@@ -88,7 +88,7 @@ E4 Designer ruling: "When using the Mahact Hero, Benediction, if another player'
 @39
 N No source found.
 @40
-N No source found.
+E4 Designer ruling: "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? … A: A Capacity check is resolved before the space combat begins."
 @41
 N No source found.
 @42
@@ -100,18 +100,18 @@ N No source found.
 @45
 N No source found.
 @46
-E4 Designer ruling: "When using the Mahact Hero, Benediction, is capacity resolved after moving ships before the space combat? … A: A Capacity check is resolved before the space combat begins."
+N No source found.
 @47
-E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+E4 Designer ruling: "If Mahact has an Arborec Command Token in their fleet pool … can the Mahact player produce a mech …? A: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability."
 @48
 E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
 @49
 E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
-I6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 @50
-I4 Designer ruling, "Can Mahact use their mech ability on themselves?": "Can Mahact use their mech ability on themselves? A: Yes."
+E4 Designer ruling: "In regards to the Mahact Commander, Il Na Viroset, when does your turn end? … Is this different from Nullification Field or Starlancer? A: … when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place."
+I6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 @51
-E4 Designer ruling: "If Mahact has an Arborec Command Token in their fleet pool … can the Mahact player produce a mech …? A: No, the mech was not in the system at the time of activation, so it didn't see the trigger for its ability."
+I4 Designer ruling, "Can Mahact use their mech ability on themselves?": "Can Mahact use their mech ability on themselves? A: Yes."
 @52
 N No source found.
 @53

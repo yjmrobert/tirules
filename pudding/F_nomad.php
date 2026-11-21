@@ -250,14 +250,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When a Quantum Manipulator uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <ol><li>For the same reason, a Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability while the <a href="/F_mentak">Mentak</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, is in the system.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Yes &mdash; the Mentak flagship stops other players&rsquo; ships using Sustain Damage, and a mech isn&rsquo;t a ship.&rdquo;</li>
-        </ul></li></ol>
     <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be canceled.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -272,6 +264,14 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
+    <li>When a Quantum Manipulator uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <ol><li>For the same reason, a Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability while the <a href="/F_mentak">Mentak</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, is in the system.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Yes &mdash; the Mentak flagship stops other players&rsquo; ships using Sustain Damage, and a mech isn&rsquo;t a ship.&rdquo;</li>
+        </ul></li></ol>
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, as it is not participating in the combat.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
