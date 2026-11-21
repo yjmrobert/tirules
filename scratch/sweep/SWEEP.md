@@ -79,8 +79,8 @@ March 2026; this was not verified as official.
 
 ### Site-wide
 - [x] (30839c3) **No `<meta name="description">` on any page and no `<html lang="en">`.** Both are cheap SEO and accessibility gains, and both are allowed under AGENTS.md. A description could come from the page's first RR paragraph in prefix.php. (med)
-- [ ] **questions.md is out of date.** Several questions are now answered on the site: public objectives while coexisting in the home system (R_coexistence [6,9]), _Stake Your Claim_ while coexisting (C_objectives), Thunder's Edge in a Stellar Converter system (R_expedition), _Wormhole Generator_ into an entropic scar, two entropic scars (R_entropic_scars). Mark them answered so the file stays a true open list. (low)
-- [ ] **Missing pages return no proper 404.** router.php serves index.php for any unknown URL (status 200, a soft 404). Production nginx falls through to `$1.php`. Check that a missing page returns a real 404, ideally with a small styled page. (low)
+- [x] (72a0f24) **questions.md is out of date.** Several questions are now answered on the site: public objectives while coexisting in the home system (R_coexistence [6,9]), _Stake Your Claim_ while coexisting (C_objectives), Thunder's Edge in a Stellar Converter system (R_expedition), _Wormhole Generator_ into an entropic scar, two entropic scars (R_entropic_scars). Mark them answered so the file stays a true open list. (low)
+- [x] (0c9c8e5) **Missing pages return no proper 404.** router.php serves index.php for any unknown URL (status 200, a soft 404). Production nginx falls through to `$1.php`. Check that a missing page returns a real 404, ideally with a small styled page. (low)
 
 ## 3. Confusing
 
