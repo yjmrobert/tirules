@@ -27,6 +27,10 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;End of turn abilities can still be used.&rdquo;</li>
         </ul></li>
+    <li><a href="/R_mecatol_rex">Mecatol Rex</a> is a legendary planet when the Thunder&rsquo;s Edge Mecatol Rex system tile (tile 112) is used. Its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 4: &ldquo;Replace the &lsquo;Mecatol Rex&rsquo; system tile from the base game with the &lsquo;Mecatol Rex&rsquo; system tile that has a legendary planet icon.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

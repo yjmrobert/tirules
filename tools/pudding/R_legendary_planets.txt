@@ -10,3 +10,5 @@ E4 Designer ruling: "If it is produced, placed, or replaced which would require 
 @4
 E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 E4 Designer ruling: "End of turn abilities can still be used."
+@5
+E7 Thunder's Edge Rulebook p. 4: "Replace the 'Mecatol Rex' system tile from the base game with the 'Mecatol Rex' system tile that has a legendary planet icon."

@@ -22,14 +22,17 @@
     <li>An ability that readies a planet cannot be used to ready a legendary planet ability card.<sup>2</sup></li>
     <li>If a player wishes to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, but they have no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
     <li>If an effect instructs a player to &ldquo;end your turn&rdquo;, that player may still resolve any &ldquo;at the end of your turn&rdquo; abilities, including those of legendary planets.<sup>4,6</sup></li>
+    <li><a href="/R_mecatol_rex">Mecatol Rex</a> is a legendary planet when the Thunder&rsquo;s Edge Mecatol Rex system tile (tile 112) is used. Its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
+    <li><a href="/R_mecatol_rex">Mecatol Rex</a></li>
     <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
+    <li><a href="/C_legendary_planets">Legendary Planet Notes</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>
