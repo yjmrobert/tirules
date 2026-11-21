@@ -72,3 +72,6 @@ Follow `style.md` for writing style and markup. Highlights:
 2. Run `php -l` on any PHP file you edited.
 3. If you touched layout, CSS, or shared includes, load a few pages under
    `php -S localhost:8000 router.php` and confirm they look unchanged.
+4. If you added, renamed, or removed a card heading on a `C_` or `F_` page, run
+   `./tools/heading_ids.py` to update the heading ids and the `C_` page jump lists, then
+   `./tools/build_pudding.py <page>` for each page it changed.
