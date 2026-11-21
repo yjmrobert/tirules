@@ -73,7 +73,7 @@ March 2026; this was not verified as official.
 - [x] (253d040) **R_wormholes** lists the epsilon wormhole but never says where it appears or links /F_rebellion. (low)
 - [x] (056ac62; breakthrough and coexisting parts: no general ruling) **R_elimination:** space stations don't prevent elimination (this is only on R_space_stations). Also missing: what happens to an eliminated player's breakthrough and coexisting units. (low)
 - [x] (967d49b) **R_frontier_tokens** doesn't link the TE cases: space-station systems (R_space_stations), The Fracture (R_fracture), Thunder's Edge (R_expedition). (low)
-- [ ] **R_commodities** doesn't link the space-station +1 commodity value. (low)
+- [x] (d3a1421) **R_commodities** doesn't link the space-station +1 commodity value. (low)
 - [ ] **R_abilities** timing covers the action, strategy and agenda phases but not the status phase. R_status_phase says initiative order [2]; add a one-line pointer. (low)
 - [ ] **C_legendary_planets:** the _Imperial Arms Vault — Hope's End_ section is empty, but its note is on R_legendary_planets. Move it or cross-link. (low)
 
