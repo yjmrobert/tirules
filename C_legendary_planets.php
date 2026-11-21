@@ -38,6 +38,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault">Imperial Arms Vault</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a></h2>
     <ol class="note">
+    <li>If a player wishes to resolve the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, but they have no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Ionian%20Fuel%20Refinery">Ionian Fuel Refinery</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Tempesta">Tempesta</a></h2>

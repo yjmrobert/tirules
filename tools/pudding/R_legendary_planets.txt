@@ -5,10 +5,7 @@ I1 LRR 51.4 (agents): cards "ready during the 'Ready Cards' step of the status p
 @2
 E2 RulesPal, "Is a legendary planet's ability card exhausted when I take the planet?": "effects that ready the planet don't ready it."
 @3
-E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-E4 Designer ruling: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@4
 E6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 E4 Designer ruling: "End of turn abilities can still be used."
-@5
+@4
 E7 Thunder's Edge Rulebook p. 4: "Replace the 'Mecatol Rex' system tile from the base game with the 'Mecatol Rex' system tile that has a legendary planet icon."

@@ -19,7 +19,10 @@ N No source found.
 @9
 E6 Community consensus: "Q: The Galactic Council - Mecatol Rex: Can a player discard a scored secret objective? A: No, only discards from hand are permitted."
 @10
-E2 RulesPal, "Can I use Thunder's Edge's ability as soon as I gain it, and does it give a breakthrough?": "Gained at the end of your turn, it arrives ready while you're still in that window, so you can use it at once."
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+E4 Designer ruling: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @11
+E2 RulesPal, "Can I use Thunder's Edge's ability as soon as I gain it, and does it give a breakthrough?": "Gained at the end of your turn, it arrives ready while you're still in that window, so you can use it at once."
+@12
 E1 LRR 35.1: "When a player takes control of a planet that is not already controlled by another player, they explore that planet."
 I2 RulesPal, "When I find Mirage by exploring …": explored "since you gained control of a planet nobody controlled."
