@@ -143,7 +143,7 @@
     <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup></li>
     <ol>
         <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup></li>
-        <li>A player may still only score one secret objective during or after each combat.<sup>1</sup></li>
+        <li>A player may still only score one objective during or after each combat.<sup>1</sup></li>
     </ol>
     </ol>
 

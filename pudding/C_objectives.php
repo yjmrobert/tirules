@@ -310,7 +310,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda resolved with the Xxcha hero that destroys an enemy flagship score Destroy Their Greatest Ship?&rdquo;: &ldquo;the agenda destroyed it, not your units or abilities, and only those count.&rdquo; Winning is not a requirement.</li>
         </ul></li>
-        <li>A player may still only score one secret objective during or after each combat.<sup>1</sup>
+        <li>A player may still only score one objective during or after each combat.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.&rdquo;</li>
         </ul></li>
