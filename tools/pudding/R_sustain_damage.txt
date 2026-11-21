@@ -1,0 +1,24 @@
+@0
+E1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the 'Space Cannon' ability."
+E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit, Space Cannon included."
+@1
+I1 LRR 87.4: Sustain Damage applies to "unit abilities such as the 'Space Cannon' ability." LRR 77.8: "The active player must choose and destroy one of their ground forces on the planet for each hit."
+@2
+E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit."
+I1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it."
+@3
+E1 LRR 87.4a: "A unit can only use the 'Sustain Damage' ability if it is eligible to be hit. For example, a player cannot use a dreadnought's 'Sustain Damage' ability to cancel a hit from 'Anti-Fighter Barrage.'"
+E2 RulesPal, "How do Raid Formation and Waylay interact?": "With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."
+@4
+E2 RulesPal, "Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?": "No — a unit can sustain only once per instance of the timing window."
+E4 Designer ruling: "the same unit could not use its Sustain Damage ability multiple times during the same timing window."
+@5
+E1 LRR FAQ: "'Direct Hit' can be used to follow up hits that are assigned by 'Ambush,' 'Dimensional Splicer,' 'Devotion,' and other similar abilities."
+E2 RulesPal, "Can several Direct Hits or Shields Holdings be played in the same combat round?": "Several Direct Hits, yes: each Sustain Damage use is its own trigger, so you can answer each with a Direct Hit on that ship."
+E5 Designer ruling: "Because the Direct Hits are targeting different ships/instances of sustain damage use, this is allowed."
+@6
+E2 RulesPal, "Can several Direct Hits or Shields Holdings be played in the same combat round?": "Sustain Damage is used unit by unit, so you can wait to see a Direct Hit before sustaining with more."
+@7
+E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "No — Direct Hit targets ships, and mechs are ground forces."
+@8
+I1 LRR 87.3: "A damaged unit cannot use the 'Sustain Damage' ability until it is repaired during the status phase." Status phase repairs all damaged units.
