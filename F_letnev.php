@@ -17,6 +17,7 @@
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.<sup>2,5</sup></li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.<sup>1</sup></li>
     <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup></li></ol>
+    <li>A player who already has <i>War Funding</i> may play it, then receive it again in a transaction and play it in a later round of that combat. It cannot be played twice in the same round.<sup>1</sup></li>
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
@@ -24,6 +25,7 @@
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
     <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li></ol>
+    <li>A player who already has <i>War Funding &Omega;</i> may play it, then receive it again in a transaction and play it in a later round of that combat. It cannot be played twice in the same round.<sup>1</sup></li>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 

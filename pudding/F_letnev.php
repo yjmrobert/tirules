@@ -39,6 +39,10 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player&rsquo;s turn.&rdquo; transactions require the active player, so the defender cannot receive the card.</li>
         </ul></li></ol>
+    <li>A player who already has <i>War Funding</i> may play it, then receive it again in a transaction and play it in a later round of that combat. It cannot be played twice in the same round.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo; War Funding&rsquo;s timing occurs once per combat round, so a regained card can only be played in a later round.</li>
+        </ul></li>
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
@@ -57,6 +61,10 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player&rsquo;s turn.&rdquo; transactions require the active player, so the defender cannot receive the card.</li>
         </ul></li></ol>
+    <li>A player who already has <i>War Funding &Omega;</i> may play it, then receive it again in a transaction and play it in a later round of that combat. It cannot be played twice in the same round.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo; War Funding&rsquo;s timing occurs once per combat round, so a regained card can only be played in a later round.</li>
+        </ul></li>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
