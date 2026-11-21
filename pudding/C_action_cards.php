@@ -904,6 +904,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
     <ol class="note">
+    <li>A player cannot target a planet they control with <i>Mercenary Contract</i>.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Mercenary Contract be played on your own planet? A: No, you cannot target harmful effects on your own planets, unless explicitly allowed.&rdquo;</li>
+        </ul></li>
     <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -928,6 +932,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li>When a player later gains control of that planet, they gain the legendary planet ability card readied.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Mercenary Contract: What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled? A: It is returned from the deck readied.&rdquo;</li>
+        </ul></li></ol>
     <li>If the planet card is returned to the planet card deck, all cards attached to that planet are purged.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: What happens to a planet&rsquo;s attachments &hellip; if the planet card returns to the deck due to the Mercenary Contract action card &hellip;? A: The attachments are purged (according to Dane).&rdquo;</li>

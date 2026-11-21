@@ -400,12 +400,14 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
     <ol class="note">
+    <li>A player cannot target a planet they control with <i>Mercenary Contract</i>.<sup>6</sup></li>
     <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>*</sup></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup></li>
     <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.<sup>6</sup></li></ol>
     <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
     <ol><li>The agenda phase still occurs each round, as the custodians token is no longer on Mecatol Rex.<sup>3</sup></li></ol>
     <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>*</sup></li>
+    <ol><li>When a player later gains control of that planet, they gain the legendary planet ability card readied.<sup>6</sup></li></ol>
     <li>If the planet card is returned to the planet card deck, all cards attached to that planet are purged.<sup>6</sup></li>
     </ol>
 
