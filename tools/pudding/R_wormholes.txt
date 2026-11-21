@@ -1,5 +1,7 @@
 @r0
 I9 Designer Q&A, "Using Wormholes": "The Crimson Rebellion's 'Sundered' ability says 'You cannot use wormholes other than epsilon wormholes.'" The ability names epsilon wormholes as a wormhole type.
+@r1
+N No numbered source. The Twilight Imperium Wiki's Crimson Rebellion page describes The Sorrow as a tile that "contains an epsilon worm hole" and shows "The Crimson Rebellion home system along with its Epsilon wormhole."
 @0
 E2 RulesPal, "Which systems count as anomalies?": "Empty systems and wormhole systems are not anomalies unless bordered."
 @1

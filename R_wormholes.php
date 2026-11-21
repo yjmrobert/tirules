@@ -13,6 +13,7 @@
         <li>(Thunder&rsquo;s Edge) There are three advanced types of wormhole: delta, gamma, and epsilon.<sup>9</sup></li>
         <li data-src="1">The delta wormholes are present on the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss Gate</a> system tile and the Ghosts of <a href="/F_creuss">Creuss</a> home system tile.</li>
         <li data-src="1">The gamma wormholes are present on the wormhole nexus and can be discovered during exploration.</li>
+        <li>(Thunder&rsquo;s Edge) The epsilon wormholes are present on <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=The%20Sorrow">The Sorrow</a> system tile and the <a href="/F_rebellion">Crimson Rebellion</a> home system tile.<sup>*</sup></li>
     </ol>
     </ol>
 

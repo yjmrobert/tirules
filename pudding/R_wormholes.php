@@ -9,6 +9,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a wormhole type.</li>
         </ul></li>
+    <li>(Thunder&rsquo;s Edge) The epsilon wormholes are present on <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=The%20Sorrow">The Sorrow</a> system tile and the <a href="/F_rebellion">Crimson Rebellion</a> home system tile.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No numbered source. The Twilight Imperium Wiki&rsquo;s Crimson Rebellion page describes The Sorrow as a tile that &ldquo;contains an epsilon worm hole&rdquo; and shows &ldquo;The Crimson Rebellion home system along with its Epsilon wormhole.&rdquo;</li>
+        </ul></li>
     </ul>
 
 <h2>Notes</h2>
