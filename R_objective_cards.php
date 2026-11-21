@@ -62,6 +62,7 @@
     <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_imperial">Imperial</a></li>
+    <li><a href="/C_objectives">Objective Card Notes</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
     <li><a href="/R_victory_points">Victory Points</a></li>
     </ul>
