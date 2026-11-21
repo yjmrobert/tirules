@@ -60,13 +60,13 @@ I3 Learn to Play, Bombardment: "A player uses this ability during the 'Bombardme
 @26
 E4 Designer ruling: "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
 @27
-I2 RulesPal, "What happens to committed ground forces when Parley is played?": "They return to the space area rather than being destroyed, within capacity." The N'orr player has no capacity in the space area, so all of them are removed.
-@28
 N No source found.
+@28
+N No source found. The card returns the ships to reinforcements; it does not destroy them.
 @29
 N No source found.
 @30
-N No source found. The card returns the ships to reinforcements; it does not destroy them.
+I2 RulesPal, "What happens to committed ground forces when Parley is played?": "They return to the space area rather than being destroyed, within capacity." The N'orr player has no capacity in the space area, so all of them are removed.
 @31
 N No source found.
 @32
