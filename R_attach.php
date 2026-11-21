@@ -17,7 +17,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A single planet may have multiple attachments.<sup>2</sup></li>
-    <li>The Custodians Token is not an attachment.<sup>*</sup></li>
+    <li>The custodians token is not an attachment.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does exploring a new planet happen before Integrated Economy?&rdquo;: &ldquo;Attachments can stack, so a planet may hold several.&rdquo;</li>
         </ul></li>
-    <li>The Custodians Token is not an attachment.<sup>*</sup>
+    <li>The custodians token is not an attachment.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

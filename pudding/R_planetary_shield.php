@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A unit with the <sc>Planetary Shield</sc> ability on a planet does not stop of the use of a unit&rsquo;s <a href="/R_bombardment"><sc>Bombardment</sc></a> ability on other planets in the same system.<sup>1</sup>
+    <li>A unit with the <sc>Planetary Shield</sc> ability on a planet does not stop the use of a unit&rsquo;s <a href="/R_bombardment"><sc>Bombardment</sc></a> ability on other planets in the same system.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 65: &ldquo;Units cannot use the &lsquo;Bombardment&rsquo; ability against a planet that contains a unit that has the &lsquo;Planetary Shield&rsquo; ability.&rdquo; Only that planet is protected.</li>
         </ul></li>
