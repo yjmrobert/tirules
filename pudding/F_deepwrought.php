@@ -41,7 +41,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player gains then loses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
+    <li>If a player gains the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
