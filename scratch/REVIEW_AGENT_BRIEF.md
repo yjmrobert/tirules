@@ -211,3 +211,12 @@ reason each. Items that need a site change get their own diff and commit.
   page needs work"`, `Ruling: source 6 line 412` or `Removed note: CHANGES_REVIEW.md:1068`. End with the `Co-Authored-By` trailer
   your harness specifies.
 - Commit only after the owner approves the diff.
+
+## Queue D: full-site sweep findings (`scratch/sweep/SWEEP.md`)
+
+Added 2026-11-21, after Queues A–C were empty. `SWEEP.md` lists about 50 findings in three
+groups (Wrong, Missing, Confusing), each a `- [ ]` checkbox with quotes and source lines. Work
+them top to bottom unless the owner picks another order. For each one, do the same as Queue A:
+show the sweep item verbatim, then the site note and source passage raw, make the change, show
+the diff, wait for approval (citation-only changes can be committed without asking), commit, then
+tick the box in `SWEEP.md` and add the short commit hash after it.
