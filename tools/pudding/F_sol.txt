@@ -31,3 +31,5 @@ N No source found.
 N No source found.
 @14
 N No source found.
+@15
+E6 Community consensus: "Does the ship have to survive to generate the additional PRODUCTION? Could a Sol player with zero fleet pool just build useless carriers solely to boost their infantry PRODUCTION? A: Given When timing yes, they can produce a carrier and additional 6 infantry and then remove the carrier to fleet pool."

@@ -108,6 +108,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
+    <li>Ships produced with <i>Bellum Gloriosum</i> increase the number of fighters and ground forces that may be produced, even if those ships must then be removed to satisfy the fleet pool limit.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the ship have to survive to generate the additional PRODUCTION? Could a Sol player with zero fleet pool just build useless carriers solely to boost their infantry PRODUCTION? A: Given When timing yes, they can produce a carrier and additional 6 infantry and then remove the carrier to fleet pool.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

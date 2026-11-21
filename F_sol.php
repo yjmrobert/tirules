@@ -58,6 +58,7 @@
     <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count toward the <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
     <li>The additional fighters and ground forces are produced simultaneously with any other fighters and ground forces, and the resources paid will be determined by their combined cost.<sup>*</sup></li>
     <ol><li>For example, say that the Sol player has <a href="/R_production"><sc>Production 2</sc></a>, and wishes to produce a dreadnought and two infantry. They would pay five resources for this, as they would pay a single resource for the pair of infantry.<sup>*</sup></li></ol>
+    <li>Ships produced with <i>Bellum Gloriosum</i> increase the number of fighters and ground forces that may be produced, even if those ships must then be removed to satisfy the fleet pool limit.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>
