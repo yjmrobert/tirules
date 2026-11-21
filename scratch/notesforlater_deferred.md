@@ -13,15 +13,8 @@ lets check the wiki faq for any notes that dont have rulings
 Deferred: owner request 2026-11-17 after the coexistence reorganization (e.g. 6bd9f42): review other pages for misnesting, duplicate notes, and topic ordering.
 check other pages for better organization
 
-## there are a handful of things that could be consolidated
-Deferred: site-wide consolidation sweep, not page-specific; owner deferred 2026-11-17.
-there are a handful of things that could be consolidated, formatted better or removed as near duplicates
-
 # Tier 5: new features
 
 ## support request/bugreport form that makes github issues
 
-## F_mahact: stray <li>/<ol> directly inside <article>
-Question: F_mahact.php has an <li> and an <ol> sitting directly in <article>, outside any <ol class="note"> (also in pudding/F_mahact.php). Looks like a markup slip; fix it?
-Context: found while fixing the Safari column clipping (style.css, 2026-11-21).
-Unanswered: the owner replied "approve" only.
+lets research end a players turn in regards to that agent or leader that lets people take tactical actions

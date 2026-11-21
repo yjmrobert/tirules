@@ -1452,3 +1452,14 @@ Also (2026-11-21, unanswered side question): F_deepwrought Wave Function Collaps
 ## there is a formatting error on some pages were text gets cut off
 Commit: 756bc9a (Safari/WebKit multicol bug with column-span headings; columns moved onto each list)
 there is a formatting error on some pages were text gets cut off
+
+## F_mahact: stray <li>/<ol> directly inside <article>
+no change: false alarm; my parser misread the HTML comment <!--li>…</li--> (hidden Benediction/Empyrean nebula note); markup is balanced
+Question: F_mahact.php has an <li> and an <ol> sitting directly in <article>, outside any <ol class="note"> (also in pudding/F_mahact.php). Looks like a markup slip; fix it?
+Context: found while fixing the Safari column clipping (style.css, 2026-11-21).
+Unanswered: the owner replied "approve" only.
+
+## there are a handful of things that could be consolidated
+Commit: 15fdcba (49 citation copies harmonized), 6cb5cc8 (7 wording standardizations); no merge candidates found by similarity scan, remaining merges folded into the page-organization review
+Deferred: site-wide consolidation sweep, not page-specific; owner deferred 2026-11-17.
+there are a handful of things that could be consolidated, formatted better or removed as near duplicates
