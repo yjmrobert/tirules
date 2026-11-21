@@ -22,9 +22,19 @@
 - *Italics* - Card Names.
 - Sᴍᴀʟʟ Cᴀᴘs (with the `<sc>` tag) - Faction sheet abilities, standard unit abilities.
 - "Quotes" - any quoted text, "For", "Against".
-- `code` - when a section of the Rules Reference has been changed.
+- `code` - the site's own wording inserted into Rules Reference text (e.g. "See rulebook for images.").
+- ~~Strikethrough~~ (`<del>`) - Rules Reference text superseded by a later ruling or expansion. The rule that replaces it goes directly below, as a "(Thunder&rsquo;s Edge)" sub-item or as a note.
 
 ### Anti-Fighter Barrage, Bombardment, Space Cannon 
 - Sᴍᴀʟʟ Cᴀᴘs with Each Word Capitalized for the ability name
 - **Bold** with Each Word Capitalized for the step
 - lowercase plain for rolls
+
+## rules reference and notes
+- Rules Reference items are LRR text and carry no citation. A sub-item the site adds from a later source starts with the expansion in brackets, e.g. "(Thunder&rsquo;s Edge) ...", and ends with a citation.
+- Every note ends with a citation: `<sup>n</sup>` for numbered sources, `<sup>*</sup>` when no source exists. Each note has a proof in `tools/pudding/<page>.txt`.
+- Example players (Alice, Bob, ...) are referred to as "they".
+- Components removed from the game, and replaced versions of cards, use `class="removed"` (red), on the heading and on notes that only apply to the old version. The red is the marker: no "original card only" wording, and no notes for the current version added beside the red ones.
+
+## headings
+- Card headings on `C_` and `F_` pages carry an `id` (e.g. `/C_action_cards#sabotage`) and the `C_` pages have an A&ndash;Z jump list. Both come from `./tools/heading_ids.py`; run it after adding, renaming or removing a card heading.
