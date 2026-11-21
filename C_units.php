@@ -35,6 +35,7 @@
     <ol class="note">
     <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup></li>
     <li>A ship cannot move through a system that contains fighters that are controlled by another player during the <b>Movement</b> step of a tactical action.<sup>1,2,3,5</sup></li>
+    <ol><li>Some effects allow ships to move through such systems, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space"><i>In The Silence Of Space</i></a> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>

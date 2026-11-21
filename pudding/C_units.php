@@ -68,6 +68,11 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: ships move only through systems without other players&rsquo; ships.</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
         </ul></li>
+    <ol><li>Some effects allow ships to move through such systems, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space"><i>In The Silence Of Space</i></a> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?&rdquo;: &ldquo;Yes &mdash; moving through such a system is allowed, and ships can pick up units in any system they pass through.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;No space cannon against any ships moving. Only ships not transporting may move through other player&rsquo;s ships.&rdquo;</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>

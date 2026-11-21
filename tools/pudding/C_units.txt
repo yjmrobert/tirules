@@ -24,14 +24,17 @@ E5 Designer ruling: "Lone advanced fighters can block other players' ship moveme
 I3 Learn to Play: ships move only through systems without other players' ships.
 E2 RulesPal, "What blocks my ships from moving through a system?": "Any other player's ships in it, fighters included."
 @7
-E2 RulesPal, "Are Fighter II units still fighters for other effects?": "they remain fighters for every other effect."
+I2 RulesPal, "With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?": "Yes — moving through such a system is allowed, and ships can pick up units in any system they pass through."
+I6 Community consensus: "No space cannon against any ships moving. Only ships not transporting may move through other player's ships."
 @8
+E2 RulesPal, "Are Fighter II units still fighters for other effects?": "they remain fighters for every other effect."
+@9
 E1 LRR FAQ: "When those infantry would be placed on a home planet, they are returned to that player's reinforcements instead."
 E2 RulesPal, "What happens to infantry on the Infantry II card if I don't control my home system?": "If you control none there, they are lost (returned to reinforcements), per a relayed developer email."
 E5 Designer ruling: "The units would be lost, in this case."
-@9
-E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
 @10
-E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
+E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
 @11
+E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
+@12
 E2 RulesPal, "How many units can a space dock produce?": "The planet being exhausted doesn't matter."
