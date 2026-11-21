@@ -96,7 +96,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Any infantry destroyed by the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> II faction unit ability are destroyed during the <b>Roll Dice</b> substep of the <b>Anti&ndash;Fighter Barrage</b> step. The Nekro player will not have the opportunity to gain the Infantry II unit upgrade until the <b>Assign Hits</b> substep immediately following, and so the destroyed infantry will be returned to their reinforcements.<sup>*</sup>
+        <li>Any infantry destroyed by the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> II faction unit ability are destroyed during the <b>Roll Dice</b> substep of the <b>Anti&ndash;Fighter Barrage</b> step. The Nekro player will not have the opportunity to gain the Infantry II unit upgrade until the <b>Assign Hits</b> substep immediately following, and so the destroyed infantry will be returned to their reinforcements.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -221,7 +221,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The intent is not that that the generic upgrades are lost, in this case.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade toward the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
+        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the Nekro Virus owns multiple unit upgrade technologies of the same type &hellip; does each one count toward the &lsquo;Develop Weaponry&rsquo; and &lsquo;Revolutionize Warfare&rsquo; objectives? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts.&rdquo;</li>
@@ -242,7 +242,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
         </ul></li>
-    <li>For the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Adapt%20New%20Strategies"><i>Adapt New Strategies</i></a> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.<sup>5</sup>
+    <li>For the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies"><i>Adapt New Strategies</i></a> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;Yes &mdash; a copied technology counts with its colour and type.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> FFG ruling (stephen986, Sep 19 2017): &ldquo;The intent was that after placing an assimilator token on another faction&rsquo;s faction specific technology, it would then count toward the secret objective.&rdquo; Counting only once a token is placed on another technology implies the if-and-only-if.</li>
@@ -286,7 +286,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.19: &ldquo;If a Valefar Assimilator token is removed from the Saar &lsquo;Floating Factory&rsquo; unit upgrade, each of the Nekro Virus&rsquo; space docks must be placed on an eligible planet they control in that space dock&rsquo;s system, or the space dock is returned to their reinforcements.&rdquo;</li>
         </ul></li>
-        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.<sup>1</sup>
+        <li>If the Nekro player loses the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.20: &ldquo;If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player&rsquo;s war suns are returned to their reinforcements.&rdquo;</li>
         </ul></li>
@@ -339,7 +339,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet.&rdquo;</li>
         </ul></li>
-    <ol><li>When the Nekro player is in a space combat against the <a href="/F_argent">Argent</a> player, their infantry on planets participating in the combat cannot be targeted by the ability of the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#FAQ:~:text=Strike%20Wing%20Alpha%20II"><i>Strike Wing Alpha II</i></a> destroyers.<sup>4</sup>
+    <ol><li>When the Nekro player is in a space combat against the <a href="/F_argent">Argent</a> player, their infantry on planets participating in the combat cannot be targeted by the ability of the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha%20II"><i>Strike Wing Alpha II</i></a> destroyers.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If they were on planets at the start of combat, they stay on the planet, participate in combat, and are immune to SWA2&rsquo;s ability.&rdquo;</li>
         </ul></li></ol>

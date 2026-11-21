@@ -81,7 +81,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup>
+    <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Mentak Coalition use the &lsquo;Pillage&rsquo; faction ability for each time the Saar gain a trade good from the &lsquo;Scavenge&rsquo; faction ability in a single turn &hellip;? A: Yes.&rdquo;</li>
         </ul></li>
@@ -232,11 +232,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#FAQ:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup>
+    <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

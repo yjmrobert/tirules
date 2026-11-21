@@ -143,7 +143,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 5.2: &ldquo;A player cannot activate a system that already contains one of their command tokens.&rdquo;</li>
         </ul></li>
-        <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup>
+        <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -174,7 +174,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
     <ol>
-        <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup>
+        <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
@@ -201,7 +201,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 28.4: &ldquo;If the terms of a deal cannot be resolved immediately, it is a non-binding deal.&rdquo; system activation happens later, so it cannot be resolved immediately.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s action, even though it is not considered their turn, and also end the Naalu player&rsquo;s turn.<sup>4</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s action, even though it is not considered their turn, and also end the Naalu player&rsquo;s turn.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player. The tactical action is part of the Naalu player&rsquo;s turn, so ending it ends the Naalu player&rsquo;s turn.</li>
         </ul></li>
@@ -251,7 +251,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;It also cannot be used to interrupt the primary ability of the Politics strategy card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A FAQ answer quoted by a player says it can&rsquo;t &hellip; interrupt the Politics primary.&rdquo;</li>
         </ul></li>
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup>
+    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective Commander, M&rsquo;aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it can&rsquo;t peek at the card Covert Legislation draws.&rdquo;</li>

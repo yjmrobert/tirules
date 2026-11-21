@@ -214,11 +214,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;Yes.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup>
+    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Terraform can be placed on it.&rdquo;</li>
         </ul></li>
-    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup>
+    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It may be explored.&rdquo;</li>
         </ul></li></ol>

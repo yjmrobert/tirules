@@ -56,7 +56,7 @@
     <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup></li>
     <ol>
         <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup></li>
-        <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup></li>
+        <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup></li>
         <li>If a player uses Z&rsquo;eu &Omega; to activate a system containing another player&rsquo;s units, that will count for the purposes of returning promissory notes, and other similar effects.<sup>12</sup></li>
     </ol>
     <li>The chosen player is considered to be the active player.<sup>4</sup></li>
@@ -65,7 +65,7 @@
     <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.<sup>*</sup></li>
     <li>If the chosen player is not the Naalu player, they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology to perform an additional action.<sup>4</sup></li>
     <ol>
-        <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup></li>
+        <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup></li>
         <li>If the chosen player is able to perform a component action, they may then use the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander, to perform additional actions.<sup>*</sup></li>
     </ol>
     <li>If the chosen player is not the Naalu player, and they had previously passed, they are still considered passed during their action. They do not pass at the end of the action.<sup>*</sup></li>
@@ -74,7 +74,7 @@
         <li>If the <a href="/F_yssaril">Yssaril</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup></li>
     </ol>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.<sup>1</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s action, even though it is not considered their turn, and also end the Naalu player&rsquo;s turn.<sup>4</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s action, even though it is not considered their turn, and also end the Naalu player&rsquo;s turn.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
@@ -95,7 +95,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban &Omega;</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Naalu player cannot look at the agenda deck while a player is resolving the primary ability of the Politics strategy card.<sup>2,4</sup></li>
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup></li>
+    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=The%20Oracle">The Oracle</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=C-Radium%20Geometry">C&ndash;Radium Geometry</a> <sub>(Hero)</sub></h2>

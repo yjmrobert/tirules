@@ -4,7 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Edict">Edict</a></h2>
     <ol class="note">
     <li>If an agenda requires the Mahact player to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.<sup>2,4</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup></li>
     <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.<sup>*</sup></li>
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.<sup>*</sup></li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, if they have no tokens in their reinforcements, they must use a Mahact token from any pool of their command sheet, and not another player&rsquo;s token in their fleet pool.<sup>*</sup></li>
@@ -59,7 +59,7 @@
         <li>If the Mahact player activates a system containing another player&rsquo;s units, they must still return any promissory notes with such an activation as the return condition.<sup>*</sup></li>
     </ol>
     <li>The Mahact player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup></li>
-    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup></li>
+    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup></li>
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology does not trigger.<sup>4</sup></li>
     </ol>
 

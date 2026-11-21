@@ -74,8 +74,8 @@
     <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.<sup>*</sup></li>
     <li>When the Keleres player uses the <a href="/R_production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup></li>
     <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup></li></ol>
-    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup></li>
-    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#FAQ:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup></li></ol>
+    <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup></li>
+    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris">Artemiris</a> <sub>(Flagship)</sub></h2>

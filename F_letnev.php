@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>The Barony of Letnev</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
     <ol class="note">
     <li><sc>Munitions Reserves</sc> may only be used to reroll combat rolls. It cannot be used to reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
@@ -11,7 +11,7 @@
     <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.<sup>*</sup></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.<sup>2,5</sup></li>
@@ -21,7 +21,7 @@
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
     <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li></ol>
@@ -82,7 +82,7 @@
     <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup></li>
     <li>The +1 to move value from moving out of or through a gravity rift is not included in the move value copied by <i>Gravleash Maneuvers</i>.<sup>6</sup></li>
     <li>The combat bonus of <i>Gravleash Maneuvers</i> is assigned to a ship during the <b>Roll Dice</b> step of combat, and only applies to combat rolls. It does not apply to anti&ndash;fighter barrage rolls.<sup>6</sup></li>
-    <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup></li>
+    <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup></li>
     <li>If the <a href="/F_nomad">Nomad</a> player uses <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian"><i>The Thundarian</i></a>, the Letnev player may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup></li>
     </ol>
 </article>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_letnev">The Barony of Letnev</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
     <ol class="note">
     <li><sc>Munitions Reserves</sc> may only be used to reroll combat rolls. It cannot be used to reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -49,7 +49,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup>
         <ul>
@@ -196,7 +196,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is &lsquo;before you roll dice&rsquo; literal i.e. does it apply to AFB rolls? &hellip; A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls.&rdquo;</li>
         </ul></li>
-    <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
+    <li>If the Letnev player rerolls their combat dice, such as with their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, they may assign the bonus to a different ship; the original ship loses the bonus.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus.&rdquo;</li>
         </ul></li>

@@ -40,7 +40,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The chosen ship becomes damaged, it does not use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
+    <li>The chosen ship becomes damaged, it does not use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
@@ -55,11 +55,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If the Argent player plays the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Waylay"><i>Waylay</i></a> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
+    <li>If the Argent player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Waylay"><i>Waylay</i></a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel one of those hits.<sup>2</sup>
+    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel one of those hits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li></ol>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
+    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>

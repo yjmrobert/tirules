@@ -19,7 +19,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;because the &lsquo;neighbor&rsquo; status is active as a result of the ability, the Mentak may use their &lsquo;Pillage&rsquo; in these situations.&rdquo;</li>
         </ul></li></ol>
-    <li>If <a href="/R_mecatol_rex">Mecatol Rex</a> contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#FAQ:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
+    <li>If <a href="/R_mecatol_rex">Mecatol Rex</a> contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Sep 11, 2018): &ldquo;The intent is that it would not work that way.&rdquo; Alpha at Mecatol does not affect Creuss ships in a beta system; vice versa by symmetry.</li>

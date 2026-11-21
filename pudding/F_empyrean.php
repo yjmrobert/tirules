@@ -66,7 +66,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? &hellip; A: It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>
-    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup>
+    <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling, asked &ldquo;(For the purposes of Pillage)&rdquo;: &ldquo;It is a single gain of commodities and 1 TG simultaneously.&rdquo;</li>
         </ul></li>

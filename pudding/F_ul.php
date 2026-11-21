@@ -39,7 +39,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
+    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Awaken and Nullification Field share the after-activation window, and the active Titans go first, so they can awaken before their turn is ended; the resulting ground combat still happens.&rdquo;</li>
         </ul></li>
@@ -112,7 +112,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup>
         <ul>
@@ -124,7 +124,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Transit Diodes move Titans Hel-Titans or ordinary PDS?&rdquo;: &ldquo;Hel-Titans yes: they are ground forces, and Transit Diodes removes and places units rather than transporting them.&rdquo;</li>
         </ul></li>
-    <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
+    <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N&rsquo;Orr Alliance? A: No, structures cannot move.&rdquo;</li>
         </ul></li>
@@ -156,7 +156,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>
@@ -169,7 +169,7 @@
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo; gain and spend are simultaneous.</li>
         </ul></li>
     <ol>
-        <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#FAQ:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup>
+        <li>The trade good may be spent as it is gained. The number of trade goods the Ul player has after producing units is used to determine if the <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo;</li>
         </ul></li>

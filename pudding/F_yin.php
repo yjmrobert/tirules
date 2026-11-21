@@ -358,7 +358,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#FAQ:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
         </ul></li>

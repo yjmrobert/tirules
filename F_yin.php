@@ -133,7 +133,7 @@
     <ol><li>Only the three infantry from the Yin player&rsquo;s reinforcements may be committed. Ground forces in the space area above the planets cannot be committed.<sup>12</sup></li></ol>
     <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup></li>
     <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#FAQ:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup></li>
     <ol><li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.<sup>*</sup></li></ol>
     </ol>
 

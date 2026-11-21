@@ -28,7 +28,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Instinct%20Training">Instinct Training</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
+    <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
     <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Instinct Training</i>.<sup>2,5</sup></li>
     <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup></li>
     <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>*</sup></li>
@@ -73,7 +73,7 @@
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> (replaced by &Omega;) <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
-    <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup></li>
+    <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup></li>
     <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda, they cast one vote for an outcome of the elected law, and resolve it.<sup>*</sup></li>
     <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution"><i>Public Execution</i></a> agenda, the elected player may still vote in the agenda phase following the current action phase.<sup>2</sup></li>
     <li>When the Xxcha player chooses and reveals an agenda, they may then use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> ability.<sup>4</sup></li>
@@ -87,7 +87,7 @@
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.<sup>*</sup></li>
     <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> objective cannot be scored until the agenda phase.<sup>2</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective cannot be scored while resolving <i>Political Data Nexus</i>.<sup>2</sup></li>
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Checks%20and%20Balances"><i>Checks and Balances</i></a> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup></li>
+    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Checks%20and%20Balances"><i>Checks and Balances</i></a> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup></li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.<sup>*</sup></li>
     <li>Other players cannot play action cards, including riders, while the Xxcha player resolves <i>Political Data Nexus</i>.<sup>2,4</sup></li>
     <li>If the Xxcha player draws an agenda that is replaced if there are no laws in play, and there are no laws in play, a new agenda is drawn.<sup>4</sup></li>
@@ -133,7 +133,7 @@
         <li>The influence value of a planet will not increase the number of units the Xxcha player may produce when using the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>*</sup></li>
         <li>The resource values of the planets the Xxcha player controls will not contribute to unlocking <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>.<sup>*</sup></li>
         <li><i>Archon&rsquo;s Gift</i> does not apply when scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> objectives.<sup>*</sup></li>
-        <li>The Xxcha player cannot use the influence value of a planet when they gain trade goods with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Mining%20Initiative"><i>Mining Initiative</i></a> action card. Other players cannot use the influence value when they gain trade goods from the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#FAQ:~:text=Uprising"><i>Uprising</i></a> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.<sup>*</sup></li>
+        <li>The Xxcha player cannot use the influence value of a planet when they gain trade goods with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Mining%20Initiative"><i>Mining Initiative</i></a> action card. Other players cannot use the influence value when they gain trade goods from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.<sup>*</sup></li>
     </ol>
     </ol>
 </article>

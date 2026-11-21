@@ -40,7 +40,7 @@
     <li>A floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.<sup>2</sup></li>
     <li>Hits produced by space cannon rolls cannot be assigned to a Floating Factory.<sup>1,2,5</sup></li>
-    <li>Game effects that affect ship movement, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#FAQ:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, etc, may affect Floating Factories.<sup>2,5</sup></li>
+    <li>Game effects that affect ship movement, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, etc, may affect Floating Factories.<sup>2,5</sup></li>
     <li>A Floating Factory moving through or out of a gravity rift must roll for removal. It will receive the +1 to its movement.<sup>2,5</sup></li>
     <li>If the Saar player announces a retreat during a space combat, but all their ships are destroyed that round, any Floating Factories in that system are destroyed without retreating.<sup>5</sup></li>
     <ol>
@@ -76,7 +76,7 @@
     <ol class="note">
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup></li>
     <ol>
-        <li>Move value modifying effects that trigger after a system is activated, such as the <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#FAQ:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
+        <li>Move value modifying effects that trigger after a system is activated, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
         <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
     </ol>
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup></li>

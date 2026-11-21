@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are the Mahact player, what happens when an agenda tells you to &lsquo;remove one of your command tokens from your fleet pool &hellip;&rsquo; but you only have tokens from&rdquo; other players? &ldquo;A: You are required to remove another player&rsquo;s token and return it to that player&rsquo;s reinforcements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Armed Forces Standardization affect Mahact holding other players&rsquo; fleet tokens?&rdquo;: &ldquo;other players&rsquo; tokens removed go back to their owners&rsquo; reinforcements.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
         </ul></li>
@@ -131,7 +131,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#FAQ:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup>
+    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What&rsquo;s the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play Counterstroke on a system I activate that already has my command token?&rdquo;: &ldquo;Mahact&rsquo;s commander doesn&rsquo;t help either, since activating that way ends your turn at once with no after-activation abilities&rdquo;</li>
