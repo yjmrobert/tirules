@@ -100,6 +100,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
+    <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup></li>
     <li>When The Fracture is brought into play by <i>Al&rsquo;raith Ix Ianovar</i>, the Vuil&rsquo;raith player places ingress tokens according to the synergy on the Cabal breakthrough.<sup>6,9</sup></li>
     <ol>
         <li>This uses the cabal breakthrough synergy colors method, not the one planet per color method.<sup>9</sup></li>
@@ -107,7 +108,6 @@
     </ol>
     <li>The Vuil&rsquo;raith player may move the ingress tokens into systems that contain their Dimensional Tears.<sup>*</sup></li>
     <ol><li>They cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup></li></ol>
-    <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup></li>
     <li>Ingress tokens cannot be placed in The Fracture. The Vuil&rsquo;raith player cannot move an ingress token into a system in The Fracture, even if they have a space dock in that system.<sup>6</sup></li>
     </ol>
 </article>

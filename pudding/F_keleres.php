@@ -30,15 +30,19 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Law%27s%20Order">Law&rsquo;s Order</a></h2>
     <ol class="note">
-    <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>12</sup> Codex III, Law&rsquo;s Order: &ldquo;treat all laws as blank until the end of&rdquo; your turn.</li>
-        </ul></li>
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.<sup>4,12</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
         <li><b>Explicit</b>: <sup>12</sup> Codex III: &ldquo;treat all laws as blank.&rdquo;</li>
+        </ul></li>
+    <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
+        </ul></li>
+    <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>12</sup> Codex III, Law&rsquo;s Order: &ldquo;treat all laws as blank until the end of&rdquo; your turn.</li>
         </ul></li>
     <li>If the Keleres player owns the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup>
         <ul>
@@ -48,10 +52,6 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
@@ -283,10 +283,6 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        </ul></li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.<sup>12</sup>
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Galactic Vigil: &ldquo;At the start of a round of space combat in a system that contains a planet you control.&rdquo;</li>
@@ -298,6 +294,10 @@
     <li>Ships placed by <i>Overwing Zeta</i> count against the Keleres player&rsquo;s fleet pool immediately; any excess non&ndash;fighter ships are removed at once.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?&rdquo;: &ldquo;At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away.&rdquo;</li>
+        </ul></li>
+    <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         </ul></li>
     </ol>
 

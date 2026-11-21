@@ -15,11 +15,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Law%27s%20Order">Law&rsquo;s Order</a></h2>
     <ol class="note">
-    <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup></li>
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.<sup>4,12</sup></li>
+    <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup></li>
+    <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup></li>
     <li>If the Keleres player owns the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup></li>
     <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup></li></ol>
-    <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
@@ -106,10 +106,10 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Kuuasi%20Aun%20Jalatai">Kuuasi Aun Jalatai</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta">Overwing Zeta</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>*</sup></li>
-    <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.<sup>12</sup></li>
     <ol><li><i>Overwing Zeta</i> may be played in a round following the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris"><i>Artemiris</i></a> being destroyed.<sup>*</sup></li></ol>
     <li>Ships placed by <i>Overwing Zeta</i> count against the Keleres player&rsquo;s fleet pool immediately; any excess non&ndash;fighter ships are removed at once.<sup>2</sup></li>
+    <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Odlynn%20Myrr">Odlynn Myrr</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Operation%20Archon">Operation Archon</a> <sub>(Hero)</sub></h2>

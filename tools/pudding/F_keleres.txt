@@ -9,16 +9,16 @@ E12 Codex III, Council Patronage: "Replenish your commodities at the start of th
 E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 @4
 E4 Designer ruling: "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
-E12 Codex III, Law's Order: "treat all laws as blank until the end of" your turn.
+E12 Codex III: "treat all laws as blank."
 @5
 E4 Designer ruling: "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
-E12 Codex III: "treat all laws as blank."
 @6
-N No source found.
+E4 Designer ruling: "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
+E12 Codex III, Law's Order: "treat all laws as blank until the end of" your turn.
 @7
 N No source found.
 @8
-E4 Designer ruling: "How does the Council Keleres faction ability Law's Order interact …? A: All agendas are treated as blank for all players for the duration of that Council Keleres player's turn."
+N No source found.
 @9
 I2 RulesPal, "Can one player play several riders on the same agenda, on different outcomes?": "Yes — FFG confirmed by email that you can play several riders in the same vote."
 @10
@@ -119,13 +119,13 @@ N No source found.
 @54
 N No source found.
 @55
-E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-@56
 E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a system that contains a planet you control."
-@57
+@56
 N No source found.
-@58
+@57
 I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
+@58
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 @59
 N No source found.
 @60

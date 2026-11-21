@@ -105,18 +105,18 @@ I4 Designer ruling, "What is the interaction between Infantry 2 and Capture?": "
 @50
 N No source found.
 @51
+E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
+@52
 E6 Community consensus: "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
 E9 Designer Q&A, "Cabal Breakthrough": "According to cabal BT colors."
-@52
-E9 Designer Q&A, "Cabal Breakthrough": "should cabal place them according to cabal synergy …? A: According to cabal BT colors."
 @53
-N No source found.
+E9 Designer Q&A, "Cabal Breakthrough": "should cabal place them according to cabal synergy …? A: According to cabal BT colors."
 @54
 N No source found.
 @55
+N No source found.
+@56
 E6 Community consensus: "Can the Vuil'raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token."
 E7 Thunder's Edge Rulebook, The Fracture: "A system cannot have more than one ingress token."
-@56
-E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
 @57
 E6 Community consensus: "Can the Vuil'raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play …? A: No, ingress tokens cannot be placed in the Fracture."

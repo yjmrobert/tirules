@@ -259,6 +259,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
+    <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Al&rsquo;raith Ix Ianovar (Breakthrough): Can the Vuil&rsquo;raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability.&rdquo;</li>
+        </ul></li>
     <li>When The Fracture is brought into play by <i>Al&rsquo;raith Ix Ianovar</i>, the Vuil&rsquo;raith player places ingress tokens according to the synergy on the Cabal breakthrough.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Since the Fracture enters play without a roll via Al&rsquo;raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for.&rdquo;</li>
@@ -283,10 +287,6 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Vuil&rsquo;raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, The Fracture: &ldquo;A system cannot have more than one ingress token.&rdquo;</li>
         </ul></li></ol>
-    <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Al&rsquo;raith Ix Ianovar (Breakthrough): Can the Vuil&rsquo;raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability.&rdquo;</li>
-        </ul></li>
     <li>Ingress tokens cannot be placed in The Fracture. The Vuil&rsquo;raith player cannot move an ingress token into a system in The Fracture, even if they have a space dock in that system.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Vuil&rsquo;raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play &hellip;? A: No, ingress tokens cannot be placed in the Fracture.&rdquo;</li>
