@@ -59,9 +59,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Ta%20Zern">Ta Zern</a> /<br/><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Agnlan%20Oln">Agnlan Oln</a> <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>Ta Zern and Agnlan Oln work identically. Thunder&rsquo;s Edge replaces Ta Zern with Agnlan Oln because the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s hero is also named Ta Zern.<sup>2,7</sup></li>
     <li>The unit abilities that roll dice, and whose dice may be rerolled with this ability, are <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>1</sup></li>
-    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.<sup>1</sup></li>
-    <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.<sup>*</sup></li>
+    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; this commander cannot reroll combat dice.<sup>1</sup></li>
+    <li>This commander cannot be used to reroll dice for an Infantry II resurrection ability.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Rin%2C%20The%20Master%27s%20Legacy">Rin, The Master&rsquo;s Legacy</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Genetic%20Memory">Genetic Memory</a> <sub>(Hero)</sub></h2>

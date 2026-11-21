@@ -122,15 +122,20 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Ta%20Zern">Ta Zern</a> /<br/><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Agnlan%20Oln">Agnlan Oln</a> <sub>(Commander)</sub></h2>
     <ol class="note">
+    <li>Ta Zern and Agnlan Oln work identically. Thunder&rsquo;s Edge replaces Ta Zern with Agnlan Oln because the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s hero is also named Ta Zern.<sup>2,7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 4: &ldquo;If you are playing with the Prophecy of Kings expansion, replace the Jol-Nar&rsquo;s &lsquo;Ta Zern&rsquo; leader with their &lsquo;Agnlan Oln&rsquo; leader.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do I need to swap Ta Zern for Agnlan Oln when combining Thunder&rsquo;s Edge with Prophecy of Kings?&rdquo;: &ldquo;Only for theme and clarity &mdash; the two cards work identically. Ta Zern now belongs to the Deepwrought, and the swap avoids two components sharing a name.&rdquo;</li>
+        </ul></li>
     <li>The unit abilities that roll dice, and whose dice may be rerolled with this ability, are <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 1.26: &ldquo;The following abilities are unit abilities: Anti-Fighter Barrage, Production, Bombardment, Space Cannon, Deploy, Sustain Damage, Planetary Shield.&rdquo; Of these, only Anti-Fighter Barrage, Bombardment and Space Cannon roll dice.</li>
         </ul></li>
-    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.<sup>1</sup>
+    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; this commander cannot reroll combat dice.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 18: &ldquo;Combat is an attribute of some units.&rdquo;</li>
         </ul></li>
-    <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.<sup>*</sup>
+    <li>This commander cannot be used to reroll dice for an Infantry II resurrection ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

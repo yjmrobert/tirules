@@ -40,32 +40,35 @@ E2 RulesPal, "How many hits can the Jol-Nar flagship produce?": "Each die showin
 @19
 E2 RulesPal, "Does Infantry II trigger on infantry removed by the Jol-Nar agent?": "No — removing isn't destroying."
 @20
-I1 LRR 1.26: "The following abilities are unit abilities: Anti-Fighter Barrage, Production, Bombardment, Space Cannon, Deploy, Sustain Damage, Planetary Shield." Of these, only Anti-Fighter Barrage, Bombardment and Space Cannon roll dice.
+E7 Thunder's Edge Rulebook p. 4: "If you are playing with the Prophecy of Kings expansion, replace the Jol-Nar's 'Ta Zern' leader with their 'Agnlan Oln' leader."
+E2 RulesPal, "Do I need to swap Ta Zern for Agnlan Oln when combining Thunder's Edge with Prophecy of Kings?": "Only for theme and clarity — the two cards work identically. Ta Zern now belongs to the Deepwrought, and the swap avoids two components sharing a name."
 @21
-I1 LRR 18: "Combat is an attribute of some units."
+I1 LRR 1.26: "The following abilities are unit abilities: Anti-Fighter Barrage, Production, Bombardment, Space Cannon, Deploy, Sustain Damage, Planetary Shield." Of these, only Anti-Fighter Barrage, Bombardment and Space Cannon roll dice.
 @22
-N No source found.
+I1 LRR 18: "Combat is an attribute of some units."
 @23
 N No source found.
 @24
-E4 Designer ruling, Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
-@25
 N No source found.
+@25
+E4 Designer ruling, Jol-Nar hero Rin: "Simultaneously, that is to say the Universities of Jol-Nar player cannot swap out a tech and re-take it during this component action."
 @26
 N No source found.
 @27
-E4 Designer ruling: "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
+N No source found.
 @28
-N No source found.
+E4 Designer ruling: "If the Universities of Jol-Nar player replaces a faction technology with their hero, what happens if the Nekro Virus player had a Valefar Assimilator token on it? A: The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology's text."
 @29
-E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
-@30
 N No source found.
+@30
+E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
 @31
-I1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites." Specialized Compounds needs a technology matching the planet's specialty color.
+N No source found.
 @32
-E1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites."
+I1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites." Specialized Compounds needs a technology matching the planet's specialty color.
 @33
-E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
+E1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites."
 @34
+E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
+@35
 N No source found.
