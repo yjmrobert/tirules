@@ -10,33 +10,33 @@ I7 Same passage: control requires being "the only player that has ships in its s
 E7 Same passage: "They do not lose control of the station if those ships move out of its system."
 E2 RulesPal: "you keep it after leaving until another player becomes the only one with ships there."
 @4
-E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can't have attachments."
-@5
 E6 Community consensus: "Does a player lose control of a space station if a neutral ship is placed in its system? A: No, there is no Neutral Player."
-@6
+@5
 E6 Community consensus: "Does a player gain control of a space station before combat against neutral units …? A: Yes, there is no Neutral Player."
-@7
-E2 RulesPal: "A space station isn't a planet, so controlling one doesn't stop you being eliminated."
-@8
+@6
 E7 Thunder's Edge Rulebook p. 10: "Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet."
+@7
+E7 Thunder's Edge Rulebook p. 10: "players can exhaust a space station" to convert commodities to trade goods.
+E7 Thunder's Edge reference: "Exhaust to convert commodities to trade goods."
+@8
+E7 Thunder's Edge Rulebook p. 10: "A player's commodity value is increased by 1 for each space station they control."
 @9
-E7 Same passage: "structures and ground forces cannot be placed on or committed to space stations."
+E7 Thunder's Edge reference: "Increases commodity value by 1 (put space station token in commodity pool as a reminder)."
 @10
+E7 Thunder's Edge Rulebook p. 10: "A player that controls a space station can resolve transactions with other players that control a space station, even if they are not neighbors."
+@11
+E7 Same passage: "even if they are not neighbors."
+@12
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations …? A: Yeah you can vote with them."
 E6 Community consensus: "Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected."
 I7 Thunder's Edge Rulebook p. 10: space stations "do not count as planets for the purpose voting, objectives, or controlling a home system." Read with sources 6 and 9 as covering election, not casting votes.
-@11
-E7 Thunder's Edge Rulebook p. 10: they "do not count as planets for the purpose voting, objectives, or controlling a home system."
-@12
-E7 Thunder's Edge Rulebook p. 10: "A player's commodity value is increased by 1 for each space station they control."
 @13
-E7 Thunder's Edge reference: "Increases commodity value by 1 (put space station token in commodity pool as a reminder)."
+E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can't have attachments."
 @14
-E7 Thunder's Edge Rulebook p. 10: "A player that controls a space station can resolve transactions with other players that control a space station, even if they are not neighbors."
+E2 RulesPal: "A space station isn't a planet, so controlling one doesn't stop you being eliminated."
 @15
-E7 Same passage: "even if they are not neighbors."
+E7 Same passage: "structures and ground forces cannot be placed on or committed to space stations."
 @16
-E7 Thunder's Edge Rulebook p. 10: "players can exhaust a space station" to convert commodities to trade goods.
-E7 Thunder's Edge reference: "Exhaust to convert commodities to trade goods."
+E7 Thunder's Edge Rulebook p. 10: they "do not count as planets for the purpose voting, objectives, or controlling a home system."
 @17
 E7 Thunder's Edge Rulebook p. 16: "A system that contains a space station and no planets gets a frontier token during setup."
