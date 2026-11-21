@@ -4,7 +4,7 @@ E7 Thunder's Edge reference: "ENTROPIC SCAR (ANOMALY) ✦ UNIT ABILITIES cannot 
 E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "(Sustain Damage, Production, Planetary Shield, Space Cannon, Bombardment, Deploy, and Anti-Fighter Barrage) cannot be used by or against units inside of an entropic scar."
 E2 RulesPal, "Does the Arborec commander work with a Letani in an Entropic Scar?": "the scar stops unit abilities being used but doesn't remove them."
 @2
-E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "Text abilities are unaffected."
+E7 Thunder's Edge Rulebook p. 11, Entropic Scar: "All unit abilities ... cannot be used by or against units inside of an entropic scar. Text abilities are unaffected."
 @3
 E2 RulesPal, "Does the Arborec commander work with a Letani in an Entropic Scar?": "Yes — the scar stops unit abilities being used but doesn't remove them, and the commander is a text ability that only needs a unit with Production."
 @4

@@ -9,7 +9,7 @@
     <li>An entropic scar is an anomaly that affects unit abilities and faction technologies.<sup>7</sup></li>
     <li>A unit in an entropic scar cannot use unit abilities.<sup>2,7</sup></li>
     <ol>
-        <li>Only unit abilities are removed; text abilities are unaffected.<sup>7</sup></li>
+        <li>Only unit abilities cannot be used; text abilities are unaffected.<sup>7</sup></li>
         <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup></li>
         <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup></li>
     </ol>

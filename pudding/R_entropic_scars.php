@@ -15,9 +15,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Arborec commander work with a Letani in an Entropic Scar?&rdquo;: &ldquo;the scar stops unit abilities being used but doesn&rsquo;t remove them.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Only unit abilities are removed; text abilities are unaffected.<sup>7</sup>
+        <li>Only unit abilities cannot be used; text abilities are unaffected.<sup>7</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Entropic Scar: &ldquo;Text abilities are unaffected.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Entropic Scar: &ldquo;All unit abilities ... cannot be used by or against units inside of an entropic scar. Text abilities are unaffected.&rdquo;</li>
         </ul></li>
         <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
         <ul>
