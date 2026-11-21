@@ -74,6 +74,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Flagship:~:text=Last%20Dispatch">Last Dispatch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
+    <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Same text: &ldquo;you may destroy 1 ship in the active system.&rdquo;</li>
+        </ul></li>
     <li>A unit with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> cannot be destroyed, even if it is damaged.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Last Dispatch: &ldquo;you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE.&rdquo;</li>
@@ -82,9 +86,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same text: the target must be a ship &ldquo;that does not have SUSTAIN DAMAGE.&rdquo;</li>
         </ul></li></ol>
-    <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup>
+    <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>7</sup> Same text: &ldquo;you may destroy 1 ship in the active system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>
         </ul></li>
     <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup>
         <ul>
@@ -94,10 +98,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move.&rdquo;</li>
         </ul></li></ol>
-    <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Leaders:~:text=Kan%20Kip%20Rel">Kan Kip Rel</a> <sub>(Agent)</sub></h2>
@@ -166,11 +166,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Breakthrough:~:text=Data%20Skimmer">Data Skimmer</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Action cards discarded by the Ral Nel player are placed in the action card discard pile, and not on <i>Data Skimmer</i>.<sup>*</sup>
+    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup>
+    <li>Action cards discarded by the Ral Nel player are placed in the action card discard pile, and not on <i>Data Skimmer</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -35,12 +35,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Flagship:~:text=Last%20Dispatch">Last Dispatch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
+    <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup></li>
     <li>A unit with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> cannot be destroyed, even if it is damaged.<sup>7</sup></li>
     <ol><li>If a unit loses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup></li></ol>
-    <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup></li>
+    <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup></li>
     <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup></li>
     <ol><li><i>Skilled Retreat</i> is not a retreat.<sup>2</sup></li></ol>
-    <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Leaders:~:text=Kan%20Kip%20Rel">Kan Kip Rel</a> <sub>(Agent)</sub></h2>
@@ -73,8 +73,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Breakthrough:~:text=Data%20Skimmer">Data Skimmer</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Action cards discarded by the Ral Nel player are placed in the action card discard pile, and not on <i>Data Skimmer</i>.<sup>*</sup></li>
     <li>An action card will be placed on <i>Data Skimmer</i> if it is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>*</sup></li>
+    <li>Action cards discarded by the Ral Nel player are placed in the action card discard pile, and not on <i>Data Skimmer</i>.<sup>*</sup></li>
     <li>Action cards on <i>Data Skimmer</i> are not in the discard pile.<sup>6</sup></li>
     <li>If the Ral Nel player is eliminated, <i>Data Skimmer</i> is returned to the game box, and all action cards on it are immediately discarded.<sup>6</sup></li>
     </ol>

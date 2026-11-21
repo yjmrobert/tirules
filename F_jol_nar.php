@@ -81,10 +81,10 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Breakthrough:~:text=Specialized%20Compounds">Specialized Compounds</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Due to the synergy of <i>Specialized Compounds</i>, the Jol&ndash;Nar player may exhaust a planet with a yellow technology specialty to research a green technology, and vice versa.<sup>6</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup></li>
+    <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.<sup>*</sup></li>
     <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.<sup>1</sup></li>
     <ol><li>Unit upgrades do not have a color.<sup>1</sup></li></ol>
-    <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.<sup>*</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup></li>
     <li>The Jol&ndash;Nar player cannot use a technology specialty planet to both pay for the research with <i>Specialized Compounds</i> and to ignore a prerequisite of the researched technology simultaneously.<sup>*</sup></li>
     </ol>
 </article>

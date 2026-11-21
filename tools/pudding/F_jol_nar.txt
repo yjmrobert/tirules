@@ -60,12 +60,12 @@ N No source found.
 @29
 E6 Community consensus: "Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes"
 @30
-E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
+N No source found.
 @31
 I1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites." Specialized Compounds needs a technology matching the planet's specialty color.
 @32
 E1 LRR 90 (Technology): "Unit upgrades do not have a color and do not satisfy prerequisites."
 @33
-N No source found.
+E6 Community consensus: "Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No"
 @34
 N No source found.

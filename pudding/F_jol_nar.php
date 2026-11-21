@@ -174,9 +174,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use the SYNERGY to exhaust a yellow skip planet to pay for researching a green technology, or vice versa? A: Yes&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup>
+    <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.<sup>*</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.<sup>1</sup>
         <ul>
@@ -186,9 +186,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90 (Technology): &ldquo;Unit upgrades do not have a color and do not satisfy prerequisites.&rdquo;</li>
         </ul></li></ol>
-    <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.<sup>*</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
         </ul></li>
     <li>The Jol&ndash;Nar player cannot use a technology specialty planet to both pay for the research with <i>Specialized Compounds</i> and to ignore a prerequisite of the researched technology simultaneously.<sup>*</sup>
         <ul>

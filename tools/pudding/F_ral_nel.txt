@@ -24,17 +24,17 @@ E6 Community consensus: "What is the interaction between Experimental Battlestat
 @11
 E2 RulesPal, "Are there quick answers for … Ral Nel Linkships?": "Each Linkship II rolls one Space Cannon die however many PDS share its space."
 @12
-E7 Thunder's Edge Rulebook, Last Dispatch: "you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE."
-@13
-I7 Same text: the target must be a ship "that does not have SUSTAIN DAMAGE."
-@14
 E7 Same text: "you may destroy 1 ship in the active system."
+@13
+E7 Thunder's Edge Rulebook, Last Dispatch: "you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE."
+@14
+I7 Same text: the target must be a ship "that does not have SUSTAIN DAMAGE."
 @15
-I2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move." The Last Dispatch triggers "When this unit retreats."
-@16
-E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move."
-@17
 E6 Community consensus: "What happens if the flagship ability destroys the last player's ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves."
+@16
+I2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move." The Last Dispatch triggers "When this unit retreats."
+@17
+E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move."
 @18
 N No source found.
 @19
