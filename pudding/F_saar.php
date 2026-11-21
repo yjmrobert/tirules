@@ -91,7 +91,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>A floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup>
+    <li>A Floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are Saar Floating Factories ships, and do they count against the fleet pool?&rdquo;: &ldquo;No &mdash; Floating Factories are never ships &hellip; They don&rsquo;t count against your fleet pool.&rdquo;</li>
         </ul></li>

@@ -29,6 +29,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Once I resolve an ability in a timing window, can I take it back after my opponent responds?&rdquo;: &ldquo;No &mdash; anything already resolved stays resolved &hellip; you can answer it with another ability on your next turn in that window.&rdquo;</li>
         </ul></li> -->
+    <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 1.16: &ldquo;Effects that occur &lsquo;when&rsquo; an event happens take priority over effects that occur &lsquo;after&rsquo; an event happens.&rdquo;</li>
+        </ul></li>
+    <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;is &ldquo;after x&rdquo; distinct from &ldquo;before y&rdquo;&rdquo;: &ldquo;They are distinct. &ldquo;After x&rdquo; happens before &ldquo;before y&rdquo;&rdquo;</li>
+        </ul></li>
     <li>Each paragraph on a card is a separate ability, and is resolved independently of the others. For example, a promissory note&rsquo;s final paragraph instructing the player to return the card is still resolved, even if an earlier paragraph had no effect.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is each paragraph on a card a separate ability &hellip;?&rdquo;: &ldquo;Yes &mdash; each paragraph is its own ability and resolves on its own. So a note&rsquo;s final return line still happens even if an earlier paragraph had no effect.&rdquo;</li>
@@ -91,14 +99,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 3.3a: &ldquo;During a turn that a player passes, they can resolve transactions and &lsquo;at the start of your turn&rsquo; abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you resolve end of turn abilities on the turn you pass? A: Yes.&rdquo;</li>
-        </ul></li>
-    <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 1.16: &ldquo;Effects that occur &lsquo;when&rsquo; an event happens take priority over effects that occur &lsquo;after&rsquo; an event happens.&rdquo;</li>
-        </ul></li>
-    <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;is &ldquo;after x&rdquo; distinct from &ldquo;before y&rdquo;&rdquo;: &ldquo;They are distinct. &ldquo;After x&rdquo; happens before &ldquo;before y&rdquo;&rdquo;</li>
         </ul></li>
     <li>Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.<sup>6,9</sup>
         <ul>

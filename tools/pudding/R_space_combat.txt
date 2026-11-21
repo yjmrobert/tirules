@@ -8,42 +8,42 @@ E1 LRR 16.4c: "A player's fighters and ground forces do not count against capaci
 E2 RulesPal, "When is capacity checked if a carrier is lost?": "During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends."
 I5 Designer ruling (Milty, 08/02/2018): "During a combat, the fighters would persist until the end of combat" Fighters persist through combat despite capacity.
 @3
-E2 RulesPal, "Do ships that announced a retreat still roll that round?": "Yes — announcing a retreat doesn't stop you firing; you roll normally and then leave in the retreat step. Retreating in that step also escapes Exotrireme II."
+I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area" over capacity, excess units are removed then.
 @4
+I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player's ships in that system, that player must choose and remove any excess units." The winner is decided before the excess is removed.
+@5
+E2 RulesPal, "Do ships that announced a retreat still roll that round?": "Yes — announcing a retreat doesn't stop you firing; you roll normally and then leave in the retreat step. Retreating in that step also escapes Exotrireme II."
+@6
 E2 RulesPal, "What happens if neither side can ever win a space combat?": "The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed."
 I1 LRR FAQ: "If neither side has the potential to win, the attacker must retreat."
-@5
+@7
 E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
-@6
+@8
 E8 PoK rulebook, Dark Energy Tap: "Your ships can retreat into adjacent systems that do not contain other players' units, even if you do not have units or control planets in that system."
 E2 RulesPal, "Where can my ships retreat to?": "Dark Energy Tap drops the second requirement."
-@7
-I4 Designer ruling: "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
-@8
-N No source found. LRR 78.7 retreat movement combined with the asteroid field and supernova movement rules and the card text.
 @9
-I1 LRR 41.2: "For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system." A retreat moves ships out of the active system.
+I4 Designer ruling: "Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it." A retreat moves ships into an adjacent system that is not the active system.
 @10
-N No source found.
+N No source found. LRR 78.7 retreat movement combined with the asteroid field and supernova movement rules and the card text.
 @11
+I1 LRR 41.2: "For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system." A retreat moves ships out of the active system.
+@12
+N No source found.
+@13
 E2 RulesPal, "Can I retreat or Skilled Retreat into, or carry units out of, systems that contain my command token?": "retreating ships can carry units out of the combat system even if your token is there, because the transport restriction excludes the active system, whoever activated it."
 I1 LRR, Space Combat, Retreat step: "To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system." No command token restriction applies.
-@12
+@14
 E10 Codex I: "when a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal."
 I2 RulesPal, "When my ships retreat, can they pick up ground forces from my planets in the combat system?": "retreating ships move and transport units like any other movement."
-@13
+@15
 E1 LRR 78.7b: "That player's fighters and ground forces in the space area of the active system that are unable to move or be transported are removed."
 E5 Designer ruling: "the number you can attempt to move out of the system is still limited by your ships capacity in the same way that it is when you move."
 I2 RulesPal, "How does Skilled Retreat differ …?": "the usual transport rules apply."
-@14
+@16
 E2 RulesPal, "What happens to units that can't go with a retreat?": "Fighters and ground forces in the space area that the retreating ships can't carry are destroyed, even if a space dock could have supported them." RulesPal says destroyed; LRR 78.7b says removed.
 E5 Designer ruling (sigmazero13, Jul 18, 2018): "They’d be destroyed."
-@15
-E2 RulesPal, "Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?": "No — landing only happens in the invasion step of a tactical action in the active system."
-@16
-I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area" over capacity, excess units are removed then.
 @17
-I1 LRR 78.10a: "If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player's ships in that system, that player must choose and remove any excess units." The winner is decided before the excess is removed.
+E2 RulesPal, "Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?": "No — landing only happens in the invasion step of a tactical action in the active system."
 @18
 E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — a combat is a space combat or a ground combat … Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat."
 @19

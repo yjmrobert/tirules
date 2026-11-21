@@ -58,6 +58,8 @@
         </ol>
     </ol>
     <!-- <li>Once an ability has been resolved, it cannot be undone or withdrawn, even if another player then resolves an ability in response. The player may instead respond by resolving another ability when they next have the opportunity during that timing window.<sup>2</sup></li> -->
+    <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.<sup>1</sup></li>
+    <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.<sup>4</sup></li>
     <li>Each paragraph on a card is a separate ability, and is resolved independently of the others. For example, a promissory note&rsquo;s final paragraph instructing the player to return the card is still resolved, even if an earlier paragraph had no effect.<sup>2</sup></li>
     <!-- <li>&ldquo;At the start of your turn&rdquo; abilities are resolved before the player chooses their action or passes, and so before a system is activated. Such abilities can only be resolved during the action phase, as players do not take turns during other phases.<sup>2</sup></li> -->
     <li>An ability that refers to &ldquo;a player&rdquo; may be used on the player resolving it. Only an ability that refers to &ldquo;another player&rdquo; excludes that player.<sup>2</sup></li>
@@ -73,8 +75,6 @@
     </ol>
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.<sup>1,2</sup></li>
     <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.<sup>1,4</sup></li>
-    <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.<sup>1</sup></li>
-    <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.<sup>4</sup></li>
     <li>Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.<sup>6,9</sup></li>
     <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup></li></ol>
     </ol>

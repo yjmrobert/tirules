@@ -20,6 +20,14 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is capacity checked if a carrier is lost?&rdquo;: &ldquo;During combat fighters and ground forces may exceed capacity and keep fighting; the excess is removed when the space combat ends.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Milty, 08/02/2018): &ldquo;During a combat, the fighters would persist until the end of combat&rdquo; Fighters persist through combat despite capacity.</li>
         </ul></li>
+    <li>Capacity is checked after the winner of a space combat is determined.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area&rdquo; over capacity, excess units are removed then.</li>
+        </ul></li>
+    <ol><li>It is possible to win a space combat with only fighters remaining, before those fighters are removed due to lack of capacity.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player&rsquo;s ships in that system, that player must choose and remove any excess units.&rdquo; The winner is decided before the excess is removed.</li>
+        </ul></li></ol>
     <li>The following apply to retreats:</li>
     <ol>
         <li>Ships that have announced a retreat still roll dice during the Roll Dice step of that combat round, then retreat during the Retreat step. Retreating this way avoids abilities that resolve after the combat round, such as the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a>.<sup>2</sup>
@@ -82,14 +90,6 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?&rdquo;: &ldquo;No &mdash; landing only happens in the invasion step of a tactical action in the active system.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>Capacity is checked after the winner of a space combat is determined.<sup>1</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area&rdquo; over capacity, excess units are removed then.</li>
-        </ul></li>
-    <ol><li>It is possible to win a space combat with only fighters remaining, before those fighters are removed due to lack of capacity.<sup>1</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 78.10a: &ldquo;If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player&rsquo;s ships in that system, that player must choose and remove any excess units.&rdquo; The winner is decided before the excess is removed.</li>
-        </ul></li></ol>
     <li>A player only wins a combat if a space combat or ground combat occurred. Destroying all opposing ships with the Space Cannon ability, destroying all opposing ground forces with the Bombardment ability, landing ground forces on a planet without opposing ground forces, or the opposing player avoiding the combat with the <a href="/F_naalu">Naalu</a> player&rsquo;s Foresight faction ability does not count as winning a combat. A planet containing only another player&rsquo;s structures does not cause a ground combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?&rdquo;: &ldquo;No &mdash; a combat is a space combat or a ground combat &hellip; Destroying ships with Space Cannon during movement, bombarding away all defenders, or landing unopposed involves no combat.&rdquo;</li>

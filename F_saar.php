@@ -37,7 +37,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>A floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
+    <li>A Floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
     <li>There is no limit to the number of Floating Factories that may be in the same system.<sup>2</sup></li>
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.<sup>2</sup></li>
     <li>A Floating Factory may move into the active system and use its <a href="/R_production"><sc>Production</sc></a> ability during the same tactical action.<sup>2</sup></li>
