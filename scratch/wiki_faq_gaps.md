@@ -5,7 +5,7 @@ source. Almost all of its FAQ is copied from source 1 (LRR FAQ pp. 40-44) and so
 Official FAQ), and the site already cites nearly all of those. Gaps below are for the owner to consider.
 
 ## Gaps with a numbered source
-- **F_mahact, Jae Mir Kan** (wiki Mahact #1). Source 4:269: "Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction Strategy Card without placing a structure / A: The system that you place a token in must have an eligible planet for you to put a structure on."
+- **F_mahact, Jae Mir Kan** (wiki Mahact #1). *Closed 2026-11-21, no change: obsolete under the TE Construction secondary, which places no token.* Source 4:269: "Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction Strategy Card without placing a structure / A: The system that you place a token in must have an eligible planet for you to put a structure on."
 - **F_arborec, Mitosis** (wiki Arborec #1). Source 2:725: "Does Arborec's Mitosis place an infantry on every planet they control? ... A: No — it places a single infantry on one planet you control each status phase." Probably too simple for a note (the card text already says it).
 
 ## Gaps with no numbered source (wiki only)
