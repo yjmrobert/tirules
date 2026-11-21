@@ -1,3 +1,10 @@
 @0
 E1 LRR 35.4: "Players can explore space areas that contain frontier tokens if they own the 'Dark Energy Tap' technology or if another game effect allows them to."
 E8 PoK rulebook p. 16: "If an ability instructs a player to explore a frontier token, they may do so even if they do not have the 'Dark Energy Tap' technology."
+@1
+E7 Thunder's Edge Rulebook p. 16: "A system that contains a space station and no planets gets a frontier token during setup."
+@2
+E6 Community consensus: "Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: No, Frontier tokens are placed during setup and the fracture is not in play at this time. The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play."
+E2 RulesPal, "Do empty Fracture systems get frontier tokens, and can wormholes go there?": "Not at the start: frontier tokens are placed at setup, before the Fracture is in play, though the Empyrean hero can later put them on its empty systems."
+@3
+E7 Thunder's Edge Rulebook p. 16: "When Thunder's Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored."
