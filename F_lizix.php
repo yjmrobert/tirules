@@ -63,7 +63,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Ships in systems with one of the L1Z1X player&rsquo;s command tokens may move.<sup>2</sup></li>
-    <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup></li>
+    <li>When the L1Z1X player&rsquo;s ships move outside of a tactical action, they may transport units from systems that contain the L1Z1X player&rsquo;s command tokens.<sup>4</sup></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup></li>
     <li>Ships moving out of a gravity rift must roll for removal.<sup>1,2,3,4</sup></li>
     <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup></li>

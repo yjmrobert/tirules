@@ -19,6 +19,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
+    <li>Players cannot resolve transactions during the strategy phase or the status phase. Players may still negotiate during these phases, but the terms of a deal that involves trade goods cannot be resolved immediately, so that deal is not binding.<sup>2,5</sup></li>
     <li>Relic fragments may be traded. Relics themselves cannot be.<sup>1,8</sup></li>
     <li>Captured non&ndash;fighter ships and mechs may be returned to the player that originally owned them as part of a transaction.<sup>1,8</sup></li>
     <li>If a player becomes neighbors with another player on their turn, they may then perform a transaction with that player.<sup>1</sup></li>
@@ -29,7 +30,6 @@
     </ol>
     <li>If a player may perform multiple actions on their turn, they may still only resolve one transaction with each of their neighbors.<sup>1,2</sup></li>
     <li>If an agenda is discarded and replaced with another, players who resolved a transaction during the discarded agenda may resolve another transaction during the replacement agenda.<sup>5</sup></li>
-    <li>Players cannot resolve transactions during the strategy phase or the status phase. Players may still negotiate during these phases, but the terms of a deal that involves trade goods cannot be resolved immediately, so that deal is not binding.<sup>2,5</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

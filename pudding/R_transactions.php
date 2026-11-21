@@ -5,6 +5,11 @@
 
 <h2>Notes</h2>
     <ol class="note">
+    <li>Players cannot resolve transactions during the strategy phase or the status phase. Players may still negotiate during these phases, but the terms of a deal that involves trade goods cannot be resolved immediately, so that deal is not binding.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can make transactions during the Action Phase (restricted by neighbors and player turns) and during the Agenda Phase (freely) but not during the Strategy or Status Phases.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Only when its terms resolve immediately.&rdquo;</li>
+        </ul></li>
     <li>Relic fragments may be traded. Relics themselves cannot be.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 94.3: &ldquo;Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens.&rdquo; LRR 73.4: &ldquo;Relics cannot be traded.&rdquo;</li>
@@ -41,11 +46,6 @@
     <li>If an agenda is discarded and replaced with another, players who resolved a transaction during the discarded agenda may resolve another transaction during the replacement agenda.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, asked whether a replacement agenda refreshes &ldquo;the &lsquo;transaction allowance&rsquo;&rdquo;: &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
-        </ul></li>
-    <li>Players cannot resolve transactions during the strategy phase or the status phase. Players may still negotiate during these phases, but the terms of a deal that involves trade goods cannot be resolved immediately, so that deal is not binding.<sup>2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can make transactions during the Action Phase (restricted by neighbors and player turns) and during the Agenda Phase (freely) but not during the Strategy or Status Phases.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Only when its terms resolve immediately.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

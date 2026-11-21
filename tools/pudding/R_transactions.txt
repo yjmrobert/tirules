@@ -1,22 +1,22 @@
 @0
-E1 LRR 94.3: "Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens." LRR 73.4: "Relics cannot be traded."
-E8 PoK rulebook, Relics: "Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged."
-@1
-E1 LRR 17.2a: a captured non-fighter ship or mech is returned "If the player who captured the unit agrees to return it as part of a transaction."
-E8 PoK rulebook p. 10: "A captured non-fighter ship or mech can be returned, as follows: ✦ If the player who captured the unit agrees" as part of a transaction.
-@2
-I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." neighbor status at the time of the transaction is what matters.
-@3
-I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." limit is one per neighbor per turn.
-@4
-E2 RulesPal, "Is a transaction an action, and when during a turn can it happen?": "the active player can make one with each neighbor at any point in their turn, even mid-combat."
-@5
-E2 RulesPal, "When do commodities turn into trade goods, and can I give them and get them back in one transaction?": "A transaction is one simultaneous exchange, so commodities you receive can't be sent back in it; that would be a second transaction."
-@6
-E2 RulesPal, "Is a transaction an action, and when during a turn can it happen?": "the active player can make one with each neighbor at any point in their turn."
-I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." limit is per turn, not per action.
-@7
-E5 Designer ruling, asked whether a replacement agenda refreshes "the 'transaction allowance'": "I would also say that they could perform new transactions."
-@8
 E5 Designer ruling: "You can make transactions during the Action Phase (restricted by neighbors and player turns) and during the Agenda Phase (freely) but not during the Strategy or Status Phases."
 E2 RulesPal, "When is a deal binding?": "Only when its terms resolve immediately."
+@1
+E1 LRR 94.3: "Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens." LRR 73.4: "Relics cannot be traded."
+E8 PoK rulebook, Relics: "Relics cannot be exchanged as part of a transaction even though relic fragments can be exchanged."
+@2
+E1 LRR 17.2a: a captured non-fighter ship or mech is returned "If the player who captured the unit agrees to return it as part of a transaction."
+E8 PoK rulebook p. 10: "A captured non-fighter ship or mech can be returned, as follows: ✦ If the player who captured the unit agrees" as part of a transaction.
+@3
+I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." neighbor status at the time of the transaction is what matters.
+@4
+I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." limit is one per neighbor per turn.
+@5
+E2 RulesPal, "Is a transaction an action, and when during a turn can it happen?": "the active player can make one with each neighbor at any point in their turn, even mid-combat."
+@6
+E2 RulesPal, "When do commodities turn into trade goods, and can I give them and get them back in one transaction?": "A transaction is one simultaneous exchange, so commodities you receive can't be sent back in it; that would be a second transaction."
+@7
+E2 RulesPal, "Is a transaction an action, and when during a turn can it happen?": "the active player can make one with each neighbor at any point in their turn."
+I1 LRR 94.1: "During the active player’s turn, they may resolve up to one transaction with each of their neighbors." limit is per turn, not per action.
+@8
+E5 Designer ruling, asked whether a replacement agenda refreshes "the 'transaction allowance'": "I would also say that they could perform new transactions."

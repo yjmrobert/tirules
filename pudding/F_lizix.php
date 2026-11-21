@@ -143,7 +143,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;ignoring command tokens in the systems they leave.&rdquo; (Stated for the Argent hero.)</li>
         </ul></li>
-    <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.<sup>4</sup>
+    <li>When the L1Z1X player&rsquo;s ships move outside of a tactical action, they may transport units from systems that contain the L1Z1X player&rsquo;s command tokens.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The LRR will be updated to reflect that transportation of units out of systems that contain your command tokens are only applicable during tactical actions. During Movement abilities, you can transport units out of systems that contain your tokens.&rdquo;</li>
         </ul></li>
