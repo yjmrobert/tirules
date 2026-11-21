@@ -323,3 +323,26 @@ R_unit_upgrades.php|- [Notes] For notes about specific generic unit upgrades, se
 R_unit_upgrades.php|- [Notes] For notes about a unit upgrade technology of a specific faction, see that faction's notes.	covered-ok	bulk scan: covered by index.php [Factions nav]
 R_wormhole_nexus.php|- [Notes] As the wormhole nexus becomes active at the end of the Movement step, only units with the 	covered-ok	bulk scan: covered by R_wormhole_nexus.php + R_movement.php [Rules Reference]
 R_wormhole_nexus.php|- [Notes] If the Creuss player moves their Hil Colish flagship into the inactive wormhole nexus, the	covered-ok	bulk scan: covered by R_wormhole_nexus.php [Rules Reference]
+F_winnu.php|- [Lazax Gate Folding (Technology)] The Winnu player may use the component action of Lazax Gate Fold	keep-removed	contradicted by F_winnu.php note (2,3,5): action unusable without controlling Mecatol Rex
+F_winnu.php|- [Mathis Mathinus — Imperial Seal (Hero)] In the case of the Construction strategy card, the comman	keep-removed	old card: TE Construction secondary places no token (R_construction.php note, 2,13)
+F_xxcha.php|- [Elder Qanoj (Commander)] Game effects may prevent the Xxcha player from casting additional votes.	keep-removed	contradicted by RP xxcha-commander-vs-cannot-vote; site notes on rider/Political Secret/Nekro (2,14) cover it
+F_xxcha.php|- [Xxekir Grom — Political Data Nexus (Hero)] If the Xxcha player draws one of the Classified Docume	keep-removed	at odds with source 4 ruling (new agenda drawn); site note @53 covers it; card is replaced by Ω
+F_xxcha.php|- [Archon’s Gift (Breakthrough)] A source of both influence or resources, such as a planet, may be s	keep-removed	duplicate of F_xxcha.php Archon's Gift note (*) with examples nested
+F_yssaril.php|- [Ssruu (Agent)] For notes about an agent of a specific faction, see that faction’s notes. _(no sou	keep-removed	navigation pointer; Ssruu notes already link faction pages
+F_yin.php|- [Dannel of the Tenth Ω — Quantum Dissemination Ω (Hero)] Only the Commit Ground Forces, Ground Com	merged	F_yin.php reworded note to name Commit/Ground Combat/Establish Control steps (661145e)
+R_abilities.php|- [Notes] Multiple action cards with the same name cannot be played during a single timing window to	covered-ok	R_action_cards.php LRR 2.6b note; Related Topics links it
+R_bombardment.php|- [Notes] For notes about Harrow, see the L1Z1X faction notes page. _(no source (navigation link))_	keep-removed	navigation pointer; R_bombardment.php already links F_lizix with Harrow
+R_agenda_phase.php|- [Notes] For notes about specific agenda cards, see the agenda card component notes page. _(no sour	keep-removed	navigation pointer; added /C_agendas to Related Topics instead (8779f13)
+R_breakthroughs.php|- [Notes] For notes about a breakthrough of a specific faction, see that faction's page. _(no source	keep-removed	navigation pointer; faction pages reachable from index nav
+R_capacity.php|- [Notes] Capacity is checked after the winner of a space combat is determined. As such, it is possi	restored	R_capacity.php sub-note (1, I1 LRR 78.10a); matches R_space_combat; RP draw reading rejected (cbb4ab9)
+R_entropic_scars.php|- [Notes] Text abilities that rely on unit abilities, such as the space dock II text ability that de	other	kept out (contradicted by TE 7 + RP); added opposite RP ruling as R_entropic_scars.php sub-note (567deee)
+R_leaders.php|- [Notes] For notes about a leader of a specific faction, see that faction's page. _(no source (navi	keep-removed	navigation pointer
+R_mechs.php|- [Notes] For notes about a mech of a specific faction, see that faction's page. _(no source (naviga	keep-removed	navigation pointer
+R_fleet_pool.php|- [Notes] Fighters and ground forces do not count towards capacity during combat. As such, any numbe	other	deferred: owner researching Fighter II fleet pool during combat
+R_movement.php|- [Notes] An ability may move a player's ship out of a system containing one of the player's faction	keep-removed	contradicted by source 4 Transport and Movement Abilities; R_movement.php note (1,2,4) states the ruling
+R_nebula.php|- [Notes] A player cannot retreat (or similar) into a nebula, since it would not be the active syste	keep-removed	contradicted by source 4 nebula change; R_nebula.php retreat note (4) says the opposite
+R_objective_cards.php|- [Notes] For notes about specific objective cards, see the objective card component notes page. _(n	keep-removed	navigation pointer; added /C_objectives to Related Topics instead (9dc7c31)
+R_reinforcements.php|- [Notes] Captured units are not in any player's reinforcements. _(no source (LRR 17.3 places a capt	keep-removed	contradicted by LRR 17.3; R_capture.php rules text covers both cases
+R_relics.php|- [Notes] For notes about specific relics, see the relic notes page. _(no source (navigation link))_	keep-removed	navigation pointer
+R_warfare.php|- [Notes] If the player with Warfare has no command tokens on the game board, they may still perform	keep-removed	old card: TE Warfare primary removes no command token
+R_wormholes.php|- [Notes] For additional information on how the Creuss interact with wormholes, see their faction no	keep-removed	navigation pointer; page already links F_creuss

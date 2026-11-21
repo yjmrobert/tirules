@@ -98,3 +98,28 @@ Queue B log: logged as `other` ("deferred") so the queue moves on.
 Question: the only note under Share Knowledge (Promissory Note) on F_deepwrought is "If a player gains then loses the Antimass Deflectors technology, their units may remain in and move out of any asteroid fields…". Should it move elsewhere (e.g. under Antimass Deflectors on C_technology, or be reworded to tie it to Share Knowledge)?
 Context: noticed while adding the Share Knowledge elimination note (Queue B, source 6 line 26).
 Unanswered: the owner replied "approved" only.
+
+## R_entropic_scars: "Only unit abilities are removed" vs "cannot be used"
+Question: should R_entropic_scars.php line 12 "Only unit abilities are removed; text abilities are unaffected.<sup>7</sup>" be reworded to "Only unit abilities cannot be used; text abilities are unaffected.<sup>7</sup>", to match the TE rulebook ("cannot be used by or against units inside of an entropic scar") and the new sub-note that units still have their unit abilities?
+Context: raised while adding the Arborec-commander sub-note (Queue C, CHANGES_REVIEW.md:7763).
+Unanswered: the owner replied "approve" only.
+
+## Fighter II and fleet pool during combat (R_fleet_pool.php)
+Deferred by the owner for further research (Queue C, CHANGES_REVIEW.md:8030).
+Removed note:
+> - [Notes] Fighters and ground forces do not count towards capacity during combat. As such, any number of Fighter II may be in a system during combat ... When combat ends however, units will need to be removed to meet capacity and fleet pool requirements. _(no source)_ _(kept out: contradicted by RP (rp_logs conflict: fleet pool checked at all times; unsupported Fighter IIs count against fleet pool); remaining capacity part duplicates the kept sourced note)_
+Against it, 02_RulesPal_TI4_FAQ.md:2122 (`fleet-pool-when-checked`, Community consensus):
+> - A: At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away, before Space Cannon Offense and combat, so you can't use extras to soak hits.
+02_RulesPal_TI4_FAQ.md:2168 (`fighters-without-capacity`, Community consensus):
+> - A: Not normal fighters: any beyond the capacity of your ships and space docks there are removed. Fighter II can move and stay on its own, but Fighter IIs that don't fit in capacity count against your fleet pool like other ships. 
+Site rules text, R_fleet_pool.php:14: "If at any time the number of a player's non-fighter ships in a system exceeds the number of tokens in that player's fleet pool, they choose and remove excess ships in that system".
+Related site notes: R_fleet_pool.php:20-22 (capacity during combat; Fighter II counting toward capacity instead of fleet pool).
+Open question: when a carrier is destroyed mid-combat, do now-unsupported Fighter IIs count against fleet pool immediately, or only at end of combat (capacity is not checked during combat)?
+Queue C log: logged as `other` ("deferred") so the queue moves on.
+
+## support request/bugreport form that makes github issues
+
+## R_relics: add a Related Topics link to /C_relics?
+Question: should R_relics.php Related Topics get `<li><a href="/C_relics">Relic Notes</a></li>`, matching the links added to R_agenda_phase (/C_agendas, 8779f13) and R_objective_cards (/C_objectives, 9dc7c31)?
+Context: Queue C, CHANGES_REVIEW.md:9579 (removed navigation pointer "For notes about specific relics, see the relic notes page."). The link was drafted in the working tree, then reverted.
+Unanswered: the owner replied "keep all removed" only.
