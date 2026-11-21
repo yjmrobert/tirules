@@ -42,8 +42,10 @@ I2 RulesPal: "a cancelled card is treated as never having been played."
 I1 LRR FAQ (for Sabotage): it "can be played after card targets … have been decided on."
 @17
 I1 LRR FAQ (for Sabotage): "after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
+I2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
+I5 Designer ruling: "For sabotage, you would play after the target is chosen."
 @18
-N No source found.
+I5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
 @19
 I1 LRR FAQ (for Sabotage): it "must be played before any effects have been resolved, votes have been cast, or any dice have been rolled."
 @20
@@ -61,11 +63,13 @@ E4 Designer ruling on Il Na Viroset, which asks "Is this different from Nullific
 E2 RulesPal, "When must Xxcha use Nullification Field, and what can still happen after it ends the turn?": "no further after-activation abilities."
 @26
 E4 Same ruling: "End of turn abilities can still be used."
+I6 Community consensus: "A previous ruling has stated that if an effect ends a player's turn, they may still use 'at the end of your turn' abilities."
 @27
 E2 RulesPal, "When several players fire Space Cannon Offense, are they resolved together?": "a unit destroyed earlier, such as an Xxcha flagship, never gets to shoot."
 @28
 E1 LRR 6.3: "A planet is treated as being adjacent to the system that contains that planet."
 I2 RulesPal, "Is a system adjacent to itself, and are planets in the same system adjacent?": "Planets are treated as adjacent to other planets in their system and in neighboring systems"
+I5 Designer ruling (maverikki, Nov 29, 2017): "Yes, the second planet is considered adjacent for the purpose of peace accords." Planet in the same system counts as adjacent.
 @29
 E4 Designer ruling: "Can the Xxcha Agent, Ggrocuto Rinn, be used to 'ready' a planet that is not exhausted? A: The target planet must be exhausted."
 E2 RulesPal, "Can the Xxcha agent target a ready planet just to remove an infantry?": "No — you can't ready a planet that is already ready, so the target must be exhausted for any of it to work."

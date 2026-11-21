@@ -27,7 +27,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup></li>
+    <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li><i>Sling Relay</i> cannot be used without producing a unit.<sup>2,4</sup></li>
     </ol>
 
@@ -177,7 +177,7 @@
         <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.<sup>*</sup></li>
         <li>Examples of abilities that may add units at the start of space combat include a combination of the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the ability of the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup></li>
     </ol>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup></li>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools">Sarween Tools</a></h2>
@@ -217,7 +217,7 @@
     <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.<sup>2</sup></li>
     <li>A player explores a newly controlled planet before resolving <i>Integrated Economy</i>, so any attachment gained from that exploration affects the planet&rsquo;s resource value.<sup>2</sup></li>
     <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.<sup>2,5</sup></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
     <li>Effects that let a player produce a unit for less than its cost, such as the <a href="/F_nomad">Nomad</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a>, do not change that unit&rsquo;s cost.<sup>*</sup></li>
     </ol>
 </article>

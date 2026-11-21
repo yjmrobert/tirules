@@ -5,9 +5,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Abandoned%20Warehouses">Abandoned Warehouses</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.3a: &ldquo;A player cannot have more commodities than the commodity value printed on their faction sheet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;A player cannot&rdquo; have more commodities than the value on their faction sheet.</li>
         </ul></li>
     </ol>
 
@@ -96,9 +97,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base">Functioning Base</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.3a: &ldquo;A player cannot have more commodities than the commodity value printed on their faction sheet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;A player cannot&rdquo; have more commodities than the value on their faction sheet.</li>
         </ul></li>
     </ol>
 
@@ -173,9 +175,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Local%20Fabricators">Local Fabricators</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.3a: &ldquo;A player cannot have more commodities than the commodity value printed on their faction sheet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;A player cannot&rdquo; have more commodities than the value on their faction sheet.</li>
         </ul></li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>

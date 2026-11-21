@@ -17,7 +17,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3</sup></li>
+    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup></li>
     <li>Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.<sup>2,5,6</sup></li>
     <ol><li>If some of those ships are fighters II, they may instead count toward that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.<sup>2</sup></li></ol>
     <li>During movement, a ship may move through a system regardless of how many ships are in that system relative to the fleet pool limit.<sup>2,5</sup></li>

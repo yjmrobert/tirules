@@ -13,9 +13,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;roll one die for each of up to 2 cruisers or destroyers.&rdquo; A removed ship cannot roll.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Ambush.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
     <li>A ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup>
         <ul>
@@ -125,9 +126,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup>
+    <li>The produced unit must be paid for.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;you still pay for it.&rdquo;</li>
         </ul></li>
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup>
         <ul>

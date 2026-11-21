@@ -39,7 +39,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The produced units must be paid for.<sup>1</sup></li>
+    <li>The produced units must be paid for.<sup>1,2</sup></li>
     <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
     <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their war sun or flagship.<sup>*</sup></li>
     <li>If the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup></li>

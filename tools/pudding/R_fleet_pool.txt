@@ -2,6 +2,7 @@
 E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."
 E2 RulesPal, "If my carrier is destroyed in combat …?": "capacity isn't checked during combat, so they stay while it lasts."
 I3 Learn to Play: the excess units are destroyed "If at any time" capacity is exceeded, outside combat.
+E5 Designer ruling: "During a combat, the fighters would persist until the end of combat."
 @1
 E2 RulesPal, "Can I deliberately go over my fleet pool by moving or producing, then remove ships of my choice?": "Yes — nothing stops you; you just remove the excess right away, choosing which."
 E5 Designer ruling: "Once all ships are in, fleet supply is in violation and must immediately be dealt with."

@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Abandoned%20Warehouses">Abandoned Warehouses</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup></li>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Biotic%20Research%20Facility">Biotic Research Facility</a></h2>
@@ -64,7 +64,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base">Functioning Base</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup></li>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Gamma%20Relay">Gamma Relay</a></h2>
@@ -107,7 +107,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Local%20Fabricators">Local Fabricators</a></h2>
     <ol class="note">
-    <li>A player cannot have more commodities than their commodity value.<sup>1</sup></li>
+    <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup></li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 

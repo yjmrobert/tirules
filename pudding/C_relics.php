@@ -111,9 +111,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Heart%20of%20Ixth">Heart of Ixth</a></h2>
     <ol class="note">
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Are the &lsquo;0&rsquo; faces of the ten-sided dice &hellip; intended to represent the result of a &lsquo;10&rsquo;? A: Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the 0 on the ten-sided die count as 0 or 10?&rdquo;: &ldquo;10 &mdash; the Living Rules Reference FAQ confirms the 0 face is a 10.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -310,9 +311,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play.&rdquo;</li>
         </ul></li>
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Are the &lsquo;0&rsquo; faces of the ten-sided dice &hellip; intended to represent the result of a &lsquo;10&rsquo;? A: Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the 0 on the ten-sided die count as 0 or 10?&rdquo;: &ldquo;10 &mdash; the Living Rules Reference FAQ confirms the 0 face is a 10.&rdquo;</li>
         </ul></li>
     </ol>
 

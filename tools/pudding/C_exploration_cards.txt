@@ -1,5 +1,6 @@
 @0
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+I3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
 @1
 E4 Designer ruling: "Q: Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @2
@@ -21,6 +22,7 @@ E1 LRR 23.4a: "that player can remove a unit from any system that does not conta
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @9
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+I3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
 @10
 E4 Designer ruling: "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
 @11
@@ -44,6 +46,7 @@ N No source found.
 E6 Community consensus: "Q: Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded."
 @20
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+I3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
 @21
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."

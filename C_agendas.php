@@ -141,7 +141,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions">Executive Sanctions</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>*</sup></li>
+    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
@@ -210,7 +210,7 @@
     <ol class="note">
     <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>2</sup></li>
     <ol><li>Gaining a fixed number of commodities does not trigger <i>Minister of Commerce</i>, even if doing so would result in its owner having commodities equal to their commodity value.<sup>*</sup></li></ol>
-    <li>All trade goods are gained together.<sup>*</sup></li>
+    <li>All trade goods are gained together.<sup>2</sup></li>
     <li>The owner of Minister of Commerce gains trade goods from Minister of Commerce when they replenish commodities, even if they already have their maximum number of commodities.<sup>2</sup></li>
     </ol>
 
@@ -222,7 +222,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
     <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>2</sup></li>
-    <li>The produced units must be paid for.<sup>1</sup></li>
+    <li>The produced units must be paid for.<sup>1,2</sup></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup></li>
     <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on the game board, they may first remove a space dock from a system that does not contain their command token.<sup>1</sup></li></ol>
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup></li>
@@ -293,7 +293,7 @@
     <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>*</sup></li>
     <li>When the <i>Nexus Sovereignty</i> law is in play, units cannot move through the alpha and beta wormholes in the wormhole nexus, even by effects that move ships outside of the movement step of a tactical action, such as while retreating.<sup>*</sup></li>
     <li>When the <i>Nexus Sovereignty</i> law is in play, hits may still be produced against ships in the active system by units with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.<sup>*</sup></li>
-    <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>*</sup></li>
+    <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure">Political Censure</a></h2>

@@ -43,9 +43,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many times does a PDS fire in one tactical action?&rdquo;: &ldquo;Once at Space Cannon Offense, after movement, however many ships came in, plus once more at Space Cannon Defense if ground forces are committed to its planet.&rdquo;</li>
         </ul></li>
-    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1</sup>
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Yes, the &lsquo;0&rsquo; face is a &lsquo;10&rsquo; result.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the 0 on the ten-sided die count as 0 or 10?&rdquo;: &ldquo;10 &mdash; the Living Rules Reference FAQ confirms the 0 face is a 10.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

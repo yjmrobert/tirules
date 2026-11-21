@@ -86,9 +86,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>*</sup>
+    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Promises about future actions, and if-then conditions, are non-binding and can be broken.&rdquo;</li>
         </ul></li>
     <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="/F_nekro">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup>
         <ul>
@@ -208,13 +208,15 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): &ldquo;can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on).&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;For sabotage, you would play after the target is chosen.&rdquo;</li>
         </ul></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup>
+        <li>The value of any variable cost to be paid.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: &ldquo;Bribery. Player declares how many TGs to be spent and which side he&rsquo;s voting for. Sabotage is played before he actually enacts it.&rdquo; Dane: &ldquo;This list is mostly correct with one correction&rdquo; (the correction concerns Focused Research only).</li>
         </ul></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup>
@@ -229,9 +231,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup>
+    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li>
     </ol>
 

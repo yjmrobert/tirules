@@ -33,6 +33,7 @@ N No source found.
 E2 RulesPal, "Can Creuss use a wormhole token to get into an asteroid field protected by Saar's Chaos Mapping?": "Creuss can place the token there but still can't activate the system."
 @15
 E2 RulesPal, "How does Saar's Chaos Mapping production work?": "no unit's Production ability is used, so Sarween Tools doesn't apply."
+I1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No, 'Sarween Tools' is only used with the 'Production' ability."
 @16
 E2 RulesPal, "Are Saar Floating Factories ships, and do they count against the fleet pool?": "No — Floating Factories are never ships … They don't count against your fleet pool."
 @17
@@ -103,6 +104,7 @@ E4 Designer ruling: "When leaving a Nebula, is Clan of Saar's agent, Mendosa, ap
 N No source found.
 @44
 I1 LRR 6.2a: "A unit or planet is adjacent to all system tiles that are adjacent to the system tile that contains that unit or planet. a A system is not adjacent to itself." a system is not adjacent to itself, so a unit in it is not adjacent to it.
+E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "No — a system isn't adjacent to itself."
 @45
 N No source found.
 @46

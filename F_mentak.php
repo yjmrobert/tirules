@@ -5,7 +5,7 @@
     <ol class="note">
     <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect dice rolls made when resolving the <sc>Ambush</sc> ability.<sup>2</sup></li>
     <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.<sup>2</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup></li>
     <li>A ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup></li>
     <ol><li>If the chosen ship does so, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played.<sup>1</sup></li></ol>
     <li>Ships that roll dice for <sc>Ambush</sc> still make combat rolls as normal, starting in the first round of combat.<sup>2</sup></li>
@@ -44,7 +44,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup></li>
+    <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup></li>
     <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.<sup>1,3</sup></li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may use their <i>Salvage Operations</i> to produce a generic ship of the same type, or their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, as appropriate.<sup>1</sup></li>

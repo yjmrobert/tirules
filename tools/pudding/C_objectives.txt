@@ -12,6 +12,7 @@ E2 RulesPal: "Trade goods can stand in for resources or influence there, though 
 I1 LRR 19.2: trade goods "can be spent by that player as resources, influence, or to resolve certain game effects."
 @4
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @5
 N No source found.
 @6
@@ -61,6 +62,7 @@ E3 Learn to Play: "To score such an objective, a player must pay the specified c
 I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @26
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @27
 N No source found.
 @28
@@ -152,6 +154,7 @@ N No source found. Same ruling as the Archon's Gift note on F_xxcha.php ("does n
 E2 RulesPal, "Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?": "No — 'non-home' excludes every home system, including other players' that you control."
 @67
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @68
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus: "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
@@ -254,6 +257,7 @@ N No source found.
 N No source found.
 @109
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @110
 N No source found.
 @111
@@ -282,11 +286,13 @@ E3 Learn to Play: "To score such an objective, a player must pay the specified c
 E2 RulesPal, "Where do Saar Floating Factories go …?": "In the space area, never on a planet."
 @120
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @121
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
 @122
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @123
 N No source found.
 @124
@@ -307,6 +313,7 @@ E2 RulesPal: "tiles beside hyperlanes, and a system enclosed by them, aren't edg
 N No source found.
 @131
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
+I2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
 @132
 N No source found.
 @133

@@ -55,10 +55,12 @@ E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the 
 N No source found.
 @23
 E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
+I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
 @24
 N No source found.
 @25
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No, 'Sarween Tools' is only used with the 'Production' ability."
+I2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 @26
 N No source found. LRR 68.1d says Arborec space dock "'Production' value … cannot be used to produce infantry"; the commander's ability is not Production.
 @27

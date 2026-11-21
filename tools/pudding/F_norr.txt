@@ -42,6 +42,7 @@ E4 Designer ruling: "Can the Sardakk N'orr player commit ground forces via their
 E2 RulesPal, "Can the Sardakk commander be used when defending?": "only the active player commits ground forces"
 @18
 E4 Designer ruling: "only the active player can use BOMBARDMENT."
+I3 Learn to Play, Bombardment: "A player uses this ability during the 'Bombardment' step of an invasion."
 @19
 E4 Designer ruling: "Can the L1Z1X use harrow when they're defending during ground combat? A: No, only the active player can use BOMBARDMENT."
 @20

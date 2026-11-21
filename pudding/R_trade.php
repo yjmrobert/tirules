@@ -53,9 +53,10 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Skootur, Oct 19, 2017), on Trade: &ldquo;&mdash;Binding: Give me two trade goods and I&rsquo;ll let you refresh your commodities without spending a command token. &mdash;Non-Binding: You get to refresh for free now, but must trade me 2 for 1 after the trade card resolves.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Only when its terms resolve immediately &hellip; Promises about future actions, and if-then conditions, are non-binding and can be broken.&rdquo;</li>
         </ul></li>
-    <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
+    <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player would refresh their commodities but already has the maximum amount, can another player still play that player&rsquo;s &lsquo;Trade Agreement&rsquo; promissory note against them? A: Yes. Even if that player gains zero commodities.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Minister of Commerce, Industry, Peace and War interact &hellip;?&rdquo;: &ldquo;Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

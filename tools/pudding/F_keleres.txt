@@ -23,6 +23,7 @@ E4 Designer ruling: "How does the Council Keleres faction ability Law's Order in
 I2 RulesPal, "Can one player play several riders on the same agenda, on different outcomes?": "Yes — FFG confirmed by email that you can play several riders in the same vote."
 @10
 E2 RulesPal, "Can one player play several riders on the same agenda, on different outcomes?": "Yes — FFG confirmed by email that you can play several riders in the same vote."
+I1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 @11
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 @12

@@ -10,7 +10,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When an effect, such as retreating, moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>2</sup></li>
+    <li>When an effect, such as retreating, moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

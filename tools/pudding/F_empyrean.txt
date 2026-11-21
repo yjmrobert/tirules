@@ -30,7 +30,7 @@ N No source found.
 @14
 N No source found.
 @15
-N No source found.
+I2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
 @16
 E6 Community consensus: "If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it."
 @17
@@ -84,8 +84,10 @@ N No source found.
 N No source found.
 @37
 I1 LRR FAQ (for Sabotage): "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
+I2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
+I5 Designer ruling: "For sabotage, you would play after the target is chosen."
 @38
-N No source found.
+I5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
 @39
 N No source found.
 @40
@@ -93,7 +95,7 @@ N No source found.
 @41
 N No source found.
 @42
-N No source found.
+I2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
 @43
 E6 Community consensus: "Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means."
 @44

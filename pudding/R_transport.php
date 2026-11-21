@@ -5,9 +5,10 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.<sup>5</sup>
+    <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> FFG answer: &ldquo;Because there is no partial movement, the Advanced Fighters can either reach the active system from their current system or they cannot. It is not possible to move them part of the way and have a carrier do the rest of the work.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 58.6: &ldquo;The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously.&rdquo; movement is declared up front and simultaneous.</li>
         </ul></li>
     <li>A ship may transport units in its system as it retreats or is otherwise moved out of the active system.<sup>1,2,5,10</sup>
         <ul>

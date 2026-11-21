@@ -134,7 +134,7 @@ E2 RulesPal, "What does Enforced Travel Ban do": "the systems stay adjacent for 
 @61
 E2 RulesPal, "What does Enforced Travel Ban do": "Against: every PDS in or next to a system with any wormhole, gamma and delta included, is destroyed."
 @62
-N No source found.
+I2 RulesPal, "Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?": "Crafty does beat effects that cap hand size, such as Executive Sanctions." Yssaril is unaffected by Executive Sanctions hand cap.
 @63
 E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
 @64
@@ -192,7 +192,7 @@ I2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?
 @88
 N No source found.
 @89
-N No source found.
+I2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step."
 @90
 E2 RulesPal: "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
 @91
@@ -201,6 +201,7 @@ N No source found.
 I2 RulesPal: "Minister of Industry lets you produce in that system right after placing the dock."
 @93
 E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
+I2 RulesPal, "What can Integrated Economy produce?": "up to the new planet's resource value in cost, paid normally."
 @94
 E1 LRR 85.4: "A player can have a maximum of one space dock on each planet."
 @95
@@ -279,7 +280,7 @@ N No source found.
 @127
 N No source found.
 @128
-N No source found.
+I2 RulesPal, "What does Enforced Travel Ban do": "the systems stay adjacent for everything else."
 @129
 E2 RulesPal, "How do Confusing and Confounding Legal Text interact …?": "only the player originally elected can play them. They act before the outcome resolves."
 @130

@@ -103,7 +103,7 @@
     <ol class="note">
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>4</sup></li>
     <ol><li>Other players, including the Mahact player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>4</sup></li></ol>
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup></li>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup></li>
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup></li>
     <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup></li>
     </ol>

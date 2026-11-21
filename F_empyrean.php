@@ -38,7 +38,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>*</sup></li>
+    <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>2</sup></li>
     <li>If a system is separated from an anomaly by the Empyrean player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> token, <i>Aetherstream</i> can only be used for that system if the Empyrean player allows it. This includes the <a href="/F_nekro">Nekro</a> player using a copy of <i>Aetherstream</i>.<sup>6</sup></li>
     </ol>
 
@@ -85,13 +85,13 @@
     <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup></li>
     <li>A player playing an action card announces the following before a Watcher may be triggered:<sup>*</sup></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup></li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup></li>
+        <li>The value of any variable cost to be paid.<sup>5</sup></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by a Watcher when it is originally played.<sup>*</sup></li>
-    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup></li>
+    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>

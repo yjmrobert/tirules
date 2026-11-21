@@ -40,6 +40,7 @@ E2 RulesPal, "Can units leave a system with my command token … and does Dominu
 E4 Designer ruling: "If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down."
 @19
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
 @20
 E14 Codex II: "is an additional agent that can be used to build structures. Like other agents, its effect can be lent to other players."
 @21
@@ -113,6 +114,7 @@ E6 Community consensus, "Silver Flame: Is Saar affected by the 'can’t score pu
 E6 Community consensus: "Does the Fracture enter play after any Silver Flame roll or only after an unsuccessful one? A: The Silver Flame always puts the Fracture into play."
 @55
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
+E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
 @56
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."

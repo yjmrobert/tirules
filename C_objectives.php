@@ -19,7 +19,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Become%20a%20Legend">Become a Legend</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.<sup>*</sup></li>
     <ol>
         <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
@@ -83,7 +83,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Control%20the%20Borderlands">Control the Borderlands</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.<sup>*</sup></li>
     <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Control the Borderlands</i>.<sup>*</sup></li></ol>
     <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
@@ -204,7 +204,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Explore%20Deep%20Space">Explore Deep Space</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
@@ -326,7 +326,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.<sup>*</sup></li>
     <ol>
         <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Make History</i>.<sup>*</sup></li>
@@ -379,13 +379,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Patrol%20Vast%20Territories">Patrol Vast Territories</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Populate%20the%20Outer%20Rim">Populate the Outer Rim</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.<sup>*</sup></li>
     <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system toward the requirements of <i>Populate the Outer Rim</i>.<sup>*</sup></li></ol>
     <li>The units may be in another player&rsquo;s home system.<sup>*</sup></li>
@@ -400,7 +400,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse">Produce en Masse</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup></li>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border">Protect the Border</a></h2>

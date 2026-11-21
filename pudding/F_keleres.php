@@ -60,9 +60,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can one player play several riders on the same agenda, on different outcomes?&rdquo;: &ldquo;Yes &mdash; FFG confirmed by email that you can play several riders in the same vote.&rdquo;</li>
         </ul></li>
-    <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>2</sup>
+    <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can one player play several riders on the same agenda, on different outcomes?&rdquo;: &ldquo;Yes &mdash; FFG confirmed by email that you can play several riders in the same vote.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes.&rdquo;</li>
         </ul></li></ol>
     <li>The effect of a successful <i>Keleres Rider</i> will be resolved after the effect of the agenda.<sup>2</sup>
         <ul>

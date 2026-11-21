@@ -32,7 +32,7 @@
     <li>A player may still use abilities such as action cards or <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> that affect the Saar player&rsquo;s units located in asteroid fields.<sup>*</sup></li>
     <li>If an asteroid field contains only non&ndash;ship units belonging to the Saar player, it may still be activated by other players.<sup>*</sup></li>
     <li>The <a href="/F_creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup></li>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
@@ -89,7 +89,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A unit is not adjacent to the system it is in.<sup>1</sup></li>
+    <li>A unit is not adjacent to the system it is in.<sup>1,2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>

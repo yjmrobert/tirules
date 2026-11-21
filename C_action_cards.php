@@ -87,7 +87,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat">Coup D&rsquo;etat</a></h2>
     <ol class="note">
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>6</sup></li>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup></li>
     <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="/F_winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup></li>
     </ol>
 
@@ -369,7 +369,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot">Lucky Shot</a></h2>
     <ol class="note">
     <li>A player cannot use <i>Lucky Shot</i> against their own units.<sup>1,2,5</sup></li>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup></li>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
@@ -394,7 +394,7 @@
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Master Plan</i> to perform an additional action.<sup>2</sup></li>
     <li>A player cannot use <i>Master Plan</i> to pass on the same turn they performed an action.<sup>*</sup></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>*</sup></li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>

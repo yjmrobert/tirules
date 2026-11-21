@@ -1,5 +1,6 @@
 @0
 E5 FFG answer: "Because there is no partial movement, the Advanced Fighters can either reach the active system from their current system or they cannot. It is not possible to move them part of the way and have a carrier do the rest of the work."
+I1 LRR 58.6: "The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously." movement is declared up front and simultaneous.
 @1
 E1 LRR 58.5: "When a ship with a capacity value moves or is moved, it may transport ground forces and fighters."
 E2 RulesPal, "Can I retreat or Skilled Retreat into, or carry units out of, systems that contain my command token?": "retreating ships can carry units out of the combat system even if your token is there."

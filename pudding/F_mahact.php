@@ -261,9 +261,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li></ol>
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         </ul></li>
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup>
         <ul>

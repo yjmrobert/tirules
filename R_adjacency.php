@@ -14,7 +14,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A unit is not adjacent to the system it is in.<sup>2</sup></li>
+    <li>A unit is not adjacent to the system it is in.<sup>1,2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

@@ -5,11 +5,12 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3</sup>
+    <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 16.4c: &ldquo;A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my carrier is destroyed in combat &hellip;?&rdquo;: &ldquo;capacity isn&rsquo;t checked during combat, so they stay while it lasts.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: the excess units are destroyed &ldquo;If at any time&rdquo; capacity is exceeded, outside combat.</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;During a combat, the fighters would persist until the end of combat.&rdquo;</li>
         </ul></li>
     <li>Ships may be moved into or produced in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit.<sup>2,5,6</sup>
         <ul>

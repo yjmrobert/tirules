@@ -25,7 +25,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>After playing <i>Keleres Rider</i>, a player may use additional abilities, including playing other rider cards.<sup>2</sup></li>
-    <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>2</sup></li></ol>
+    <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup></li></ol>
     <li>The effect of a successful <i>Keleres Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Keleres Rider</i>.<sup>1</sup></li>
     <li>A player who cannot play action cards may still play a <i>Keleres Rider</i>.<sup>*</sup></li>

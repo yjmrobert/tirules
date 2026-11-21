@@ -25,10 +25,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Ground forces may be transported.<sup>1,5</sup>
+    <li>Ground forces may be transported.<sup>1,2,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 16.1: &ldquo;A unit&rsquo;s capacity value indicates the maximum combined number of fighters and ground forces that it can transport.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling on retreats: &ldquo;the number you can attempt to move out of the system is still limited by your ships capacity.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;ships can pick up ground forces from planets.&rdquo;</li>
         </ul></li>
     <li>Ships moving out of a gravity rift with <sc>Foresight</sc> must roll for removal.<sup>1,2,3,4</sup>
         <ul>

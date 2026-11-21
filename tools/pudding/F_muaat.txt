@@ -16,6 +16,7 @@ N No source found.
 N No source found.
 @8
 E1 LRR FAQ: "a unit that is produced must always be paid for."
+I2 RulesPal, "What can Integrated Economy produce?": "up to the new planet's resource value in cost, paid normally."
 @9
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No."
 @10

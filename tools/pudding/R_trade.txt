@@ -24,3 +24,4 @@ E5 Designer ruling (Skootur, Oct 19, 2017), on Trade: "—Binding: Give me two t
 I2 RulesPal, "When is a deal binding?": "Only when its terms resolve immediately … Promises about future actions, and if-then conditions, are non-binding and can be broken."
 @11
 E1 LRR FAQ: "If a player would refresh their commodities but already has the maximum amount, can another player still play that player's 'Trade Agreement' promissory note against them? A: Yes. Even if that player gains zero commodities."
+E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."

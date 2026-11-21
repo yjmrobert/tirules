@@ -60,9 +60,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup>
+    <li>The produced unit must be paid for.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When an ability other than &lsquo;Production&rsquo; allows you to produce one or more units, do you have to pay &hellip;? A: Yes, a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;you still pay for it.&rdquo;</li>
         </ul></li>
     <li><i>Sling Relay</i> cannot be used without producing a unit.<sup>2,4</sup>
         <ul>
@@ -439,10 +440,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from Exotrireme II, Assault Cannon or other &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;sustain damage cannot be used against abilities that &lsquo;destroy&rsquo;.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -532,10 +534,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;ships appear in that system, unless enemy ships are there.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> FFG ruling (eumaies, Feb 21, 2018): &ldquo;You can build ships normally, but if enemy ships are present, you cannot.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;It isn&rsquo;t a Production ability, so Sarween Tools &hellip; don&rsquo;t apply.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
         </ul></li>
     <li>Effects that let a player produce a unit for less than its cost, such as the <a href="/F_nomad">Nomad</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a>, do not change that unit&rsquo;s cost.<sup>*</sup>
         <ul>

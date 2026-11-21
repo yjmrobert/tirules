@@ -13,7 +13,7 @@
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Promissory_Note:~:text=Acquiescence">Acquiescence</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
-    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>5</sup></li>
+    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup></li>
     <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which one strategy card from each player are swapped.<sup>*</sup></li>
     </ol>
 

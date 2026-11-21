@@ -94,13 +94,15 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): it &ldquo;can be played after card targets &hellip; have been decided on.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): &ldquo;after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on).&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;For sabotage, you would play after the target is chosen.&rdquo;</li>
         </ul></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup>
+        <li>The value of any variable cost to be paid.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: &ldquo;Bribery. Player declares how many TGs to be spent and which side he&rsquo;s voting for. Sabotage is played before he actually enacts it.&rdquo; Dane: &ldquo;This list is mostly correct with one correction&rdquo; (the correction concerns Focused Research only).</li>
         </ul></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>1</sup>
@@ -136,9 +138,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must Xxcha use Nullification Field, and what can still happen after it ends the turn?&rdquo;: &ldquo;no further after-activation abilities.&rdquo;</li>
         </ul></li></ol>
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;End of turn abilities can still be used.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -152,10 +155,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2</sup>
+    <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 6.3: &ldquo;A planet is treated as being adjacent to the system that contains that planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a system adjacent to itself, and are planets in the same system adjacent?&rdquo;: &ldquo;Planets are treated as adjacent to other planets in their system and in neighboring systems&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (maverikki, Nov 29, 2017): &ldquo;Yes, the second planet is considered adjacent for the purpose of peace accords.&rdquo; Planet in the same system counts as adjacent.</li>
         </ul></li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.<sup>2,4</sup>
         <ul>

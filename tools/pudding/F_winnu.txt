@@ -4,6 +4,7 @@ E2 RulesPal, "If Winnu place a mech with Hope's End …?": "a dock placed by Win
 E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Acquiescence".
 @2
 E5 Designer ruling: "In both the situations you mentioned there (Quantum Datahub Node and Acquiescence) the player who picked the strategy card originally would get the trade goods."
+I2 RulesPal, "How does Hacan's Quantum Datahub Node swap strategy cards?": "trade goods were already collected when the cards were picked."
 @3
 N No source found.
 @4

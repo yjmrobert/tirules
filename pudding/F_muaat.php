@@ -65,9 +65,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The produced units must be paid for.<sup>1</sup>
+    <li>The produced units must be paid for.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;up to the new planet&rsquo;s resource value in cost, paid normally.&rdquo;</li>
         </ul></li>
     <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup>
         <ul>

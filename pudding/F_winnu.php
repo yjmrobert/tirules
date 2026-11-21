@@ -21,9 +21,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Acquiescence&rdquo;.</li>
         </ul></li>
-    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>5</sup>
+    <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;In both the situations you mentioned there (Quantum Datahub Node and Acquiescence) the player who picked the strategy card originally would get the trade goods.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Hacan&rsquo;s Quantum Datahub Node swap strategy cards?&rdquo;: &ldquo;trade goods were already collected when the cards were picked.&rdquo;</li>
         </ul></li>
     <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which one strategy card from each player are swapped.<sup>*</sup>
         <ul>

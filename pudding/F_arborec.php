@@ -136,17 +136,19 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Dirzuga%20Rophal">Dirzuga Rophal</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup>
+    <li>The produced unit must be paid for.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When an ability other than &lsquo;Production&rsquo; allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;you still pay for it.&rdquo;</li>
         </ul></li>
     <li>A ship may be produced only if no other player currently has ships in that system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>
         </ul></li>
     <li>The Arborec player may produce an infantry, even if the only unit with the <a href="/R_production"><sc>Production</sc></a> ability in the active system is their space dock.<sup>*</sup>
         <ul>

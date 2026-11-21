@@ -340,9 +340,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions">Executive Sanctions</a></h2>
     <ol class="note">
-    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>*</sup>
+    <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;Crafty does beat effects that cap hand size, such as Executive Sanctions.&rdquo; Yssaril is unaffected by Executive Sanctions hand cap.</li>
         </ul></li>
     </ol>
 
@@ -494,9 +494,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>All trade goods are gained together.<sup>*</sup>
+    <li>All trade goods are gained together.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step.&rdquo;</li>
         </ul></li>
     <li>The owner of Minister of Commerce gains trade goods from Minister of Commerce when they replenish commodities, even if they already have their maximum number of commodities.<sup>2</sup>
         <ul>
@@ -518,9 +518,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Minister of Industry lets you produce in that system right after placing the dock.&rdquo;</li>
         </ul></li>
-    <li>The produced units must be paid for.<sup>1</sup>
+    <li>The produced units must be paid for.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When an ability other than &lsquo;Production&rsquo; allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;up to the new planet&rsquo;s resource value in cost, paid normally.&rdquo;</li>
         </ul></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup>
         <ul>
@@ -703,9 +704,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>*</sup>
+    <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What does Enforced Travel Ban do&rdquo;: &ldquo;the systems stay adjacent for everything else.&rdquo;</li>
         </ul></li>
     </ol>
 

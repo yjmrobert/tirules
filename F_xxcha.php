@@ -33,8 +33,8 @@
     <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>2</sup></li>
     <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>1</sup></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup></li>
-        <li>The value of any variable cost to be paid.<sup>*</sup></li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup></li>
+        <li>The value of any variable cost to be paid.<sup>5</sup></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>1</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Instinct Training</i>.<sup>*</sup></li>
@@ -47,7 +47,7 @@
     <ol class="note">
     <li>Once the Xxcha player resolves the ability of <i>Nullification Field</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>2,4</sup></li>
     <ol><li>Other players, including the Xxcha player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>2</sup></li></ol>
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4</sup></li>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
@@ -57,7 +57,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2</sup></li>
+    <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2,5</sup></li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.<sup>2,4</sup></li>
     <li>Ggrocuto Rinn may ready a planet controlled by another player. If that planet is in a system adjacent to a planet the Xxcha player controls, the infantry removed may belong to another player.<sup>2</sup></li>
     </ol>

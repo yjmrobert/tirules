@@ -107,9 +107,10 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Sardakk N&rsquo;orr player commit ground forces via their commander, G&rsquo;hom Sek&rsquo;kus, on defense? A: No, only the active player can commit ground forces.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Sardakk commander be used when defending?&rdquo;: &ldquo;only the active player commits ground forces&rdquo;</li>
         </ul></li>
-    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
         </ul></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup>
         <ul>

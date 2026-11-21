@@ -56,9 +56,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Dirzuga%20Rophal">Dirzuga Rophal</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The produced unit must be paid for.<sup>1</sup></li>
+    <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li>A ship may be produced only if no other player currently has ships in that system.<sup>*</sup></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1</sup></li>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
     <li>The Arborec player may produce an infantry, even if the only unit with the <a href="/R_production"><sc>Production</sc></a> ability in the active system is their space dock.<sup>*</sup></li>
     <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,3,4</sup></li>
     <li>A unit with <a href="/R_production"><sc>Production</sc></a> in an entropic scar still has <a href="/R_production"><sc>Production</sc></a>, even though it cannot use it. As such, Dirzuga Rophal may still be used in that system.<sup>2</sup></li>

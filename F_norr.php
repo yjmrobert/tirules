@@ -45,7 +45,7 @@
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
     <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup></li>
     <li>The N&rsquo;orr player may only commit ground forces as the active player.<sup>2,4</sup></li>
-    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>4</sup></li>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup></li>
     <ol>

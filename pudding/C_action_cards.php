@@ -195,9 +195,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat">Coup D&rsquo;etat</a></h2>
     <ol class="note">
-    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>6</sup>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;A previous ruling has stated that if an effect ends a player&rsquo;s turn, they may still use &lsquo;at the end of your turn&rsquo; abilities.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
     <li><i>Coup D&rsquo;etat</i> cannot be played when a player resolves the primary ability of a strategy card through a component action, such as with the <a href="/F_winnu">Winnu</a> player&rsquo;s hero, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a>, as that is not a strategic action.<sup>2</sup>
         <ul>
@@ -832,11 +833,12 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;abilities that destroy units can only be used against other players&rsquo; units and planets.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Yin4Life, 12/10/2018): &ldquo;No, You cannot use Lucky Shot to target one of your own ships.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>2,5</sup>
+    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from &hellip; &lsquo;destroy&rsquo; effects?&rdquo;: &ldquo;No &mdash; Sustain Damage only cancels hits, and these effects destroy units without producing hits.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (on Exotrireme II and Assault Cannon): &ldquo;sustain damage cannot be used against abilities that &lsquo;destroy&rsquo;.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 87.5: &ldquo;The &lsquo;Sustain Damage&rsquo; ability cannot be used to cancel an effect that directly destroys a unit.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -892,9 +894,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>*</sup>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is canceled, they are not required to perform an alternate second action on that turn.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li>
     </ol>
 

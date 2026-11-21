@@ -37,9 +37,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Become%20a%20Legend">Become a Legend</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.<sup>*</sup>
         <ul>
@@ -172,9 +173,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Control%20the%20Borderlands">Control the Borderlands</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.<sup>*</sup>
         <ul>
@@ -425,9 +427,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Explore%20Deep%20Space">Explore Deep Space</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
@@ -691,9 +694,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.<sup>*</sup>
         <ul>
@@ -783,9 +787,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Patrol%20Vast%20Territories">Patrol Vast Territories</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
@@ -796,9 +801,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Populate%20the%20Outer%20Rim">Populate the Outer Rim</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.<sup>*</sup>
         <ul>
@@ -840,9 +846,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse">Produce en Masse</a></h2>
     <ol class="note">
-    <li>The number of units in the system is irrelevant, if there is at least one.<sup>4</sup>
+    <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
     </ol>
 

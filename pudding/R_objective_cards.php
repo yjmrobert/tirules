@@ -37,9 +37,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;Secret objectives marked Action Phase are scored the moment you meet them, even on another player&rsquo;s turn and even after you have passed.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 61.5b: &ldquo;When a player scores an objective during the action phase, they can do so at any time during that phase.&rdquo; any time in the phase, not limited to own turn.</li>
         </ul></li>
-    <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>4</sup>
+    <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, on the scored-secret limit: &ldquo;you could draw an additional secret but would then need to return it and shuffle the secret objective deck.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 45.4: &ldquo;If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it.&rdquo;</li>
         </ul></li>
     <li>A player may choose to reveal any or all of their unscored secret objectives to other players.<sup>1,2,5</sup>
         <ul>

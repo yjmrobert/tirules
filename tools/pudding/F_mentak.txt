@@ -4,6 +4,7 @@ E2 RulesPal, "How does Mentak's Ambush work?": "It isn't a combat roll, so Moral
 I2 Same entry: "roll one die for each of up to 2 cruisers or destroyers." A removed ship cannot roll.
 @2
 E1 LRR FAQ: "'Shields Holding' may be used to cancel hits that are produced by these abilities," including "Ambush."
+I2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both."
 @3
 E1 LRR 87.4: a unit "can use its 'Sustain Damage' ability any time a hit is produced against it."
 @4
@@ -54,6 +55,7 @@ N No source found.
 E2 RulesPal, "How does Mentak's Mirror Computing interact with Bribery or spend-trade-goods objectives?": "still 1 when spent as trade goods, so Bribery and objectives that spend trade goods get no bonus."
 @25
 E1 LRR FAQ: "a unit that is produced must always be paid for."
+I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
 @26
 E5 Designer ruling (Skootur, 1/25/2019): "A draw is neither a win nor a loss. In both cases, Salvage Operations is not triggered."
 @27

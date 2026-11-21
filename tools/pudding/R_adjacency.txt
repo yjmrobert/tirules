@@ -1,2 +1,3 @@
 @0
 E2 RulesPal, "Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?": "No — a system isn't adjacent to itself."
+I1 LRR 6.2a: "A unit or planet is adjacent to all system tiles that are adjacent to the system tile that contains that unit or planet. a A system is not adjacent to itself." a system is not adjacent to itself, so a unit in it is not adjacent to it.

@@ -82,9 +82,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Creuss use a wormhole token to get into an asteroid field protected by Saar&rsquo;s Chaos Mapping?&rdquo;: &ldquo;Creuss can place the token there but still can&rsquo;t activate the system.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>2</sup>
+    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;no unit&rsquo;s Production ability is used, so Sarween Tools doesn&rsquo;t apply.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -238,9 +239,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A unit is not adjacent to the system it is in.<sup>1</sup>
+    <li>A unit is not adjacent to the system it is in.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 6.2a: &ldquo;A unit or planet is adjacent to all system tiles that are adjacent to the system tile that contains that unit or planet. a A system is not adjacent to itself.&rdquo; a system is not adjacent to itself, so a unit in it is not adjacent to it.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;No &mdash; a system isn&rsquo;t adjacent to itself.&rdquo;</li>
         </ul></li>
     </ol>
 
