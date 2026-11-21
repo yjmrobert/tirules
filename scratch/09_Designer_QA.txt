@@ -23,7 +23,7 @@
 
 
 
-Q: Cabal Breakthrough
+    Q: Cabal Breakthrough
     Cabal breakthrough brings the fracture into play without a breakthrough roll. When placing ingress tokens, should cabal place them according to cabal synergy, or should they place them according to the same logic as Nekro breakthrough and other non breakthrough affects?
     A: According to cabal BT colors
 
@@ -45,7 +45,7 @@ Q: Cabal Breakthrough
     A: You can lose your home system from the relic to satisfy BAM. Re: saar, RAW, I would say there are totally valid arguments either way, but I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]
 
 
-Q: Titans Breakthrough
+    Q: Titans Breakthrough
     Can you please expand on how the Titan player may put the sleeper token on the planet? The bottom part reads “Other players may allow you to place a sleeper token on a planet they control.”. Is this something that can be done at any time during the active players turn if they agree with the Titan player?
     A: There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players. Lorewise, there are dormant titans scattered all across the galaxy.
 
@@ -55,12 +55,12 @@ Q: Titans Breakthrough
     A: No, the fracture tiles are not able to be replaced due to their unusual shape. 
 
 
-Q: Using Wormholes
+    Q: Using Wormholes
     The Crimson Rebellion's "Sundered" ability says "You cannot use wormholes other than epsilon wormholes." Could you clarify if the word "use" means anything beyond just not being able to move ships through them? Can they shoot PDS through them? Do other players on the other side of them count as neighbors for the purposes of transactions, objectives, and action cards? Do systems on the other side of them count as adjacent for purposes of their Exile ability, objectives, and action cards? Can the Mahact use Benediction to move them through a wormhole?
     A: They can't move through them. Other things are fine. For now, that is my ruling (but as with any ruling I give off the cuff, I reserve the right to change it in official FAQ).
 
 
-Q: Crimson Agent
+    Q: Crimson Agent
 The Crimson agent says to swap the position of two ships. Should this "swap" be interpreted as a "move" and thus have to obey anomaly restrictions (and work with Saar floating factories) or is it a new keyword that does not abide by all that?
 A: Does not have to abide by anything movement related. Does not work on saar docks.
 

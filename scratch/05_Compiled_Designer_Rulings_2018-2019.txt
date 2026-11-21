@@ -25,7 +25,7 @@ dbeltrami@fantasyflightgames.com
 
 
 
-@Brian -5:00 UTC, 05/24/2018
+    @Brian -5:00 UTC, 05/24/2018
 
 
 From BGG:
@@ -62,7 +62,7 @@ Dane Beltrami: "Nope. When retreating, you are only allowed to take the ground f
 
 
 
-@x3n d0g, 07/19/2018
+    @x3n d0g, 07/19/2018
 
 
 So Dane set a new response time record for this one . Here is my questions and his answer - edited to cut out extraneous stuff.
@@ -85,7 +85,7 @@ I'll post the full thing over on BGG where I asked about it.
 
 
 
-x3n d0g, 07/21/2018
+    x3n d0g, 07/21/2018
 
 
 Dane Beltrami (Jan 5, 2018) on BGG: "Ultimately what is important is that the Floating Factories are affected by abilities that affect movement (Gravity Drive, Flank Speed, Light/Wave Deflectors, In the Silence of Space, Antimass Deflectors, Magmus Reactor—you know, for that cheeky Nekro Virus that wants to take Floating Factories into a Supernova—and so on). The general movement of the Floating Factory and its accompanying ships (if any) shouldn’t be hindered by the fact that it is not technically a ship."
@@ -93,7 +93,7 @@ Dane Beltrami (Jan 5, 2018) on BGG: "Ultimately what is important is that the Fl
 
 
 
-x3n d0g, 08/01/2018
+    x3n d0g, 08/01/2018
 
 
 So my question: "Suppose I move a carrier into a system. My opponent fires his PDS (with graviton laser). He scores a hit. I must remove the carrier. The four fighters on board are summarily destroyed because they are without support. Can my opponent score 'Turn their fleets to dust'? His PDS caused a chain reaction that caused me to lose my last ship. But the PDS did not cause the destruction per se."
@@ -103,7 +103,7 @@ and Dane Beltrami's response:
 
 
 
-Milty UTC -5:00, 08/02/2018
+    Milty UTC -5:00, 08/02/2018
 
 
         Oh man!
@@ -114,7 +114,7 @@ Milty UTC -5:00, 08/02/2018
 
 
 
-QuantumOctopus -05:00 UTC, 08/21/2018
+    QuantumOctopus -05:00 UTC, 08/21/2018
 
 
         Question 2
@@ -136,7 +136,7 @@ QuantumOctopus -05:00 UTC, 08/21/2018
 
 
 
-wekker UTC-509/06/2018
+    wekker UTC-509/06/2018
 The quote:
 Official ruling on the follow-up question:
 
@@ -150,7 +150,7 @@ https://boardgamegeek.com/thread/1980312/lazax-gate-folding
 
 
 
-x3n d0g, 09/10/2018
+    x3n d0g, 09/10/2018
 
 
                 Me: "Can a player use their PDS to destroy their own ships? (for example, to score Turn Their Fleets to Dust, or for Yin to blow up their own Van Hauge before a Skilled Retreat could be played). I would think not, but as written I cannot find any text to prevent it. Thank you for your time. ~PS: Sorry if this is a resend. The form was reporting an error."
@@ -175,7 +175,7 @@ A: In this case, "replacing" does not trigger assimilate (typo, should be Minist
 
 
 
-x3n d0g, 10/13/2018
+    x3n d0g, 10/13/2018
 
 
         For example: My Question: " Assume a non-Ghost player is starting their turn and the Ghost offers: "the Creuss IFF promissory note and 2 trade goods, if you use the note immediately to place a wormhole token on New Albion". If agreed too, is that binding or non-binding?"
@@ -184,7 +184,7 @@ x3n d0g, 10/13/2018
 
 
 
-Milou UTC +2, 10/17/2018
+    Milou UTC +2, 10/17/2018
 
 
 i finally got a response from Dane for the outcome of when a temporary VP agenda is up for revote
@@ -216,7 +216,7 @@ I’m glad to hear that you have been enjoying the game! Miscount Disclosed has 
 
 
 
-Milty UTC -5:00, 10/30/2018
+    Milty UTC -5:00, 10/30/2018
 
 
                 Just to confirm the QDN/Acquiescence and trade good timing:
@@ -250,7 +250,7 @@ Milty UTC -5:00, 10/30/2018
 
 
 
-x3n d0g, 10/30/2018
+    x3n d0g, 10/30/2018
 
 
 I heard back from Dane regarding overloading Capacity:
@@ -263,7 +263,7 @@ So if your Carrier is already full of Fighters, then you cannot pick up any Grou
 
 
 
-Milty UTC -5:00, 10/31/2018
+    Milty UTC -5:00, 10/31/2018
 
 
 Just heard back
@@ -274,7 +274,7 @@ You can’t purposely pick up more units than you can transport, but you are all
 
 
 
-x3n d0g, 10/31/2018
+    x3n d0g, 10/31/2018
 
 
 I think he answers that in the thread:
@@ -292,7 +292,7 @@ Dane:  if there were four infantry in the space area already, you could choose t
 
 
 
-Milty UTC -5:00, 11/13/2018
+    Milty UTC -5:00, 11/13/2018
 
 
 Got the ruling from Dane re: experimental battlestation.
@@ -356,7 +356,7 @@ Understood. "From the Perspective of the Ghosts of Creuss player" is not conveyi
 
 
 
-Vinci, 12/11/2018
+    Vinci, 12/11/2018
 
 
 Well, Dane finally got back to me on Winnu's Lazax Gat Folding. This is gonna be pretty spicy. I'll paste my original set of questions for context.
@@ -387,7 +387,7 @@ A:I'll do my best to answer these.
 
 
 
-The Chiprel (UTC +3), 12/24/2018
+    The Chiprel (UTC +3), 12/24/2018
 I already asked Dan about the question of Bribery before. You are right.
 
 
@@ -411,7 +411,7 @@ Dane: "In that case, no, it wasn’t intended to be able to be played on an unex
 
 
 
-Yin4Life, 01/16/2019
+    Yin4Life, 01/16/2019
 
 
 Rules Question: During the agenda phase, do players treat each other as neighbors or are they neighbors? This is specifically concerning the mentaks pillage ability.
@@ -437,7 +437,7 @@ A: Hey Matt, Players treat one another for neighbors even during the agenda phas
 
 
 
-x3n d0g, 1/25/2019
+    x3n d0g, 1/25/2019
 
 
             "Can you use Unstable Planet on an exhausted world?"
@@ -468,7 +468,7 @@ The returned secret objective will only count against the player who owns it (bu
 
 
 
-Skootur, 1/25/2019
+    Skootur, 1/25/2019
 Dane: Bribery is worded poorly and should more closely match the style distinguished councilor. The extra wording was added in because whereas the timing of distinguished councilor incorporates that it targets the outcome you voted for, the timing of bribery cannot. It should specify that you are casting 1 additional vote for the outcome that you voted for. The phrasing of 'any' is misleading and can be read as triggering the Golden Rule in regards to what additional votes can be cast toward. So to sum it up: The intent of bribery is to act as additional votes that are cast at a point when nobody else can countervote. It was not intended to circumvent any other rules or allow a player to vote from multiple angles.
 
 
@@ -494,7 +494,7 @@ Q: 66.7 of the living rules ref: "To retreat, a player takes all of his ships in
 Dane: That rule is only meant to apply to ground forces in the space area. The ground forces on the planets are just fine. Thanks for pointing that out.
 
 
-July 31, 2018
+    July 31, 2018
 Q: Suppose I move a carrier into a system. My opponent fires his PDS (with graviton laser). He scores a hit. I must remove the carrier. The four fighters on board are summarily destroyed because they are without support. Can my opponent score "Turn their fleets to dust"? His PDS caused a chain reaction that caused me to lose my last ship. But the PDS did not cause the destruction per se.
 Dane: Nope. In this case the player with the PDS would not qualify for that objective.
 
@@ -580,7 +580,7 @@ FFG BOARDS
         They do not. Preprinted units do not count as technologies.
 
 
-garfielder, Sep 19 2017
+    garfielder, Sep 19 2017
 https://boardgamegeek.com/article/26955517#26955517
 > Rules Question:
 > Special ability of Naalu Flagship is if they make Invasion in system with his Flagship they can use Fighters in this systems like Ground Forces. My questions is: 1) Can they use only Fighters to make Invasion? For example they don't have any Ground Forces but they start Invasion with Fighters, which Ground Forces now(Flagship ability) 2) If they can use point 1 and if they win ground battle and then Fighters return to ship, who control this planet after battle?
@@ -595,7 +595,7 @@ You can indeed use only fighters to invade a planet. However, they return to spa
         "The intent was that after placing an assimilator token on another faction’s faction specific technology, it would then count toward the secret objective. This should be clarified in a future FAQ. The same intent is true for if the assimilator token is placed on a tech with a color—it would count toward the relevant secret objectives."
 
 
-0 hr, Jul 31 2018
+    0 hr, Jul 31 2018
 https://boardgamegeek.com/article/29662441#29662441
 Question sent to FFG
 Quote:
@@ -605,7 +605,7 @@ Quote:
 "Nope. In this case the player with the PDS would not qualify for that objective."
 
 
-0 hr, Aug 1, 2018
+    0 hr, Aug 1, 2018
 https://boardgamegeek.com/article/29669860#29669860
 Question sent to FFG
 Quote:
@@ -630,7 +630,7 @@ It would not. Thematically (in both this case and your previous question) it tot
         2) The N’orr player selects the units to be destroyed.
 
 
-kaiteinomen, Sep 20, 2017
+    kaiteinomen, Sep 20, 2017
 https://boardgamegeek.com/article/26966232#26966232
 Question:
 The rule 2.10 says,"If there are multiple action cards that players wish to resolve at the same time during the action phase, each player takes a turn resolving one action card in initiative order, beginning with the active player. This process repeats until each player
@@ -669,7 +669,7 @@ be? I think it's maybe very rare though. Thanks!
         Dane: Because the losing of the victory points is tied to the combat and not the losing of the card, the former owner would keep the victory point in both cases.
 
 
-Vidyaraja, Sep 18, 2017
+    Vidyaraja, Sep 18, 2017
 https://boardgamegeek.com/article/26946549#26946549
 Q:
 Hello, some of rules question regarding Twilight Imperium 4: 
@@ -715,7 +715,7 @@ Dane:
         8. Losing Magmus Reactor in a supernova has no effect on the ships in the supernova, as the effects of a supernova do not kill ships, only restrict or disallow movement.
 
 
-garfielder, Sep 19, 2017
+    garfielder, Sep 19, 2017
 https://boardgamegeek.com/article/26955405#26955405
 Can they retreat in any situation?
 
@@ -747,7 +747,7 @@ Can they retreat in any situation?
         I’m afraid not—if the Saar Space dock was alone when the ships move in, it is destroyed, though the space cannons can certainly attempt to avenge it.
 
 
-kaiteinomen, Sep 20, 2017
+    kaiteinomen, Sep 20, 2017
 https://boardgamegeek.com/article/26965275#26965275
 
 
@@ -764,7 +764,7 @@ https://boardgamegeek.com/article/26965275#26965275
         Thanks for your question! In the situation you have described, you can put both of the Letani warriors on the same planet, if you wish, as long as one of the units that used Production is located there.
 
 
-garfielder, Sep 28, 2017
+    garfielder, Sep 28, 2017
 https://boardgamegeek.com/article/27036594#27036594
 > Is it legal to violate fleet supply on purpose? 1.) For example : Let's say I have FS of 3 and I activate system with 3 ships (one carrier and 1 Fighter.) I move in carrier with 2 more fighters? Is it legal move? Can i just destroy carrier and keep fighters? Do i have to destroy ship i moved in or it can be any of the ships in the system as long as i stay under FS in the end. 2.) Can i build in system that already at the limit. For example - activate and produce in system that already at limit or will be above after i build all ships. Or using secondary of production in home system that already at capacity or will be after i finish building. (i had Destroyer and FS 3- build 3 Dreadnought and want to destroy destroyer nd keep dreadnought ) Thank you."
 
@@ -782,12 +782,12 @@ Dane's Response
 It is not intended that the ships would be destroyed, no.
 
 
-Crikrunner, Sep 27, 2017
+    Crikrunner, Sep 27, 2017
 https://boardgamegeek.com/article/27024699#27024699
 To clarify—the fleet supply doesn’t count while you’re moving, it only cares about where you’ve stopped.
 
 
-aegiscruiser, Oct 4, 2017
+    aegiscruiser, Oct 4, 2017
 https://boardgamegeek.com/article/27082006#27082006
 
 
@@ -830,7 +830,7 @@ So my question is, if I bring a Matriarch and some fighters to attack a planet, 
         Additionally, as it is relevant to this discussion, a rules reference bullet regarding control (24.5) could use some clarification. This bullet is not intended to supersede the invasion timing as it pertains to establishing control of a planet, and is meant to handle the exchange of control outside of the standard combat structure. This will be clarified in a future FAQ.
 
 
-Skootur, Oct 12, 2017
+    Skootur, Oct 12, 2017
 https://boardgamegeek.com/article/27155461#27155461
 My question was:
 "I'm going to ask this in multiple ways to avoid confusion. Can Naalu fighters accompanying the Matriarch ever "win" a ground combat if no ground forces are present? Can Naalu fighters accompanying the Matriarch activate Dacxive Animators during ground combat if no Ground Forces are present to then place a single GF on a planet being attacked? What is the exact sequence of events if I use fighters with the Matriarch, but have no Ground Forces, and have Dacxive Animators. When do these "after combat" abilities all trigger in conjunction with each other."
@@ -852,7 +852,7 @@ Thanks for your questions regarding the Naalu Flagship “Matriarch,” its inte
 Additionally, as it is relevant to this discussion, a rules reference bullet regarding control (24.5) could use some clarification. This bullet is not intended to supersede the invasion timing as it pertains to establishing control of a planet, and is meant to handle the exchange of control outside of the standard combat structure. This will be clarified in a future FAQ."
 
 
-blarknob, Oct 16, 2017
+    blarknob, Oct 16, 2017
 https://boardgamegeek.com/article/27179602#27179602
 Would an advanced fighter in a system on its own block opponents ship movement?
 
@@ -946,7 +946,7 @@ Dane: That is definitely a little weird, but as you said, given the current ruli
                 That is certainly an unusual case. It is not the intent that it should be allowed to work that way, though nothing in the current rules explicitly explains that, so I see where the question is coming from. The intent is that the units are dropped off after the ship has ended its movement in the active system.
 
 
-maverikki, Nov 29, 2017
+    maverikki, Nov 29, 2017
 https://boardgamegeek.com/article/27564703#27564703
 >Carriers, fighters and gravity rift.
 >3. If a carrier is transporting fighters through gravity rift, do you need to roll for destruction for the carrier and each fighter? What if the fighters are upgraded but still transported by the carrier?
@@ -974,7 +974,7 @@ https://boardgamegeek.com/article/27564703#27564703
         2. You can indeed gain control of an uncontrolled planet in a system with an enemy fleet."
 
 
-kkohlm, Dec 12, 2017
+    kkohlm, Dec 12, 2017
 https://boardgamegeek.com/article/27692002#27692002
 
 
@@ -999,7 +999,7 @@ Me: Given that 67.6 Assign Hits shows that players assign hits simultaneously, i
 Dane: Because the groups of hits are targeting different players, each player can use a Shields Holding card to cancel hits coming against himself.
 
 
-Skootur, Oct 19, 2017
+    Skootur, Oct 19, 2017
 https://boardgamegeek.com/article/27209897#27209897
 Re: Trade Strategy and Transactions
 Per Dane:
@@ -1030,7 +1030,7 @@ During step 1, a player promises to give another player 2 trade goods so that he
             Because the card was cancelled, yes, you can play another copy of the same action card.
 
 
-eumaies, Feb 21, 2018
+    eumaies, Feb 21, 2018
 https://boardgamegeek.com/article/28334118#28334118
 Hi In twilight imperium fourth edition, the technology integrated economy lets you produce units on a planet after you win control of it (I assume through any means). Is this production limited to ground forces that can be deployed on a planet or does the player have the option of building ships? If building ships is allowed, is it correct to assume ships cannot be built in the system if enemy ships are present?
 Dane: That is correct. You can build ships normally, but if enemy ships are present, you cannot.
@@ -1042,12 +1042,12 @@ Dane: That is correct. You can build ships normally, but if enemy ships are pres
         I’ve been following the conversation on Saar space docks and I’m not above admitting when I’ve made a mistake. The question wasn’t confusing—don’t worry, I fully understood it. My original thought was that it didn’t make sense thematically for the Saar to be able to move a lone space dock unhindered into a system protected by PDS fire, but I think that minor thematic oddity aside, playing it the way that I previously ruled will cause more problems than it solves (and is at odds with the cleaner nature of TI4). So, that being the case, no—PDS cannot fire at a Floating Factory when it moves. I’ll make it clear in the FAQ.
 
 
-CreussEmissary, Jan 5, 2018
+    CreussEmissary, Jan 5, 2018
 https://boardgamegeek.com/article/27882476#27882476
 Yep. Ultimately what is important is that the Floating Factories are affected by abilities that affect movement (Gravity Drive, Flank Speed, Light/Wave Deflectors, In the Silence of Space, Antimass Deflectors, Magmus Reactor—you know, for that cheeky Nekro Virus that wants to take Floating Factories into a Supernova—and so on). The general movement of the Floating Factory and its accompanying ships (if any) shouldn’t be hindered by the fact that it is not technically a ship.
 
 
-sigmazero13, Jul 24, 2018
+    sigmazero13, Jul 24, 2018
 https://boardgamegeek.com/article/29602865#29602865
 The FAQ confirms that the Saar's "Floating Factory" docks cannot be shot at by PDS. In a post you made on BGG awhile back, part of your explanation was that they aren't ships. You mentioned that they should be affected that anything that affects movement, though. The question then comes up about Gravity Rift. Obviously the +1 would apply, since that affects movement. However, it's unclear as to whether a Gravity Rift would potentially DESTROY a Floating Factory that moves out of it. So the question - If a Floating Factory moves out of a Gravity Rift, do you roll for it (and potentially destroy it)? I can kind of see it going either way.
 
@@ -1066,7 +1066,7 @@ You still would roll for the Floating Factory. You’re not applying hits or any
         Dane's Answer: That is correct.
 
 
-sigmazero13, Jan 16, 2018
+    sigmazero13, Jan 16, 2018
 https://boardgamegeek.com/article/27978651#27978651
 Can you choose to reveal (to an individual or everyone) an Action Card from your hand without actually playing it?
 
@@ -1075,14 +1075,14 @@ Can you choose to reveal (to an individual or everyone) an Action Card from your
             Tabletop etiquette is something you may want to discuss with your individual group. There are no rules preventing players from showing an an action card from their hand.
 
 
-sigmazero13, Jan 17, 2018
+    sigmazero13, Jan 17, 2018
 https://boardgamegeek.com/article/27987451#27987451
 When players are selected to do the secondary for free as part of Trade, do they resolve those secondaries at the normal time secondaries are resolved (and in clockwise order from the active player, intermingled with those paying the token for it manually), or do the freebies activate first all in a batch? If the latter, do they resolve clockwise or in initiative order?
 Dane's Answer
 The freebie secondary players resolve the secondaries during the normal time and in clockwise order from the active player, intermingled with those paying for it manually.
 
 
-iswearihaveajob, Jan 18, 2018
+    iswearihaveajob, Jan 18, 2018
 https://boardgamegeek.com/article/27996331#27996331
 How does the Saar spacedock interact with abilities that reference ships and movement? Specifically: Can the Saar SD use the +1 move from Gravity Drive? Can the SD benefit from the Skilled Retreat Action card?
 Dane: Yes to both. Floating Factories are affected by abilities that affect movement (Gravity Drive, Flank Speed, Light/Wave Deflectors, In the Silence of Space, Antimass Deflectors, and so on). The general movement of the Floating Factory and its accompanying ships shouldn’t be hindered by the fact that it is not technically a ship.
@@ -1109,7 +1109,7 @@ If the Nekro loses access to a War Sun technology and does not have one to repla
         A: Once all ships are in, fleet supply is in violation and must immediately be dealt with. Then, you roll for gravity rift.
 
 
-sigmazero13, Feb 16, 2018
+    sigmazero13, Feb 16, 2018
 https://boardgamegeek.com/article/28291775#28291775
 In a multi-planet system, when the L1z1x use Harrow after a round of ground combat, can they use EVERY ship in the system, or only those that originally bombarded the planet before the combat?
 Dane's Response
@@ -1123,7 +1123,7 @@ Each ship in the system can be part of Harrow.
         The combat ending doesn’t nullify the end of a round of combat trigger. Harrow, in this case, would still resolve.
 
 
-Clipper, Feb 20, 2018
+    Clipper, Feb 20, 2018
 https://boardgamegeek.com/article/28324906#28324906
 It was recently ruled that Harrow occurs even if the combat is ending because the final L1z1x ground force is destroyed. Does the Harrow happen before or after the other faction is declared the winner of the combat? In other words, if the final L1z1x unit is destroyed in combat and then Harrow destroys the final defender unit, is the defending faction considered to win the combat, or is it a draw? 
 If the defender is still considered to have won and they have Dacxive Animators, do they place the new ground force before or after Harrow? I assume that as L1z1x must be the active player in this scenario that Harrow does go first, but it's good to be sure.
@@ -1234,14 +1234,14 @@ I will clarify this in the FAQ. It is possible that the timing for Harrow should
         The units would be lost, in this case.
 
 
-JamesG, Mar 12, 2018
+    JamesG, Mar 12, 2018
 https://boardgamegeek.com/article/28525860#28525860
 The Skilled Retreat Action Card and the Naalu's Foresight ability specify that the attacked player can move their "ships" out of the attacked system. Can those ships pick up ground forces (assuming they have the capacity) from planets in the system before moving out, like ships using the normal Retreat rules can (67.4).
 Dane:
 Yes, you can pick up ground forces when using either foresight or skilled retreat.
 
 
-sigmazero13, Oct 30, 2018
+    sigmazero13, Oct 30, 2018
 https://boardgamegeek.com/article/30363304#30363304
 A couple of Skilled Retreat questions. I think you may have ruled on some of these before, but I can't find the emails. 1) System A has a Player X's ships and some infantry on a planet. An opponent comes in to attack. Player X plays Skilled Retreat. Can they pick up the infantry as they retreat? (I'm pretty sure you've ruled "yes" on this, as Skilled Retreat is not a "retreat" that requires you to pull them off first).
 DANE
@@ -1290,13 +1290,13 @@ DANE
         A: Since the passive portion of LGF doesn’t require exhausting the card as part of a cost, you can still use it.
 
 
-Falcone1983, Jun 7, 2018
+    Falcone1983, Jun 7, 2018
 https://boardgamegeek.com/article/29261574#29261574
 Q: Can Yin Destroyers with the Impulse Core racial tech roll for Anti-Fighter Barrage before sacrificing themselves? Rule 10 and the new text of Rule 1.13, when read together, seem to imply that both abilities occur during the same timing window (meaning Yin could choose which one to do first), but that seems to be contradicted elsewhere in the rules (e.g. Rule 67.3 calling for AFB to happen "simultaneously", so not in initiative order as would be the case for abilities in the same timing window).
 A: Unless I am misunderstanding the question, no, Yin always do Impulse Core first. AFB does not occur "at the start of combat". It is its own separate step.
 
 
-Clipper, May 10, 2018
+    Clipper, May 10, 2018
 https://boardgamegeek.com/article/29047825#29047825
 1.  You determine in the specified turn order whether each player is using an ability or not. If a player chooses not to activate an ability, then they won’t be activating any more abilities in that timing window.
 2.  You determine in the specified turn order whether each player is using an ability or not. You keep going around the circle/sequence until everybody passes simultaneously.
@@ -1310,12 +1310,12 @@ Dane: Regarding your question, option 2 is the intended method of resolution. Th
                 Dane: You can trade a promissory note and have it be immediately used during the start of turn window. That is allowed. Note, however, that because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window (in the case of the Federation of Sol’s case, for example).
 
 
-Clipper, May 23, 2018
+    Clipper, May 23, 2018
 https://boardgamegeek.com/article/29146908#29146908
 Dane: The hit from dimensional splicer is intended to be able to trigger a direct hit, but I can absolutely see the reasoning behind saying that it can’t, based on the wording. I will be sure to clarify this in V2 of the FAQ, sorry for the confusion.
 
 
-sigmazero13, May 24, 2018
+    sigmazero13, May 24, 2018
 https://boardgamegeek.com/article/29153251#29153251
 Dane: Intent is that it does, actually. (I believe TI3 was similar?) Poor wording on my part. I can definitely see the point of view (and it is supported by the rules) in which it can’t, though. I plan to clarify both devotion and splicer in V2 of the FAQ. Sorry for the muddled wording!
 
@@ -1365,7 +1365,7 @@ Dane: Yup yup. If that specific agenda didn't get resolved then I guess by what 
                 As you have suggested, it should rarely matter, but in the cases where it does, use that as a guideline. Once someone has played an ability, every other player will have exactly one chance to continue.
 
 
-0 hr, Jun 6, 2018
+    0 hr, Jun 6, 2018
 https://boardgamegeek.com/article/29254422#29254422
 1) Are Action Cards discarded face up or face down? 
 2) Are players allowed to look through the discard deck?
@@ -1383,7 +1383,7 @@ Dane:2a) Correct
 2b) They’d be destroyed.
 
 
-0 hr, Jul 18, 2018
+    0 hr, Jul 18, 2018
 https://boardgamegeek.com/article/29559593#29559593
 66.7 of the living rules ref: "To retreat, a player takes all of his ships in the combat that have a move value and moves them to an adjacent system. Fighters and ground forces in the active system that are unable to move or be transported are destroyed" 
 What about units left on the planet(s)? They are in the active system, and they are unable to move or be transported, so it looks like 67.7 says they should be destroyed when the fleet retreats?!
@@ -1414,7 +1414,7 @@ https://boardgamegeek.com/article/29882233#29882233
 Dane: For sabotage, you would play after the target is chosen. For gravity rift, you roll after all ships have moved, immediately before the end of the step.
 
 
-sigmazero13, Jan 23, 2019
+    sigmazero13, Jan 23, 2019
 https://boardgamegeek.com/article/31060599#31060599
 You sent a ruling to a player that Sabotage is played after the target of the Action Card being sabotaged is chosen. Here are some specific cards, and the timing that I think sounds right. Could you confirm (or correct) these specific instances? 
 - Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it. 
@@ -1463,7 +1463,7 @@ Dane: In this case, “replacing” does not trigger the L1Z1X Minister of Indus
                 Dane: No, you cannot exceed a unit’s capacity to intentionally destroy units. You would have to leave some of them on the planet in this case.
 
 
-0 hr, Oct 30, 2018
+    0 hr, Oct 30, 2018
 https://boardgamegeek.com/article/30364552#30364552
 Can I pick up units in excess of my Capacity (causing those units to immediately be destroyed)? For example, can I put 20 Ground Forces into space with only 1 Carrier, knowing that 16 will immediately die? If I have a carrier with 4 fighters on it, can I pick up 4 ground forces and move away - leaving the fighters to die?
 Dane: You cannot pick up units in excess of capacity. You’ll have to leave those ground forces on the planet.
@@ -1479,7 +1479,7 @@ https://boardgamegeek.com/article/30369222#30369222
 In this case it is solely about how capacity works and is independent of unit type. There is a passive total capacity for the system that determines how many things can exist in the space area, and there is capacity value for a ship that determines how many units can be transported with it when it moves (which will of course also lower the total capacity of the system). Though it is quite strange thematically, yes, if there were four infantry in the space area already, you could choose to pick up four from the planet when you move and leave the four that were already in the space area to be destroyed. You could not, however, attempt to transport more units than the moving ships have capacity for in an attempt to destroy the excess. Hope that all makes sense!
 
 
-0 hr, Oct 31, 2018
+    0 hr, Oct 31, 2018
 https://boardgamegeek.com/article/30369518#30369518
 The retreat rules during space combat don't limit the number of ground forces you can pull off a planet. Is it correct that I could evacuate 20 infantry from a planet and then destroy them all following a retreat?
 Dane: the number you can attempt to move out of the system is still limited by your ships capacity in the same way that it is when you move—I see now though that it isn’t explicitly stated in the retreat section, so I’ll be sure to update that section in the LRR. Essentially, play the retreat just as a normal move out of the system that is interrupted (immediately after choosing and “loading up” which units you are transporting) by the rest of the combat round
@@ -1518,7 +1518,7 @@ Dane: Yes! I did forget that. That is correct. (https://boardgamegeek.com/articl
         A3. Correct. You cannot play experimental battlestation to actively use space cannon.
 
 
-sigmazero13, Nov 27, 2018
+    sigmazero13, Nov 27, 2018
 https://boardgamegeek.com/article/30595326#30595326
 2017-09-26: Can the L1Z1X promissory note be used even if the L1Z1X has no tokens in his strategy pool? (I would say yes, since apparently you ruled earlier that the Letnev one could be used even if the Letnev have no Trade Goods).
 Dane: 2017-09-26: My initial thought was yeah, it’d be the same, but after looking through the wording of the card and the rules, I think that might not be the case. The abilities on the Letnev promissory note are different abilities separated by paragraph breaks. The L1Z1X one however is not (one ability that can’t fully be resolved means that you can’t resolve it). So unless I am mistaken, they are actually handled differently.
@@ -1558,7 +1558,7 @@ Dane: The returned secret objective will only count against the player who owns 
 
 
 EMAILS
-Bocks (SCPT Discord), Mar 17, 2018
+    Bocks (SCPT Discord), Mar 17, 2018
 Rules Question:
 Scenario I have a fleet pool of two. I have the following board state: - Carrier II unit upgrade - Two Carriers in the Thibah System (unactivated) - Two Cruisers in the Saudor System with an Infantry on the planet (unactivated) I decide I want to activate Mecatol Rex (where I have no ships currently) and move my Carriers in, but I have to pass over Saudor to get there. Question 1 If I don't pick up the infantry on Saudor, do I check my fleet pool as I pass through and have to destroy ships? Question 2 If I pick up the infantry on Saudor, do I check my fleet pool when I pick him up and have to destroy ships? 34.3 If at any time the number of a player’s ships in a system exceeds the number of tokens in his fleet pool, he chooses and destroys excess ships in that system. Keywords: AT ANY TIME 49.4 The ship must move along a path of adjacent systems, and the number of systems the ship enters cannot exceed its move value. Keyword: ENTERS
 Dane: Apologies for the late reply! In neither instance do you need to destroy any ships due to fleet supply, though I can see from your text examples why that would be unclear. Thank you! I now have a good candidate for a clarification in the next version of the FAQ.
@@ -1572,7 +1572,7 @@ Hey Matt,
 You can still use it. You place the units one at a time, so when you place on the 13th planet, you’d have to remove a plastic ground force from somewhere that you already placed one.
 
 
-https://www.reddit.com/r/twilightimperium/comments/br4i43/faction_promissary_notes_an_answer_on_implied/
+    https://www.reddit.com/r/twilightimperium/comments/br4i43/faction_promissary_notes_an_answer_on_implied/
 Rules Question:
 There are 5 faction promissary notes that, though they do not explicitly state a cost, imply that there is one.
 

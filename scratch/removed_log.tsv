@@ -8,3 +8,38 @@ R_space_combat.php|- [Notes] A player may retreat into an asteroid field only if
 R_space_combat.php|- [Notes] A player may retreat into a supernova only if that player owns the Magmus Reactor Muaat fa	covered-fixed	8ba58d5 (retreat sub-note on R_space_combat)
 R_space_combat.php|- [Notes] A player may attempt to retreat from a combat in a gravity rift, but will still be affecte	covered-fixed	8ba58d5 (retreat sub-note on R_space_combat)
 R_space_dock.php|- [Notes] If a player moves one of their units with capacity into a system, transporting fighters, t	restored	e49396d
+C_action_cards.php|- [Diplomatic Pressure] Another player may play a second Diplomatic Pressure targeting the same play	keep-removed	site says the opposite (2)
+C_action_cards.php|- [Puppets On A String] Abilities that would end the active player’s turn instead end their action. 	keep-removed	no support; Puppets is not a turn (6)
+C_action_cards.php|- [Unstable Planet] If the selected planet has three or fewer infantry on it, all infantry will be d	keep-removed	errata already on site (1,2)
+C_agendas.php|- [Shared Research] If the Shared Research law is in play, a player still cannot move into a nebula 	keep-removed	moot: ships always end their move in the active system
+C_objectives.php|- [Make an Example of Their World Ω] The L1Z1X player cannot score Make an Example of Their World Ω 	keep-removed	contradicted: Harrow can score Make an Example (site note)
+C_agendas.php|- [Conventions of War] When Conventions of War is a law in play a player may still use the Tactical 	restored-star	7e1a564; without the X-89 part
+C_promissory_notes.php|- [Alliance] If the active player receives an Alliance, they cannot then attempt to trade it with an	restored	f1952f5; reason for removal was wrong (card text)
+C_relics.php|- [The Crown of Thalnos] If a unit rolls multiple combat dice, it will not be destroyed if it produc	keep-removed	still contradicted by RP; site Crown notes consistent
+C_relics.php|- [Stellar Converter] The chosen planet must be in a system adjacent to the unit with bombardment; t	keep-removed	contradicted: RulesPal 4620 same system allowed
+C_promissory_notes.php|- [Alliance] If an effect other than activating a system during a tactical action places a command c	restored	f958a38; removal reason was wrong (card text)
+C_promissory_notes.php|- [Alliance] Activating a system containing only a player’s structures will still cause their Allian	restored	f958a38; removal reason was wrong (card text)
+C_technology.php|- [Duranium Armor] Duranium Armor can be used to repair a damaged unit which does not currently have	keep-removed	contradicted by RulesPal; Cavalry edge case on F_nomad:23
+C_units.php|- [Mech] See the mechs page of the Rules Reference. _(no source (navigation pointer, not a sourced r	covered-fixed	850f46f; Mech heading links /R_mechs
+C_units.php|- [PDS] See the PDS page of the Rules Reference. _(no source (navigation pointer, not a sourced rule	covered-ok	PDS heading links /R_pds
+C_units.php|- [Space Dock] See the space dock page of the Rules Reference. _(no source (navigation pointer, not 	covered-ok	Space Dock heading links /R_space_dock
+F_arborec.php|- [Letani Warrior (Unit)] The Arborec player cannot use the secondary ability of the Warfare strateg	keep-removed	contradicted by TE Warfare secondary (home-system Production)
+F_arborec.php|- [Letani Behemoth (Mech)] The Arborec player cannot use the secondary ability of the Warfare strate	keep-removed	contradicted by TE Warfare secondary (home-system Production)
+F_argent.php|- [Mirik Aun Sissiri — Helix Protocol (Hero)] Ships cannot move into a nebula or supernova, even if 	keep-removed	nebula half wrong per FAQ; supernova half is the general rule
+F_firmament.php|- [⚪ Plots Within Plots] If the Firmament player scores a secret objective that has been made into a	other	7e2bd92; restored reversed: Firmament gains no VP and cannot score it again (6), mirrors C_agendas:59
+F_jol_nar.php|- [Specialized Compounds (Breakthrough)] The Jol–Nar player cannot use the synergy ability of Specia	keep-removed	contradicted by F_jol_nar:83 (6)
+F_keleres.php|- [Executive Order (Technology)] If the Public Execution agenda is resolved, the elected player cann	keep-removed	contradicted by C_agendas:315 (2)
+F_keleres.php|- [Agents/Production note] When the Keleres player resolves the secondary ability of the Warfare str	keep-removed	contradicted by TE Warfare secondary (home-system Production)
+F_lizix.php|- [The Helmsman — Dark Space Navigation (Hero)] Ships may transport units only if their origin syste	keep-removed	contradicted by F_lizix:66 (4)
+F_mahact.php|- [Jae Mir Kan (Agent)] When resolving the secondary ability of the Construction strategy card, the 	keep-removed	TE Construction secondary places no token in a system
+F_keleres.php|- [Custodia Vigilia (Legendary Planet)] Custodia Vigilia counts towards scoring the Produce en Masse	restored	498837e; reworded: Custodia Vigilia legendary ability Production on Mecatol Rex counts for Produce en Masse (4,9 inferred)
+F_mahact.php|- [Jae Mir Kan (Agent)] If the Mahact player chooses to resolve the secondary ability of the Constru	keep-removed	original Construction only; TE secondary places no token in a system
+F_mahact.php|- [Jae Mir Kan (Agent)] If the Mahact player already has a command token in the chosen system, they 	keep-removed	original Construction only; TE secondary places no token in a system
+F_naalu.php|- [Z’eu Ω (Agent)] If the chosen player is not the Naalu player, abilities that would end their turn	keep-removed	covered by F_naalu:77 (4)
+F_naaz_rokha.php|- [Eidolon Maximum (Mech)] The Naaz–Rokha player can never have two or more Eidolon Maximums on the 	keep-removed	contradicted by F_naaz_rokha:95 (6)
+F_nekro.php|- [Propagation] The Nekro player may play any action card that would allow them to research a techno	keep-removed	contradicted by F_nekro:48 (2)
+F_nekro.php|- [Propagation] For example, the Nekro player may always play the Reveal Prototype action card at th	keep-removed	child example of 4722; contradicted by F_nekro:48 (2)
+F_nekro.php|- [Valefar Assimilator (Technology)] For notes about technologies of a specific faction, see that fa	keep-removed	navigation pointer
+F_ral_nel.php|- [Kan Kip Rel (Agent)] If the Yssaril player duplicates the effect of Kan Kip Rel with Ssruu, their	keep-removed	covered by F_ral_nel:50 (6), different sequence
+F_ul.php|- [Hel–Titan (Unit)] The Ul player cannot use the secondary ability of the Warfare strategy card to 	keep-removed	contradicted by TE Warfare secondary (home-system Production)
+F_winnu.php|- [Acquiescence Ω (Promissory Note)] If a player plays Acquiescence Ω when the Winnu player is resol	keep-removed	original Construction only; TE secondary places no token in a system

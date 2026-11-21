@@ -62,3 +62,39 @@ Unanswered: the owner approved without addressing it.
 ## Harrow sub-note: also cite source 5? / Ω section Harrow note?
 Context: Make an Example of Their World (base) note 4.1 on C_objectives.php (commit 1fa80c0) cites 1. Source 5 (05_Compiled_Designer_Rulings_2018-2019.txt:1131) quotes Harrow's timing ("After each round of ground combat") and could be a third citation. Also, the Ω section has no Harrow note; Ω card text isn't in the sources, so whether Harrow can score Ω is unknown.
 Unanswered: the owner approved without addressing either.
+
+## Turn Their Fleets to Dust Ω: say whose ships count?
+Question: should the "any player may score" note also say whose ships count, for example "...including a player whose PDS destroys the active player's ships"?
+Context: asked while adding the any-player note to Turn Their Fleets to Dust Ω on C_objectives (commit 0963b8d).
+Unanswered: the owner replied "approve" only.
+
+## Space Cannon range through wormholes: add nuance notes?
+Question: add `*` notes for (a) Space Cannon range still using wormholes under a law that bans moving through them, (b) the Hil Colish delta wormhole counting for range, (c) the Nomad flagship's adjacency not counting?
+Context: Queue B, RulesPal (source 2) line 1835 "Can Space Cannon with range reach through a wormhole?" (NOT USED, unconfirmed). Logged as ignored; general rule is on R_adjacency:8.
+Unanswered: the owner replied "continue" only.
+
+## Dimensional Tear: Nekro-copied tears hinder the Vuil'raith?
+Question: add a `*` note under Dimensional Tear on F_vuilraith, e.g. "If the Nekro player has copied Dimensional Tear II, systems containing the Nekro player's space docks are gravity rifts for the Vuil'raith player's ships."?
+Context: Queue B, RulesPal (source 2) line 4221 (NOT USED): "Vuil'raith are affected by Nekro tears. All tears on the board count for the Vuil'raith hero." The hero part is already on F_vuilraith:90.
+Unanswered: the owner replied "yup youre right continue" only.
+
+## Planesplitter: can it move an ingress token into a Fracture system?
+Deferred by the owner for further research.
+Source: RulesPal (source 2) 02_RulesPal_TI4_FAQ.md:5421, graded Best reading, unconfirmed (NOT USED):
+> ### Can Plane Splitter move an ingress token into a system in the Fracture?
+> A: By the rules as written, yes — the Fracture's hexes are separate systems, so one adjacent to your units qualifies. It only triggers at the start of your strategic actions, so this rarely matters. Some players read it as main-board only.
+Related site notes: F_firmament Planesplitter (Obsidian) notes; R_fracture.
+Queue B log: logged as `other` ("deferred") so the queue moves on.
+
+## Wave Function Collapse vs Share Knowledge: does the borrower research a replacement?
+Deferred by the owner for further research.
+Source: RulesPal (source 2) 02_RulesPal_TI4_FAQ.md:5577, graded Best reading, unconfirmed (NOT USED):
+> ### If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?
+> A: Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns. Some argue the borrower never owned it.
+Related site notes: F_deepwrought (Wave Function Collapse, Share Knowledge).
+Queue B log: logged as `other` ("deferred") so the queue moves on.
+
+## F_deepwrought: Antimass Deflectors note under Share Knowledge looks misplaced
+Question: the only note under Share Knowledge (Promissory Note) on F_deepwrought is "If a player gains then loses the Antimass Deflectors technology, their units may remain in and move out of any asteroid fields…". Should it move elsewhere (e.g. under Antimass Deflectors on C_technology, or be reworded to tie it to Share Knowledge)?
+Context: noticed while adding the Share Knowledge elimination note (Queue B, source 6 line 26).
+Unanswered: the owner replied "approved" only.

@@ -17,13 +17,13 @@ GENERAL
       A: No. “Plasma Scoring” only grants one additional die for each 
       “Bombardment” or “Space Cannon” roll, and the unit benefiting 
       from this technology must be decided before rolling.
-Q: Does “Planetary Shield” prevent the use of “X-89 Bacterial 
+	Q: Does “Planetary Shield” prevent the use of “X-89 Bacterial 
 Weapon”?
 A: No. “X-89 Bacterial Weapon” is not part of bombardment, so it 
 is not prevented by “Planetary Shield.”
 ===== PAGE 41 =====
 41
-Q: Can units be picked up and transported off of planets when using 
+	Q: Can units be picked up and transported off of planets when using 
 abilities that move ships, such as the “Skilled Retreat” action card 
 or “Foresight” faction ability?
 A: Yes. Any effect that moves a ship allows that ship to transport 
@@ -46,7 +46,7 @@ units in its system, if it has available capacity.
         A: Yes. For example, a promissory note with “At the start of your 
         turn:” timing may be immediately played if the transaction occurred 
         within the “start of turn” timing window.
-Q: When the player resolving the “Trade” strategy card selects 
+	Q: When the player resolving the “Trade” strategy card selects 
 another player to resolve the “Trade” secondary ability for free, 
 does the player resolving the effect for free do so during the 
 execution of the primary ability or the secondary ability?
@@ -118,20 +118,20 @@ ACTION CARDS
       and can it be canceled by the action card “Intercept?”
       A: No, “Skilled Retreat” is not a retreat and cannot be canceled in 
       this way.
-Q: Can “Sustain Damage” be used against the “Courageous to the 
+	Q: Can “Sustain Damage” be used against the “Courageous to the 
 End” action card?
 A: No, “Courageous to the End” does not produce hits.
-Q: Can two “Direct Hit” action cards be played by the same player 
+	Q: Can two “Direct Hit” action cards be played by the same player 
 during the same round of combat against different targets?
 A: Yes. Because the two “Direct Hit” cards are targeting different 
 targets, this is allowed.
-Q: During space combat, can each player play a “Shields Holding” 
+	Q: During space combat, can each player play a “Shields Holding” 
 action card to cancel hits against their own units, even though the 
 cards are being played during the same timing window?
 A: Yes. Because each of the “Shields Holding” cards are targeting 
 different sets of hits (one set against player A and one set against 
 player B), it is legal to play both cards.
-Q: Can the “Shields Holding” action card be used to cancel 
+	Q: Can the “Shields Holding” action card be used to cancel 
 hits from abilities that occur during combat, such as “Ambush,” 
 “Dimensional Splicer,” and “Devotion?”
       A: Yes. “Shields Holding” may be used to cancel hits that are 
@@ -227,7 +227,7 @@ hits from abilities that occur during combat, such as “Ambush,”
       “Revolutionize Warfare” objectives?
       A: No. Only one upgrade of a given type counts toward those 
       objectives.
-Q: Do infantry involved in a space combat via the effects of “The 
+	Q: Do infantry involved in a space combat via the effects of “The 
 Alastor” flagship count toward the ships required to use the 
 “Assault Cannon” technology?
 A: Yes. These infantry may be used to resolve “Assault Cannon.”
@@ -243,7 +243,7 @@ THE EMIRATES OF HACAN
       either player may suggest the opening of negotiations during either 
       player’s turn.
 THE XXCHA KINGDOM
-Q: Can the Xxcha use the “Peace Accords” faction ability from one 
+	Q: Can the Xxcha use the “Peace Accords” faction ability from one 
 planet to another planet in the same system?
 A: Yes, a planet is treated as being adjacent to its own system.
       Q: Can multiple rider action cards be played by the same player on 
@@ -285,7 +285,7 @@ the Arborec to produce additional infantry.
       A: Yes. Production value is totaled when the “Production” ability of 
       units in a system is used.
 THE NEKRO VIRUS
-Q: Can the Nekro Virus use the “Valefar Assimilator” technologies 
+	Q: Can the Nekro Virus use the “Valefar Assimilator” technologies 
 on printed faction units, such as the Embers of Muaat’ s Prototype 
 War Sun I?
 A: No, printed faction units are not technologies, and thus are 
@@ -332,7 +332,7 @@ THE GHOSTS OF CREUSS
       A: Yes, “Light/Wave Deflector” allows a player other than the 
       Ghosts of Creuss to move their fleet through the “Hil Colish’s” 
       system into the Creuss home system or the Creuss Gate system.
-Q: If the “Hil Colish” moves before other ships and is returned to 
+	Q: If the “Hil Colish” moves before other ships and is returned to 
 reinforcements by a gravity rift, can other ships still use its delta 
 wormhole to reach the active system?
 A: No, the wormhole ceases to exist when the “Hil Colish” is 
@@ -355,7 +355,7 @@ THE NAALU COLLECTIVE
       gained the token through the “Gift of Prescience” promissory note 
       and is placed on any of that player’s strategy cards.
 THE CLAN OF SAAR
-Q: Can the Clan of Saar’ s “Chaos Mapping” faction-specific 
+	Q: Can the Clan of Saar’ s “Chaos Mapping” faction-specific 
 technology be used at the start of each of that player’ s turns during 
 the action phase?
 A: Yes, “Chaos Mapping” can be used as many times as you have 

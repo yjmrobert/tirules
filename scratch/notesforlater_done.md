@@ -1255,3 +1255,58 @@ make an example of their world 3. this would count as the secret objective for t
 ## prove endurance add. in the case where
 Commit: 02bf34f
 prove endurance add. in the case where a player unpasses, such as the ral nel hero, multiple players may be eligible to score prove endurance during the same round
+
+## lets note under stake your claim that the player
+Commit: 82af868
+lets note under stake your claim that the player who controls the planet may not score stake your claim if someone is coexisting on that planet
+
+## turn their fleets to dust should specify that any
+Commit: 0963b8d
+turn their fleets to dust should specify that any player, not just the active player may score it
+
+## note under ceasefire that it does not stop
+Commit: no change: sources conflict (RulesPal says Ceasefire does not stop it; source 4 says it does, and F_norr already cites source 4); owner said leave as is
+note under ceasefire that it does not stop the saardaks commander ability
+
+## A player may give their Support for the Throne
+Commit: 6f37134
+A player may give their Support for the Throne to another player even if doing so gives that player the victory point they need to win the game. The player who gave it may activate systems containing the holder’s units without penalty.2
+Explicit: 2 RulesPal, “Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?”: “Yes to both. … The giver can attack freely.”
+split this into two things. then make the one saying give the player the win the last item under support for the throne. add under that item as a new note that doing so is considered a dick move
+
+## can we make wiki links automatically open in
+Commit: 72eb3ef
+can we make wiki links automatically open in a new tab. also lets make sure the pudding pages will not show up in search results
+
+## add to maw of worlds that planets will refresh
+Commit: c8d6103
+add to maw of worlds that planets will refresh at the end of the agenda phase
+
+## Players may indicate a damaged infantry token in
+Commit: bbb9661
+Players may indicate a damaged infantry token in any way
+remove this sentence
+
+## for neural motivator lets change it to
+Commit: 4cbd329
+for neural motivator lets change it to 
+1. Neural Motivator only applies to the Draw Action Card step of the status phase.
+Here are some, but not all of the things that it doesnt apply to
+politics
+minister of policy
+exploration card that gives action cards
+relic that gives ac when research tech
+
+## A space dock using the Space Cannon ability due
+Commit: c544315
+A space dock using the Space Cannon ability due to the Experimental Battlestation action card rolls an additional die from Plasma Scoring.2
+change to (may roll an additional die)
+
+## why doesnt self assembly routines have a link
+Commit: eacfc3a
+why doesnt self assembly routines have a link on the tech page
+
+## something to integrated economy that says effects the
+Commit: f3ab147
+something to integrated economy that says effects the change a units cost such as the nomad's commander count as their printed cost for purposes of resolving integrated economy
+

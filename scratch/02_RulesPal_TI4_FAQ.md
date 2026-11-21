@@ -16,7 +16,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - Clipper · 2019-10-29 — https://boardgamegeek.com/thread/2301830/article/33256158#33256158
         - theepicwinguy · 2018-01-16 · disagrees — https://boardgamegeek.com/thread/1920234/article/27976225#27976225
 
-### If I pass on playing an action card or ability in a timing window, can I still play one later in that window?
+    ### If I pass on playing an action card or ability in a timing window, can I still play one later in that window?
 - id: `passing-in-a-timing-window` — grade: Community consensus
 - A: Yes — passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row. This applies to riders, Sabotage, combat cards like Skilled Retreat, and any other timed ability.
   - Clipper · 2018-05-10 — https://boardgamegeek.com/thread/1983065/article/29047825#29047825
@@ -48,7 +48,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
 - A: The speaker decides the order. Such conflicts are meant to be judged case by case, and absent a specific ruling the speaker resolves the timing question.
   - aegiscruiser · 2017-10-12 — https://boardgamegeek.com/thread/1858921/article/27155686#27155686
 
-### If an ability says 'then', do I have to resolve the first part before the part after 'then' happens?
+    ### If an ability says 'then', do I have to resolve the first part before the part after 'then' happens?
 - id: `then-wording-in-abilities` — grade: Community consensus
 - A: Yes — the effect after 'then' only happens if the effect before it was resolved. For example, the Warfare primary gives you no command token back unless you actually removed one from the board. This links effects within a single ability only; a separate paragraph on the same card is its own ability.
   - sigmazero13 · 2019-06-13 — https://boardgamegeek.com/thread/2220180/article/32224622#32224622
@@ -56,7 +56,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - IncrediSteve · 2019-09-08 — https://boardgamegeek.com/thread/2272253/article/32891173#32891173
   - Clipper · 2019-09-09 — https://boardgamegeek.com/thread/2272253/article/32891207#32891207
 
-### Is each paragraph on a card a separate ability, for example the 'Then return this card' line on a promissory note?
+    ### Is each paragraph on a card a separate ability, for example the 'Then return this card' line on a promissory note?
 - id: `separate-paragraphs-are-separate-abilities` — grade: Community consensus
 - A: Yes — each paragraph is its own ability and resolves on its own. So a note's final return line still happens even if an earlier paragraph had no effect, and a paragraph you can resolve still works when a different paragraph can't be done.
   - Clipper · 2019-06-13 — https://boardgamegeek.com/thread/2220180/article/32223907#32223907
@@ -130,14 +130,14 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
           - IncrediSteve · 2019-09-24 — https://boardgamegeek.com/thread/2281004/article/33005706#33005706
           - TomBoombs · 2018-04-20 · disagrees — https://boardgamegeek.com/thread/1979413/article/28879523#28879523
 
-### Are fighters ships?
+    ### Are fighters ships?
 - id: `fighters-are-ships` — grade: Per the rulebook — Components and Key Concepts
 - A: Yes — the ships are carriers, cruisers, dreadnoughts, destroyers, fighters, war suns and flagships. Fighters count for anything that refers to ships unless it says non-fighter ships. Saar Floating Factories move like ships but are not ships.
   - MollyMae · 2022-01-24 — https://boardgamegeek.com/thread/2800932/article/39323824#39323824
   - hooliganj · 2019-08-20 — https://boardgamegeek.com/thread/2260838/article/32757595#32757595
   - NeoTiger · 2019-08-21 — https://boardgamegeek.com/thread/2260838/article/32764223#32764223
 
-### Are PDS and space docks ground forces?
+    ### Are PDS and space docks ground forces?
 - id: `pds-and-space-docks-are-structures` — grade: Per the rulebook — Components and Key Concepts
 - A: No — PDS and space docks are structures, a separate unit type. In the base game, infantry are the only ground forces.
   - AgentDrake · 2018-12-27 — https://boardgamegeek.com/thread/2119535/article/30820833#30820833
@@ -179,7 +179,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - IncrediSteve · 2025-08-13 — https://boardgamegeek.com/thread/3558589/article/46466863#46466863
       - zamoose · 2025-08-13 — https://boardgamegeek.com/thread/3558589/article/46467155#46467155
 
-### What if an effect makes me place a command token from my reinforcements, such as Diplomacy or a retreat, and I have none there?
+    ### What if an effect makes me place a command token from my reinforcements, such as Diplomacy or a retreat, and I have none there?
 - id: `must-place-command-token-none-in-reinforcements` — grade: Community consensus
 - A: You take one of your choice from your command sheet instead. Component actions are different: one that cannot be fully resolved cannot be played at all, so it can't target you if it needs a token you don't have.
   - possumman · 2017-12-25 — https://boardgamegeek.com/thread/1907110/article/27792935#27792935
@@ -232,7 +232,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - sigmazero13 · 2022-07-18 — https://boardgamegeek.com/thread/2901961/article/40468469#40468469
   - MollyMae · 2019-03-29 — https://boardgamegeek.com/thread/2176554/article/31615862#31615862
 
-### Are red-backed empty systems anomalies for the setup placement rule?
+    ### Are red-backed empty systems anomalies for the setup placement rule?
 - id: `red-backed-empty-systems-not-anomalies` — grade: Community consensus
 - A: No — only tiles with a red border on the front are anomalies. The red back only matters for dealing, so empty systems may go next to anomalies.
   - donmakaron · 2019-06-10 — https://boardgamegeek.com/thread/2218246/article/32189045#32189045
@@ -286,7 +286,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Dulkal · 2019-12-30 — https://boardgamegeek.com/thread/2339047/article/33677221#33677221
   - Volverbot · 2019-12-30 — https://boardgamegeek.com/thread/2339047/article/33677226#33677226
 
-### Can I put all my starting ground forces on one home planet, and do I control the empty one?
+    ### Can I put all my starting ground forces on one home planet, and do I control the empty one?
 - id: `starting-units-on-home-planets` — grade: Community consensus
 - A: Yes — split them however you like, all on one planet if you wish. You control every planet in your home system regardless. Put your space dock on the planet that suits your production best.
   - IncrediSteve · 2026-04-28 — https://boardgamegeek.com/thread/3700363/article/47609837#47609837
@@ -349,7 +349,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - AgentDrake · 2021-02-04 — https://boardgamegeek.com/thread/2594370/article/36913978#36913978
       - jeffwagner · 2021-02-04 — https://boardgamegeek.com/thread/2594370/article/36913986#36913986
 
-### Which parts of a strategy card's primary ability are mandatory?
+    ### Which parts of a strategy card's primary ability are mandatory?
 - id: `strategy-card-abilities-mandatory-parts` — grade: Community consensus
 - A: Resolve the card top to bottom and do everything it says unless it uses 'may' or 'or'. Leadership's 3 tokens, choosing a Diplomacy system, Trade's replenish (for you and the players you pick), removing a token with Warfare if you can, the first Technology research and naming a new speaker with Politics are all required. Extras that cost you something, such as more Leadership tokens or a second technology for 6 resources, are optional, and Imperial never forces you to pay to score.
   - Clipper · 2021-08-11 — https://boardgamegeek.com/thread/2707444/article/38256883#38256883
@@ -374,7 +374,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - zamoose · 2018-09-18 — https://boardgamegeek.com/thread/2061316/article/30018234#30018234
       - manatee_x · 2022-07-15 — https://boardgamegeek.com/thread/2900040/article/40446901#40446901
 
-### Which system can I choose with Diplomacy, and can it be Mecatol Rex?
+    ### Which system can I choose with Diplomacy, and can it be Mecatol Rex?
 - id: `diplomacy-which-system` — grade: Per the rulebook — 1. Strategy Phase
 - A: Any system containing a planet you control, except the Mecatol Rex system, which can never be chosen even if you control Mecatol Rex.
   - Twilight Imperium: Fourth Edition rulebook · 2023-01-05 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -382,7 +382,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - DistantOasis · 2022-12-31 — https://boardgamegeek.com/thread/2998711/article/41426947#41426947
   - CarrotVision3D · 2022-12-31 · disagrees — https://boardgamegeek.com/thread/2014810/article/41426738#41426738
 
-### What do the Diplomacy tokens do to other players?
+    ### What do the Diplomacy tokens do to other players?
 - id: `diplomacy-effect-on-other-players` — grade: Community consensus
 - A: Each other player places a command token from reinforcements in the chosen system, so they can't activate it for the rest of the round. Nothing moves, and the system is not activated. A player who already has a token there doesn't add another. A player with none in reinforcements takes one from their command sheet.
   - donmakaron · 2019-03-08 — https://boardgamegeek.com/thread/2163955/article/31436495#31436495
@@ -399,7 +399,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Sande24 · 2018-01-04 — https://boardgamegeek.com/thread/1912913/article/27864368#27864368
       - Dulkal · 2018-01-04 — https://boardgamegeek.com/thread/1912913/article/27864370#27864370
 
-### Who can I make speaker with Politics, and is it mandatory?
+    ### Who can I make speaker with Politics, and is it mandatory?
 - id: `politics-choosing-speaker` — grade: Per the rulebook — 1. Strategy Phase
 - A: You must choose a new speaker, and it must be someone other than the current speaker; that can be you if you aren't already the speaker. The speaker token doesn't rotate on its own and only changes hands this way, so if nobody takes Politics the speaker stays the same.
   - Twilight Imperium: Fourth Edition rulebook · 2019-01-02 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -483,7 +483,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Jagokok · 2024-07-06 — https://boardgamegeek.com/thread/3329493/article/44523043#44523043
       - pfischer · 2017-12-27 — https://boardgamegeek.com/thread/1908074/article/27802962#27802962
 
-### Must I research a second technology with the Technology primary?
+    ### Must I research a second technology with the Technology primary?
 - id: `technology-primary-second-tech-optional` — grade: Community consensus
 - A: No — the second technology costs 6 resources and is optional, even though you must play your strategy card before passing.
   - McBartsomeville · 2023-01-26 — https://boardgamegeek.com/thread/3015922/article/41596465#41596465
@@ -530,7 +530,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - MobRule · 2024-02-04 — https://boardgamegeek.com/thread/3240135/article/43729294#43729294
       - TwoAMArts · 2024-02-04 — https://boardgamegeek.com/thread/3240135/article/43729319#43729319
 
-### What does Jol-Nar pay to use Brilliant, and does it work on other strategy cards?
+    ### What does Jol-Nar pay to use Brilliant, and does it work on other strategy cards?
 - id: `jol-nar-brilliant-cost` — grade: Community consensus
 - A: Only the strategy token for the Technology secondary — not the 4 resources — and then they resolve the primary, with the optional second tech for 6 resources. It only applies to the Technology card.
   - korric2000 · 2018-01-02 — https://boardgamegeek.com/thread/1911992/article/27850039#27850039
@@ -557,7 +557,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Clipper · 2019-06-21 — https://boardgamegeek.com/thread/2224767/article/32285524#32285524
       - AgentDrake · 2020-08-08 — https://boardgamegeek.com/thread/2480827/article/35531700#35531700
 
-### Do I have to move ships or do anything after activating a system?
+    ### Do I have to move ships or do anything after activating a system?
 - id: `tactical-action-steps-optional` — grade: Per the rulebook — Tactical Action
 - A: No — only placing the command token is required. Every later step is optional (combat aside, which is mandatory if both sides have ships), so you may activate a system just to fire Space Cannon, to stall, or even one nobody can move into. All the steps happen on that one turn, in order, before play passes on.
   - Twilight Imperium: Fourth Edition rulebook · 2020-06-07 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -566,7 +566,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - selwyth · 2023-06-04 — https://boardgamegeek.com/thread/3094723/article/42390019#42390019
   - IncrediSteve · 2020-09-24 — https://boardgamegeek.com/thread/2509173/article/35886402#35886402
 
-### Can I activate a system that already contains my command token?
+    ### Can I activate a system that already contains my command token?
 - id: `cannot-activate-system-with-own-token` — grade: Per the rulebook — Tactical Action
 - A: No — however the token got there (your earlier activation, Diplomacy, Construction's secondary), you can't activate that system again until the token is removed, for example by the status phase, the Warfare primary or Unexpected Action. Other players' activations of nearby systems can still trigger your Space Cannon.
   - Twilight Imperium: Fourth Edition rulebook · 2018-08-22 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -575,7 +575,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - pkitty · 2020-08-09 — https://boardgamegeek.com/thread/2481380/article/35538049#35538049
   - Clipper · 2017-12-19 — https://boardgamegeek.com/thread/1904661/article/27754381#27754381
 
-### How many systems can I activate in one tactical action, and why do I end up with tokens in many systems?
+    ### How many systems can I activate in one tactical action, and why do I end up with tokens in many systems?
 - id: `one-system-per-tactical-action` — grade: Community consensus
 - A: One. Each tactical action spends one tactic token to activate one system. Your tokens accumulate on the board because the action phase goes around the table many times, and they stay until the status phase. Ships in, or produced in, a system holding your token can't move out for the rest of the round.
   - oatesatm · 2017-12-22 — https://boardgamegeek.com/thread/1906151/article/27781517#27781517
@@ -585,14 +585,14 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - IncrediSteve · 2020-03-15 — https://boardgamegeek.com/thread/2388402/article/34286509#34286509
   - zamoose · 2018-10-26 — https://boardgamegeek.com/thread/2082965/article/30327991#30327991
 
-### Does a system I activated stay the active system for the rest of the round?
+    ### Does a system I activated stay the active system for the rest of the round?
 - id: `system-active-only-during-action` — grade: Community consensus
 - A: No — it is the active system only for that tactical action. Your command token stays there until the status phase (or until an effect removes it), which is what stops you activating it again.
   - zamoose · 2022-10-01 — https://boardgamegeek.com/thread/2943743/article/40892094#40892094
   - hooliganj · 2022-10-01 — https://boardgamegeek.com/thread/2943743/article/40892200#40892200
   - Clipper · 2017-12-19 — https://boardgamegeek.com/thread/1904661/article/27754381#27754381
 
-### Can a system ever hold two of my command tokens?
+    ### Can a system ever hold two of my command tokens?
 - id: `never-two-own-tokens-in-system` — grade: Community consensus
 - A: No — if an effect would place your token in a system that already has one, you don't place a second. Construction says the spent token goes to your reinforcements instead, and other effects work the same way.
   - Padish · 2018-01-13 — https://boardgamegeek.com/thread/1919264/article/27958614#27958614
@@ -619,19 +619,19 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - sigmazero13 · 2018-02-08 — https://boardgamegeek.com/thread/1936377/article/28209147#28209147
       - GrumblingGamer · 2018-12-30 — https://boardgamegeek.com/thread/2121262/article/30840366#30840366
 
-### If another player activates a system with my space dock, can I produce there during their action?
+    ### If another player activates a system with my space dock, can I produce there during their action?
 - id: `only-active-player-produces` — grade: Community consensus
 - A: No — only the active player resolves the steps of a tactical action. Other players join in only through things like Space Cannon and combat. To build there, activate it on your own turn.
   - sigmazero13 · 2019-11-04 — https://boardgamegeek.com/thread/2306395/article/33301364#33301364
   - Weltenreiter · 2019-11-04 — https://boardgamegeek.com/thread/2306395/article/33301368#33301368
 
-### Can I produce in a system that already holds my command token from an earlier turn?
+    ### Can I produce in a system that already holds my command token from an earlier turn?
 - id: `produce-in-system-with-own-token` — grade: Community consensus
 - A: Not with a tactical action, since you can't activate it. Only effects that don't need activation, such as the Warfare secondary in your home system, let you produce there.
   - Keineui · 2023-01-02 — https://boardgamegeek.com/thread/3000208/article/41438104#41438104
   - HP12C_guy · 2023-01-02 — https://boardgamegeek.com/thread/3000208/article/41438128#41438128
 
-### Must I resolve my strategy card right away, and do I need command tokens to do it?
+    ### Must I resolve my strategy card right away, and do I need command tokens to do it?
 - id: `when-to-take-strategic-action` — grade: Per the rulebook — 2. Action Phase
 - A: No to both. You choose which turn to take your strategic action, as long as it is before you pass. Strategic and component actions need no command tokens, so a player out of tokens can still play their remaining strategy card and then pass.
   - Twilight Imperium: Fourth Edition rulebook · 2025-08-12 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -649,7 +649,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - argon435 · 2017-12-11 — https://boardgamegeek.com/thread/1900040/article/27683775#27683775
         - hooliganj · 2023-02-25 — https://boardgamegeek.com/thread/3035323/article/41792230#41792230
 
-### Can I still resolve other players' strategy card secondaries after I have passed?
+    ### Can I still resolve other players' strategy card secondaries after I have passed?
 - id: `secondaries-after-passing` — grade: Per the rulebook — 2. Action Phase
 - A: Yes — passing ends your turns, not your ability to follow secondaries by spending a strategy token.
   - Twilight Imperium: Fourth Edition rulebook · 2017-10-19 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -699,7 +699,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
 
 ## Status Phase
 
-### In the status phase, do I get back all the command tokens I used on the board?
+    ### In the status phase, do I get back all the command tokens I used on the board?
 - id: `command-tokens-in-status-phase` — grade: Per the rulebook — 3. Status Phase
 - A: No — tokens on the board go back to your reinforcements, and you then gain just 2 tokens to place on your command sheet. Spent tokens are not refunded, so to grow your supply you need Leadership or similar effects. Newly gained tokens may go in any pool.
   - Twilight Imperium: Fourth Edition rulebook · 2026-05-22 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -707,7 +707,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Painkeeper · 2020-06-24 — https://boardgamegeek.com/thread/2453865/article/35181556#35181556
   - sigmazero13 · 2017-09-01 — https://boardgamegeek.com/thread/1840742/article/26801843#26801843
 
-### In what order do players score objectives in the status phase?
+    ### In what order do players score objectives in the status phase?
 - id: `status-phase-scoring-order` — grade: Per the rulebook — 3. Status Phase
 - A: In initiative order, not from the speaker. The Naalu's 0 token therefore makes them score first, unless they gave the token away with their promissory note.
   - Twilight Imperium: Fourth Edition rulebook · 2019-01-06 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -715,7 +715,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Clipper · 2019-12-15 — https://boardgamegeek.com/thread/2331124/article/33590820#33590820
   - IncrediSteve · 2019-12-16 — https://boardgamegeek.com/thread/2331124/article/33592254#33592254
 
-### Can I score more than one public objective in a single status phase?
+    ### Can I score more than one public objective in a single status phase?
 - id: `one-public-one-secret-per-status-phase` — grade: Per the rulebook — 3. Status Phase
 - A: No — each status phase you may score at most one public and one secret objective, both on your scoring turn. The Imperial primary is the main way to score an extra public objective, during the action phase.
   - Twilight Imperium: Fourth Edition rulebook · 2021-12-11 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -760,7 +760,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Santiago · 2017-12-04 — https://boardgamegeek.com/thread/1895962/article/27614720#27614720
       - Johnnymaxx · 2017-11-28 — https://boardgamegeek.com/thread/1891940/article/27551989#27551989
 
-### How does voting work, and does it go around the table more than once?
+    ### How does voting work, and does it go around the table more than once?
 - id: `how-voting-works` — grade: Per the rulebook — 4. Agenda Phase
 - A: Each player votes once per agenda, openly, starting to the speaker's left and ending with the speaker. On your turn you name an outcome and exhaust planets for that many votes, or abstain. Votes are committed as they are declared.
   - Twilight Imperium: Fourth Edition rulebook · 2019-02-06 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -769,13 +769,13 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - hooliganj · 2024-04-14 — https://boardgamegeek.com/thread/3283782/article/44117638#44117638
   - CBpegasus · 2017-09-13 — https://boardgamegeek.com/thread/1847859/article/26902426#26902426
 
-### Can I spend only part of a planet's influence when voting?
+    ### Can I spend only part of a planet's influence when voting?
 - id: `vote-with-part-of-planet-influence` — grade: Community consensus
 - A: No — exhausting a planet casts all of its influence as votes. You can only fine-tune your total by choosing which planets to exhaust.
   - MollyMae · 2019-10-28 — https://boardgamegeek.com/thread/2301369/article/33246333#33246333
   - sigmazero13 · 2019-10-28 — https://boardgamegeek.com/thread/2301369/article/33247337#33247337
 
-### Can trade goods be spent to cast votes?
+    ### Can trade goods be spent to cast votes?
 - id: `trade-goods-cannot-vote` — grade: Per the rulebook — 4. Agenda Phase
 - A: No — trade goods count as influence for everything except voting. You can still pay them to other players to sway their votes.
   - Twilight Imperium: Fourth Edition rulebook · 2017-08-16 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -791,7 +791,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - Clipper · 2021-06-12 — https://boardgamegeek.com/thread/2675853/article/37900687#37900687
         - Clipper · 2017-12-17 · disagrees — https://boardgamegeek.com/thread/1902973/article/27730114#27730114
 
-### What happens if the vote ties or everyone abstains?
+    ### What happens if the vote ties or everyone abstains?
 - id: `ties-and-everyone-abstaining` — grade: Per the rulebook — 4. Agenda Phase
 - A: The speaker picks which tied outcome resolves; at 0 to 0 that means any eligible outcome. The agenda is never discarded for lack of votes. The speaker's choice is not a vote, so it doesn't count as voting for that outcome, but riders that predicted it still pay out.
   - Twilight Imperium: Fourth Edition rulebook · 2018-01-05 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -816,7 +816,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - hooliganj · 2019-01-05 — https://boardgamegeek.com/thread/2125450/article/30891056#30891056
         - IncrediSteve · 2021-05-16 — https://boardgamegeek.com/thread/2659938/article/37717617#37717617
 
-### What is the difference between a law and a directive?
+    ### What is the difference between a law and a directive?
 - id: `laws-versus-directives` — grade: Per the rulebook — 4. Agenda Phase
 - A: If a law's For (or elect) outcome wins, the card stays in play as a lasting effect, even if part of it is one-time. A law's Against outcome, and either outcome of a directive, resolves once and the card is discarded.
   - Twilight Imperium: Fourth Edition rulebook · 2020-01-12 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -824,7 +824,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Ender02 · 2023-02-08 — https://boardgamegeek.com/thread/3024565/article/41685243#41685243
   - ajmarshall · 2023-02-08 — https://boardgamegeek.com/thread/3024565/article/41685453#41685453
 
-### How do 'Elect Planet' agendas work, and can an uncontrolled planet be chosen?
+    ### How do 'Elect Planet' agendas work, and can an uncontrolled planet be chosen?
 - id: `elect-planet-agendas` — grade: Community consensus
 - A: There's no nomination step: on your vote you back an eligible planet someone already named, name a new one, or abstain. Only planets some player controls are eligible, and only those that already have the required trait, since electing never changes a planet's trait.
   - ksfga · 2020-03-09 — https://boardgamegeek.com/thread/2384763/article/34235107#34235107
@@ -834,7 +834,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - sigmazero13 · 2020-05-02 — https://boardgamegeek.com/thread/2419818/article/34708081#34708081
   - IndyBart · 2020-03-09 · disagrees — https://boardgamegeek.com/thread/2384763/article/34235053#34235053
 
-### When must Rider action cards be played, and can we discuss the agenda first?
+    ### When must Rider action cards be played, and can we discuss the agenda first?
 - id: `when-riders-are-played` — grade: Community consensus
 - A: Riders go after the agenda is revealed and before the first vote is cast. Talking and negotiating don't close that window, and the speaker can't rush to the vote to shut riders out: everyone gets their chance to respond.
   - jeffwagner · 2017-11-30 — https://boardgamegeek.com/thread/1892601/article/27582291#27582291
@@ -854,7 +854,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - pkitty · 2018-03-08 — https://boardgamegeek.com/thread/1902562/article/28488700#28488700
       - Clipper · 2019-09-05 — https://boardgamegeek.com/thread/2270520/article/32872802#32872802
 
-### In what order do players play riders and other agenda-phase cards?
+    ### In what order do players play riders and other agenda-phase cards?
 - id: `rider-playing-order` — grade: Community consensus
 - A: Starting with the speaker and going clockwise, each player plays one card or passes, and it keeps going around until everyone passes in a row. Passing doesn't lock you out: if someone plays a card afterwards, you can still play one.
   - Clipper · 2019-10-13 — https://boardgamegeek.com/thread/2292414/article/33141994#33141994
@@ -864,7 +864,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - MollyMae · 2019-05-19 — https://boardgamegeek.com/thread/2205586/article/32018745#32018745
   - Ragnarwarbar · 2019-10-15 · disagrees — https://boardgamegeek.com/thread/2292414/article/33154116#33154116
 
-### Do I have to reveal my Rider and its prediction when I play it?
+    ### Do I have to reveal my Rider and its prediction when I play it?
 - id: `riders-are-public` — grade: Community consensus
 - A: Yes — action cards are read aloud and played openly, so the whole card, reward included, and your prediction are public. The prediction is made when you play the card, before voting, never after the result is known.
   - hooliganj · 2025-07-10 — https://boardgamegeek.com/thread/3540057/article/46314939#46314939
@@ -994,7 +994,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Clipper · 2021-08-11 — https://boardgamegeek.com/thread/2707675/article/38260945#38260945
       - TomBoombs · 2021-08-31 — https://boardgamegeek.com/thread/2707675/article/38372975#38372975
 
-### If players are tied for the most or fewest points when Seed of an Empire resolves, who scores?
+    ### If players are tied for the most or fewest points when Seed of an Empire resolves, who scores?
 - id: `ties-for-most-or-fewest-points` — grade: Community consensus
 - A: Every tied player gains the point. Effects aimed at the player with the most or fewest points hit everyone tied; the speaker doesn't break this kind of tie. Trading Support for the Throne after the votes can change who qualifies before it resolves. Under Colonial Redistribution, by contrast, the planet's controller chooses one player among those tied for fewest points.
   - Weltenreiter · 2018-06-25 — https://boardgamegeek.com/thread/2014739/article/29384079#29384079
@@ -1234,7 +1234,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - halbower · 2018-02-13 — https://boardgamegeek.com/thread/1939083/article/28250306#28250306
       - Clipper · 2018-02-13 — https://boardgamegeek.com/thread/1939083/article/28250404#28250404
 
-### In what order are agenda-phase secret objectives scored?
+    ### In what order are agenda-phase secret objectives scored?
 - id: `agenda-phase-secret-scoring-order` — grade: Community consensus
 - A: In speaker order, clockwise; it only matters if several players would win from the points, a tie that also goes clockwise from the speaker.
   - IncrediSteve · 2020-12-19 — https://boardgamegeek.com/thread/2562213/article/36546790#36546790
@@ -1263,7 +1263,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - IncrediSteve · 2022-01-02 — https://boardgamegeek.com/thread/2785869/article/39149387#39149387
       - hooliganj · 2017-11-20 — https://boardgamegeek.com/thread/1887343/article/27484803#27484803
 
-### Does the limit of three secret objectives include ones I've scored?
+    ### Does the limit of three secret objectives include ones I've scored?
 - id: `secret-objective-limit-three` — grade: Per the rulebook — Objectives and Victory Points
 - A: Yes — you may have three in total, scored and unscored together, so three is also the most you can score. If you go over, you return an unscored one; scored objectives are never discarded.
   - Twilight Imperium: Fourth Edition rulebook · 2020-02-23 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1272,7 +1272,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Marcial · 2019-10-29 — https://boardgamegeek.com/thread/2302080/article/33256101#33256101
   - hooliganj · 2018-01-06 — https://boardgamegeek.com/thread/1914516/article/27888101#27888101
 
-### How do I get more secret objectives after setup?
+    ### How do I get more secret objectives after setup?
 - id: `getting-more-secret-objectives` — grade: Per the rulebook — 1. Strategy Phase
 - A: Mainly through Imperial: its secondary draws one for a strategy token, and its primary draws one if you don't control Mecatol Rex. You draw one card, not two to keep one; that's only at setup.
   - Twilight Imperium: Fourth Edition rulebook · 2019-02-07 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1399,7 +1399,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - Clipper · 2018-08-05 — https://boardgamegeek.com/thread/2037625/article/29699221#29699221
         - csouth154 · 2019-09-12 — https://boardgamegeek.com/thread/2274453/article/32920647#32920647
 
-### What counts for technology-colour objectives like Diversify Research and Master the Sciences?
+    ### What counts for technology-colour objectives like Diversify Research and Master the Sciences?
 - id: `technology-colour-objectives` — grade: Community consensus
 - A: Only researched technology cards with a colour. Diversify Research needs two of each of two colours (four total); Master the Sciences two of each of the four colours. Unit upgrades have no colour, and planets with technology specialties are not technologies.
   - Weltenreiter · 2019-08-06 — https://boardgamegeek.com/thread/2251326/article/32635609#32635609
@@ -1418,7 +1418,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - sigmazero13 · 2018-03-07 — https://boardgamegeek.com/thread/1953498/article/28483331#28483331
       - hooliganj · 2017-09-05 · disagrees — https://boardgamegeek.com/thread/1843366/article/26834079#26834079
 
-### Does the Muaat Prototype War Sun count as a war sun for objectives?
+    ### Does the Muaat Prototype War Sun count as a war sun for objectives?
 - id: `faction-war-sun-objectives` — grade: Community consensus
 - A: Yes — it is the Muaat war sun under another name, as its subtitle shows.
   - sigmazero13 · 2020-06-29 — https://boardgamegeek.com/thread/2457195/article/35225190#35225190
@@ -1479,19 +1479,19 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - Marcial · 2024-12-08 — https://boardgamegeek.com/thread/3418889/article/45301696#45301696
         - michaelwood · 2021-01-01 — https://boardgamegeek.com/thread/2570433/article/36631512#36631512
 
-### Does a 10 always hit or a 1 always miss?
+    ### Does a 10 always hit or a 1 always miss?
 - id: `no-critical-hits` — grade: Community consensus
 - A: No — there are no automatic hits or misses. A roll hits when the result, after modifiers, equals or beats the unit's combat value, so with enough bonuses even a 1 can hit.
   - IncrediSteve · 2024-09-22 — https://boardgamegeek.com/thread/3372925/article/44903484#44903484
   - HP12C_guy · 2024-09-22 — https://boardgamegeek.com/thread/3372925/article/44903545#44903545
 
-### Can more than two players fight in the same space combat?
+    ### Can more than two players fight in the same space combat?
 - id: `combat-only-two-players` — grade: Per the rulebook — Space Combat
 - A: No — a space combat is always between two players, and it continues until only one player's ships remain or one side retreats. Other players can still have ground forces or structures on planets in that system.
   - phunkysai · 2024-01-12 — https://boardgamegeek.com/thread/3225024/article/43603686#43603686
   - IncrediSteve · 2024-01-12 — https://boardgamegeek.com/thread/3225024/article/43603731#43603731
 
-### How does Sustain Damage work, and is it optional?
+    ### How does Sustain Damage work, and is it optional?
 - id: `sustain-damage-basics` — grade: Per the rulebook — Space Combat
 - A: Before hits are assigned, a unit with Sustain Damage may cancel one hit; it is placed on its side as damaged and can't do so again until repaired in the status phase. It is optional: you may skip it and assign the hit to the unit, destroying it. An undamaged dreadnought therefore needs two hits, which can come in different rounds.
   - Twilight Imperium: Fourth Edition rulebook · 2017-12-06 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1540,7 +1540,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - csouth154 · 2019-09-10 — https://boardgamegeek.com/thread/2273270/article/32905480#32905480
       - IncrediSteve · 2021-04-24 — https://boardgamegeek.com/thread/2647210/article/37565541#37565541
 
-### With rerolls or die modifiers like the Hacan flagship or Crown of Thalnos, must I decide before rolling my other ships?
+    ### With rerolls or die modifiers like the Hacan flagship or Crown of Thalnos, must I decide before rolling my other ships?
 - id: `rerolls-after-all-dice` — grade: Community consensus
 - A: No — since the Codex rules update, rerolls and modifiers are applied after you have rolled all your dice, so you see every result before choosing. The older reading of deciding ship type by ship type is out of date.
   - russe · 2023-03-13 — https://boardgamegeek.com/thread/2018641/article/41899043#41899043
@@ -1608,14 +1608,14 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Clipper · 2022-07-18 — https://boardgamegeek.com/thread/2581021/article/40464493#40464493
       - IncrediSteve · 2021-01-16 — https://boardgamegeek.com/thread/2581021/article/36756161#36756161
 
-### What happens if neither side can ever win a space combat?
+    ### What happens if neither side can ever win a space combat?
 - id: `combat-stalemate` — grade: Community consensus
 - A: The Living Rules Reference FAQ says the attacker must retreat. If the attacker has nowhere legal to go, players generally treat those ships as destroyed.
   - russe · 2018-03-07 — https://boardgamegeek.com/thread/1904694/article/28476677#28476677
   - Clipper · 2018-03-07 — https://boardgamegeek.com/thread/1904694/article/28478086#28478086
   - pkitty · 2017-12-23 — https://boardgamegeek.com/thread/1904694/article/27785669#27785669
 
-### Can two players agree not to fight when their ships share a system, or not to roll or assign hits?
+    ### Can two players agree not to fight when their ships share a system, or not to roll or assign hits?
 - id: `combat-is-mandatory` — grade: Per the rulebook — Space Combat
 - A: No — when two players have ships in the same space area (or ground forces on the same planet), combat happens and continues until one side is gone; rolling and assigning hits are mandatory and a deal can't override the rules. Retreating, after at least one round, is the only legal way out. Ships and ground forces never fight each other.
   - zamoose · 2021-07-30 — https://boardgamegeek.com/thread/2700877/article/38180868#38180868
@@ -1630,7 +1630,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - zamoose · 2023-02-22 — https://boardgamegeek.com/thread/3033726/article/41775954#41775954
   - zamoose · 2023-02-22 — https://boardgamegeek.com/thread/3033726/article/41776052#41776052
 
-### Can a unit with Sustain Damage be destroyed by two hits in one round?
+    ### Can a unit with Sustain Damage be destroyed by two hits in one round?
 - id: `two-hits-on-sustain-unit` — grade: Community consensus
 - A: Yes — Sustain Damage cancels one hit, not every hit. If you must take more hits than you can cancel and that unit is what's left, the next hit destroys it; it is not a second hit point. Non-Euclidean Shielding lets it cancel two.
   - AgentDrake · 2019-09-29 — https://boardgamegeek.com/thread/2284266/article/33039652#33039652
@@ -1649,7 +1649,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - donmakaron · 2021-04-18 — https://boardgamegeek.com/thread/2643346/article/37520728#37520728
       - zamoose · 2018-11-28 — https://boardgamegeek.com/thread/2104169/article/30604606#30604606
 
-### If the defender leaves with Skilled Retreat or Foresight, does the attacker still invade, and has anyone won a combat?
+    ### If the defender leaves with Skilled Retreat or Foresight, does the attacker still invade, and has anyone won a combat?
 - id: `after-skilled-retreat-attacker-continues` — grade: Community consensus
   - A: The attacker carries on to bombardment, invasion and production as normal. But no combat was won: after a normal retreat the player left in the system wins, whereas Foresight happens before combat and Skilled Retreat leaves no winner, so 'win a combat' objectives and effects don't trigger. The destination system isn't activated, so nobody fires Space Cannon or invades there.
     - Clipper · 2020-01-18 — https://boardgamegeek.com/thread/2351347/article/33824969#33824969
@@ -1664,7 +1664,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
 - A: They stay in the system; nothing makes them leave. While they remain, the defender's space dock there is blockaded and can only produce ground forces.
   - ifaeb · 2024-01-13 — https://boardgamegeek.com/thread/3225949/article/43610283#43610283
 
-### If Space Cannon Offense destroys all of the active player's ships, did a space combat take place?
+    ### If Space Cannon Offense destroys all of the active player's ships, did a space combat take place?
 - id: `space-cannon-wipes-attacker-no-combat` — grade: Community consensus
 - A: No — Space Cannon Offense happens at the end of movement, outside space combat. If it destroys every ship, no combat occurs and 'win a combat' effects don't apply.
   - csouth154 · 2019-04-21 — https://boardgamegeek.com/thread/2189731/article/31794581#31794581
@@ -1680,7 +1680,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
         - sigmazero13 · 2018-06-27 — https://boardgamegeek.com/thread/2016124/article/29404383#29404383
         - Surge72 · 2020-12-09 — https://boardgamegeek.com/thread/2556692/article/36471497#36471497
 
-### Can I roll all my combat dice together when my ships have different combat values?
+    ### Can I roll all my combat dice together when my ships have different combat values?
 - id: `rolling-dice-by-combat-value` — grade: Per the rulebook — Space Combat
 - A: Only for ships with the same combat value; ships with different values roll separately, so each die stays with the unit that rolled it. Modifiers are added to the die result, so +1 makes a hit easier.
   - Twilight Imperium: Fourth Edition rulebook · 2020-08-13 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1716,13 +1716,13 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
 
 ## Invasion and Ground Combat
 
-### What happens if I move ships into a system where the opponent has only ground forces on planets?
+    ### What happens if I move ships into a system where the opponent has only ground forces on planets?
 - id: `ships-vs-ground-forces-only` — grade: Community consensus
 - A: No space combat — ships only fight ships. You may then bombard and commit ground forces in the invasion step; ships alone do nothing to enemy planets.
   - hooliganj · 2020-12-22 — https://boardgamegeek.com/thread/2563956/article/36566003#36566003
   - Clipper · 2020-12-22 — https://boardgamegeek.com/thread/2563956/article/36566059#36566059
 
-### After winning a space combat, must I invade the planets in that system?
+    ### After winning a space combat, must I invade the planets in that system?
 - id: `invasion-optional` — grade: Community consensus
 - A: No — committing ground forces is optional. You can leave your ships in space and go straight to production, even sharing the system with enemy planets.
   - MollyMae · 2019-01-31 — https://boardgamegeek.com/thread/2142367/article/31135354#31135354
@@ -1730,7 +1730,7 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
   - Bigland · 2017-08-21 — https://boardgamegeek.com/thread/1833973/article/26695602#26695602
   - sigmazero13 · 2018-08-17 — https://boardgamegeek.com/thread/2044803/article/29800479#29800479
 
-### Can I invade several planets in the same system in one tactical action?
+    ### Can I invade several planets in the same system in one tactical action?
 - id: `invade-several-planets-one-action` — grade: Community consensus
 - A: Yes — in the invasion step you commit ground forces to any or all planets in the active system, declaring which go where. Each ground force lands on only one planet, so two planets need at least two ground forces. Four infantry arriving at an empty two-planet system can put two on each and take both.
   - Pete Walsh · 2023-12-04 — https://boardgamegeek.com/thread/3202295/article/43399416#43399416
@@ -1756,12 +1756,12 @@ Entries graded "Best reading — unconfirmed" were NOT used as a source on the s
       - Leifr · 2017-12-20 — https://boardgamegeek.com/thread/1905253/article/27764273#27764273
       - Cacotopos · 2023-12-31 — https://boardgamegeek.com/thread/3216789/article/43534328#43534328
 
-### Can fighters or dreadnoughts take part in an invasion?
+    ### Can fighters or dreadnoughts take part in an invasion?
 - id: `fighters-cannot-invade` — grade: Per the rulebook — Invasion and Ground Combat
 - A: Fighters can't invade (barring specific faction abilities), and ships take part only through abilities like Bombardment. You need ground forces in the active system's space area to commit.
   - Falcone1983 · 2017-11-22 — https://boardgamegeek.com/thread/1888622/article/27505709#27505709
 
-### Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?
+    ### Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?
 - id: `ground-combat-needs-both-sides` — grade: Per the rulebook — Invasion and Ground Combat
 - A: No — ground combat only happens if both players still have ground forces on the planet after those steps. If Bombardment kills every defender, you land unopposed; if Space Cannon Defense kills every invader, nobody lands. Structures don't count as defenders, and start-of-combat abilities such as Yin's Indoctrination can't be used without a combat.
   - ajmarshall · 2020-05-09 — https://boardgamegeek.com/thread/2286628/article/34777180#34777180
@@ -1774,7 +1774,7 @@ x
 
 ## Space Cannon, Bombardment and Anti-Fighter Barrage
 
-### Does Space Cannon Offense happen if the active player moves nothing into the active system?
+    ### Does Space Cannon Offense happen if the active player moves nothing into the active system?
 - id: `space-cannon-offense-without-moving` — grade: Community consensus
 - A: Yes — it is a step of every tactical action, not something movement triggers, so enemy Space Cannon can hit the active player's ships already in the system. Equally, you may activate a system purely to fire your own Space Cannon into it. You must finish moving before anyone fires, so you can't see the results first.
   - Padish · 2017-12-20 — https://boardgamegeek.com/thread/1904890/article/27758616#27758616
@@ -1837,7 +1837,7 @@ x
 - A: Yes — wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship, and even when a law turns off wormholes for movement. The Nomad flagship's mech adjacency is not a wormhole, so it doesn't extend Space Cannon.
   - IncrediSteve · 2024-03-04 — https://boardgamegeek.com/thread/3259486/article/43901068#43901068
 
-### Is Bombardment mandatory, and can I bombard without landing ground forces?
+    ### Is Bombardment mandatory, and can I bombard without landing ground forces?
 - id: `bombardment-optional` — grade: Community consensus
 - A: The Bombardment step always happens, but using the ability is optional: the active player may bombard. You can also bombard with no ground forces to land and simply not take the planet, since committing ground forces is optional too.
   - blondlostime · 2019-02-07 — https://boardgamegeek.com/thread/2144187/article/31194470#31194470
@@ -1856,7 +1856,7 @@ x
       - csouth154 · 2019-06-02 — https://boardgamegeek.com/thread/2213830/article/32128112#32128112
       - sigmazero13 · 2018-02-11 · disagrees — https://boardgamegeek.com/thread/1937996/article/28235033#28235033
 
-### Can the active player fire their own Space Cannon, including PDS II in an adjacent system, into the system they activate?
+    ### Can the active player fire their own Space Cannon, including PDS II in an adjacent system, into the system they activate?
 - id: `who-fires-space-cannon-offense` — grade: Community consensus
 - A: Yes — every player with Space Cannon in range of the active system may fire, the active player first. You can activate a system purely so your PDS II next door can shoot enemy ships there, even a supernova if someone like Muaat activated it. Fighters in the space area are valid targets; ground forces in space and Saar Floating Factories are not.
   - Platfus · 2022-05-27 — https://boardgamegeek.com/thread/2873373/article/40152453#40152453
@@ -1866,7 +1866,7 @@ x
   - TimmoWarner · 2021-04-28 — https://boardgamegeek.com/thread/2649643/article/37593736#37593736
   - NeoTiger · 2019-06-23 — https://boardgamegeek.com/thread/2225575/article/32297432#32297432
 
-### Which PDS fire Space Cannon Defense during an invasion?
+    ### Which PDS fire Space Cannon Defense during an invasion?
 - id: `space-cannon-defense-which-pds` — grade: Community consensus
 - A: Only PDS on the planet being invaded. A PDS on another planet in the system, or a PDS II in an adjacent system, doesn't fire then. A PDS can fire Space Cannon Offense and later Space Cannon Defense in the same tactical action.
   - Clipper · 2021-06-14 — https://boardgamegeek.com/thread/2676676/article/37908054#37908054
@@ -1905,7 +1905,7 @@ x
 
 ## Movement, Anomalies and Wormholes
 
-### Can I move ships partway toward the active system, or move ships that can't reach it?
+    ### Can I move ships partway toward the active system, or move ships that can't reach it?
 - id: `ships-must-end-in-active-system` — grade: Per the rulebook — Movement Details
 - A: No — every ship that moves must end its move in the active system, along a path no longer than its move value. A ship that can't get there doesn't move at all, so you can't stop short, for example to set up Space Cannon.
   - Twilight Imperium: Fourth Edition rulebook · 2020-07-20 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1913,7 +1913,7 @@ x
   - Jatta Pake · 2017-11-21 — https://boardgamegeek.com/thread/1888279/article/27499847#27499847
   - j76goatboy · 2017-11-21 — https://boardgamegeek.com/thread/1888279/article/27499854#27499854
 
-### Can a ship leave the active system and come back in the same move, for example to fetch ground forces?
+    ### Can a ship leave the active system and come back in the same move, for example to fetch ground forces?
 - id: `move-out-and-back-into-active-system` — grade: Community consensus
 - A: Yes — a ship that starts in the active system may move out and back in if its move value allows, and a ship may pass back through a system it already crossed. None of the systems it leaves or starts from may hold your command token, apart from the active system, and enemy ships still block the path.
   - sigmazero13 · 2017-11-22 — https://boardgamegeek.com/thread/1888889/article/27512854#27512854
@@ -1932,7 +1932,7 @@ x
       - gpoirier · 2025-09-11 — https://boardgamegeek.com/thread/3574512/article/46593459#46593459
       - hooliganj · 2017-12-18 — https://boardgamegeek.com/thread/1903832/article/27740187#27740187
 
-### Can I move more ships into a system that already has my command token on a later turn?
+    ### Can I move more ships into a system that already has my command token on a later turn?
 - id: `moving-into-system-with-own-token-later` — grade: Community consensus
 - A: No — ships only move into the active system, which stops being active when that tactical action ends, and you can't activate a system holding your token. A ship with move 1 can't reach a system two away in one action either; Warfare removes a token but doesn't extend movement.
   - mliszewski · 2018-06-21 — https://boardgamegeek.com/thread/2012908/article/29359981#29359981
@@ -1968,7 +1968,7 @@ x
         - Clipper · 2021-07-31 — https://boardgamegeek.com/thread/2701339/article/38185817#38185817
         - MrDeadfisch · 2017-11-26 · disagrees — https://boardgamegeek.com/thread/1890686/article/27538224#27538224
 
-### How do nebulae work for movement, and does Gravity Drive help?
+    ### How do nebulae work for movement, and does Gravity Drive help?
 - id: `nebula-movement` — grade: Per the rulebook — Movement Details
 - A: A ship may only enter a nebula if it is the active system, so it can never pass through one. A ship leaving a nebula has move 1, and bonuses like Gravity Drive or Flank Speed are then added on top.
   - Twilight Imperium: Fourth Edition rulebook · 2025-04-13 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -1996,7 +1996,7 @@ x
       - Clipper · 2019-12-07 — https://boardgamegeek.com/thread/2326060/article/33533753#33533753
       - Vidyaraja · 2017-09-18 — https://boardgamegeek.com/thread/1850777/article/26946549#26946549
 
-### If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?
+    ### If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?
 - id: `anomalies-restrict-moving-in-only` — grade: Community consensus
 - A: Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally, and effects can place units in anomalies.
   - MollyMae · 2022-01-09 — https://boardgamegeek.com/thread/2790403/article/39201889#39201889
@@ -2058,7 +2058,7 @@ x
       - Santiago · 2018-02-14 — https://boardgamegeek.com/thread/1940243/article/28271373#28271373
       - dheck · 2018-02-14 · disagrees — https://boardgamegeek.com/thread/1940243/article/28270247#28270247
 
-### How does Lost Star Chart work, including with Enforced Travel Ban?
+    ### How does Lost Star Chart work, including with Enforced Travel Ban?
 - id: `lost-star-chart` — grade: Community consensus
 - A: For the tactical action, every alpha and beta wormhole system is adjacent to every other, for everyone, including other players' Space Cannon. It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban.
   - sigmazero13 · 2018-02-19 — https://boardgamegeek.com/thread/1940243/article/28313682#28313682
@@ -2067,7 +2067,7 @@ x
   - IncrediSteve · 2018-01-01 — https://boardgamegeek.com/thread/1911027/article/27840616#27840616
   - Clipper · 2018-02-15 · disagrees — https://boardgamegeek.com/thread/1940243/article/28272502#28272502
 
-### Do Flank Speed and Gravity Drive stack?
+    ### Do Flank Speed and Gravity Drive stack?
 - id: `movement-bonuses-stack` — grade: Community consensus
 - A: Yes — Gravity Drive gives +1 to one ship and Flank Speed +1 to all your ships, so that ship can get +2, plus other bonuses. Two Flank Speeds can't be played together, though.
   - Clipper · 2019-01-30 — https://boardgamegeek.com/thread/2141340/article/31119789#31119789
@@ -2094,7 +2094,7 @@ x
       - AgentDrake · 2025-09-01 — https://boardgamegeek.com/thread/3569517/article/46552056#46552056
       - hannibal555 · 2020-12-28 · disagrees — https://boardgamegeek.com/thread/2567576/article/36602688#36602688
 
-### How do I move ground forces from one planet to another in the same system?
+    ### How do I move ground forces from one planet to another in the same system?
 - id: `moving-ground-forces-between-planets` — grade: Community consensus
 - A: Make a tactical action on that system: a ship with capacity, already there or moving in, picks them up during movement, and they land on the other planet in the invasion step, even if you already control it. Transit Diodes is the other way.
   - ajmarshall · 2020-02-11 — https://boardgamegeek.com/thread/2367786/article/34023499#34023499
@@ -2145,7 +2145,7 @@ x
   - Clipper · 2018-06-18 — https://boardgamegeek.com/thread/2011582/article/29339385#29339385
   - sigmazero13 · 2018-06-18 — https://boardgamegeek.com/thread/2011582/article/29339374#29339374
 
-### What does capacity cover, and which units have it?
+    ### What does capacity cover, and which units have it?
 - id: `capacity-what-it-covers` — grade: Per the rulebook — Fleet Pool, Capacity, and Transport
 - A: Capacity holds fighters and ground forces in the space area, in any mix: Cruiser II's or a dreadnought's capacity can hold fighters too. Any unit with a capacity value can transport, including some flagships, war suns and faction units; check the faction sheet. Ground forces on planets need no capacity.
   - Twilight Imperium: Fourth Edition rulebook · 2017-12-27 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2183,7 +2183,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - McBartsomeville · 2023-07-23 — https://boardgamegeek.com/thread/3122818/article/42665386#42665386
       - DauntlessK · 2019-06-03 — https://boardgamegeek.com/thread/2214402/article/32134873#32134873
 
-### Where can a moving ship pick up and drop off units?
+    ### Where can a moving ship pick up and drop off units?
 - id: `transport-pickup-and-dropoff` — grade: Per the rulebook — Fleet Pool, Capacity, and Transport
 - A: It can pick up fighters and ground forces in the system it starts in, every system it passes through and the active system, but not from any other system with your command token. Units come off only in the active system, after the ship finishes moving; it can't drop a load and go back for more. Fighters that don't fit stay behind.
   - Twilight Imperium: Fourth Edition rulebook · 2018-08-19 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2221,7 +2221,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - k8rthik · 2026-01-06 — https://boardgamegeek.com/thread/3640296/article/47117343#47117343
         - sigmazero13 · 2020-06-23 — https://boardgamegeek.com/thread/2453062/article/35174709#35174709
 
-### Can ground forces stay aboard ships in space instead of landing?
+    ### Can ground forces stay aboard ships in space instead of landing?
 - id: `ground-forces-stay-in-space` — grade: Community consensus
 - A: Yes — committing them is optional, and they can stay in space between turns as long as your ships there have enough capacity in total. Ground forces placed in space by effects like the Sol flagship don't fight in space combat; they wait for a later invasion or ride along when your ships move.
   - raptor666 · 2024-11-23 — https://boardgamegeek.com/thread/3410738/article/45230186#45230186
@@ -2248,7 +2248,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - Twilight Imperium: Fourth Edition rulebook · 2023-02-22 — https://www.rulespal.com/twilight-imperium-4/rulebook
         - GAFBlizzard · 2023-02-22 — https://boardgamegeek.com/thread/3033326/article/41777044#41777044
 
-### Is the one-transaction limit per turn or per round?
+    ### Is the one-transaction limit per turn or per round?
 - id: `one-transaction-per-turn-not-round` — grade: Community consensus
 - A: Per turn. A round covers all four phases; a turn is one player's turn in the action phase. So two neighbors can trade on one player's turn and again on the other's.
   - AgentDrake · 2020-12-03 — https://boardgamegeek.com/thread/2552962/article/36423337#36423337
@@ -2263,7 +2263,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - Clipper · 2018-12-03 — https://boardgamegeek.com/thread/2106796/article/30640330#30640330
         - hooliganj · 2017-12-08 — https://boardgamegeek.com/thread/1898210/article/27659092#27659092
 
-### Can players trade action cards?
+    ### Can players trade action cards?
 - id: `trading-action-cards` — grade: Per the rulebook — The Economy: Resources, Trade Goods, and Commodities
 - A: No — transactions cover only trade goods, commodities and promissory notes. The Hacan are the exception: their faction ability lets them include action cards, still within the one-transaction-per-player limit.
   - AgentDrake · 2026-01-04 — https://boardgamegeek.com/thread/3638644/article/47103830#47103830
@@ -2293,7 +2293,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - hooliganj · 2024-01-12 — https://boardgamegeek.com/thread/3225074/article/43604198#43604198
   - rubberchicken · 2024-01-12 — https://boardgamegeek.com/thread/3225074/article/43604232#43604232
 
-### What can be exchanged in a transaction?
+    ### What can be exchanged in a transaction?
 - id: `what-can-be-traded` — grade: Per the rulebook — The Economy: Resources, Trade Goods, and Commodities
 - A: Any number of trade goods and commodities, plus one promissory note from each side, and relic fragments with Prophecy of Kings. Technologies, units, planets, laws, command tokens, the speaker token and secret objectives can't be traded; action cards only when the Hacan are one of the parties, in any number and either direction. A transaction may be lopsided, even a gift.
   - Twilight Imperium: Fourth Edition rulebook · 2021-06-04 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2312,7 +2312,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - sigmazero13 · 2020-02-11 — https://boardgamegeek.com/thread/2367710/article/34022288#34022288
       - Sande24 · 2017-11-27 — https://boardgamegeek.com/thread/1891652/article/27546581#27546581
 
-### Can players make transactions in the strategy or status phase?
+    ### Can players make transactions in the strategy or status phase?
 - id: `no-transactions-strategy-status` — grade: Community consensus
 - A: No — transactions happen only in the action phase (active player with neighbors) and the agenda phase (anyone). Players can still talk and make non-binding deals at any time, even during galaxy setup.
   - chrisdk · 2026-04-12 — https://boardgamegeek.com/thread/3692178/article/47542483#47542483
@@ -2359,7 +2359,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2020-08-26 — https://boardgamegeek.com/thread/2491537/article/35675385#35675385
       - TheImmortal87 · 2022-10-08 · disagrees — https://boardgamegeek.com/thread/2947910/article/40934135#40934135
 
-### Is a deal like 'take these trade goods and don't attack me this turn' binding?
+    ### Is a deal like 'take these trade goods and don't attack me this turn' binding?
 - id: `deal-not-to-attack` — grade: Community consensus
 - A: No — a promise covering a period of time can't be resolved immediately, so it can be broken. To make something binding, pay for a specific immediate act, such as choosing not to fire Space Cannon right now, or trade for a promissory note like Ceasefire. A deal for future payment is non-binding too. Deals can never override rules like mandatory combat rolls.
   - hooliganj · 2018-01-04 — https://boardgamegeek.com/thread/1913123/article/27868127#27868127
@@ -2428,7 +2428,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2020-06-07 — https://boardgamegeek.com/thread/2443469/article/35043041#35043041
       - Clipper · 2022-01-30 — https://boardgamegeek.com/thread/2801050/article/39365509#39365509
 
-### When producing, can I exhaust planets outside the active system to pay?
+    ### When producing, can I exhaust planets outside the active system to pay?
 - id: `pay-with-any-planets` — grade: Community consensus
 - A: Yes — spend resources from any planets you control, wherever they are, plus trade goods. Only the number of units is limited by the Production in the active system.
   - Painkeeper · 2019-07-11 — https://boardgamegeek.com/thread/2235833/article/32432608#32432608
@@ -2437,7 +2437,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Clipper · 2017-12-17 — https://boardgamegeek.com/thread/1903178/article/27732006#27732006
   - sigmazero13 · 2019-10-30 — https://boardgamegeek.com/thread/2302242/article/33259468#33259468
 
-### Do the Production values of several units in the active system add together?
+    ### Do the Production values of several units in the active system add together?
 - id: `production-pooled-in-system` — grade: Community consensus
 - A: Yes — all your Production in the active system is pooled into one production: two space docks of 4 and 3 give 7, and two Arborec infantry with Production 1 can build 2 infantry for 1 resource, even on different planets. You work out the total before producing, so units produced in that step can't add their own Production to it.
   - Clipper · 2018-05-08 — https://boardgamegeek.com/thread/1989588/article/29024319#29024319
@@ -2465,7 +2465,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - pedro2112 · 2021-01-23 — https://boardgamegeek.com/thread/2586120/article/36815436#36815436
       - IncrediSteve · 2020-01-04 — https://boardgamegeek.com/thread/2342464/article/33711588#33711588
 
-### Can I produce at my home space dock during a tactical action elsewhere, or at a system I activated earlier?
+    ### Can I produce at my home space dock during a tactical action elsewhere, or at a system I activated earlier?
 - id: `produce-only-in-active-system` — grade: Community consensus
 - A: No — the production step only uses units in the system you just activated. Producing without activating needs a specific effect such as the Warfare secondary or Sling Relay.
   - zamoose · 2019-09-30 — https://boardgamegeek.com/thread/2284475/article/33041404#33041404
@@ -2474,7 +2474,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - McBartsomeville · 2025-03-23 — https://boardgamegeek.com/thread/3483492/article/45847149#45847149
   - HP12C_guy · 2025-03-23 — https://boardgamegeek.com/thread/3483492/article/45847162#45847162
 
-### Can I produce ships at a space dock when enemy ships are in that system?
+    ### Can I produce ships at a space dock when enemy ships are in that system?
 - id: `blockade-production` — grade: Per the rulebook — Producing Units
 - A: No — a dock (or other Production unit) in a system with another player's ships and none of yours is blockaded and can only produce ground forces. You keep the planet, and your PDS still fire. If Space Cannon or combat clears the enemy ships before the production step, you produce normally. Ground forces alone, without ships, never blockade.
   - Twilight Imperium: Fourth Edition rulebook · 2017-12-11 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2482,7 +2482,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Lowecore · 2023-04-03 — https://boardgamegeek.com/thread/3058384/article/42028273#42028273
   - halbower · 2020-07-04 — https://boardgamegeek.com/thread/2459980/article/35262516#35262516
 
-### Can I build space docks or PDS with Production?
+    ### Can I build space docks or PDS with Production?
 - id: `structures-not-produced` — grade: Per the rulebook — Control, Structures, and the Custodians Token
 - A: No — unlike earlier editions, structures can't be built with Production; they come mainly from the Construction strategy card. A planet holds at most one space dock and two PDS, Mecatol Rex included.
   - Twilight Imperium: Fourth Edition rulebook · 2017-12-12 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2511,7 +2511,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Marcial · 2021-04-08 — https://boardgamegeek.com/thread/2636561/article/37439590#37439590
       - AgentDrake · 2018-08-12 — https://boardgamegeek.com/thread/2041573/article/29753484#29753484
 
-### How does Sarween Tools work?
+    ### How does Sarween Tools work?
 - id: `sarween-tools-rules` — grade: Community consensus
 - A: It cuts the combined cost of one use of Production by 1, not 1 per unit or per dock, and can take it to zero, so 2 infantry or 2 fighters can be free. It needs a unit's Production ability, so it doesn't apply to effects that just let you produce, like Sling Relay, but works with the Warfare secondary.
   - hooliganj · 2018-04-28 — https://boardgamegeek.com/thread/1984033/article/28949151#28949151
@@ -2528,7 +2528,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - hooliganj · 2018-11-26 — https://boardgamegeek.com/thread/2103121/article/30587315#30587315
       - Clipper · 2019-09-30 — https://boardgamegeek.com/thread/2284540/article/33042085#33042085
 
-### When all my plastic fighters or infantry are on the board, can I move some to where I'm producing?
+    ### When all my plastic fighters or infantry are on the board, can I move some to where I'm producing?
 - id: `taking-plastic-for-production` — grade: Community consensus
 - A: Yes — you may remove them from systems without your command token and produce them instead of using tokens. Tokens are optional, and each location using tokens still needs at least one plastic piece of that type.
   - IncrediSteve · 2024-03-06 — https://boardgamegeek.com/thread/3260802/article/43914526#43914526
@@ -2587,7 +2587,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - IncrediSteve · 2022-01-24 — https://boardgamegeek.com/thread/2800761/article/39321856#39321856
       - Falcone1983 · 2017-11-05 — https://boardgamegeek.com/thread/1877608/article/27351516#27351516
 
-### How do technology specialties work when researching?
+    ### How do technology specialties work when researching?
 - id: `technology-specialty-rules` — grade: Per the rulebook — Technology
 - A: Exhaust a ready planet with a specialty to ignore one prerequisite of that color; several planets can skip several prerequisites on one technology, and it works for unit upgrades too. Exhausting a planet for its specialty is separate from spending it, so you don't also get its resources.
   - Twilight Imperium: Fourth Edition rulebook · 2019-02-16 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2606,7 +2606,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - sigmazero13 · 2020-02-28 — https://boardgamegeek.com/thread/2378689/article/34163038#34163038
         - sigmazero13 · 2020-05-19 — https://boardgamegeek.com/thread/2431418/article/34869558#34869558
 
-### How do unit upgrades work?
+    ### How do unit upgrades work?
 - id: `unit-upgrades-are-technologies` — grade: Per the rulebook — Technology
 - A: They are technologies you research normally, prerequisites and all; Inheritance Systems can skip their prerequisites like any other. Once gained, lay the card over that unit on your faction sheet; all your units of that type use the new stats right away. Upgrades have no colour, so they don't count as prerequisites or for colour objectives.
   - Twilight Imperium: Fourth Edition rulebook · 2025-08-19 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2615,7 +2615,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Clavos · 2026-01-06 — https://boardgamegeek.com/thread/3640018/article/47114705#47114705
   - Clipper · 2020-12-16 — https://boardgamegeek.com/thread/2560924/article/36527757#36527757
 
-### Do faction technologies replace generic ones?
+    ### Do faction technologies replace generic ones?
 - id: `faction-unit-upgrades-replace-generic` — grade: Community consensus
 - A: Only faction unit upgrades replace the matching generic upgrade; all other faction technologies are extras. Faction unit upgrades do count as faction technologies for objectives.
   - Clipper · 2021-02-08 — https://boardgamegeek.com/thread/2597377/article/36947059#36947059
@@ -2783,7 +2783,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2019-03-26 — https://boardgamegeek.com/thread/2174550/article/31583152#31583152
       - Clipper · 2018-10-21 — https://boardgamegeek.com/thread/2079870/article/30279817#30279817
 
-### Can Bioplasmosis or Transit Diodes move ground forces onto enemy planets, or chain across systems?
+    ### Can Bioplasmosis or Transit Diodes move ground forces onto enemy planets, or chain across systems?
 - id: `bioplasmosis-and-transit-diodes` — grade: Community consensus
 - A: No. Both only move ground forces to planets you control. Bioplasmosis moves each infantry once, to a planet in its own or an adjacent system, so no hopping across several systems.
   - baza26b · 2018-06-28 — https://boardgamegeek.com/thread/2016462/article/29409295#29409295
@@ -2834,7 +2834,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - GrumblingGamer · 2019-01-12 — https://boardgamegeek.com/thread/2130277/article/30960781#30960781
         - Clipper · 2019-01-12 — https://boardgamegeek.com/thread/2130277/article/30960819#30960819
 
-### Do I lose control of a planet if my ground forces leave or are destroyed?
+    ### Do I lose control of a planet if my ground forces leave or are destroyed?
 - id: `keeping-control-of-planets` — grade: Community consensus
 - A: No — you control a planet while you hold its card; with no units there, mark it with a control token. You only lose control when another player gains it, by invading or an effect that says so. That includes home planets you start with, and control never reverts to a former owner automatically.
   - gpoirier · 2023-07-19 — https://boardgamegeek.com/thread/3120466/article/42644778#42644778
@@ -2853,7 +2853,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2017-12-17 — https://boardgamegeek.com/thread/1903135/article/27731820#27731820
       - Padish · 2017-12-17 — https://boardgamegeek.com/thread/1903135/article/27732736#27732736
 
-### How do I take control of a planet?
+    ### How do I take control of a planet?
 - id: `taking-control-needs-ground-forces` — grade: Per the rulebook — Tactical Action
 - A: Normally by landing at least one ground force on it in the invasion step; ships in the system, or fighters, even with the Naalu flagship, never take a planet. Each planet is taken separately, so one invasion can't claim a second planet you didn't land on. A few effects grant control directly, and say so, like Xxcha's Peace Accords.
   - Twilight Imperium: Fourth Edition rulebook · 2023-05-02 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -2862,7 +2862,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Nyarlathotep90 · 2018-01-21 — https://boardgamegeek.com/thread/1924242/article/28022338#28022338
   - IncrediSteve · 2017-12-08 — https://boardgamegeek.com/thread/1898007/article/27654893#27654893
 
-### When invading a system with two planets, does winning on one take both, and what if both sides are wiped out on a planet?
+    ### When invading a system with two planets, does winning on one take both, and what if both sides are wiped out on a planet?
 - id: `two-planets-separate-combats` — grade: Per the rulebook — Invasion and Ground Combat
 - A: No — each planet has its own ground combat, and you take only the planets where your ground forces remain and the defender's don't. If both sides lose all their ground forces on a planet, the defender keeps control.
   - hooliganj · 2019-01-29 — https://boardgamegeek.com/thread/2141150/article/31116275#31116275
@@ -2887,7 +2887,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - sigmazero13 · 2018-09-13 — https://boardgamegeek.com/thread/2059057/article/29988045#29988045
       - Clipper · 2018-09-14 · disagrees — https://boardgamegeek.com/thread/2059057/article/29995391#29995391
 
-### Can PDS or space docks be moved or transported?
+    ### Can PDS or space docks be moved or transported?
 - id: `structures-cannot-move` — grade: Community consensus
 - A: No — structures stay where they are placed, except the Saar Floating Factories, which move as if they were ships.
   - Clipper · 2020-01-21 — https://boardgamegeek.com/thread/2353341/article/33845366#33845366
@@ -2904,7 +2904,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - AgentDrake · 2022-01-18 — https://boardgamegeek.com/thread/2796791/article/39276412#39276412
       - pfischer · 2017-12-18 — https://boardgamegeek.com/thread/1903832/article/27740225#27740225
 
-### If I kill every ground force on a planet with X-89 or Orbital Drop elsewhere, do I take the planet?
+    ### If I kill every ground force on a planet with X-89 or Orbital Drop elsewhere, do I take the planet?
 - id: `destroying-ground-forces-not-control` — grade: Community consensus
 - A: No — destroying defenders never changes control, and Orbital Drop only reinforces planets you already control. You must invade in a tactical action to take it.
   - Crikrunner · 2018-05-28 — https://boardgamegeek.com/thread/2000295/article/29177320#29177320
@@ -2956,7 +2956,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - pkitty · 2017-12-16 — https://boardgamegeek.com/thread/1902562/article/27725261#27725261
   - shakesignal · 2018-05-21 · disagrees — https://boardgamegeek.com/thread/1996325/article/29121505#29121505
 
-### If I have 7 action cards and draw 2, do I discard as I go or after drawing both?
+    ### If I have 7 action cards and draw 2, do I discard as I go or after drawing both?
 - id: `action-card-hand-limit-draw-two` — grade: Community consensus
 - A: Draw both, then discard down to seven, choosing from your whole hand.
   - Clipper · 2018-05-22 — https://boardgamegeek.com/thread/1997278/article/29132560#29132560
@@ -3207,7 +3207,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: The opponent, as with any hits unless an ability says otherwise; if only fighters are left, they take the hits.
   - Clipper · 2021-08-06 — https://boardgamegeek.com/thread/2704696/article/38227037#38227037
 
-### Can Creuss use a wormhole token to get into an asteroid field protected by Saar's Chaos Mapping?
+    ### Can Creuss use a wormhole token to get into an asteroid field protected by Saar's Chaos Mapping?
   - id: `creuss-wormhole-vs-chaos-mapping` — grade: Community consensus
   - A: No — Chaos Mapping says other players can't activate it, and 'cannot' is absolute; Creuss can place the token there but still can't activate the system to move in.
     - halbower · 2020-03-21 — https://boardgamegeek.com/thread/2392149/article/34337158#34337158
@@ -3271,7 +3271,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - hooliganj · 2023-01-08 — https://boardgamegeek.com/thread/3003645/article/41472637#41472637
   - zamoose · 2023-01-08 · disagrees — https://boardgamegeek.com/thread/3003645/article/41472567#41472567
 
-### With Jol-Nar's Fragile, can their fighters still hit?
+    ### With Jol-Nar's Fragile, can their fighters still hit?
 - id: `jol-nar-fragile-fighters` — grade: Community consensus
 - A: Yes, on a 10: the -1 makes it 9, which still meets the fighter's combat value of 9. Fragile only affects combat rolls, not Space Cannon, Bombardment or Anti-Fighter Barrage.
   - Amuk · 2018-08-22 — https://boardgamegeek.com/thread/2047023/article/29827797#29827797
@@ -3296,7 +3296,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2018-01-07 — https://boardgamegeek.com/thread/1915419/article/27897779#27897779
       - Clipper · 2017-12-11 — https://boardgamegeek.com/thread/1899565/article/27676844#27676844
 
-### How does the Arborec flagship's produce-5 ability work?
+    ### How does the Arborec flagship's produce-5 ability work?
 - id: `arborec-flagship-produce-five` — grade: Community consensus
 - A: Right after you activate the system it is already in, before movement, you may produce up to 5 units there, paying as normal; it isn't the Production step, so the regular production step still follows later. It can't move in first and then produce. Structures can't be produced this way.
   - Clipper · 2018-11-10 — https://boardgamegeek.com/thread/2092737/article/30454514#30454514
@@ -3572,7 +3572,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Weltenreiter · 2019-04-24 — https://boardgamegeek.com/thread/2191561/article/31818004#31818004
       - Clipper · 2019-04-24 — https://boardgamegeek.com/thread/2191561/article/31818070#31818070
 
-### How does the Yin's Devotion work?
+    ### How does the Yin's Devotion work?
 - id: `yin-devotion-rules` — grade: Community consensus
   - A: After a round of space combat, Yin may destroy one of their cruisers or destroyers in the active system — the errata adds 'in the active system' — to produce a hit that the Yin player assigns to an enemy ship. It is a single faction ability, so once per combat round. It has different timing from Impulse Core, so both can be used in one combat. Indoctrination works once per ground combat, at its start.
     - Verkan · 2018-02-04 — https://boardgamegeek.com/thread/1902562/article/28159661#28159661
@@ -3600,13 +3600,13 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
           - Clipper · 2021-08-03 — https://boardgamegeek.com/thread/2702914/article/38201901#38201901
           - Clipper · 2021-08-03 — https://boardgamegeek.com/thread/2702914/article/38203253#38203253
 
-### How do Sardakk's Unrelenting and flagship bonuses work?
+    ### How do Sardakk's Unrelenting and flagship bonuses work?
 - id: `sardakk-unrelenting-and-flagship` — grade: Community consensus
 - A: Unrelenting adds +1 to Sardakk combat rolls only, not to Bombardment or other unit abilities. The flagship gives other ships in its system another +1, so a war sun there gets +2 and the flagship itself +1.
   - IncrediSteve · 2024-10-09 — https://boardgamegeek.com/thread/3383942/article/44995360#44995360
   - Clipper · 2021-08-03 — https://boardgamegeek.com/thread/2702914/article/38201901#38201901
 
-### Does Greyfire Mutagen stop the Yin flagship from destroying the ships in its system?
+    ### Does Greyfire Mutagen stop the Yin flagship from destroying the ships in its system?
 - id: `yin-flagship-vs-greyfire` — grade: Community consensus
 - A: No — a flagship's ability is a unit ability, not a faction ability, so Greyfire Mutagen doesn't affect it.
   - Clipper · 2018-03-12 — https://boardgamegeek.com/thread/1956513/article/28526589#28526589
@@ -3689,7 +3689,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
     - IncrediSteve · 2018-11-09 — https://boardgamegeek.com/thread/2092325/article/30447967#30447967
     - Ragnarwarbar · 2018-07-30 · disagrees — https://boardgamegeek.com/thread/2033733/article/29645719#29645719
 
-### If two players reach 10 points at the same moment in the agenda phase, who wins?
+    ### If two players reach 10 points at the same moment in the agenda phase, who wins?
 - id: `simultaneous-10-points-agenda-phase` — grade: Community consensus
 - A: Start with the speaker and go clockwise: the tied speaker wins, otherwise the first tied player clockwise from the speaker. Strategy cards have no bearing in the agenda phase, so initiative order doesn't apply.
   - alercah · 2017-11-22 — https://boardgamegeek.com/thread/1886825/article/27511698#27511698
@@ -3707,7 +3707,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2019-07-15 — https://boardgamegeek.com/thread/2237283/article/32460756#32460756
       - hooliganj · 2019-07-18 — https://boardgamegeek.com/thread/2237283/article/32484218#32484218
 
-### Can a player win during the action phase?
+    ### Can a player win during the action phase?
 - id: `winning-during-action-phase` — grade: Per the rulebook — Winning the Game
 - A: Yes — the game ends the moment anyone reaches the goal. Points can come in the action phase from action-phase secret objectives, the Imperial card (including scoring a public objective), the custodians token and some agendas.
   - Twilight Imperium: Fourth Edition rulebook · 2019-10-07 — https://www.rulespal.com/twilight-imperium-4/rulebook
@@ -3715,18 +3715,18 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - ysirian · 2019-10-07 — https://boardgamegeek.com/thread/2288718/article/33095364#33095364
   - sigmazero13 · 2019-10-07 — https://boardgamegeek.com/thread/2288718/article/33095368#33095368
 
-### Is there an official longer game?
+    ### Is there an official longer game?
 - id: `fourteen-point-game` — grade: Per the rulebook — Object of the Game
 - A: Yes — flip the victory point track to its 14-point side and play to 14 instead of 10.
   - Twilight Imperium: Fourth Edition rulebook · 2017-08-17 — https://www.rulespal.com/twilight-imperium-4/rulebook
   - Becq · 2017-08-17 — https://boardgamegeek.com/thread/1831876/article/26670229#26670229
 
-### When is a player eliminated?
+    ### When is a player eliminated?
 - id: `elimination-conditions` — grade: Per the rulebook — Elimination
 - A: Only when all three are true: no ground forces on the board, no units with Production, and no planets controlled. Ships alone don't keep you in the game if the rest is gone.
   - Twilight Imperium: Fourth Edition rulebook · 2019-09-10 — https://www.rulespal.com/twilight-imperium-4/rulebook
 
-### After a player is eliminated, do the remaining players pick more strategy cards?
+    ### After a player is eliminated, do the remaining players pick more strategy cards?
 - id: `strategy-cards-after-elimination` — grade: Community consensus
 - A: No — keep the strategy card rules for the player count you started with, so a five-player game doesn't become a four-player game; the extra cards just collect trade goods. An eliminated player's unused strategy card is never resolved and returns at the end of the round, and agendas they owned are discarded.
   - IncrediSteve · 2025-03-03 — https://boardgamegeek.com/thread/3471493/article/45745229#45745229
@@ -3736,14 +3736,14 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Crikrunner · 2018-08-06 — https://boardgamegeek.com/thread/2037831/article/29701476#29701476
   - SnakePlissken72 · 2025-03-03 · disagrees — https://boardgamegeek.com/thread/3471493/article/45744969#45744969
 
-### When a player is eliminated, do their wormhole tokens or Naalu 0 token leave the game?
+    ### When a player is eliminated, do their wormhole tokens or Naalu 0 token leave the game?
 - id: `eliminated-player-tokens` — grade: Community consensus
 - A: Not automatically — the elimination rule doesn't list them, so placed Creuss wormhole tokens stay on the board, and a Naalu 0 token held by another player through the promissory note stays until the end of that round.
   - sigmazero13 · 2018-03-12 — https://boardgamegeek.com/thread/1956528/article/28526941#28526941
   - Clipper · 2018-03-12 — https://boardgamegeek.com/thread/1956528/article/28526998#28526998
   - MollyMae · 2018-03-12 — https://boardgamegeek.com/thread/1956528/article/28526789#28526789
 
-### What happens to a technology the Nekro copied with Valefar Assimilator if its owner is eliminated?
+    ### What happens to a technology the Nekro copied with Valefar Assimilator if its owner is eliminated?
 - id: `eliminated-player-assimilated-tech` — grade: Community consensus
 - A: The Nekro takes that technology card into their play area and keeps it until they move the token or the game ends; then it returns to the box with the eliminated player's components.
   - Vidyaraja · 2017-09-18 — https://boardgamegeek.com/thread/1850777/article/26946549#26946549
@@ -3813,14 +3813,14 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2021-08-28 — https://boardgamegeek.com/thread/2716754/article/38360137#38360137
       - AgentDrake · 2021-08-21 — https://boardgamegeek.com/thread/2712696/article/38316666#38316666
 
-### Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?
+    ### Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?
 - id: `titans-terragenesis-limits` — grade: Community consensus
 - A: No to both. Terragenesis triggers after you explore a planet without a sleeper and places one token, so a planet holds at most one. Mecatol Rex and home planets have no trait and can't be explored, so they never get one this way.
   - DistantOasis · 2021-01-26 — https://boardgamegeek.com/thread/2586120/article/36840307#36840307
   - IncrediSteve · 2021-01-26 — https://boardgamegeek.com/thread/2588507/article/36840017#36840017
   - hooliganj · 2021-01-26 — https://boardgamegeek.com/thread/2588507/article/36840023#36840023
 
-### Does the Vuil'raith flagship capture units destroyed at the same moment it is destroyed?
+    ### Does the Vuil'raith flagship capture units destroyed at the same moment it is destroyed?
 - id: `cabal-fleet-destroyed-by-yin-flagship` — grade: Community consensus
 - A: Yes, according to the developer's later FAQ answers that players compiled: it captures every other unit destroyed in the same timing window, even if it is destroyed there too, such as by the Yin flagship or Exotrireme II; it never captures itself. That reversed an earlier answer, and some players still disagree. If the flagship was destroyed earlier, it isn't there to capture later losses.
   - Ippiphel · 2022-11-11 — https://boardgamegeek.com/thread/2554104/article/41147389#41147389
@@ -3853,7 +3853,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: Mallice is adjacent to every system with a matching wormhole, so ships in those systems are affected. Systems that are merely next to those wormhole systems are not.
   - McBartsomeville · 2025-05-13 — https://boardgamegeek.com/thread/3511174/article/46075516#46075516
 
-### Which exploration deck do I draw from when a planet has more than one trait?
+    ### Which exploration deck do I draw from when a planet has more than one trait?
 - id: `explore-multi-trait-planet` — grade: Community consensus
 - A: You choose one of the matching trait decks and draw a single card from it.
   - IncrediSteve · 2025-10-05 — https://boardgamegeek.com/thread/3587707/article/46700253#46700253
@@ -3866,7 +3866,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - IncrediSteve · 2024-04-02 — https://boardgamegeek.com/thread/3276957/article/44058670#44058670
   - McBartsomeville · 2024-04-02 · disagrees — https://boardgamegeek.com/thread/3276957/article/44058578#44058578
 
-### Can I play Counterstroke on a system I activate that already has my command token?
+    ### Can I play Counterstroke on a system I activate that already has my command token?
 - id: `counterstroke-own-command-token` — grade: Community consensus
 - A: No in practice — you can't normally activate a system that contains your own command token, so the trigger never comes up. Mahact's commander doesn't help either, since activating that way ends your turn at once with no after-activation abilities.
   - Clipper · 2022-01-05 — https://boardgamegeek.com/thread/2788406/article/39177498#39177498
@@ -3893,7 +3893,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Sir Gerard · 2026-01-10 — https://boardgamegeek.com/thread/3642539/article/47136188#47136188
       - hooliganj · 2026-01-10 — https://boardgamegeek.com/thread/3642539/article/47136202#47136202
 
-### Can relic fragments be traded, and in both directions?
+    ### Can relic fragments be traded, and in both directions?
 - id: `relic-fragments-tradeable` — grade: Community consensus
 - A: Yes — relic fragments can be included in transactions by either side.
   - zamoose · 2026-03-27 — https://boardgamegeek.com/thread/3683794/article/47475569#47475569
@@ -3919,7 +3919,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
         - LovingAngel · 2020-12-22 — https://boardgamegeek.com/thread/2564072/article/36567563#36567563
         - hooliganj · 2020-12-22 — https://boardgamegeek.com/thread/2564072/article/36568610#36568610
 
-### Does exploring a new planet happen before Integrated Economy?
+    ### Does exploring a new planet happen before Integrated Economy?
 - id: `exploration-before-integrated-economy` — grade: Community consensus
 - A: Yes — exploring triggers when you take control, Integrated Economy after, so you explore first. Attachments can stack, so a planet may hold several.
   - Marcial · 2021-09-01 — https://boardgamegeek.com/thread/2718837/article/38383798#38383798
@@ -3936,7 +3936,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - IncrediSteve · 2022-05-07 — https://boardgamegeek.com/thread/2862649/article/40027368#40027368
       - AgentDrake · 2022-05-07 — https://boardgamegeek.com/thread/2862649/article/40027407#40027407
 
-### Can Xxcha's Peace Accords take a planet with the Demilitarized Zone?
+    ### Can Xxcha's Peace Accords take a planet with the Demilitarized Zone?
 - id: `peace-accords-demilitarized-zone` — grade: Community consensus
 - A: Yes — players agree Peace Accords can take a planet with the Demilitarized Zone.
   - joepinion · 2020-12-28 — https://boardgamegeek.com/thread/2567314/article/36600135#36600135
@@ -4044,7 +4044,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - zamoose · 2021-03-21 — https://boardgamegeek.com/thread/2624637/article/37300793#37300793
       - Clipper · 2022-12-29 — https://boardgamegeek.com/thread/2997167/article/41414762#41414762
 
-### Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?
+    ### Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?
 - id: `mahact-commander-ends-turn` — grade: Community consensus
 - A: No — the commander ends your turn as part of resolving it, so no window for other abilities opens. The developer once tweeted otherwise, but the later compiled FAQ answers reversed that.
   - McBartsomeville · 2023-10-04 — https://boardgamegeek.com/thread/2639956/article/43059248#43059248
@@ -4112,7 +4112,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Marcial · 2021-05-20 — https://boardgamegeek.com/thread/2662584/article/37748578#37748578
       - zamoose · 2021-08-17 · disagrees — https://boardgamegeek.com/thread/2710070/article/38291189#38291189
 
-### Are exploration cards public, and what happens when a deck runs out?
+    ### Are exploration cards public, and what happens when a deck runs out?
 - id: `exploration-cards-public` — grade: Community consensus
 - A: They resolve openly; relic fragments are kept face up and attachments go on planets, while other cards are discarded. When a deck runs out, shuffle its discards into a new deck; used relic fragments are purged, so they never come back.
   - hooliganj · 2020-12-05 — https://boardgamegeek.com/thread/2554104/article/36439776#36439776
@@ -4138,7 +4138,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - zamoose · 2022-02-20 — https://boardgamegeek.com/thread/2818626/article/39523996#39523996
       - McBartsomeville · 2022-02-20 — https://boardgamegeek.com/thread/2818626/article/39524650#39524650
 
-### How does Scanlink Drone Network work?
+    ### How does Scanlink Drone Network work?
 - id: `scanlink-needs-unit-on-planet` — grade: Community consensus
 - A: Each time you activate a system, you may explore one planet there that already contains any of your units (infantry, mech, PDS or dock), even one explored before, so the same planets can be explored again and again. It won't explore planets your ships merely fly past.
   - pedro2112 · 2020-12-04 — https://boardgamegeek.com/thread/2553717/article/36434333#36434333
@@ -4148,7 +4148,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - AgentDrake · 2021-04-19 — https://boardgamegeek.com/thread/2643971/article/37529420#37529420
   - Marcial · 2021-09-23 — https://boardgamegeek.com/thread/2729941/article/38511795#38511795
 
-### Can mechs use tokens beyond the 4 plastic pieces?
+    ### Can mechs use tokens beyond the 4 plastic pieces?
 - id: `mechs-plastic-limit` — grade: Community consensus
 - A: No — tokens stand in only for infantry and fighters. Effects naming 'ground forces' include mechs; effects naming 'infantry' don't.
   - SFRR · 2024-04-04 — https://boardgamegeek.com/thread/3277803/article/44066362#44066362
@@ -4189,7 +4189,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - antmarcar1991 · 2021-08-30 — https://boardgamegeek.com/thread/2716886/article/38366332#38366332
       - Clipper · 2021-08-30 — https://boardgamegeek.com/thread/2716886/article/38367197#38367197
 
-### Can the Empyrean refuse Aetherpassage after agreeing to it in a deal?
+    ### Can the Empyrean refuse Aetherpassage after agreeing to it in a deal?
 - id: `empyrean-aetherpassage-refusal` — grade: Community consensus
 - A: Yes — it is optional and used at the moment the other player moves, and the deal isn't binding. Once that movement has happened, though, it can't be undone.
   - thenintendovirus · 2021-02-03 — https://boardgamegeek.com/thread/2593718/article/36904968#36904968
@@ -4223,7 +4223,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: Tears only hinder other players' units: Vuil'raith ignore their own, Nekro ignore Nekro's, but Vuil'raith are affected by Nekro tears. All tears on the board count for the Vuil'raith hero.
   - hooliganj · 2020-12-15 — https://boardgamegeek.com/thread/2560247/article/36518254#36518254
 
-### What are captured units good for, and how do Amalgamation and Riftmeld use them?
+    ### What are captured units good for, and how do Amalgamation and Riftmeld use them?
 - id: `vuilraith-captured-units` — grade: Community consensus
 - A: Returning a captured unit of a type lets the Vuil'raith produce one unit of that type without paying (Amalgamation) or ignore prerequisites on its upgrade (Riftmeld). Each captured unit or token gives one unit, even fighters or infantry, and its printed cost still counts toward limits like Integrated Economy's. Any captured unit of the base type works, a Prototype War Sun counting as a war sun. Amalgamation is producing, so it can trigger Sling Relay.
   - ajmarshall · 2022-06-01 — https://boardgamegeek.com/thread/2876061/article/40179717#40179717
@@ -4279,7 +4279,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - IncrediSteve · 2022-07-02 — https://boardgamegeek.com/thread/2893094/article/40372735#40372735
       - Old_Man_gi · 2022-05-08 — https://boardgamegeek.com/thread/2862778/article/40029147#40029147
 
-### Can the Titans deploy their mech instead of placing a PDS with Construction?
+    ### Can the Titans deploy their mech instead of placing a PDS with Construction?
 - id: `titans-construction-mech-deploy` — grade: Community consensus
 - A: Yes — Construction places PDS, so the Titans' deploy works there, even twice with the primary, but only where you could legally place a PDS and with one available.
   - hooliganj · 2021-06-21 — https://boardgamegeek.com/thread/2680588/article/37953669#37953669
@@ -4460,7 +4460,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Spinners71 · 2022-01-13 — https://boardgamegeek.com/thread/2793555/article/39240412#39240412
   - sigmazero13 · 2022-01-14 — https://boardgamegeek.com/thread/2793555/article/39242840#39242840
 
-  q### With Diplomatic Pressure or the Mentak commander, who picks the promissory note handed over?
+  ### With Diplomatic Pressure or the Mentak commander, who picks the promissory note handed over?
   - id: `target-chooses-promissory-note` — grade: Community consensus
     - A: The target does; the other player can't look at or name a specific note.
     - TinTeardrop · 2021-08-23 — https://boardgamegeek.com/thread/2714161/article/38331046#38331046
@@ -4492,7 +4492,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - TinTeardrop · 2021-08-23 — https://boardgamegeek.com/thread/2714161/article/38331046#38331046
       - Clipper · 2021-08-23 — https://boardgamegeek.com/thread/2714161/article/38331183#38331183
 
-### What happens if Rout forces a retreat but there's no legal system, or the combat ends first?
+    ### What happens if Rout forces a retreat but there's no legal system, or the combat ends first?
 - id: `rout-without-legal-retreat` — grade: Community consensus
 - A: Rout needs a legal destination; without one it does nothing and the ships keep fighting, they aren't destroyed. If the combat ends before the retreat, for example because Assault Cannon kills the last ship at the start, no retreat happens.
   - IncrediSteve · 2022-08-13 — https://boardgamegeek.com/thread/2916856/article/40623253#40623253
@@ -4532,7 +4532,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - mathmagician · 2023-10-07 — https://boardgamegeek.com/thread/3166810/article/43076135#43076135
   - hooliganj · 2023-10-07 — https://boardgamegeek.com/thread/3166810/article/43076149#43076149
 
-### Does the Nekro hero need prerequisites for the technology it gains?
+    ### Does the Nekro hero need prerequisites for the technology it gains?
 - id: `nekro-hero-gain-tech` — grade: Community consensus
 - A: No — gaining ignores prerequisites. The technology just has to match the colour of the chosen planet's specialty, so unit upgrades, having no colour, can't be taken.
   - selcos21 · 2023-06-01 — https://boardgamegeek.com/thread/3093356/article/42376382#42376382
@@ -4560,7 +4560,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Clipper · 2021-09-02 — https://boardgamegeek.com/thread/2718366/article/38384876#38384876
   - Clipper · 2018-06-10 — https://boardgamegeek.com/thread/2007138/article/29277007#29277007
 
-### Can the Sardakk commander be used when defending?
+    ### Can the Sardakk commander be used when defending?
 - id: `sardakk-commander-only-own-invasions` — grade: Community consensus
 - A: No — only the active player commits ground forces, so it works only on Sardakk's own invasions: activate a system and commit up to 1 ground force from each of your planets in adjacent systems. Parley still works against those forces.
   - Cacotopos · 2021-03-14 — https://boardgamegeek.com/thread/2620571/article/37246329#37246329
@@ -4630,7 +4630,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Kazadoom · 2021-02-11 — https://boardgamegeek.com/thread/2599538/article/36981323#36981323
   - Heiko Doubleu · 2021-02-11 · disagrees — https://boardgamegeek.com/thread/2599538/article/36978010#36978010
 
-### Does Defy Space and Time need more than one unit in the Wormhole Nexus?
+    ### Does Defy Space and Time need more than one unit in the Wormhole Nexus?
 - id: `defy-space-and-time-one-unit` — grade: Community consensus
 - A: No — one unit is enough; the plural is just the card template.
   - Kazadoom · 2021-02-09 — https://boardgamegeek.com/thread/2598416/article/36960958#36960958
@@ -4664,7 +4664,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - IncrediSteve · 2020-12-15 — https://boardgamegeek.com/thread/2559976/article/36514392#36514392
       - Geoff Watson · 2020-12-15 · disagrees — https://boardgamegeek.com/thread/2559976/article/36514806#36514806
 
-### Can ships use the Wormhole Nexus's alpha and beta wormholes on the move that flips it?
+    ### Can ships use the Wormhole Nexus's alpha and beta wormholes on the move that flips it?
 - id: `wormhole-nexus-flip-timing` — grade: Community consensus
 - A: No — it becomes active only at the end of the movement step, so you can't come in through the gamma wormhole and out through its alpha or beta in the same move. Once active, it is ordinary adjacency.
   - AgentDrake · 2020-12-03 — https://boardgamegeek.com/thread/2553413/article/36429687#36429687
@@ -4813,7 +4813,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Clipper · 2021-08-29 — https://boardgamegeek.com/thread/2716842/article/38361221#38361221
       - AgentDrake · 2021-01-08 — https://boardgamegeek.com/thread/2575335/article/36685934#36685934
 
-### Can the Xxcha agent target a ready planet just to remove an infantry?
+    ### Can the Xxcha agent target a ready planet just to remove an infantry?
 - id: `xxcha-agent-needs-exhausted-planet` — grade: Community consensus
 - A: No — you can't ready a planet that is already ready, so the target must be exhausted for any of it to work.
   - hooliganj · 2021-01-30 — https://boardgamegeek.com/thread/2591072/article/36874569#36874569
@@ -4936,14 +4936,14 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: Yes — the law has no 'may'.
   - IncrediSteve · 2022-01-16 — https://boardgamegeek.com/thread/2795414/article/39260194#39260194
 
-### Do the Crucible note's +1 and a gravity rift's +1 stack, and can I use several end-of-turn abilities?
+    ### Do the Crucible note's +1 and a gravity rift's +1 stack, and can I use several end-of-turn abilities?
 - id: `stacking-movement-and-end-of-turn` — grade: Community consensus
 - A: Yes to both: movement bonuses stack, and you can resolve each end-of-turn ability at the end of your turn, even the turn you pass.
   - IncrediSteve · 2022-01-01 — https://boardgamegeek.com/thread/2785470/article/39145218#39145218
   - Spinners71 · 2022-01-01 — https://boardgamegeek.com/thread/2785453/article/39144761#39144761
   - sigmazero13 · 2020-12-03 — https://boardgamegeek.com/thread/2553452/article/36430729#36430729
 
-### Does Infantry II trigger on infantry removed by the Jol-Nar agent?
+    ### Does Infantry II trigger on infantry removed by the Jol-Nar agent?
 - id: `removed-not-destroyed-sucaban` — grade: Community consensus
 - A: No — removing isn't destroying.
   - pkitty · 2021-09-22 — https://boardgamegeek.com/thread/2729300/article/38504110#38504110
@@ -4957,7 +4957,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - pkitty · 2021-06-29 — https://boardgamegeek.com/thread/2684360/article/37999840#37999840
       - Old_Man_gi · 2021-06-29 · disagrees — https://boardgamegeek.com/thread/2684360/article/37999418#37999418
 
-### Can the Titans awaken a sleeper on a planet another player has taken?
+    ### Can the Titans awaken a sleeper on a planet another player has taken?
 - id: `titans-awaken-on-taken-planet` — grade: Community consensus
 - A: Yes — the sleeper stays until Awaken, and if enemy ground forces are there a ground combat follows, the winner keeping the planet. Awaken placing a PDS also counts as placing one for their mech's deploy.
   - LordChanter · 2021-06-20 — https://boardgamegeek.com/thread/2679969/article/37946476#37946476
@@ -4980,7 +4980,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - zamoose · 2020-12-06 — https://boardgamegeek.com/thread/2554887/article/36447884#36447884
   - pedro2112 · 2020-11-09 — https://boardgamegeek.com/thread/2537899/article/36238809#36238809
 
-### If an exploration card on a planet makes me remove my ground forces, do I keep the planet?
+    ### If an exploration card on a planet makes me remove my ground forces, do I keep the planet?
 - id: `exploring-removes-forces-keep-control` — grade: Community consensus
 - A: Yes — you explore after gaining control. Cards that remove infantry as a cost, like Volatile Fuel Source or Core Mine, are optional; skip the cost and you skip the benefit. Exploration cards like Demilitarized Zone always affect your own units.
   - zamoose · 2020-12-21 — https://boardgamegeek.com/thread/2563532/article/36560592#36560592
@@ -4999,13 +4999,13 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: Yes — the user decides whether the opponent rerolls all their dice. Like other combat rerolls it doesn't touch Anti-Fighter Barrage.
   - Clipper · 2021-09-08 — https://boardgamegeek.com/thread/2722200/article/38422630#38422630
 
-### Does Yin Spinner Omega trigger off Integrated Economy?
+    ### Does Yin Spinner Omega trigger off Integrated Economy?
 - id: `yin-spinner-omega-integrated-economy` — grade: Community consensus
 - A: Yes — unlike the original, it doesn't require a unit to use Production, so it triggers there as well as in the production step. The original gives a single infantry however many units produce. Sarween Tools still doesn't apply to Integrated Economy.
   - IncrediSteve · 2021-08-06 — https://boardgamegeek.com/thread/2704742/article/38227672#38227672
   - Clipper · 2019-09-01 — https://boardgamegeek.com/thread/2267706/article/32839315#32839315
 
-### Do Naaz-Rokha mechs keep their extra dice under Articles of War?
+    ### Do Naaz-Rokha mechs keep their extra dice under Articles of War?
 - id: `articles-of-war-naaz-rokha-dice` — grade: Community consensus
 - A: Yes — extra dice are part of the combat value, not a printed ability.
   - Clipper · 2021-07-25 — https://boardgamegeek.com/thread/2698235/article/38150818#38150818
@@ -5044,7 +5044,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Nurgle84 · 2021-02-08 — https://boardgamegeek.com/thread/2597512/article/36948535#36948535
       - pkitty · 2021-02-08 — https://boardgamegeek.com/thread/2597512/article/36949200#36949200
 
-### If a planet card is traded in the agenda phase, can the receiver vote with it?
+    ### If a planet card is traded in the agenda phase, can the receiver vote with it?
 - id: `demilitarized-zone-traded-agenda-phase` — grade: Community consensus
 - A: Trading the card transfers control, and it arrives exhausted, so it can't be passed on ready to vote again on the same agenda; its state matters little since planets ready afterwards.
   - IncrediSteve · 2021-02-02 — https://boardgamegeek.com/thread/2593339/article/36899809#36899809
@@ -5074,7 +5074,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - IncrediSteve · 2021-09-22 — https://boardgamegeek.com/thread/2729451/article/38506019#38506019
   - IncrediSteve · 2021-09-04 — https://boardgamegeek.com/thread/2719914/article/38396528#38396528
 
-### Are relics public?
+    ### Are relics public?
 - id: `relics-public` — grade: Community consensus
 - A: Yes — a gained relic goes face up in your play area. Purged cards, like used relic fragments or leaders, leave the game for good.
   - AgentDrake · 2020-12-28 — https://boardgamegeek.com/thread/2567963/article/36606764#36606764
@@ -5103,7 +5103,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - IncrediSteve · 2020-12-23 — https://boardgamegeek.com/thread/2564728/article/36575847#36575847
   - IncrediSteve · 2025-04-10 — https://boardgamegeek.com/thread/3493855/article/45937541#45937541
 
-### Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?
+    ### Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?
     - id: `winnu-and-naaz-rokha-heroes-secondaries` — grade: Community consensus
     - A: The Winnu hero can resolve the primary of any strategy card, even an unchosen one, and players who follow pay the secondary's normal costs. The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards, paying tokens from reinforcements, so Construction still places a token, but other costs like resources still apply.
       - Sartavos · 2020-12-09 — https://boardgamegeek.com/thread/2556676/article/36471093#36471093
@@ -5181,7 +5181,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - halbower · 2020-12-28 — https://boardgamegeek.com/thread/2567916/article/36606380#36606380
   - IncrediSteve · 2020-12-28 — https://boardgamegeek.com/thread/2567916/article/36606460#36606460
 
-### How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?
+    ### How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?
 - id: `xxcha-hero-how-it-works` — grade: Community consensus
 - A: Resolve the hero's text in order: any law discard comes first, before you look at the agendas. Then you pick two of the drawn agendas and choose one outcome for each as if you had cast a single vote; nobody votes and you can't abstain, and the rest are discarded. No other player may use abilities during it, but the agendas are revealed, so Xxcha can play riders such as Imperial Rider on them. One player argues nothing is revealed.
   - Cacotopos · 2021-09-11 — https://boardgamegeek.com/thread/2723828/article/38440830#38440830
@@ -5280,7 +5280,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: No — the mech uses its own Sustain Damage in space, and the flagship uses its own, so together they can cancel two hits. Direct Hit can't be played when the mech cancels a hit.
   - McBartsomeville · 2022-06-12 — https://boardgamegeek.com/thread/2882323/article/40251619#40251619
 
-### Can mechs carried in the space area use Space Cannon?
+    ### Can mechs carried in the space area use Space Cannon?
 - id: `xxcha-mechs-space-cannon-transported` — grade: Community consensus
 - A: Yes — nothing limits Space Cannon to units on planets, so carried mechs, such as Xxcha mechs, can fire in the active system under the normal targeting rules.
   - joepinion · 2020-12-28 — https://boardgamegeek.com/thread/2567314/article/36600135#36600135
@@ -5288,7 +5288,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
   - Clipper · 2022-05-04 — https://boardgamegeek.com/thread/2860888/article/40004792#40004792
   - DarkThomy · 2022-05-04 — https://boardgamegeek.com/thread/2860888/article/40004867#40004867
 
-### Can Sol's commander place infantry if no ground combat happens?
+    ### Can Sol's commander place infantry if no ground combat happens?
 - id: `sol-commander-needs-ground-combat` — grade: Community consensus
 - A: No — it triggers at the start of ground combat, which only happens if a defending ground force (a mech counts; structures don't) survives to that point.
   - IncrediSteve · 2022-08-11 — https://boardgamegeek.com/thread/2915812/article/40613633#40613633
@@ -5437,7 +5437,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - Bluedevil310 · 2026-04-29 — https://boardgamegeek.com/thread/3700771/article/47614402#47614402
       - hooliganj · 2026-04-29 — https://boardgamegeek.com/thread/3700771/article/47614594#47614594
 
-### Can ships move from an egress back to an ingress to leave The Fracture?
+    ### Can ships move from an egress back to an ingress to leave The Fracture?
 - id: `fracture-ingress-egress-both-ways` — grade: Community consensus
 - A: Yes — ingress and egress adjacency works both ways, like wormholes, except ingresses aren't adjacent to other ingresses and egresses aren't adjacent to other egresses. A player relays the developer confirming you can travel back out.
   - AgentDrake · 2026-01-15 — https://boardgamegeek.com/thread/3645418/article/47160657#47160657
@@ -5548,7 +5548,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - GhostTrail · 2025-11-21 — https://boardgamegeek.com/thread/3615497/article/46922723#46922723
       - nagysuti86 · 2026-05-28 — https://boardgamegeek.com/thread/3715227/article/47738353#47738353
 
-### Can I use Thunder's Edge's ability as soon as I gain it, and does it give a breakthrough?
+    ### Can I use Thunder's Edge's ability as soon as I gain it, and does it give a breakthrough?
 - id: `thunders-edge-planet-benefits` — grade: Community consensus
 - A: Gained at the end of your turn, it arrives ready while you're still in that window, so you can use it at once. Its legendary card also grants a breakthrough to whoever takes it, a second route to yours.
   - GhostTrail · 2025-12-13 — https://boardgamegeek.com/thread/3627378/article/47019997#47019997
@@ -5632,7 +5632,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
 - A: Three — the updated card looks at the top 3.
   - zamoose · 2025-12-02 — https://boardgamegeek.com/thread/3621550/article/46970167#46970167
 
-### Can the Crimson Rebellion hero join a combat between two other players?
+    ### Can the Crimson Rebellion hero join a combat between two other players?
 - id: `crimson-rebellion-hero-combats` — grade: Community consensus
 - A: No — it is meant for combats you are part of; there are no rules for three-way combat, per players citing compiled developer answers.
   - sigmazero13 · 2025-11-23 — https://boardgamegeek.com/thread/3616172/article/46928412#46928412
@@ -5676,7 +5676,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - cmsatpun · 2025-12-16 — https://boardgamegeek.com/thread/3628279/article/47028823#47028823
       - serdudds · 2025-11-08 · disagrees — https://boardgamegeek.com/thread/3607524/article/46858754#46858754
 
-### Who places ingress tokens when Rapid Mobilization brings the Fracture in?
+    ### Who places ingress tokens when Rapid Mobilization brings the Fracture in?
 - id: `fracture-rapid-mobilization` — grade: Community consensus
 - A: Treat it as coming in through another ability: the triggering player places ingress tokens in four different systems, each with a planet of a different specialty if able.
   - Rakor · 2026-08-20 — https://boardgamegeek.com/thread/3756267/article/48079254#48079254
@@ -5718,7 +5718,7 @@ Letnev's Armada bonus is for non-fighter ships only, so it doesn't extend that.
       - AgentDrake · 2026-01-10 — https://boardgamegeek.com/thread/3642587/article/47136708#47136708
       - ArcTheKnight · 2026-01-11 — https://boardgamegeek.com/thread/3642587/article/47137788#47137788
 
-### Can a unit with several instances of Sustain Damage cancel several hits?
+    ### Can a unit with several instances of Sustain Damage cancel several hits?
 - id: `sustain-damage-instances-dont-stack` — grade: Community consensus
 - A: No — once damaged it can't sustain again, whichever instance it used.
   - IncrediSteve · 2026-05-24 — https://boardgamegeek.com/thread/3713353/article/47721436#47721436

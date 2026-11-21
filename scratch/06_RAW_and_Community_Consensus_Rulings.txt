@@ -1,13 +1,13 @@
 ﻿THIS IS NOT OFFICIAL, THIS IS A COLLECTION OF RAW (RULES AS WRITTEN) & COMMUNITY CONSENSUS RULINGS.
 Capture
-Q: A player cannot place (or produce) a unit captured by another player. Can a player place their own captured unit without being explicitly instructed to do so?
+        Q: A player cannot place (or produce) a unit captured by another player. Can a player place their own captured unit without being explicitly instructed to do so?
 A: No, but a player can capture their own units and can decide to return them to reinforcements at any time.
 Elimination
-Q: Does the Nekro Virus keep the faction flagship abilities of eliminated players?
+        Q: Does the Nekro Virus keep the faction flagship abilities of eliminated players?
 A: Yes, this follows other rulings on components that stay in play after a player is eliminated, those player’s faction sheets remain in play for this ability.
 
 
-Q: Does the Avernus remain in play if the Muaat player is eliminated?
+        Q: Does the Avernus remain in play if the Muaat player is eliminated?
 A: Avernus, its token, planet card and legendary ability remain in play.
 
 
@@ -19,11 +19,11 @@ A: Avernus, its token, planet card and legendary ability remain in play.
         A: If there are no other player tokens on the Plot, it returns to hand.
 
 
-Q: Does Galvanize still work when the Last Bastion player is eliminated from the game?
+        Q: Does Galvanize still work when the Last Bastion player is eliminated from the game?
 A: Yes, the Galvanized Tokens remain attached to non-Bastion units and they continue the roll one additional die for unit abilities and combat rolls (the Bastion faction sheet remains in play until there are no more Galvanize tokens on the game board).
 
 
-Q: What happens to a technology gained via the Deepwrought Scholarate PN, Share Knowledge, if the DWS player is eliminated? Do you still have to return it to your deck at the end of the status phase?
+        Q: What happens to a technology gained via the Deepwrought Scholarate PN, Share Knowledge, if the DWS player is eliminated? Do you still have to return it to your deck at the end of the status phase?
 A: The DWS PN remains in play with the technology until status at which point the PN is returned to the box.
 
 
@@ -31,7 +31,7 @@ A: The DWS PN remains in play with the technology until status at which point th
         A: The Sever token and promissory note remain in place until the note removes them in the status phase. Breach tokens also remain in play and active breaches remain adjacent. Inactive breaches may be removed as they only serve as clutter at this point. The Crimson faction sheet remains in play.
 
 
-Q: Does the Crimson home system still destroy units that are placed or moved into it after the Crimson player is eliminated.
+        Q: Does the Crimson home system still destroy units that are placed or moved into it after the Crimson player is eliminated.
 A: Yes and the Crimson faction sheet remains in play.
 
 
@@ -45,7 +45,7 @@ Coexistence
         A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point.
 
 
-Q: Say a player is fighting a ground combat against a planet's owner, and will then fight another player who is coexisting. Who controls the planet after the first ground combat?
+        Q: Say a player is fighting a ground combat against a planet's owner, and will then fight another player who is coexisting. Who controls the planet after the first ground combat?
 A: Control does not change until the Establish Control step, so it remains with its original owner.
 
 
@@ -137,7 +137,7 @@ The Fracture
 Q: If planets in The Fracture can be explored, what happens if the Demilitarized Zone is found?
 A: Resolve DMZ. Attach as normal
 Gravity Rifts
-Q: If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?
+        Q: If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?
 A: Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.
 Entropic Scar
         Q: If you have ships in both Entropic Scar anomalies at the start of the Status phase, can you opt to gain both your faction techs?
@@ -200,7 +200,7 @@ Action Cards
         A: Extreme Duress is played and resolved.  The active player, should they opt to resolve a Strategic Action can then have Coup D’etat played. Coup D’etat cancels the action, so the active player has still not performed their “next action” for Extreme Duress. Extreme Duress will remain in play until that player’s next turn, where they must still resolve a Strategic Action or suffer the consequences.
 
 
-Q: Can Mercenary Contract be played on your own planet?
+        Q: Can Mercenary Contract be played on your own planet?
 A: No, you cannot target harmful effects on your own planets, unless explicitly allowed.
 
 
@@ -226,7 +226,7 @@ A: The player playing Strategize or Overrule will target a legal strategy card b
         A: Yes, the planet card will be retrieved from the planet card deck and it will trigger both exploration and relic depending on its traits.
 
 
-Q: Mercenary Contract: What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled?
+        Q: Mercenary Contract: What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled?
 A: It is returned from the deck readied.
 
 
@@ -443,7 +443,7 @@ Council Keleres:
         A: Yes, the agenda is drawn and revealed. Argent does not vote first but does still cast additional votes.
 
 
-Q: Does "immediately vote" mean that Riders, QUASH, Political Secrets etc. are skipped?
+        Q: Does "immediately vote" mean that Riders, QUASH, Political Secrets etc. are skipped?
 A: No, When and After windows still occur.
 
 
@@ -500,17 +500,17 @@ Crimson Rebellion
         A: All active breaches can be removed
 
 
-Q: What happens to the breach tokens if the Rebellion player is eliminated?
+        Q: What happens to the breach tokens if the Rebellion player is eliminated?
 A: The breach tokens remain in play.  Open breaches are adjacent.
 
-Q: Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? E.g. DEEP SPACE CANNON, Ghost Ship, Become the Gatekeeper, SLIPSTREAM? What takes priority, Sever or QUANTUM ENTANGLEMENT?
+        Q: Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? E.g. DEEP SPACE CANNON, Ghost Ship, Become the Gatekeeper, SLIPSTREAM? What takes priority, Sever or QUANTUM ENTANGLEMENT?
 A: Blocks movement. Adjacency, PDS, Ghost Ship, Become the Gatekeeper, SLIPSTREAM are all unaffected.
 
 
-Q: The box art shows the sever token covering a specific wormhole. If there are multiple wormholes in a system (Nexus, Creuss tokens, etc.), does Severing one block them all?
+        Q: The box art shows the sever token covering a specific wormhole. If there are multiple wormholes in a system (Nexus, Creuss tokens, etc.), does Severing one block them all?
 A: All wormholes in the system.
 
-Q: If the Rebellion player is eliminated, what happens to Sever and its token?
+        Q: If the Rebellion player is eliminated, what happens to Sever and its token?
 A: The Sever token remains in place as do breach tokens. Active breaches are adjacent.
 
 
@@ -524,7 +524,7 @@ The Clans of Saar
         Q: Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE?
         A: Yes, the targeted player uses Sustain Damage when the hit is produced against that mech and cancels the hit, this allows another hit that was produced to be used against that mech.
 The Federation of Sol
-Q: Does the ship have to survive to generate the additional PRODUCTION? Could a Sol player with zero fleet pool just build useless carriers solely to boost their infantry PRODUCTION?
+        Q: Does the ship have to survive to generate the additional PRODUCTION? Could a Sol player with zero fleet pool just build useless carriers solely to boost their infantry PRODUCTION?
 A: Given When timing yes, they can produce a carrier and additional 6 infantry and then remove the carrier to fleet pool.
 Firmament\Obsidian
         Q: Why is the Firmament’s promissory note, Black Ops, a may? Can the Firmament player choose to not place a plot when they give away their PN? Will the rest of the effect trigger anyway or can you, say, pass it around to a third party? (I.e., the Firmament trades away the PN to player A, decides not to place the token, player A trades away the PN to player B, the Firmament places the token and player B gains the command tokens and trade goods).
@@ -593,7 +593,7 @@ Ral Nel Consortium
         A: Yes, the ships retreat and the ability resolves.
 
 
-Q: What is the interaction between Data Skimmer and Reverse Engineer AC? Can it be played when Data Skimmer is active?
+        Q: What is the interaction between Data Skimmer and Reverse Engineer AC? Can it be played when Data Skimmer is active?
 A: Data Skimmer is not a discard. Cards are placed onto Data Skimmer and not discard until Ral-Nel passes.
 
 

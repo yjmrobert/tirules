@@ -28,7 +28,7 @@ FILES = {
 }
 OUTCOMES = {"duplicate", "simple", "on-site", "added", "ignored", "not-a-ruling", "other"}
 # Designer-rulings posts start with "name, date" or "@name ... date".
-POST = re.compile(r"^(@\S.*\d{4}|[\w .'()-]{1,40}, (posted on )?(\d{1,2} )?[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4}|https://www\.reddit\.com/\S+)\s*$")
+POST = re.compile(r"^(@\S.*\d{4}|[\w .'()-]{1,40}, (posted on )?(\d{1,2} )?[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4}|[\w .'()+:-]{1,40},? \d{1,2}/\d{1,2}/\d{4}|[\w .'()+:-]{1,40} UTC ?[-+]?\d{1,4}/\d{1,2}/\d{4}|[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4}|https://www\.reddit\.com/\S+)\s*$")
 SECTION_05 = re.compile(r"^[A-Z][A-Z ]+$")
 
 

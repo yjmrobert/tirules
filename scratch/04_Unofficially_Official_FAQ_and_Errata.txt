@@ -75,7 +75,7 @@ Exploration
             A: Yes, the discard is public knowledge, so anything removed from the discard is also public knowledge.
 
 
-Q: Does the Crown of Thalnos Relic work with Infantry II resurrection rolls? Courageous to the End? Anti-Fighter Barrage?
+    Q: Does the Crown of Thalnos Relic work with Infantry II resurrection rolls? Courageous to the End? Anti-Fighter Barrage?
 A: No to Infantry 2, no to Courageous to the End, no to Anti-Fighter Barrage. The intent is ONLY combat rolls.  Future errata will clarify this.
 
 
@@ -177,7 +177,7 @@ Barony of Letnev:
     A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.
 
 
-Q: Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB?
+    Q: Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB?
 A: No, the Barony agent only has an effect on combat rolls.
 
 
@@ -311,7 +311,7 @@ Mahact Gene Sorcerers:
     A: The player that is moved is the attacker, the player that is moved into is the defender.
 
 
-Q: Can Mahact use their mech ability on themselves? 
+    Q: Can Mahact use their mech ability on themselves? 
 A: Yes.
 
 
@@ -496,7 +496,7 @@ Xxcha Kingdom:
     A: Yes, the Xxcha player can play riders, and use their quash ability during their hero (other players do not vote, even if quashed). Other players cannot play any action cards as these are abilities.
 
 
-Q: If Xxcha draws Covert legislation as one of their 5 Agendas with their hero, do they get to see the next agenda that would be tied to it as well? Related, what happens if they draw an agenda that says "if there are no laws in play..." off of their hero?
+    Q: If Xxcha draws Covert legislation as one of their 5 Agendas with their hero, do they get to see the next agenda that would be tied to it as well? Related, what happens if they draw an agenda that says "if there are no laws in play..." off of their hero?
 A: Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda. If there are no laws in play a new agenda is drawn
 
 
@@ -508,7 +508,7 @@ A: Xxcha would only get to see the agenda tied to Covert Legislation if it was o
     A: This effect does not trigger if it happens during the Xxcha Hero.
 
 
-Q: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used do they get both resources and influence, or is it only one?
+    Q: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used do they get both resources and influence, or is it only one?
 A: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used to combine resource and influence values, the Xxcha Kingdom player chooses to spend those as one or the other, not both.
 
 
@@ -523,7 +523,7 @@ A: When the Xxcha Kingdom hero, Political Data Nexus Omega, is used to combine r
 
 
 Yin Brotherhood:
-Q: Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? 
+    Q: Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? 
 A: Yes.
 
 
