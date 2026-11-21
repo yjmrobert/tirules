@@ -9,10 +9,6 @@ ie A non–fighter ship cannot use its Sustain Damage ability to cancel a hit pr
 Deferred: owner request 2026-11-19 ("all everything, deferred"). Site-wide sweep: for every page (factions, components, rules), fetch the matching fandom wiki FAQ section(s). (1) For each site note cited * , check whether the wiki FAQ quotes an official ruling that can be traced to a numbered source, and cite it. (2) List wiki FAQ entries the site doesn't cover, to consider adding. The wiki is not a numbered source; only cite what can be traced to sources 1-15.
 lets check the wiki faq for any notes that dont have rulings
 
-## check other pages for better organization
-Deferred: owner request 2026-11-17 after the coexistence reorganization (e.g. 6bd9f42): review other pages for misnesting, duplicate notes, and topic ordering.
-check other pages for better organization
-
 # Tier 5: new features
 
 ## support request/bugreport form that makes github issues

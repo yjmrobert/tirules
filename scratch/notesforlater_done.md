@@ -1463,3 +1463,8 @@ Unanswered: the owner replied "approve" only.
 Commit: 15fdcba (49 citation copies harmonized), 6cb5cc8 (7 wording standardizations); no merge candidates found by similarity scan, remaining merges folded into the page-organization review
 Deferred: site-wide consolidation sweep, not page-specific; owner deferred 2026-11-17.
 there are a handful of things that could be consolidated, formatted better or removed as near duplicates
+
+## check other pages for better organization
+Commit: 7065fcd … 8ac6f07 (page-by-page sweep of all 149 pages, 2026-11-21: main rule first, related notes grouped, errata first site-wide, misplaced notes moved (Nekro VA Z, Watcher parent restored), duplicate Auto-Factories heading removed, typos)
+Deferred: owner request 2026-11-17 after the coexistence reorganization (e.g. 6bd9f42): review other pages for misnesting, duplicate notes, and topic ordering.
+check other pages for better organization
