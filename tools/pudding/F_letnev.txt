@@ -13,38 +13,38 @@ E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a
 I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
 I1 LRR FAQ: "As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player’s turn." transactions require the active player, so the defender cannot receive the card.
 @6
-E3 Learn to Play: "The active player may negotiate only once with each of their neighbors per turn."
-@7
 E4 Designer ruling: "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
-@8
+@7
 E1 LRR FAQ: "Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes."
 I3 Learn to Play: "they may negotiate a transaction with one or more of their neighbors, even during a combat." Covers receiving it during combat, not playing it immediately.
-@9
+@8
 I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
 I1 LRR FAQ: "As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player’s turn." transactions require the active player, so the defender cannot receive the card.
-@10
-E3 Learn to Play: "The active player may negotiate only once with each of their neighbors per turn."
-@11
+@9
 E4 Designer ruling: "Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls."
+@10
+N No source found.
+@11
+N No source found.
 @12
-N No source found.
-@13
-N No source found.
-@14
 N No source found. LRR 87.4: Sustain Damage can be used "any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the 'Space Cannon' ability."
-@15
+@13
 I2 RulesPal, "How does Non-Euclidean Shielding work?": "Every time one of your units uses Sustain Damage, it cancels 2 hits instead of 1."
-@16
+@14
 E2 RulesPal, "How does Non-Euclidean Shielding work?": "Unused cancellation is lost; it doesn't carry over to a later hit such as Devotion's."
+@15
+N No source found.
+@16
+N No source found.
 @17
 N No source found.
 @18
-N No source found.
+E4 Designer ruling: "Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB? A: No, the Barony agent only has an effect on combat rolls."
+I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls."
 @19
 N No source found.
 @20
-E4 Designer ruling: "Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB? A: No, the Barony agent only has an effect on combat rolls."
-I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls."
+N No source found.
 @21
 N No source found.
 @22
@@ -52,30 +52,26 @@ N No source found.
 @23
 N No source found.
 @24
-N No source found.
-@25
-N No source found.
-@26
 I2 RulesPal, "Does the Letnev commander give a trade good for each unit that uses Sustain Damage?": "Yes — each use triggers it separately." each use triggers separately, so goods are gained one at a time.
-@27
+@25
 E1 LRR 30.3: "A unit's deploy ability can be resolved only once per timing window."
 E8 PoK rulebook p. 10: "each deploy ability can be resolved only once per timing window."
-@28
+@26
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
-@29
+@27
 E6 Community consensus: "Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes"
-@30
+@28
 N No source found.
-@31
+@29
 E6 Community consensus: "What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement."
-@32
+@30
 E6 Community consensus: "can a slow ship copy a value, then get the +1 from Gravity Drive? … A: No the copy happens after gravity drive."
-@33
+@31
 E6 Community consensus: "How about gravity rifts? A: They are not included in the Gravleash Maneuvers move bonus."
-@34
+@32
 E6 Community consensus: "Is 'before you roll dice' literal i.e. does it apply to AFB rolls? … A: This refers to the roll dice step, and assigning which ship you will apply the ability to. Only applies to combat rolls."
-@35
+@33
 E6 Community consensus: "if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus? A: Barony can assign to a new ship but the other ship will lose the bonus."
-@36
+@34
 E6 Community consensus: "If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? … A: Yes, Barony can assign to a" new ship.

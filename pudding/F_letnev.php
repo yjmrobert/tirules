@@ -34,17 +34,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes.&rdquo;</li>
         </ul></li>
-    <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup>
+    <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player&rsquo;s turn.&rdquo; transactions require the active player, so the defender cannot receive the card.</li>
-        </ul></li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.<sup>3</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;The active player may negotiate only once with each of their neighbors per turn.&rdquo;</li>
-        </ul></li>
-    </ol>
+        </ul></li></ol>
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>
@@ -58,17 +52,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;they may negotiate a transaction with one or more of their neighbors, even during a combat.&rdquo; Covers receiving it during combat, not playing it immediately.</li>
         </ul></li>
-    <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup>
+    <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;As long as the active player is involved in the transaction, either player may suggest the opening of negotiations during either player&rsquo;s turn.&rdquo; transactions require the active player, so the defender cannot receive the card.</li>
-        </ul></li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.<sup>3</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;The active player may negotiate only once with each of their neighbors per turn.&rdquo;</li>
-        </ul></li>
-    </ol>
+        </ul></li></ol>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can War Funding Omega be used on Anti-Fighter Barrage rolls? A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.&rdquo;</li>

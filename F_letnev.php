@@ -16,20 +16,14 @@
     <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.<sup>2,5</sup></li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.<sup>1</sup></li>
-    <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup></li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.<sup>3</sup></li>
-    </ol>
+    <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.<sup>1,3</sup></li></ol>
     <li>A player may only reroll combat rolls with <i>War Funding</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#FAQ:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
-    <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li>
-        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.<sup>3</sup></li>
-    </ol>
+    <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li></ol>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
     </ol>
 
