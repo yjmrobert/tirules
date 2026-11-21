@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do &lsquo;at the start of your turn&rsquo; abilities happen, and do they work in other phases?&rdquo;: &ldquo;They only exist in the action phase: you don&rsquo;t have turns in the strategy, status or agenda phases.&rdquo;</li>
         </ul></li>
-    <li>A player may cast votes with space stations, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and Oceans.<sup>6,9</sup>
+    <li>A player may cast votes with <a href="/R_space_stations">space stations</a>, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Space Stations: &ldquo;Space Stations are used for voting but may not be elected.&rdquo; Relics: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
@@ -61,12 +61,16 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can players make transactions with non-neighbors during the agenda phase?&rdquo;: &ldquo;while each agenda is being resolved &hellip; every pair of players may make one transaction, neighbors or not.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 20: &ldquo;Each player may negotiate up to one transaction with each other player while resolving the vote for each agenda.&rdquo;</li>
         </ul></li>
-    <li>Only planets ready at the end of the phase.<sup>2</sup>
+    <li>Planets are readied at the end of the agenda phase; other exhausted cards, such as technologies and agents, stay exhausted.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I exhaust planets for resources or technology specialties during the agenda phase?&rdquo;: &ldquo;Exhausted cards other than planets don&rsquo;t ready at the end of the agenda phase.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.4: &ldquo;Step 3&mdash;Ready Planets: Each player readies each of their exhausted planets.&rdquo; Names only planets.</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Ready Planets: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
+    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        </ul></li></ol>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

@@ -32,3 +32,5 @@ E3 Learn to Play p. 20: "Each player may negotiate up to one transaction with ea
 E2 RulesPal, "Can I exhaust planets for resources or technology specialties during the agenda phase?": "Exhausted cards other than planets don't ready at the end of the agenda phase."
 I1 LRR 8.4: "Step 3—Ready Planets: Each player readies each of their exhausted planets." Names only planets.
 I3 Learn to Play, Ready Planets: "Each player readies all of their planet cards."
+@11
+N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.

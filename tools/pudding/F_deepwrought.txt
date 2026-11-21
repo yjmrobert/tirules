@@ -11,52 +11,52 @@ E6 Community consensus: "If DWS is coexisting on 3 planets and has 3 they contro
 @5
 E6 Community consensus: "Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound … so as to ready one of their oceans? A: No"
 @6
-E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans"
+N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.
 @7
-E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
+E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans"
 @8
-E6 Community consensus: "What happens to a technology gained via the Deepwrought Scholarate PN, Share Knowledge, if the DWS player is eliminated? … A: The DWS PN remains in play with the technology until status at which point the PN is returned to the box."
-@9
 E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
+@9
+E6 Community consensus: "What happens to a technology gained via the Deepwrought Scholarate PN, Share Knowledge, if the DWS player is eliminated? … A: The DWS PN remains in play with the technology until status at which point the PN is returned to the box."
 @10
-N No source found.
+E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
 @11
 N No source found.
 @12
-E6 Community consensus: "D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both …? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present."
+N No source found.
 @13
-E6 Community consensus: "D.W.S. Luminous (Flagship): How does this interact with Aerie Hololattice? … A: Aerie Hololattice stops it moving through."
+E6 Community consensus: "D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both …? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present."
 @14
-E6 Community consensus: "The agent may be used, but the coexisting infantry is not placed if a prerequisite was not skipped … The receiving player may still ignore prerequisites even if they already fulfill them on a technology that has at least 1 prerequisite."
+E6 Community consensus: "D.W.S. Luminous (Flagship): How does this interact with Aerie Hololattice? … A: Aerie Hololattice stops it moving through."
 @15
-E6 Community consensus: "Is it possible … for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the 'they do skip a prerequisite'" condition.
+E6 Community consensus: "The agent may be used, but the coexisting infantry is not placed if a prerequisite was not skipped … The receiving player may still ignore prerequisites even if they already fulfill them on a technology that has at least 1 prerequisite."
 @16
+E6 Community consensus: "Is it possible … for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the 'they do skip a prerequisite'" condition.
+@17
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 E7 Thunder's Edge Rulebook, Aello (Deepwrought Commander): "The Deepwrought player cannot choose to disallow Aello from being used by other players."
-@17
-N No source found.
 @18
-E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
+N No source found.
 @19
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 @20
-I2 Same entry: "each is a separate optional trigger."
+E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 @21
 I2 Same entry: "each is a separate optional trigger."
 @22
 I2 Same entry: "each is a separate optional trigger."
 @23
-N No source found.
+I2 Same entry: "each is a separate optional trigger."
 @24
 N No source found.
 @25
-I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
-@26
-E2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?": "Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns."
-@27
-I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
-@28
 N No source found.
+@26
+I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
+@27
+E2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?": "Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns."
+@28
+I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
 @29
 N No source found.
 @30
@@ -64,4 +64,6 @@ N No source found.
 @31
 N No source found.
 @32
+N No source found.
+@33
 N No source found.

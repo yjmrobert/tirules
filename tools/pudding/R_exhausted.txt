@@ -3,4 +3,6 @@ E1 LRR 8.4: "STEP 3—READY PLANETS: Each player readies each of their exhausted
 E2 RulesPal, "When does the agenda phase happen, and when are planets readied?": "Planets ready again at the end of the agenda phase for the next action phase."
 E3 Learn to Play, Agenda Phase step 3: "Each player readies all of their planet cards."
 @1
+N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.
+@2
 N No source found.

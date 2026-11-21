@@ -368,6 +368,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        </ul></li></ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>

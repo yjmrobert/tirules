@@ -138,11 +138,13 @@ N No source found.
 @65
 N No source found.
 @66
+N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.
+@67
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
 E6 Community consensus: "Q: Can you vote using The Triad relic? A: Yes."
-@67
-E6 Community consensus: "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
 @68
-E6 Community consensus: "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
+E6 Community consensus: "The Triad: Does an unknown relic fragment count as a fragment of its own type …? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial."
 @69
+E6 Community consensus: "The Triad: Is The Triad exhausted by Maw of Worlds? A: No"
+@70
 E6 Community consensus: "Does Saar gain a trade good from SCAVENGE when they gain The Triad? A: No"

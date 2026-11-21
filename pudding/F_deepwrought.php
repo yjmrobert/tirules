@@ -33,6 +33,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
         </ul></li>
+    <li>Ocean cards are readied at the end of the agenda phase, like planets.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        </ul></li>
     <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans&rdquo;</li>

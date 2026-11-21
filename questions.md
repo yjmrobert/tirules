@@ -68,8 +68,7 @@
 - Can space stations be exhausted to pay for the influence cost of the _Impersonation_ action card?
 - Can a space station be exploded by the _Stellar Converter_ relic?
 - Does controlling a space station give the +1 to _The Egeiro_?
-- Do space stations ready at the end of the agenda phase?
-- If so, are space stations prevented from readying by the "Against" effect of _Checks and Balances_?
+- Are space stations prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can a space station be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
 - If the "For" effect of _New Constitution_ passes, does the Bastion player have to exhaust Revelation?
 - Are space stations exhausted by the effect of the _Maw of Worlds_ relic?
@@ -287,8 +286,7 @@
 
 ### The Triad
 - Is _The Triad_ gained readied or exhausted?
-- Does _The Triad_ ready at the end of the agenda phase?
-- If so, is _The Triad_ prevented from readying by the "Against" effect of _Checks and Balances_?
+- Is _The Triad_ prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can _The Triad_ be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
 - Is _The Triad_ exhausted by the effect of the _Deadly Plot_ action card?
 - Do the resource and influence values of _The Triad_ count towards the Sol or Xxcha commander unlocks?
@@ -359,8 +357,7 @@
 - RESEARCH TEAM triggers during the **Commit Ground Forces** substep of invasion, and will inevitable skip the **Ground Combat** and **Establish Control** substeps; is the **Space Cannon Defense** step also skipped?
 
 ### Oceanbound (Ability)
-- Do Ocean cards ready at the end of the agenda phase?
-- If so, are Ocean cards prevented from readying by the "Against" effect of _Checks and Balances_?
+- Are Ocean cards prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can Ocean cards be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
 - Are Ocean cards exhausted by the effect of the _Maw of Worlds_ relic?
 - Are Ocean cards exhausted by the effect of the _Deadly Plot_ action card?
