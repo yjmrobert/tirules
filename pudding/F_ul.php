@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_ul">The Titans of Ul</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis">Terragenesis</a></h2>
+<h2 id="terragenesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis">Terragenesis</a></h2>
     <ol class="note">
     <li>A planet cannot contain more than one sleeper token.<sup>2</sup>
         <ul>
@@ -16,7 +16,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken">Awaken</a> <sub></sub></h2>
+<h2 id="awaken"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken">Awaken</a> <sub></sub></h2>
     <ol class="note">
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.<sup>2</sup>
         <ul>
@@ -57,7 +57,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
+<h2 id="coalescence"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
     <ol class="note">
     <li>Units placed on planets via the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.<sup>*</sup>
         <ul>
@@ -82,7 +82,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform">Terraform</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="terraform"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform">Terraform</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Once played, <i>Terraform</i> is never returned to the Ul player.<sup>2</sup>
         <ul>
@@ -112,7 +112,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
+<h2 id="heltitan"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup>
         <ul>
@@ -138,11 +138,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Cruiser:~:text=Saturn%20Engine">Saturn Engine</a> <sub>(Unit)</sub></h2>
+<h2 id="saturn-engine"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Cruiser:~:text=Saturn%20Engine">Saturn Engine</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Flagship:~:text=Ouranos">Ouranos</a> <sub>(Flagship)</sub></h2>
+<h2 id="ouranos"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Flagship:~:text=Ouranos">Ouranos</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Only PDS present in the system when it is activated may be replaced with the <i>Ouranos</i>.<sup>2</sup>
         <ul>
@@ -154,7 +154,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
+<h2 id="tellurian"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
@@ -162,7 +162,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tungstantus">Tungstantus</a> <sub>(Commander)</sub></h2>
+<h2 id="tungstantus"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tungstantus">Tungstantus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The trade good may be spent on the units produced by the <a href="/R_production"><sc>Production</sc></a> ability that triggered Tungstantus.<sup>4</sup>
         <ul>
@@ -184,7 +184,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Ul%20the%20Progenitor">Ul the Progenitor</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Specific_Components:~:text=Geoform">Geoform</a> <sub>(Hero)</sub></h2>
+<h2 id="ul-the-progenitor"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Ul%20the%20Progenitor">Ul the Progenitor</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Specific_Components:~:text=Geoform">Geoform</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability is controlled by whichever player controls Elysium.<sup>*</sup>
         <ul>
@@ -192,7 +192,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>
+<h2 id="hecatoncheires"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When the Ul player would place multiple PDS during a single step, they may resolve a <a href="/R_deploy"><sc>Deploy</sc></a> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup>
         <ul>
@@ -224,7 +224,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing">Slumberstate Computing</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="slumberstate-computing"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing">Slumberstate Computing</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup>
         <ul>

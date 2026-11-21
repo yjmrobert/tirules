@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_creuss">The Ghosts of Creuss</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
+<h2 id="quantum-entanglement"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup>
         <ul>
@@ -30,7 +30,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
+<h2 id="slipstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup>
         <ul>
@@ -43,7 +43,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
+<h2 id="creuss-gate"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
     <ol class="note">
     <li>A frontier token is placed in the Creuss Gate system during setup.<sup>1</sup>
         <ul>
@@ -56,7 +56,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="creuss-iff"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1,2,5</sup>
         <ul>
@@ -88,7 +88,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
+<h2 id="dimensional-splicer"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>.<sup>2</sup>
         <ul>
@@ -119,7 +119,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
+<h2 id="wormhole-generator" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -153,7 +153,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
+<h2 id="wormhole-generator-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Wormhole Generator &Omega;</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
         <ul>
@@ -174,7 +174,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
+<h2 id="hil-colish"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.<sup>2</sup>
         <ul>
@@ -224,7 +224,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
+<h2 id="emissary-taivra"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.<sup>2</sup>
         <ul>
@@ -253,7 +253,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
+<h2 id="sai-seravus"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.<sup>4</sup>
         <ul>
@@ -293,7 +293,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
+<h2 id="riftwalker-meian"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any units in either system are moved with their system.<sup>2</sup>
         <ul>
@@ -309,7 +309,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
+<h2 id="icarus-drive"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Icarus Drive does not have to be in the activated system.<sup>2</sup>
         <ul>
@@ -321,7 +321,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="particle-synthesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup>
         <ul>

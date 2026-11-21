@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_action_cards">Action Cards</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ancient%20Burial%20Sites">Ancient Burial Sites</a></h2>
+<h2 id="ancient-burial-sites"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ancient%20Burial%20Sites">Ancient Burial Sites</a></h2>
     <ol class="note">
     <li><i>Ancient Burial Sites</i> is played before the first agenda is revealed.<sup>*</sup>
         <ul>
@@ -15,7 +15,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Archaeological%20Expedition">Archaeological Expedition</a></h2>
+<h2 id="archaeological-expedition"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Archaeological%20Expedition">Archaeological Expedition</a></h2>
     <ol class="note">
     <li>A player must control at least one planet with a trait to play and resolve <i>Archaeological Expedition</i>.<sup>*</sup>
         <ul>
@@ -23,7 +23,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Assassinate%20Representative">Assassinate Representative</a></h2>
+<h2 id="assassinate-representative"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Assassinate%20Representative">Assassinate Representative</a></h2>
     <ol class="note">
     <li>The chosen player may still play rider cards or use other abilities.<sup>2</sup>
         <ul>
@@ -31,15 +31,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Black%20Market%20Dealings">Black Market Dealings</a></h2>
+<h2 id="black-market-dealings"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Black%20Market%20Dealings">Black Market Dealings</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz">Blitz</a></h2>
+<h2 id="blitz"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz">Blitz</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery">Bribery</a></h2>
+<h2 id="bribery"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery">Bribery</a></h2>
     <ol class="note">
     <li>The text of <i>Bribery</i> is changed to: &ldquo;After the speaker votes on an agenda: Spend any number of trade goods. For each trade good spent, cast 1 additional vote for the outcome on which you voted.&rdquo;<sup>1,2</sup>
         <ul>
@@ -80,7 +80,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Brilliance">Brilliance</a></h2>
+<h2 id="brilliance"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Brilliance">Brilliance</a></h2>
     <ol class="note">
     <li>A player may choose themself as the player who gains their breakthrough.<sup>*</sup>
         <ul>
@@ -92,7 +92,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bunker">Bunker</a></h2>
+<h2 id="bunker"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bunker">Bunker</a></h2>
     <ol class="note">
     <li>The modifier will apply to bombardment rolls for each planet in the active system.<sup>*</sup>
         <ul>
@@ -100,7 +100,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text">Confounding Legal Text</a></h2>
+<h2 id="confounding-legal-text"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text">Confounding Legal Text</a></h2>
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.<sup>2</sup>
         <ul>
@@ -120,7 +120,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text">Confusing Legal Text</a></h2>
+<h2 id="confusing-legal-text"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text">Confusing Legal Text</a></h2>
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.<sup>2</sup>
         <ul>
@@ -140,7 +140,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Construction%20Rider">Construction Rider</a></h2>
+<h2 id="construction-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Construction%20Rider">Construction Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Construction Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -181,7 +181,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a> (replaced by &Omega;)</h2>
+<h2 id="counterstroke" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>7</sup>
         <ul>
@@ -189,11 +189,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke &Omega;</a></h2>
+<h2 id="counterstroke-omega"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke">Counterstroke &Omega;</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat">Coup D&rsquo;etat</a></h2>
+<h2 id="coup-detat"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat">Coup D&rsquo;etat</a></h2>
     <ol class="note">
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup>
         <ul>
@@ -206,7 +206,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End">Courageous to the End</a></h2>
+<h2 id="courageous-to-the-end"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End">Courageous to the End</a></h2>
     <ol class="note">
     <li>Any combat roll modifiers will not apply to the dice roll for <i>Courageous to the End</i>.<sup>2</sup>
         <ul>
@@ -220,15 +220,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Crash%20Landing">Crash Landing</a></h2>
+<h2 id="crash-landing"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Crash%20Landing">Crash Landing</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Cripple%20Defenses">Cripple Defenses</a></h2>
+<h2 id="cripple-defenses"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Cripple%20Defenses">Cripple Defenses</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Crisis">Crisis</a></h2>
+<h2 id="crisis"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Crisis">Crisis</a></h2>
     <ol class="note">
     <li><i>Crisis</i> will skip the turn of the next unpassed player.<sup>*</sup>
         <ul>
@@ -240,7 +240,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot">Deadly Plot</a></h2>
+<h2 id="deadly-plot"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot">Deadly Plot</a></h2>
     <ol class="note">
     <li>Any prediction made for a rider or similar ability is incorrect, and will not resolve.<sup>4</sup>
         <ul>
@@ -268,7 +268,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Decoy%20Operation">Decoy Operation</a></h2>
+<h2 id="decoy-operation"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Decoy%20Operation">Decoy Operation</a></h2>
     <ol class="note">
     <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.<sup>4</sup>
         <ul>
@@ -276,7 +276,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
+<h2 id="diplomacy-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Diplomacy%20Rider">Diplomacy Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Diplomacy Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -304,7 +304,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Diplomatic%20Pressure">Diplomatic Pressure</a></h2>
+<h2 id="diplomatic-pressure"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Diplomatic%20Pressure">Diplomatic Pressure</a></h2>
     <ol class="note">
     <li>The target player chooses which promissory note they give.<sup>2</sup>
         <ul>
@@ -330,7 +330,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit">Direct Hit</a></h2>
+<h2 id="direct-hit"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit">Direct Hit</a></h2>
     <ol class="note">
     <li>If multiple ships use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup>
         <ul>
@@ -358,7 +358,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>
+<h2 id="disable"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Disable">Disable</a></h2>
     <ol class="note">
     <li>If the <a href="/F_ul">Ul</a> player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.<sup>*</sup>
         <ul>
@@ -374,7 +374,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor">Distinguished Councilor</a></h2>
+<h2 id="distinguished-councilor"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor">Distinguished Councilor</a></h2>
     <ol class="note">
     <li>A player must have cast votes for an outcome to play <i>Distinguished Councilor</i>.<sup>1,2,5</sup>
         <ul>
@@ -396,7 +396,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding">Divert Funding</a></h2>
+<h2 id="divert-funding"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding">Divert Funding</a></h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
@@ -428,7 +428,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Economic%20Initiative">Economic Initiative</a></h2>
+<h2 id="economic-initiative"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Economic%20Initiative">Economic Initiative</a></h2>
     <ol class="note">
     <li>A player with zero cultural planets may play <i>Economic Initiative</i>.<sup>5</sup>
         <ul>
@@ -436,7 +436,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs">Emergency Repairs</a></h2>
+<h2 id="emergency-repairs"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs">Emergency Repairs</a></h2>
     <ol class="note">
     <li>A player may play <i>Emergency Repairs</i> at the start of the first round of combat to repair ships damaged in a previous combat, or during the <b>Space Cannon Offense</b> step of the current action.<sup>*</sup>
         <ul>
@@ -452,7 +452,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Exchange%20Program">Exchange Program</a></h2>
+<h2 id="exchange-program"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Exchange%20Program">Exchange Program</a></h2>
     <ol class="note">
     <li>The player who played <i>Exchange Program</i> does not have to agree to place the infantry.<sup>*</sup>
         <ul>
@@ -464,7 +464,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation">Experimental Battlestation</a></h2>
+<h2 id="experimental-battlestation"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation">Experimental Battlestation</a></h2>
     <ol class="note">
     <li>The selected space dock will use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during the <b>Space Cannon Offense</b> step of the current tactical action.<sup>1,2,5</sup>
         <ul>
@@ -506,11 +506,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Exploration%20Probe">Exploration Probe</a></h2>
+<h2 id="exploration-probe"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Exploration%20Probe">Exploration Probe</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Extreme%20Duress">Extreme Duress</a></h2>
+<h2 id="extreme-duress"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Extreme%20Duress">Extreme Duress</a></h2>
     <ol class="note">
     <li>If that player has the ability to perform multiple actions in a turn, their first action must be a strategic action to avoid the penalty.<sup>*</sup>
         <ul>
@@ -530,7 +530,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Fighter%20Conscription">Fighter Conscription</a></h2>
+<h2 id="fighter-conscription"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Fighter%20Conscription">Fighter Conscription</a></h2>
     <ol class="note">
     <li>Only one fighter will be placed in a system containing both a space dock and a ship with capacity.<sup>10</sup>
         <ul>
@@ -538,11 +538,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype">Fighter Prototype</a></h2>
+<h2 id="fighter-prototype"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype">Fighter Prototype</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fire%20Team">Fire Team</a></h2>
+<h2 id="fire-team"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fire%20Team">Fire Team</a></h2>
     <ol class="note">
     <li>Any modifiers on the original combat roll will apply to the reroll.<sup>*</sup>
         <ul>
@@ -550,7 +550,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed">Flank Speed</a></h2>
+<h2 id="flank-speed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed">Flank Speed</a></h2>
     <ol class="note">
     <li>A second <i>Flank Speed</i> cannot be played to give +2 to the move value of each ship.<sup>2</sup>
         <ul>
@@ -562,7 +562,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research">Focused Research</a></h2>
+<h2 id="focused-research"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research">Focused Research</a></h2>
     <ol class="note">
     <li>A player cannot play <i>Focused Research</i> if they have less than four trade goods.<sup>*</sup>
         <ul>
@@ -579,11 +579,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Forward%20Supply%20Base">Forward Supply Base</a></h2>
+<h2 id="forward-supply-base"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Forward%20Supply%20Base">Forward Supply Base</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Frontline%20Deployment">Frontline Deployment</a></h2>
+<h2 id="frontline-deployment"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Frontline%20Deployment">Frontline Deployment</a></h2>
     <ol class="note">
     <li>All three infantry must be placed on a single planet.<sup>*</sup>
         <ul>
@@ -591,7 +591,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship">Ghost Ship</a></h2>
+<h2 id="ghost-ship"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship">Ghost Ship</a></h2>
     <ol class="note">
     <li>A player may place the destroyer in the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss gate</a> (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.<sup>*</sup>
         <ul>
@@ -607,7 +607,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
+<h2 id="ghost-squad"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
     <ol class="note">
     <li><i>Ghost Squad</i> is played after the active player has assigned which planet each of their ground forces are being committed to.<sup>10</sup>
         <ul>
@@ -632,7 +632,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a> (replaced by &Omega;)</h2>
+<h2 id="hack-election" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>7</sup>
         <ul>
@@ -648,7 +648,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election &Omega;</a></h2>
+<h2 id="hack-election-omega"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election &Omega;</a></h2>
     <ol class="note">
     <li>The speaker votes before the player that played <i>Hack Election &Omega;</i>.<sup>*</sup>
         <ul>
@@ -664,7 +664,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Harness%20Energy">Harness Energy</a></h2>
+<h2 id="harness-energy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Harness%20Energy">Harness Energy</a></h2>
     <ol class="note">
     <li>If a player has their maximum number of commodities, they may still play <i>Harness Energy</i>. If they do, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
         <ul>
@@ -672,7 +672,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Imperial%20Rider">Imperial Rider</a></h2>
+<h2 id="imperial-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Imperial%20Rider">Imperial Rider</a></h2>
     <ol class="note">
     <li>After playing an <i>Imperial Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -696,7 +696,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Impersonation">Impersonation</a></h2>
+<h2 id="impersonation"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Impersonation">Impersonation</a></h2>
     <ol class="note">
     <li>A player cannot play <i>Impersonation</i> if they have less than three influence available.<sup>10</sup>
         <ul>
@@ -712,7 +712,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space">In The Silence Of Space</a></h2>
+<h2 id="in-the-silence-of-space"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space">In The Silence Of Space</a></h2>
     <ol class="note">
     <li>Only the ships in the chosen system may move through systems that contain other players&rsquo; ships. Ships in other systems may still move to the active system if they are able to do so without moving through systems that contain other players&rsquo; ships.<sup>*</sup>
         <ul>
@@ -720,11 +720,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Industrial%20Initiative">Industrial Initiative</a></h2>
+<h2 id="industrial-initiative"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Industrial%20Initiative">Industrial Initiative</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate">Infiltrate</a></h2>
+<h2 id="infiltrate"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate">Infiltrate</a></h2>
     <ol class="note">
     <li>If the <a href="/F_lizix">L1Z1X</a> player plays <i>Infiltrate</i> before they resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate"><sc>Assimilate</sc></a> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup>
         <ul>
@@ -742,7 +742,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a> (replaced by &Omega;)</h2>
+<h2 id="insider-information" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>7</sup>
         <ul>
@@ -754,15 +754,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information &Omega;</a></h2>
+<h2 id="insider-information-omega"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Insider%20Information">Insider Information &Omega;</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Insubordination">Insubordination</a></h2>
+<h2 id="insubordination"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Insubordination">Insubordination</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept">Intercept</a></h2>
+<h2 id="intercept"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept">Intercept</a></h2>
     <ol class="note">
     <li>During the next round of combat, the targeted player may declare another retreat.<sup>*</sup>
         <ul>
@@ -775,7 +775,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Leadership%20Rider">Leadership Rider</a></h2>
+<h2 id="leadership-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Leadership%20Rider">Leadership Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Leadership Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -799,7 +799,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Lie%20In%20Wait">Lie In Wait</a></h2>
+<h2 id="lie-in-wait"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Lie%20In%20Wait">Lie In Wait</a></h2>
     <ol class="note">
     <li>If players make a deal for one of them to play an action card, <i>Lie In Wait</i> resolves after that action card is played and resolved.<sup>6</sup>
         <ul>
@@ -807,7 +807,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart">Lost Star Chart</a></h2>
+<h2 id="lost-star-chart"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart">Lost Star Chart</a></h2>
     <ol class="note">
     <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law is in play, <i>Lost Star Chart</i> will allow a player to move through wormholes during this action.<sup>2,5</sup>
         <ul>
@@ -825,7 +825,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot">Lucky Shot</a></h2>
+<h2 id="lucky-shot"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot">Lucky Shot</a></h2>
     <ol class="note">
     <li>A player cannot use <i>Lucky Shot</i> against their own units.<sup>1,2,5</sup>
         <ul>
@@ -842,7 +842,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
+<h2 id="maneuvering-jets"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
     <ol class="note">
     <li><i>Maneuvering Jets</i> may cancel hits produced during either the <b>Space Cannon Offense</b> or the <b>Space Cannon Defense</b> step.<sup>2</sup>
         <ul>
@@ -868,7 +868,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Manipulate%20Investments">Manipulate Investments</a></h2>
+<h2 id="manipulate-investments"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Manipulate%20Investments">Manipulate Investments</a></h2>
     <ol class="note">
     <li>If a player still has a strategy card because of <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a>, trade goods may be placed on that strategy card. However, those trade goods will remain on that strategy card until it is chosen from the common area.<sup>*</sup>
         <ul>
@@ -880,7 +880,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan">Master Plan</a></h2>
+<h2 id="master-plan"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan">Master Plan</a></h2>
     <ol class="note">
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
         <ul>
@@ -900,7 +900,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
+<h2 id="mercenary-contract"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
     <ol class="note">
     <li>A player cannot target a planet they control with <i>Mercenary Contract</i>.<sup>6</sup>
         <ul>
@@ -940,7 +940,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Mining%20Initiative">Mining Initiative</a></h2>
+<h2 id="mining-initiative"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Mining%20Initiative">Mining Initiative</a></h2>
     <ol class="note">
     <li><i>Mining Initiative</i> does not exhaust the chosen planet.<sup>*</sup>
         <ul>
@@ -948,7 +948,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost">Morale Boost</a></h2>
+<h2 id="morale-boost"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost">Morale Boost</a></h2>
     <ol class="note">
     <li>The +1 will apply to any rerolls during the combat round.<sup>*</sup>
         <ul>
@@ -965,7 +965,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite">Nav Suite</a></h2>
+<h2 id="nav-suite"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite">Nav Suite</a></h2>
     <ol class="note">
     <li>Wormholes are not anomalies.<sup>2</sup>
         <ul>
@@ -1001,11 +1001,11 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Overrule">Overrule</a></h2>
+<h2 id="overrule"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Overrule">Overrule</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley">Parley</a></h2>
+<h2 id="parley"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley">Parley</a></h2>
     <ol class="note">
     <li>If a player commits ground forces to multiple planets, <i>Parley</i> will affect ground forces on only one planet.<sup>*</sup>
         <ul>
@@ -1017,15 +1017,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Pirate%20Contract">Pirate Contract</a></h2>
+<h2 id="pirate-contract"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Pirate%20Contract">Pirate Contract</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Pirate%20Fleet">Pirate Fleet</a></h2>
+<h2 id="pirate-fleet"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Pirate%20Fleet">Pirate Fleet</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Plagiarize">Plagiarize</a></h2>
+<h2 id="plagiarize"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Plagiarize">Plagiarize</a></h2>
     <ol class="note">
     <li>A player cannot play <i>Plagiarize</i> if they have less than five influence available.<sup>10</sup>
         <ul>
@@ -1046,7 +1046,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague">Plague</a></h2>
+<h2 id="plague"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague">Plague</a></h2>
     <ol class="note">
     <li>A planet with zero infantry on it may be targeted by <i>Plague</i>.<sup>2</sup>
         <ul>
@@ -1058,7 +1058,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
+<h2 id="political-stability"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability">Political Stability</a></h2>
     <ol class="note">
     <li>In a three&ndash; or four&ndash;player game, a player who plays <i>Political Stability</i> keeps both of their strategy cards, and does not choose any strategy cards during the next strategy phase.<sup>*</sup>
         <ul>
@@ -1082,7 +1082,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Politics%20Rider">Politics Rider</a></h2>
+<h2 id="politics-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Politics%20Rider">Politics Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Politics Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -1106,7 +1106,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace">Public Disgrace</a></h2>
+<h2 id="public-disgrace"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace">Public Disgrace</a></h2>
     <ol class="note">
     <li>The player who must choose a different strategy card does not gain any trade goods that are on the strategy card they originally chose. Trade goods on a strategy card are gained by the player who ends up with that strategy card.<sup>2,5</sup>
         <ul>
@@ -1119,7 +1119,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Puppets%20On%20A%20String">Puppets On A String</a></h2>
+<h2 id="puppets-on-a-string"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Puppets%20On%20A%20String">Puppets On A String</a></h2>
     <ol class="note">
     <li>The player who played <i>Puppets On A String</i> is considered the active player during their action.<sup>*</sup>
         <ul>
@@ -1175,11 +1175,11 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Rally">Rally</a></h2>
+<h2 id="rally"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Rally">Rally</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown">Reactor Meltdown</a></h2>
+<h2 id="reactor-meltdown"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown">Reactor Meltdown</a></h2>
     <ol class="note">
     <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>1</sup>
         <ul>
@@ -1195,7 +1195,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Refit%20Troops">Refit Troops</a></h2>
+<h2 id="refit-troops"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Refit%20Troops">Refit Troops</a></h2>
     <ol class="note">
     <li>If a player has no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.<sup>1,4</sup>
         <ul>
@@ -1204,7 +1204,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding">Reflective Shielding</a></h2>
+<h2 id="reflective-shielding"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding">Reflective Shielding</a></h2>
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>4</sup>
         <ul>
@@ -1220,7 +1220,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reparations">Reparations</a></h2>
+<h2 id="reparations"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reparations">Reparations</a></h2>
     <ol class="note">
     <li><i>Reparations</i> may be played by a player with no exhausted planets, or when they lose control of a planet to a player with no readied planets.<sup>*</sup>
         <ul>
@@ -1232,7 +1232,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law">Repeal Law</a></h2>
+<h2 id="repeal-law"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law">Repeal Law</a></h2>
     <ol class="note">
     <li>There must be at least one law in play for a player to play and resolve <i>Repeal Law</i>.<sup>5</sup>
         <ul>
@@ -1240,7 +1240,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Rescue">Rescue</a></h2>
+<h2 id="rescue"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Rescue">Rescue</a></h2>
     <ol class="note">
     <li>If the chosen ship is in a gravity rift, it must roll for removal.<sup>6</sup>
         <ul>
@@ -1252,7 +1252,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype">Reveal Prototype</a></h2>
+<h2 id="reveal-prototype"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype">Reveal Prototype</a></h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
@@ -1268,7 +1268,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer">Reverse Engineer</a></h2>
+<h2 id="reverse-engineer"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer">Reverse Engineer</a></h2>
     <ol class="note">
     <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or canceled, if it is discarded due to hand size limits, or if it is discarded for another game effect.<sup>2</sup>
         <ul>
@@ -1280,7 +1280,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Rise%20of%20a%20Messiah">Rise of a Messiah</a></h2>
+<h2 id="rise-of-a-messiah"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Rise%20of%20a%20Messiah">Rise of a Messiah</a></h2>
     <ol class="note">
     <li>A player that controls zero planets may play <i>Rise of a Messiah</i>.<sup>*</sup>
         <ul>
@@ -1288,7 +1288,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Rout">Rout</a></h2>
+<h2 id="rout"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Rout">Rout</a></h2>
     <ol class="note">
     <li>A player cannot announce a retreat if there is not at least one eligible system to retreat to.<sup>1,2</sup>
         <ul>
@@ -1301,7 +1301,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage">Sabotage</a></h2>
+<h2 id="sabotage"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage">Sabotage</a></h2>
     <ol class="note">
     <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Sabotage</i>.<sup>1,2,5</sup>
         <ul>
@@ -1355,11 +1355,11 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Salvage">Salvage</a></h2>
+<h2 id="salvage"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Salvage">Salvage</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Sanction">Sanction</a></h2>
+<h2 id="sanction"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Sanction">Sanction</a></h2>
     <ol class="note">
     <li>After playing a <i>Sanction</i>, a player may use additional abilities, including playing rider cards.<sup>*</sup>
         <ul>
@@ -1367,7 +1367,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Scramble%20Frequency">Scramble Frequency</a></h2>
+<h2 id="scramble-frequency"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Scramble%20Frequency">Scramble Frequency</a></h2>
     <ol class="note">
     <li><i>Scramble Frequency</i> rerolls all of the dice rolled for that ability, including dice rolled against different planets.<sup>2</sup>
         <ul>
@@ -1375,15 +1375,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Scuttle">Scuttle</a></h2>
+<h2 id="scuttle"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Scuttle">Scuttle</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Seize%20Artifact">Seize Artifact</a></h2>
+<h2 id="seize-artifact"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Seize%20Artifact">Seize Artifact</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding">Shields Holding</a></h2>
+<h2 id="shields-holding"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding">Shields Holding</a></h2>
     <ol class="note">
     <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during space combat.<sup>1,2,5</sup>
         <ul>
@@ -1420,7 +1420,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
+<h2 id="signal-jamming"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
     <ol class="note">
     <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup>
         <ul>
@@ -1436,7 +1436,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
+<h2 id="skilled-retreat"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
     <ol class="note">
     <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup>
         <ul>
@@ -1478,7 +1478,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Solar%20Flare">Solar Flare</a></h2>
+<h2 id="solar-flare"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Solar%20Flare">Solar Flare</a></h2>
     <ol class="note">
     <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup>
         <ul>
@@ -1490,7 +1490,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
+<h2 id="spy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
     <ol class="note">
     <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup>
         <ul>
@@ -1498,7 +1498,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
+<h2 id="strategize"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
     <ol class="note">
     <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>2</sup>
         <ul>
@@ -1506,11 +1506,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Summit">Summit</a></h2>
+<h2 id="summit"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Summit">Summit</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment">Tactical Bombardment</a></h2>
+<h2 id="tactical-bombardment"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment">Tactical Bombardment</a></h2>
     <ol class="note">
     <li>A player must have at least one unit with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability to play and resolve <i>Tactical Bombardment</i>.<sup>2</sup>
         <ul>
@@ -1522,7 +1522,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Technology%20Rider">Technology Rider</a></h2>
+<h2 id="technology-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Technology%20Rider">Technology Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Technology Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -1555,7 +1555,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider">Trade Rider</a></h2>
+<h2 id="trade-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider">Trade Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Trade Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -1579,11 +1579,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unexpected%20Action">Unexpected Action</a></h2>
+<h2 id="unexpected-action"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unexpected%20Action">Unexpected Action</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unstable%20Planet">Unstable Planet</a></h2>
+<h2 id="unstable-planet"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Unstable%20Planet">Unstable Planet</a></h2>
     <ol class="note">
     <li>The text of <i>Unstable Planet</i> is changed to: &ldquo;Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.&rdquo;<sup>1,2</sup>
         <ul>
@@ -1602,7 +1602,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Upgrade">Upgrade</a></h2>
+<h2 id="upgrade"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Upgrade">Upgrade</a></h2>
     <ol class="note">
     <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.<sup>1</sup>
         <ul>
@@ -1620,7 +1620,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising">Uprising</a></h2>
+<h2 id="uprising"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising">Uprising</a></h2>
     <ol class="note">
     <li><i>Uprising</i> cannot target an exhausted planet.<sup>2</sup>
         <ul>
@@ -1636,7 +1636,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
+<h2 id="veto"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
     <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup>
         <ul>
@@ -1661,7 +1661,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Effort">War Effort</a></h2>
+<h2 id="war-effort"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Effort">War Effort</a></h2>
     <ol class="note">
     <li>If a player wishes to place a cruiser, but there are none left in their reinforcements, they may remove a cruiser from any system that does not contain one of their command tokens and place that instead. This cruiser will be placed undamaged.<sup>1,4</sup>
         <ul>
@@ -1670,7 +1670,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Machine">War Machine</a></h2>
+<h2 id="war-machine"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Machine">War Machine</a></h2>
     <ol class="note">
     <li><i>War Machine</i> may only be used by effects that cause a unit to use its <a href="/R_production"><sc>Production</sc></a> ability. It cannot be used for other effects that produce units.<sup>10</sup>
         <ul>
@@ -1678,7 +1678,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Warfare%20Rider">Warfare Rider</a></h2>
+<h2 id="warfare-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Warfare%20Rider">Warfare Rider</a></h2>
     <ol class="note">
     <li>After playing a <i>Warfare Rider</i>, a player may play other rider cards.<sup>1,2,5</sup>
         <ul>
@@ -1707,7 +1707,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay">Waylay</a></h2>
+<h2 id="waylay"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay">Waylay</a></h2>
     <ol class="note">
     <li>A ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability may cancel a hit produced by an anti&ndash;fighter barrage roll if <i>Waylay</i> causes that ship to be eligible to be hit.<sup>2</sup>
         <ul>

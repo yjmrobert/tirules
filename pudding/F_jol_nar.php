@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_jol_nar">The Universities of Jol&ndash;Nar</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Fragile">Fragile</a></h2>
+<h2 id="fragile"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Fragile">Fragile</a></h2>
     <ol class="note">
     <li>The <sc>Fragile</sc> ability does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1,2</sup>
         <ul>
@@ -16,7 +16,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Brilliant">Brilliant</a></h2>
+<h2 id="brilliant"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Brilliant">Brilliant</a></h2>
     <ol class="note">
     <li>When using Brilliant, the Jol&ndash;Nar player spends only the command token from their strategy pool, not the four resources. They then resolve the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, and may research an additional technology by spending six resources.<sup>2</sup>
         <ul>
@@ -28,11 +28,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Analytical">Analytical</a></h2>
+<h2 id="analytical"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Analytical">Analytical</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Promissory_Note:~:text=Research%20Agreement">Research Agreement</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="research-agreement"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Promissory_Note:~:text=Research%20Agreement">Research Agreement</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the Jol&ndash;Nar player will research several technologies in a row, then after each, the player holding <i>Research Agreement</i> may play it. The Jol&ndash;Nar player does not decide the next technology they will research until after the player holding the <i>Research Agreement</i> plays it or declines to.<sup>*</sup>
         <ul>
@@ -76,7 +76,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=E-Res%20Siphons">E&ndash;Res Siphons</a> <sub>(Technology)</sub></h2>
+<h2 id="eres-siphons"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=E-Res%20Siphons">E&ndash;Res Siphons</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts toward the Jol&ndash;Nar player this turn.<sup>*</sup>
         <ul>
@@ -88,7 +88,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=Spatial%20Conduit%20Cylinder">Spatial Conduit Cylinder</a> <sub>(Technology)</sub></h2>
+<h2 id="spatial-conduit-cylinder"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=Spatial%20Conduit%20Cylinder">Spatial Conduit Cylinder</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Spatial Conduit Cylinder</i> is exhausted after the system is activated, before movement; the active system must already contain one of the Jol&ndash;Nar player&rsquo;s units.<sup>2</sup>
         <ul>
@@ -104,7 +104,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Flagship:~:text=J.N.S.%20Hylarim">J.N.S. Hylarim</a> <sub>(Flagship)</sub></h2>
+<h2 id="j-n-s-hylarim"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Flagship:~:text=J.N.S.%20Hylarim">J.N.S. Hylarim</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Each result of 9 or 10 produces three hits in total: its normal hit and two additional hits.<sup>2</sup>
         <ul>
@@ -112,7 +112,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Doctor%20Sucaban">Doctor Sucaban</a> <sub>(Agent)</sub></h2>
+<h2 id="doctor-sucaban"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Doctor%20Sucaban">Doctor Sucaban</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the Jol&ndash;Nar player has the Infantry II unit upgrade, any of their infantry removed with Doctor Sucaban will not roll for resurrection.<sup>2</sup>
         <ul>
@@ -120,7 +120,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Ta%20Zern">Ta Zern</a> /<br/><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Agnlan%20Oln">Agnlan Oln</a> <sub>(Commander)</sub></h2>
+<h2 id="ta-zern"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Ta%20Zern">Ta Zern</a> /<br/><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Agnlan%20Oln">Agnlan Oln</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Ta Zern and Agnlan Oln work identically. Thunder&rsquo;s Edge replaces Ta Zern with Agnlan Oln because the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s hero is also named Ta Zern.<sup>2,7</sup>
         <ul>
@@ -141,7 +141,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Rin%2C%20The%20Master%27s%20Legacy">Rin, The Master&rsquo;s Legacy</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Genetic%20Memory">Genetic Memory</a> <sub>(Hero)</sub></h2>
+<h2 id="rin-the-masters-legacy"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Rin%2C%20The%20Master%27s%20Legacy">Rin, The Master&rsquo;s Legacy</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Leaders:~:text=Genetic%20Memory">Genetic Memory</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.<sup>*</sup>
         <ul>
@@ -165,7 +165,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Mech:~:text=Shield%20Paling">Shield Paling</a> <sub>(Mech)</sub></h2>
+<h2 id="shield-paling"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Mech:~:text=Shield%20Paling">Shield Paling</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Shield Paling itself is still affected by the <a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Abilities:~:text=Fragile"><sc>Fragile</sc></a> ability.<sup>*</sup>
         <ul>
@@ -173,7 +173,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Breakthrough:~:text=Specialized%20Compounds">Specialized Compounds</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="specialized-compounds"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Breakthrough:~:text=Specialized%20Compounds">Specialized Compounds</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Due to the synergy of <i>Specialized Compounds</i>, the Jol&ndash;Nar player may exhaust a planet with a yellow technology specialty to research a green technology, and vice versa.<sup>6</sup>
         <ul>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_keleres">Council Keleres</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=The%20Tribunii">The Tribunii</a></h2>
+<h2 id="the-tribunii"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=The%20Tribunii">The Tribunii</a></h2>
     <ol class="note">
     <li>The Keleres player chooses their starting technology after all other players have gained their starting technologies.<sup>2,4</sup>
         <ul>
@@ -16,7 +16,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Council%20Patronage">Council Patronage</a></h2>
+<h2 id="council-patronage"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Council%20Patronage">Council Patronage</a></h2>
     <ol class="note">
     <li>The Keleres player must mandatorily replenish their commodities and gain a trade good every strategy phase.<sup>12</sup>
         <ul>
@@ -28,7 +28,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Law%27s%20Order">Law&rsquo;s Order</a></h2>
+<h2 id="laws-order"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III:~:text=Law%27s%20Order">Law&rsquo;s Order</a></h2>
     <ol class="note">
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.<sup>4,12</sup>
         <ul>
@@ -54,7 +54,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="keleres-rider"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>After playing <i>Keleres Rider</i>, a player may use additional abilities, including playing other rider cards.<sup>2</sup>
         <ul>
@@ -79,7 +79,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Agency%20Supply%20Network">Agency Supply Network</a> <sub>(Technology)</sub></h2>
+<h2 id="agency-supply-network"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Agency%20Supply%20Network">Agency Supply Network</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any abilities that trigger &ldquo;when/after a unit uses <a href="/R_production"><sc>Production</sc></a>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
         <ul>
@@ -107,7 +107,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order">Executive Order</a> <sub>(Technology)</sub></h2>
+<h2 id="executive-order"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order">Executive Order</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Riders may be played when resolving <i>Executive Order</i>.<sup>2,6,9</sup>
         <ul>
@@ -155,7 +155,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III_2:~:text=I.I.H.Q.%20Modernization">I.I.H.Q. Modernization</a> <sub>(Technology/Breakthrough)</sub></h2>
+<h2 id="i-i-h-q-modernization"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Codex_III_2:~:text=I.I.H.Q.%20Modernization">I.I.H.Q. Modernization</a> <sub>(Technology/Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Keleres player is neighbors with another player, that player is neighbors with the Keleres player.<sup>*</sup>
         <ul>
@@ -163,7 +163,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> <sub>(Legendary Planet)</sub></h2>
+<h2 id="custodia-vigilia"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> <sub>(Legendary Planet)</sub></h2>
     <ol class="note">
     <li>The Custodia Vigilia planet card is gained exhausted.<sup>4</sup>
         <ul>
@@ -225,7 +225,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris">Artemiris</a> <sub>(Flagship)</sub></h2>
+<h2 id="artemiris"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris">Artemiris</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If a player cannot spend two influence, they cannot activate the system containing the <i>Artemiris</i>.<sup>12</sup>
         <ul>
@@ -233,7 +233,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Xander%20Alexin%20Victori%20III">Xander Alexin Victori III</a> <sub>(Agent)</sub></h2>
+<h2 id="xander-alexin-victori-iii"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Xander%20Alexin%20Victori%20III">Xander Alexin Victori III</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Xander Alexin Victori III applies to only a single instance of spending trade goods.<sup>4</sup>
         <ul>
@@ -241,7 +241,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Commander)</sub></h2>
+<h2 id="suffi-an"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The trade good to unlock Suffi An is spent after, and independent of, any trade goods spent while resolving the action card.<sup>*</sup>
         <ul>
@@ -273,11 +273,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Harka%20Leeds">Harka Leeds</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Erwan%27s%20Covenant">Erwan&rsquo;s Covenant</a> <sub>(Hero)</sub></h2>
+<h2 id="harka-leeds"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Harka%20Leeds">Harka Leeds</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Erwan%27s%20Covenant">Erwan&rsquo;s Covenant</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Kuuasi%20Aun%20Jalatai">Kuuasi Aun Jalatai</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta">Overwing Zeta</a> <sub>(Hero)</sub></h2>
+<h2 id="kuuasi-aun-jalatai"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Kuuasi%20Aun%20Jalatai">Kuuasi Aun Jalatai</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta">Overwing Zeta</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>4</sup>
         <ul>
@@ -301,7 +301,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Odlynn%20Myrr">Odlynn Myrr</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Operation%20Archon">Operation Archon</a> <sub>(Hero)</sub></h2>
+<h2 id="odlynn-myrr"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Odlynn%20Myrr">Odlynn Myrr</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Operation%20Archon">Operation Archon</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The additional votes are not cast until the Keleres player casts votes normally.<sup>*</sup>
         <ul>
@@ -317,7 +317,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Mech:~:text=Omniopiares">Omniopiares</a> <sub>(Mech)</sub></h2>
+<h2 id="omniopiares"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Mech:~:text=Omniopiares">Omniopiares</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If a planet contains multiple mechs, the invading player must pay one influence for each, as separate payments.<sup>2,4</sup>
         <ul>

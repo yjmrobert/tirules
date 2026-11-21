@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_nekro">The Nekro Virus</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
+<h2 id="galactic-threat"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
     <ol class="note">
     <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup>
         <ul>
@@ -28,7 +28,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity">Technological Singularity</a></h2>
+<h2 id="technological-singularity"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity">Technological Singularity</a></h2>
     <ol class="note">
     <li>If the Nekro player gains a technology during a space combat, this does not prevent them from gaining technology during ground combats in the <b>Invasion</b> step of the same tactical action.<sup>*</sup>
         <ul>
@@ -108,7 +108,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation">Propagation</a></h2>
+<h2 id="propagation"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Propagation">Propagation</a></h2>
     <ol class="note">
     <li>The Nekro player may still resolve the secondary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, which will instead gain them command tokens. They must still spend a command token from their strategy pool and four resources to do so.<sup>2</sup>
         <ul>
@@ -145,7 +145,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Promissory_Note:~:text=Antivirus">Antivirus</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="antivirus"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Promissory_Note:~:text=Antivirus">Antivirus</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat"><sc>Galactic Threat</sc></a> ability.<sup>*</sup>
         <ul>
@@ -177,7 +177,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> <sub>(Technology)</sub></h2>
+<h2 id="valefar-assimilator"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>When copying another technology, each <i>Valefar Assimilator</i> may later be used to copy a different faction technology.<sup>2,5</sup>
         <ul>
@@ -306,7 +306,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor">The Alastor</a> <sub>(Flagship)</sub></h2>
+<h2 id="the-alastor"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor">The Alastor</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.<sup>1</sup>
         <ul>
@@ -381,7 +381,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Malleon">Nekro Malleon</a> <sub>(Agent)</sub></h2>
+<h2 id="nekro-malleon"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Malleon">Nekro Malleon</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the chosen player is the <a href="/F_muaat">Muaat</a> player with their commander, Magmus, unlocked, they will gain a trade good from it if they spend a token from their strategy pool when resolving this ability.<sup>*</sup>
         <ul>
@@ -397,7 +397,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
+<h2 id="nekro-acidos"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When the Nekro player gains their third technology and unlocks Nekro Acidos, they cannot apply Nekro Acidos to that instance of gaining a technology.<sup>2</sup>
         <ul>
@@ -409,7 +409,7 @@
         </ul></li>
     </ol>
 
-<h2>UNIT.DSGN.FLAYESH &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Polymorphic%20Algorithm">Polymorphic Algorithm</a> <sub>(Hero)</sub></h2>
+<h2 id="polymorphic-algorithm">UNIT.DSGN.FLAYESH &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Polymorphic%20Algorithm">Polymorphic Algorithm</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>When the other player&rsquo;s units are destroyed, this does not trigger the Nekro player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity"><sc>Technological Singularity</sc></a> ability.<sup>*</sup>
         <ul>
@@ -422,7 +422,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Mech:~:text=Mordred">Mordred</a> <sub>(Mech)</sub></h2>
+<h2 id="mordred"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Mech:~:text=Mordred">Mordred</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A Mordred will apply +2 against a player with both <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> tokens, and not +4.<sup>*</sup>
         <ul>
@@ -430,7 +430,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Breakthrough:~:text=Valefar%20Assimilator%20Z">Valefar Assimilator Z</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="valefar-assimilator-z"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Breakthrough:~:text=Valefar%20Assimilator%20Z">Valefar Assimilator Z</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> X or Y token on the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a> unit upgrade technology card, their flagship would still gain each ability granted to them by <i>Valefar Assimilator Z</i> from the flagships of other players.<sup>*</sup>
         <ul>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>The Ghosts of Creuss</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
+<h2 id="quantum-entanglement"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup></li>
     <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and that player are neighbors.<sup>1,2</sup></li>
@@ -10,19 +10,19 @@
     <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability against the Creuss player&rsquo;s units.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
+<h2 id="slipstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup></li>
     <li><sc>Slipstream</sc> does not apply to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> or to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, or to gamma wormholes.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
+<h2 id="creuss-gate"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
     <ol class="note">
     <li>A frontier token is placed in the Creuss Gate system during setup.<sup>1</sup></li>
     <li>The Creuss home system (in standard game board setups) is on the edge of the board.<sup>8</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="creuss-iff"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1,2,5</sup></li>
     <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>1,5</sup></li></ol>
@@ -32,7 +32,7 @@
     <li>The <i>Creuss IFF</i> may place wormhole tokens in <a href="/R_fracture">The Fracture</a>.<sup>6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
+<h2 id="dimensional-splicer"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>.<sup>2</sup></li>
     <li>One hit will be produced even if the system contains multiple wormholes.<sup>*</sup></li>
@@ -42,7 +42,7 @@
     <li>If the chosen ship cancels the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
+<h2 id="wormhole-generator" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup></li>
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.<sup>2,5</sup></li>
@@ -53,7 +53,7 @@
     <li>The Creuss player may use <i>Wormhole Generator</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
+<h2 id="wormhole-generator-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Wormhole Generator &Omega;</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup></li>
     <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup></li>
@@ -61,7 +61,7 @@
     <li>The Creuss player may use <i>Wormhole Generator &Omega;</i> to place a wormhole token in an entropic scar; the card is exhausted and the token is then discarded.<sup>6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
+<h2 id="hil-colish"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.<sup>2</sup></li>
     <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or through, if its move value is increased) the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.<sup>2</sup></li>
@@ -76,7 +76,7 @@
     <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
+<h2 id="emissary-taivra"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.<sup>2</sup></li>
     <li>A delta wormhole in the system (such as from the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>) does not prevent this ability from being usable.<sup>8</sup></li>
@@ -86,7 +86,7 @@
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a>, then Emissary Taivra may be used for the activation immediately following.<sup>*</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
+<h2 id="sai-seravus"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.<sup>4</sup></li>
     <ol>
@@ -102,20 +102,20 @@
     <li>Systems containing Creuss wormhole tokens count toward the unlock condition of Sai Seravus.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
+<h2 id="riftwalker-meian"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any units in either system are moved with their system.<sup>2</sup></li>
     <li>Any tokens on either system are moved with their system.<sup>4</sup></li>
     <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
+<h2 id="icarus-drive"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Icarus Drive does not have to be in the activated system.<sup>2</sup></li>
     <li>The wormhole token is placed in the system the Icarus Drive was in.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="particle-synthesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup></li>
     <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup></li>

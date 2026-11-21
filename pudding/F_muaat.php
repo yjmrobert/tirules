@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_muaat">The Embers of Muaat</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Star%20Forge">Star Forge</a></h2>
+<h2 id="star-forge"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Star%20Forge">Star Forge</a></h2>
     <ol class="note">
     <li>The Muaat player cannot use <sc>Star Forge</sc> if they do not have a war sun on the game board.<sup>*</sup>
         <ul>
@@ -15,11 +15,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Gashlai%20Physiology">Gashlai Physiology</a></h2>
+<h2 id="gashlai-physiology"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Abilities:~:text=Gashlai%20Physiology">Gashlai Physiology</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai">Fires of the Gashlai</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="fires-of-the-gashlai"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai">Fires of the Gashlai</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.<sup>4</sup>
         <ul>
@@ -31,7 +31,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
+<h2 id="magmus-reactor" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -47,7 +47,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor &Omega;</a> <sub>(Technology)</sub></h2>
+<h2 id="magmus-reactor-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor">Magmus Reactor &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the Muaat player has a unit in a system containing a supernova, they cannot be eliminated.<sup>*</sup>
         <ul>
@@ -55,15 +55,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> <sub>(Unit)</sub></h2>
+<h2 id="prototype-war-sun"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Flagship:~:text=The%20Inferno">The Inferno</a> <sub>(Flagship)</sub></h2>
+<h2 id="the-inferno"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Flagship:~:text=The%20Inferno">The Inferno</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
+<h2 id="umbat"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1,2</sup>
         <ul>
@@ -88,7 +88,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus">Magmus</a> <sub>(Commander)</sub></h2>
+<h2 id="magmus"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus">Magmus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.<sup>*</sup>
         <ul>
@@ -123,7 +123,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Adjudicator%20Ba%27al">Adjudicator Ba&rsquo;al</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed">Nova Seed</a> <sub>(Hero)</sub></h2>
+<h2 id="adjudicator-baal"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Adjudicator%20Ba%27al">Adjudicator Ba&rsquo;al</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed">Nova Seed</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement. For example, the Muaat player may trigger <i>Nova Seed</i> when they retreat.<sup>*</sup>
         <ul>
@@ -176,7 +176,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Mech:~:text=Ember%20Colossus">Ember Colossus</a> <sub>(Mech)</sub></h2>
+<h2 id="ember-colossus"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Mech:~:text=Ember%20Colossus">Ember Colossus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If multiple Ember Colossi are in or adjacent to the system, each places one infantry.<sup>2</sup>
         <ul>
@@ -184,7 +184,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Stellar%20Genesis">Stellar Genesis</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="stellar-genesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Stellar%20Genesis">Stellar Genesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Muaat player explores Avernus when they gain it.<sup>*</sup>
         <ul>
@@ -226,7 +226,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Avernus">Avernus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Specific_Components:~:text=The%20Nucleus">The Nucleus</a> <sub>(Legendary Planet)</sub></h2>
+<h2 id="avernus"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Avernus">Avernus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Specific_Components:~:text=The%20Nucleus">The Nucleus</a> <sub>(Legendary Planet)</sub></h2>
     <ol class="note">
     <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup>
         <ul>

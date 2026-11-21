@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_arborec">The Arborec</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Abilities:~:text=Mitosis">Mitosis</a></h2>
+<h2 id="mitosis"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Abilities:~:text=Mitosis">Mitosis</a></h2>
     <ol class="note">
     <li>If the Arborec player produces units with both a space dock and Letani Warriors in the same system, any infantry they produce must be placed on a planet that contains a Letani Warrior.<sup>2,5</sup>
         <ul>
@@ -16,7 +16,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 id="stymie" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -36,7 +36,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="stymie-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Promissory_Note:~:text=Stymie">Stymie &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.<sup>2,6</sup>
         <ul>
@@ -45,7 +45,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Technologies:~:text=Bioplasmosis">Bioplasmosis</a> <sub>(Technology)</sub></h2>
+<h2 id="bioplasmosis"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Technologies:~:text=Bioplasmosis">Bioplasmosis</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>No infantry may move beyond an adjacent system. For example, consider a series of systems A&ndash;B&ndash;C. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. In this case:<sup>2</sup>
         <ul>
@@ -79,7 +79,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Infantry:~:text=Letani%20Warrior">Letani Warrior</a> <sub>(Unit)</sub></h2>
+<h2 id="letani-warrior"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Infantry:~:text=Letani%20Warrior">Letani Warrior</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Arborec player has two Letani Warrior I in a system, they may produce two infantry for one resource, rather than two.<sup>1,2,3,5</sup>
         <ul>
@@ -95,7 +95,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Flagship:~:text=Duha%20Menaimon">Duha Menaimon</a> <sub>(Flagship)</sub></h2>
+<h2 id="duha-menaimon"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Flagship:~:text=Duha%20Menaimon">Duha Menaimon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1,2</sup>
         <ul>
@@ -113,7 +113,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Letani%20Ospha">Letani Ospha</a> <sub>(Agent)</sub></h2>
+<h2 id="letani-ospha"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Letani%20Ospha">Letani Ospha</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The replaced ship is not destroyed. The replacing ship is not produced.<sup>*</sup>
         <ul>
@@ -134,7 +134,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Dirzuga%20Rophal">Dirzuga Rophal</a> <sub>(Commander)</sub></h2>
+<h2 id="dirzuga-rophal"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Dirzuga%20Rophal">Dirzuga Rophal</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The produced unit must be paid for.<sup>1,2</sup>
         <ul>
@@ -166,7 +166,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Letani%20Miasmiala">Letani Miasmiala</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Ultrasonic%20Emitter">Ultrasonic Emitter</a> <sub>(Hero)</sub></h2>
+<h2 id="letani-miasmiala"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Letani%20Miasmiala">Letani Miasmiala</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Ultrasonic%20Emitter">Ultrasonic Emitter</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The produced units must all be paid for.<sup>1</sup>
         <ul>
@@ -187,7 +187,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a> <sub>(Mech)</sub></h2>
+<h2 id="letani-behemoth"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Arborec player may produce Letani Behemoth with their space docks.<sup>2</sup>
         <ul>
@@ -195,7 +195,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Breakthrough:~:text=Psychospore">Psychospore</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="psychospore"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Breakthrough:~:text=Psychospore">Psychospore</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 </article>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_argent">The Argent Flight</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
+<h2 id="zeal"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
     <ol class="note">
     <li>The Argent player always votes first, even if they are the speaker.<sup>2,14</sup>
         <ul>
@@ -24,7 +24,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation">Raid Formation</a></h2>
+<h2 id="raid-formation"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation">Raid Formation</a></h2>
     <ol class="note">
     <li>The <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability can still be used even if no fighters are present in the system.<sup>1,2,8</sup>
         <ul>
@@ -69,11 +69,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Promissory_Note:~:text=Strike%20Wing%20Ambuscade">Strike Wing Ambuscade</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="strike-wing-ambuscade"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Promissory_Note:~:text=Strike%20Wing%20Ambuscade">Strike Wing Ambuscade</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice">Aerie Hololattice</a> <sub>(Technology)</sub></h2>
+<h2 id="aerie-hololattice"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice">Aerie Hololattice</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The planet with &ldquo;<a href="/R_production"><sc>Production</sc></a> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.<sup>*</sup>
         <ul>
@@ -85,7 +85,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
+<h2 id="strike-wing-alpha"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are canceled.<sup>4</sup>
         <ul>
@@ -101,7 +101,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Flagship:~:text=Quetzecoatl">Quetzecoatl</a> <sub>(Flagship)</sub></h2>
+<h2 id="quetzecoatl"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Flagship:~:text=Quetzecoatl">Quetzecoatl</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>A player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units against the Argent player&rsquo;s ground forces during the <b>Space Cannon Defense</b> step of an invasion in this system.<sup>*</sup>
         <ul>
@@ -109,11 +109,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trillossa%20Aun%20Mirik">Trillossa Aun Mirik</a> <sub>(Agent)</sub></h2>
+<h2 id="trillossa-aun-mirik"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trillossa%20Aun%20Mirik">Trillossa Aun Mirik</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
+<h2 id="trrakan-aun-zulok"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Ships that gain <a href="/R_bombardment"><sc>Bombardment</sc></a> due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz"><i>Blitz</i></a> action card will contribute to the unlock condition.<sup>*</sup>
         <ul>
@@ -129,7 +129,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Mirik%20Aun%20Sissiri">Mirik Aun Sissiri</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Helix%20Protocol">Helix Protocol</a> <sub>(Hero)</sub></h2>
+<h2 id="mirik-aun-sissiri"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Mirik%20Aun%20Sissiri">Mirik Aun Sissiri</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Helix%20Protocol">Helix Protocol</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Fighters may be moved without being transported.<sup>*</sup>
         <ul>
@@ -153,11 +153,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>
+<h2 id="aerie-sentinel"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Breakthrough:~:text=Wing%20Transfer">Wing Transfer</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="wing-transfer"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Breakthrough:~:text=Wing%20Transfer">Wing Transfer</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Argent player performs a tactical action as normal to trigger <i>Wing Transfer</i>. They cannot move ships with <i>Wing Transfer</i> into a board state that will not be resolved, such as a system that contains other players&rsquo; ships.<sup>6</sup>
         <ul>

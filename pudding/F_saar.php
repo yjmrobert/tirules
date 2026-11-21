@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_saar">The Clan of Saar</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge">Scavenge</a></h2>
+<h2 id="scavenge"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge">Scavenge</a></h2>
     <ol class="note">
     <li>If the Saar player gains control of multiple planets during one invasion, the trade goods are gained one at a time.<sup>1</sup>
         <ul>
@@ -29,11 +29,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic">Nomadic</a></h2>
+<h2 id="nomadic"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic">Nomadic</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Promissory_Note:~:text=Ragh%27s%20Call">Ragh&rsquo;s Call</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="raghs-call"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Promissory_Note:~:text=Ragh%27s%20Call">Ragh&rsquo;s Call</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occurring on that planet.<sup>*</sup>
         <ul>
@@ -49,7 +49,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Technologies:~:text=Chaos%20Mapping">Chaos Mapping</a> <sub>(Technology)</sub></h2>
+<h2 id="chaos-mapping"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Technologies:~:text=Chaos%20Mapping">Chaos Mapping</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A unit may be produced on each of the Saar player&rsquo;s turns.<sup>1,2</sup>
         <ul>
@@ -89,7 +89,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
+<h2 id="floating-factory"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>A Floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup>
         <ul>
@@ -199,11 +199,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>
+<h2 id="son-of-ragh"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> <sub>(Agent)</sub></h2>
+<h2 id="captain-mendosa"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup>
         <ul>
@@ -225,7 +225,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Rowl%20Sarrig">Rowl Sarrig</a> <sub>(Commander)</sub></h2>
+<h2 id="rowl-sarrig"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Rowl%20Sarrig">Rowl Sarrig</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If another player has the Saar player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.<sup>*</sup>
         <ul>
@@ -233,7 +233,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
+<h2 id="gurno-aggero"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in.<sup>1,2</sup>
         <ul>
@@ -242,7 +242,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
+<h2 id="scavenger-zeta"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Saar player may perform the <a href="/R_deploy"><sc>Deploy</sc></a> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <a href="/R_deploy"><sc>Deploy</sc></a> ability with the gained trade good.<sup>*</sup>
         <ul>
@@ -258,7 +258,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Breakthrough:~:text=Deorbit%20Barrage">Deorbit Barrage</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="deorbit-barrage"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Breakthrough:~:text=Deorbit%20Barrage">Deorbit Barrage</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Saar player must choose how many resources to spend before rolling any dice.<sup>*</sup>
         <ul>

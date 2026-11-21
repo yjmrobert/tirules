@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>The Mahact Gene&ndash;Sorcerers</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Edict">Edict</a></h2>
+<h2 id="edict"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Edict">Edict</a></h2>
     <ol class="note">
     <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.<sup>*</sup></li>
     <li>If an agenda requires the Mahact player to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.<sup>2,4</sup></li>
@@ -12,16 +12,16 @@
     <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Imperia">Imperia</a></h2>
+<h2 id="imperia"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Imperia">Imperia</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Hubris">Hubris</a></h2>
+<h2 id="hubris"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Hubris">Hubris</a></h2>
     <ol class="note">
     <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, that player does not give anything to the Mahact player.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Promissory_Note:~:text=Scepter%20of%20Dominion">Scepter of Dominion</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="scepter-of-dominion"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Promissory_Note:~:text=Scepter%20of%20Dominion">Scepter of Dominion</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player already has a command token in the chosen system, they do not place a command token there.<sup>1</sup></li>
     <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.<sup>1</sup></li>
@@ -29,29 +29,29 @@
     <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.<sup>6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Technologies:~:text=Genetic%20Recombination">Genetic Recombination</a> <sub>(Technology)</sub></h2>
+<h2 id="genetic-recombination"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Technologies:~:text=Genetic%20Recombination">Genetic Recombination</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A player that cannot vote due to a game effect or because they have zero influence on readied planets cannot be targeted by <i>Genetic Recombination</i>.<sup>2,4</sup></li>
     <ol><li>If a player then gains the ability to vote, they may then be targeted by <i>Genetic Recombination</i>.<sup>4</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Infantry:~:text=Crimson%20Legionnaire">Crimson Legionnaire</a> <sub>(Unit)</sub></h2>
+<h2 id="crimson-legionnaire"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Infantry:~:text=Crimson%20Legionnaire">Crimson Legionnaire</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>If multiple Crimson Legionnaires are destroyed at the same time, the Mahact player decides whether to gain a commodity or convert a commodity to a trade good individually for each.<sup>2</sup></li>
     <ol><li>If two Crimson Legionnaires are destroyed at the same time, the Mahact player may choose to gain a commodity, then immediately convert that commodity to a trade good.<sup>2</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Flagship:~:text=Arvicon%20Rex">Arvicon Rex</a> <sub>(Flagship)</sub></h2>
+<h2 id="arvicon-rex"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Flagship:~:text=Arvicon%20Rex">Arvicon Rex</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Jae%20Mir%20Kan">Jae Mir Kan</a> <sub>(Agent)</sub></h2>
+<h2 id="jae-mir-kan"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Jae%20Mir%20Kan">Jae Mir Kan</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Jae Mir Kan may be used even if the Mahact player has no command tokens in their strategy pool.<sup>2</sup></li>
     <li>If the Mahact player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a> <sub>(Commander)</sub></h2>
+<h2 id="il-na-viroset"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.<sup>2,4</sup></li>
     <ol>
@@ -63,7 +63,7 @@
     <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology does not trigger.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Airo%20Shir%20Aur">Airo Shir Aur</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction">Benediction</a> <sub>(Hero)</sub></h2>
+<h2 id="airo-shir-aur"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Airo%20Shir%20Aur">Airo Shir Aur</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction">Benediction</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>If the Mahact player moves another player&rsquo;s ships, ground forces on planets are left behind.<sup>2,4</sup></li>
     <ol>
@@ -99,7 +99,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Mech:~:text=Starlancer">Starlancer</a> <sub>(Mech)</sub></h2>
+<h2 id="starlancer"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Mech:~:text=Starlancer">Starlancer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Starlancer must be in the system before activation to be able to use its ability.<sup>4</sup></li>
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>4</sup></li>
@@ -108,7 +108,7 @@
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Breakthrough:~:text=Vaults%20of%20the%20Heir">Vaults of the Heir</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="vaults-of-the-heir"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Breakthrough:~:text=Vaults%20of%20the%20Heir">Vaults of the Heir</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The purged technology must be one that the Mahact player has in their play area, and not from their technology deck.<sup>*</sup></li>
     <ol><li>The technology may be exhausted when it is purged.<sup>*</sup></li></ol>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_empyrean">The Empyrean</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Voidborn">Voidborn</a></h2>
+<h2 id="voidborn"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Voidborn">Voidborn</a></h2>
     <ol class="note">
     <li>This effect also applies outside the <b>Movement</b> step.<sup>*</sup>
         <ul>
@@ -15,7 +15,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Aetherpassage">Aetherpassage</a></h2>
+<h2 id="aetherpassage"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Aetherpassage">Aetherpassage</a></h2>
     <ol class="note">
     <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>2</sup>
         <ul>
@@ -23,11 +23,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Dark%20Whispers">Dark Whispers</a></h2>
+<h2 id="dark-whispers"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Dark%20Whispers">Dark Whispers</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Blood%20Pact">Blood Pact</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="blood-pact"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Blood%20Pact">Blood Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Both players must cast at least one vote to trigger the additional votes.<sup>*</sup>
         <ul>
@@ -51,7 +51,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="dark-pact"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
@@ -84,7 +84,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
+<h2 id="aetherstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.<sup>2</sup>
         <ul>
@@ -96,7 +96,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Voidwatch">Voidwatch</a> <sub>(Technology)</sub></h2>
+<h2 id="voidwatch"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Voidwatch">Voidwatch</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The active player chooses which promissory note they give the Empyrean player.<sup>*</sup>
         <ul>
@@ -108,7 +108,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo">Dynamo</a> <sub>(Flagship)</sub></h2>
+<h2 id="dynamo"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo">Dynamo</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>A unit may only use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup>
         <ul>
@@ -134,7 +134,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
+<h2 id="acamar"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
@@ -143,7 +143,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
+<h2 id="xuange"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with all other players.<sup>2,5</sup>
         <ul>
@@ -171,7 +171,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Conservator%20Procyon">Conservator Procyon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift">Multiverse Shift</a> <sub>(Hero)</sub></h2>
+<h2 id="conservator-procyon"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Conservator%20Procyon">Conservator Procyon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift">Multiverse Shift</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
@@ -185,7 +185,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
+<h2 id="watcher"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
         <ul>
@@ -241,7 +241,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="void-tether"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects, even if both systems contain matching <a href="/R_wormholes">wormholes</a>. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
         <ul>

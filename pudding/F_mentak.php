@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_mentak">The Mentak Coalition</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush">Ambush</a></h2>
+<h2 id="ambush"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush">Ambush</a></h2>
     <ol class="note">
     <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect dice rolls made when resolving the <sc>Ambush</sc> ability.<sup>2</sup>
         <ul>
@@ -32,7 +32,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage">Pillage</a></h2>
+<h2 id="pillage"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage">Pillage</a></h2>
     <ol class="note">
     <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with the Mentak player.<sup>2,5</sup>
         <ul>
@@ -92,7 +92,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Promissory_Note:~:text=Promise%20of%20Protection">Promise of Protection</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="promise-of-protection"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Promissory_Note:~:text=Promise%20of%20Protection">Promise of Protection</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the player with <i>Promise of Protection</i> in their play area resolves a transaction with another player, the Mentak player may still use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability on that other player.<sup>2</sup>
         <ul>
@@ -116,7 +116,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
+<h2 id="mirror-computing"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If an effect specifically requires that trade goods are spent (for example, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes"><i>Negotiate Trade Routes</i></a> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup>
         <ul>
@@ -124,7 +124,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
+<h2 id="salvage-operations"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup>
         <ul>
@@ -157,7 +157,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
+<h2 id="fourth-moon"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup>
         <ul>
@@ -165,11 +165,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Agent)</sub></h2>
+<h2 id="suffi-an"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a> <sub>(Commander)</sub></h2>
+<h2 id="sula-mentarion"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Mentak player&rsquo;s opponent chooses which promissory note they give to the Mentak player.<sup>2</sup>
         <ul>
@@ -193,7 +193,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Ipswitch%2C%20Loose%20Cannon">Ipswitch, Loose Cannon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell">Sleeper Cell</a> <sub>(Hero)</sub></h2>
+<h2 id="ipswitch-loose-cannon"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Ipswitch%2C%20Loose%20Cannon">Ipswitch, Loose Cannon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell">Sleeper Cell</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Mentak player can trigger the <i>Sleeper Cell</i> ability, their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> ability, or any other &ldquo;at the start of a space combat&rdquo; abilities they have in any order.<sup>*</sup>
         <ul>
@@ -256,7 +256,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
+<h2 id="moll-terminus"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup>
         <ul>
@@ -264,11 +264,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=The%20Table%27s%20Grace">The Table&rsquo;s Grace</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="the-tables-grace"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=The%20Table%27s%20Grace">The Table&rsquo;s Grace</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=Corsair">Corsair</a> <sub>(Unit)</sub></h2>
+<h2 id="corsair"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=Corsair">Corsair</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>If the active system contains a non&ndash;Mentak player&rsquo;s units, the Mentak player may move a Corsair through systems containing any other player&rsquo;s ships, not just those of the player in the active system.<sup>*</sup>
         <ul>

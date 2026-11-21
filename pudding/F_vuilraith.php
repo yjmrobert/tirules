@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_vuilraith">The Vuil&rsquo;raith Cabal</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Devour">Devour</a></h2>
+<h2 id="devour"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Devour">Devour</a></h2>
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.<sup>4</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Amalgamation">Amalgamation</a></h2>
+<h2 id="amalgamation"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Amalgamation">Amalgamation</a></h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player produces multiple units, their <sc>Amalgamation</sc> ability may be applied to each.<sup>2</sup>
         <ul>
@@ -55,7 +55,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Riftmeld">Riftmeld</a></h2>
+<h2 id="riftmeld"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Riftmeld">Riftmeld</a></h2>
     <ol class="note">
     <li>The returned captured unit may belong to any player, regardless of whether that player owns the corresponding unit upgrade.<sup>2</sup>
         <ul>
@@ -63,7 +63,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible">Crucible</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="crucible"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible">Crucible</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.<sup>2,4</sup>
         <ul>
@@ -110,7 +110,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
+<h2 id="vortex"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>4</sup>
         <ul>
@@ -130,7 +130,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> <sub>(Unit)</sub></h2>
+<h2 id="dimensional-tear"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>A system containing a Dimensional Tear is an anomaly.<sup>2,4</sup>
         <ul>
@@ -168,7 +168,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between">The Terror Between</a> <sub>(Flagship)</sub></h2>
+<h2 id="the-terror-between"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between">The Terror Between</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>When <i>The Terror Between</i> is destroyed, it still captures units that were destroyed at the same time.<sup>2,4</sup>
         <ul>
@@ -185,7 +185,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> <sub>(Agent)</sub></h2>
+<h2 id="the-stillness-of-stars"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.<sup>4</sup>
         <ul>
@@ -213,11 +213,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=That%20Which%20Molds%20Flesh">That Which Molds Flesh</a> <sub>(Commander)</sub></h2>
+<h2 id="that-which-molds-flesh"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=That%20Which%20Molds%20Flesh">That Which Molds Flesh</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=It%20Feeds%20on%20Carrion">It Feeds on Carrion</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Anchor">Dimensional Anchor</a><sub> (Hero)</sub></h2>
+<h2 id="it-feeds-on-carrion"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=It%20Feeds%20on%20Carrion">It Feeds on Carrion</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Anchor">Dimensional Anchor</a><sub> (Hero)</sub></h2>
     <ol class="note">
     <li>Units captured while resolving <i>Dimensional Anchor</i> are not destroyed.<sup>*</sup>
         <ul>
@@ -245,7 +245,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Reanimator">Reanimator</a> <sub>(Mech)</sub></h2>
+<h2 id="reanimator"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Reanimator">Reanimator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player owns the Infantry II unit upgrade technology, and one is destroyed during ground combat on a planet with a Reanimator, the Vuil&rsquo;raith player captures an infantry token, and they roll for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.<sup>4</sup>
         <ul>
@@ -257,7 +257,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="alraith-ix-ianovar"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup>
         <ul>

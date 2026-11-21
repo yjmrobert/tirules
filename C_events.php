@@ -1,11 +1,33 @@
 <?php include "prefix.php"?>
 <header><h1>Events</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Advent%20of%20the%20War%20Sun">Advent of the War Sun</a></h2>
+<p class="jump">
+<a href="#advent-of-the-war-sun">Advent of the War Sun</a> &middot;
+<a href="#age-of-commerce">Age of Commerce</a> &middot;
+<a href="#age-of-exploration">Age of Exploration</a> &middot;
+<a href="#age-of-fighters">Age of Fighters</a> &middot;
+<a href="#call-of-the-void">Call of the Void</a> &middot;
+<a href="#civilized-society">Civilized Society</a> &middot;
+<a href="#conventions-of-war-abandoned">Conventions of War Abandoned</a> &middot;
+<a href="#cosmic-phenomenae">Cosmic Phenomenae</a> &middot;
+<a href="#cultural-exchange-program">Cultural Exchange Program</a> &middot;
+<a href="#dangerous-wilds">Dangerous Wilds</a> &middot;
+<a href="#hidden-agenda">Hidden Agenda</a> &middot;
+<a href="#mercenaries-for-hire">Mercenaries for Hire</a> &middot;
+<a href="#minor-factions">Minor Factions</a> &middot;
+<a href="#monuments-to-the-ages">Monuments to the Ages</a> &middot;
+<a href="#rapid-mobilization">Rapid Mobilization</a> &middot;
+<a href="#stellar-atomics">Stellar Atomics</a> &middot;
+<a href="#total-war">Total War</a> &middot;
+<a href="#weird-wormholes">Weird Wormholes</a> &middot;
+<a href="#wild-wild-galaxy">Wild, Wild Galaxy</a> &middot;
+<a href="#zealous-orthodoxy">Zealous Orthodoxy</a>
+</p>
+<h2 id="advent-of-the-war-sun"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Advent%20of%20the%20War%20Sun">Advent of the War Sun</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Age%20of%20Commerce">Age of Commerce</a></h2>
+<h2 id="age-of-commerce"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Age%20of%20Commerce">Age of Commerce</a></h2>
     <ol class="note">
     <li>Players must still be neighbors on the game board for the purpose of resolving game effects that depend on players being neighbors.<sup>*</sup></li>
     <ol><li>For example, the <a href="/F_mentak">Mentak</a> player must still be neighbors with another player on the game board to resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against that player.<sup>*</sup></li></ol>
@@ -16,55 +38,55 @@
     <li>A player may share any number of technologies in a single transaction.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Age%20of%20Exploration">Age of Exploration</a></h2>
+<h2 id="age-of-exploration"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Age%20of%20Exploration">Age of Exploration</a></h2>
     <ol class="note">
     <li>If there are no more blue&ndash;backed or red&ndash;backed tiles available, a player does not place any tile if they roll the corresponding dice result.<sup>*</sup></li>
     <li>New tiles cannot be placed adjacent to the <a href="/F_creuss">Creuss</a> or <a href="/F_rebellion">Rebellion</a> home systems, the wormhole nexus, or systems that comprise The Fracture.<sup>7</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Age%20of%20Fighters">Age of Fighters</a></h2>
+<h2 id="age-of-fighters"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Age%20of%20Fighters">Age of Fighters</a></h2>
     <ol class="note">
     <li>The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player still captures ships that they destroy via their various abilities. These ships are purged when they would be returned to their original owner.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Call%20of%20the%20Void">Call of the Void</a></h2>
+<h2 id="call-of-the-void"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Call%20of%20the%20Void">Call of the Void</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Civilized%20Society">Civilized Society</a></h2>
+<h2 id="civilized-society"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Civilized%20Society">Civilized Society</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Conventions%20of%20War%20Abandoned">Conventions of War Abandoned</a></h2>
+<h2 id="conventions-of-war-abandoned"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Conventions%20of%20War%20Abandoned">Conventions of War Abandoned</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Cosmic%20Phenomenae">Cosmic Phenomenae</a></h2>
+<h2 id="cosmic-phenomenae"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Cosmic%20Phenomenae">Cosmic Phenomenae</a></h2>
     <ol class="note">
     <li>Only ships moving out of gravity rifts may apply the +2 to their move value; ships moving through cannot.<sup>*</sup></li>
     <li>For ships moving out of a gravity rift, the active player chooses for each one whether it applies +1 or +2 to its move value, and then rolls for removing with the corresponding threshold.<sup>*</sup></li>
     <li>Ships that move out of a gravity rift outside of the movement step of a tactical action, such as through retreating from a space combat, must still roll for removal. Their owner may choose which threshold to use.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Cultural%20Exchange%20Program">Cultural Exchange Program</a></h2>
+<h2 id="cultural-exchange-program"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Cultural%20Exchange%20Program">Cultural Exchange Program</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Dangerous%20Wilds">Dangerous Wilds</a></h2>
+<h2 id="dangerous-wilds"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Dangerous%20Wilds">Dangerous Wilds</a></h2>
     <ol class="note">
     <li>The player may research the technology before or after they explore the planet.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Hidden%20Agenda">Hidden Agenda</a></h2>
+<h2 id="hidden-agenda"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Hidden%20Agenda">Hidden Agenda</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Mercenaries%20for%20Hire">Mercenaries for Hire</a></h2>
+<h2 id="mercenaries-for-hire"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Mercenaries%20for%20Hire">Mercenaries for Hire</a></h2>
     <ol class="note">
     <li>Players cannot look through the mercenaries deck. Only the faceup top card is known.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Minor%20Factions">Minor Factions</a></h2>
+<h2 id="minor-factions"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Minor%20Factions">Minor Factions</a></h2>
     <ol class="note">
     <li>During setup, if a player places a minor faction system with two planets, that player chooses which planet gets two neutral infantry and which planet gets one.<sup>11</sup></li>
     <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) in the equidistant, and place the <a href="/F_creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup></li>
@@ -90,22 +112,22 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Monuments%20to%20the%20Ages">Monuments to the Ages</a></h2>
+<h2 id="monuments-to-the-ages"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Monuments%20to%20the%20Ages">Monuments to the Ages</a></h2>
     <ol class="note">
     <li>If multiple players would gain their final victory point simultaneously, the player with the lowest initiative wins.<sup>1,4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Rapid%20Mobilization">Rapid Mobilization</a></h2>
+<h2 id="rapid-mobilization"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Rapid%20Mobilization">Rapid Mobilization</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Atomics">Stellar Atomics</a></h2>
+<h2 id="stellar-atomics"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Atomics">Stellar Atomics</a></h2>
     <ol class="note">
     <li>Players may still resolve non&ndash;action card abilities during the action phase.<sup>*</sup></li>
     <li>If the <a href="/F_xxcha">Xxcha</a> player has <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a>, their commander, unlocked, they will be able to vote after removing their control token from <i>Stellar Atomics</i>.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Total%20War">Total War</a></h2>
+<h2 id="total-war"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Total%20War">Total War</a></h2>
     <ol class="note">
     <li>Commodities on planets are not treated as commodities for any game effect, other than those that appear on the <i>Total War</i> event card.<sup>*</sup></li>
     <ol>
@@ -121,17 +143,17 @@
     <li>Neutral units have no cost; destroying them does not count toward <i>Total War</i>.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Weird%20Wormholes">Weird Wormholes</a></h2>
+<h2 id="weird-wormholes"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Weird%20Wormholes">Weird Wormholes</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Wild%2C%20Wild%20Galaxy">Wild, Wild Galaxy</a></h2>
+<h2 id="wild-wild-galaxy"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Wild%2C%20Wild%20Galaxy">Wild, Wild Galaxy</a></h2>
     <ol class="note">
     <li>A player with no planets remaining in their home system is not prevented from scoring public objectives.<sup>7</sup></li>
     <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Zealous%20Orthodoxy">Zealous Orthodoxy</a></h2>
+<h2 id="zealous-orthodoxy"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Zealous%20Orthodoxy">Zealous Orthodoxy</a></h2>
     <ol class="note">
     </ol>
 </article>

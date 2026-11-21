@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_norr">Sardakk N&rsquo;orr</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Unrelenting">Unrelenting</a></h2>
+<h2 id="unrelenting"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Unrelenting">Unrelenting</a></h2>
     <ol class="note">
     <li><sc>Unrelenting</sc> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1,2</sup>
         <ul>
@@ -12,7 +12,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Legion">Tekklar Legion</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="tekklar-legion"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Legion">Tekklar Legion</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Tekklar Legion</i> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup>
         <ul>
@@ -20,7 +20,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave">Valkyrie Particle Weave</a> <sub>(Technology)</sub></h2>
+<h2 id="valkyrie-particle-weave"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave">Valkyrie Particle Weave</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The hit produced by <i>Valkyrie Particle Weave</i> is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>*</sup>
         <ul>
@@ -40,7 +40,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme">Exotrireme</a> <sub>(Unit)</sub></h2>
+<h2 id="exotrireme"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme">Exotrireme</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When resolving the ability of an Exotrireme II, the N&rsquo;orr player chooses which ships are destroyed.<sup>2,5</sup>
         <ul>
@@ -71,7 +71,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=C%27morran%20N%27orr">C&rsquo;morran N&rsquo;orr</a> <sub>(Flagship)</sub></h2>
+<h2 id="cmorran-norr"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=C%27morran%20N%27orr">C&rsquo;morran N&rsquo;orr</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li><i>C&rsquo;morran N&rsquo;orr</i> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup>
         <ul>
@@ -79,11 +79,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=T%27ro">T&rsquo;ro</a> <sub>(Agent)</sub></h2>
+<h2 id="tro"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=T%27ro">T&rsquo;ro</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a> <sub>(Commander)</sub></h2>
+<h2 id="ghom-sekkus"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.<sup>6</sup>
         <ul>
@@ -148,7 +148,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Sh%27val%2C%20Harbinger">Sh&rsquo;val, Harbinger</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Conditioning">Tekklar Conditioning</a> <sub>(Hero)</sub></h2>
+<h2 id="shval-harbinger"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Sh%27val%2C%20Harbinger">Sh&rsquo;val, Harbinger</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Conditioning">Tekklar Conditioning</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The <b>Space Cannon Offense</b>, <b>Space Combat</b> and <b>Bombardment</b> steps are skipped.<sup>*</sup>
         <ul>
@@ -168,7 +168,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>
+<h2 id="valkyrie-exoskeleton"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The hit produced by the Valkyrie Exoskeleton is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>*</sup>
         <ul>
@@ -180,7 +180,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=N%27orr%20Supremacy">N&rsquo;orr Supremacy</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="norr-supremacy"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=N%27orr%20Supremacy">N&rsquo;orr Supremacy</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 </article>

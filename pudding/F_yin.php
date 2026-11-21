@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_yin">The Yin Brotherhood</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination">Indoctrination</a></h2>
+<h2 id="indoctrination"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination">Indoctrination</a></h2>
     <ol class="note">
     <li><sc>Indoctrination</sc> is limited to once per ground combat.<sup>1,2</sup>
         <ul>
@@ -28,7 +28,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion">Devotion</a></h2>
+<h2 id="devotion"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion">Devotion</a></h2>
     <ol class="note">
     <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup>
         <ul>
@@ -71,7 +71,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 id="greyfire-mutagen" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -84,7 +84,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="greyfire-mutagen-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>Greyfire Mutagen &Omega;</i> in a transaction during a ground combat. If received at the start of ground combat, that player may play it immediately.<sup>1</sup>
         <ul>
@@ -106,7 +106,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Impulse%20Core">Impulse Core</a> <sub>(Technology)</sub></h2>
+<h2 id="impulse-core"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Impulse%20Core">Impulse Core</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>When resolving <i>Impulse Core</i>, the Yin player&rsquo;s opponent chooses which ship is assigned the hit.<sup>*</sup>
         <ul>
@@ -122,7 +122,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
+<h2 id="yin-spinner" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -142,7 +142,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner &Omega;</a> <sub>(Technology)</sub></h2>
+<h2 id="yin-spinner-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Technologies:~:text=Yin%20Spinner">Yin Spinner &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The two infantry must be placed together.<sup>*</sup>
         <ul>
@@ -156,7 +156,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge">Van Hauge</a> <sub>(Flagship)</sub></h2>
+<h2 id="van-hauge"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Flagship:~:text=Van%20Hauge">Van Hauge</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories present in the system.<sup>*</sup>
         <ul>
@@ -168,7 +168,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
+<h2 id="brother-milor" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -197,7 +197,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
+<h2 id="brother-milor-omega" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
         <ul>
@@ -241,7 +241,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
+<h2 id="brother-milor-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>7</sup>
         <ul>
@@ -273,7 +273,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> (replaced by &Omega;(&Omega;)) <sub>(Commander)</sub></h2>
+<h2 id="brother-omar" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar</a> (replaced by &Omega;(&Omega;)) <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;(&Omega;) version.<sup>12</sup>
         <ul>
@@ -299,7 +299,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;(&Omega;)</a> <sub>(Commander)</sub></h2>
+<h2 id="brother-omar-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Omar">Brother Omar &Omega;(&Omega;)</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The faction abilities to unlock Brother Omar are <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> or <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion"><sc>Devotion</sc></a>.<sup>*</sup>
         <ul>
@@ -315,7 +315,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Spinner%20Overdrive">Spinner Overdrive</a> (replaced by &Omega;(&Omega;)) <sub>(Hero)</sub></h2>
+<h2 id="dannel-of-the-tenth" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Spinner%20Overdrive">Spinner Overdrive</a> (replaced by &Omega;(&Omega;)) <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;(&Omega;) version.<sup>12</sup>
         <ul>
@@ -327,7 +327,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;(&Omega;)</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;(&Omega;)</a> <sub>(Hero)</sub></h2>
+<h2 id="dannel-of-the-tenth-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Dannel%20of%20the%20Tenth">Dannel of the Tenth &Omega;(&Omega;)</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Quantum%20Dissemination">Quantum Dissemination &Omega;(&Omega;)</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.<sup>2,12</sup>
         <ul>
@@ -368,7 +368,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
+<h2 id="moyins-ashes"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup>
         <ul>
@@ -389,7 +389,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Breakthrough:~:text=Yin%20Ascendant">Yin Ascendant</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="yin-ascendant"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Breakthrough:~:text=Yin%20Ascendant">Yin Ascendant</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Yin player may use the alliance ability as though that faction&rsquo;s commander were unlocked.<sup>7</sup>
         <ul>

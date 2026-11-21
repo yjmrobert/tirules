@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_promissory_notes">Promissory Notes</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
+<h2 id="alliance"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
     <ol class="note">
     <li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be placed face up in their play area immediately.<sup>2</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
+<h2 id="ceasefire"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
     <ol class="note">
     <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of any units during the <b>Space Cannon Offense</b> step of the tactical action.<sup>2</sup>
         <ul>
@@ -44,7 +44,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret">Political Secret</a></h2>
+<h2 id="political-secret"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret">Political Secret</a></h2>
     <ol class="note">
     <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.<sup>1,2,5</sup>
         <ul>
@@ -67,7 +67,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne">Support For The Throne</a></h2>
+<h2 id="support-for-the-throne"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne">Support For The Throne</a></h2>
     <ol class="note">
     <li>A <i>Support For The Throne</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.<sup>2,3</sup>
         <ul>
@@ -117,7 +117,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
+<h2 id="trade-agreement"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
     <ol class="note">
     <li><i>Trade Agreement</i> cannot be played when a player gains commodities, only when they replenish commodities.<sup>3</sup>
         <ul>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>The Xxcha Kingdom</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords">Peace Accords</a></h2>
+<h2 id="peace-accords"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords">Peace Accords</a></h2>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2,5</sup></li>
     <li>The Xxcha player cannot gain control of a space station with <sc>Peace Accords</sc>, as a space station is not a planet.<sup>2,6</sup></li>
@@ -10,7 +10,7 @@
     <li>The Xxcha player may use <sc>Peace Accords</sc> to gain control of a planet in another player&rsquo;s home system.<sup>3</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>
+<h2 id="quash"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>
     <ol class="note">
     <li><sc>Quash</sc>, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <li>If <sc>Quash</sc> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup></li>
@@ -19,14 +19,14 @@
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor">Political Favor</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="political-favor"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor">Political Favor</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The text of <i>Political Favor</i> is changed to: &ldquo;When an agenda is revealed: Remove 1 token from the Xxcha player&rsquo;s strategy pool and return it to their reinforcements. Then, discard the revealed agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead. Then, return this card to the Xxcha player.&rdquo;<sup>1</sup></li>
     <li><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a>, <i>Political Favor</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
     <li>If the Xxcha player has no command tokens in their strategy pool, <i>Political Favor</i> cannot be played.<sup>2,5</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Instinct%20Training">Instinct Training</a> <sub>(Technology)</sub></h2>
+<h2 id="instinct-training"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Instinct%20Training">Instinct Training</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
     <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Instinct Training</i>.<sup>2,5</sup></li>
@@ -43,26 +43,26 @@
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field">Nullification Field</a> <sub>(Technology)</sub></h2>
+<h2 id="nullification-field"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field">Nullification Field</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Once the Xxcha player resolves the ability of <i>Nullification Field</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>2,4</sup></li>
     <ol><li>Other players, including the Xxcha player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.<sup>2</sup></li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.<sup>4,6</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
+<h2 id="loncara-ssodu"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
+<h2 id="ggrocuto-rinn"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Ggrocuto%20Rinn">Ggrocuto Rinn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.<sup>1,2,5</sup></li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.<sup>2,4</sup></li>
     <li>Ggrocuto Rinn may ready a planet controlled by another player. If that planet is in a system adjacent to a planet the Xxcha player controls, the infantry removed may belong to another player.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a> <sub>(Commander)</sub></h2>
+<h2 id="elder-qanoj"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Elder%20Qanoj">Elder Qanoj</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>A planet with zero influence may be used to cast one additional vote.<sup>2</sup></li>
     <li>The Xxcha player may play rider action cards and vote on the same agenda.<sup>2</sup></li>
@@ -70,7 +70,7 @@
     <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> (replaced by &Omega;) <sub>(Hero)</sub></h2>
+<h2 id="xxekir-grom" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> (replaced by &Omega;) <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup></li>
@@ -93,7 +93,7 @@
     <li>If the Xxcha player draws an agenda that is replaced if there are no laws in play, and there are no laws in play, a new agenda is drawn.<sup>4</sup></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Hero)</sub></h2>
+<h2 id="xxekir-grom-2" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>During the status phase, public and secret objectives are scored simultaneously. The Xxcha player cannot score a public objective, unlock Xxekir Grom, and then use <i>Political Data Nexus &Omega;</i> in order to score a secret objective, or vice versa.<sup>4</sup></li>
@@ -108,19 +108,19 @@
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.<sup>12</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Planetary%20Defense%20Nexus">Planetary Defense Nexus &Omega;&Omega;</a><sub>(Hero)</sub></h2>
+<h2 id="xxekir-grom-3"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Planetary%20Defense%20Nexus">Planetary Defense Nexus &Omega;&Omega;</a><sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The units may be placed on a readied planet.<sup>*</sup></li>
     <li>Multiple units may be placed on the same planet.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
+<h2 id="indomitus"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup></li>
     <li>An Indomitus being transported in the space area of a system may still use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="archons-gift"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.<sup>2</sup></li>
     <ol>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_technology">Technology</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors">Antimass Deflectors</a></h2>
+<h2 id="antimass-deflectors"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors">Antimass Deflectors</a></h2>
     <ol class="note">
     <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>2</sup>
         <ul>
@@ -15,7 +15,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap">Dark Energy Tap</a></h2>
+<h2 id="dark-energy-tap"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap">Dark Energy Tap</a></h2>
     <ol class="note">
     <li>A ship may be moved into the system containing the frontier token during the same action that it is explored.<sup>8</sup>
         <ul>
@@ -50,7 +50,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive">Gravity Drive</a></h2>
+<h2 id="gravity-drive"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive">Gravity Drive</a></h2>
     <ol class="note">
     <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, applying +2 to the move value of that ship.<sup>2</sup>
         <ul>
@@ -58,7 +58,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
+<h2 id="sling-relay"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
     <ol class="note">
     <li>The produced unit must be paid for.<sup>1,2</sup>
         <ul>
@@ -72,7 +72,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a></h2>
+<h2 id="fleet-logistics"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a></h2>
     <ol class="note">
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.<sup>2</sup>
         <ul>
@@ -100,7 +100,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector">Light/Wave Deflector</a></h2>
+<h2 id="light-wave-deflector"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector">Light/Wave Deflector</a></h2>
     <ol class="note">
     <li>A ship that uses <i>Light/Wave Deflector</i> to move through a system containing another player&rsquo;s ships may pick up and transport units from that system.<sup>2</sup>
         <ul>
@@ -112,7 +112,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator">Neural Motivator</a></h2>
+<h2 id="neural-motivator"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator">Neural Motivator</a></h2>
     <ol class="note">
     <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply to other effects that draw action cards, including but not limited to:<sup>1,5</sup>
         <ul>
@@ -143,7 +143,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
+<h2 id="psychoarchaeology"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
     <ol class="note">
     <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup>
         <ul>
@@ -157,15 +157,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Technology#Basic_Technology:~:text=Dacxive%20Animators">Dacxive Animators</a></h2>
+<h2 id="dacxive-animators"><a href="https://twilight-imperium.fandom.com/wiki/Technology#Basic_Technology:~:text=Dacxive%20Animators">Dacxive Animators</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Bio-Stims">Bio&ndash;Stims</a></h2>
+<h2 id="biostims"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Bio-Stims">Bio&ndash;Stims</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism">Hyper Metabolism</a></h2>
+<h2 id="hyper-metabolism"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism">Hyper Metabolism</a></h2>
     <ol class="note">
     <li>The text of <i>Hyper Metabolism</i> is changed to: &ldquo;During the status phase, gain 3 command tokens instead of 2.&rdquo;<sup>1,10</sup>
         <ul>
@@ -174,7 +174,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a> (replaced by &Omega;)</h2>
+<h2 id="x89-bacterial-weapon" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -182,7 +182,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a> (replaced by &Omega;&Omega;)</h2>
+<h2 id="x89-bacterial-weapon-omega" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
         <ul>
@@ -206,7 +206,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;&Omega;</a></h2>
+<h2 id="x89-bacterial-weapon-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon">X&ndash;89 Bacterial Weapon &Omega;&Omega;</a></h2>
     <ol class="note">
     <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily double the number of hits they produce.<sup>15</sup>
         <ul>
@@ -246,7 +246,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring">Plasma Scoring</a></h2>
+<h2 id="plasma-scoring"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring">Plasma Scoring</a></h2>
     <ol class="note">
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.<sup>1,2,3</sup>
         <ul>
@@ -276,7 +276,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm">AI Development Algorithm</a></h2>
+<h2 id="ai-development-algorithm"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm">AI Development Algorithm</a></h2>
     <ol class="note">
     <li>When a player exhausts <i>AI Development Algorithm</i> to ignore a prerequisite of a unit upgrade technology that they are researching, they may still use <i>AI Development Algorithm</i> itself for meeting a warfare technology (red) prerequisite on that unit upgrade technology in the same manner as any other technology.<sup>2</sup>
         <ul>
@@ -288,7 +288,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a> (replaced by &Omega;)</h2>
+<h2 id="magen-defense-grid" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -301,7 +301,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a> (replaced by &Omega;&Omega;)</h2>
+<h2 id="magen-defense-grid-omega" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;</a> (replaced by &Omega;&Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
         <ul>
@@ -325,7 +325,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;&Omega;</a></h2>
+<h2 id="magen-defense-grid-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid">Magen Defense Grid &Omega;&Omega;</a></h2>
     <ol class="note">
     <li>The player with <i>Magen Defense Grid &Omega;&Omega;</i> chooses which ground force the hit is assigned to.<sup>15</sup>
         <ul>
@@ -357,7 +357,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Self-Assembly_Routines">Self&ndash;Assembly Routines</a></h2>
+<h2 id="selfassembly-routines"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Self-Assembly_Routines">Self&ndash;Assembly Routines</a></h2>
     <ol class="note">
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.<sup>2</sup>
         <ul>
@@ -370,7 +370,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor">Duranium Armor</a></h2>
+<h2 id="duranium-armor"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor">Duranium Armor</a></h2>
     <ol class="note">
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.<sup>3</sup>
         <ul>
@@ -404,7 +404,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon">Assault Cannon</a></h2>
+<h2 id="assault-cannon"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon">Assault Cannon</a></h2>
     <ol class="note">
     <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.<sup>2</sup>
         <ul>
@@ -448,7 +448,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools">Sarween Tools</a></h2>
+<h2 id="sarween-tools"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools">Sarween Tools</a></h2>
     <ol class="note">
     <li>If units are produced without any unit using its <a href="/R_production"><sc>Production</sc></a> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.<sup>1,2,3</sup>
         <ul>
@@ -458,7 +458,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Scanlink_Drone_Network">Scanlink Drone Network</a></h2>
+<h2 id="scanlink-drone-network"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Scanlink_Drone_Network">Scanlink Drone Network</a></h2>
     <ol class="note">
     <li>The units must be on the planet before the <b>Movement</b> step of the tactical action.<sup>2</sup>
         <ul>
@@ -466,7 +466,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Graviton_Laser_System">Graviton Laser System</a></h2>
+<h2 id="graviton-laser-system"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Graviton_Laser_System">Graviton Laser System</a></h2>
     <ol class="note">
     <li><i>Graviton Laser System</i> has no effect during the <b>Space Cannon Defense</b> step, as hits can only be assigned to ground forces.<sup>2</sup>
         <ul>
@@ -482,7 +482,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Predictive_Intelligence">Predictive Intelligence</a></h2>
+<h2 id="predictive-intelligence"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Predictive_Intelligence">Predictive Intelligence</a></h2>
     <ol class="note">
     <li>The ability of <i>Predictive Intelligence</i> to cast additional votes cannot be used if it is exhausted.<sup>4</sup>
         <ul>
@@ -490,7 +490,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Transit_Diodes">Transit Diodes</a></h2>
+<h2 id="transit-diodes"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Transit_Diodes">Transit Diodes</a></h2>
     <ol class="note">
     <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.<sup>*</sup>
         <ul>
@@ -514,7 +514,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy">Integrated Economy</a></h2>
+<h2 id="integrated-economy"><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy">Integrated Economy</a></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1,2</sup>
         <ul>

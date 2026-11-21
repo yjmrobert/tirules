@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_lizix">The L1Z1X Mindnet</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate">Assimilate</a></h2>
+<h2 id="assimilate"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Assimilate">Assimilate</a></h2>
     <ol class="note">
     <li>Any space docks that are placed by this ability during a tactical action may produce units during the <b>Production</b> step of that tactical action.<sup>2</sup>
         <ul>
@@ -26,7 +26,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow">Harrow</a></h2>
+<h2 id="harrow"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow">Harrow</a></h2>
     <ol class="note">
     <li>The <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup>
         <ul>
@@ -61,7 +61,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 id="cybernetic-enhancements" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -74,11 +74,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="cybernetic-enhancements-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Technologies:~:text=Inheritance%20Systems">Inheritance Systems</a> <sub>(Technology)</sub></h2>
+<h2 id="inheritance-systems"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Technologies:~:text=Inheritance%20Systems">Inheritance Systems</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology.<sup>*</sup>
         <ul>
@@ -104,15 +104,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> <sub>(Unit)</sub></h2>
+<h2 id="super-dreadnought"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Flagship:~:text=%5B0.0.1%5D">[0.0.1]</a> <sub>(Flagship)</sub></h2>
+<h2 id="0-0-1"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Flagship:~:text=%5B0.0.1%5D">[0.0.1]</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=I48S">I48S</a> <sub>(Agent)</sub></h2>
+<h2 id="i48s"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=I48S">I48S</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The infantry must be in the system when it is activated for it to be eligible to be replaced. It cannot be replaced if it is moved into or produced in the active system later in the turn.<sup>*</sup>
         <ul>
@@ -125,7 +125,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
+<h2 id="2ram"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>.<sup>*</sup>
         <ul>
@@ -137,7 +137,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>
+<h2 id="the-helmsman"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=The%20Helmsman">The Helmsman</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=Dark%20Space%20Navigation">Dark Space Navigation</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Ships in systems with one of the L1Z1X player&rsquo;s command tokens may move.<sup>2</sup>
         <ul>
@@ -185,7 +185,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Mech:~:text=Annihilator">Annihilator</a> <sub>(Mech)</sub></h2>
+<h2 id="annihilator"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Mech:~:text=Annihilator">Annihilator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>An Annihilator may bombard when using the L1Z1X player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup>
         <ul>
@@ -193,7 +193,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Breakthrough:~:text=Fealty%20Uplink">Fealty Uplink</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="fealty-uplink"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Breakthrough:~:text=Fealty%20Uplink">Fealty Uplink</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the L1Z1X player gains control of an uncontrolled planet, they may choose if they place the infantry before or after they explore the planet.<sup>*</sup>
         <ul>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_naaz_rokha">The Naaz&ndash;Rokha Alliance</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Distant%20Suns">Distant Suns</a></h2>
+<h2 id="distant-suns"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Distant%20Suns">Distant Suns</a></h2>
     <ol class="note">
     <li><sc>Distant Suns</sc> may be used if the planet contains more than one of the Naaz&ndash;Rokha player&rsquo;s mechs.<sup>2</sup>
         <ul>
@@ -23,7 +23,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Fabrication">Fabrication</a></h2>
+<h2 id="fabrication"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Abilities:~:text=Fabrication">Fabrication</a></h2>
     <ol class="note">
     <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.<sup>4</sup>
         <ul>
@@ -39,7 +39,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Promissory_Note:~:text=Black%20Market%20Forgery">Black Market Forgery</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="black-market-forgery"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Promissory_Note:~:text=Black%20Market%20Forgery">Black Market Forgery</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge two relic fragments as an action to resolve <i>Black Market Forgery</i>, but they do not gain a relic.<sup>1,4</sup>
         <ul>
@@ -52,7 +52,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Pre-Fab%20Arcologies">Pre&ndash;Fab Arcologies</a> <sub>(Technology)</sub></h2>
+<h2 id="prefab-arcologies"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Pre-Fab%20Arcologies">Pre&ndash;Fab Arcologies</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The planet is not readied until after the planet is explored.<sup>2</sup>
         <ul>
@@ -74,7 +74,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge">Supercharge</a> <sub>(Technology)</sub></h2>
+<h2 id="supercharge"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge">Supercharge</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Supercharge</i> does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.<sup>1</sup>
         <ul>
@@ -82,7 +82,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir">Visz El Vir</a> <sub>(Flagship)</sub></h2>
+<h2 id="visz-el-vir"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir">Visz El Vir</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Each mech will roll an additional die.<sup>*</sup>
         <ul>
@@ -94,15 +94,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Garv%20and%20Gunn">Garv and Gunn</a> <sub>(Agent)</sub></h2>
+<h2 id="garv-and-gunn"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Garv%20and%20Gunn">Garv and Gunn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Dart%20and%20Tai">Dart and Tai</a> <sub>(Commander)</sub></h2>
+<h2 id="dart-and-tai"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Dart%20and%20Tai">Dart and Tai</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Hesh%20and%20Prit">Hesh and Prit</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Perfect%20Synthesis">Perfect Synthesis</a> <sub>(Hero)</sub></h2>
+<h2 id="hesh-and-prit"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Hesh%20and%20Prit">Hesh and Prit</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Leaders:~:text=Perfect%20Synthesis">Perfect Synthesis</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.<sup>2</sup>
         <ul>
@@ -138,7 +138,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon">Eidolon /<br/>Z&ndash;Grav Eidolon</a> <sub>(Mech)</sub></h2>
+<h2 id="eidolon-zgrav-eidolon"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon">Eidolon /<br/>Z&ndash;Grav Eidolon</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.<sup>6</sup>
         <ul>
@@ -170,7 +170,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Absolute%20Synergy">Absolute Synergy</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="absolute-synergy"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Absolute%20Synergy">Absolute Synergy</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The four mechs can be anywhere in the same system; they need not be all on the same planet, and some or all may be in the space area.<sup>*</sup>
         <ul>
@@ -182,7 +182,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
+<h2 id="eidolon-maximum"><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir"><i>Visz El Vir</i></a>.<sup>*</sup>
         <ul>

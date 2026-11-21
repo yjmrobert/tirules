@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_agendas">Agendas</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution">Anti&ndash;Intellectual Revolution</a></h2>
+<h2 id="antiintellectual-revolution"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution">Anti&ndash;Intellectual Revolution</a></h2>
     <ol class="note">
     <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.<sup>2</sup>
         <ul>
@@ -28,7 +28,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret">Archived Secret</a></h2>
+<h2 id="archived-secret"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret">Archived Secret</a></h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
@@ -41,7 +41,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Armed%20Forces%20Standardization">Armed Forces Standardization</a></h2>
+<h2 id="armed-forces-standardization"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Armed%20Forces%20Standardization">Armed Forces Standardization</a></h2>
     <ol class="note">
     <li>If the elected player is the <a href="/F_mahact">Mahact</a> player, they choose which command tokens to remove from their fleet pool. Any other players&rsquo; command tokens removed are returned to those players&rsquo; reinforcements.<sup>2</sup>
         <ul>
@@ -49,7 +49,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Arms%20Reduction">Arms Reduction</a></h2>
+<h2 id="arms-reduction"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Arms%20Reduction">Arms Reduction</a></h2>
     <ol class="note">
     <li>The &ldquo;For&rdquo; outcome of Arms Reduction only affects dreadnoughts and cruisers. Afterward, if a player&rsquo;s fighters or ground forces in a space area exceed their capacity, the excess units are removed; they are not destroyed.<sup>2</sup>
         <ul>
@@ -57,7 +57,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
+<h2 id="articles-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
     <ol class="note">
     <li>Mechs lose all of their printed abilities other than <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, including <a href="/R_bombardment"><sc>Bombardment</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> and <a href="/R_production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
         <ul>
@@ -65,7 +65,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Checks%20and%20Balances">Checks and Balances</a></h2>
+<h2 id="checks-and-balances"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Checks%20and%20Balances">Checks and Balances</a></h2>
     <ol class="note">
     <li>Players choose strategy cards in the normal order, but each player gives the card they choose to another player who does not yet have their full number of strategy cards. A player keeps the card they chose only if no other player can receive it.<sup>2</sup>
         <ul>
@@ -85,7 +85,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Clandestine%20Operations">Clandestine Operations</a></h2>
+<h2 id="clandestine-operations"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Clandestine%20Operations">Clandestine Operations</a></h2>
     <ol class="note">
     <li>If the &ldquo;For&rdquo; effect of <i>Clandestine Operations</i> is resolved, the removed tokens may be from any pool or pools on a player&rsquo;s command sheet.<sup>8</sup>
         <ul>
@@ -93,7 +93,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks">Classified Document Leaks</a></h2>
+<h2 id="classified-document-leaks"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks">Classified Document Leaks</a></h2>
     <ol class="note">
     <li>If <i>Classified Document Leaks</i> is revealed when only one secret objective is in play, players may only vote for that secret objective or abstain. If no votes are cast, the speaker must decide for that secret objective to be elected.<sup>*</sup>
         <ul>
@@ -141,7 +141,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a></h2>
+<h2 id="colonial-redistribution"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a></h2>
     <ol class="note">
     <li>If the player that originally controlled the elected planet has the fewest victory points, they may choose themselves to place an infantry on that planet.<sup>*</sup>
         <ul>
@@ -157,7 +157,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation">Committee Formation</a></h2>
+<h2 id="committee-formation"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation">Committee Formation</a></h2>
     <ol class="note">
     <li><i>Committee Formation</i> is resolved after any riders have been played, if the owner so chooses. Riders will resolve if the predicted outcome matches the player elected by the effect of <i>Committee Formation</i>.<sup>2</sup>
         <ul>
@@ -181,7 +181,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Compensated%20Disarmament">Compensated Disarmament</a></h2>
+<h2 id="compensated-disarmament"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Compensated%20Disarmament">Compensated Disarmament</a></h2>
     <ol class="note">
     <li>All trade goods are gained together.<sup>2</sup>
         <ul>
@@ -209,7 +209,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Conventions%20of%20War">Conventions of War</a></h2>
+<h2 id="conventions-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Conventions%20of%20War">Conventions of War</a></h2>
     <ol class="note">
     <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability.<sup>*</sup>
         <ul>
@@ -217,7 +217,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a> (removed in Prophecy of Kings)</h2>
+<h2 id="core-mining" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -229,7 +229,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation">Covert Legislation</a></h2>
+<h2 id="covert-legislation"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation">Covert Legislation</a></h2>
     <ol class="note">
     <li>If the speaker draws an agenda that would be replaced when it is revealed, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a>, they follow the text of that agenda and draw a new agenda.<sup>4</sup>
         <ul>
@@ -253,7 +253,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> (removed in Prophecy of Kings)</h2>
+<h2 id="the-crown-of-emphidia" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -274,7 +274,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a> (removed in Prophecy of Kings)</h2>
+<h2 id="the-crown-of-thalnos" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -286,7 +286,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a> (removed in Prophecy of Kings)</h2>
+<h2 id="demilitarized-zone" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -299,7 +299,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Economic%20Equality">Economic Equality</a></h2>
+<h2 id="economic-equality"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Economic%20Equality">Economic Equality</a></h2>
     <ol class="note">
     <li>If the &ldquo;For&rdquo; outcome of <i>Economic Equality</i> is resolved, the <a href="/F_mentak">Mentak</a> player may resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against each of their neighbors.<sup>*</sup>
         <ul>
@@ -307,7 +307,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban">Enforced Travel Ban</a></h2>
+<h2 id="enforced-travel-ban"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban">Enforced Travel Ban</a></h2>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>2</sup>
         <ul>
@@ -338,7 +338,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions">Executive Sanctions</a></h2>
+<h2 id="executive-sanctions"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions">Executive Sanctions</a></h2>
     <ol class="note">
     <li>The effect of the <i>Executive Sanctions</i> law does not affect the <a href="/F_yssaril">Yssaril</a> player.<sup>2</sup>
         <ul>
@@ -346,7 +346,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
+<h2 id="fleet-regulations"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
     <ol class="note">
     <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup>
         <ul>
@@ -362,7 +362,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
+<h2 id="galactic-crisis-pact"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
     <ol class="note">
     <li>If <a href="/R_leadership"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup>
         <ul>
@@ -390,7 +390,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a> (removed in Prophecy of Kings)</h2>
+<h2 id="holy-planet-of-ixth" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -403,7 +403,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Homeland%20Defense%20Act">Homeland Defense Act</a></h2>
+<h2 id="homeland-defense-act"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Homeland%20Defense%20Act">Homeland Defense Act</a></h2>
     <ol class="note">
     <li>If the <i>Homeland Defense Act</i> law is discarded, players might have to remove PDS so that they have no more than two on each planet.<sup>*</sup>
         <ul>
@@ -411,7 +411,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter">Imperial Arbiter</a></h2>
+<h2 id="imperial-arbiter"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter">Imperial Arbiter</a></h2>
     <ol class="note">
     <li>In a three&ndash; or four&ndash;player game, the owner of <i>Imperial Arbiter</i> chooses which strategy cards are swapped.<sup>*</sup>
         <ul>
@@ -419,11 +419,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Incentive%20Program">Incentive Program</a></h2>
+<h2 id="incentive-program"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Incentive%20Program">Incentive Program</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact">Ixthian Artifact</a></h2>
+<h2 id="ixthian-artifact"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact">Ixthian Artifact</a></h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
@@ -468,7 +468,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Judicial%20Abolishment">Judicial Abolishment</a></h2>
+<h2 id="judicial-abolishment"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Judicial%20Abolishment">Judicial Abolishment</a></h2>
     <ol class="note">
     <li>If <i>Judicial Abolishment</i> is revealed when only one law is in play, players may only vote for that law or abstain. If no votes are cast, the speaker must decide for that law to be elected.<sup>2</sup>
         <ul>
@@ -480,11 +480,11 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Methods_of_Acquiring_Relics:~:text=Minister%20of%20Antiquities">Minister of Antiquities</a></h2>
+<h2 id="minister-of-antiquities"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Methods_of_Acquiring_Relics:~:text=Minister%20of%20Antiquities">Minister of Antiquities</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Commerce">Minister of Commerce</a></h2>
+<h2 id="minister-of-commerce"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Commerce">Minister of Commerce</a></h2>
     <ol class="note">
     <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>2</sup>
         <ul>
@@ -504,7 +504,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Exploration">Minister of Exploration</a></h2>
+<h2 id="minister-of-exploration"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Exploration">Minister of Exploration</a></h2>
     <ol class="note">
     <li>If the owner of <i>Minister of Exploration</i> gains control of multiple planets during one invasion, the trade goods are gained one at a time.<sup>*</sup>
         <ul>
@@ -512,7 +512,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
+<h2 id="minister-of-industry"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
     <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>2</sup>
         <ul>
@@ -541,7 +541,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace">Minister of Peace</a></h2>
+<h2 id="minister-of-peace"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace">Minister of Peace</a></h2>
     <ol class="note">
     <li>Once a player resolves the ability of <i>Minister of Peace</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.<sup>2</sup>
         <ul>
@@ -561,7 +561,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy">Minister of Policy</a></h2>
+<h2 id="minister-of-policy"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy">Minister of Policy</a></h2>
     <ol class="note">
     <li>The owner of <i>Minister of Policy</i> will draw action cards during the <b>Draw Action Cards</b> step of the status phase, and again at the end of the status phase.<sup>*</sup>
         <ul>
@@ -578,11 +578,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences">Minister of Sciences</a></h2>
+<h2 id="minister-of-sciences"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences">Minister of Sciences</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
+<h2 id="minister-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
     <li>Performing any action is the trigger for the remainder of the ability of <i>Minister of War</i>.<sup>1,2,5</sup>
         <ul>
@@ -600,7 +600,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed">Miscount Disclosed</a></h2>
+<h2 id="miscount-disclosed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed">Miscount Disclosed</a></h2>
     <ol class="note">
     <li>If <i>Miscount Disclosed</i> is revealed when only one law is in play, players may only vote for that law or abstain. If no votes are cast, the speaker must decide for that law to be elected.<sup>*</sup>
         <ul>
@@ -672,7 +672,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
+<h2 id="mutiny"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
     <ol class="note">
     <li>Whichever outcome of <i>Mutiny</i> is resolved, players gain or lose victory points in speaker order.<sup>*</sup>
         <ul>
@@ -680,7 +680,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution">New Constitution</a></h2>
+<h2 id="new-constitution"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution">New Constitution</a></h2>
     <ol class="note">
     <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the &ldquo;For&rdquo; outcome of <i>New Constitution</i>.<sup>2,3,4</sup>
         <ul>
@@ -690,7 +690,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Nexus%20Sovereignty">Nexus Sovereignty</a></h2>
+<h2 id="nexus-sovereignty"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Nexus%20Sovereignty">Nexus Sovereignty</a></h2>
     <ol class="note">
     <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>*</sup>
         <ul>
@@ -710,7 +710,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure">Political Censure</a></h2>
+<h2 id="political-censure"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure">Political Censure</a></h2>
     <ol class="note">
     <li>When a player is elected for <i>Political Censure</i>, they may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action card before it resolves.<sup>2</sup>
         <ul>
@@ -731,7 +731,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Prophecy%20of%20Ixth">Prophecy of Ixth</a></h2>
+<h2 id="prophecy-of-ixth"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Prophecy%20of%20Ixth">Prophecy of Ixth</a></h2>
     <ol class="note">
     <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup>
         <ul>
@@ -739,7 +739,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution">Public Execution</a></h2>
+<h2 id="public-execution"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution">Public Execution</a></h2>
     <ol class="note">
     <li>The <a href="/F_yssaril">Yssaril</a> player&rsquo;s Crafty faction ability does not prevent them from discarding their action cards if they are elected by Public Execution, as the discard is not caused by the hand limit.<sup>2</sup>
         <ul>
@@ -752,7 +752,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>
+<h2 id="publicize-weapon-schematics"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>
     <ol class="note">
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.<sup>*</sup>
         <ul>
@@ -782,7 +782,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Rearmament%20Agreement">Rearmament Agreement</a></h2>
+<h2 id="rearmament-agreement"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Rearmament%20Agreement">Rearmament Agreement</a></h2>
     <ol class="note">
     <li>A player that controls no planets in their home system will not place a mech if the &ldquo;For&rdquo; outcome of Rearmament Agreement is resolved.<sup>*</sup>
         <ul>
@@ -799,15 +799,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription">Regulated Conscription</a></h2>
+<h2 id="regulated-conscription"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription">Regulated Conscription</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
+<h2 id="representative-government"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government">Representative Government</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>
+<h2 id="research-grant-reallocation"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation">Research Grant Reallocation</a></h2>
     <ol class="note">
     <li>A player may gain any technology, regardless of the number of command tokens in their fleet pool.<sup>*</sup>
         <ul>
@@ -827,7 +827,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a> (removed in Prophecy of Kings)</h2>
+<h2 id="research-team-biotic" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Biotic">Research Team: Biotic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -844,7 +844,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a> (removed in Prophecy of Kings)</h2>
+<h2 id="research-team-cybernetic" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Cybernetic">Research Team: Cybernetic</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -861,7 +861,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a> (removed in Prophecy of Kings)</h2>
+<h2 id="research-team-propulsion" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Propulsion">Research Team: Propulsion</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -878,7 +878,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a> (removed in Prophecy of Kings)</h2>
+<h2 id="research-team-warfare" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Research%20Team%3A%20Warfare">Research Team: Warfare</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -895,7 +895,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant">Search Warrant</a></h2>
+<h2 id="search-warrant"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant">Search Warrant</a></h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
@@ -912,7 +912,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>
+<h2 id="seed-of-an-empire"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>
     <ol class="note">
     <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.<sup>2</sup>
         <ul>
@@ -921,7 +921,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a> (removed in Prophecy of Kings)</h2>
+<h2 id="senate-sanctuary" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Senate%20Sanctuary">Senate Sanctuary</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -929,7 +929,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> (removed in Prophecy of Kings)</h2>
+<h2 id="shard-of-the-throne" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -947,7 +947,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
+<h2 id="shared-research"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
     <ol class="note">
     <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup>
         <ul>
@@ -955,7 +955,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>
+<h2 id="swords-to-plowshares"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>
     <ol class="note">
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup>
         <ul>
@@ -971,7 +971,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a> (removed in Prophecy of Kings)</h2>
+<h2 id="terraforming-initiative" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Terraforming%20Initiative">Terraforming Initiative</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup>
         <ul>
@@ -979,11 +979,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Unconventional%20Measures">Unconventional Measures</a></h2>
+<h2 id="unconventional-measures"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Unconventional%20Measures">Unconventional Measures</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction">Wormhole Reconstruction</a></h2>
+<h2 id="wormhole-reconstruction"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction">Wormhole Reconstruction</a></h2>
     <ol class="note">
     <li>While <i>Wormhole Reconstruction</i> is in play, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> will have no effect.<sup>*</sup>
         <ul>
@@ -998,7 +998,7 @@
     <ol><li class="ixth">(Sorry, <a href="/F_creuss">Creuss</a>.)</li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research">Wormhole Research</a></h2>
+<h2 id="wormhole-research"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research">Wormhole Research</a></h2>
     <ol class="note">
     <li>A player with ships in a delta wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.<sup>2,5</sup>
         <ul>

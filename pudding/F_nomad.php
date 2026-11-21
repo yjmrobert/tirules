@@ -3,11 +3,11 @@
 <article>
 <p>The source text behind each note on <a href="/F_nomad">The Nomad</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=The%20Company">The Company</a></h2>
+<h2 id="the-company"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=The%20Company">The Company</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight">Future Sight</a></h2>
+<h2 id="future-sight"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight">Future Sight</a></h2>
     <ol class="note">
     <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.<sup>2</sup>
         <ul>
@@ -27,7 +27,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Promissory_Note:~:text=The%20Cavalry">The Cavalry</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="the-cavalry"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Promissory_Note:~:text=The%20Cavalry">The Cavalry</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>One ship is chosen. That ship retains the flagship&rsquo;s values and abilities until it is destroyed or the combat ends.<sup>*</sup>
         <ul>
@@ -57,7 +57,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite">Temporal Command Suite</a> <sub>(Technology)</sub></h2>
+<h2 id="temporal-command-suite"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite">Temporal Command Suite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Nomad player may perform a transaction with another player without being neighbors with that player.<sup>*</sup>
         <ul>
@@ -77,7 +77,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria">Memoria</a> <sub>(Flagship)</sub></h2>
+<h2 id="memoria"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria">Memoria</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Only the <i>Memoria</i> is adjacent to systems with a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> using this ability.<sup>*</sup>
         <ul>
@@ -101,7 +101,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Artuno%20the%20Betrayer">Artuno the Betrayer</a> <sub>(Agent)</sub></h2>
+<h2 id="artuno-the-betrayer"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Artuno%20the%20Betrayer">Artuno the Betrayer</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.<sup>*</sup>
         <ul>
@@ -125,7 +125,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Field%20Marshal%20Mercer">Field Marshal Mercer</a> <sub>(Agent)</sub></h2>
+<h2 id="field-marshal-mercer"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Field%20Marshal%20Mercer">Field Marshal Mercer</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The ground forces may be from a system with that player&rsquo;s command token in it.<sup>*</sup>
         <ul>
@@ -149,7 +149,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> <sub>(Agent)</sub></h2>
+<h2 id="the-thundarian"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Thundarian may be used during a combat that the Nomad player is not participating in.<sup>2</sup>
         <ul>
@@ -203,7 +203,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a> <sub>(Commander)</sub></h2>
+<h2 id="navarch-feng"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The flagship still has a cost of 8.<sup>*</sup>
         <ul>
@@ -235,7 +235,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
+<h2 id="ahksyl-siven"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>1</sup>
         <ul>
@@ -248,7 +248,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
+<h2 id="quantum-manipulator"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A Quantum Manipulator may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be canceled.<sup>*</sup>
         <ul>
@@ -278,7 +278,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Breakthrough:~:text=Thunder%27s%20Paradox">Thunder&rsquo;s Paradox</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="thunders-paradox"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Breakthrough:~:text=Thunder%27s%20Paradox">Thunder&rsquo;s Paradox</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The readied agent can belong to any player.<sup>*</sup>
         <ul>

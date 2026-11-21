@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_deepwrought">The Deepwrought Scholarate</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Research%20Team">Research Team</a></h2>
+<h2 id="research-team"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Research%20Team">Research Team</a></h2>
     <ol class="note">
     <li><sc>Research Team</sc> may be used both when the Deepwrought player commits ground forces to a planet another player controls and when another player commits ground forces to a planet the Deepwrought player controls.<sup>9</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
+<h2 id="oceanbound"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
     <ol class="note">
     <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup>
         <ul>
@@ -39,7 +39,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="share-knowledge"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player gains the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
@@ -51,11 +51,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Hydrothermal%20Mining">Hydrothermal Mining</a> <sub>(Technology)</sub></h2>
+<h2 id="hydrothermal-mining"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Hydrothermal%20Mining">Hydrothermal Mining</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement">Radical Advancement</a> <sub>(Technology)</sub></h2>
+<h2 id="radical-advancement"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement">Radical Advancement</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the Deepwrought player replaces the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
@@ -71,7 +71,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Flagship:~:text=D.W.S.%20Luminous">D.W.S. Luminous</a> <sub>(Flagship)</sub></h2>
+<h2 id="d-w-s-luminous"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Flagship:~:text=D.W.S.%20Luminous">D.W.S. Luminous</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>D.W.S. Luminous</i> gains +1 for each system it moves through that contains the Deepwrought player&rsquo;s units, regardless of any other units present.<sup>6</sup>
         <ul>
@@ -83,7 +83,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Doctor%20Carrina">Doctor Carrina</a> <sub>(Agent)</sub></h2>
+<h2 id="doctor-carrina"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Doctor%20Carrina">Doctor Carrina</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Doctor Carrina may be used even if no prerequisite is skipped, but the coexisting infantry is not placed. This includes when the player chooses not to ignore any prerequisites, or researches a technology with no prerequisites. The player may ignore prerequisites they already fulfill on a technology that has at least one prerequisite.<sup>6</sup>
         <ul>
@@ -95,7 +95,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>
+<h2 id="aello"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.<sup>2,7</sup>
         <ul>
@@ -138,7 +138,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Ta%20Zern">Ta Zern</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Wave%20Function%20Collapse">Wave Function Collapse</a> <sub>(Hero)</sub></h2>
+<h2 id="ta-zern"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Ta%20Zern">Ta Zern</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Wave%20Function%20Collapse">Wave Function Collapse</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>If they also owned the purged technology, the Deepwrought player too will research another technology.<sup>2</sup>
         <ul>
@@ -154,11 +154,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Mech:~:text=Eanautic">Eanautic</a> <sub>(Mech)</sub></h2>
+<h2 id="eanautic"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Mech:~:text=Eanautic">Eanautic</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Breakthrough:~:text=Visionaria%20Select">Visionaria Select</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="visionaria-select"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Breakthrough:~:text=Visionaria%20Select">Visionaria Select</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>When <i>Visionaria Select</i> is exhausted, all other players have the opportunity to participate; the Deepwrought player does not choose which players will participate.<sup>*</sup>
         <ul>

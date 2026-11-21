@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
 <header><h1>The Clan of Saar</h1></header>
 <article>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge">Scavenge</a></h2>
+<h2 id="scavenge"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge">Scavenge</a></h2>
     <ol class="note">
     <li>If the Saar player gains control of multiple planets during one invasion, the trade goods are gained one at a time.<sup>1</sup></li>
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>1</sup></li>
@@ -12,18 +12,18 @@
     <li>The Saar player does not gain trade goods from <sc>Scavenge</sc> for the planets in their home system at the start of the game, as they begin the game in control of those planets rather than gaining control of them.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic">Nomadic</a></h2>
+<h2 id="nomadic"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic">Nomadic</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Promissory_Note:~:text=Ragh%27s%20Call">Ragh&rsquo;s Call</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="raghs-call"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Promissory_Note:~:text=Ragh%27s%20Call">Ragh&rsquo;s Call</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occurring on that planet.<sup>*</sup></li>
     <li>Any PDS on the planet remain. They might produce hits during the <b>Space Cannon Defense</b> step.<sup>*</sup></li>
     <li>All of the Saar player&rsquo;s ground forces must be placed on the same planet.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Technologies:~:text=Chaos%20Mapping">Chaos Mapping</a> <sub>(Technology)</sub></h2>
+<h2 id="chaos-mapping"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Technologies:~:text=Chaos%20Mapping">Chaos Mapping</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A unit may be produced on each of the Saar player&rsquo;s turns.<sup>1,2</sup></li>
     <ol><li>A unit may be produced on the turn the Saar player passes.<sup>1,2</sup></li></ol>
@@ -35,7 +35,7 @@
     <li>The <a href="/F_creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
+<h2 id="floating-factory"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>A Floating Factory does not count toward the Saar player&rsquo;s fleet pool.<sup>2</sup></li>
     <li>There is no limit to the number of Floating Factories that may be in the same system.<sup>2</sup></li>
@@ -64,11 +64,11 @@
     <li>A Floating Factory cannot count toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>
+<h2 id="son-of-ragh"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> <sub>(Agent)</sub></h2>
+<h2 id="captain-mendosa"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup></li>
     <ol>
@@ -78,24 +78,24 @@
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Rowl%20Sarrig">Rowl Sarrig</a> <sub>(Commander)</sub></h2>
+<h2 id="rowl-sarrig"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Rowl%20Sarrig">Rowl Sarrig</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If another player has the Saar player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.<sup>*</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
+<h2 id="gurno-aggero"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in.<sup>1,2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
+<h2 id="scavenger-zeta"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Saar player may perform the <a href="/R_deploy"><sc>Deploy</sc></a> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <a href="/R_deploy"><sc>Deploy</sc></a> ability with the gained trade good.<sup>*</sup></li>
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <a href="/R_deploy"><sc>Deploy</sc></a> ability will be able to trigger.<sup>*</sup></li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Breakthrough:~:text=Deorbit%20Barrage">Deorbit Barrage</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="deorbit-barrage"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Breakthrough:~:text=Deorbit%20Barrage">Deorbit Barrage</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Saar player must choose how many resources to spend before rolling any dice.<sup>*</sup></li>
     <li>The Saar player chooses which unit the hits get assigned to.<sup>6</sup></li>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_yssaril">The Yssaril Tribes</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
+<h2 id="stall-tactics"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
     <ol class="note">
     <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
         <ul>
@@ -11,7 +11,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
+<h2 id="scheming"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
     <ol class="note">
     <li><sc>Scheming</sc> applies whenever the Yssaril player draws action cards.<sup>1,2</sup>
         <ul>
@@ -36,7 +36,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Crafty">Crafty</a></h2>
+<h2 id="crafty"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Crafty">Crafty</a></h2>
     <ol class="note">
     <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions"><i>Executive Sanctions</i></a> law does not affect the Yssaril player.<sup>2</sup>
         <ul>
@@ -49,7 +49,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Promissory_Note:~:text=Spy%20Net">Spy Net</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="spy-net"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Promissory_Note:~:text=Spy%20Net">Spy Net</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The player that plays <i>Spy Net</i> must look at the Yssaril player&rsquo;s hand of action cards. They do not have to read or memorize what they look at.<sup>*</sup>
         <ul>
@@ -65,7 +65,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>
+<h2 id="mageon-implants"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>When resolving <i>Mageon Implants</i>, the Yssaril player is not drawing a card. As such, <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> will not trigger.<sup>2</sup>
         <ul>
@@ -81,7 +81,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> <sub>(Technology)</sub></h2>
+<h2 id="transparasteel-plating"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating">Transparasteel Plating</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Other players may resolve faction abilities, leader abilities or technology abilities during the Yssaril player&rsquo;s turns.<sup>*</sup>
         <ul>
@@ -89,7 +89,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
+<h2 id="ysia-yssrila"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the Yssaril player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup>
         <ul>
@@ -101,7 +101,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Ssruu">Ssruu</a> <sub>(Agent)</sub></h2>
+<h2 id="ssruu"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Ssruu">Ssruu</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the Yssaril player duplicates an agent that allows a unit to roll an additional die, and both the duplicated agent and Ssruu target the same unit, that unit will roll two additional dice.<sup>*</sup>
         <ul>
@@ -129,11 +129,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=So%20Ata">So Ata</a> <sub>(Commander)</sub></h2>
+<h2 id="so-ata"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=So%20Ata">So Ata</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Kyver%2C%20Blade%20and%20Key">Kyver, Blade and Key</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Guild%20of%20Spies">Guild of Spies</a> <sub>(Hero)</sub></h2>
+<h2 id="kyver-blade-and-key"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Kyver%2C%20Blade%20and%20Key">Kyver, Blade and Key</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Leaders:~:text=Guild%20of%20Spies">Guild of Spies</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Each other player chooses which action card they show the Yssaril player.<sup>*</sup>
         <ul>
@@ -145,11 +145,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Mech:~:text=Blackshade%20Infiltrator">Blackshade Infiltrator</a> <sub>(Mech)</sub></h2>
+<h2 id="blackshade-infiltrator"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Mech:~:text=Blackshade%20Infiltrator">Blackshade Infiltrator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Breakthrough:~:text=Deepgloom%20Executable">Deepgloom Executable</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="deepgloom-executable"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Breakthrough:~:text=Deepgloom%20Executable">Deepgloom Executable</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Yssaril player may perform a transaction with another player without being neighbors with that player.<sup>*</sup>
         <ul>

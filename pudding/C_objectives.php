@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_objectives">Objectives</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Achieve%20Supremacy">Achieve Supremacy</a></h2>
+<h2 id="achieve-supremacy"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Achieve%20Supremacy">Achieve Supremacy</a></h2>
     <ol class="note">
     <li>The flagship or war sun may be in the home system of an eliminated player.<sup>6</sup>
         <ul>
@@ -11,7 +11,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies">Adapt New Strategies</a></h2>
+<h2 id="adapt-new-strategies"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies">Adapt New Strategies</a></h2>
     <ol class="note">
     <li>A <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technology will count if it is currently copying another player&rsquo;s faction technology.<sup>2,5</sup>
         <ul>
@@ -20,7 +20,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth">Amass Wealth</a></h2>
+<h2 id="amass-wealth"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth">Amass Wealth</a></h2>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -35,7 +35,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Become%20a%20Legend">Become a Legend</a></h2>
+<h2 id="become-a-legend"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Become%20a%20Legend">Become a Legend</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -71,7 +71,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
+<h2 id="become-a-martyr"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>2</sup>
         <ul>
@@ -100,7 +100,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper">Become the Gatekeeper</a></h2>
+<h2 id="become-the-gatekeeper"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper">Become the Gatekeeper</a></h2>
     <ol class="note">
     <li>A player with a ship in the wormhole nexus, or in any other system with both an alpha and beta wormhole, qualifies for <i>Become the Gatekeeper</i>.<sup>*</sup>
         <ul>
@@ -116,7 +116,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend">Betray a Friend</a></h2>
+<h2 id="betray-a-friend"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend">Betray a Friend</a></h2>
     <ol class="note">
     <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Betray a Friend</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup>
         <ul>
@@ -132,7 +132,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void">Brave the Void</a></h2>
+<h2 id="brave-the-void"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void">Brave the Void</a></h2>
     <ol class="note">
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
@@ -141,11 +141,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Build%20Defenses">Build Defenses</a></h2>
+<h2 id="build-defenses"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Build%20Defenses">Build Defenses</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Centralize%20Galactic%20Trade">Centralize Galactic Trade</a></h2>
+<h2 id="centralize-galactic-trade"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Centralize%20Galactic%20Trade">Centralize Galactic Trade</a></h2>
     <ol class="note">
     <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -155,11 +155,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Command%20an%20Armada">Command an Armada</a></h2>
+<h2 id="command-an-armada"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Command%20an%20Armada">Command an Armada</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak">Conquer the Weak</a></h2>
+<h2 id="conquer-the-weak"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak">Conquer the Weak</a></h2>
     <ol class="note">
     <li>The planet may be in the home system of an eliminated player.<sup>6</sup>
         <ul>
@@ -167,11 +167,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Construct%20Massive%20Cities">Construct Massive Cities</a></h2>
+<h2 id="construct-massive-cities"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Construct%20Massive%20Cities">Construct Massive Cities</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Control%20the%20Borderlands">Control the Borderlands</a></h2>
+<h2 id="control-the-borderlands"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Control%20the%20Borderlands">Control the Borderlands</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -216,7 +216,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Control%20the%20Region">Control the Region</a></h2>
+<h2 id="control-the-region"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Control%20the%20Region">Control the Region</a></h2>
     <ol class="note">
     <li>Any ground forces or structures are irrelevant.<sup>*</sup>
         <ul>
@@ -228,15 +228,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Corner%20the%20Market">Corner the Market</a></h2>
+<h2 id="corner-the-market"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Corner%20the%20Market">Corner the Market</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Cut%20Supply%20Lines">Cut Supply Lines</a></h2>
+<h2 id="cut-supply-lines"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Cut%20Supply%20Lines">Cut Supply Lines</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies">Darken the Skies</a></h2>
+<h2 id="darken-the-skies"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies">Darken the Skies</a></h2>
     <ol class="note">
     <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>6</sup>
         <ul>
@@ -244,7 +244,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
+<h2 id="defy-space-and-time"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -261,7 +261,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power">Demonstrate Your Power</a></h2>
+<h2 id="demonstrate-your-power"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power">Demonstrate Your Power</a></h2>
     <ol class="note">
     <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card.<sup>*</sup>
         <ul>
@@ -285,7 +285,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Destroy%20Heretical%20Works">Destroy Heretical Works</a></h2>
+<h2 id="destroy-heretical-works"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Destroy%20Heretical%20Works">Destroy Heretical Works</a></h2>
     <ol class="note">
     <li>A player will not gain a relic when scoring <i>Destroy Heretical Works</i>.<sup>*</sup>
         <ul>
@@ -297,7 +297,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
+<h2 id="destroy-their-greatest-ship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
     <ol class="note">
     <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup>
         <ul>
@@ -319,7 +319,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
+<h2 id="develop-weaponry"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
     <ol class="note">
     <li>If the <a href="/F_nekro">Nekro</a> player owns multiple unit upgrade technologies of the same type, only one of them counts for <i>Develop Weaponry</i>.<sup>1,2,5</sup>
         <ul>
@@ -329,7 +329,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy">Dictate Policy</a></h2>
+<h2 id="dictate-policy"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy">Dictate Policy</a></h2>
     <ol class="note">
     <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup>
         <ul>
@@ -349,7 +349,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Discover%20Lost%20Outposts">Discover Lost Outposts</a></h2>
+<h2 id="discover-lost-outposts"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Discover%20Lost%20Outposts">Discover Lost Outposts</a></h2>
     <ol class="note">
     <li>The number of attachments a planet has is irrelevant, if it has at least one.<sup>*</sup>
         <ul>
@@ -357,11 +357,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Diversify%20Research">Diversify Research</a></h2>
+<h2 id="diversify-research"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Diversify%20Research">Diversify Research</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate">Drive the Debate</a></h2>
+<h2 id="drive-the-debate"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate">Drive the Debate</a></h2>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.<sup>*</sup>
         <ul>
@@ -382,11 +382,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Engineer%20a%20Marvel">Engineer a Marvel</a></h2>
+<h2 id="engineer-a-marvel"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Engineer%20a%20Marvel">Engineer a Marvel</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Erect%20a%20Monument">Erect a Monument</a></h2>
+<h2 id="erect-a-monument"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Erect%20a%20Monument">Erect a Monument</a></h2>
     <ol class="note">
     <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -401,11 +401,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Establish%20a%20Perimeter">Establish a Perimeter</a></h2>
+<h2 id="establish-a-perimeter"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Establish%20a%20Perimeter">Establish a Perimeter</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony">Establish Hegemony</a></h2>
+<h2 id="establish-hegemony"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony">Establish Hegemony</a></h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.<sup>*</sup>
         <ul>
@@ -417,7 +417,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders">Expand Borders</a></h2>
+<h2 id="expand-borders"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders">Expand Borders</a></h2>
     <ol class="note">
     <li>The planets cannot be in any player&rsquo;s home system.<sup>2</sup>
         <ul>
@@ -425,7 +425,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Explore%20Deep%20Space">Explore Deep Space</a></h2>
+<h2 id="explore-deep-space"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Explore%20Deep%20Space">Explore Deep Space</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -439,7 +439,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision</a> (replaced by &Omega;)</h2>
+<h2 id="fight-with-precision" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -456,7 +456,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision &Omega;</a></h2>
+<h2 id="fight-with-precision-omega"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision &Omega;</a></h2>
     <ol class="note">
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup>
         <ul>
@@ -477,11 +477,11 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Forge%20an%20Alliance">Forge an Alliance</a></h2>
+<h2 id="forge-an-alliance"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Forge%20an%20Alliance">Forge an Alliance</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network">Form a Spy Network</a></h2>
+<h2 id="form-a-spy-network"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network">Form a Spy Network</a></h2>
     <ol class="note">
     <li>The action cards must be discarded during the status phase. Any action cards that were discarded during the action phase will have no effect.<sup>1,2</sup>
         <ul>
@@ -490,7 +490,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Form%20Galactic%20Brain%20Trust">Form Galactic Brain Trust</a></h2>
+<h2 id="form-galactic-brain-trust"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Form%20Galactic%20Brain%20Trust">Form Galactic Brain Trust</a></h2>
     <ol class="note">
     <li>The number of technology specialties a planet has is irrelevant, if it has at least one.<sup>*</sup>
         <ul>
@@ -498,7 +498,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Foster%20Cohesion">Foster Cohesion</a></h2>
+<h2 id="foster-cohesion"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Foster%20Cohesion">Foster Cohesion</a></h2>
     <ol class="note">
     <li>The <a href="/F_hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability does not make a player neighbors with all other players.<sup>2</sup>
         <ul>
@@ -510,7 +510,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Found%20a%20Golden%20Age">Found a Golden Age</a></h2>
+<h2 id="found-a-golden-age"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Found%20a%20Golden%20Age">Found a Golden Age</a></h2>
     <ol class="note">
     <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -525,7 +525,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Found%20Research%20Outposts">Found Research Outposts</a></h2>
+<h2 id="found-research-outposts"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Found%20Research%20Outposts">Found Research Outposts</a></h2>
     <ol class="note">
     <li>The number of technology specialties a planet has is irrelevant, if it has at least one.<sup>*</sup>
         <ul>
@@ -533,11 +533,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Fuel%20the%20War%20Machine">Fuel the War Machine</a></h2>
+<h2 id="fuel-the-war-machine"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Fuel%20the%20War%20Machine">Fuel the War Machine</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People">Galvanize the People</a></h2>
+<h2 id="galvanize-the-people"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People">Galvanize the People</a></h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -551,11 +551,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Gather%20a%20Mighty%20Fleet">Gather a Mighty Fleet</a></h2>
+<h2 id="gather-a-mighty-fleet"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Gather%20a%20Mighty%20Fleet">Gather a Mighty Fleet</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials">Hoard Raw Materials</a></h2>
+<h2 id="hoard-raw-materials"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials">Hoard Raw Materials</a></h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.<sup>*</sup>
         <ul>
@@ -567,7 +567,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Hold%20Vast%20Reserves">Hold Vast Reserves</a></h2>
+<h2 id="hold-vast-reserves"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Hold%20Vast%20Reserves">Hold Vast Reserves</a></h2>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -582,7 +582,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure">Improve Infrastructure</a></h2>
+<h2 id="improve-infrastructure"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure">Improve Infrastructure</a></h2>
     <ol class="note">
     <li>The number of structures on the planet is irrelevant, if there is at least one.<sup>*</sup>
         <ul>
@@ -598,7 +598,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council">Intimidate Council</a></h2>
+<h2 id="intimidate-council"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council">Intimidate Council</a></h2>
     <ol class="note">
     <li>Any ships in the <a href="/R_mecatol_rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup>
         <ul>
@@ -610,7 +610,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front">Lead From the Front</a></h2>
+<h2 id="lead-from-the-front"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front">Lead From the Front</a></h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -624,7 +624,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos">Learn the Secrets of the Cosmos</a></h2>
+<h2 id="learn-the-secrets-of-the-cosmos"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos">Learn the Secrets of the Cosmos</a></h2>
     <ol class="note">
     <li>The three systems may be mutually adjacent to one system, or separate systems.<sup>*</sup>
         <ul>
@@ -645,7 +645,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a> (replaced by &Omega;)</h2>
+<h2 id="make-an-example-of-their-world" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -671,7 +671,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
+<h2 id="make-an-example-of-their-world-omega"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
     <ol class="note">
     <li class="removed">If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup>
         <ul>
@@ -692,7 +692,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
+<h2 id="make-history"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History">Make History</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -728,7 +728,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>
+<h2 id="manipulate-galactic-law"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>
     <ol class="note">
     <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -743,27 +743,27 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Master%20the%20Laws%20of%20Physics">Master the Laws of Physics</a></h2>
+<h2 id="master-the-laws-of-physics"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Master%20the%20Laws%20of%20Physics">Master the Laws of Physics</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Master%20the%20Sciences">Master the Sciences</a></h2>
+<h2 id="master-the-sciences"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Master%20the%20Sciences">Master the Sciences</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military">Mechanize the Military</a></h2>
+<h2 id="mechanize-the-military"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military">Mechanize the Military</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#:~:text=Mine%20Rare%20Minerals">Mine Rare Minerals</a></h2>
+<h2 id="mine-rare-minerals"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#:~:text=Mine%20Rare%20Minerals">Mine Rare Minerals</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Monopolize%20Production">Monopolize Production</a></h2>
+<h2 id="monopolize-production"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Monopolize%20Production">Monopolize Production</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes">Negotiate Trade Routes</a></h2>
+<h2 id="negotiate-trade-routes"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes">Negotiate Trade Routes</a></h2>
     <ol class="note">
     <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -773,7 +773,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe">Occupy the Fringe</a></h2>
+<h2 id="occupy-the-fringe"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe">Occupy the Fringe</a></h2>
     <ol class="note">
     <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories are never on a planet.<sup>2</sup>
         <ul>
@@ -781,11 +781,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Occupy%20the%20Seat%20of%20the%20Empire">Occupy the Seat of the Empire</a></h2>
+<h2 id="occupy-the-seat-of-the-empire"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Occupy%20the%20Seat%20of%20the%20Empire">Occupy the Seat of the Empire</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Patrol%20Vast%20Territories">Patrol Vast Territories</a></h2>
+<h2 id="patrol-vast-territories"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Patrol%20Vast%20Territories">Patrol Vast Territories</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -799,7 +799,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Populate%20the%20Outer%20Rim">Populate the Outer Rim</a></h2>
+<h2 id="populate-the-outer-rim"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Populate%20the%20Outer%20Rim">Populate the Outer Rim</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -844,7 +844,7 @@
     </ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse">Produce en Masse</a></h2>
+<h2 id="produce-en-masse"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse">Produce en Masse</a></h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.<sup>2,4</sup>
         <ul>
@@ -853,7 +853,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border">Protect the Border</a></h2>
+<h2 id="protect-the-border"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border">Protect the Border</a></h2>
     <ol class="note">
     <li>The number of structures on the planet is irrelevant, if there is at least one.<sup>*</sup>
         <ul>
@@ -869,7 +869,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance">Prove Endurance</a></h2>
+<h2 id="prove-endurance"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance">Prove Endurance</a></h2>
     <ol class="note">
     <li><i>Prove Endurance</i> is scored when the player passes during the action phase.<sup>6</sup>
         <ul>
@@ -881,7 +881,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries">Push Boundaries</a></h2>
+<h2 id="push-boundaries"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries">Push Boundaries</a></h2>
     <ol class="note">
     <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the <a href="/F_creuss">Creuss</a> player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.<sup>2</sup>
         <ul>
@@ -889,11 +889,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Raise%20a%20Fleet">Raise a Fleet</a></h2>
+<h2 id="raise-a-fleet"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Raise%20a%20Fleet">Raise a Fleet</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments">Reclaim Ancient Monuments</a></h2>
+<h2 id="reclaim-ancient-monuments"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments">Reclaim Ancient Monuments</a></h2>
     <ol class="note">
     <li>The number of attachments a planet has is irrelevant, if it has at least one.<sup>*</sup>
         <ul>
@@ -901,7 +901,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Revolutionize%20Warfare">Revolutionize Warfare</a></h2>
+<h2 id="revolutionize-warfare"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Revolutionize%20Warfare">Revolutionize Warfare</a></h2>
     <ol class="note">
     <li>If the <a href="/F_nekro">Nekro</a> player owns multiple unit upgrade technologies of the same type, only one of them counts for <i>Revolutionize Warfare</i>.<sup>1,2,5</sup>
         <ul>
@@ -911,7 +911,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Rule%20Distant%20Lands">Rule Distant Lands</a></h2>
+<h2 id="rule-distant-lands"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Rule%20Distant%20Lands">Rule Distant Lands</a></h2>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.<sup>2,4</sup>
         <ul>
@@ -928,11 +928,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Seize%20an%20Icon">Seize an Icon</a></h2>
+<h2 id="seize-an-icon"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Seize%20an%20Icon">Seize an Icon</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Spark%20a%20Rebellion">Spark a Rebellion</a></h2>
+<h2 id="spark-a-rebellion"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Spark%20a%20Rebellion">Spark a Rebellion</a></h2>
     <ol class="note">
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.<sup>2</sup>
         <ul>
@@ -952,7 +952,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
+<h2 id="stake-your-claim"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>
     <ol class="note">
     <li>A player coexisting on a planet may score <i>Stake Your Claim</i> using that planet, even if it is the only planet in its system, as the planet is also controlled by another player.<sup>2,6</sup>
         <ul>
@@ -970,7 +970,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Strengthen%20Bonds">Strengthen Bonds</a></h2>
+<h2 id="strengthen-bonds"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Strengthen%20Bonds">Strengthen Bonds</a></h2>
     <ol class="note">
     <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Strengthen Bonds</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup>
         <ul>
@@ -982,7 +982,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Subdue%20the%20Galaxy">Subdue the Galaxy</a></h2>
+<h2 id="subdue-the-galaxy"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Subdue%20the%20Galaxy">Subdue the Galaxy</a></h2>
     <ol class="note">
     <li>The planets cannot be in any player&rsquo;s home system.<sup>2</sup>
         <ul>
@@ -990,7 +990,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Sway%20the%20Council">Sway the Council</a></h2>
+<h2 id="sway-the-council"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Sway%20the%20Council">Sway the Council</a></h2>
     <ol class="note">
     <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.<sup>1,2,3</sup>
         <ul>
@@ -1005,7 +1005,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies">Threaten Enemies</a></h2>
+<h2 id="threaten-enemies"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies">Threaten Enemies</a></h2>
     <ol class="note">
     <li>Any ships in another player&rsquo;s home system are irrelevant.<sup>*</sup>
         <ul>
@@ -1021,7 +1021,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust</a> (replaced by &Omega;)</h2>
+<h2 id="turn-their-fleets-to-dust" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust</a> (replaced by &Omega;)</h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -1049,7 +1049,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust &Omega;</a></h2>
+<h2 id="turn-their-fleets-to-dust-omega"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust">Turn Their Fleets to Dust &Omega;</a></h2>
     <ol class="note">
     <li>Any player may score <i>Turn Their Fleets to Dust &Omega;</i>, not just the active player.<sup>*</sup>
         <ul>
@@ -1081,11 +1081,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Unify%20the%20Colonies">Unify the Colonies</a></h2>
+<h2 id="unify-the-colonies"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Unify%20the%20Colonies">Unify the Colonies</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship">Unveil Flagship</a></h2>
+<h2 id="unveil-flagship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship">Unveil Flagship</a></h2>
     <ol class="note">
     <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i><sup>2,4</sup>
         <ul>

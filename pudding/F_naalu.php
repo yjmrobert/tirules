@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_naalu">The Naalu Collective</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Telepathic">Telepathic</a></h2>
+<h2 id="telepathic"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Telepathic">Telepathic</a></h2>
     <ol class="note">
     <li>The Naalu player retains the Naalu 0 token, even if an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law causes them to lose the strategy card it was on. The Naalu player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
         <ul>
@@ -15,7 +15,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight">Foresight</a></h2>
+<h2 id="foresight"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight">Foresight</a></h2>
     <ol class="note">
     <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>2</sup>
         <ul>
@@ -72,7 +72,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Promissory_Note:~:text=Gift%20of%20Prescience">Gift of Prescience</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="gift-of-prescience"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Promissory_Note:~:text=Gift%20of%20Prescience">Gift of Prescience</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The player with <i>Gift of Prescience</i> retains the Naalu 0 token, even if an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
         <ul>
@@ -80,7 +80,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Technologies:~:text=Neuroglaive">Neuroglaive</a> <sub>(Technology)</sub></h2>
+<h2 id="neuroglaive"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Technologies:~:text=Neuroglaive">Neuroglaive</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the <a href="/F_mahact">Mahact</a> player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.<sup>*</sup>
         <ul>
@@ -88,11 +88,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>
+<h2 id="hybrid-crystal-fighter"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch">Matriarch</a> <sub>(Flagship)</sub></h2>
+<h2 id="matriarch"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch">Matriarch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The text of the <i>Matriarch</i> is changed to: &ldquo;During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.&rdquo;<sup>1,2,5</sup>
         <ul>
@@ -127,7 +127,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
+<h2 id="zeu" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu</a> (replaced by &Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -135,7 +135,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
+<h2 id="zeu-omega" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
         <ul>
@@ -214,7 +214,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
+<h2 id="zeu-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup>
         <ul>
@@ -222,7 +222,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> (replaced by &Omega;) <sub>(Commander)</sub></h2>
+<h2 id="maban" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> (replaced by &Omega;) <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -251,7 +251,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban &Omega;</a> <sub>(Commander)</sub></h2>
+<h2 id="maban-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban &Omega;</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Naalu player cannot look at the agenda deck while a player is resolving the primary ability of the Politics strategy card.<sup>2,4</sup>
         <ul>
@@ -265,7 +265,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=The%20Oracle">The Oracle</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=C-Radium%20Geometry">C&ndash;Radium Geometry</a> <sub>(Hero)</sub></h2>
+<h2 id="the-oracle"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=The%20Oracle">The Oracle</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=C-Radium%20Geometry">C&ndash;Radium Geometry</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Each other player chooses which promissory note they give the Naalu player.<sup>2</sup>
         <ul>
@@ -273,7 +273,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> (replaced by &Omega;) <sub>(Mech)</sub></h2>
+<h2 id="iconoclast" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast</a> (replaced by &Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>12</sup>
         <ul>
@@ -285,7 +285,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Mech)</sub></h2>
+<h2 id="iconoclast-omega" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;</a> (replaced by &Omega;&Omega;) <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup>
         <ul>
@@ -301,7 +301,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;&Omega;</a> <sub>(Mech)</sub></h2>
+<h2 id="iconoclast-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;&Omega;</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Naalu player must mandatorily place a mech when another player gains a relic, if they have at least one in their reinforcements.<sup>*</sup>
         <ul>
@@ -309,7 +309,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Breakthrough:~:text=Mindsieve">Mindsieve</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="mindsieve"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Breakthrough:~:text=Mindsieve">Mindsieve</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.<sup>1,2</sup>
         <ul>

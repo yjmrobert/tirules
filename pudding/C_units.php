@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_units">Units</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/War_Sun">War Sun</a></h2>
+<h2 id="war-sun"><a href="https://twilight-imperium.fandom.com/wiki/War_Sun">War Sun</a></h2>
     <ol class="note">
     <li>A player without the war sun unit upgrade technology cannot produce a war sun.<sup>1,3,5,7,8</sup>
         <ul>
@@ -28,7 +28,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Flagships">Flagship</a></h2>
+<h2 id="flagship"><a href="https://twilight-imperium.fandom.com/wiki/Flagships">Flagship</a></h2>
     <ol class="note">
     <li>If a player&rsquo;s flagship is destroyed, it is returned to their reinforcements and may be produced again.<sup>2</sup>
         <ul>
@@ -36,23 +36,23 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Dreadnought">Dreadnought</a></h2>
+<h2 id="dreadnought"><a href="https://twilight-imperium.fandom.com/wiki/Dreadnought">Dreadnought</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Carrier">Carrier</a></h2>
+<h2 id="carrier"><a href="https://twilight-imperium.fandom.com/wiki/Carrier">Carrier</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Cruiser">Cruiser</a></h2>
+<h2 id="cruiser"><a href="https://twilight-imperium.fandom.com/wiki/Cruiser">Cruiser</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Destroyer">Destroyer</a></h2>
+<h2 id="destroyer"><a href="https://twilight-imperium.fandom.com/wiki/Destroyer">Destroyer</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter">Fighter</a></h2>
+<h2 id="fighter"><a href="https://twilight-imperium.fandom.com/wiki/Fighter">Fighter</a></h2>
     <ol class="note">
     <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup>
         <ul>
@@ -75,7 +75,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
+<h2 id="fighter-ii"><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
     <ol class="note">
     <li>Fighter II units are still fighters for all other game effects.<sup>2</sup>
         <ul>
@@ -83,15 +83,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="/R_mechs">Mech</a></h2>
+<h2 id="mech"><a href="/R_mechs">Mech</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry">Infantry</a></h2>
+<h2 id="infantry"><a href="https://twilight-imperium.fandom.com/wiki/Infantry">Infantry</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
+<h2 id="infantry-ii"><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
     <ol class="note">
     <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup>
         <ul>
@@ -101,15 +101,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="/R_pds">PDS</a></h2>
+<h2 id="pds"><a href="/R_pds">PDS</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit">PDS II</a></h2>
+<h2 id="pds-ii"><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit">PDS II</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="/R_space_dock">Space Dock</a></h2>
+<h2 id="space-dock"><a href="/R_space_dock">Space Dock</a></h2>
     <ol class="note">
     <li>A space dock does not have a capacity value. It allows up to three fighters in its system to not count against capacity, but it cannot hold ground forces in the space area.<sup>2</sup>
         <ul>

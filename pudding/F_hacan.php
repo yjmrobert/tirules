@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_hacan">The Emirates of Hacan</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
+<h2 id="masters-of-trade"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
     <ol class="note">
     <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup>
         <ul>
@@ -11,7 +11,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships">Guild Ships</a></h2>
+<h2 id="guild-ships"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships">Guild Ships</a></h2>
     <ol class="note">
     <li>This ability does not make the Hacan player neighbors with all other players.<sup>2</sup>
         <ul>
@@ -27,7 +27,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Arbiters">Arbiters</a></h2>
+<h2 id="arbiters"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Arbiters">Arbiters</a></h2>
     <ol class="note">
     <li>Any number of action cards may be traded.<sup>2</sup>
         <ul>
@@ -46,7 +46,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys">Trade Convoys</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="trade-convoys"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys">Trade Convoys</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Hacan player this turn.<sup>*</sup>
         <ul>
@@ -62,11 +62,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Technologies:~:text=Production%20Biomes">Production Biomes</a> <sub>(Technology)</sub></h2>
+<h2 id="production-biomes"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Technologies:~:text=Production%20Biomes">Production Biomes</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Technologies:~:text=Quantum%20Datahub%20Node">Quantum Datahub Node</a> <sub>(Technology)</sub></h2>
+<h2 id="quantum-datahub-node"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Technologies:~:text=Quantum%20Datahub%20Node">Quantum Datahub Node</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup>
         <ul>
@@ -87,7 +87,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
+<h2 id="wrath-of-kenara"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.<sup>1,2</sup>
         <ul>
@@ -100,7 +100,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>
+<h2 id="carth-of-golden-sands"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
         <ul>
@@ -112,7 +112,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Gila%20the%20Silvertongue">Gila the Silvertongue</a> <sub>(Commander)</sub></h2>
+<h2 id="gila-the-silvertongue"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Gila%20the%20Silvertongue">Gila the Silvertongue</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the Hacan player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup>
         <ul>
@@ -120,7 +120,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Harrugh%20Gefhara">Harrugh Gefhara</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Galactic%20Securities%20Net">Galactic Securities Net</a> <sub>(Hero)</sub></h2>
+<h2 id="harrugh-gefhara"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Harrugh%20Gefhara">Harrugh Gefhara</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Galactic%20Securities%20Net">Galactic Securities Net</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Production limits still apply.<sup>*</sup>
         <ul>
@@ -128,7 +128,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a> <sub>(Mech)</sub></h2>
+<h2 id="pride-of-kenara"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Mech:~:text=Pride%20of%20Kenara">Pride of Kenara</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>Structures are also moved.<sup>*</sup>
         <ul>
@@ -148,7 +148,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="autofactories"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The new fleet pool token may be used to support the ships just produced.<sup>6</sup>
         <ul>

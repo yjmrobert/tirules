@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_sol">The Federation of Sol</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Orbital%20Drop">Orbital Drop</a></h2>
+<h2 id="orbital-drop"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Orbital%20Drop">Orbital Drop</a></h2>
     <ol class="note">
     <li><sc>Orbital Drop</sc> may be used multiple times each round, once for each command token spent from the Sol player&rsquo;s strategy pool. Each use is a separate action.<sup>2</sup>
         <ul>
@@ -11,7 +11,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Versatile">Versatile</a></h2>
+<h2 id="versatile"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Versatile">Versatile</a></h2>
     <ol class="note">
     <li>If the Sol player owns the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism"><i>Hyper Metabolism</i></a> technology, they gain four command tokens during the status phase.<sup>2</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Promissory_Note:~:text=Military%20Support">Military Support</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="military-support"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Promissory_Note:~:text=Military%20Support">Military Support</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>Military Support</i> in a transaction during the Sol player&rsquo;s turn. If received at the start of the Sol player&rsquo;s turn, that player may play it immediately.<sup>1,5</sup>
         <ul>
@@ -47,15 +47,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Carrier:~:text=Advanced%20Carrier">Advanced Carrier</a> <sub>(Unit)</sub></h2>
+<h2 id="advanced-carrier"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Carrier:~:text=Advanced%20Carrier">Advanced Carrier</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Infantry:~:text=Spec%20Ops">Spec Ops</a> <sub>(Unit)</sub></h2>
+<h2 id="spec-ops"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Infantry:~:text=Spec%20Ops">Spec Ops</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Flagship:~:text=Genesis">Genesis</a> <sub>(Flagship)</sub></h2>
+<h2 id="genesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Flagship:~:text=Genesis">Genesis</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Placing the infantry during the status phase is mandatory.<sup>*</sup>
         <ul>
@@ -63,7 +63,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a> <sub>(Agent)</sub></h2>
+<h2 id="evelyn-delouis"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls.<sup>*</sup>
         <ul>
@@ -75,7 +75,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Claire%20Gibson">Claire Gibson</a> <sub>(Commander)</sub></h2>
+<h2 id="claire-gibson"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Claire%20Gibson">Claire Gibson</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If an invasion involves ground combat on multiple planets, an infantry will be placed on each.<sup>*</sup>
         <ul>
@@ -87,15 +87,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Jace%20X">Jace X</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Helio%20Command%20Array">Helio Command Array</a> <sub>(Hero)</sub></h2>
+<h2 id="jace-x"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Jace%20X">Jace X</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Helio%20Command%20Array">Helio Command Array</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Mech:~:text=ZS%20Thunderbolt%20M2">ZS Thunderbolt M2</a> <sub>(Mech)</sub></h2>
+<h2 id="zs-thunderbolt-m2"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Mech:~:text=ZS%20Thunderbolt%20M2">ZS Thunderbolt M2</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Breakthrough:~:text=Bellum%20Gloriosum">Bellum Gloriosum</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="bellum-gloriosum"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Breakthrough:~:text=Bellum%20Gloriosum">Bellum Gloriosum</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count toward the <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
         <ul>

@@ -86,6 +86,16 @@ article h2
     font-weight: normal;
     margin: 0;
 }
+/* A-Z jump list at the top of the component pages */
+.jump
+{
+    font-size: 90%;
+    line-height: 1.6;
+}
+.jump a
+{
+    white-space: nowrap;
+}
 /* Home page section headings: h2 for one-h1-per-page, sized like article > h1 */
 article > h2.section
 {

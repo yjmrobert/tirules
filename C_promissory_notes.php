@@ -2,14 +2,21 @@
 <header><h1>Promissory Notes</h1></header>
 <article>
 <p>For notes about a promissory notes of a specific faction, see that faction&rsquo;s notes page.</p>
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
+<p class="jump">
+<a href="#alliance">Alliance</a> &middot;
+<a href="#ceasefire">Ceasefire</a> &middot;
+<a href="#political-secret">Political Secret</a> &middot;
+<a href="#support-for-the-throne">Support For The Throne</a> &middot;
+<a href="#trade-agreement">Trade Agreement</a>
+</p>
+<h2 id="alliance"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
     <ol class="note">
     <li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be placed face up in their play area immediately.<sup>2</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Alliance</i> to be returned.<sup>2</sup></li>
     <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Alliance</i> to be returned.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
+<h2 id="ceasefire"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
     <ol class="note">
     <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of any units during the <b>Space Cannon Offense</b> step of the tactical action.<sup>2</sup></li>
     <li>If a player has units in the active system from before the tactical action in which their <i>Ceasefire</i> is played, those units will remain in the active system.<sup>*</sup></li>
@@ -18,7 +25,7 @@
     <li><i>Ceasefire</i> does not prevent a player from producing units in the active system.<sup>2</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret">Political Secret</a></h2>
+<h2 id="political-secret"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret">Political Secret</a></h2>
     <ol class="note">
     <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.<sup>1,2,5</sup></li>
     <li>A player may still use abilities from their faction technology after their <i>Political Secret</i> has been played.<sup>1</sup></li>
@@ -26,7 +33,7 @@
     <li>If an agenda is discarded, the effect of each <i>Political Secret</i> that has been played ends. The affected players may vote on the next agenda as normal.<sup>1,5</sup></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne">Support For The Throne</a></h2>
+<h2 id="support-for-the-throne"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne">Support For The Throne</a></h2>
     <ol class="note">
     <li>A <i>Support For The Throne</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.<sup>2,3</sup></li>
     <ol><li>If the active player receives a <i>Support For The Throne</i>, they cannot then attempt to trade it with another player. It must be played immediately.<sup>2</sup></li></ol>
@@ -41,7 +48,7 @@
     <ol><li class="ixth">Doing so is considered a dick move.<sup>*</sup></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
+<h2 id="trade-agreement"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
     <ol class="note">
     <li><i>Trade Agreement</i> cannot be played when a player gains commodities, only when they replenish commodities.<sup>3</sup></li>
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, that player&rsquo;s <i>Trade Agreement</i> may be played.<sup>1</sup></li>

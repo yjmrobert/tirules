@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_letnev">The Barony of Letnev</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
+<h2 id="munitions-reserves"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves">Munitions Reserves</a></h2>
     <ol class="note">
     <li><sc>Munitions Reserves</sc> may only be used to reroll combat rolls. It cannot be used to reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup>
         <ul>
@@ -11,7 +11,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada">Armada</a></h2>
+<h2 id="armada"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada">Armada</a></h2>
     <ol class="note">
     <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.<sup>*</sup>
         <ul>
@@ -19,7 +19,7 @@
         </ul></li>
     </ol>
 
-<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
+<h2 id="war-funding" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -49,7 +49,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
+<h2 id="war-funding-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup>
         <ul>
@@ -71,7 +71,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=L4%20Disruptors">L4 Disruptors</a> <sub>(Technology)</sub></h2>
+<h2 id="l4-disruptors"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=L4%20Disruptors">L4 Disruptors</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.<sup>*</sup>
         <ul>
@@ -79,7 +79,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
+<h2 id="noneuclidean-shielding"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
         <ul>
@@ -99,7 +99,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
+<h2 id="arc-secundus"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.<sup>*</sup>
         <ul>
@@ -115,7 +115,7 @@
         </ul></li></ol>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
+<h2 id="viscount-unlenn"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>1,4</sup>
         <ul>
@@ -128,7 +128,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Rear%20Admiral%20Farran">Rear Admiral Farran</a> <sub>(Commander)</sub></h2>
+<h2 id="rear-admiral-farran"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Rear%20Admiral%20Farran">Rear Admiral Farran</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.<sup>*</sup>
         <ul>
@@ -152,11 +152,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Darktalon%20Treilla">Darktalon Treilla</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Dark%20Matter%20Affinity">Dark Matter Affinity</a> <sub>(Hero)</sub></h2>
+<h2 id="darktalon-treilla"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Darktalon%20Treilla">Darktalon Treilla</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Dark%20Matter%20Affinity">Dark Matter Affinity</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> <sub>(Mech)</sub></h2>
+<h2 id="dunlain-reaper"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.<sup>1,8</sup>
         <ul>
@@ -170,7 +170,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>
+<h2 id="gravleash-maneuvers"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If a ship has its movement value increased by an ability such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup>
         <ul>

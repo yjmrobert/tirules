@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_exploration_cards">Exploration Cards</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Abandoned%20Warehouses">Abandoned Warehouses</a></h2>
+<h2 id="abandoned-warehouses"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Abandoned%20Warehouses">Abandoned Warehouses</a></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
@@ -12,15 +12,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Biotic%20Research%20Facility">Biotic Research Facility</a></h2>
+<h2 id="biotic-research-facility"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Biotic%20Research%20Facility">Biotic Research Facility</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Core%20Mine">Core Mine</a></h2>
+<h2 id="core-mine"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Core%20Mine">Core Mine</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Cultural%20Relic%20Fragment">Cultural Relic Fragment</a></h2>
+<h2 id="cultural-relic-fragment"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Cultural%20Relic%20Fragment">Cultural Relic Fragment</a></h2>
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Cultural Relic Fragments.<sup>4</sup>
         <ul>
@@ -32,15 +32,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Cybernetic%20Research%20Facility">Cybernetic Research Facility</a></h2>
+<h2 id="cybernetic-research-facility"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Cybernetic%20Research%20Facility">Cybernetic Research Facility</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Dead%20World">Dead World</a></h2>
+<h2 id="dead-world"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Dead%20World">Dead World</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
+<h2 id="demilitarized-zone"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Demilitarized%20Zone">Demilitarized Zone</a></h2>
     <ol class="note">
     <li>The <a href="/F_xxcha">Xxcha</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Peace%20Accords"><sc>Peace Accords</sc></a> faction ability to gain control of a planet with <i>Demilitarized Zone</i> attached.<sup>2</sup>
         <ul>
@@ -52,7 +52,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Derelict%20Vessel">Derelict Vessel</a></h2>
+<h2 id="derelict-vessel"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Derelict%20Vessel">Derelict Vessel</a></h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup>
         <ul>
@@ -61,11 +61,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Dyson%20Sphere">Dyson Sphere</a></h2>
+<h2 id="dyson-sphere"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Dyson%20Sphere">Dyson Sphere</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Enigmatic%20Device">Enigmatic Device</a></h2>
+<h2 id="enigmatic-device"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Enigmatic%20Device">Enigmatic Device</a></h2>
     <ol class="note">
     <li>A player cannot play <i>Enigmatic Device</i> as a component action if they have less than six resources available.<sup>*</sup>
         <ul>
@@ -73,15 +73,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Entropic%20Field">Entropic Field</a></h2>
+<h2 id="entropic-field"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Entropic%20Field">Entropic Field</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="/R_expedition">Expedition</a></h2>
+<h2 id="expedition"><a href="/R_expedition">Expedition</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Freelancers">Freelancers</a></h2>
+<h2 id="freelancers"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Freelancers">Freelancers</a></h2>
     <ol class="note">
     <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next. As such, a player cannot place ground forces produced by <i>Freelancers</i> on a planet in the active system that they are yet to gain and explore.<sup>4,8</sup>
         <ul>
@@ -95,7 +95,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base">Functioning Base</a></h2>
+<h2 id="functioning-base"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base">Functioning Base</a></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
@@ -104,15 +104,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Gamma%20Relay">Gamma Relay</a></h2>
+<h2 id="gamma-relay"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Gamma%20Relay">Gamma Relay</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Gamma%20Wormhole">Gamma Wormhole</a></h2>
+<h2 id="gamma-wormhole"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Gamma%20Wormhole">Gamma Wormhole</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Hazardous%20Relic%20Fragment">Hazardous Relic Fragment</a></h2>
+<h2 id="hazardous-relic-fragment"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Hazardous%20Relic%20Fragment">Hazardous Relic Fragment</a></h2>
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Hazardous Relic Fragments.<sup>4</sup>
         <ul>
@@ -124,7 +124,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Industrial%20Relic%20Fragment">Industrial Relic Fragment</a></h2>
+<h2 id="industrial-relic-fragment"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Industrial%20Relic%20Fragment">Industrial Relic Fragment</a></h2>
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three Industrial Relic Fragments.<sup>4</sup>
         <ul>
@@ -136,7 +136,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a></h2>
+<h2 id="ion-storm"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a></h2>
     <ol class="note">
     <li>The active player chooses which side of the Ion Storm token is initially face up.<sup>*</sup>
         <ul>
@@ -165,15 +165,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Keleres%20Ship">Keleres Ship</a></h2>
+<h2 id="keleres-ship"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Keleres%20Ship">Keleres Ship</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Lazax%20Survivors">Lazax Survivors</a></h2>
+<h2 id="lazax-survivors"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Lazax%20Survivors">Lazax Survivors</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Local%20Fabricators">Local Fabricators</a></h2>
+<h2 id="local-fabricators"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Local%20Fabricators">Local Fabricators</a></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup>
         <ul>
@@ -187,31 +187,31 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Lost%20Crew">Lost Crew</a></h2>
+<h2 id="lost-crew"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Lost%20Crew">Lost Crew</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Major%20Entropic%20Field">Major Entropic Field</a></h2>
+<h2 id="major-entropic-field"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Major%20Entropic%20Field">Major Entropic Field</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Mercenary%20Outfit">Mercenary Outfit</a></h2>
+<h2 id="mercenary-outfit"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Mercenary%20Outfit">Mercenary Outfit</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Merchant%20Station">Merchant Station</a></h2>
+<h2 id="merchant-station"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Merchant%20Station">Merchant Station</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Mining%20World">Mining World</a></h2>
+<h2 id="mining-world"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Mining%20World">Mining World</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Minor%20Entropic%20Field">Minor Entropic Field</a></h2>
+<h2 id="minor-entropic-field"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Codex_III:_Vigil:~:text=Minor%20Entropic%20Field">Minor Entropic Field</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a></h2>
+<h2 id="mirage"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a></h2>
     <ol class="note">
     <li>The player that gains the Mirage planet card gains control of Mirage and places a control token on it. As it was not controlled by another player, they explore it as a cultural planet.<sup>2</sup>
         <ul>
@@ -219,23 +219,23 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Paradise%20World">Paradise World</a></h2>
+<h2 id="paradise-world"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Paradise%20World">Paradise World</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Propulsion%20Research%20Facility">Propulsion Research Facility</a></h2>
+<h2 id="propulsion-research-facility"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Propulsion%20Research%20Facility">Propulsion Research Facility</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Rich%20World">Rich World</a></h2>
+<h2 id="rich-world"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Rich%20World">Rich World</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Tomb%20of%20Emphidia">Tomb of Emphidia</a></h2>
+<h2 id="tomb-of-emphidia"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Tomb%20of%20Emphidia">Tomb of Emphidia</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a></h2>
+<h2 id="unknown-relic-fragment"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a></h2>
     <ol class="note">
     <li>A player cannot purge three Unknown Relic Fragments to gain a relic. At least one cultural, hazardous or industrial relic fragment must be purged.<sup>*</sup>
         <ul>
@@ -247,11 +247,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source">Volatile Fuel Source</a></h2>
+<h2 id="volatile-fuel-source"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source">Volatile Fuel Source</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Warfare%20Research%20Facility">Warfare Research Facility</a></h2>
+<h2 id="warfare-research-facility"><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Warfare%20Research%20Facility">Warfare Research Facility</a></h2>
     <ol class="note">
     </ol>
 </article>
