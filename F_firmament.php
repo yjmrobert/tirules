@@ -6,6 +6,7 @@
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup></li>
     <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
+    <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>

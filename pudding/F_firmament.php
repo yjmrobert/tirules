@@ -15,6 +15,10 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players&rsquo; tokens on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If there are no other player tokens on the Plot, it returns to hand.&rdquo;</li>
         </ul></li>
+    <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? Do they immediately get VP? Can they score it again for VP? A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>
