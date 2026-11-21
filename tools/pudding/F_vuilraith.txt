@@ -44,7 +44,7 @@ N No source found.
 @21
 N No source found.
 @22
-N No source found.
+I4 Designer ruling, Vuil’raith Vortex: "Can Vortex be used on a ship if a player doesn't have any of those ships in their reinforcements? A: No, since they cannot fully resolve Vortex." Vortex cannot be used without a unit it can capture.
 @23
 I4 Designer ruling, Vuil’raith Vortex: "No, since they cannot fully resolve Vortex." cannot target if none in reinforcements.
 @24

@@ -43,7 +43,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>*</sup></li>
+    <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>4</sup></li>
     <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted.<sup>4</sup></li>
     <li>If another player is blockading a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, their units cannot be targeted with <i>Vortex</i>.<sup>8</sup></li>
     <li><i>Vortex</i> cannot target the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan, as it is a structure.<sup>2</sup></li>

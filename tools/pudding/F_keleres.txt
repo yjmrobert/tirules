@@ -117,7 +117,7 @@ I1 LRR 3.1: "During a player's turn, they may perform one of the following three
 @53
 N No source found.
 @54
-N No source found.
+I4 Designer ruling, General: "Can abilities that trigger “at the start of a combat” be played in combats you are not participating in? A: No, any non-agent “at the start of a combat” abilities must be played during a combat you are participating in." Overwing Zeta is a hero, not an agent, and triggers at the start of a round of space combat.
 @55
 E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a system that contains a planet you control."
 @56

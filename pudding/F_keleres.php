@@ -279,9 +279,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Kuuasi%20Aun%20Jalatai">Kuuasi Aun Jalatai</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta">Overwing Zeta</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>*</sup>
+    <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, General: &ldquo;Can abilities that trigger &ldquo;at the start of a combat&rdquo; be played in combats you are not participating in? A: No, any non-agent &ldquo;at the start of a combat&rdquo; abilities must be played during a combat you are participating in.&rdquo; Overwing Zeta is a hero, not an agent, and triggers at the start of a round of space combat.</li>
         </ul></li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.<sup>12</sup>
         <ul>

@@ -105,7 +105,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Kuuasi%20Aun%20Jalatai">Kuuasi Aun Jalatai</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta">Overwing Zeta</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>*</sup></li>
+    <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.<sup>4</sup></li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.<sup>12</sup></li>
     <ol><li><i>Overwing Zeta</i> may be played in a round following the <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris"><i>Artemiris</i></a> being destroyed.<sup>*</sup></li></ol>
     <li>Ships placed by <i>Overwing Zeta</i> count against the Keleres player&rsquo;s fleet pool immediately; any excess non&ndash;fighter ships are removed at once.<sup>2</sup></li>

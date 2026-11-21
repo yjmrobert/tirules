@@ -112,9 +112,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>*</sup>
+    <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Vuil&rsquo;raith Vortex: &ldquo;Can Vortex be used on a ship if a player doesn&rsquo;t have any of those ships in their reinforcements? A: No, since they cannot fully resolve Vortex.&rdquo; Vortex cannot be used without a unit it can capture.</li>
         </ul></li>
     <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted.<sup>4</sup>
         <ul>
