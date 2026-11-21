@@ -16,6 +16,7 @@ E2 RulesPal, "When do 'at the start of your turn' abilities happen, and do they 
 @6
 E2 RulesPal, "Do 'during the action phase' agent abilities use my action, and does 'a player' include me?": "'A player' includes you; only 'another player' excludes you."
 @7
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E5 Designer ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window."
 @8
 E2 RulesPal, "When exactly can Exotrireme II use its ability?": "Each Exotrireme II has its own copy, resolved one at a time."

@@ -26,6 +26,7 @@ E1 LRR FAQ: "a promissory note with 'At the start of your turn:' timing may be i
 E2 RulesPal, "Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?": "Yes — it is still the start of your turn until you actually take an action."
 E5 Designer ruling: "You can trade a promissory note and have it be immediately used during the start of turn window. That is allowed."
 @10
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E5 Same ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window."
 @11
 E5 Designer ruling, on a deal to trade the Creuss IFF and have it used: "This would be non-binding, because when the deal is made, the non-Ghost player does not technically qualify to even be able to perform his side of the deal (he doesn't have the IFF)."

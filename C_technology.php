@@ -156,7 +156,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor">Duranium Armor</a></h2>
     <ol class="note">
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.<sup>3</sup></li>
-    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.<sup>2</sup></li>
+    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.<sup>1,2</sup></li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.<sup>2</sup></li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.<sup>2</sup></li>
     <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> hits that occurred immediately before the combat.<sup>2</sup></li></ol>

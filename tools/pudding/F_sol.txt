@@ -13,6 +13,7 @@ E5 Designer ruling, quoting the card: "Remove 1 token from the Sol player's stra
 E1 LRR FAQ: "a promissory note with 'At the start of your turn:' timing may be immediately played if the transaction occurred" in that window.
 I5 Designer ruling: "You can trade a promissory note and have it be immediately used during the start of turn window."
 @6
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E5 Designer ruling: "because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window (in the case of the Federation of Sol's case, for example)."
 E2 RulesPal, "How often can Sol's Military Support be used?": "At most once per Sol turn."
 @7

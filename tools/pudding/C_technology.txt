@@ -151,6 +151,7 @@ E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the 
 @66
 E3 Learn to Play, Duranium Armor: "During each combat round, after you assign hits to your units, repair 1 of your damaged units." No "may".
 @67
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E2 RulesPal, "How does Duranium Armor work?": "Once per combat round, after hits are assigned."
 @68
 E2 RulesPal: "even if you had no hits to assign."

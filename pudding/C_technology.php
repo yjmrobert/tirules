@@ -375,8 +375,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Duranium Armor: &ldquo;During each combat round, after you assign hits to your units, repair 1 of your damaged units.&rdquo; No &ldquo;may&rdquo;.</li>
         </ul></li>
-    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.<sup>2</sup>
+    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.<sup>1,2</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Duranium Armor work?&rdquo;: &ldquo;Once per combat round, after hits are assigned.&rdquo;</li>
         </ul></li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.<sup>2</sup>

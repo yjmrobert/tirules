@@ -31,6 +31,7 @@ N No source found.
 @13
 E2 RulesPal, "Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?": "No — Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren't choices."
 @14
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E2 RulesPal, "How does the Hacan flagship's trade-good bonus work?": "spend 1 trade good for +1 on any of your units' dice in its system, at most once per die."
 @15
 E2 RulesPal, "How does the Hacan flagship's trade-good bonus work?": "It only modifies combat rolls, not Space Cannon or other ability rolls."

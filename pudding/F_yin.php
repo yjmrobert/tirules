@@ -5,8 +5,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination">Indoctrination</a></h2>
     <ol class="note">
-    <li><sc>Indoctrination</sc> is limited to once per ground combat.<sup>2</sup>
+    <li><sc>Indoctrination</sc> is limited to once per ground combat.<sup>1,2</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Yin&rsquo;s Devotion work?&rdquo;: &ldquo;Indoctrination works once per ground combat, at its start.&rdquo;</li>
         </ul></li>
     <li>If an invasion involves ground combats on multiple planets, <sc>Indoctrination</sc> may be used at the start of each of them.<sup>2</sup>
@@ -94,9 +95,9 @@
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         </ul></li>
-        <li>If the active player received <i>Greyfire Mutagen &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Yin player to regain it. However, <i>Greyfire Mutagen &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>Greyfire Mutagen &Omega;</i> again during the same ground combat.<sup>*</sup>
+        <li>If the active player received <i>Greyfire Mutagen &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Yin player to regain it. However, <i>Greyfire Mutagen &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>Greyfire Mutagen &Omega;</i> again during the same ground combat.<sup>1</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         </ul></li>
         <li>If an invasion involves ground combat on multiple planets, <i>Greyfire Mutagen &Omega;</i> may be played at the start of each of them.<sup>*</sup>
         <ul>

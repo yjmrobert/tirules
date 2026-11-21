@@ -39,8 +39,9 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred&rdquo; in that window.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can trade a promissory note and have it be immediately used during the start of turn window.&rdquo;</li>
         </ul></li>
-    <ol><li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the Sol player&rsquo;s next turn.<sup>2,5</sup>
+    <ol><li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the Sol player&rsquo;s next turn.<sup>1,2,5</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window (in the case of the Federation of Sol&rsquo;s case, for example).&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can Sol&rsquo;s Military Support be used?&rdquo;: &ldquo;At most once per Sol turn.&rdquo;</li>
         </ul></li></ol>

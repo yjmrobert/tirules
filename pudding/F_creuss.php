@@ -64,8 +64,9 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?&rdquo;: &ldquo;Yes &mdash; it is still the start of your turn until you actually take an action.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can trade a promissory note and have it be immediately used during the start of turn window. That is allowed.&rdquo;</li>
         </ul></li>
-    <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>5</sup>
+    <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>1,5</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling: &ldquo;because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window.&rdquo;</li>
         </ul></li></ol>
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.<sup>1,5</sup>

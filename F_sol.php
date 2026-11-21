@@ -17,7 +17,7 @@
     <li><i>Military Support</i> may be played the turn the Sol player passes.<sup>*</sup></li>
     <li><i>Military Support</i> may be played when the Sol player has no command tokens in their strategy pool.<sup>2,5</sup></li>
     <li>A player may receive <i>Military Support</i> in a transaction during the Sol player&rsquo;s turn. If received at the start of the Sol player&rsquo;s turn, that player may play it immediately.<sup>1,5</sup></li>
-    <ol><li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the Sol player&rsquo;s next turn.<sup>2,5</sup></li></ol>
+    <ol><li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the Sol player&rsquo;s next turn.<sup>1,2,5</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Carrier:~:text=Advanced%20Carrier">Advanced Carrier</a> <sub>(Unit)</sub></h2>

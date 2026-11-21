@@ -89,8 +89,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.<sup>2</sup>
+    <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.<sup>1,2</sup>
         <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Hacan flagship&rsquo;s trade-good bonus work?&rdquo;: &ldquo;spend 1 trade good for +1 on any of your units&rsquo; dice in its system, at most once per die.&rdquo;</li>
         </ul></li>
     <li>This ability only affects combat rolls. It cannot modify rolls for <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, or other unit abilities.<sup>2</sup>

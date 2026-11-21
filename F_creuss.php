@@ -25,7 +25,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1,2,5</sup></li>
-    <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>5</sup></li></ol>
+    <ol><li>The <i>Creuss IFF</i> cannot be played twice in one timing window.<sup>1,5</sup></li></ol>
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.<sup>1,5</sup></li>
     <li>The <i>Creuss IFF</i> may be played even if the Creuss player has not researched <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a>.<sup>1</sup></li>
     <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player, unless the player resolving it controls a planet in that system.<sup>2</sup></li>

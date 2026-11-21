@@ -1,4 +1,5 @@
 @0
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 E2 RulesPal, "How does the Yin's Devotion work?": "Indoctrination works once per ground combat, at its start."
 @1
 I2 Same entry: "once per ground combat." Each planet's ground combat is a separate combat.
@@ -39,7 +40,7 @@ I1 LRR FAQ: a promissory note "acquired from a transaction during that window" m
 @16
 I3 Learn to Play: "During the active player's turn, they may negotiate a transaction" with their neighbors.
 @17
-N No source found.
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event."
 @18
 N No source found.
 @19
