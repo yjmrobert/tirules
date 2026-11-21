@@ -144,6 +144,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If Wave Function Collapse purges a technology another player gained through Share Knowledge &hellip;?&rdquo;: &ldquo;the holder owns the gained technology, so it is purged and they research another.&rdquo; Covers a different holder.</li>
         </ul></li>
+    <li>If another player has gained the purged technology through <i>Share Knowledge</i>, they own it, so they purge it and research another technology, which they keep after <i>Share Knowledge</i> is returned.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?&rdquo;: &ldquo;Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns.&rdquo;</li>
+        </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player purges a technology, they will gain three command tokens instead of researching another technology.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus play Reveal Prototype?&rdquo;: &ldquo;Yes, gaining 3 command tokens instead of the technology.&rdquo;</li>

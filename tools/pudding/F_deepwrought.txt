@@ -52,9 +52,9 @@ N No source found.
 @25
 I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
 @26
-I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
+E2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?": "Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns."
 @27
-N No source found.
+I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
 @28
 N No source found.
 @29
@@ -62,4 +62,6 @@ N No source found.
 @30
 N No source found.
 @31
+N No source found.
+@32
 N No source found.

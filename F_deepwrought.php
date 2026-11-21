@@ -63,6 +63,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Ta%20Zern">Ta Zern</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Wave%20Function%20Collapse">Wave Function Collapse</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>If they also owned the purged technology, the Deepwrought player too will research another technology.<sup>*</sup></li>
+    <li>If another player has gained the purged technology through <i>Share Knowledge</i>, they own it, so they purge it and research another technology, which they keep after <i>Share Knowledge</i> is returned.<sup>2</sup></li>
     <li>If the <a href="/F_nekro">Nekro</a> player purges a technology, they will gain three command tokens instead of researching another technology.<sup>*</sup></li>
     </ol>
 
