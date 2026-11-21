@@ -19,18 +19,21 @@ I1 LRR 41.2: "one die is rolled immediately before it exits the gravity rift sys
 I1 LRR 41.2: "one die is rolled immediately before it exits the gravity rift system."
 I2 RulesPal, "Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?": "Fleet pool isn't checked in systems you pass through, only at the end, and you remove any excess then."
 @5
-I1 LRR 95.1b: "Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board." Units not yet picked up are not being transported.
+E11 Codex IV, Circlet of the Void: "Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies."
+N Nav Suite: see the C_action_cards note "A player may move ships through or out of a gravity rift without rolling for removal." (*)
 @6
-I2 RulesPal, "When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?": "Declare which ship carries what before rolling."
+I1 LRR 95.1b: "Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board." Units not yet picked up are not being transported.
 @7
+I2 RulesPal, "When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?": "Declare which ship carries what before rolling."
+@8
 I1 LRR 41.2: "For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system"; 41.2b: "Units that are being transported are removed from the board if the ship transporting them is removed from the board." A retreat moves ships out of the system.
 I2 RulesPal, "When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?": "only the ships moving out roll … if a carrier is lost, everything it carries goes with it."
-@8
-E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
 @9
-I1 LRR, Space Combat, Retreat step: "If any of a player's units successfully retreat and are moved into an adjacent system, that player must place a command token from their reinforcements in the system to which their units retreated." No unit arrives if every ship is removed.
+E2 RulesPal, "Where can my ships retreat to?": "Movement bonuses don't matter, as a retreat always goes to an adjacent system."
 @10
+I1 LRR, Space Combat, Retreat step: "If any of a player's units successfully retreat and are moved into an adjacent system, that player must place a command token from their reinforcements in the system to which their units retreated." No unit arrives if every ship is removed.
+@11
 E4 Designer ruling: "Are systems that contain Vuil'raith Cabal's Dimensional Tears anomalies? A: Yes."
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift …?": "it is simply a gravity rift, and counts as an anomaly for objectives."
-@11
+@12
 E4 Designer ruling: "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact's Benediction or moving ground forces with G'hom Sek'kus."

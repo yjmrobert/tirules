@@ -38,10 +38,16 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
-    <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup>
+    <ol>
+        <li>Ships do not roll for removal if the Naalu player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
+        </ul></li>
+        <li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
+        </ul></li>
+    </ol>
     <li>If the destination system already contains one of the Naalu player&rsquo;s command tokens, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;for Foresight the Naalu player still takes a command token from the their Strategy Pool but they place it in their reinforcements instead of on the map. Dane&rsquo;s Answer: That is correct.&rdquo;</li>

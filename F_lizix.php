@@ -66,8 +66,12 @@
     <li>When the L1Z1X player&rsquo;s ships move outside of a tactical action, they may transport units from systems that contain the L1Z1X player&rsquo;s command tokens.<sup>4</sup></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup></li>
     <li>Ships moving out of a gravity rift must roll for removal.<sup>1,2,3,4</sup></li>
+    <ol><li>Ships do not roll for removal if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup></li></ol>
     <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup></li>
-    <ol><li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li></ol>
+    <ol>
+        <li>Ships may move into a supernova if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup></li>
+        <li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li>
+    </ol>
     <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>1,8</sup></li>
     </ol>
 

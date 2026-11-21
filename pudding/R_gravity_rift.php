@@ -41,6 +41,11 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;one die is rolled immediately before it exits the gravity rift system.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?&rdquo;: &ldquo;Fleet pool isn&rsquo;t checked in systems you pass through, only at the end, and you remove any excess then.&rdquo;</li>
         </ul></li>
+    <li>Some effects allow ships to move out of or through a gravity rift without rolling for removal, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card.<sup>11</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
+        <li><b>Unverified</b>: Nav Suite: see the C_action_cards note &ldquo;A player may move ships through or out of a gravity rift without rolling for removal.&rdquo; (*)</li>
+        </ul></li>
     <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 95.1b: &ldquo;Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board.&rdquo; Units not yet picked up are not being transported.</li>

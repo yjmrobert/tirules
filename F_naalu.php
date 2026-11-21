@@ -13,7 +13,10 @@
     <li>The command token is not spent. The Naalu player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a>, nor will they gain a trade good if they have the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>*</sup></li>
     <li>Ground forces may be transported.<sup>1,2,5</sup></li>
     <li>Ships moving out of a gravity rift with <sc>Foresight</sc> must roll for removal.<sup>1,2,3,4</sup></li>
-    <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup></li></ol>
+    <ol>
+        <li>Ships do not roll for removal if the Naalu player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup></li>
+        <li>If all ships are removed, the strategy token will still be placed in the destination system.<sup>*</sup></li>
+    </ol>
     <li>If the destination system already contains one of the Naalu player&rsquo;s command tokens, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.<sup>5</sup></li>
     <li>After resolving <sc>Foresight</sc>, play continues to the <b>Space Cannon Offense</b> step.<sup>2,5</sup></li>
     <li>There is no limit on the number of times <sc>Foresight</sc> may be used each round, as long as the Naalu player has command tokens in their strategy pool.<sup>2</sup></li>

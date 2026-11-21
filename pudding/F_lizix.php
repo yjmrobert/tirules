@@ -158,16 +158,26 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
+    <ol><li>Ships do not roll for removal if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
+        </ul></li></ol>
     <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When an ability moves units outside a tactical action &hellip;?&rdquo;: &ldquo;Anomaly rules still apply, so no ability moves ships into a supernova unless it says so.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR 86.1: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
         </ul></li>
-    <ol><li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>
+    <ol>
+        <li>Ships may move into a supernova if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo; That includes the supernova&rsquo;s restriction on moving into it.</li>
+        </ul></li>
+        <li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Anomaly rules still apply.&rdquo;</li>
-        </ul></li></ol>
+        </ul></li>
+    </ol>
     <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>1,8</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 100.1: &ldquo;The wormhole nexus begins the game in play with its inactive side up.&rdquo;</li>

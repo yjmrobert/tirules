@@ -25,6 +25,7 @@
     <li>A ship removed by a gravity rift is not destroyed.<sup>2,10</sup></li>
     <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.<sup>1,2</sup></li>
     <li>Each ship rolls for gravity rift removal as it exits the gravity rift, during movement. The fleet pool limit in the active system is checked only after all moving ships arrive, so ships removed by a gravity rift do not count against it.<sup>1,2</sup></li>
+    <li>Some effects allow ships to move out of or through a gravity rift without rolling for removal, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card.<sup>11</sup></li>
     <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>1</sup></li>
     <li>Retreating from a gravity rift will result in the following:</li>
     <ol>

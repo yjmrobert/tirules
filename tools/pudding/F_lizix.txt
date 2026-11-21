@@ -64,17 +64,21 @@ E3 Learn to Play: "A ship that moves through or out of a gravity rift applies +1
 E4 Designer ruling: "Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes."
 I1 LRR quick reference: "Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die."
 @25
+E11 Codex IV, Circlet of the Void: "Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies."
+@26
 E2 RulesPal, "When an ability moves units outside a tactical action …?": "Anomaly rules still apply, so no ability moves ships into a supernova unless it says so."
 E3 Learn to Play: "A ship cannot move through or into a supernova."
 E1 LRR 86.1: "A ship cannot move through or into a supernova."
-@26
-I2 RulesPal: "Anomaly rules still apply."
 @27
+I11 Codex IV, Circlet of the Void: "Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies." That includes the supernova's restriction on moving into it.
+@28
+I2 RulesPal: "Anomaly rules still apply."
+@29
 I1 LRR 100.1: "The wormhole nexus begins the game in play with its inactive side up."
 I8 PoK rulebook describes the two sides of the Wormhole Nexus.
-@28
-E2 RulesPal, "Can L1Z1X mechs bombard through Harrow?": "a mech fighting on a planet can't bombard it, but one on another planet in the system can."
-@29
-N No source found.
 @30
+E2 RulesPal, "Can L1Z1X mechs bombard through Harrow?": "a mech fighting on a planet can't bombard it, but one on another planet in the system can."
+@31
+N No source found.
+@32
 N No source found.
