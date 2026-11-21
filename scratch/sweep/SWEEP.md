@@ -72,7 +72,7 @@ March 2026; this was not verified as official.
 - [ ] **Unsourced notes:** 886 of 2,843 notes (31%) are `*`. The highest shares are F_nomad 43/56, C_events 30/46, F_muaat 28/46, F_naaz_rokha 25/42, C_objectives 77/171 and C_action_cards 80/290. These are the best places for a targeted sourcing pass. (med)
 - [x] (253d040) **R_wormholes** lists the epsilon wormhole but never says where it appears or links /F_rebellion. (low)
 - [x] (056ac62; breakthrough and coexisting parts: no general ruling) **R_elimination:** space stations don't prevent elimination (this is only on R_space_stations). Also missing: what happens to an eliminated player's breakthrough and coexisting units. (low)
-- [ ] **R_frontier_tokens** doesn't link the TE cases: space-station systems (R_space_stations), The Fracture (R_fracture), Thunder's Edge (R_expedition). (low)
+- [x] (967d49b) **R_frontier_tokens** doesn't link the TE cases: space-station systems (R_space_stations), The Fracture (R_fracture), Thunder's Edge (R_expedition). (low)
 - [ ] **R_commodities** doesn't link the space-station +1 commodity value. (low)
 - [ ] **R_abilities** timing covers the action, strategy and agenda phases but not the status phase. R_status_phase says initiative order [2]; add a one-line pointer. (low)
 - [ ] **C_legendary_planets:** the _Imperial Arms Vault — Hope's End_ section is empty, but its note is on R_legendary_planets. Move it or cross-link. (low)
