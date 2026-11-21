@@ -35,6 +35,7 @@
 - Every note ends with a citation: `<sup>n</sup>` for numbered sources, `<sup>*</sup>` when no source exists. Each note has a proof in `tools/pudding/<page>.txt`.
 - Example players (Alice, Bob, ...) are referred to as "they".
 - Components removed from the game, and replaced versions of cards, use `class="removed"` (red), on the heading and on notes that only apply to the old version. The red is the marker: no "original card only" wording, and no notes for the current version added beside the red ones.
+- Updated card versions are marked &Omega; (Codex) and &Omega;&Omega; (later); &Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same.
 
 ## headings
 - Card headings on `C_` and `F_` pages carry an `id` (e.g. `/C_action_cards#sabotage`) and the `C_` pages have an A&ndash;Z jump list. Both come from `./tools/heading_ids.py`; run it after adding, renaming or removing a card heading.
