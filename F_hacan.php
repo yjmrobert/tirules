@@ -74,9 +74,5 @@
     <li>The new fleet pool token may be used to support the ships just produced.<sup>6</sup></li>
     <li>The produced ships do not need to remain to gain the fleet pool token. For example, a Hacan player with no command tokens in their fleet pool may produce three ships, gain the command token, then remove two of those ships due to their fleet pool.<sup>6</sup></li>
     </ol>
-
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>
-    <ol class="note">
-    </ol>
 </article>
 <?php include "suffix.php"?>

@@ -16,16 +16,16 @@ N No source found.
 E2 RulesPal, "Do Ceasefire or Disable stop Space Cannon?": "Space Cannon, Bombardment, invasion and production all still happen."
 I2 RulesPal: "Ceasefire only prevents movement."
 @8
-E1 LRR FAQ: "The 'Political Secret' promissory note does not prevent a player from using faction-specific technology."
-@9
-N No source found.
-@10
-E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded … A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
-I5 Designer ruling (sigmazero13, Jun 6, 2018): "It counts as being resolved." Discarded agenda counts as resolved, ending Political Secret.
-@11
 E1 LRR FAQ: "Does the 'Political Secret' promissory note disable passive/mandatory faction abilities …? A: No. The 'Political Secret' promissory note only prevents the use of faction abilities that a player must choose to use."
 E2 RulesPal, "What exactly does Political Secret stop the affected player from doing?": "Mandatory and passive abilities still apply."
 E5 Designer ruling: "the Letnev have nothing to fear from 'Political Secret' … Any faction ability that requires the player to make any kind of active decision cannot be used."
+@9
+E1 LRR FAQ: "The 'Political Secret' promissory note does not prevent a player from using faction-specific technology."
+@10
+N No source found.
+@11
+E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded … A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
+I5 Designer ruling (sigmazero13, Jun 6, 2018): "It counts as being resolved." Discarded agenda counts as resolved, ending Political Secret.
 @12
 E3 Learn to Play, Support for the Throne card: "When you receive this card, if you are not the blue player, you must place it faceup in your play area and gain 1 victory point."
 E2 RulesPal: "promissory notes are never mandatory unless the note says to play it immediately or place it face up."
@@ -35,25 +35,25 @@ E2 RulesPal, "Can I trade on a promissory note I received from another player �
 E2 RulesPal, "When must I return another player's Support for the Throne?": "As soon as you activate a system containing any of that player's units, whether or not you move in or attack."
 E3 Learn to Play, card text: "If you activate a system that contains 1 or more of the blue player's units … lose 1 victory point and return this card."
 @15
-E2 RulesPal: "Putting a command token in a system by other means is not activating it."
-@16
 E2 RulesPal: "Units include their ships, ground forces, space docks and PDS."
-@17
-E2 RulesPal, "If two players swap Support for the Throne and both would hit 10, who wins?": "The swapped notes resolve one after the other in normal timing order, so the player who gains the point first wins."
-@18
-I2 RulesPal, "If two players could both reach 10 points in the same status phase, who wins?": "The speaker-order tiebreak only covers truly simultaneous gains."
-@19
-E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Only the holder risks losing it, by activating a system with the giver's units, any system, even by mistake. The giver can attack freely."
-@20
+@16
 E2 RulesPal: "not control tokens, so activating a system where they only have control tokens is fine."
+@17
+E2 RulesPal: "Putting a command token in a system by other means is not activating it."
+@18
+E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Only the holder risks losing it, by activating a system with the giver's units, any system, even by mistake. The giver can attack freely."
+@19
+E2 RulesPal, "If two players swap Support for the Throne and both would hit 10, who wins?": "The swapped notes resolve one after the other in normal timing order, so the player who gains the point first wins."
+@20
+I2 RulesPal, "If two players could both reach 10 points in the same status phase, who wins?": "The speaker-order tiebreak only covers truly simultaneous gains."
 @21
 E2 RulesPal, "Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?": "Yes to both. Trading it is a normal transaction, and a ban is a house rule."
 @22
 N No source found. Owner's comment on table etiquette.
 @23
+E3 Learn to Play, Trade Agreement card: "When the blue player replenishes commodities: The blue player gives you all of his commodities."
+@24
 E1 LRR FAQ: "Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
 I1 LRR 21.2: "The commodity value on a player's faction sheet indicates the maximum number of commodities that player can have."
-@24
-N No source found.
 @25
-E3 Learn to Play, Trade Agreement card: "When the blue player replenishes commodities: The blue player gives you all of his commodities."
+N No source found.

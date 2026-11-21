@@ -46,6 +46,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret">Political Secret</a></h2>
     <ol class="note">
+    <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.<sup>1,2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Political Secret&rsquo; promissory note disable passive/mandatory faction abilities &hellip;? A: No. The &lsquo;Political Secret&rsquo; promissory note only prevents the use of faction abilities that a player must choose to use.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Political Secret stop the affected player from doing?&rdquo;: &ldquo;Mandatory and passive abilities still apply.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the Letnev have nothing to fear from &lsquo;Political Secret&rsquo; &hellip; Any faction ability that requires the player to make any kind of active decision cannot be used.&rdquo;</li>
+        </ul></li>
     <li>A player may still use abilities from their faction technology after their <i>Political Secret</i> has been played.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The &lsquo;Political Secret&rsquo; promissory note does not prevent a player from using faction-specific technology.&rdquo;</li>
@@ -58,12 +64,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player&rsquo;s &lsquo;Political Secret&rsquo; promissory note is used against them, but that agenda is subsequently discarded &hellip; A: Yes. It is a new agenda and thus the effect of the player&rsquo;s &lsquo;Political Secret&rsquo; is ended.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 6, 2018): &ldquo;It counts as being resolved.&rdquo; Discarded agenda counts as resolved, ending Political Secret.</li>
-        </ul></li>
-    <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.<sup>1,2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Political Secret&rsquo; promissory note disable passive/mandatory faction abilities &hellip;? A: No. The &lsquo;Political Secret&rsquo; promissory note only prevents the use of faction abilities that a player must choose to use.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Political Secret stop the affected player from doing?&rdquo;: &ldquo;Mandatory and passive abilities still apply.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;the Letnev have nothing to fear from &lsquo;Political Secret&rsquo; &hellip; Any faction ability that requires the player to make any kind of active decision cannot be used.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -83,13 +83,21 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When must I return another player&rsquo;s Support for the Throne?&rdquo;: &ldquo;As soon as you activate a system containing any of that player&rsquo;s units, whether or not you move in or attack.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, card text: &ldquo;If you activate a system that contains 1 or more of the blue player&rsquo;s units &hellip; lose 1 victory point and return this card.&rdquo;</li>
         </ul></li>
+    <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Support For The Throne</i> to be returned.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Units include their ships, ground forces, space docks and PDS.&rdquo;</li>
+        </ul></li>
+    <li>Activating a system that contains only another player&rsquo;s control tokens does not cause their <i>Support For The Throne</i> to be returned, as control tokens are not units.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;not control tokens, so activating a system where they only have control tokens is fine.&rdquo;</li>
+        </ul></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Support For The Throne</i> to be returned.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Putting a command token in a system by other means is not activating it.&rdquo;</li>
         </ul></li>
-    <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Support For The Throne</i> to be returned.<sup>2</sup>
+    <li>A player who has given away their <i>Support For The Throne</i> may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Units include their ships, ground forces, space docks and PDS.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Only the holder risks losing it, by activating a system with the giver&rsquo;s units, any system, even by mistake. The giver can attack freely.&rdquo;</li>
         </ul></li>
     <li>If two players trade their <i>Support For The Throne</i> to one another simultaneously, the active player will be the first to gain a victory point.<sup>2</sup>
         <ul>
@@ -99,14 +107,6 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players could both reach 10 points in the same status phase, who wins?&rdquo;: &ldquo;The speaker-order tiebreak only covers truly simultaneous gains.&rdquo;</li>
         </ul></li></ol>
-    <li>A player who has given away their <i>Support For The Throne</i> may activate systems containing the holder&rsquo;s units without penalty.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Only the holder risks losing it, by activating a system with the giver&rsquo;s units, any system, even by mistake. The giver can attack freely.&rdquo;</li>
-        </ul></li>
-    <li>Activating a system that contains only another player&rsquo;s control tokens does not cause their <i>Support For The Throne</i> to be returned, as control tokens are not units.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;not control tokens, so activating a system where they only have control tokens is fine.&rdquo;</li>
-        </ul></li>
     <li>A player may give their <i>Support For The Throne</i> to another player even if doing so gives that player the victory point they need to win the game.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Yes to both. Trading it is a normal transaction, and a ban is a house rule.&rdquo;</li>
@@ -119,6 +119,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
     <ol class="note">
+    <li><i>Trade Agreement</i> cannot be played when a player gains commodities, only when they replenish commodities.<sup>3</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Trade Agreement card: &ldquo;When the blue player replenishes commodities: The blue player gives you all of his commodities.&rdquo;</li>
+        </ul></li>
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, that player&rsquo;s <i>Trade Agreement</i> may be played.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Even if that player gains zero commodities when their commodities are refreshed, their &lsquo;Trade Agreement&rsquo; may still be played against them.&rdquo;</li>
@@ -127,10 +131,6 @@
     <li>A player does not have to be neighbors with the player that plays their <i>Trade Agreement</i> to give them their commodities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li><i>Trade Agreement</i> cannot be played when a player gains commodities, only when they replenish commodities.<sup>3</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Trade Agreement card: &ldquo;When the blue player replenishes commodities: The blue player gives you all of his commodities.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

@@ -18,6 +18,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;A ship that stops in a rift gains nothing and doesn&rsquo;t roll until it later leaves.&rdquo;</li>
         </ul></li>
+    <li>If a ship moves through or out of multiple gravity rifts, each gravity rift provides +1 to its move value and requires a separate roll for removal. If it moves out of the same gravity rift more than once, that gravity rift provides +1 only once, but each instance requires a separate roll.<sup>1,2,6,7,8</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;gets +1 move for that path, one per rift &hellip; Each ship that leaves or passes through a rift rolls.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook quick reference: the same text.</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
+        </ul></li>
     <li>A ship removed by a gravity rift is not destroyed.<sup>2,10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I: &ldquo;units that fail to survive the roll are removed from the board and returned to players&rsquo; reinforcements rather than being destroyed.&rdquo;</li>
@@ -32,6 +40,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;one die is rolled immediately before it exits the gravity rift system.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?&rdquo;: &ldquo;Fleet pool isn&rsquo;t checked in systems you pass through, only at the end, and you remove any excess then.&rdquo;</li>
+        </ul></li>
+    <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 95.1b: &ldquo;Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board.&rdquo; Units not yet picked up are not being transported.</li>
         </ul></li>
     <li>Retreating from a gravity rift will result in the following:</li>
     <ol>
@@ -53,18 +65,6 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR, Space Combat, Retreat step: &ldquo;If any of a player&rsquo;s units successfully retreat and are moved into an adjacent system, that player must place a command token from their reinforcements in the system to which their units retreated.&rdquo; No unit arrives if every ship is removed.</li>
         </ul></li>
     </ol>
-    <li>If a ship moves through or out of multiple gravity rifts, each gravity rift provides +1 to its move value and requires a separate roll for removal. If it moves out of the same gravity rift more than once, that gravity rift provides +1 only once, but each instance requires a separate roll.<sup>1,2,6,7,8</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do gravity rifts work: when do I get +1 move and when do I roll?&rdquo;: &ldquo;gets +1 move for that path, one per rift &hellip; Each ship that leaves or passes through a rift rolls.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>8</sup> PoK rulebook quick reference: the same text.</li>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
-        </ul></li>
-    <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>1</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 95.1b: &ldquo;Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board.&rdquo; Units not yet picked up are not being transported.</li>
-        </ul></li>
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes.&rdquo;</li>

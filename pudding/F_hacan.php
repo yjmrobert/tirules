@@ -159,9 +159,5 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do the ships have to survive fleet pool limits to trigger the new token? A: No, with zero in fleet you can produce 3 ships, gain the fleet token, then remove 2 ships to fleet pool.&rdquo;</li>
         </ul></li>
     </ol>
-
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>
-    <ol class="note">
-    </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>
