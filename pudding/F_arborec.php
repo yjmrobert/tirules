@@ -56,15 +56,15 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Bioplasmosis or Transit Diodes move ground forces onto enemy planets, or chain across systems?&rdquo;: &ldquo;Bioplasmosis moves each infantry once, to a planet in its own or an adjacent system, so no hopping across several systems.&rdquo;</li>
         </ul></li>
-        <li>An infantry may move from A to B, while another infantry moves from B to C.<sup>*</sup>
+        <li>An infantry may move from A to B, while another infantry moves from B to C.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Bioplasmosis moves each infantry once.&rdquo; Each infantry moves separately.</li>
         </ul></li>
-        <li>An infantry may move from A to B, while another infantry moves from C to B.<sup>*</sup>
+        <li>An infantry may move from A to B, while another infantry moves from C to B.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Bioplasmosis moves each infantry once.&rdquo;</li>
         </ul></li>
-        <li>An infantry may move from B to A, while another infantry moves from B to C.<sup>*</sup>
+        <li>An infantry may move from B to A, while another infantry moves from B to C.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Bioplasmosis moves each infantry once.&rdquo;</li>
         </ul></li>

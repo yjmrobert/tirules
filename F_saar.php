@@ -4,9 +4,9 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge">Scavenge</a></h2>
     <ol class="note">
     <li>If the Saar player gains control of multiple planets during one invasion, the trade goods are gained one at a time.<sup>1</sup></li>
-    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>*</sup></li>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>1</sup></li>
     <ol>
-        <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.<sup>*</sup></li>
+        <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.<sup>1</sup></li>
         <li>If the Saar player has the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.<sup>*</sup></li>
     </ol>
     <li>The Saar player does not gain trade goods from <sc>Scavenge</sc> for the planets in their home system at the start of the game, as they begin the game in control of those planets rather than gaining control of them.<sup>2</sup></li>

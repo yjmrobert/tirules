@@ -54,7 +54,7 @@ E2 RulesPal, "How does the Muaat hero's Nova Seed treat Muaat's own units …?":
 @26
 N No source found.
 @27
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @28
 N No source found.
 @29

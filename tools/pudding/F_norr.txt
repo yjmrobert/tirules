@@ -29,7 +29,7 @@ E2 RulesPal, "When exactly can Exotrireme II use its ability?": "A dreadnought c
 @12
 I1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls." Bombardment and Space Cannon have the same rule.
 @13
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @14
 E4 Designer ruling: "Can Sardakk N'orr's commander, G'hom Sek'kus, be used without moving any ships into the active system? A: Yes."
 E2 RulesPal, "Can the Sardakk commander commit ground forces from adjacent systems without moving any ships in …?": "Yes — the invasion step happens in every tactical action, so you can activate the system, move nothing, and commit ground forces from adjacent planets."

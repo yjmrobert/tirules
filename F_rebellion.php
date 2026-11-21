@@ -34,13 +34,13 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Technologies:~:text=Subatomic%20Splicer">Subatomic Splicer</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Rebellion player cannot use <i>Subatomic Splicer</i> to produce ships while another player&rsquo;s ships are in their home system.<sup>6</sup></li>
-    <li>The produced ships must still be paid for.<sup>*</sup></li>
+    <li>The produced ships must still be paid for.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Destroyer:~:text=Exile">Exile</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>The destroyer must be on the game board when the combat ends in order to place the breach. If the destroyer was in the active system, and was destroyed in the space combat, it cannot be used to place a breach.<sup>2</sup></li>
-    <li>A breach may be placed after a space combat and/or a ground combat.<sup>*</sup></li>
+    <li>A breach may be placed after a space combat and/or a ground combat.<sup>2</sup></li>
     <li>The Rebellion player may place a breach with the ability of an Exile at the end of a combat against neutral units.<sup>6</sup></li>
     </ol>
 

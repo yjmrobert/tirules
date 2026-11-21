@@ -124,7 +124,7 @@
     <ol class="note">
     <li>Production limits still apply.<sup>*</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are the Arborec and Hacan heroes limited by Production?&rdquo;: &ldquo;The Hacan hero makes every unit you produce free, though fleet and unit limits still apply.&rdquo; Production limits are not mentioned.</li>
+        <li><b>Unverified</b>: No source found. Related: RulesPal, &ldquo;Are the Arborec and Hacan heroes limited by Production?&rdquo;: &ldquo;The Hacan hero makes every unit you produce free, though fleet and unit limits still apply.&rdquo; Production limits are not mentioned.</li>
         </ul></li>
     </ol>
 

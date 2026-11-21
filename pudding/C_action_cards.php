@@ -596,9 +596,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>*</sup>
+    <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.<sup>1</sup>
         <ul>
@@ -1187,9 +1187,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.<sup>*</sup>
+    <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li></ol>
     </ol>
 
@@ -1424,9 +1424,9 @@
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal&rsquo;s Mecatol Rex exclusion is for the Diplomacy strategy card, not this card.</li>
         </ul></li>
-    <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>*</sup>
+    <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li>The command token is placed from a single chosen player&rsquo;s reinforcements. <i>Signal Jamming</i> cannot be played choosing a player who has no command tokens in their reinforcements.<sup>2</sup>
         <ul>

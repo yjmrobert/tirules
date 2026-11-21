@@ -9,12 +9,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the Mentak Coalition use the &lsquo;Pillage&rsquo; faction ability for each time the Saar gain a trade good from the &lsquo;Scavenge&rsquo; faction ability in a single turn &hellip;? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>*</sup>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 25.1c: &ldquo;When a player gains control of a planet that is not already controlled by another player, they explore&rdquo; it.</li>
         </ul></li>
     <ol>
-        <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.<sup>*</sup>
+        <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 35.2d: &ldquo;If a player gains control of multiple planets &hellip; they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.&rdquo;</li>
         </ul></li>

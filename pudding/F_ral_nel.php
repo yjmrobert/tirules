@@ -78,7 +78,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Last Dispatch: &ldquo;you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE.&rdquo;</li>
         </ul></li>
-    <ol><li>If a unit loses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>*</sup>
+    <ol><li>If a unit loses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same text: the target must be a ship &ldquo;that does not have SUSTAIN DAMAGE.&rdquo;</li>
         </ul></li></ol>

@@ -19,7 +19,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Blood%20Pact">Blood Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Both players must cast at least one vote to trigger the additional votes.<sup>*</sup></li>
-    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>*</sup></li></ol>
+    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>1</sup></li></ol>
     <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
@@ -79,13 +79,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>*</sup></li>
+    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.<sup>*</sup></li>
     <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.<sup>*</sup></li></ol>
     <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup></li>
     <li>A player playing an action card announces the following before a Watcher may be triggered:<sup>*</sup></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup></li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup></li>
         <li>The value of any variable cost to be paid.<sup>*</sup></li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>

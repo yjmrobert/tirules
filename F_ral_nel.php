@@ -36,7 +36,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Flagship:~:text=Last%20Dispatch">Last Dispatch</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>A unit with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> cannot be destroyed, even if it is damaged.<sup>7</sup></li>
-    <ol><li>If a unit loses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>*</sup></li></ol>
+    <ol><li>If a unit loses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup></li></ol>
     <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup></li>
     <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup></li>
     <ol><li><i>Skilled Retreat</i> is not a retreat.<sup>2</sup></li></ol>

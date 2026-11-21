@@ -139,7 +139,7 @@
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Z&rsquo;eu Ω: &ldquo;that player may perform a tactical action in a non-home system without placing a command token.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup>
+        <li>The system cannot already contain a command token for the player performing the tactical action.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 5.2: &ldquo;A player cannot activate a system that already contains one of their command tokens.&rdquo;</li>
         </ul></li>
@@ -304,7 +304,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Breakthrough:~:text=Mindsieve">Mindsieve</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.<sup>*</sup>
+    <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 69.5: a player can trade &ldquo;one promissory note from their hand.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: unplayed notes &ldquo;are your hand until placed face up in a play area.&rdquo;</li>

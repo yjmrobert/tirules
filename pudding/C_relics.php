@@ -83,7 +83,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.<sup>*</sup>
+    <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;hits aren&rsquo;t assigned until rolling ends; any unit whose reroll fails to hit is destroyed.&rdquo;</li>
         </ul></li>
@@ -336,7 +336,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>The Triad</i> is not considered a planet for other game effects.<sup>*</sup>
+    <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
         </ul></li>

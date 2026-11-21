@@ -3,7 +3,7 @@
 <article>
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Achieve%20Supremacy">Achieve Supremacy</a></h2>
     <ol class="note">
-    <li>The flagship or war sun may be in the home system of an eliminated player.<sup>*</sup></li>
+    <li>The flagship or war sun may be in the home system of an eliminated player.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies">Adapt New Strategies</a></h2>
@@ -32,8 +32,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
     <ol class="note">
-    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>*</sup></li>
-    <ol><li>The lost planet may be in the home system of an eliminated player.<sup>*</sup></li></ol>
+    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>2</sup></li>
+    <ol><li>The lost planet may be in the home system of an eliminated player.<sup>6</sup></li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.<sup>4</sup></li>
     <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup></li>
     <li>A player who loses their home system due to <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic may score <i>Become a Martyr</i>.<sup>6,9</sup></li>
@@ -74,7 +74,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak">Conquer the Weak</a></h2>
     <ol class="note">
-    <li>The planet may be in the home system of an eliminated player.<sup>*</sup></li>
+    <li>The planet may be in the home system of an eliminated player.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Construct%20Massive%20Cities">Construct Massive Cities</a></h2>
@@ -112,7 +112,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies">Darken the Skies</a></h2>
     <ol class="note">
-    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>*</sup></li>
+    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Defy%20Space%20and%20Time">Defy Space and Time</a></h2>
@@ -438,7 +438,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Rule%20Distant%20Lands">Rule Distant Lands</a></h2>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.<sup>2,4</sup></li>
-    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<sup>*</sup></li>
+    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<sup>6</sup></li>
     <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.<sup>4</sup></li>
     </ol>
 
@@ -481,7 +481,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies">Threaten Enemies</a></h2>
     <ol class="note">
     <li>Any ships in another players home system are irrelevant.<sup>*</sup></li>
-    <li>The ships may be adjacent to the home system of an eliminated player.<sup>*</sup></li>
+    <li>The ships may be adjacent to the home system of an eliminated player.<sup>6</sup></li>
     <li>Any ground forces or structures are irrelevant.<sup>*</sup></li>
     </ol>
 

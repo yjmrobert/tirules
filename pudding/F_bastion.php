@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Bastion must choose which order to resolve Liberate and Exploration per planet, then resolve those abilities in full before the other.&rdquo;</li>
         </ul></li>
-    <ol><li>If they explore first, and the number of infantry or the resource value of the planet changes while resolving the exploration, then the new values will be used when resolving <sc>Liberate</sc>.<sup>*</sup>
+    <ol><li>If they explore first, and the number of infantry or the resource value of the planet changes while resolving the exploration, then the new values will be used when resolving <sc>Liberate</sc>.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Same ruling: each ability is resolved &ldquo;in full before the other,&rdquo; so the later one sees the changed values.</li>
         </ul></li></ol>

@@ -47,7 +47,7 @@
     <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.<sup>*</sup></li>
     <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a> action card, they could put either the trade goods gained from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup></li></ol>
     <li>When a player gains trade goods that were on a strategy card, they do not gain them from the supply.<sup>2</sup></li>
-    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.<sup>*</sup></li>
+    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.<sup>2</sup></li>
     <li>Converting commodities to trade goods is not gaining trade goods from the supply, and does not trigger Artuno the Betrayer.<sup>2</sup></li>
     </ol>
 
@@ -94,7 +94,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>*</sup></li>
+    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>1</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria</i></a> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.<sup>2,4</sup></li>
     </ol>
 

@@ -91,7 +91,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: a promissory note &ldquo;acquired from a transaction during that window&rdquo; may &ldquo;be played immediately.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>Greyfire Mutagen &Omega;</i>.<sup>*</sup>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>Greyfire Mutagen &Omega;</i>.<sup>3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;During the active player&rsquo;s turn, they may negotiate a transaction&rdquo; with their neighbors.</li>
         </ul></li>

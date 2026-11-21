@@ -98,7 +98,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Each trade good gained may trigger the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>*</sup>
+        <li>Each trade good gained may trigger the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Mentak &ldquo;can trigger &lsquo;Pillage&rsquo; each time the Saar gain&rdquo; a trade good from Scavenge. Each separate gain triggers Pillage.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Mentak use Pillage?&rdquo;: &ldquo;After each instance of a neighbor gaining trade goods.&rdquo;</li>
@@ -152,9 +152,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Nova Seed</i> cannot target the home system of an eliminated player.<sup>*</sup>
+    <li><i>Nova Seed</i> cannot target the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li><i>Nova Seed</i> may target the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17), the <a href="/F_rebellion">Rebellion</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=The%20Sorrow">Sorrow</a> (tile 94), or the Wormhole Nexus (tile 82).<sup>*</sup>
         <ul>

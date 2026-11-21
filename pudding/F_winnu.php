@@ -45,7 +45,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Winnu faction technology &lsquo;Hegemonic Trade Policy&rsquo; should read as follows: &lsquo;Exhaust this card when 1 or more of your units use &lsquo;Production;&rsquo; swap the resource and influence values of 1 planet you control during that use of &lsquo;Production.&rsquo;&rsquo;&rdquo;</li>
         </ul></li>
-    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>*</sup>
+    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;A Space Dock I has Production equal to its planet&rsquo;s resource value plus 2.&rdquo;</li>
         </ul></li>

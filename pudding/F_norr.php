@@ -85,9 +85,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.<sup>*</sup>
+    <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they did not move any ships into the active system.<sup>2,4</sup>
         <ul>

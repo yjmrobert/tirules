@@ -68,7 +68,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When an agenda outcome and a rider both award points, which resolves first?&rdquo;: &ldquo;The agenda&rsquo;s outcome resolves first, then the riders that predicted it.&rdquo;</li>
         </ul></li>
-    <li>A player who cannot vote may still play a <i>Keleres Rider</i>.<sup>*</sup>
+    <li>A player who cannot vote may still play a <i>Keleres Rider</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (rider action cards): &ldquo;The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards.&rdquo;</li>
         </ul></li>

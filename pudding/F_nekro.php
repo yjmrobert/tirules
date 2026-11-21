@@ -48,7 +48,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Nekro Virus gain a technology, does the other player lose it?&rdquo;: &ldquo;even one the Yin sacrifice with Devotion.&rdquo;</li>
         </ul></li>
-        <li>If a unit is removed, but not destroyed, that unit will not trigger the <sc>Technological Singularity</sc> ability.<sup>*</sup>
+        <li>If a unit is removed, but not destroyed, that unit will not trigger the <sc>Technological Singularity</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Infantry II trigger on infantry removed by the Jol-Nar agent?&rdquo;: &ldquo;No &mdash; removing isn&rsquo;t destroying.&rdquo;</li>
         </ul></li>
@@ -66,11 +66,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Destroying an opponent&rsquo;s unit during the <b>Anti&ndash;Fighter Barrage</b> step, and gaining a unit upgrade technology will allow units of that type to use the abilities and attributes of the upgrade for the combat rolls of the same round.<sup>*</sup>
+        <li>Destroying an opponent&rsquo;s unit during the <b>Anti&ndash;Fighter Barrage</b> step, and gaining a unit upgrade technology will allow units of that type to use the abilities and attributes of the upgrade for the combat rolls of the same round.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
-        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, and gaining a unit upgrade technology with an <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>*</sup>
+        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, and gaining a unit upgrade technology with an <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>

@@ -263,7 +263,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship">Ghost Ship</a></h2>
     <ol class="note">
     <li>A player may place the destroyer in the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss gate</a> (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.<sup>*</sup></li>
-    <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>*</sup></li>
+    <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>6</sup></li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
     </ol>
 
@@ -517,7 +517,7 @@
     <ol class="note">
     <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.<sup>1</sup></li>
     <li>If a player owns a space dock in another player&rsquo;s home system, that space dock cannot be targeted by <i>Reactor Meltdown</i>.<sup>*</sup></li>
-    <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.<sup>*</sup></li></ol>
+    <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.<sup>6</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Refit%20Troops">Refit Troops</a></h2>
@@ -625,7 +625,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
     <ol class="note">
     <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
-    <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>*</sup></li>
+    <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>6</sup></li>
     <li>The command token is placed from a single chosen player&rsquo;s reinforcements. <i>Signal Jamming</i> cannot be played choosing a player who has no command tokens in their reinforcements.<sup>2</sup></li>
     </ol>
 

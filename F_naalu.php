@@ -55,7 +55,7 @@
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>All other rules applying to tactical actions apply, other than placing a command token.<sup>12</sup></li>
     <ol>
-        <li>The system cannot already contain a command token for the player performing the tactical action.<sup>*</sup></li>
+        <li>The system cannot already contain a command token for the player performing the tactical action.<sup>1</sup></li>
         <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup></li>
         <li>If a player uses Z&rsquo;eu &Omega; to activate a system containing another player&rsquo;s units, that will count for the purposes of returning promissory notes, and other similar effects.<sup>12</sup></li>
     </ol>
@@ -123,7 +123,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Breakthrough:~:text=Mindsieve">Mindsieve</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.<sup>*</sup></li>
+    <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.<sup>1,2</sup></li>
     <li>Giving a promissory note because of <i>Mindsieve</i> is not resolving a transaction.<sup>*</sup></li>
     </ol>
 </article>

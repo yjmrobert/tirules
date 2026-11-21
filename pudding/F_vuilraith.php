@@ -195,7 +195,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player chooses to capture a fighter or infantry, they will capture one, not two.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player chooses to capture a fighter or infantry, they will capture one, not two.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do you capture fighters and infantry?&rdquo;: &ldquo;A captured fighter or infantry goes back to its owner&rsquo;s reinforcements &hellip; and the captor places a matching token on their faction sheet instead.&rdquo;</li>
         </ul></li>

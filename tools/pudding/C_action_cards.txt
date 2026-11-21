@@ -230,7 +230,7 @@ N No source found.
 @99
 N No source found.
 @100
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @101
 E1 LRR 23.4a: "When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 @102
@@ -463,7 +463,7 @@ I1 LRR FAQ: "'Lucky Shot' and other similar effects can only be used against oth
 @203
 N No source found.
 @204
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @205
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
@@ -554,7 +554,7 @@ I2 RulesPal, "Which hits can Shields Holding cancel?": "Each combatant may play 
 @241
 N No source found. RulesPal's Mecatol Rex exclusion is for the Diplomacy strategy card, not this card.
 @242
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @243
 E2 RulesPal, "Does Signal Jamming take command tokens from more than one player?": "No — it names a single other player, whose reinforcements supply the one token you place; that player must have one there for the card to be playable."
 @244

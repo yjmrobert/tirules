@@ -33,7 +33,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>*</sup>
+    <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.15: &ldquo;Some game effects allow a player to cast additional votes for an outcome.&rdquo; LRR 8.16 bars a player who cannot vote from casting votes.</li>
         </ul></li></ol>
@@ -187,7 +187,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>*</sup>
+    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sabotage cancel another Sabotage or a promissory note?&rdquo;: &ldquo;Other cancel effects that lack that restriction can still cancel a Sabotage.&rdquo;</li>
         </ul></li>
@@ -208,7 +208,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): &ldquo;can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo;</li>
         </ul></li>

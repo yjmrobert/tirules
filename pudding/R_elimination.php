@@ -5,9 +5,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>*</sup>
+    <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
         <ol><li>This includes effects that specify &ldquo;another player&rsquo;s home system&rdquo;.<sup>*</sup>
         <ul>

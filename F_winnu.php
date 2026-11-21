@@ -25,7 +25,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="/R_production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="/R_production"><sc>Production</sc></a>.&rdquo;<sup>1</sup></li>
-    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>*</sup></li>
+    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding">Lazax Gate Folding</a> <sub>(Technology)</sub></h2>

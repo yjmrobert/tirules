@@ -4,7 +4,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Faction_Abilities:~:text=Liberate">Liberate</a></h2>
     <ol class="note">
     <li>If the Bastion player gains control of an uncontrolled planet, they may choose if they resolve <sc>Liberate</sc> before or after they explore that planet.<sup>6</sup></li>
-    <ol><li>If they explore first, and the number of infantry or the resource value of the planet changes while resolving the exploration, then the new values will be used when resolving <sc>Liberate</sc>.<sup>*</sup></li></ol>
+    <ol><li>If they explore first, and the number of infantry or the resource value of the planet changes while resolving the exploration, then the new values will be used when resolving <sc>Liberate</sc>.<sup>6</sup></li></ol>
     <li>The number of mechs is irrelevant for determining which effect to resolve.<sup>*</sup></li>
     </ol>
 

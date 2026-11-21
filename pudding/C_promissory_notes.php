@@ -29,7 +29,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the active player already has units with capacity in the active system, they may transport ground forces on planets in that system into the space area of that system. Those units may then be committed to invade a planet during this tactical action.<sup>*</sup>
+    <li>If the active player already has units with capacity in the active system, they may transport ground forces on planets in that system into the space area of that system. Those units may then be committed to invade a planet during this tactical action.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ground forces already on one planet invade another planet in the same system?&rdquo;: &ldquo;Only if a ship with capacity picked them up into the space area during the movement step.&rdquo;</li>
         </ul></li>

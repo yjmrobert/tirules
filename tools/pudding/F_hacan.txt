@@ -42,7 +42,7 @@ E4 Designer ruling: "transactions may occur after an exploration card is reveale
 @18
 N No source found.
 @19
-E2 RulesPal, "Are the Arborec and Hacan heroes limited by Production?": "The Hacan hero makes every unit you produce free, though fleet and unit limits still apply." Production limits are not mentioned.
+N No source found. Related: RulesPal, "Are the Arborec and Hacan heroes limited by Production?": "The Hacan hero makes every unit you produce free, though fleet and unit limits still apply." Production limits are not mentioned.
 @20
 N No source found.
 @21

@@ -40,7 +40,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.<sup>*</sup></li>
+    <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.<sup>6</sup></li>
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they did not move any ships into the active system.<sup>2,4</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
     <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup></li>

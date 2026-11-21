@@ -34,7 +34,7 @@
     <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>2,4</sup></li>
     <li>For each unit that rolls multiple combat dice, the player with <i>The Crown of Thalnos</i> should roll those unit&rsquo;s dice separately from any other combat dice.<sup>*</sup></li>
     <li>A reroll caused by any other effect will not cause a unit to be destroyed.<sup>*</sup></li>
-    <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.<sup>*</sup></li>
+    <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.<sup>2</sup></li>
     <li>A unit with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.<sup>*</sup></li>
     </ol>
 
@@ -152,7 +152,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
     <ol class="note">
     <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup></li>
-    <li><i>The Triad</i> is not considered a planet for other game effects.<sup>*</sup></li>
+    <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup></li>
     <ol>
         <li>Units cannot be placed on <i>The Triad</i>.<sup>*</sup></li>
         <li><i>The Triad</i> cannot be exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card.<sup>6</sup></li>

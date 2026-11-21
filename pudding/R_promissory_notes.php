@@ -19,7 +19,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.<sup>*</sup>
+        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.<sup>3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Support for the Throne: &ldquo;When you receive this card &hellip; you must place it faceup in your play area.&rdquo;</li>
         </ul></li>

@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only <a href="/R_mecatol_rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>*</sup>
+    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only <a href="/R_mecatol_rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 32.2: the active player &ldquo;chooses a system that contains a planet they control other than the Mecatol Rex system.&rdquo;</li>
         </ul></li>

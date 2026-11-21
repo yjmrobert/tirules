@@ -25,7 +25,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Military Support</i> may be played the turn the Sol player passes.<sup>*</sup>
+    <li><i>Military Support</i> may be played the turn the Sol player passes.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can Sol&rsquo;s Military Support be used?&rdquo;: &ldquo;it is used at the start of Sol&rsquo;s turn.&rdquo; The turn Sol passes still starts.</li>
         </ul></li>

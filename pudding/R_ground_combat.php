@@ -27,7 +27,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 42.4b: &ldquo;During the last round of a combat, &lsquo;end of combat&rsquo; and &lsquo;end of combat round&rsquo; effects occur during the same timing window.&rdquo;</li>
         </ul></li>
-    <li>No player may retreat from a ground combat.<sup>*</sup>
+    <li>No player may retreat from a ground combat.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference lists &ldquo;Retreat&rdquo; only under Space Combat.</li>
         </ul></li>

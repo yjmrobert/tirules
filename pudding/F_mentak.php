@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Ambush work?&rdquo;: &ldquo;It isn&rsquo;t a combat roll, so Morale Boost doesn&rsquo;t apply.&rdquo;</li>
         </ul></li>
-    <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.<sup>*</sup>
+    <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;roll one die for each of up to 2 cruisers or destroyers.&rdquo; A removed ship cannot roll.</li>
         </ul></li>

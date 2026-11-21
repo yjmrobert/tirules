@@ -5,9 +5,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Achieve%20Supremacy">Achieve Supremacy</a></h2>
     <ol class="note">
-    <li>The flagship or war sun may be in the home system of an eliminated player.<sup>*</sup>
+    <li>The flagship or war sun may be in the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     </ol>
 
@@ -72,13 +72,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
     <ol class="note">
-    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>*</sup>
+    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Become a Martyr be scored by losing a planet in another player&rsquo;s home system that I had taken?&rdquo;: &ldquo;Yes &mdash; it requires losing a planet in a home system, not your own.&rdquo;</li>
         </ul></li>
-    <ol><li>The lost planet may be in the home system of an eliminated player.<sup>*</sup>
+    <ol><li>The lost planet may be in the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.<sup>4</sup>
         <ul>
@@ -160,9 +160,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak">Conquer the Weak</a></h2>
     <ol class="note">
-    <li>The planet may be in the home system of an eliminated player.<sup>*</sup>
+    <li>The planet may be in the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     </ol>
 
@@ -236,9 +236,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies">Darken the Skies</a></h2>
     <ol class="note">
-    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>*</sup>
+    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     </ol>
 
@@ -911,9 +911,9 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player&rsquo;s Home Systems.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;Rule Distant Lands needs planets near two different players&rsquo; home systems.&rdquo;</li>
         </ul></li>
-    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<sup>*</sup>
+    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.<sup>4</sup>
         <ul>
@@ -1004,9 +1004,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The ships may be adjacent to the home system of an eliminated player.<sup>*</sup>
+    <li>The ships may be adjacent to the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     <li>Any ground forces or structures are irrelevant.<sup>*</sup>
         <ul>

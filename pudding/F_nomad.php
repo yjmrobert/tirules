@@ -115,7 +115,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which trade good gains count for the Nomad agent Artuno?&rdquo;: &ldquo;Trade goods gained from the supply, from action cards, agendas, the Trade card or exploration. Converting commodities doesn&rsquo;t count, and as written neither do trade goods taken off strategy cards.&rdquo;</li>
         </ul></li>
-    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.<sup>*</sup>
+    <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: trade goods taken from a card are not counted.</li>
         </ul></li>
@@ -237,7 +237,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Ahk-Syl%20Siven">Ahk&ndash;Syl Siven</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Probability%20Matrix">Probability Matrix</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>*</sup>
+    <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from <a href="/R_mecatol_rex">Mecatol Rex</a>).<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 40 (Game Round): &ldquo;Players skip the agenda phase during the early portion of each game.&rdquo;</li>
         </ul></li>

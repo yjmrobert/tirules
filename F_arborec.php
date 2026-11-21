@@ -25,9 +25,9 @@
     <li>No infantry may move beyond an adjacent system. For example, consider a series of systems A&ndash;B&ndash;C. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. In this case:<sup>2</sup></li>
     <ol>
         <li>An infantry cannot move from A to B, then B to C.<sup>2</sup></li>
-        <li>An infantry may move from A to B, while another infantry moves from B to C.<sup>*</sup></li>
-        <li>An infantry may move from A to B, while another infantry moves from C to B.<sup>*</sup></li>
-        <li>An infantry may move from B to A, while another infantry moves from B to C.<sup>*</sup></li>
+        <li>An infantry may move from A to B, while another infantry moves from B to C.<sup>2</sup></li>
+        <li>An infantry may move from A to B, while another infantry moves from C to B.<sup>2</sup></li>
+        <li>An infantry may move from B to A, while another infantry moves from B to C.<sup>2</sup></li>
         <li>An infantry may move from A to B, while another infantry moves from B to A. This will have no meaningful effect.<sup>*</sup></li>
     </ol>
     <li><i>Bioplasmosis</i> cannot move <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a>.<sup>*</sup></li>

@@ -26,7 +26,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8, Synergy: &ldquo;Even so, a technology can only count as one or the other at any given time, not both.&rdquo;</li>
         </ul></li>
-    <li>A technology and/or each technology specialty may be treated as different colors of technologies at different points in time.<sup>*</sup>
+    <li>A technology and/or each technology specialty may be treated as different colors of technologies at different points in time.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;at any given time.&rdquo;</li>
         </ul></li>

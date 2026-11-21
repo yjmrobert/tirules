@@ -84,7 +84,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Subatomic Splicer (Technology): &lsquo;A player cannot produce ships in a system that contains other players&rsquo; ships&rsquo;. Does this apply to Subatomic Splicer? A: It does apply.&rdquo;</li>
         </ul></li>
-    <li>The produced ships must still be paid for.<sup>*</sup>
+    <li>The produced ships must still be paid for.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
         </ul></li>
@@ -96,7 +96,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Crimson Rebellion breaches work?&rdquo;: &ldquo;A breach goes in the combat&rsquo;s system at the end of combat &hellip; if one of your destroyers is in range then.&rdquo;</li>
         </ul></li>
-    <li>A breach may be placed after a space combat and/or a ground combat.<sup>*</sup>
+    <li>A breach may be placed after a space combat and/or a ground combat.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;at the end of combat.&rdquo; Not limited to space combat.</li>
         </ul></li>

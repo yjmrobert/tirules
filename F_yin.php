@@ -34,7 +34,7 @@
     <ol class="note">
     <li>A player may receive <i>Greyfire Mutagen &Omega;</i> in a transaction during a ground combat. If received at the start of ground combat, that player may play it immediately.<sup>1</sup></li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>Greyfire Mutagen &Omega;</i>.<sup>*</sup></li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>Greyfire Mutagen &Omega;</i>.<sup>3</sup></li>
         <li>If the active player received <i>Greyfire Mutagen &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Yin player to regain it. However, <i>Greyfire Mutagen &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>Greyfire Mutagen &Omega;</i> again during the same ground combat.<sup>1</sup></li>
         <li>If an invasion involves ground combat on multiple planets, <i>Greyfire Mutagen &Omega;</i> may be played at the start of each of them.<sup>*</sup></li>
     </ol>

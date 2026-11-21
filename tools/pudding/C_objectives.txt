@@ -1,5 +1,5 @@
 @0
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @1
 E2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "Yes — a copied technology counts with its colour and type, so the Nekro can score faction-technology objectives that way."
 E5 FFG ruling (stephen986, Sep 19 2017): "The intent was that after placing an assimilator token on another faction’s faction specific technology, it would then count toward the secret objective."
@@ -28,7 +28,7 @@ N No source found.
 @11
 I2 RulesPal, "Can Become a Martyr be scored by losing a planet in another player's home system that I had taken?": "Yes — it requires losing a planet in a home system, not your own."
 @12
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @13
 E4 Designer ruling: "Secrets are scored 'after', so Become a Martyr would trigger after Shard of the Throne is lost or elimination."
 @14
@@ -58,7 +58,7 @@ E1 LRR 61.10: "To score such an objective, a player must pay the specified cost 
 E2 RulesPal, "For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?": "No — you pay the full amount in one go when you score the objective, as its cost; nothing spent earlier in the round counts."
 E3 Learn to Play: "To score such an objective, a player must pay the specified cost at the time indicated on the card."
 @25
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @26
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 @27
@@ -84,7 +84,7 @@ N No source found.
 @36
 I1 LRR, Ships: "A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns." Fighters therefore count as ships for the objective.
 @37
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @38
 E4 Designer ruling, Do objectives that say "units" require multiple units, or is one enough?: "One unit is enough to satisfy these requirements."
 E2 RulesPal, "Does Defy Space and Time need more than one unit in the Wormhole Nexus?": "No — one unit is enough; the plural is just the card template."
@@ -329,7 +329,7 @@ I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, w
 E4 Designer ruling: "You must control 2 planets and each planet must be in or adjacent to one of 2 different opposing player's Home Systems."
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "Rule Distant Lands needs planets near two different players' home systems."
 @141
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @142
 E4 Designer ruling: "it does not mean 1 planet that is adjacent to 2 different Home Systems."
 @143
@@ -364,7 +364,7 @@ I1 LRR 93.4: a trade good can be spent "In place of spending one resource" or "I
 @155
 N No source found.
 @156
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @157
 N No source found.
 @158

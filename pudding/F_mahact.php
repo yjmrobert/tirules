@@ -50,11 +50,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Promissory_Note:~:text=Scepter%20of%20Dominion">Scepter of Dominion</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player already has a command token in the chosen system, they do not place a command token there.<sup>*</sup>
+    <li>If a player already has a command token in the chosen system, they do not place a command token there.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 32.2b (Diplomacy): &ldquo;If a player already has a command token in the chosen system, they do not place a command token there.&rdquo;</li>
         </ul></li>
-    <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.<sup>*</sup>
+    <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 32.2a (Diplomacy): &ldquo;If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.&rdquo;</li>
         </ul></li>
@@ -62,9 +62,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.<sup>*</sup>
+    <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>
         </ul></li>
     </ol>
 

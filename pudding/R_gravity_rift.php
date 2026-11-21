@@ -35,7 +35,7 @@
         </ul></li>
     <li>Retreating from a gravity rift will result in the following:</li>
     <ol>
-        <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>*</sup>
+        <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?&rdquo;: &ldquo;Declare which ship carries what before rolling.&rdquo;</li>
         </ul></li>
@@ -61,7 +61,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;If a player moves a ship through the same gravity rift multiple times in one action, do they still have to roll the dice multiple times?&rdquo;: &ldquo;Yes, although the movement bonus is once per ship per tactical action, the negative roll requirement remains per time a ship moves out of or through a gravity rift.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Clarifications: &ldquo;A gravity rift can only contribute its movement bonus to ships that pass through it once per ship. This is a change from previous rulings.&rdquo;</li>
         </ul></li>
-    <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>*</sup>
+    <li>If a ship with capacity is removed by a gravity rift, any units it would have picked up later in its movement, after exiting the gravity rift, remain where they are.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 95.1b: &ldquo;Units being transported by a ship that is removed from the board by a gravity rift are also removed from the board.&rdquo; Units not yet picked up are not being transported.</li>
         </ul></li>

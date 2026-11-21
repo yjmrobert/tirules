@@ -22,7 +22,7 @@ I1 LRR 32.2a (Diplomacy): "If a player has no command tokens in their reinforcem
 @10
 N No source found.
 @11
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @12
 E4 Designer ruling: "Genetic Recombination happens before a player would exhaust planets to vote. So if a player cannot vote, or does not have votes to cast, they cannot be targeted by the tech."
 E2 RulesPal, "Can Genetic Recombination target a player who isn't voting, such as one who played a rider?": "No — it triggers before a player casts votes, and a non-voter never reaches that point."

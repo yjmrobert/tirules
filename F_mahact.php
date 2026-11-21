@@ -23,10 +23,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Promissory_Note:~:text=Scepter%20of%20Dominion">Scepter of Dominion</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player already has a command token in the chosen system, they do not place a command token there.<sup>*</sup></li>
-    <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.<sup>*</sup></li>
+    <li>If a player already has a command token in the chosen system, they do not place a command token there.<sup>1</sup></li>
+    <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.<sup>1</sup></li>
     <li>The Mahact player will also place a command token in the chosen system, unless their command sheet has none of their own tokens on it.<sup>*</sup></li>
-    <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.<sup>*</sup></li>
+    <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Technologies:~:text=Genetic%20Recombination">Genetic Recombination</a> <sub>(Technology)</sub></h2>

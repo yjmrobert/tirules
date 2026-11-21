@@ -16,7 +16,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only <a href="/R_mecatol_rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>*</sup></li>
+    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only <a href="/R_mecatol_rex">Mecatol Rex</a>, they may still perform a strategic action. However, other players will not place a command token in any system.<sup>1</sup></li>
     <li>If the player with <i>Diplomacy</i> controls fewer than two exhausted planets, they may still perform a strategic action. They will ready as many planets as possible.<sup>2</sup></li>
     <li>The Diplomacy token represents a command token from each player other than the player with the <i>Diplomacy</i> strategy card. It may be used to simplify play when no player is expected to interact with the command tokens placed by the primary ability.<sup>7</sup></li>
     <ol>
