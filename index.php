@@ -34,7 +34,7 @@
     Notes are included for the Codices, up to and including Codex IV, released June 2025, and preliminary notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025, pending the publication of a new Living Rules Reference.</p>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
 <p style="font-family:lazax;">&ldquo;For as often as I reference (tirules.com), it's probably better than official&rdquo; - Dane Beltrami, TI4 Lead Designer.</p>
-<h1>Rule Topics</h1>
+<h2 class="section">Rule Topics</h2>
 <style>
 li.te:before
 {
@@ -153,7 +153,7 @@ li.te:before
     <li><a href="/R_wormhole_nexus">Wormhole Nexus</a></li>
     <li><a href="/R_wormholes">Wormholes</a></li>
     </ol>
-<h1>Faction Notes</h1>
+<h2 class="section">Faction Notes</h2>
     <ol class="note">
         <li><a href="/F_arborec">The Arborec</a></li>
         <li><a href="/F_argent">The Argent Flight</a></li>
@@ -186,7 +186,7 @@ li.te:before
         <li><a href="/F_yin">The Yin Brotherhood</a></li>
         <li><a href="/F_yssaril">The Yssaril Tribes</a></li>
     </ol>
-<h1>Component Notes</h1>
+<h2 class="section">Component Notes</h2>
     <ol class="note">
         <li><a href="/C_action_cards">Action Cards</a></li>
         <li><a href="/C_agendas">Agendas</a></li>
