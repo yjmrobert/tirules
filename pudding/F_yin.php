@@ -242,9 +242,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>*</sup>
+    <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>7</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Card text (Brother Milor ΩΩ, supplied by the owner): &ldquo;After a player&rsquo;s unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit&rsquo;s system if it was a ship, or 2 infantry on its planet if it was a ground force.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge codex card (Thunder&rsquo;s Edge replaces previous Twilight Codex components with its updated versions; owner confirmed Brother Milor ΩΩ is the Thunder&rsquo;s Edge card). Card text: &ldquo;After a player&rsquo;s unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit&rsquo;s system if it was a ship, or 2 infantry on its planet if it was a ground force.&rdquo;</li>
         </ul></li>
     <li>If all of a player&rsquo;s units in a combat are destroyed, they may still place units with this ability. If they do, combat will continue.<sup>4</sup>
         <ul>

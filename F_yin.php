@@ -93,7 +93,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Leaders:~:text=Brother%20Milor">Brother Milor &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>*</sup></li>
+    <li>Brother Milor &Omega;&Omega; may only be used when a unit is destroyed during combat, whenever that combat occurs.<sup>7</sup></li>
     <li>If all of a player&rsquo;s units in a combat are destroyed, they may still place units with this ability. If they do, combat will continue.<sup>4</sup></li>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega;&Omega; to place fighters into a space combat where they have no spare capacity.<sup>3</sup></li>
     <li>If all units in the combat are destroyed, and there are excess hits that have not been assigned to a unit, those hits will lapse, and cannot be assigned to the newly placed units.<sup>*</sup></li>

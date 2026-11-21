@@ -100,7 +100,7 @@ E4 Designer ruling: "The units participating in combat via these flagship abilit
 @45
 E4 Designer ruling: "The units participating in combat via these flagship abilities are both a ground force and ship during combat. The owner of the unit can choose whether to place 2 infantry or 2 fighters when using Brother Milor Omega, however units placed this way can only continue to participate in space combat if fighters are placed, and can only continue to participate in ground combat if infantry are placed."
 @46
-N No source found. Card text (Brother Milor ΩΩ, supplied by the owner): "After a player's unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry on its planet if it was a ground force."
+I7 Thunder's Edge codex card (Thunder's Edge replaces previous Twilight Codex components with its updated versions; owner confirmed Brother Milor ΩΩ is the Thunder's Edge card). Card text: "After a player's unit is destroyed during combat: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry on its planet if it was a ground force."
 @47
 I4 Designer ruling, on the earlier Brother Milor: "Does the Yin Brotherhood agent, Brother Milor, keep combat going after the last ship is destroyed? A: Yes." The ΩΩ card places units the same way.
 @48
