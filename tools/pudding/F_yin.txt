@@ -11,25 +11,25 @@ N No source found.
 E2 RulesPal, "If Yin's Indoctrination replaces the only defending infantry, have the Yin won the ground combat?": "if it removes the last defender the Yin win."
 @5
 E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability should read as follows: 'After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.'"
-E2 RulesPal, "When Dimensional Splicer or Yin's Devotion hits my ship, who picks the target …?": "The Creuss or Yin player chooses which of your ships takes the hit."
-@6
-E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability should read as follows: 'After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.'" "1 of your opponent's ships."
-@7
-E2 RulesPal: "Only that ship can use its own Sustain Damage to cancel it; you can't move the hit elsewhere."
-@8
-E1 LRR FAQ: "'Shields Holding' may be used to cancel hits that are produced by these abilities," including "Devotion."
-E2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both."
-@9
-E2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both. Direct Hit was errata'd to cover hits produced by your units or abilities"
-E5 Designer ruling (sigmazero13, May 17, 2018): "does the Devotion ability count as that? … Dane wrote: You can use direct hit off of a Devotion use."
-@10
-N No source found.
-@11
-E2 RulesPal, "When both players have end-of-round abilities, like Yin's Devotion and Sardakk's Exotrireme II, who goes first?": "The active player resolves one first, then the players alternate one ability at a time."
-@12
-E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability should read as follows: 'After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.'"
 E2 RulesPal, "How does the Yin's Devotion work?": "the errata adds 'in the active system'."
 I5 Designer ruling (Yin4Life, 12/10/2018): "No, The Yin's Devotion ability cannot be used to destroy ships in a non-active system." Devotion limited to the active system.
+@6
+E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability should read as follows: 'After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.'"
+E2 RulesPal, "When Dimensional Splicer or Yin's Devotion hits my ship, who picks the target …?": "The Creuss or Yin player chooses which of your ships takes the hit."
+@7
+E1 LRR errata: "The text of the Yin Brotherhood's 'Devotion' faction ability should read as follows: 'After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.'" "1 of your opponent's ships."
+@8
+E2 RulesPal: "Only that ship can use its own Sustain Damage to cancel it; you can't move the hit elsewhere."
+@9
+E1 LRR FAQ: "'Shields Holding' may be used to cancel hits that are produced by these abilities," including "Devotion."
+E2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both."
+@10
+E2 RulesPal, "Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?": "Yes to both. Direct Hit was errata'd to cover hits produced by your units or abilities"
+E5 Designer ruling (sigmazero13, May 17, 2018): "does the Devotion ability count as that? … Dane wrote: You can use direct hit off of a Devotion use."
+@11
+N No source found.
+@12
+E2 RulesPal, "When both players have end-of-round abilities, like Yin's Devotion and Sardakk's Exotrireme II, who goes first?": "The active player resolves one first, then the players alternate one ability at a time."
 @13
 E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Greyfire Mutagen".
 @14

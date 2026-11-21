@@ -30,6 +30,12 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion">Devotion</a></h2>
     <ol class="note">
+    <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo;</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Yin&rsquo;s Devotion work?&rdquo;: &ldquo;the errata adds &lsquo;in the active system&rsquo;.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Yin4Life, 12/10/2018): &ldquo;No, The Yin&rsquo;s Devotion ability cannot be used to destroy ships in a non-active system.&rdquo; Devotion limited to the active system.</li>
+        </ul></li>
     <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ship is assigned the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo;</li>
@@ -62,12 +68,6 @@
     <li>If the Yin player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When both players have end-of-round abilities, like Yin&rsquo;s Devotion and Sardakk&rsquo;s Exotrireme II, who goes first?&rdquo;: &ldquo;The active player resolves one first, then the players alternate one ability at a time.&rdquo;</li>
-        </ul></li>
-    <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo;</li>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Yin&rsquo;s Devotion work?&rdquo;: &ldquo;the errata adds &lsquo;in the active system&rsquo;.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Yin4Life, 12/10/2018): &ldquo;No, The Yin&rsquo;s Devotion ability cannot be used to destroy ships in a non-active system.&rdquo; Devotion limited to the active system.</li>
         </ul></li>
     </ol>
 

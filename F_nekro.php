@@ -125,7 +125,6 @@
     <li>If the chosen player is the <a href="/F_muaat">Muaat</a> player with their commander, Magmus, unlocked, they will gain a trade good from it if they spend a token from their strategy pool when resolving this ability.<sup>*</sup></li>
     <ol><li>That trade good will be gained separately from the other two.<sup>*</sup></li></ol>
     <li>The ability of Nekro Malleon cannot be resolved while another ability is resolving.<sup>4</sup></li>
-    <li>If a player is eliminated while the Nekro player has a Valefar Assimilator Z token on their faction sheet, the Nekro player keeps the copied flagship abilities; that faction sheet remains in play for this purpose.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
@@ -155,6 +154,7 @@
     <li>If the Nekro player copies the <a href="/F_firmament">Firmament</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye"><i>Heaven&rsquo;s Eye</i></a>, references to &ldquo;your plots&rdquo; refer to the <a href="/F_firmament">Firmament</a> player&rsquo;s plots.<sup>6</sup></li>
     <li>If the Nekro player has copied the <a href="/F_firmament">Firmament</a> player&rsquo;s flagship, and the <a href="/F_firmament">Firmament</a> becomes the <a href="/F_firmament">Obsidian</a>, the Valefar Assimilator Z token is moved to the <a href="/F_firmament">Obsidian</a> player&rsquo;s flagship.<sup>6</sup></li>
     <li>The Nekro player&rsquo;s flagship gains only the text abilities of a copied flagship. Unit abilities, such as <a href="/R_deploy"><sc>Deploy</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, are not copied.<sup>2</sup></li>
+    <li>If a player is eliminated while the Nekro player has a Valefar Assimilator Z token on their faction sheet, the Nekro player keeps the copied flagship abilities; that faction sheet remains in play for this purpose.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

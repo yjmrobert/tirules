@@ -12,6 +12,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Devotion">Devotion</a></h2>
     <ol class="note">
+    <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup></li>
     <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ship is assigned the hit.<sup>1,2</sup></li>
     <ol>
         <li>The Yin cannot choose their own ships as targets.<sup>1</sup></li>
@@ -21,7 +22,6 @@
     <li>If the targeted ship cancels the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the Yin player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy that ship.<sup>2,5</sup></li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.<sup>*</sup></li>
     <li>If the Yin player is in a combat with the <a href="/F_norr">N&rsquo;orr</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
-    <li>The text of <sc>Devotion</sc> is changed to: &ldquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rdquo;<sup>1,2,5</sup></li>
     </ol>
 
 <h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Promissory_Note:~:text=Greyfire%20Mutagen">Greyfire Mutagen</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>

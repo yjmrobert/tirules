@@ -185,31 +185,31 @@ N No source found.
 @81
 E4 Designer ruling: "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
 @82
-E6 Community consensus: "Does the Nekro Virus keep the faction flagship abilities of eliminated players? A: Yes, this follows other rulings on components that stay in play after a player is eliminated, those player's faction sheets remain in play for this ability."
-@83
 E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves."
+@83
+N No source found.
 @84
 N No source found.
 @85
-N No source found.
-@86
 I1 LRR 90.8b: "Unit upgrades do not have a color."
 I2 RulesPal, "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
+@86
+N No source found.
 @87
 N No source found.
 @88
 N No source found.
 @89
-N No source found.
-@90
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "It isn't a technology, so the Nekro commander doesn't trigger."
-@91
+@90
 N No source found.
-@92
+@91
 E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
-@93
+@92
 E6 Community consensus: "If the Nekro Virus copies the Firmament flagship, can they somehow utilize its ability (it says '1 of your plots')? A: Nekro references the Firmaments plots when copying the Firmament flagship."
-@94
+@93
 E6 Community consensus: "What happens with the Z ability on the Firmament flagship when they become Obsidian? A: The Z token is moved to the Obsidian Flagship."
-@95
+@94
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "your flagship gains that flagship's text abilities … Unit abilities like Deploy, Space Cannon or Sustain Damage aren't text abilities, so copying flagships that rely on them gains nothing."
+@95
+E6 Community consensus: "Does the Nekro Virus keep the faction flagship abilities of eliminated players? A: Yes, this follows other rulings on components that stay in play after a player is eliminated, those player's faction sheets remain in play for this ability."

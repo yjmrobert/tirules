@@ -395,10 +395,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can I use the Nekro Virus&rsquo; Agent, Nekro Malleon &hellip; to interrupt another ability since the timing is &lsquo;during the action phase&rsquo;? A: No, any ability that is used &lsquo;during the action phase&rsquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
         </ul></li>
-    <li>If a player is eliminated while the Nekro player has a Valefar Assimilator Z token on their faction sheet, the Nekro player keeps the copied flagship abilities; that faction sheet remains in play for this purpose.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Nekro Virus keep the faction flagship abilities of eliminated players? A: Yes, this follows other rulings on components that stay in play after a player is eliminated, those player&rsquo;s faction sheets remain in play for this ability.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
@@ -467,6 +463,10 @@
     <li>The Nekro player&rsquo;s flagship gains only the text abilities of a copied flagship. Unit abilities, such as <a href="/R_deploy"><sc>Deploy</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, are not copied.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?&rdquo;: &ldquo;your flagship gains that flagship&rsquo;s text abilities &hellip; Unit abilities like Deploy, Space Cannon or Sustain Damage aren&rsquo;t text abilities, so copying flagships that rely on them gains nothing.&rdquo;</li>
+        </ul></li>
+    <li>If a player is eliminated while the Nekro player has a Valefar Assimilator Z token on their faction sheet, the Nekro player keeps the copied flagship abilities; that faction sheet remains in play for this purpose.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Nekro Virus keep the faction flagship abilities of eliminated players? A: Yes, this follows other rulings on components that stay in play after a player is eliminated, those player&rsquo;s faction sheets remain in play for this ability.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

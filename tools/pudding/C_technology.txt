@@ -28,17 +28,17 @@ I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay fo
 E4 Designer ruling: "Can you Sling Relay without producing anything? A: No, you must produce a ship."
 I2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Sling Relay with nowhere to produce."
 @12
-N No source found.
-@13
 E2 RulesPal, "Can I use a technology right after researching it, such as Fleet Logistics?": "Yes. Research Fleet Logistics with the Technology primary on your turn, and once that strategic action, secondaries included, is done you may take a second action that turn."
-@14
+@13
 I2 RulesPal, "When must Xxcha use Nullification Field": "Once the turn ends, nothing more happens in it."
-@15
+@14
 I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
-@16
+@15
 E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
-@17
+@16
 E2 RulesPal, "What does Fleet Logistics allow?": "If the first is Warfare, other players resolve its secondary before your second action."
+@17
+N No source found.
 @18
 E2 RulesPal, "With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?": "Yes — moving through such a system is allowed, and ships can pick up units in any system they pass through."
 @19

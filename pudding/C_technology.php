@@ -74,10 +74,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I use a technology right after researching it, such as Fleet Logistics?&rdquo;: &ldquo;Yes. Research Fleet Logistics with the Technology primary on your turn, and once that strategic action, secondaries included, is done you may take a second action that turn.&rdquo;</li>
@@ -97,6 +93,10 @@
     <li>If a player&rsquo;s first action is a strategic action, the other players resolve the secondary ability of that strategy card before the player performs their second action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does Fleet Logistics allow?&rdquo;: &ldquo;If the first is Warfare, other players resolve its secondary before your second action.&rdquo;</li>
+        </ul></li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
