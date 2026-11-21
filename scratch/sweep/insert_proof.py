@@ -52,4 +52,5 @@ def main():
     open(path, "w", encoding="utf-8").write("".join(out))
     print(f"{page}: proof inserted at @{k}")
 
-main()
+if __name__ == "__main__":
+    main()
