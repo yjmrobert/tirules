@@ -104,9 +104,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>Any units in either system are moved with their system.<sup>2</sup></li>
     <li>Any tokens on either system are moved with their system.<sup>4</sup></li>
     <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup></li>
-    <li>Any units in either system are moved with their system.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>

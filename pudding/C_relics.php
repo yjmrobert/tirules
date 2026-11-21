@@ -222,9 +222,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge another relic, then that player may use <i>Neuraloop</i> again to replace the new objective with yet another objective.<sup>*</sup>
+    <li>A secret objective revealed by <i>Neuraloop</i> becomes a public objective.<sup>11</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>11</sup> Codex IV, Neuraloop: &ldquo;that objective is a public objective, even if it is a secret objective.&rdquo;</li>
         </ul></li>
     <li>If a player uses <i>Neuraloop</i> to reveal a secret objective as a public objective, that objective does not count toward the limit of three scored or unscored secret objectives for any player that scores it.<sup>*</sup>
         <ul>
@@ -234,9 +234,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
         </ul></li>
-    <li>A secret objective revealed by <i>Neuraloop</i> becomes a public objective.<sup>11</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge another relic, then that player may use <i>Neuraloop</i> again to replace the new objective with yet another objective.<sup>*</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>11</sup> Codex IV, Neuraloop: &ldquo;that objective is a public objective, even if it is a secret objective.&rdquo;</li>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>The discarded objective is shuffled into its respective deck after the replacement objective is revealed.<sup>*</sup>
         <ul>
@@ -270,21 +270,21 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar">Scepter of Emelpar</a></h2>
     <ol class="note">
-    <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup>
+    <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People"><i>Galvanize the People</i></a>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Scepter of Emelpar help pay spend-token objectives?&rdquo;: &ldquo;Yes &mdash; a token spent from reinforcements through the Scepter in place of a strategy token counts.&rdquo;</li>
+        </ul></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
@@ -334,10 +334,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
     <ol class="note">
-    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
@@ -368,6 +364,10 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
+    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>

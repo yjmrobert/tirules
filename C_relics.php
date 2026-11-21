@@ -100,10 +100,10 @@
     <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup></li>
     <li>If a player uses <i>Neuraloop</i> to purge <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a>, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup></li>
     <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a>, that player loses a victory point.<sup>*</sup></li>
-    <li>If a player uses <i>Neuraloop</i> to purge another relic, then that player may use <i>Neuraloop</i> again to replace the new objective with yet another objective.<sup>*</sup></li>
+    <li>A secret objective revealed by <i>Neuraloop</i> becomes a public objective.<sup>11</sup></li>
     <li>If a player uses <i>Neuraloop</i> to reveal a secret objective as a public objective, that objective does not count toward the limit of three scored or unscored secret objectives for any player that scores it.<sup>*</sup></li>
     <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the secret objective revealed by <i>Neuraloop</i> and one of their own secret objectives from the same combat.<sup>1</sup></li>
-    <li>A secret objective revealed by <i>Neuraloop</i> becomes a public objective.<sup>11</sup></li>
+    <li>If a player uses <i>Neuraloop</i> to purge another relic, then that player may use <i>Neuraloop</i> again to replace the new objective with yet another objective.<sup>*</sup></li>
     <li>The discarded objective is shuffled into its respective deck after the replacement objective is revealed.<sup>*</sup></li>
     <ol><li>This happens before the player with <i>Neuraloop</i> chooses if they wish to purge another relic to replace the new objective. As such, it is possible for the player to reveal the original objective after purging two or more relics.<sup>*</sup></li></ol>
     </ol>
@@ -124,10 +124,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar">Scepter of Emelpar</a></h2>
     <ol class="note">
-    <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup></li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.<sup>*</sup></li>
-    <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
+    <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup></li>
     <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People"><i>Galvanize the People</i></a>.<sup>2</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a></h2>
@@ -151,7 +151,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
     <ol class="note">
-    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup></li>
     <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup></li>
     <ol>
         <li>Units cannot be placed on <i>The Triad</i>.<sup>*</sup></li>
@@ -161,6 +160,7 @@
         <li><i>The Triad</i> does not count toward the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup></li>
         <li><i>The Triad</i> does not have a planet trait; it cannot be explored.<sup>*</sup></li>
     </ol>
+    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup></li>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup></li>
     <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup></li>
     <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup></li>

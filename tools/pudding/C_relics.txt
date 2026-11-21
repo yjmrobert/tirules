@@ -80,13 +80,13 @@ N No source found.
 @38
 N No source found.
 @39
-N No source found.
+E11 Codex IV, Neuraloop: "that objective is a public objective, even if it is a secret objective."
 @40
 N No source found.
 @41
 E1 LRR 61.7: "they can only score one objective during or after each combat."
 @42
-E11 Codex IV, Neuraloop: "that objective is a public objective, even if it is a secret objective."
+N No source found.
 @43
 N No source found.
 @44
@@ -100,9 +100,9 @@ N No source found.
 @48
 N No source found.
 @49
-N No source found.
-@50
 E2 RulesPal, "Can the Scepter of Emelpar help pay spend-token objectives?": "Yes — a token spent from reinforcements through the Scepter in place of a strategy token counts."
+@50
+N No source found.
 @51
 N No source found.
 @52
@@ -122,19 +122,19 @@ I2 RulesPal, "Does a system whose planet was destroyed by Stellar Converter coun
 @57
 N No source found.
 @58
-N No source found.
-@59
 I6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
+@59
+N No source found.
 @60
-N No source found.
-@61
 E6 Community consensus: "The Triad: Can The Triad be exhausted by Uprising? A: No"
-@62
+@61
 N No source found.
-@63
+@62
 E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to The Triad? A: No"
-@64
+@63
 E6 Community consensus: "Does The Triad count as a planet for scoring objectives? A: No"
+@64
+N No source found.
 @65
 N No source found.
 @66

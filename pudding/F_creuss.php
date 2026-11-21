@@ -294,6 +294,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
+    <li>Any units in either system are moved with their system.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Creuss hero swaps two system tiles, do the units move with them?&rdquo;: &ldquo;Yes &mdash; units are on the tile&rsquo;s planets and space area, so they go with it.&rdquo;</li>
+        </ul></li>
     <li>Any tokens on either system are moved with their system.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Creuss hero Singularity Reactor and tokens: &ldquo;All tokens stay with their original tile&rdquo;</li>
@@ -301,10 +305,6 @@
     <li>Systems that comprise The Fracture and the <a href="/F_rebellion">Rebellion</a> player&rsquo;s home system cannot be swapped with other system tiles.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook (Age of Exploration): &ldquo;New tiles cannot be placed off of the Ghosts of Creuss home system, the Crimson Rebellion home system, the Wormhole Nexus, or any Fracture tiles.&rdquo; Covers a different effect.</li>
-        </ul></li>
-    <li>Any units in either system are moved with their system.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Creuss hero swaps two system tiles, do the units move with them?&rdquo;: &ldquo;Yes &mdash; units are on the tile&rsquo;s planets and space area, so they go with it.&rdquo;</li>
         </ul></li>
     </ol>
 
