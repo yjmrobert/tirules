@@ -242,6 +242,7 @@ N No source found.
 E2 RulesPal, "Are there common clarifications for specific objectives …?": "destroying the last ground forces with L1Z1X's Harrow counts for Make an Example, since Harrow is Bombardment."
 @104
 I1 LRR, Objective Cards: "they can only score one objective during or after each combat." Harrow resolves "After each round of ground combat" (L1Z1X faction sheet), so it falls within that combat.
+E5 Designer ruling (05_Compiled_Designer_Rulings_2018-2019.txt:1132): "Harrow’s timing is “After each round of ground combat…”" A ground combat ends only "when only one player or neither player has ground forces on the planet", so Harrow resolves during that combat.
 @105
 N No source found.
 @106
