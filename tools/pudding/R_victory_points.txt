@@ -1,0 +1,6 @@
+@0
+E4 Designer ruling: "If the Xxcha hero gives two players in the lead a Victory Point, and both players now have enough points to win the game, is the order for winning determined from Xxcha player (active player) onwards in initiative, or starting with the lowest initiatve? A: Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is."
+@1
+E2 RulesPal, "In what order are agenda-phase secret objectives scored?": "In speaker order, clockwise; it only matters if several players would win from the points, a tie that also goes clockwise from the speaker."
+@2
+E3 Learn to Play, Support for the Throne: "If you activate a system that contains 1 or more of the blue player's units, or if the blue player is eliminated, lose 1 victory point and return this card to the blue player."

@@ -19,6 +19,9 @@
 
 <h2>Notes</h2>
     <ol class="note">
+    <li>During the action phase, if multiple players gain victory points at the same time, they gain them in <a href="/R_initiative_order">initiative order</a>, starting with the player who has the lowest initiative number, regardless of who the active player is.<sup>4</sup></li>
+    <li>During the agenda phase, if multiple players gain victory points at the same time, they gain them in speaker order, starting with the <a href="/R_speaker">speaker</a> and proceeding clockwise.<sup>2</sup></li>
+    <li>A player can lose victory points. For example, a player who has another player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> promissory note in their play area loses one victory point when it is returned.<sup>3</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
