@@ -10,6 +10,10 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You can make transactions during the Action Phase (restricted by neighbors and player turns) and during the Agenda Phase (freely) but not during the Strategy or Status Phases.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Only when its terms resolve immediately.&rdquo;</li>
         </ul></li>
+    <ol><li>The <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology and the <a href="/F_yssaril">Yssaril</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Breakthrough:~:text=Deepgloom%20Executable"><i>Deepgloom Executable</i></a> breakthrough may allow a transaction at these times.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Related site notes (also *): F_nomad Temporal Command Suite and F_yssaril Deepgloom Executable, &ldquo;may allow &hellip; to perform a transaction at a time they usually could not.&rdquo;</li>
+        </ul></li></ol>
     <li>Relic fragments may be traded. Relics themselves cannot be.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 94.3: &ldquo;Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens.&rdquo; LRR 73.4: &ldquo;Relics cannot be traded.&rdquo;</li>
@@ -29,6 +33,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 94.1: &ldquo;During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.&rdquo; limit is one per neighbor per turn.</li>
         </ul></li>
+        <ol><li>The <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology may allow a second transaction with the same player in one turn.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Nomad&rsquo;s Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite&rsquo;s transaction does not affect performing a second transaction with the same player that turn.&rdquo;</li>
+        </ul></li></ol>
         <li>A player may perform a transaction during combat with their opponent, even if they are neighbors only in the active system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a transaction an action, and when during a turn can it happen?&rdquo;: &ldquo;the active player can make one with each neighbor at any point in their turn, even mid-combat.&rdquo;</li>

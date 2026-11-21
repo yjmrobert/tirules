@@ -11,6 +11,22 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I score objectives if another player controls a planet in my home system?&rdquo;: &ldquo;Not public objectives &mdash; you must control every planet in your home system to score one.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Important: A player cannot score a public objective if they do&rdquo; not control each planet in their home system.</li>
         </ul></li>
+    <ol>
+        <li>A player <a href="/R_coexistence">coexisting</a> on, but not controlling, planets in their home system may still score public objectives.<sup>6,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Scoring Public Objectives Coexisting At Home&rdquo;: &ldquo;Yes, you may score public objectives even if you coexist on but do not outright control each planet in your home system.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a player score public objectives if they coexist in their own home system? A: Yes.&rdquo;</li>
+        </ul></li>
+        <li>During the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Wild%2C%20Wild%20Galaxy"><i>Wild, Wild Galaxy</i></a> galactic event, a player with no planets in their home system may still score public objectives.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Wild, Wild Galaxy: &ldquo;if there are no planets in a player&rsquo;s home system, they still control every planet in their home system and can score public objectives.&rdquo;</li>
+        </ul></li>
+        <li>If the <a href="/F_saar">Saar</a> player&rsquo;s home system is purged by <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic, they may still score public objectives.<sup>6,9</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Silver Flame&rdquo;: &ldquo;Re: saar &hellip; I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Silver Flame: Is Saar affected by the &lsquo;can&rsquo;t score publics&rsquo; clause?&rdquo;: &ldquo;No, Dane has indicated he will make an exception for Saar.&rdquo;</li>
+        </ul></li>
+    </ol>
     <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>

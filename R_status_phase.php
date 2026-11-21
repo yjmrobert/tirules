@@ -26,6 +26,11 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>A player cannot score public objectives if that player does not control each planet in their home system.<sup>1,2,3</sup></li>
+    <ol>
+        <li>A player <a href="/R_coexistence">coexisting</a> on, but not controlling, planets in their home system may still score public objectives.<sup>6,9</sup></li>
+        <li>During the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Wild%2C%20Wild%20Galaxy"><i>Wild, Wild Galaxy</i></a> galactic event, a player with no planets in their home system may still score public objectives.<sup>7</sup></li>
+        <li>If the <a href="/F_saar">Saar</a> player&rsquo;s home system is purged by <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic, they may still score public objectives.<sup>6,9</sup></li>
+    </ol>
     <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.<sup>*</sup></li>
     <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup></li>
     <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>

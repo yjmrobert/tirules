@@ -3,8 +3,16 @@ E1 LRR 61.16: "A player cannot score public objectives if that player does not c
 E2 RulesPal, "Can I score objectives if another player controls a planet in my home system?": "Not public objectives — you must control every planet in your home system to score one."
 E3 Learn to Play: "Important: A player cannot score a public objective if they do" not control each planet in their home system.
 @1
-N No source found.
+E9 Designer Q&A, "Scoring Public Objectives Coexisting At Home": "Yes, you may score public objectives even if you coexist on but do not outright control each planet in your home system."
+E6 Community consensus: "Can a player score public objectives if they coexist in their own home system? A: Yes."
 @2
-I1 LRR 87.3: "A damaged unit cannot use the 'Sustain Damage' ability until it is repaired during the status phase." Status phase repairs all damaged units.
+E7 Thunder's Edge Rulebook p. 16, Wild, Wild Galaxy: "if there are no planets in a player's home system, they still control every planet in their home system and can score public objectives."
 @3
+E9 Designer Q&A, "Silver Flame": "Re: saar … I think my ruling on this would be in the spirit of the mechanics and say that they are unaffected by the negative aspect of the card. [so they can score]"
+E6 Community consensus, "Silver Flame: Is Saar affected by the 'can’t score publics' clause?": "No, Dane has indicated he will make an exception for Saar."
+@4
+N No source found.
+@5
+I1 LRR 87.3: "A damaged unit cannot use the 'Sustain Damage' ability until it is repaired during the status phase." Status phase repairs all damaged units.
+@6
 E2 RulesPal, "If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?": "Initiative order: the player with the lower initiative number resolves first."
