@@ -11,13 +11,13 @@
     <ol class="note">
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.<sup>2</sup></li>
     <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Scanlink_Drone_Network"><i>Scanlink Drone Network</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis"><sc>Terragenesis</sc></a> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.<sup>2</sup></li>
-    <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.<sup>1,4</sup></li>
     <li>The Ul player may place a PDS on a planet that contains two of another player&rsquo;s PDS. They cannot place a PDS on a planet that already contains two of their own PDS.<sup>4</sup></li>
     <li>If the Ul player places a PDS on a planet controlled by another player, and that player has ground forces on that planet, then a ground combat will be resolved during the <b>Invasion</b> step of the tactical action.<sup>*</sup></li>
     <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup></li>
     <li>A sleeper token is not removed when another player gains control of the planet it is on. The Ul player may still replace it using <sc>Awaken</sc>.<sup>2</sup></li>
     <li>If the Ul player retreats into a system containing their sleeper token, <sc>Awaken</sc> is not triggered, as the system is not activated.<sup>2</sup></li>
     <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup></li>
+    <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.<sup>1,4</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Coalescence">Coalescence</a> <sub></sub></h2>
@@ -81,21 +81,21 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When the Ul player would place multiple PDS during a single step, they may resolve a <a href="/R_deploy"><sc>Deploy</sc></a> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup></li>
-    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup></li>
-    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup></li>
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup></li>
+    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup></li>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="/R_construction"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing">Slumberstate Computing</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
+    <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup></li>
     <li>The Ul player does not have to be neighbors with the player that agrees to have a sleeper token placed on their planet.<sup>9</sup></li>
     <li>There is no timing window or other requirement for another player allowing the Ul player to place a sleeper token on a planet they control; it may be included as part of a transaction or deal.<sup>9</sup></li>
     <ol><li>As such, allowing the Ul player to place a sleeper token can be part of a binding deal.<sup>1,9</sup></li></ol>
-    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup></li>
-    <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup></li>
     <li>When another player agrees to allow the Ul player to place a sleeper token, the agreement includes which planet the token will be placed on.<sup>6</sup></li>
+    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

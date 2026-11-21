@@ -26,11 +26,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;a sleeper placed later in that activation, say by Scanlink exploration, can&rsquo;t be awakened then.&rdquo;</li>
         </ul></li>
-    <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.<sup>1,4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
-        </ul></li>
     <li>The Ul player may place a PDS on a planet that contains two of another player&rsquo;s PDS. They cannot place a PDS on a planet that already contains two of their own PDS.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
@@ -54,6 +49,11 @@
     <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Ceasefire only stops movement, so Awaken still works.&rdquo;</li>
+        </ul></li>
+    <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.<sup>1,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -198,10 +198,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup>
+    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: &ldquo;These abilities can only be resolved to place a unit that is in a player&rsquo;s reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         </ul></li>
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup>
         <ul>
@@ -209,10 +209,10 @@
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;which prevents using the DEPLOY ability on a planet with 2 PDS of yours.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo; The Deploy consequence is not stated.</li>
         </ul></li>
-    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup>
+    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: &ldquo;These abilities can only be resolved to place a unit that is in a player&rsquo;s reinforcements.&rdquo;</li>
         </ul></li>
     <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup>
         <ul>
@@ -226,6 +226,11 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing">Slumberstate Computing</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
+    <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;a planet holds at most one.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Slumberstate Computing, limit of Sleeper tokens on another player&rsquo;s planet: &ldquo;Is there a limit to the number of Sleeper tokens that may be placed on another player&rsquo;s planet? A: One per planet&rdquo;</li>
+        </ul></li>
     <li>The Ul player does not have to be neighbors with the player that agrees to have a sleeper token placed on their planet.<sup>9</sup>
         <ul>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Titans Breakthrough&rdquo;: &ldquo;There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players.&rdquo;</li>
@@ -239,18 +244,13 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 28.3: &ldquo;If the terms of a deal can be resolved immediately, it is a binding deal.&rdquo; The sleeper token can be placed immediately, with no timing window.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, Titans Breakthrough: &ldquo;There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players.&rdquo;</li>
         </ul></li></ol>
-    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
-        </ul></li>
-    <li>A planet controlled by another player may contain at most one sleeper token.<sup>2,6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;a planet holds at most one.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Slumberstate Computing, limit of Sleeper tokens on another player&rsquo;s planet: &ldquo;Is there a limit to the number of Sleeper tokens that may be placed on another player&rsquo;s planet? A: One per planet&rdquo;</li>
-        </ul></li>
     <li>When another player agrees to allow the Ul player to place a sleeper token, the agreement includes which planet the token will be placed on.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the agreement to place a Sleeper token require agreeing to a specific planet &hellip;? A: Agreement includes which planet.&rdquo;</li>
+        </ul></li>
+    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
         </ul></li>
     </ol>
 </article>
