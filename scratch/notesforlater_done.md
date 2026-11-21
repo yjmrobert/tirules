@@ -1482,3 +1482,10 @@ ie A non–fighter ship cannot use its Sustain Damage ability to cancel a hit pr
 ## support request/bugreport form that makes github issues
 Commit: 7a894c6 (footer link to a prefilled GitHub issue form; no backend)
 
+
+## check the wiki FAQ for any notes that don't have rulings
+Commit: 1db1d07 (218 wiki FAQ entries checked; F_keleres Overwing Zeta and F_vuilraith Vortex now cite source 4; uncovered entries in scratch/wiki_faq_gaps.md for owner review)
+Deferred: owner request 2026-11-19 ("all everything, deferred"). Site-wide sweep: for every page (factions, components, rules), fetch the matching fandom wiki FAQ section(s). (1) For each site note cited * , check whether the wiki FAQ quotes an official ruling that can be traced to a numbered source, and cite it. (2) List wiki FAQ entries the site doesn't cover, to consider adding. The wiki is not a numbered source; only cite what can be traced to sources 1-15.
+Status 2026-11-21: blocked — the fandom wiki refuses automated fetches (HTTP 402/403). Needs saved pages or pasted FAQ text from the owner.
+Status 2026-11-21 (later): unblocked. 57 pages fetched as wikitext via the MediaWiki API (`api.php?action=parse&prop=wikitext`) into `scratch/wiki/*.json`. 218 FAQ entries extracted to `scratch/wiki_faq.md` / `scratch/wiki_faq.json`. Wiki entries carry no sources (`Source=-`), so each must be traced to sources 1-15 by text. Sweep done 2026-11-21: all 218 entries checked. Two `*` notes gained citations (F_keleres Overwing Zeta, F_vuilraith Vortex, both source 4). Uncovered entries listed in `scratch/wiki_faq_gaps.md` for owner review.
+lets check the wiki faq for any notes that dont have rulings
