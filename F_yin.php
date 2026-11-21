@@ -128,7 +128,7 @@
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.<sup>2,12</sup></li>
     <li>The Yin player may commit infantry to Mallice even if the wormhole nexus has not been flipped to its active side. Doing so will cause the wormhole nexus to flip.<sup>*</sup></li>
-    <li>Only ground combats are resolved on the chosen planets, not the full steps of an invasion.<sup>4</sup></li>
+    <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an <a href="/R_invasion">invasion</a> are resolved on the chosen planets; the <b>Bombardment</b> and <b>Space Cannon Defense</b> steps are not.<sup>4</sup></li>
     <li>The Yin player commits all infantry before resolving any combats.<sup>*</sup></li>
     <ol><li>Only the three infantry from the Yin player&rsquo;s reinforcements may be committed. Ground forces in the space area above the planets cannot be committed.<sup>12</sup></li></ol>
     <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup></li>

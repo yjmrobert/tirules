@@ -337,9 +337,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Only ground combats are resolved on the chosen planets, not the full steps of an invasion.<sup>4</sup>
+    <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an <a href="/R_invasion">invasion</a> are resolved on the chosen planets; the <b>Bombardment</b> and <b>Space Cannon Defense</b> steps are not.<sup>4</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo; The question it answers asks about &ldquo;committing additional ground forces, and using bombardment&rdquo;; committing the 3 infantry and establishing control over planets won are implied by the card text.</li>
         </ul></li>
     <li>The Yin player commits all infantry before resolving any combats.<sup>*</sup>
         <ul>

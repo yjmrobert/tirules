@@ -141,7 +141,7 @@ E12 Codex III: "Commit up to 3 infantry from your reinforcements to any non-home
 @64
 N No source found.
 @65
-E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets."
+E4 Designer ruling: "The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets." The question it answers asks about "committing additional ground forces, and using bombardment"; committing the 3 infantry and establishing control over planets won are implied by the card text.
 @66
 N No source found.
 @67
