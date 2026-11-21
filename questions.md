@@ -3,27 +3,13 @@
 ## Breakthroughs
 - Say a player has one propulsion technology and three biotic technologies, with a propulsion/biotic synergy. Can they score both _Diversify Research_ (treating the propulsion as propulsion and one of the three biotics as propulsion) and _Master the Laws of Physics_ (treating the propulsion as biotic and all three biotics as biotics) during the same status phase?
 
-## Capture
-- A player cannot place (or produce) a unit captured by another player. Can a player place their own captured unit without being explicitly instructed to do so?
-
 ## Coexistence
-- Can a player score public objectives if they coexist in their own home system?
-- Are all players treated as controlling the planets they coexist on when any player attempts to score? In particular, if a player attempts to score _Push Boundaries_, do they count the planets their neighbours are coexisting on when determining who has more planets?
-- Say a player is fighting a ground combat against a planet's owner, and will then fight another player who is coexisting. Who controls the planet after the first ground combat?
-- Pending previous question, if the second combat is a draw, who controls the planet?
-- Are coexisting non-structure units with PRODUCTION blockaded?
-- If the controller of a planet removes all of their units from it, and two or more other players are coexisting, which player gains control of that planet?
-- BOMBARDMENT rolls are made against each player coexisting individually. Does this allow _Plasma Scoring_ etc. to trigger multiple times?
-- Say there are a pair of players controlling/coexisting on a planet, and a third player activates the system. Eventually, this third player uses BOMBARDMENT against the controlling player, killing all their units. Does the coexisting player instantly gain control of the planet? The third player intends to commit ground forces, so this could affect who could play _Reparations_.
-- Pending previous question, if a player using BOMBARDMENT splits up their units' rolls against controlling and coexisting players, do they roll the dice and assign the hits simultaneously, or one player at a time?
-- Can a player score _Stake Your Claim_ by coexisting on a planet in a single planet system?
-- If ground forces are committed into coexistence, can those units be shot at with SPACE CANNON?
-- If so, and should the ground forces be committed to join some pre-existing coexisting ground forces, can the SPACE CANNON shots target only the newly committed ground forces, or can it also target the ground forces that were already there?
+- Say a player fights a ground combat against a planet's owner, and will then fight another player who is coexisting. If the second combat is a draw, who controls the planet?
+- If a player using BOMBARDMENT splits up their units' rolls against controlling and coexisting players, do they roll the dice and assign the hits simultaneously, or one player at a time?
+- If ground forces are committed to join some pre-existing coexisting ground forces, can the SPACE CANNON shots target only the newly committed ground forces, or can it also target the ground forces that were already there?
 - Can coexisting PDS shoot SPACE CANNON at the controlling player's ships in that system?
-- Are coexisting structures destroyed if they are unaccompanied by a ground force?
 - The TE rulebook states "if [the coexisting player] win[s] the ground combat, they cease coexisting and gain control of the planet as normal". Pending previous question, if the controlling player has only structures on the planet, what would the process be, since ground combat requires ground forces, not just structures?
 - Can a structure be placed on a coexisting planet with the **Construction** strategy card?
-- What happens if two players attempt to resolve an ability simultaneously that would make them both coexist on a planet and give control to the other? E.g. Deepwrought RESEARCH TEAMS and Firmament Viper EX-23 mech?
 - Can a player retreat to a system that contains their coexisting ground forces?
 
 ## Combat
@@ -43,47 +29,19 @@
 - If a player resolves an ability in the form of "[mandatorily] gain 1 commodity or convert 1 of your commodities to a trade good", and they are at their commodity limit, can they choose to gain 1 commodity for no effect?
 
 ## Entropic Scar
-- Can Creuss use _Wormhole Generator_ when an entropic scar is present to remove a wormhole token from the game board?
-- The exploration cards that place gamma wormholes are usually purged after they are resolved. If they would place a gamma wormhole in an entropic scar, are these cards purged or discarded?
-- Similar question for the _Ion Storm_ exploration card?
-- What happens to the _Hil Colish_ delta wormhole in the entropic scar?
-- If a player has ships in two different entropic scars, can they spend two tokens to gain both faction technologies during the status phase?
 - Can units be DEPLOY'd to an entropic scar, given that those units would be in a player's reinforcements and not inside of the entropic scar when they would resolve the DEPLOY ability?
 
 ## Expedition
-- What happens in the rare situation that, when Thunder's Edge is due to be placed, every system a) contains planets, b) contains a printed wormhole, c) is a supernova and/or d) is in The Fracture (more likely in a game with fewer players)?
-- Can Thunder's Edge be placed in the system that contains the remains of a _Stellar Converter_'d planet?
 - Can Thunder's Edge be placed in a system containing a space station (and no planet)?
-- Can _Terraform_ be attached to Thunder's Edge (and all that leads to)?
 - Can the Thunder's Edge system be _Nova Seed_'d?
-- When a player claims the last expedition, if they are gaining their Breakthrough, do they roll for The Fracture before or after Thunder's Edge is placed?
 - Should the Thunder's Edge system contain a frontier token, and then that token gets explored and Mirage is found, does anything special happen?
 
 ## The Fracture
-- Are frontier tokens placed in The Fracture when it enters play?
-- What about when the Empyrean hero is purged?
-- Can abilities interact with systems in The Fracture before it enters play (L1Z1X hero, Yin hero, _Creuss IFF_, etc.)?
 - Say the Nekro player is placing ingress tokens. One system contains planets with a red and yellow technology specialty, and another system contains a planet with a yellow technology specialty. There are no other technology specialties of these colours. Can the Nekro player place an ingress token in the first system for its yellow skip, and then place no token for the red skips?
-- Can _Nano-Forge_ and/or _Terraform_ be attached to planets in The Fracture (and all that leads to)?
-- Can systems (with and/or without planets) in The Fracture be _Nova Seed_'d?
-- Are tiles in the regular game map that are touching The Fracture on the edge of the game board?
-- In general, does the choice of which edges of the regular game map to place The Fracture along have any mechanical effect on the game?
-- Can ingress tokens be placed in The Fracture, such as by a late game _Al'raith Ix Ianovar_, or with the Firmament side of _Planesplitter_?
-- Can ingress tokens be moved into a system that already contains a different ingress token, such as by a late game _Al'raith Ix Ianovar_, or with the Firmament side of _Planesplitter_?
-- Is there a minimum number of ingress tokens that can be placed when The Fracture enters play? It's possible for a map to contain zero technology specialty planets that match a breakthrough's colours (or zero of any colour), especially at lower player counts.
-
-## Gravity Rifts
-- Does the limit of "once per ship" apply once per game or once per tactical action?
-- If a player moves a ship through the same gravity rift multiple times in one action, they only get the +1 move once; do they still have to roll the dice multiple times?
-- Are transported units that would be picked up on the far side of a gravity rift lost if the ship with capacity is lost in the gravity rift?
-- What about if the transported units would be picked up from the gravity rift's own system?
 
 ## Neutral Units
-- Does a neutral unit use SUSTAIN DAMAGE as early as possible, or only before that unit itself would be destroyed. For example, if there's a neutral destroyer and dreadnought in a system, and they take one hit, does this destroy the destroyer or damage the dreadnought?
-- The _Thunder's Edge_ rulebook explains how hits are assigned to neutral units during combat. How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)?
 - If an effect would directly destroy a neutral unit (instead of just assigning a hit) from amongst a fleet, such as the _Assault Cannon_ technology, is the destroyed unit chosen by the neutral unit reference card, by the speaker, or by some other mechanism?
 - Can agents be used on neutral units? Specifically, Argent, Bastion, Letnev, Nomad, Obsidian, Rebellion, Sol, Yin?
-- What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed?
 - Does placing a neutral unit in the inactive wormhole nexus cause it to flip to its active side?
 - Can ships be placed, produced and/or moved into systems that contain neutral ships outside of a tactical action?
 - Can players coexist with neutral units?
@@ -95,35 +53,21 @@
 ## PDS
 - LRR63.4 states "if a player’s PDS is ever on a planet that does not contain any of their own ground forces and contains a unit that belongs to another player, that PDS is destroyed". Does committing a ground force to a planet containing an enemy PDS and no enemy ground forces destroy that PDS before the Space Cannon Defense step?
 
-## Planetary Shield
-- If a player has a unit with PLANETARY SHIELD on a planet, can BOMBARDMENT be used against another player there, if that other player does not have PLANETARY SHIELD? This is relevant for coexistence, AWAKEN and _Proxima Targeting VI_ (and maybe more).
-- In particular, if a player has a unit with PLANETARY SHIELD on a planet, does it stop that unit's owner from using BOMBARDMENT against that planet?
-
 ## Space Stations
-- Can _Nano-Forge_ and/or _Terraform_ be attached to a space station?
-- If _Terraform_ is attached, can a space station be explored?
-- If a space station can be explored, what happens if the _Demilitarized Zone_ is found?
-- Can any effect that would commit, place, or produce units on a planet be resolved on a space station (perhaps with the effect of placing those units into the space area instead)?
 - If a player with the _Integrated Economy_ technology gains control of a space station, can they produce units?
 - If a player controls a space station, and no real planets in the same system, can they use **Diplomacy** to lock down that system?
 - Does the Saar player gain a trade good from SCAVENGE when they gain control of a space station?
 - Can Keleres resolve their _Overwing Zeta_ hero ability in a system that contains a space station they control?
-- Do space stations count towards the _Expand Borders_, _Subdue the Galaxy_ or _Push Boundaries_ public objectives?
 - Can space stations be exhausted to pay for the cost of the _Erect a Monument_, _Found a Golden Age_, _Sway the Council_, _Manipulate Galactic Law_, _Amass Wealth_ or _Hold Vast Reserves_ public objectives?
-- Do space stations count for the _Conquer the Weak_ (Revelation only) or _Rule Distant Lands_ public objectives or the _Become a Martyr_ (Revelation only) secret objectives?
 - If a system contains a space station and no real planets, does it count for the _Explore Deep Space_ or _Patrol Vast Territories_ public objectives, and/or the Empyrean agent?
-- Does the resource and influence values of space stations count towards the _Establish Hegemony_ or _Hoard Raw Materials_ secret objectives, and/or the Sol or Xxcha commander unlocks?
-- Does a space station qualify for the _Stake Your Claim_ secret objective (either as the planet controlled by the scoring player or controlled by the other player)?
-- Can Xxcha gain control of a space station with PEACE ACCORDS? Can a player gain control of a space station with _Maxis Central Control_ (Faunus)?
+- Do the resource and influence values of space stations count towards the Sol or Xxcha commander unlocks?
+- Can a player gain control of a space station with _Maxis Central Control_ (Faunus)?
 - If so, can they do so to a space station in a system with another player's ships, causing that space station to be instantly returned, albeit exhausted?
 - Can a space station be chosen by the _Mining Initiative_, _Unstable Planet_, or _Uprising_ action cards?
 - Can a space station be affected by the _Reparations_ or _Tactical Bombardment_ action cards?
 - Can space stations be exhausted to pay for the influence cost of the _Impersonation_ action card?
 - Can a space station be exploded by the _Stellar Converter_ relic?
 - Does controlling a space station give the +1 to _The Egeiro_?
-- Does a player lose control of a space station if a neutral ship is placed in its system?
-- Does a player gain control of a space station before combat against neutral units, as they will be the only real player with units there?
-- Can space stations be used to cast votes during the agenda phase?
 - Do space stations ready at the end of the agenda phase?
 - If so, are space stations prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can a space station be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
@@ -132,16 +76,12 @@
 - Are space stations exhausted by the effect of the _Deadly Plot_ action card?
 - Say there's a space combat in a system that contains a space station, and the attacker wins, but only has fighters remaining (perhaps because of a _Direct Hit_). Does the attacker gain control of the space station before the fighters are removed?
 - Say a situation arises where Arborec has a Letani Warrior on Bellatrix, with another player controlling Tsion Station, but with no ships in the active system. If Arborec were to produce a fighter, would they gain control of Tsion Station before that fighter died from lack of capacity?
-- If a player controls no real planets, but they control a space station, are they able to be eliminated while they control this space station?
 
 ## Technology
 - If a player is performing the primary ability of the _Technology_ strategy card, and they control a planet with a dual technology specialty, can they use half of that technology specialty to ignore a prerequisite on the first technology they research and the other half of that technology specialty on the second technology they research?
 
 ## Transactions
 - Can the active player resolve two transactions simultaneously (if they don't involve the same specific component). E.g. on Player B's turn, if they have at least one trade good already, can they both give a trade good to Player A and get a trade good from Player C, in such a way that it is binding?
-
-## Turns
-- Can a player pass whenever they have an action to perform? In particular, can a player with _Fleet Logistics_ take an action, and then pass the same turn, or can a player only pass at the start of their turn? This might be relevant if a player wishes to pay another player to pass so that they can score _Prove Endurance_, or if a player wishes to resolve a "when you pass" ability sooner.
 
 # Components
 
@@ -152,14 +92,7 @@
 - Can a player with _Psychoarchaeology_ perform the technology specialty expedition without exhausting a planet?
 
 ### X-89 Bacterial Weapon ΩΩ
-- If a player bombards their own planet to target coexisting units, do they exhaust that planet if they have _X-89 Bacterial Weapon ΩΩ_?
 - Can a player use BOMBARDMENT against a space station in order to exhaust it?
-
-### Scanlink Drone Network
-- Say a player in coexistence has _Scanlink Drone Network_. Can they explore a planet they don't control in this manner?
-- If so, can hazardous exploration cards be resolved with another player's mech and/or infantry (for the latter, the exploration cards simply state "... or if you remove 1 infantry from this planet ...")?
-- And can the planet be readied by the coexisting player?
-- Can exploration cards be attached to planets in this manner? In particular, the _Demilitarized Zone_?
 
 ## Action Cards
 
@@ -174,11 +107,9 @@
 - When _Diplomatic Pressure_ is played, can the target player perform a transaction? What if they're trying to buy the use of a _Sabotage_? If so, what if that _Sabotage_ gets cancelled by a Watcher?
 
 ### Exchange Program
-- Does each player propose where the infantry will be placed before either players agree, or do players first agree to have an infantry placed somewhere, sight unseen?
 - What happens if a player (likely Letnev) has zero tokens in their fleet pool?
 
 ### Extreme Duress
-- How does this interact with _Coup D'etat_?
 - Should a player not wish to perform a strategic action, can they perform (or begin performing) the component action of an action card before discarding all of their action cards?
 - If so, can they spend their trade goods to pay a cost on that action card (e.g. _Focused Research_, _Impersonation_, _Mercenary Contract_, _Overrule_, _Pirate Fleet_, _Plagiarize_, or _Strategize_) before giving the other player their trade goods?
 - This would also apply to some other component actions, such as _Deorbit Barrage_, _Enigmatic Device_, _Executive Order_, _Imperial Seal_, _JR-XS455-O_, _Mercenaries for Hire_, _Perfect Synthesis_, _Sling Relay_, _Ultrasonic Emitter_, or Umbat
@@ -189,18 +120,11 @@
 - Pending above, what happens if the active player goes to perform an action card component action, but that action card is cancelled, and instead they perform a strategic action?
 - Can a player resolve a transaction after _Extreme Duress_ is played but before they pay the penalty? For example, to give all their trade goods to a different player, and potentially their action cards, if they're Hacan? What if they're trying to buy the use of a _Sabotage_? If so, what if that _Sabotage_ gets cancelled by a Watcher?
 
-### Hack Election
-- How does _Hack Election_ interact with the Argent ZEAL ability?
-
 ### Lie In Wait
-- Say two players make a deal for one of them to play an action card. Previously, this would have been a binding deal. How does _Lie In Wait_ interact with this?
 - Say two players make a deal for one of them to play an action card. If a third player plays _Lie in Wait_ and finds a _Sabotage_, can they cancel the played action card?
 
 ### Mercenary Contract
-- If the planet becomes neutral, does it get re-explored (or does it re-relic for The Fracture planets) when a player invades later?
-- What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled?
-- Addendum: Would this be affected by a status phase occurring between the returning and the recontrolling?
-- What happens to attachments on a planet if it is neutralised? Does the answer differ for exploration cards, _Terraform_ and/or _Nano-Forge_?
+- When a legendary planet is returned by _Mercenary Contract_ and later recontrolled, is the readied/exhausted status of its legendary planet ability card affected by a status phase occurring in between?
 - If a player chooses the planet with the _Demilitarized Zone_ attached, is that planet returned to the planet card deck independently of the (impossible) placement of the two neutral infantry?
 - Can non-tile planets (Custodia Vigilia, Oceans, _The Triad_) be chosen? If so, what happens when the planet cards for these would be returned to the planet card deck?
 - Can space stations be chosen?
@@ -209,23 +133,13 @@
 - If a player uses _Overrule_ to perform the primary ability of **Trade**, can they replenish other players' commodities by having them perform the secondary ability?
 - If a player uses _Overrule_ to perform the primary ability of **Imperial**, does this trigger the Custodia Vigilia legendary ability?
 
-### Puppets on a String
-- If Yssaril plays this, and has _Transparasteel Plating_, can other players play action cards?
-- Can additional actions be perform with _Fleet Logistics_, _Master Plan_ and/or the Keleres Commander?
-- Can the player perform transactions during their action from _Puppets on a String_?
-- Can the player perform any "start/end of your turn" abilities?
-- Can any "end that player's turn" abilities be resolved during this action?
-- In general, is it the player's turn?
-
 ### Refit Troops
 - You've previously stated that _Refit Troops_ may be played by a player with no mechs in their reinforcements. Do they still remove at least one infantry if they choose not to place any mechs?
 
 ### Reparations
-- If a player has only readied planets, and their opponent has only exhausted planets, can they play _Reparations_ for no effect (other than discarding _Reparations_)?
 - If a player abandons a planet, and so loses control to a player coexisting there, can that player play _Reparations_?
 
 ### Rescue
-- If the ship is in a gravity rift, does it roll for it?
 - Can the incoming ship move any distance, or is it limited by its move value?
 - Can the incoming ship transport units from systems along the way, or only from its origin system?
 
@@ -244,13 +158,6 @@
 
 ## Legendary Planets
 
-### The Galactic Council - Mecatol Rex
-- Can a player discard a scored secret objective?
-
-### Jupiter Brain - Thunder's Edge
-- A previous ruling has stated that if an effect ends a player's turn, they may still use "at the end of your turn" abilities. Can they use _Jupiter Brain_ in this manner to perform an additional action?
-- A previous ruling has stated that a player may resolve "at the end of your turn" abilities on the turn they pass. Can a player use _Jupiter Brain_ on the turn they pass?
-
 ### The Acropolis - Emelpar
 - If _The Acropolis_ is used to ready a different ability that also has the "at the end of your turn" timing window, can that ability be resolved twice in one turn?
 - Do the "at the end of your turn" and "when you pass" timing windows overlap?
@@ -261,14 +168,8 @@
 
 ## Agendas
 
-### Compensated Disarmament
-- If there are coexisting units on the elected planet, does the controller get trade goods from those units (even though those units belonged to a different player)?
-
 ### Core Mining
 - If a player is coexisting on the planet elected by _Core Mining_, how is the destroyed infantry chosen?
-
-### Enforced Travel Ban
-- The "For" of _Enforced Travel Ban_ is "alpha and beta wormholes have no effect during movement". Does this disable SLIPSTREAM in alpha/beta wormhole systems ("during your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole")?
 
 ### Swords to Plowshares
 - For the "For" of _Swords to Plowshares_, are coexisting infantry killed by default?
@@ -277,21 +178,16 @@
 ## Events
 
 ### Age of Commerce
-- Does _Dark Pact_ trigger if the Empyrean player gets `exactly` the giving player's commodity value, or `at least` this value?
-- Does _Trade Agreement_ steal all of the target player's commodities, or only their printed commodity value?
-- What about the Vuil'raith agent?
+- Does the Vuil'raith agent use all of the target player's commodities, or only their printed commodity value?
 - What about _Salvage_?
 
 ### Age of Exploration
 - The Creuss Gate isn't a home system. Can new tiles be placed adjacent to it in Age of Exploration because of this?
 - What happens when using the 5p hyperlane map with Age of Exploration? Hyperlanes removed the asymmetry from the base game "give some players starting trade goods depending on where they sit" 5p setup, but in Age of Exploration, the asymmetry seems to return. Taking the PoK Five Player map as an example, you can't physically place a tile so that it touches both tile 80 and tile 63, which puts the two players at the top of the map at a disadvantage.
-- Does The Fracture block new tile placement?
 - If a player chooses a system with a wormhole, and draws a system with the same type of wormhole, can they place it touching any two tiles, and still meet the adjacency requirement?
 
 ### Age of Fighters
 - "Fighters cannot transport other fighters" - is this intended to apply only during movement, or does it affect the fighters' use of capacity at all times?
-- Does Vuil'raith still capture ships they destroy?
-- If so, are these ships purged or returned when they are spent (or blockaded)?
 - If they are purged, are ships captured by The Stillness of Stars or Vortex also purged when spent?
 - If a player builds a space dock under fighters that are using fleet pool, would this force the fighters out of fleet pool, thereby removing their capacity value?
 - Does the Creuss commander add fighters when the Creuss player moves fighters through wormholes?
@@ -326,11 +222,8 @@
 - How is _Hack Election_ resolved?
 
 ### Minor Factions
-- If you get dealt Keleres as a Minor Faction, how do you choose which home system to use? What if somebody else that's placing after you has that faction as their minor faction?
 - If you get dealt the Firmament/Obsidian as a Minor Faction, do you use the Firmament or the Obsidian home system and commander?
 - Are the reference cards dealt face up or face down when setting up?
-- Say a player gains control of both planets in a two-planet minor home system, gaining the commander ability. Then, two other players come in, and take one planet each. The player with the commander ability now controls zero planets in that minor home system. Do they keep the commander ability?
-- Similarly, does a player keep the commander ability of a minor system that has been _Nova Seed_'d?
 - If Bastion is a minor faction, does a player have to control both Ordinian and Revelation to gain their alliance ability, or just Ordinian?
 
 ### Monument to the Ages
@@ -343,7 +236,6 @@
 - If both _Rapid Mobilization_ and _Dangerous Wilds_ are in play, what happens when a player places one of their infantry (from _Rapid Mobilization_) onto a hazardous planet that contains neutral infantry (from _Dangerous Wilds_)?
 
 ### Total War
-- Does a player place commodities in their home system for destroying neutral units?
 - If a player resolves an effect that has their opponent choose a unit to destroy without producing a hit (such as the _Courageous to the End_ action card), does that player place commodities in their home system for the destroyed unit?
 - Does the Argent player place commodities in their home system for both the infantry and fighter that they destroy when they roll a 9 or 10 with their Strike Wing Alpha II ability?
 - If a player moves units into the Rebellion player's home system, does the Rebellion player place commodities in their home system?
@@ -370,7 +262,6 @@
 ## Relics
 
 ### The Book of Latvinia
-- Can a tier one (_Gravity Drive_ etc.) technology be researched when drawing the _Book of Latvinia_ by ignoring the prerequisite with a technology specialty, ANALYTICAL, etc.?
 - Can a player use a synergy ability to gain the victory point with the _Book of Latvinia_?
 
 ### The Crown of Emphidia
@@ -383,44 +274,24 @@
 ### Lightrail Ordnance
 - How does _Lightrail Ordnance_ interact with the _Experimental Battlestation_ action card?
 
-### Metali Void Armaments
-- Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll, since it isn't a unit performing the roll?
-
 ### Metali Void Shielding
-- Say Nekro has _Metali Void Shielding_, and has infantry participating in space combat as though they were ships. Can they be damaged?
-- If so, how would a player indicate a damaged infantry token?
+- If Nekro's infantry participating in space combat are damaged through _Metali Void Shielding_, how would a player indicate a damaged infantry token?
 
 ### Neuraloop
-- What happens to the discarded objective? Is it shuffled into its deck?
-- If so, can it be redrawn if that particular deck is chosen to draw the replacement from?
 - Does the difference in wording between _Neuraloop_ and _Classified Document Leaks_ imply any mechanical difference in their effects on secret objectives?
-- If _Neuraloop_ flips a secret objective, is it still a secret objective for game effects?
 
 ### The Silver Flame
-- Can a player score _Become a Martyr_ when they purge their home system?
-- Is Saar affected by the "can't score publics" clause?
-- Does The Fracture enter play if a 10 is rolled i.e. is that clause enacted unconditionally, or only in the 1-9 branch?
 - If the Firmament player purges their home system, do they put the Obsidian home system into play when they resolve PUPPETS OF THE BLADE and consequently THE BLADE'S ORCHESTRA?
 - The Muaat player's _Nova Seed_ hero ability instructs them to purge the planet cards of the target system; _The Silver Flame_ has no such instruction. When _The Silver Flame_ purges a home system, does this also purge the associated planet cards?
 - If a player has fighters and/or infantry in their home system before they purge it, are they required to purge their plastic units, or can they replace all their plastic with cardboard tokens?
 
 ### The Triad
 - Is _The Triad_ gained readied or exhausted?
-- Can _The Triad_ be used to cast votes during the agenda phase?
 - Does _The Triad_ ready at the end of the agenda phase?
 - If so, is _The Triad_ prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can _The Triad_ be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
-- Is _The Triad_ exhausted by the effect of the _Maw of Worlds_ relic?
 - Is _The Triad_ exhausted by the effect of the _Deadly Plot_ action card?
-- Can _Nano-Forge_ and/or _Terraform_ be attached to _The Triad_?
-- If _Terraform_ is attached, can _The Triad_ be explored?
-- Can any effect that would commit, place, or produce units on a planet be resolved on _The Triad_?
-- Does _The Triad_ count towards the _Push Boundaries_ public objective?
-- Does the resource and influence values of _The Triad_ count towards the _Establish Hegemony_ or _Hoard Raw Materials_ secret objectives, and/or the Sol or Xxcha commander unlocks?
-- Does Saar gain a trade good from SCAVENGE when they gain _The Triad_?
-- Can the Triad be chosen by the _Mining Initiative_, _Unstable Planet_ (with _Terraform_), or _Uprising_ action cards?
-- Can _The Triad_ be affected by the _Reparations_ action card?
-- Does an unknown relic fragment count as a fragment of its own type, or only as one of the other three types?
+- Do the resource and influence values of _The Triad_ count towards the Sol or Xxcha commander unlocks?
 - Alternatively, if a player has multiple unknown relic fragments, can they declare that they are fragment types that don't usually exist for an additional boost ("here is my fuchsia relic fragment, and my lavender relic fragment, and my burnt umber relic fragment...")?
 
 ## Strategy Cards
@@ -443,19 +314,10 @@
 - If so, does the ships move value matter?
 - Can units be moved to/from a system that had a command token placed in it during an earlier action?
 - If ground forces are moved, are they required to remain in the space area of their destination system?
-- Can Argent move ships into systems that contain another player's ships?
 
 ## Last Bastion
 
-### Liberate (Ability)
-- Say the Bastion player explores the planet and finds a resource attachment. Could this prevent them from readying the planet?
-- What about removing an infantry from a hazardous explore?
-- Could _Mercenary Outfit_ enable readying the planet?
-
 ### Galvanize (Ability)
-- What happens if the Bastion player runs out of galvanize tokens, and needs to galvanize more units? Can they move galvanize tokens from under their own units? Can they move galvanize tokens from under another player's units?
-- Is the extra dice mandatory?
-- What happens to other players' galvanized units if the Bastion player is eliminated?
 - If a player's space dock is galvanized, will they roll an extra SPACE CANNON dice if they play _Experimental Battlestation_, or own the _Lightrail Ordnance_ relic?
 - Can a neutral unit be galvanized?
 - If the Yin player uses INDOCTRINATION on a galvanized unit, is the replaced infantry galvanized?
@@ -468,8 +330,6 @@
 - Say the Yin player uses INDOCTRINATION on their opponent's only ground force, winning the combat without any combat rolls. Can they then use _Raise the Standard_ to galvanize their new ground force? Can they use _Raise the Standard_ to galvanize any of their existing ground forces?
 
 ### Proxima Targeting VI (Technology)
-- Can the Bastion player apply abilities such as _Plasma Scoring_/Argent commander or Jol-Nar commander to the BOMBARDMENT roll?
-- Does the Bastion player cancel BOMBARDMENT hits if another player has galvanized units present?
 - Does PLANETARY SHIELD prevent _Proxima Targeting VI_ from being used, given that there is no unit using BOMBARDMENT?
 - Say many BOMBARDMENT hits are produced against the Bastion player, and they have a galvanized mech present. Can they kill the mech, galvanize some infantry, and then cancel some of the remaining BOMBARDMENT hits because of those newly galvanized units present?
 
@@ -492,43 +352,24 @@
 ## The Ghosts of Creuss
 
 ###  Wormhole Generator (Technology)
-- Can wormholes be placed in The Fracture? Also applies to placing wormholes with _Creuss IFF_.
-- Do neutral ships block wormhole placement?
-- Followup: If Creuss wormholes are banned in The Fracture, can the _Hil Colish_ move into The Fracture?
-
-### Particle Synthesis (Breakthrough)
-- If there are multiple wormholes of the same type, do they each count?
 
 ## The Deepwrought Scholarate
 
 ### Research Team (Ability)
 - RESEARCH TEAM triggers during the **Commit Ground Forces** substep of invasion, and will inevitable skip the **Ground Combat** and **Establish Control** substeps; is the **Space Cannon Defense** step also skipped?
-- Say Deepwrought controls a planet, with another player coexisting. A third player commits ground forces, and Deepwrought goes into coexistence. Who gains control of the planet?
-- Additionally, can the invading player resolve a combat with the other coexisting player?
 
 ### Oceanbound (Ability)
-- If the Deepwrought player has all their oceans out, can they still resolve Oceanbound if they start another coexistence, so as to ready one of their oceans?
-- What do Ocean cards do?
-- Can Ocean cards be spent like planets for resources and influence?
-- Can Ocean cards be used to cast votes during the agenda phase?
 - Do Ocean cards ready at the end of the agenda phase?
 - If so, are Ocean cards prevented from readying by the "Against" effect of _Checks and Balances_?
 - Can Ocean cards be chosen for the "Against" effect of _Anti-Intellectual Revolution_?
 - Are Ocean cards exhausted by the effect of the _Maw of Worlds_ relic?
 - Are Ocean cards exhausted by the effect of the _Deadly Plot_ action card?
-- Can _Nano-Forge_ and/or _Terraform_ be attached to an Ocean card?
-- If _Terraform_ is attached, can an Ocean card be explored?
-- If so, what happens to attachments if an Ocean card is discarded?
 - Can any effect that would commit, place, or produce units on a planet be resolved on an Ocean card?
-- Do Ocean cards count towards the _Push Boundaries_ public objective?
-- Does the resource and influence values of Ocean cards count towards the _Establish Hegemony_ or _Hoard Raw Materials_ secret objectives?
 - Can an Ocean card be chosen by the _Mining Initiative_, _Unstable Planet_ (with _Terraform_), or _Uprising_ action cards?
 - Can an Ocean card be affected by the _Reparations_ action card?
 - If a player decides to fight to end a coexistence, does the coexistence end before or after the combat? This could affect the _Reveal Prototype_ action card, should Deepwrought wish to spend an Ocean card to pay for it.
 
 ### Share Knowledge (Promissory Note)
-- What happens if the Deepwrought player is eliminated while _Share Knowledge_ is in play? Is the promissory note immediately purged, causing the return clause not to trigger during the status phase?
-- What happens if the Deepwrought player names the technology that is on _Share Knowledge_ when using their hero? A strict reading would be that the player with _Share Knowledge_ immediately researches another technology which they'd keep permanently, then unpurges the named technology and returns it to their technology deck during the status phase.
 - Can Jol-Nar return the technology that is on _Share Knowledge_ when they resolve their hero? If so, what happens in the subsequent status phase?
 - Can Mahact purge the technology that is on _Share Knowledge_ when they resolve their breakthrough? If so, what happens in the subsequent status phase?
 
@@ -540,13 +381,9 @@
 - If _Hydrothermal Mining_ is gained at the start of the status phase (e.g. by _Radical Advancement_ or Entropic Scar), does it provide the trade goods immediately?
 
 ### D.W.S. Luminous (Flagship)
-- How does this interact with _Aerie Hololattice_? Does priority go to the "cannot" on _Aerie Hololattice_?
 - If the D.W.S. Luminous moves through the same system multiple times, which contains the Deepwrought player's units, does it get the +1 to move once, or multiple times?
 
 ### Doctor Carrina (Agent)
-- Can the target player choose to ignore a prerequisite on the technology that they are researching even if they own enough technologies to meet all of the prerequisites on the researched technology?
-- Can the target player choose to ignore a prerequisite on a tier zero technology?
-- Is it possible in any way, shape, or form for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina?
 - Can the infantry be placed on a planet that contains none of the target player's units?
 - If not, can Doctor Carrina be resolved on a player with no units on planets outside of their home system (which could easily happen to some players in round one should **Technology** pop sufficiently early)?
 - If the Deepwrought player agrees to place the infantry on a specific planet before Doctor Carrina is exhausted, is that deal binding?
@@ -561,10 +398,6 @@
 ## The Empyrean
 
 ### Void Tether (Breakthrough)
-- If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent?
-- Does the QUANTUM ENTANGLEMENT neighbours ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they mandatorily neighbours and vice versa with a player on the other side?
-- If one side is an anomaly, and another player activates the other side, can _Aetherstream_ be used? This is especially relevant if Nekro is copying _Aetherstream_, and Empyrean is enforcing the Void Tether.
-- What happens to the Void Tether tokens if the Empyrean player is eliminated?
 - What happens to a Void Tether token if the Creuss player chooses one of the bordering systems to move about with their _Singularity Reactor_ hero ability?
 
 ## The Firmament & The Obsidian
@@ -574,13 +407,10 @@
 - Lemma: is the Firmament player locked out of scoring other players' status phase secret objectives in round one if they take **Leadership** (barring Naalu)?
 - Can the Firmament player "score" multiple secret objectives during/after one combat?
 - When placing a plot card after "scoring" a secret objective, did that plot card have to be in the Firmament player's hand, or can they place a plot card that was already in their play area (to place a second control token on it)?
-- What happens to a plot card if the player whose control token on it is eliminated?
-- If the Firmament player has "scored" as secret objective, and then that objective is elected by _Classified Document Leaks_, are they locked out of scoring it for victory points?
 - Do the "scored" secret objectives count towards the Firmament/Obsidian player unlocking their heroes?
 - Can the Firmament player come to a binding agreement with another player to place that player's control token on a specific plot card?
 
 ### Puppets of the Blade (Firmament Ability)
-- When The Firmament player purges their home planet cards, do they qualify for _Become A Martyr_?
 - When The Obsidian player gains their home planet cards, do they trigger any "when/after you gain control of a planet" abilities, such as the _Integrated Economy_ technology?
 - Does _Black Ops_ get purged if it is in another player's hand when PUPPETS OF THE BLADE is resolved?
 - When PUPPETS OF THE BLADE says "gain all of the faction components for The Obsidian", does that mean that the Obsidian player gains all their command tokens onto their command sheet?
@@ -591,33 +421,19 @@
 - Does it mean reflipping the home system?
 - Does it mean flipping their command and control tokens?
 
-### Malevolency (Obsidian Promissory Note)
-- Does this go into the receiver's play area? If not, is it mandatory if it's in your hand at the end of the status phase?
-
 ### Planesplitter (Firmament/Obsidian Technology)
 - Abilities that place The Fracture into play usually have the caveat "if it is not in play already"; _Planesplitter_ does not. Does this have any mechanical effect (e.g. redistributing the ingress tokens, or readding the neutral units)?
-- Does the Obsidian player get to move an ingress token before other players have the chance to play _Coup D'etat_?
 - If the Obsidian player directly gains _Planesplitter_ (i.e. did not own it as the Firmament), and The Fracture is not in play, does the technology have any effect?
 
 ### Myru Vos/Vos Hollow (Firmament/Obsidian Agent)
-- Myru Vos says "if they are not transporting units...". Does this mean that all moving ships cannot be transporting for any of them to pass through other players' ships, or does this mean that the subset of ships that are not transporting can pass through?
 - Can Vos Hollow be used to score _Destroy their Greatest Ship_ in a flagship v flagship combat that doesn't involve the Obsidian player?
 - What order do players assign hits to their units during space combat? E.g. say one player has a destroyer and a dreadnought, while the other player has a destroyer and a damaged war sun, and both players have produced one hit. Could the first player assign the hit to the destroyer, killing it, and use Vos Hollow to force their opponent to assign the hit to their own destroyer, forcing the remaining hit to be assigned to the war sun? If so, are there any conditions for this e.g. attacker priority?
 
 ### Captain Aroz/Aroz Hollow (Firmament/Obsidian Commander)
-- If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with that planet?
-- Can the Firmament player score _Stake Your Claim_ by having ships in a system containing a single planet controlled by another player?
 - If the Firmament player actually controls a planet, and also has ships in its system, do they count as controlling that planet twice?
-- When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability (Yin breakthrough, _Mercenaries for Hire_ event), do their get the Firmament or Obsidian ability, or both, or each has its own card?
 
 ### Sharsiss/Sharsiss Hollow - The Blade Beckons/The Blade Revealed (Firmament/Obsidian Hero)
 - When resolving the first sentence of _The Blade Beckons_, is the plot card placed face up or face down?
-
-### Viper EX-23 (Firmament Mech)
-- The timing window is "when ground forces are committed to `this planet`...". Does the mech need to be on the planet before units are committed for this ability to trigger i.e. can the Firmament player only trigger this ability when they are a non-active player?
-
-### The Reaping (Obsidian Breakthrough)
-- During the status phase, would PILLAGE be triggered once or twice?
 
 ### Extract (Plot)
 - Does _Extract_ trigger from effects that "replace" a player's technology (Jol-Nar hero, Deepwrought technology)?
@@ -630,22 +446,13 @@
 ## The Emirates of Hacan
 
 ### Pride of Kenara (Mech)
-- If Hacan controls a planet with a mech, and another player is coexisting there, what happens when Hacan transacts it away, especially given that the player who they're transacting it to likely won't have units on that planet?
 - Can Hacan transact away a planet where their mech is coexisting?
 - Can the controller of a planet where Hacan has a mech coexisting transact it away?
-
-### Auto-Factories (Breakthrough)
-- Can the new fleet token be used to support the newly placed ship?
-- Do the ships have to survive fleet pool limits to trigger the new token?
 
 ## The Universities of Jol-Nar
 
 ### Rin, The Master's Legacy - Genetic Memory (Hero)
 - Can the Jol-Nar player use their breakthrough when resolving _Genetic Memory_ to replace a cybernetic technology with a biotic technology, or vice versa?
-
-### Specialised Compounds (Breakthrough)
-- Can Jol-Nar use the synergy to exhaust a yellow skip planet to pay for researching a green technology, or vice versa?
-- Can Jol-Nar use _Psychoarchaeology_ to bypass exhausting the technology specialty when using _Specialised Compounds_?
 
 ## The Council Keleres
 
@@ -654,17 +461,11 @@
 
 ### Executive Order (Technology)
 - Is there a functional difference between "drawing" and agenda card and "revealing" it?
-- Does "immediately vote" mean that Riders, QUASH, _Political Secrets_ etc. are skipped?
-- How are "this agenda phase" or "next strategy phase" abilities resolved?
-- _Representative Government_ says players get straight up one vote during the agenda phase. Would players get just one vote when resolving _Executive Order_ (during the action phase), should _Representative Government_ be in play?
 - _Executive Order_ doesn't describe the extra votes as "additional votes". Pending previous question, can Keleres spend trade goods and resources for more votes when _Representative Government_ is in play.
-- For _Classified Document Leaks_, _Judicial Abolishment_, _Miscount Disclosed_, or _New Constitution_, if the conditions aren't met, does the Keleres player draw a replacement agenda?
-- If so, and the original agenda was drawn from the bottom of the deck, is the replacement agenda drawn from the top or bottom?
-- Similarly, could you speak on how _Miscount Disclosed_ should work after electing a law?
-- Additionally, for _Covert Legislation_, is the hidden agenda drawn from the top or bottom?
+- If the Keleres player must draw a replacement agenda, and the original agenda was drawn from the bottom of the deck, is the replacement agenda drawn from the top or bottom?
+- For _Covert Legislation_, is the hidden agenda drawn from the top or bottom?
 - Also for _Covert Legislation_, is it Keleres that reads the agenda and announces the possible outcomes, instead of the player with the speaker token?
 - Furthermore, if an agenda is _Veto_'d, is the replacement agenda drawn from the top or bottom?
-- Does the Argent player's ZEAL ability trigger, since it's not the agenda phase?
 - Does the Nekro player get to predict an outcome with GALACTIC THREAT, since it's not the agenda phase?
 - Does the Nomad player get their FUTURE SIGHT money, since it's not the agenda phase?
 - Can _Predictive Intelligence_ be used for additional votes, since it's not the agenda phase?
@@ -675,26 +476,6 @@
 - How does _Executive Order_ interact with the _Hidden Agenda_ event?
 - How does _Executive Order_ interact with the _Stellar Atomics_ event, since it's not the agenda phase?
 - If Nekro copies _Executive Order_, can they vote with resources/trade goods?
-
-## The L1Z1X Mindnet
-
-### Assimilate (Ability)
-- If L1Z1X gains control of a planet, do they use ASSIMILATE on any coexisting structures of players that they didn't fight?
-- If L1Z1X gains control of a planet, do they use ASSIMILATE on any coexisting structures of players that they fight and win against?
-
-### Fealty Uplink (Breakthrough)
-- Is _Fealty Uplink_ resolved before or after exploration (or does the player get to choose the order)?
-
-## The Barony of Letnev
-
-### Gravleash Maneuvers (Breakthrough)
-- Is "before you roll dice" literal i.e. does it apply to AFB rolls?
-- What about the Gen Synthesis roll of infantry II killed by Strike Wing Alphas?
-- Additionally, if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus?
-- If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? This may be particularly pertinent if the original ship was destroyed by _The Crown of Thalnos_.
-- Can a fast ship have its movement boosted with _Gravity Drive_, and then have this modified value copied to a slow ship?
-- Conversely, can a slow ship copy a value, then get the +1 from _Gravity Drive_? This could be relevant for a ship with capacity taking a longer path to pick up some units.
-- How about gravity rifts?
 
 ## The Mahact Gene-Sorcerers
 
@@ -715,48 +496,25 @@
 ### Ipswitch, Loose Cannon - Sleeper Cell (Hero)
 - Say the Mentak player is fighting a combat against the Obsidian player. The Mentak player has their _Sleeper Cell_ hero ability active, with one or more cruisers in the active system but none in reinforcements. The Obsidian player also has one or more cruisers, one of which is destroyed by a combat hit. They then use their Vos Hollow agent in response, forcing the Mentak player to destroy one of their own cruisers, placing it in their reinforcements. Can the Mentak player then place this cruiser into the active system due to the effect of _Sleeper Cell_?
 
-### Corsair (Breakthrough Unit)
-- Can Nekro copy Corsair from Mentak?
-- If not, can they copy Cruiser II while it's under Corsair?
-
 ## The Embers of Muaat
 
-### Adjudicator Ba'al - Nova Seed (Hero)
-- Can Muaat use _Nova Seed_ on a tile in The Fracture?
-
 ### Stellar Genesis (Breakthrough)
-- If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units?
 - If Avernus is being towed, and it has ground forces on it, which system would a Muaat carrier have to move through to pick up some of those ground forces? The origin system, the destination system, either, or both?
-- What happens if Avernus is moved through a gravity rift? Does it need to roll?
 - Does anything happen if the war sun towing Avernus is lost to a gravity rift before reaching the active system?
 - Does anything happen if the war sun that would start towing Avernus is lost to a gravity rift before reaching the system that contains Avernus?
-- What happens to Avernus if Muaat is eliminated?
-- What happens to Avernus if its system is _Nova Seed_'d?
-- Can Avernus be towed from a system containing the Muaat player's command token?
 - Where is Avernus placed if the Muaat player controls no planets when they gain _Stellar Genesis_?
 
 ## The Naalu Collective
 
 ### Z’eu Ω (Agent)
 - If Naalu uses Z’eu Ω on another player, who can perform transactions during that action?
-- Yssaril has _Transparasteel Plating_, and uses Clever Clever Z’eu Ω and chooses a passed player. Can that player play action cards during this action?
-- Similarly, if Naalu uses Z’eu Ω and chooses Yssaril, can passed players play action cards during this action?
 
 ## The Naaz-Rokha Alliance
 
-### Z-Grav Eidolon (Mech)
-- Is flipping to a Z-Grav Eidolon a (mandatory) activated ability, or does it "just happen"? If NRA has mechs in the space area, and another player with _Assault Cannon_ attacks them, the attacker gets to resolve an ability first. If flipping is an activated ability, then NRA couldn't kill a mech for _Assault Cannon_, but if it "just happens", they could.
-
 ### Eidolon Maximum (Breakthrough Unit)
-- Does the Eidolon Maximum participate in space combat when it is on a planet?
-- If so, and the Naaz-Rokha player has all four of their mechs in a system, can they combine them into the Eidolon Maximum during a space combat they are fighting in that system?
+- If the Naaz-Rokha player has all four of their mechs in a system, can they combine them into the Eidolon Maximum during a space combat they are fighting in that system?
 - If so, can they combine them into the Eidolon Maximum during a space combat between two other players in that system?
-- Does the Eidolon Maximum block other player's ship movement through the system?
-- Can the Eidolon Maximum count towards ship objectives?
-- Can the Eidolon Maximum blockade space docks?
 - Is the Eidolon Maximum forced to move from Benediction?
-- In general, is the Eidolon Maximum treated as a ship when on a planet?
-- Can additional Eidolons Maximums be placed when the _Articles of War_ law is in play?
 - Does the Eidolon Maximum card get removed and flipped back when the mech is destroyed if _Articles of War_ law is in play?
 - The Eidolon Maximum card does not have a cost printed on the card; can it be removed with the _Scuttle_ action card, and if so, how many trade goods does the Naaz-Rokha player gain for doing so?
 - If one basic Eidolon is galvanized, and then the four mechs are combined, is the Eidolon Maximum galvanized?
@@ -765,16 +523,10 @@
 
 ## The Nekro Virus
 
-### Technological Singularity (Ability)
-- Say Nekro has _Dimensional Splicer_, and in the "start of combat" window, they splice a ship and gain _Assault Cannon_. Can Nekro immediately use _Assault Cannon_?
-
 ### Valefar Assimilator Z (Breakthrough)
-- _Heaven's Eye_ specifies "... 1 of `your` plots ...". Does Nekro gain a benefit from copying this?
-- If there is a Valefar Z token on the Firmament player's faction sheet, what happens to this token when that faction sheet is purged to become the Obsidian?
 - Does copying the _Son of Ragh_, the _Loncarra Ssodu_, the _Ouranos_ or the _Heaven's Hollow_ do anything?
 - If so, for the _Ouranos_, would Nekro also gain the COALESCENCE faction ability?
 - If there is a Valefar Assimilator Z token on the Vuil'raith faction sheet, and both _The Alastor_ and _The Terror Between_ are in the same system, who captures units when they're destroyed?
-- What happens to a Valefar Assimilator Z token on a faction sheet when a player is eliminated?
 - Why do you hate Creuss so much?
 
 ## The Nomad
@@ -792,7 +544,6 @@
 
 ### Miniaturization
 - How literal is the word "any" in MINIATURIZATION? In particular, can the Ral Nel player's structures be transported by other players?
-- Could you clarify what happens to Ral Nel structures in the space area should they no longer have ships there (either by losing a space combat, or by moving the ships out in a later tactical action)?
 - Can transported space docks still support fighters above capacity?
 - If so, are they able to transport fighters in this manner?
 - If the Ral Nel player owns the _Magen Defense Grid_ technology, and they activate a system containing their structures in the space area, do they place infantry in that system's space area?
@@ -805,113 +556,56 @@
 - If the Ul player moves a PDS, can they remove it and DEPLOY a mech plus infantry?
 
 ### Linkship (Unit)
-- If the Ral Nel player has the PDS II unit upgrade, can their Linkships' SPACE CANNON be used to target ships in adjacent systems?
 - When transporting a PDS, which unit needs to be galvanized to allow the Ral Nel player to roll an additional SPACE CANNON dice; the Linkship or the PDS?
-- Can Ral Nel play _Experimental Battlestation_ if they have a space dock being transported, in order to give their Linkship(s) in that system SPACE CANNON 5 (x3)?
 
 ### Last Dispatch (Flagship)
 - Can the _Last Dispatch_ destroy a Ral Nel ship?
 - What happens if the _Last Dispatch_ kills the final ship of the Ral Nel player's opponent? Does the retreat still happen? Who wins the combat (or is it a draw)?
 
 ### Kan Kip Rel (Agent)
-- How would this resolve if the Ral Nel player would go over their action card hand limit?
 - If the Ral Nel player gives the action card to Yssaril, does this trigger SCHEMING?
-- How does this resolve if the Yssaril player copies this agent, with regards to SCHEMING, as they would start off by drawing three action cards?
 
 ### Watchful Ojz (Commander)
-- How does Watchful Ojz interact with the _Intercept_ action card, especially if the Ral Nel player is first to resolve an ability?
 - Does the Ral-Nel player have to move the two ships immediately from Watchful Ojz and the remainder of their ships from the regular retreat at the end of the round to the same system?
 - Watchful Ojz uses "retreat" instead of "move" for the two ships. Does the target system need to meet the normal requirements for retreating (containing the Ral-Nel players ships or a planet they control, unless they have _Dark Energy Tap_)?
 - If not, and the Ral-Nel player has no valid systems to retreat to, but only has one or two ships in the active system, can they declare a retreat to retreat those one or two ships with Watchful Ojz?
 
-### Director Nel - Signal Intrusion (Hero)
-- Does purging Director Nel block another player from scoring _Prove Endurance_?
-
-### Alarum (Mech)
-- A planet is considered adjacent to the system that it is in. Would this allow an Alarum to pull ground forces from a different planet in the same system?
-- If an Alarum pulls in another Alarum, can that new Alarum immediately pull in additional ground forces?
-
 ### Data Skimmer (Breakthrough)
-- Does _Reverse Engineer_ have priority over _Data Skimmer_?
-- Conversely, can _Reverse Engineer_ be used on the unchosen action cards discarded from _Data Skimmer_ when Ral Nel passes?
+- Can _Reverse Engineer_ be used on the unchosen action cards discarded from _Data Skimmer_ when Ral Nel passes?
 - If so, which player is considered to be discarding the action cards from _Data Skimmer_ (for the purpose of "another player" on _Reverse Engineer_)?
 - Additionally, where does _Reverse Engineer_ get discarded to in this scenario? _Data Skimmer_ or the discard pile?
-- What happens to the action cards on _Data Skimmer_ if the Ral Nel player is eliminated?
 
 ## The Crimson Rebellion
 
 ### Sundered (Ability)
-- What does "cannot use wormholes" mean?
-- Can they place a breach with an Exile through a wormhole?
-- Are they neighbours with other players through a wormhole?
-- Can they score _Become the Gatekeeper_?
-- If there is a wormhole on Mecatol Rex, can they score _Intimidate Council_ through it?
-- Can they score _Rule Distant Lands_, _Learn the Secrets of the Cosmos_ and/or _Threaten Enemies_ via the use of wormholes?
-- Can they explode a planet with _Stellar Converter_ through a wormhole?
-- Can they get a technology from _Wormhole Research_?
-- Are they immune from destroying PDS because of _Enforced Travel Ban_?
-- If there is a wormhole on Mecatol Rex, are their units destroyed by _Ixthian Artifact_ through it?
-- Can they shoot PDS II and/or the _Experimental Battlestation_ action card through wormholes?
-- Can they use the _Creuss IFF_?
-- Can they use the Creuss agent or the _Lost Star Charts_ action card?
-- Does _Wormhole Reconstruction_ override SUNDERED?
-- Can they use the _Ghost Ship_ action card?
-- Can they resolve the _Signal Jamming_ or _Exploration Probe_ action cards through a wormhole?
-- Can they distribute ground forces with Trilossa Aun Mirik through a wormhole?
 - Can they commit ground forces with G'hom Sek'kus through a wormhole?
-- Say the Ul player gets a Sleeper token on Ahk Creuxx with their breakthrough. Then, when there are no other units on Ahk Creuxx, they activate it, and place down a PDS or mech and infantry during the activation step. Ordinarily, since this is outside the invasion step, they would instantly gain control of Ahk Creuxx. Would they do so in this case, before SUNDERED is triggered, as they would have priority as the active player?
-- Will SUNDERED still kill units if the Rebellion player is (somehow) eliminated?
-
-### Incursion (Ability)
-- If a system contains multiple breaches during the status phase, how many can be removed in that single status phase?
-- What happens to the breach tokens if the Rebellion player is eliminated?
-
-### Sever (Promissory Note)
-- Does the wormhole still count for other non-movement game effects? E.g. DEEP SPACE CANNON, _Ghost Ship_, _Become the Gatekeeper_, SLIPSTREAM?
-- What takes priority, _Sever_ or QUANTUM ENTANGLEMENT?
-- The box art shows the sever token covering a specific wormhole. If there are multiple wormholes in a system (Nexus, Creuss tokens, etc.), does Severing one block them all?
-- If the Rebellion player is eliminated, what happens to _Sever_ and its token?
-
-### Subatomic Splicer (Technology)
-- "A player cannot produce ships in a system that contains other players’ ships". Does this apply to _Subatomic Splicer_?
 
 ### Exile (Unit)
 - Can the Rebellion player place multiple breaches in the active system (i.e. one breach for each Exile within range)?
 
 ### Quietus (Flagship)
 - How does the _Quietus_ interact with the _Metali Void Shielding_ relic, since the damaged unit does not need SUSTAIN DAMAGE?
-- How does the _Quietus_ interact with the _Metali Void Armaments_ relic, since the ANTI-FIGHTER BARRAGE seemingly doesn't come from a unit?
-- How does the _Quietus_ interact with the _Lightrail Ordnance_ relic, since one passively causes a loss and one passively causes a gain?
-- How does the _Quietus_ interact with the Bastion player's _Proxima Targeting VI_ faction technology, since the BOMBARDMENT seemingly doesn't come from a unit?
-- How does the _Quietus_ interact with the _Experimental Battlestation_ action card, since the space dock just "uses" SPACE CANNON, without "gaining" it?
 - Can units be DEPLOY'd to active breach systems when the _Quietus_ is in such a system, given that those units would be in a player's reinforcements and not in the breach system when they would resolve the DEPLOY ability?
 
 ### Ahk Ravin (Agent)
 - The "transport" rules prohibit transporting units from systems that contain a player's command tokens (other than the active system). Is Ahk Ravin exempted from this?
 - If the Rebellion player swaps two units with capacity, and are choosing not to transport, do they have to resolve capacity between removing the ships and placing them again? E.g. they have a dreadnought and fighter in one system, and a carrier in another. When they swap the dreadnought and carrier, without transporting the fighter, will there be a moment when the fighter is not supported by capacity, removing it?
 
-### Ahk Siever (Commander)
-- Does Ahk Siever trigger from a combat against neutral units?
-
 ### Homesick Phantom - Fragment Reality (Hero)
 - If the Rebellion player places a fighter on Homesick Phantom, are they required to use a plastic fighter, or may they use entirely cardboard fighter tokens?
 - If the Rebellion player wishes to place a ship that is currently on Homesick Phantom onto the game board without triggering the purge (e.g. they wish to produce the ship normally), are they able to do so?
 
 ### Resonance Generator (Breakthrough)
-- Does the Rebellion player make a breakthrough roll for The Fracture during setup?
-- If so, when do they do so?
+- When does the Rebellion player make their breakthrough roll for The Fracture during setup?
 - In particular, will they do this before deciding on their starting technology?
 - Will they do so before the Keleres player decides on their starting technology?
 
 ## The Clan of Saar
 
 ### Floating Factory (Unit)
-- Say there's a combat between Saar and Yssaril. Saar has a dreadnought and floating factory, and Yssaril has a cruiser. Both players produce hits. Saar uses SUSTAIN DAMAGE and Yssaril plays _Direct Hit_, destroying the dreadnought. Before Yssaril assigns the hit to their cruiser, are they blockading the floating factory (destroying it)?
-- Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their floating factory blockaded during this time?
 - If the Saar player controls no planets and has no ground forces, are they eliminated if they move all of their floating factories into entropic scars, stripping them of PRODUCTION?
 
 ### Deorbit Barrage (Breakthrough)
-- Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE?
 - Can the Saar player assign more hits to a unit than are required to destroy it? They may wish to leave one infantry alive on the planet so as to score _Make an Example of Their World_ or some other objective via an easy ground combat at a later point.
 - Can the Saar player use an action to spend zero resources to roll zero dice?
 - Can the Saar player use _Deorbit Barrage_ to target neutral units?
@@ -920,8 +614,6 @@
 
 ### Bellum Gloriosum (Breakthrough)
 - Does _Bellum Gloriosum_ work on non-PRODUCTION producing?
-- Say Sol has PRODUCTION 2, and produces a dreadnought and two infantry. Do they pay five or six resources i.e. do they combine the two infantry to pay one resource, or are they split, paying two?
-- Does the ship have to survive to generate the additional PRODUCTION? Could a Sol player with zero fleet pool just build useless carriers solely to boost their infantry PRODUCTION?
 - Say the Sol player has a space dock on Resculon, and they produce a carrier and many infantry. Are the infantry considered to have been produced by the carrier, which would allow them to be placed on Resculon, Corneeq, or in the space area, or are the infantry considered to have been produced solely by the space dock, meaning that they can only be placed on Resculon?
 
 ## The Titans of Ul
@@ -929,11 +621,6 @@
 ### Awaken (Ability)
 - If the Ul player uses AWAKEN to place a PDS and/or mech plus infantry on a planet containing an enemy PDS, can that PDS shoot at the Ul player's ground forces, or only at units that were committed?
 - One of the more confusing rules situations is when the Ul player wishes to DEPLOY a mech plus infantry when they have all their PDS on the game board, requiring them to pull a PDS from the game board, and leaving it in their reinforcements. Could this ruling be updated to allow DEPLOYing the mech plus infantry without pulling the PDS?
-
-### Slumberstate Computing (Breakthrough)
-- Is there a limit to the number of Sleeper tokens that may be placed on another player's planet?
-- Does the agreement to place a Sleeper token require agreeing to a specific planet, or can the Ul player withhold that information until the token is placed on the game board?
-- Are the additional action cards drawn for every instance of drawing action cards during the status phase (_Minister of Policy_ etc.), or just the cards drawn in the **Draw Action Cards** step?
 
 ## The Xxcha Kingdom
 
@@ -968,10 +655,6 @@
 
 ### It Feeds on Carrion - Dimensional Anchor (Hero)
 - Does _Dimensional Anchor_ roll for neutral units?
-
-### Al’raith Ix Ianovar (Breakthrough)
-- If Al’raith Ix Ianovar causes The Fracture to enter play, are the ingress tokens initially placed according to the synergy colours, or the Nekro method (1 of each technology specialty)?
-- If it uses the Nekro method, can the Vuil'raith player choose to perform a breakthrough roll first, which would use the synergy colours?
 
 # Twilight's Fall
 
