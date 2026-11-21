@@ -18,7 +18,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>When resolving the primary ability of the <a href="/R_politics"><i>Politics</i></a> card, the active player cannot show the agenda cards they drew to any other player.<sup>2</sup></li>
-    <li>If the outcome of an agenda affects multiple players, it will do so in speaker order.<sup>*</sup></li>
+    <li>During the agenda phase, if the outcome of an agenda affects multiple players, it does so in speaker order, starting with the <a href="/R_speaker">speaker</a> and proceeding clockwise. If an agenda is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order"><i>Executive Order</i></a> technology, it does so in <a href="/R_initiative_order">initiative order</a>.<sup>2,4</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

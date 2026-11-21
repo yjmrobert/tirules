@@ -17,8 +17,8 @@ I1 LRR 8.19: "If there is a tie … the speaker decides which of the tied outcom
 @5
 E2 RulesPal, "Does an agenda's outcome affect everyone, or only the players who voted for it?": "Everyone, unless the card itself limits the effect to players who voted a certain way, as Mutiny does. Abstaining doesn't exempt you."
 @6
-I1 LRR 1.20: "If there are multiple abilities that players wish to resolve at the same time during the strategy or agenda phases, players take turns resolving abilities starting with the speaker and proceeding clockwise." Covers player abilities, not agenda outcomes.
-I6 Community consensus: "Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases." Covers only a contested-control case.
+I2 RulesPal, "In what order are agenda-phase secret objectives scored?": "In speaker order, clockwise; it only matters if several players would win from the points, a tie that also goes clockwise from the speaker."
+I4 Designer ruling (Xxcha hero resolving agendas during the action phase): "Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is."
 @7
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved." LRR 1.20 gives speaker order for simultaneous abilities in the agenda phase.

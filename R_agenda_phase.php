@@ -54,7 +54,7 @@
     <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
     <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
     <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup></li>
-    <li>If an agenda outcome affects multiple players, it does so in speaker order.<sup>*</sup></li>
+    <li>During the agenda phase, if the outcome of an agenda affects multiple players, it does so in speaker order, starting with the <a href="/R_speaker">speaker</a> and proceeding clockwise. If an agenda is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order"><i>Executive Order</i></a> technology, it does so in <a href="/R_initiative_order">initiative order</a>.<sup>2,4</sup></li>
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.<sup>1,2</sup></li>
     <li>If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.<sup>1</sup></li>
     <li>Each pair of players may resolve one transaction during each agenda.<sup>1,2,3</sup></li>

@@ -41,10 +41,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda&rsquo;s outcome affect everyone, or only the players who voted for it?&rdquo;: &ldquo;Everyone, unless the card itself limits the effect to players who voted a certain way, as Mutiny does. Abstaining doesn&rsquo;t exempt you.&rdquo;</li>
         </ul></li>
-    <li>If an agenda outcome affects multiple players, it does so in speaker order.<sup>*</sup>
+    <li>During the agenda phase, if the outcome of an agenda affects multiple players, it does so in speaker order, starting with the <a href="/R_speaker">speaker</a> and proceeding clockwise. If an agenda is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order"><i>Executive Order</i></a> technology, it does so in <a href="/R_initiative_order">initiative order</a>.<sup>2,4</sup>
         <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 1.20: &ldquo;If there are multiple abilities that players wish to resolve at the same time during the strategy or agenda phases, players take turns resolving abilities starting with the speaker and proceeding clockwise.&rdquo; Covers player abilities, not agenda outcomes.</li>
-        <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases.&rdquo; Covers only a contested-control case.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;In what order are agenda-phase secret objectives scored?&rdquo;: &ldquo;In speaker order, clockwise; it only matters if several players would win from the points, a tie that also goes clockwise from the speaker.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>4</sup> Designer ruling (Xxcha hero resolving agendas during the action phase): &ldquo;Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is.&rdquo;</li>
         </ul></li>
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.<sup>1,2</sup>
         <ul>
