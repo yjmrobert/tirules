@@ -1,2 +1,10 @@
 @0
+E3 Learn to Play component list: "17 control tokens ✦ 16 command tokens."
+@1
+E2 RulesPal, "What happens if I would gain a command token but have none left in my reinforcements?": "Tokens you spend … go back to your reinforcements, not to your command sheet."
+@2
 E2 RulesPal, "What does spending a command token 'from your reinforcements' mean?": "You need a token in reinforcements to pay; it isn't purged or moved to your sheet, so it normally just stays in reinforcements, or goes on the board if the effect says so."
+@3
+E1 LRR 37.4: "Players do not spend command tokens from this pool unless a game effect specifically allows it."
+@4
+E2 RulesPal, "Do Diplomacy tokens, retreats or action cards like Ghost Ship or Plague count as activating a system?": "No — a system is activated only by placing a command token as the first step of a tactical action. Tokens placed by Diplomacy or a retreat and cards aimed at a system don't activate it."
