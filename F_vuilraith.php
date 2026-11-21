@@ -56,6 +56,7 @@
     <li>If a ship moves through or out of the same gravity rift multiple times, that gravity rift provides +1 to its move value only once, but the ship rolls for removal each time.<sup>6,7</sup></li>
     <li>Multiple Dimensional Tears in a single system have no additional effects.<sup>2</sup></li>
     <li>If a Dimensional Tear is in a system that is normally a gravity rift (e.g. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.<sup>2</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup></li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.<sup>*</sup></li>
     <li>If the Dimensional Tear plastic figure is destroyed, the Dimensional Tear token is also removed.<sup>8</sup></li>
     </ol>

@@ -64,57 +64,59 @@ E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimen
 @30
 E2 RulesPal, "Do Vuil'raith ships roll for Cormund's gravity rift if their Dimensional Tear dock is there, and do two tears stack?": "No roll: a system with more than one rift counts as one gravity rift, and Dimensional Tear says your ships don't roll for that system's rift."
 @31
-N No source found.
+N No source found. RulesPal (NOT USED, unconfirmed), "Do Nekro-copied Dimensional Tears affect the Vuil'raith …?": "Tears only hinder other players' units: Vuil'raith ignore their own, Nekro ignore Nekro's, but Vuil'raith are affected by Nekro tears."
 @32
-E8 PoK rulebook p. 16: "If a space dock that has a dimensional tear token under it is destroyed, the dimensional tear token is removed."
+N No source found.
 @33
+E8 PoK rulebook p. 16: "If a space dock that has a dimensional tear token under it is destroyed, the dimensional tear token is removed."
+@34
 E4 Designer ruling: "Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes."
 E2 RulesPal, "What does the Vuil'raith flagship capture?": "the Cabal flagship is destroyed too but still captures everything else destroyed there."
-@34
-N No source found.
 @35
-E2 RulesPal, "What does the Vuil'raith flagship capture?": "Every other non-structure unit destroyed in its system, the Cabal's own included, even outside combat: Bombardment, Space Cannon, action cards, agendas."
+N No source found.
 @36
-E4 Designer ruling: "Can the Vuil'raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player's commodity value."
+E2 RulesPal, "What does the Vuil'raith flagship capture?": "Every other non-structure unit destroyed in its system, the Cabal's own included, even outside combat: Bombardment, Space Cannon, action cards, agendas."
 @37
-N No source found.
+E4 Designer ruling: "Can the Vuil'raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player's commodity value."
 @38
-I2 RulesPal, "How do you capture fighters and infantry?": "A captured fighter or infantry goes back to its owner's reinforcements … and the captor places a matching token on their faction sheet instead."
-@39
 N No source found.
+@39
+I2 RulesPal, "How do you capture fighters and infantry?": "A captured fighter or infantry goes back to its owner's reinforcements … and the captor places a matching token on their faction sheet instead."
 @40
 N No source found.
 @41
-E4 Designer ruling: "Does Cabal Agent count as 'converting your own commodities' …? A: No, whenever commodities are converted to a player's own trade good area, they are not considered gained."
+N No source found.
 @42
-N No source found.
+E4 Designer ruling: "Does Cabal Agent count as 'converting your own commodities' …? A: No, whenever commodities are converted to a player's own trade good area, they are not considered gained."
 @43
-I8 PoK rulebook, Capture: "If at least one of a player's space docks is being blockaded, they cannot capture units from the player who is blockading them." The Vuil'raith player's space docks are Dimensional Tears.
+N No source found.
 @44
-E2 RulesPal, "Does the Vuil'raith hero make a ship roll once per adjacent dimensional tear?": "No — each non-fighter ship in or next to a dimensional tear rolls once, however many tears it touches."
+I8 PoK rulebook, Capture: "If at least one of a player's space docks is being blockaded, they cannot capture units from the player who is blockading them." The Vuil'raith player's space docks are Dimensional Tears.
 @45
-N No source found.
+E2 RulesPal, "Does the Vuil'raith hero make a ship roll once per adjacent dimensional tear?": "No — each non-fighter ship in or next to a dimensional tear rolls once, however many tears it touches."
 @46
-E1 LRR 16.3: "If a player has more fighters and ground forces in the space area of a system than the total capacity of that player's ships in that system, that player must remove the excess units." LRR 16.4: "Fighters and ground forces are not assigned to specific ships, except while they are being transported."
+N No source found.
 @47
-N No source found.
+E1 LRR 16.3: "If a player has more fighters and ground forces in the space area of a system than the total capacity of that player's ships in that system, that player must remove the excess units." LRR 16.4: "Fighters and ground forces are not assigned to specific ships, except while they are being transported."
 @48
-I4 Designer ruling, "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
-@49
 N No source found.
+@49
+I4 Designer ruling, "What is the interaction between Infantry 2 and Capture?": "What is the interaction between Infantry 2 and Capture? A: Both happen" both capture and resurrection apply.
 @50
+N No source found.
+@51
 E6 Community consensus: "Since the Fracture enters play without a roll via Al'raith Ix Ianovar, do you place 6 ingress tokens, or just 4? A: Cabal BT will place Fracture as if it were rolled for."
 E9 Designer Q&A, "Cabal Breakthrough": "According to cabal BT colors."
-@51
-E9 Designer Q&A, "Cabal Breakthrough": "should cabal place them according to cabal synergy …? A: According to cabal BT colors."
 @52
-N No source found.
+E9 Designer Q&A, "Cabal Breakthrough": "should cabal place them according to cabal synergy …? A: According to cabal BT colors."
 @53
 N No source found.
 @54
+N No source found.
+@55
 E6 Community consensus: "Can the Vuil'raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token."
 E7 Thunder's Edge Rulebook, The Fracture: "A system cannot have more than one ingress token."
-@55
-E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
 @56
+E6 Community consensus: "Al'raith Ix Ianovar (Breakthrough): Can the Vuil'raith player choose to perform a breakthrough roll first? A: No, the breakthrough replaces the roll with its own ability."
+@57
 E6 Community consensus: "Can the Vuil'raith player move an ingress token into the Fracture by gaining their breakthrough after the Fracture is in play …? A: No, ingress tokens cannot be placed in the Fracture."

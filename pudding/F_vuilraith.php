@@ -154,6 +154,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift if their Dimensional Tear dock is there, and do two tears stack?&rdquo;: &ldquo;No roll: a system with more than one rift counts as one gravity rift, and Dimensional Tear says your ships don&rsquo;t roll for that system&rsquo;s rift.&rdquo;</li>
         </ul></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Do Nekro-copied Dimensional Tears affect the Vuil&rsquo;raith &hellip;?&rdquo;: &ldquo;Tears only hinder other players&rsquo; units: Vuil&rsquo;raith ignore their own, Nekro ignore Nekro&rsquo;s, but Vuil&rsquo;raith are affected by Nekro tears.&rdquo;</li>
+        </ul></li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
