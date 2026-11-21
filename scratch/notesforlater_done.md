@@ -1432,3 +1432,19 @@ Removed sub-note (same wording for each card):
 Its proof was E3 Learn to Play: "The active player may negotiate only once with each of their neighbors per turn."
 Open questions: can the same card come back to its owner and be traded again in one turn (e.g. via a different player, or because the transaction limit is per pair)? Can the holder play it more than once per turn if it returns to them? Are there designer/RulesPal rulings on either card's repeat use?
 Related site notes: F_letnev.php War Funding and War Funding Ω; the Spy Net section on its faction page.
+
+## cite LRR 1.18 on "once per timing event" notes
+Commit: 8063649 (7 notes: F_creuss IFF, F_yin Indoctrination + Greyfire Ω, F_sol Military Support, C_technology Duranium, R_abilities single object, F_hacan per die)
+Deferred: owner request 2026-11-19 after f767658 (Research Agreement). Sweep notes cited * (or with weak proofs) that say an ability can be used only once per occurrence, or cannot be used again for the same event/instance/combat/round, and cite LRR 1.18 as I1: "Each ability can be resolved once for each occurrence of that ability's timing event." (LRR PDF p. 7; numbering is collapsed into "1.13 ... 1.25" in the extracted text, 1.18 by order). Grep ideas: "same instance", "once per", "only once", "again during the same", "same timing window".
+
+## sweep wiki links that point into a faction page's FAQ section
+Commit: 06990fb (50 links on 15 faction pages)
+Deferred: owner request 2026-11-19, found while fixing the Prophet's Tears links (274b114) and Lazax Gate Folding (4d2a89b). About 51 links on F_*.php have the form wiki/The_<Faction>#FAQ:~:text=<item>, many of them for items that have their own wiki page (objectives, relics, agendas, other factions' technologies). For each, point it at the item's own wiki page using the URL already used elsewhere on the site (e.g. C_relics.php, C_objectives.php, the owning faction page's heading), unless the FAQ entry is deliberately the target. List: grep -o 'wiki/The_[A-Za-z_%-]*#FAQ:~:text=[^"]*' F_*.php
+
+## review * notes whose only proof is implicit
+Commit: 1bd3cc7, c5834f4, a47de1a, a7c9000 (~80 notes cited; kept * on 9 where the proof doesn't cover the note: Ancient Burial Sites, Brilliance self, 3 riders notes, R_agenda_card/R_agenda_phase speaker order, R_construction DMZ, R_ground_combat end-of-combat; F_hacan proof relabelled N)
+Deferred: owner request 2026-11-17. About 91 proof lines are implicit (I) proofs on notes marked *. Review each; where the implicit source is strong enough, cite it (owner would like some of these to quote the source). Also fix F_hacan @17, whose proof is labeled E2 but says "Production limits are not mentioned".
+review notes on the site that have * because the only proof is implicit. some of these id like to still quote the source
+Added 2026-11-17 ("this seems like it should have a 2" item): owner wants the * replaced by the proven source numbers when implicit proofs exist, as done for R_promissory_notes @1 (now 1,2). Current count: 79 notes cite * with E/I proof lines.
+Also (2026-11-17): ~12 'home system of an eliminated player' * notes (R_elimination @0, F_creuss x3, F_mahact, F_muaat, F_norr, C_action_cards, C_objectives x4) can take the I6 Avernus proof used for Stymie in that commit.
+Also (2026-11-21, unanswered side question): F_deepwrought Wave Function Collapse note "If they also owned the purged technology, the Deepwrought player too will research another technology.<sup>*</sup>" has an I2 RulesPal proof and is a candidate for <sup>2</sup>.

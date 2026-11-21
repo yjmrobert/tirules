@@ -1,18 +1,5 @@
 # Tier 4: site-wide sweeps
 
-## cite LRR 1.18 on "once per timing event" notes
-Deferred: owner request 2026-11-19 after f767658 (Research Agreement). Sweep notes cited * (or with weak proofs) that say an ability can be used only once per occurrence, or cannot be used again for the same event/instance/combat/round, and cite LRR 1.18 as I1: "Each ability can be resolved once for each occurrence of that ability's timing event." (LRR PDF p. 7; numbering is collapsed into "1.13 ... 1.25" in the extracted text, 1.18 by order). Grep ideas: "same instance", "once per", "only once", "again during the same", "same timing window".
-
-## sweep wiki links that point into a faction page's FAQ section
-Deferred: owner request 2026-11-19, found while fixing the Prophet's Tears links (274b114) and Lazax Gate Folding (4d2a89b). About 51 links on F_*.php have the form wiki/The_<Faction>#FAQ:~:text=<item>, many of them for items that have their own wiki page (objectives, relics, agendas, other factions' technologies). For each, point it at the item's own wiki page using the URL already used elsewhere on the site (e.g. C_relics.php, C_objectives.php, the owning faction page's heading), unless the FAQ entry is deliberately the target. List: grep -o 'wiki/The_[A-Za-z_%-]*#FAQ:~:text=[^"]*' F_*.php
-
-## review * notes whose only proof is implicit
-Deferred: owner request 2026-11-17. About 91 proof lines are implicit (I) proofs on notes marked *. Review each; where the implicit source is strong enough, cite it (owner would like some of these to quote the source). Also fix F_hacan @17, whose proof is labeled E2 but says "Production limits are not mentioned".
-review notes on the site that have * because the only proof is implicit. some of these id like to still quote the source
-Added 2026-11-17 ("this seems like it should have a 2" item): owner wants the * replaced by the proven source numbers when implicit proofs exist, as done for R_promissory_notes @1 (now 1,2). Current count: 79 notes cite * with E/I proof lines.
-Also (2026-11-17): ~12 'home system of an eliminated player' * notes (R_elimination @0, F_creuss x3, F_mahact, F_muaat, F_norr, C_action_cards, C_objectives x4) can take the I6 Avernus proof used for Stymie in that commit.
-Also (2026-11-21, unanswered side question): F_deepwrought Wave Function Collapse note "If they also owned the purged technology, the Deepwrought player too will research another technology.<sup>*</sup>" has an I2 RulesPal proof and is a candidate for <sup>2</sup>.
-
 ## Sweep notes for unmentioned exceptions
 Deferred: owner fixed the AFB/Waylay example (26ead52) and deferred a sweep of all notes stating flat rules ("cannot", "may not") for card/ability exceptions they should mention.
 some rules have exceptions. in the rules reference part these should be ignored... for now but in notes they need to be accounted for
@@ -33,3 +20,5 @@ there are a handful of things that could be consolidated, formatted better or re
 # Tier 5: new features
 
 ## support request/bugreport form that makes github issues
+
+# there is a formatting error on some pages were text gets cut off
