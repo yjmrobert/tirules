@@ -1,0 +1,12 @@
+@0
+E10 Codex I: "units that fail to survive the roll are removed from the board and returned to players' reinforcements rather than being destroyed."
+E2 RulesPal, "When a carrier leaves a gravity rift …?": "Units lost this way are removed rather than destroyed."
+@1
+E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."
+@2
+E1 LRR 61.9a: "Forcing a player to remove a unit from the board by reducing the number of command tokens in their fleet pool is not treated as destroying a unit."
+I1 LRR 37.4: "If at any time the number of a player's non-fighter ships in a system exceeds the number of tokens in that player's fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements."
+@3
+E4 Designer ruling: "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."
+@4
+E2 RulesPal, "Does the Vuil'raith Devour ability capture units destroyed by Space Cannon or Bombardment?": "No — those happen outside space and ground combat, so Devour doesn't see them; Anti-Fighter Barrage is part of combat and counts."
