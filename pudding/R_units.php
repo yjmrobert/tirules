@@ -5,10 +5,6 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.<sup>2</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo;</li>
-        </ul></li>
     <li>Units are component limited.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 72.1: &ldquo;The components in a player&rsquo;s reinforcements are limited.&rdquo;</li>
@@ -21,6 +17,10 @@
     <li>A faction&ndash;specific unit counts as its base unit type for all purposes. For example, the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#War_Sun:~:text=Prototype%20War%20Sun">Prototype War Sun</a> is a war sun. Only the researched unit upgrade card is a technology; the unit printed on a faction sheet is not.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;Yes &mdash; a faction unit counts as its base unit type for every purpose, so the Prototype War Sun is a war sun. Only the researched upgrade card is a technology.&rdquo;</li>
+        </ul></li>
+    <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;a faction unit counts as its base unit type for every purpose.&rdquo;</li>
         </ul></li>
     <li>A player cannot remove their own units from the game board at will; units are only removed by game effects, such as being destroyed or captured. The exception is that a player may remove a unit from the board in order to place it when there are none of that type in their reinforcements.<sup>2</sup>
         <ul>

@@ -4,12 +4,12 @@ E3 Learn to Play: "Ground combats on multiple planets are resolved in the order 
 I1 LRR 42.4a: "During the first round of a combat, 'start of combat' and 'start of combat round' effects occur during the same timing window." LRR 42.3: a new round starts "with the 'Roll Dice' step."
 I2 RulesPal, "Are 'start of combat' and 'start of the first combat round' abilities in the same timing window, and how often do they happen?": "they are the same window, before Anti-Fighter Barrage" start-of-combat windows precede combat rolling.
 @2
-E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
+I1 LRR 42.4b: "During the last round of a combat, 'end of combat' and 'end of combat round' effects occur during the same timing window."
 @3
+E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
+@4
 E1 LRR 87: "Immediately before a player assigns hits to their units, that player can use the 'Sustain Damage' ability of any of their units."
 I1 LRR 78.6a (space combat): "Before assigning hits, players may use their units' 'Sustain Damage' abilities to cancel hits."
-@4
-I1 LRR 42.4b: "During the last round of a combat, 'end of combat' and 'end of combat round' effects occur during the same timing window."
 @5
 I1 LRR quick reference lists "Retreat" only under Space Combat.
 @6

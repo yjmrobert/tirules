@@ -14,6 +14,10 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 42.4a: &ldquo;During the first round of a combat, &lsquo;start of combat&rsquo; and &lsquo;start of combat round&rsquo; effects occur during the same timing window.&rdquo; LRR 42.3: a new round starts &ldquo;with the &lsquo;Roll Dice&rsquo; step.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are &lsquo;start of combat&rsquo; and &lsquo;start of the first combat round&rsquo; abilities in the same timing window, and how often do they happen?&rdquo;: &ldquo;they are the same window, before Anti-Fighter Barrage&rdquo; start-of-combat windows precede combat rolling.</li>
         </ul></li>
+    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.<sup>*</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 42.4b: &ldquo;During the last round of a combat, &lsquo;end of combat&rsquo; and &lsquo;end of combat round&rsquo; effects occur during the same timing window.&rdquo;</li>
+        </ul></li>
     <li>Abilities that trigger &ldquo;at the start of a combat&rdquo;, other than those on agents, can only be resolved during a combat in which the player resolving them is participating.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
@@ -22,10 +26,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87: &ldquo;Immediately before a player assigns hits to their units, that player can use the &lsquo;Sustain Damage&rsquo; ability of any of their units.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.6a (space combat): &ldquo;Before assigning hits, players may use their units&rsquo; &lsquo;Sustain Damage&rsquo; abilities to cancel hits.&rdquo;</li>
-        </ul></li>
-    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.<sup>*</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 42.4b: &ldquo;During the last round of a combat, &lsquo;end of combat&rsquo; and &lsquo;end of combat round&rsquo; effects occur during the same timing window.&rdquo;</li>
         </ul></li>
     <li>No player may retreat from a ground combat.<sup>1</sup>
         <ul>

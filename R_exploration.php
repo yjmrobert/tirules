@@ -30,11 +30,11 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> is placed into play, not into the frontier discard pile.<sup>6</sup></li>
-    <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.<sup>4,8</sup></li>
-    <li>A player may perform transactions after revealing an exploration card and before resolving it.<sup>2,4</sup></li>
-    <li>Before resolving an exploration card, it is revealed to all players.<sup>2</sup></li>
     <li>When a player gains control of a planet that is not controlled by another player, they explore it before resolving any &ldquo;after you gain control of a planet&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>2</sup></li>
+    <li>Before resolving an exploration card, it is revealed to all players.<sup>2</sup></li>
+    <li>A player may perform transactions after revealing an exploration card and before resolving it.<sup>2,4</sup></li>
+    <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.<sup>4,8</sup></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> is placed into play, not into the frontier discard pile.<sup>6</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
