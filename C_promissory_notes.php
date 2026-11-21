@@ -5,6 +5,8 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance">Alliance</a></h2>
     <ol class="note">
     <li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be placed face up in their play area immediately.<sup>2</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Alliance</i> to be returned.<sup>2</sup></li>
+    <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Alliance</i> to be returned.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire">Ceasefire</a></h2>
