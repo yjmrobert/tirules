@@ -34,6 +34,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What does &lsquo;each of your galvanized units present&rsquo; mean? &hellip; A: Present == participating.&rdquo;</li>
         </ul></li>
+    <li>If the Bastion player is eliminated, galvanize tokens remain on other players&rsquo; units, and those units continue to roll one additional die. The Bastion player&rsquo;s faction sheet remains in play until there are no galvanize tokens on the game board.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does Galvanize still work when the Last Bastion player is eliminated from the game? A: Yes, the Galvanized Tokens remain attached to non-Bastion units and they continue the roll one additional die for unit abilities and combat rolls (the Bastion faction sheet remains in play until there are no more Galvanize tokens on the game board).&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Faction_Abilities:~:text=Phoenix%20Standard">Phoenix Standard</a></h2>

@@ -45,6 +45,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
+    <li>If the Deepwrought player is eliminated, <i>Share Knowledge</i> and its technology remain in play until the status phase, when the promissory note is returned to the game box.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to a technology gained via the Deepwrought Scholarate PN, Share Knowledge, if the DWS player is eliminated? &hellip; A: The DWS PN remains in play with the technology until status at which point the PN is returned to the box.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Hydrothermal%20Mining">Hydrothermal Mining</a> <sub>(Technology)</sub></h2>

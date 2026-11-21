@@ -56,6 +56,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Abilities:~:text=The%20Sorrow">The Sorrow</a></h2>
     <ol class="note">
+    <li>If the Rebellion player is eliminated, their home system still destroys units that are placed or moved into it, and their faction sheet remains in play.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Crimson home system still destroy units that are placed or moved into it after the Crimson player is eliminated. A: Yes and the Crimson faction sheet remains in play.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Promissory_Note:~:text=Sever">Sever</a> <sub>(Promissory Note)</sub></h2>

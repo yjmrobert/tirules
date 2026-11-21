@@ -8,7 +8,7 @@ N No source found.
 @3
 E4 Designer ruling: "What happens to captured units when the owner is eliminated? A: Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."
 @4
-N No source found.
+E6 Community consensus: "A player cannot place (or produce) a unit captured by another player. Can a player place their own captured unit without being explicitly instructed to do so? A: No, but a player can capture their own units and can decide to return them to reinforcements at any time."
 @5
 E1 LRR 23.4a: "When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens."
 @6

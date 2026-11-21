@@ -19,6 +19,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player gains then loses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
+    <li>If the Deepwrought player is eliminated, <i>Share Knowledge</i> and its technology remain in play until the status phase, when the promissory note is returned to the game box.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Hydrothermal%20Mining">Hydrothermal Mining</a> <sub>(Technology)</sub></h2>

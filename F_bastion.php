@@ -13,6 +13,7 @@
     <li>Galvanize tokens are placed from the Bastion player&rsquo;s reinforcements. If there are none in their reinforcements, a galvanize token cannot be moved from elsewhere on the board.<sup>2,6</sup></li>
     <li>The additional die rolled by a galvanized unit is mandatory.<sup>6</sup></li>
     <li>Abilities referring to the Bastion player&rsquo;s galvanized units being &ldquo;present&rdquo; count only galvanized units that are participating in the combat.<sup>6</sup></li>
+    <li>If the Bastion player is eliminated, galvanize tokens remain on other players&rsquo; units, and those units continue to roll one additional die. The Bastion player&rsquo;s faction sheet remains in play until there are no galvanize tokens on the game board.<sup>6</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Faction_Abilities:~:text=Phoenix%20Standard">Phoenix Standard</a></h2>
