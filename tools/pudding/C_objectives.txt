@@ -109,13 +109,13 @@ N No source found.
 @47
 N No source found.
 @48
-N No source found.
-@49
 E2 RulesPal, "If two players could each score an action-phase objective in the same combat, who scores first?": "Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner."
-@50
+@49
 I2 RulesPal, "Does an agenda resolved with the Xxcha hero that destroys an enemy flagship score Destroy Their Greatest Ship?": "the agenda destroyed it, not your units or abilities, and only those count." Winning is not a requirement.
-@51
+@50
 E1 LRR, Objective Cards: "A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat."
+@51
+N No source found.
 @52
 E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the same type … does each one count toward the 'Develop Weaponry' and 'Revolutionize Warfare' objectives? A: No. Only one upgrade of a given type counts toward those objectives."
 I2 RulesPal: "when a copied faction upgrade covers a generic one, like Dreadnought II, only one of them counts."
@@ -395,13 +395,13 @@ N No source found.
 @165
 N No source found.
 @166
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
+N No source found.
 @167
 N No source found.
 @168
 N No source found.
 @169
-N No source found.
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "only one per combat or step: one in a space combat and another in the ground combat that follows is fine."
 @170
 E4 Designer ruling: "the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned."
 E2 RulesPal: "Unveil Flagship needs your flagship to survive the combat."

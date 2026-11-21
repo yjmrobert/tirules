@@ -299,10 +299,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
     <ol class="note">
-    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players could each score an action-phase objective in the same combat, who scores first?&rdquo;: &ldquo;Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner.&rdquo;</li>
@@ -317,6 +313,10 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.&rdquo;</li>
         </ul></li>
     </ol>
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
@@ -331,15 +331,15 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy">Dictate Policy</a></h2>
     <ol class="note">
+    <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1007,7 +1007,7 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies">Threaten Enemies</a></h2>
     <ol class="note">
-    <li>Any ships in another players home system are irrelevant.<sup>*</sup>
+    <li>Any ships in another player&rsquo;s home system are irrelevant.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1055,22 +1055,6 @@
         <ul>
         <li><b>Unverified</b>: No source found. The card has no active-player restriction; during the Space Cannon Offense step every player with a unit in range may fire.</li>
         </ul></li>
-    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;only one per combat or step: one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
-        </ul></li>
-    <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>Any effect that destroys non&ndash;fighter ships during the <b>Space Cannon Offense</b> step may be used to score <i>Turn Their Fleets to Dust &Omega;</i>, not just hits produced by a space cannon roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -1079,6 +1063,22 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
+    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;only one per combat or step: one in a space combat and another in the ground combat that follows is fine.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Unify%20the%20Colonies">Unify the Colonies</a></h2>
