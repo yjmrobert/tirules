@@ -1472,3 +1472,13 @@ check other pages for better organization
 ## research end a player's turn: Z'eu Ω / tactical actions outside a turn
 Commit: 0aeac74 (F_naalu Z'eu Ω note now matches the source 4 designer ruling; dropped the unsourced 'also ends the Naalu player's turn'. Puppets On A String (source 6, community: turn-enders don't prevent the action) left as is by owner's choice, though it points the other way.)
 lets research end a players turn in regards to that agent or leader that lets people take tactical actions
+
+## Sweep notes for unmentioned exceptions
+Commit: 3f3b3e6, c95d523, d23cda4 (all 531 restriction notes reviewed; added exceptions documented elsewhere: home-system scoring, transactions, moving through enemy ships, Circlet of the Void for supernovae and gravity rifts)
+Deferred: owner fixed the AFB/Waylay example (26ead52) and deferred a sweep of all notes stating flat rules ("cannot", "may not") for card/ability exceptions they should mention.
+some rules have exceptions. in the rules reference part these should be ignored... for now but in notes they need to be accounted for
+ie A non–fighter ship cannot use its Sustain Damage ability to cancel a hit produced by an anti–fighter barrage roll.1 should account for waylay
+
+## support request/bugreport form that makes github issues
+Commit: 7a894c6 (footer link to a prefilled GitHub issue form; no backend)
+
