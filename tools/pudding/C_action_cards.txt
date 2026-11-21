@@ -137,27 +137,27 @@ E2 RulesPal, "Can several Direct Hits or Shields Holdings be played in the same 
 @58
 E5 Designer ruling, on a dreadnought carrying a fighter hit by Direct Hit after PDS fire: "Scenario A [immediately destroy the fighter]. … During a combat, the fighters would persist until the end of combat, but in this case they are immediately destroyed."
 @59
-E5 Same ruling: the fighter is "immediately destroyed" when its carrier is destroyed outside combat.
-@60
 E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "No — Direct Hit targets ships, and mechs are ground forces."
-@61
+@60
 N No source found.
-@62
+@61
 E2 RulesPal, "Does the Codex (Omega) Magen Defense Grid still work if the PDS on the planet has been hit by Disable?": "Yes — Disable only strips the PDS's Planetary Shield and Space Cannon; it is still a structure, so Magen Defense Grid still produces its hit."
-@63
+@62
 E2 RulesPal, "Do Ceasefire or Disable stop Space Cannon?": "Disable is played at invasion and only shuts off PDS on the planets being invaded; Space Cannon Offense has already been fired by then."
-@64
+@63
 E1 LRR FAQ: "The 'Distinguished Councilor' action card can only be played after you vote during the 'Vote' step of resolving an agenda."
 E2 RulesPal: "cards that add to votes you cast, like Distinguished Councilor, need at least one real vote first."
 E5 Designer ruling: "you are not allowed to cast zero votes. Consider zero votes to be mechanically the same as abstaining. Thus you cannot use Distinguished Councilor in the scenario you have suggested."
-@65
+@64
 E1 LRR FAQ: "Does an effect that casts 'additional votes,' such as the 'Bribery' action card, create a timing window for playing the 'Distinguished Councilor' action card? A: No."
-@66
+@65
 I5 Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: "Once someone has played an ability, every other player will have exactly one chance to continue." Bribery ("After the speaker votes") and the speaker's Distinguished Councilor ("After you cast votes") share the window opened by the speaker's vote, so the speaker gets another chance after a Bribery. The LRR FAQ ("Bribery" does not "create a timing window for playing the 'Distinguished Councilor' action card") is about the Bribery player's own extra votes, not this case.
-@67
+@66
 N No source found.
-@68
+@67
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+@68
+N No source found.
 @69
 N No source found.
 @70
@@ -167,174 +167,174 @@ N No source found.
 @72
 N No source found.
 @73
-N No source found.
-@74
 I2 RulesPal, "Does the Nekro Virus pay normally to use the Technology secondary?": "because they can't research, Propagation gives them 3 command tokens instead." The same applies to the research in Divert Funding.
-@75
+@74
 E5 Designer ruling (Skootur, 1/25/2019): "Can I play Economic Initiative when I have no cultural planets? … Dane: … I would say that both are legal plays."
+@75
+N No source found.
 @76
 N No source found.
 @77
-N No source found.
-@78
 E2 RulesPal, "Can Emergency Repairs save a ship from Direct Hit?": "No — Direct Hit is played as Sustain Damage is used, while hits are being assigned; Emergency Repairs comes at the end of the round, too late."
-@79
+@78
 N No source found.
-@80
+@79
 E6 Community consensus: "Q: Exchange Program: Does each player propose where the infantry will be placed …? A: The agreement includes the planets where infantry will be placed."
-@81
+@80
 E1 LRR FAQ: "'Experimental Battlestation' operates in the same timing window as 'Space Cannon Offense.'"
 E5 Designer ruling (Clipper, Nov 2018): "The intent is that the experimental battle station is part of space cannon offense."
 E2 RulesPal, "When can Experimental Battlestation be used, and what can it shoot?": "It fires as part of Space Cannon Offense."
-@82
+@81
 E1 LRR FAQ: Experimental Battlestation "can only target the active player's ships."
 E5 Designer ruling: "It can only target the active player."
 E2 RulesPal, "During Space Cannon Offense, who can shoot at whom?": other players fire "only at the active player's ships."
-@83
+@82
 E1 LRR FAQ: it "can only be resolved if ships actually move into the active system."
 E5 Designer ruling: "Unlike normal Space Cannon Offense, this card appears to require ships to actually be moved into the system. … A3. Correct."
 E2 RulesPal: "not when nothing moves in."
-@84
+@83
 E5 Designer ruling: Experimental Battlestation "is only fireable at the active player and at his ships in the active system." Not limited to the ships that moved.
-@85
+@84
 I2 RulesPal, "When can Experimental Battlestation be used, and what can it shoot?": "Only when another player's ships actually move during the movement step of a tactical action." A ship moving back in has moved in.
-@86
+@85
 I2 RulesPal: "Only when another player's ships actually move … not when nothing moves in." Ships lost in a rift never arrive.
 I1 LRR FAQ: "can only be resolved if ships actually move into the active system."
-@87
+@86
 E2 RulesPal, "When can Experimental Battlestation be used, and what can it shoot?": "Only when another player's ships actually move during the movement step of a tactical action: not on retreats."
 E5 Designer ruling: "I think the cleanest way to handle this is just to say that it is only triggered by the move step."
+@87
+N No source found.
 @88
 N No source found.
 @89
 N No source found.
 @90
-N No source found.
-@91
 E6 Community consensus: "Coup D'etat cancels the action, so the active player has still not performed their 'next action.'"
-@92
+@91
 E10 Codex I, Fighter Conscription: "Place 1 fighter from your reinforcements in each system that contains 1 or more of your space docks or units that have capacity." One per system.
+@92
+N No source found.
 @93
-N No source found.
-@94
 E2 RulesPal, "Can I play two copies of the same action card, like Morale Boost or Flank Speed, in one timing window?": "No — you cannot play more than one action card with the same name in a single timing window to affect the same units or effect."
-@95
+@94
 E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "Anything that happened before you played it stands: if Flank Speed or Upgrade is Sabotaged after you activated a system, the system stays activated."
-@96
+@95
 N No source found.
-@97
+@96
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
-@98
+@97
 E5 Designer ruling: "You would not have to decide which technology you are researching when 'Focused Research' is played before the sabotage window."
 E2 RulesPal, "When exactly is Sabotage played": "Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window."
+@98
+N No source found.
 @99
 N No source found.
 @100
 N No source found.
 @101
-N No source found.
-@102
 E1 LRR 23.4a: "When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
-@103
+@102
 E10 Codex I, Ghost Squad: "After a player commits units to land on a planet you control."
-@104
+@103
 I10 Codex I, Ghost Squad triggers "After a player commits units to land on a planet you control," whatever the source of the commitment.
-@105
+@104
 I10 Codex I, Ghost Squad triggers only "After a player commits units to land."
-@106
+@105
 E4 Designer ruling: "Q: Can the Titans Hel-Titan move via abilities like the action card Ghost Squad …? A: No, structures cannot move."
 E2 RulesPal, "Can the Titans move Hel Titan PDS with Ghost Squad?": "Probably not — Hel Titans are structures as well as ground forces, and structures can't move or be transported."
-@107
+@106
 E10 Codex I, Ghost Squad: "Move any number of ground forces from any planet you control in the active system."
-@108
+@107
 I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Hack Election Ω.
-@109
+@108
 I10 Codex I, Hack Election: "During this agenda, voting begins with the player to the right of the speaker and continues counterclockwise." voting starts right of speaker, so speaker is last.
+@109
+N No source found.
 @110
 N No source found.
 @111
-N No source found.
-@112
 I1 LRR FAQ: Bribery and "any effect with the timing window of 'after the speaker votes'" are played after the speaker's voting window.
-@113
+@112
 N No source found.
-@114
+@113
 E1 LRR FAQ: "If a player would refresh their commodities but already has the maximum amount, can another player still play that player's 'Trade Agreement' promissory note against them? A: Yes. Even if that player gains zero commodities when their commodities are refreshed, their 'Trade Agreement' may still be played against them."
-@115
+@114
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@116
+@115
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@117
+@116
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@118
+@117
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@119
+@118
 I10 Codex I, Impersonation: "ACTION: Spend 3 influence to draw 1 secret objective."
-@120
+@119
 E1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it to the secret objective deck."
-@121
+@120
 E4 Designer ruling: "Q: Can you resolve the Impersonation action card to draw a secret objective if you are already at your limit of scored secret objectives? A: Yes, you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
+@121
+N No source found.
 @122
 N No source found.
 @123
-N No source found.
-@124
 E1 LRR 23.4a: "if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens."
 I4 Designer ruling: "You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech."
 E2 RulesPal, "If all my space docks or PDS are on the board, can I place another?": "if none are in reinforcements, you may take one from a system without your command token and place it where the effect directs"
-@125
+@124
 I4 Designer ruling, damaged unit removed and placed: "If it is produced, placed, or replaced which would require a remove and place it is no longer damaged." a placed unit is undamaged.
-@126
+@125
 I7 Thunder's Edge Rulebook, integrating the codex cards: "If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder's Edge." The Thunder's Edge codex card is Insider Information Ω.
-@127
+@126
 E2 RulesPal, "How does Insider Information interact with Covert Legislation?": "Covert Legislation is a 'when' effect that takes the next agenda first, so Insider Information, an 'after' effect, sees the card after that."
-@128
+@127
 N No source found.
-@129
+@128
 E1 LRR FAQ: "Is the 'Skilled Retreat' action card considered to be a retreat, and can it be canceled by the action card 'Intercept?' A: No, 'Skilled Retreat' is not a retreat and cannot be canceled in this way."
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move, so Intercept can't cancel it."
-@130
+@129
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@131
+@130
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@132
+@131
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@133
+@132
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@134
+@133
 E6 Community consensus: "Q: Lie In Wait: Say two players make a deal for one of them to play an action card. … A: Lie in Wait would resolve after that action card is played and resolved."
-@135
+@134
 E5 Designer ruling (Feb 2018): "Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban."
 N2 Conflicts: RulesPal, "What does Enforced Travel Ban do": "It also cancels the adjacency from Lost Star Chart for movement."
 E2 RulesPal, "How does Lost Star Chart work, including with Enforced Travel Ban?": "It creates its own adjacency, which a relayed FFG answer says still works under Enforced Travel Ban."
-@136
+@135
 E5 Designer ruling: "All are connected to all—alpha to alpha, alpha to beta, beta to beta."
-@137
+@136
 I2 RulesPal, "Can Space Cannon fire at ships outside the active system": "PDS II's Deep Space Cannon and the Xxcha flagship let a unit in an adjacent system fire into the active system." Lost Star Chart makes alpha and beta systems adjacent.
-@138
+@137
 E1 LRR FAQ: "'Lucky Shot' and other similar effects can only be used against other player's units and planets."
 E2 RulesPal: "abilities that destroy units can only be used against other players' units and planets."
 E5 Designer ruling (Yin4Life, 12/10/2018): "No, You cannot use Lucky Shot to target one of your own ships."
-@139
+@138
 E2 RulesPal, "Can Sustain Damage save a ship from … 'destroy' effects?": "No — Sustain Damage only cancels hits, and these effects destroy units without producing hits."
 I1 LRR 87.5: "The 'Sustain Damage' ability cannot be used to cancel an effect that directly destroys a unit."
 E5 Designer ruling (on Exotrireme II and Assault Cannon): "sustain damage cannot be used against abilities that 'destroy'."
-@140
+@139
 I2 RulesPal, "Do Maneuvering Jets protect infantry from Space Cannon Defense?": "it cancels Space Cannon hits on your ground forces as well as your ships." Space Cannon hits only.
-@141
+@140
 E2 RulesPal, "Does Maneuvering Jets protect infantry from Space Cannon Defense?": "Yes — it cancels Space Cannon hits on your ground forces as well as your ships."
-@142
+@141
 I2 RulesPal, "Can I play two copies of the same action card … in one timing window?": "you cannot play more than one action card with the same name in a single timing window to affect the same units or effect."
-@143
+@142
 I2 RulesPal: the limit on same-name cards applies to "a single timing window … the same units or effect." Each player's roll is a separate effect.
+@143
+N No source found.
 @144
 N No source found.
 @145
@@ -342,42 +342,42 @@ N No source found.
 @146
 N No source found.
 @147
-N No source found.
-@148
 E2 RulesPal, "When must Xxcha use Nullification Field": "Once the turn ends, nothing more happens in it: no further after-activation abilities, no transactions and no extra action from Master Plan."
+@148
+N No source found.
 @149
 N No source found.
 @150
-N No source found.
-@151
 E6 Community consensus: "Can Mercenary Contract be played on your own planet? A: No, you cannot target harmful effects on your own planets, unless explicitly allowed."
+@151
+N No source found.
 @152
-N No source found.
-@153
 E6 Community consensus: "Q: Mercenary Contract: If the planet becomes neutral, does it get re-explored …? A: Yes, the planet card will be retrieved from the planet card deck and it will trigger both exploration and relic depending on its traits."
-@154
+@153
 E6 Community consensus: "it will trigger both exploration and relic depending on its traits."
+@154
+N No source found.
 @155
-N No source found.
-@156
 E3 Learn to Play, Status Phase step 8: "if the custodians token is no longer on Mecatol Rex (the planet in the center of the game board) the game round continues to the agenda phase." Agenda Phase: "After the custodians token has been removed from Mecatol Rex, a new phase is added to each round for the remainder of the game: the agenda phase."
-@157
+@156
 N No source found.
-@158
+@157
 E6 Community consensus: "Mercenary Contract: What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled? A: It is returned from the deck readied."
-@159
+@158
 E6 Community consensus: "Q: What happens to a planet's attachments … if the planet card returns to the deck due to the Mercenary Contract action card …? A: The attachments are purged (according to Dane)."
+@159
+N No source found.
 @160
 N No source found.
 @161
-N No source found.
-@162
 E2 RulesPal, "Can I play two copies of the same action card, like Morale Boost or Flank Speed, in one timing window?": "No — you cannot play more than one action card with the same name in a single timing window to affect the same units or effect."
-@163
+@162
 E1 LRR 10.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls."
 E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect Anti-Fighter Barrage …?": "No — only rolls made against a unit's combat value are combat rolls."
-@164
+@163
 E2 RulesPal, anomalies: "Only tiles with a red border: asteroid fields, nebulae, gravity rifts and supernovas. Empty systems and wormhole systems are not anomalies unless bordered."
+@164
+N No source found.
 @165
 N No source found.
 @166
@@ -385,32 +385,32 @@ N No source found.
 @167
 N No source found.
 @168
-N No source found.
-@169
 E2 RulesPal, "Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?": "A supernova can be activated; it only stops ships moving into or through it, so placing structures, producing, committing ground forces with the Sardakk commander, or entering with Nav Suite all work, and ships can always move out."
+@169
+N No source found.
 @170
 N No source found.
 @171
 N No source found.
 @172
-N No source found.
-@173
 I2 RulesPal, "Can ground forces that retreated with my ships … land on a planet in the new system?": "landing only happens in the invasion step of a tactical action in the active system."
-@174
+@173
 I10 Codex I, Plagiarize: "ACTION: Spend 5 influence and choose a non-faction technology owned by 1 of your neighbors."
-@175
+@174
 E4 Designer ruling: "If you are instructed to 'gain' or 'replace' a technology, you do not require prerequisites."
-@176
+@175
 I1 LRR FAQ: Sabotage "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on." The technology is the card's target.
 I2 RulesPal, "When exactly is Sabotage played: before or after the card's target is chosen?": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state" general rule that card choices are announced before Sabotage; only Focused Research is an exception.
+@176
+N No source found.
 @177
-N No source found.
-@178
 E2 RulesPal, "Can I play an action card whose effect would amount to nothing, like Plague on a planet with no infantry?": "Yes — doing the card's text with a result of zero still counts as resolving it … Players relaying an official reply confirmed Plague for zero."
-@179
+@178
 N No source found.
-@180
+@179
 N No numbered source. RulesPal, "In a three- or four-player game, does Political Stability let you keep both strategy cards?" (graded Best reading, unconfirmed; not used): "Yes — you keep both and skip choosing next strategy phase." The card refers to "strategy card(s)".
+@180
+N No source found.
 @181
 N No source found.
 @182
@@ -418,263 +418,261 @@ N No source found.
 @183
 N No source found.
 @184
-N No source found.
-@185
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@186
+@185
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@187
+@186
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@188
+@187
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@189
+@188
 E5 Designer ruling: "Public Disgrace is intended to replace that effect and force them to choose a different card instead. The trade good should go to the person who actually ends up with the card."
 E2 RulesPal: "Whoever ends up choosing that card."
-@190
+@189
 E2 RulesPal, "Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?": "No — Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren't choices."
+@190
+N No source found.
 @191
-N No source found.
-@192
 E6 Community consensus: "Puppets on a String: If Yssaril plays this … A: Yes, it is not Yssaril's turn, they are performing an action outside of their turn."
+@192
+E6 Community consensus: "Puppets on a String: Can you perform transactions or 'Start/end of your turn' abilities? A: No, it is not your turn."
 @193
-E6 Community consensus: "Puppets on a String: Can you perform transactions or 'Start/end of your turn' abilities? A: No, it is not your turn."
-@194
 E6 Community consensus: "Puppets on a String: If Yssaril plays this, and has Transparasteel Plating, can other players play action cards? A: Yes, it is not Yssaril's turn."
-@195
+@194
 E6 Community consensus: "Puppets on a String: Can you perform transactions or 'Start/end of your turn' abilities? A: No, it is not your turn."
-@196
+@195
 E6 Community consensus: "Puppets on a String: Since it is not your turn, how does that interact with Minister of Peace/Starlancer/other 'end that players' turn' abilities? A: Those abilities do not prevent the action being taken, and cannot fully resolve as there is no turn to end."
-@197
+@196
 N No source found.
-@198
+@197
 E6 Community consensus: "Puppets on a String: Can you use Fleet Logistics, Master Plan and Keleres Commander? A: Fleet Logistics = no, it is not a turn, only an action."
-@199
+@198
 E6 Same ruling: "Master Plan = yes."
-@200
+@199
 E6 Same ruling: "you can use Keleres commander if the action you perform is itself a component action."
+@200
+N No source found.
 @201
 N No source found.
 @202
-N No source found.
-@203
 I1 LRR FAQ: "'Lucky Shot' and other similar effects can only be used against other player's units and planets."
+@203
+N No source found.
 @204
 N No source found.
 @205
-N No source found.
-@206
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@207
+@206
 E4 Designer ruling: "Q: When are the hits generated by reflective shielding assigned? A: … If during the normal assign hits step, they are added to the pool of hits already generated."
-@208
+@207
 N No source found.
-@209
+@208
 E4 Designer ruling: "The hits are immediately assigned if not during the normal assign hits step."
+@209
+N No source found.
 @210
 N No source found.
 @211
-N No source found.
-@212
 E5 Designer ruling (x3n d0g, 1/25/2019): "think Repeal Law when there are no laws in play"
-@213
+@212
 E6 Community consensus: "Q: Rescue: If the ship is in a gravity rift, does it roll for it? A: Yes."
-@214
+@213
 E2 RulesPal, "How far can the ship moved by Rescue come from, and can it carry units?": "not from a system with your command token … It can transport fighters and ground forces."
-@215
+@214
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+@215
+N No source found.
 @216
 N No source found.
 @217
-N No source found.
-@218
 E2 RulesPal, "Can Reverse Engineer take an action card another player just played or had Sabotaged …?": "It takes a component action card another player discards for any reason, so one they just played or one cancelled by Sabotage."
-@219
+@218
 I4 Designer ruling, on The Codex relic: "the discard is public knowledge, so anything removed from the discard is also public knowledge."
-@220
+@219
 N No source found.
-@221
+@220
 E1 LRR 78.4c: "A player cannot announce a retreat if there is not at least one eligible system to retreat to."
 E2 RulesPal, "Who can retreat from a space combat …?": "You can only announce one if you have a legal system to retreat to (so Rout needs one too)."
-@222
+@221
 E2 RulesPal, "How does the Mahact hero's Benediction work?": "Neither side may retreat or use abilities that move ships, Skilled Retreat included."
-@223
+@222
 E5 Designer ruling (Jan 2018): "Because the card was cancelled, yes, you can play another copy of the same action card."
 E2 RulesPal, "If my action card is cancelled by Sabotage, can I play another copy …?": "Yes — a cancelled card is treated as never having been played, so the same-name restriction doesn't stop a second copy."
 I1 LRR 2.6b: "Canceled cards are not treated as being played." a canceled card is not played, so a second copy is not barred.
-@224
+@223
 I2 RulesPal: "a cancelled card is treated as never having been played."
-@225
+@224
 E1 LRR FAQ: Sabotage "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on, but must be played before any effects have been resolved, votes have been cast, or any dice have been rolled."
 E2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
 E5 Designer ruling (Jan 2019) on a card-by-card list of what is announced before Sabotage: "This list is mostly correct with one correction."
-@226
+@225
 E1 LRR FAQ: Sabotage "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
 E2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
 E5 Designer ruling: "For sabotage, you would play after the target is chosen."
-@227
+@226
 E5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
-@228
+@227
 E1 LRR FAQ: Sabotage "must be played before any effects have been resolved, votes have been cast, or any dice have been rolled."
 E2 RulesPal: "but before anything changes the game state, such as rolling dice or spending trade goods."
 I5 Designer ruling: "For sabotage, you would play after the target is chosen."
-@229
+@228
 E2 RulesPal, "When exactly is Sabotage played": "Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window."
+@229
+N No source found.
 @230
-N No source found.
-@231
 E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "No — a cancelled card counts as not played, so you still take an action (or pass, if allowed)."
-@232
+@231
 E2 Same entry: "If it was the optional extra action from Fleet Logistics, you can just end your turn."
-@233
+@232
 N No source found.
-@234
+@233
 E2 RulesPal, "Does Scramble Frequency reroll all the dice of a unit ability?": "Yes — all of that ability's dice are rolled together, so the card rerolls all of them, across different values or bombarded planets."
-@235
+@234
 E2 RulesPal, "Which hits can Shields Holding cancel?": "Not Space Cannon Offense or Defense, which happen outside space combat."
-@236
+@235
 E2 RulesPal, "Which hits can Shields Holding cancel?": "not 'destroy' effects such as Courageous to the End."
-@237
+@236
 I2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat." Ground combat is not space combat.
-@238
+@237
 E2 RulesPal, "Which hits can Shields Holding cancel?": "Hits during space combat, including Anti-Fighter Barrage in the first round and ability hits like Dimensional Splicer, Ambush or Devotion."
 I1 LRR FAQ: each player may play Shields Holding "to cancel hits against their own units" during space combat.
 I5 Designer ruling (sigmazero13, May 23, 2018): "Shields holding can be used against both of those abilities." Applies to Devotion and Dimensional Splicer hits; generalizes to hit-producing abilities.
-@239
+@238
 E2 RulesPal, "Which hits can Shields Holding cancel?": "including Anti-Fighter Barrage in the first round."
-@240
+@239
 E1 LRR FAQ: "During space combat, can each player play a 'Shields Holding' action card to cancel hits against their own units …? A: Yes. Because each of the 'Shields Holding' cards are targeting different sets of hits."
 E2 RulesPal: "Each combatant may play one in the same round."
 E5 Designer ruling: "Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits."
-@241
+@240
 E5 Designer ruling: "Only one instance of Shields Holding may be played to cancel hits from an incoming group of hits."
 I2 RulesPal, "Which hits can Shields Holding cancel?": "Each combatant may play one in the same round."
-@242
+@241
 N No source found. RulesPal's Mecatol Rex exclusion is for the Diplomacy strategy card, not this card.
-@243
+@242
 N No source found.
-@244
+@243
 E2 RulesPal, "Does Signal Jamming take command tokens from more than one player?": "No — it names a single other player, whose reinforcements supply the one token you place; that player must have one there for the card to be playable."
-@245
+@244
 E1 LRR FAQ: "'Skilled Retreat' is not a retreat and cannot be canceled in this way."
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It isn't a retreat in rules terms but a move, so Intercept can't cancel it."
-@246
+@245
 E2 RulesPal, "If the defender leaves with Skilled Retreat or Foresight, does the attacker still invade, and has anyone won a combat?": "But no combat was won: after a normal retreat the player left in the system wins, whereas Foresight happens before combat and Skilled Retreat leaves no winner, so 'win a combat' objectives and effects don't trigger."
-@247
+@246
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "It can go to any adjacent system without other players' ships, including the one the attacker came from."
-@248
+@247
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "ships can pick up ground forces from planets."
 I1 LRR 16.1: "A unit's capacity value indicates the maximum combined number of fighters and ground forces that it can transport."
 I5 Designer ruling on retreats: "the number you can attempt to move out of the system is still limited by your ships capacity in the same way that it is when you move."
-@249
+@248
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "Capacity and fleet limits apply again at the destination, and you choose which excess units to lose."
-@250
+@249
 E2 RulesPal, "Can I retreat or Skilled Retreat into … systems that contain my command token?": "A normal retreat or Skilled Retreat may go into a system that already has your command token; you just don't place a second one."
 E5 Designer ruling (JamesG, Jan 19, 2018): "That is correct."
-@251
+@250
 E5 Designer ruling: "Q: For Skilled Retreat, if the player has no Command Tokens in their reinforcements, can they use one from their command sheet …? Dane Beltrami's Answer: You can take a command token from anywhere on your sheet instead."
 I1 LRR 32.2a (Diplomacy): "If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet."
-@252
+@251
 E2 RulesPal, "How does Skilled Retreat differ from a normal retreat?": "fighters move with the fleet without needing capacity. Capacity and fleet limits apply again at the destination."
 E5 Designer ruling (sigmazero13, Jul 18, 2018): "Yes, move all of your ships."
-@253
+@252
 I10 Codex I, Solar Flare: "Other players cannot use SPACE CANNON against your ships." Only other players are restricted.
-@254
+@253
 I10 Codex I, Solar Flare limits Space Cannon "against your ships." Space Cannon Defense targets ground forces.
-@255
+@254
 N No source found.
-@256
+@255
 I2 RulesPal, "Does a strategy card's primary ability cost a command token, and does the Leadership secondary?": "Secondaries cost a strategy pool token, except Leadership's."
-@257
+@256
 E2 RulesPal, "Can Tactical Bombardment be played in a system with no enemy planets?": "it only requires that you have a unit with Bombardment in that system."
-@258
+@257
 E2 RulesPal, "Can Tactical Bombardment be played in a system with no enemy planets?": "Yes — it only requires that you have a unit with Bombardment in that system."
+@258
+E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
+E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
+E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
 @259
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
-E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
-E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@260
-E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@261
+@260
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@262
+@261
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@263
+@262
 E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
-@264
+@263
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol of the matching type."
 E2 RulesPal, "How do technology specialties work when researching?": "Exhaust a ready planet with a specialty to ignore one prerequisite of that color."
-@265
+@264
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@266
+@265
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@267
+@266
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@268
+@267
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@269
+@268
 E2 RulesPal, "Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?": "Yes — it was errata'd to destroy up to 3 infantry, so it removes whatever is there, up to 3."
 E1 LRR errata, Unstable Planet: "destroy up to 3 infantry on it."
-@270
+@269
 E1 LRR errata: "The text of the 'Unstable Planet' action card should read as follows: 'Action: Choose 1 hazardous planet. Exhaust that planet and destroy up to 3 infantry on it.'"
 E2 RulesPal: "it was errata'd to destroy up to 3 infantry."
-@271
+@270
 E2 RulesPal: "It can also target an exhausted hazardous planet, since its effects are joined by 'and'."
 E5 Designer ruling (Dane, 1/25/2019), "Can you use Unstable Planet on an exhausted world?": "it SHOULD be allowed, so please play as if that is the case."
-@272
+@271
 E1 LRR FAQ: "When playing the 'Upgrade' action card, does the cruiser already have to be present in the active system? A: Yes. The cruiser must already be in the activated system."
 E2 RulesPal, "When can the Upgrade action card be played?": "Immediately after you activate a system containing your ships — not later in that tactical action, such as after producing a new cruiser."
-@273
+@272
 E1 LRR FAQ: "The cruiser must already be in the activated system."
-@274
+@273
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
+@274
+E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
 @275
 E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
 @276
-E2 RulesPal, "Can I play a component action that I can't fully resolve?": "You can't … use Uprising on an exhausted planet."
-@277
 N No source found.
-@278
+@277
 E2 RulesPal, "Do 'when an agenda is revealed' effects like Veto and Quash come before Riders?": "Yes — 'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first, then 'after' effects (Riders …)."
-@279
+@278
 E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded by an effect such as the 'Veto' action card, can that player vote …? A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
-@280
+@279
 E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
-@281
+@280
 N No source found. RulesPal: "A Veto card, by contrast, is one card and one use." That limits one copy, not a second card.
-@282
+@281
 E1 LRR errata: "The text of the 'Veto' action card should read as follows: 'When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.'"
 I2 RulesPal: "Veto and Political Favor were errata'd to 'when' timing to match Quash."
-@283
+@282
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@284
+@283
 E10 Codex I, War Machine: "When 1 or more of your units use PRODUCTION."
-@285
+@284
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Yes — FFG confirmed by email that you can play several riders in the same vote."
 E5 Designer ruling (MATTPROV3, Nov 17, 2017): "You can indeed play multiple rider cards in the same vote."
-@286
+@285
 E1 LRR FAQ: "A player may play multiple rider action cards on a single agenda, and they may be played on opposing outcomes."
 E2 RulesPal: "Each rider is played on its own, so each can predict a different outcome."
-@287
+@286
 E2 RulesPal, "When an agenda outcome and a rider both award points, which resolves first?": "The agenda's outcome resolves first, then the riders that predicted it."
 I1 LRR 8.22b: "After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved."
-@288
+@287
 E1 LRR FAQ: "The Nekro player, or a player who cannot vote due to another effect, can still play rider action cards."
-@289
+@288
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
-@290
+@289
 E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."

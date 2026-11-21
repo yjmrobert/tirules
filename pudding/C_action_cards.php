@@ -351,10 +351,6 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, on a dreadnought carrying a fighter hit by Direct Hit after PDS fire: &ldquo;Scenario A [immediately destroy the fighter]. &hellip; During a combat, the fighters would persist until the end of combat, but in this case they are immediately destroyed.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Offense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.<sup>5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>5</sup> Same ruling: the fighter is &ldquo;immediately destroyed&rdquo; when its carrier is destroyed outside combat.</li>
-        </ul></li></ol>
     <li>A mech cannot be destroyed by <i>Direct Hit</i>, as it is not a ship.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Direct Hit destroy a mech that uses Sustain Damage?&rdquo;: &ldquo;No &mdash; Direct Hit targets ships, and mechs are ground forces.&rdquo;</li>
