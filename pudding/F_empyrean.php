@@ -231,10 +231,14 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
+    <li>If the action card that was canceled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage &hellip;?&rdquo;: &ldquo;a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
+        </ul></li>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
-        </ul></li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>

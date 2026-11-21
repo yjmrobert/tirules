@@ -50,17 +50,17 @@ N No source found.
 @24
 I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The mechs become Z-Grav Eidolon only once space combat starts.
 @25
-E2 RulesPal, "Is flipping Naaz-Rokha mechs to ships mandatory …?": "Flipping is mandatory, as nothing says 'may', but only for mechs already in the space area when combat starts."
+E6 Community consensus: "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …? A: Mech Flips at start of Space Combat in player order timing."
 @26
-I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.
+E2 RulesPal, "Is flipping Naaz-Rokha mechs to ships mandatory …?": "Flipping is mandatory, as nothing says 'may', but only for mechs already in the space area when combat starts."
 @27
-N No source found.
+I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.
 @28
 N No source found.
 @29
 N No source found.
 @30
-E6 Community consensus: "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …? A: Mech Flips at start of Space Combat in player order timing."
+N No source found.
 @31
 N No source found.
 @32
@@ -68,17 +68,17 @@ N No source found.
 @33
 N No source found.
 @34
-N No source found.
-@35
-N No source found.
-@36
-N No source found.
-@37
 E6 Community consensus, Eidelon Maximum treated as a ship: "Yes, it is a ship in that system."
-@38
+@35
 E6 Community consensus: "Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet? A: Yes, it is a ship in that system."
-@39
+@36
 E6 Community consensus: "In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player's ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system."
+@37
+N No source found.
+@38
+N No source found.
+@39
+N No source found.
 @40
 N No source found.
 @41

@@ -95,10 +95,12 @@ N No source found.
 @41
 N No source found.
 @42
-I2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
+I2 RulesPal, "If my component action card is cancelled by Sabotage …?": "a cancelled card counts as not played, so you still take an action (or pass, if allowed)."
 @43
-E6 Community consensus: "Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means."
+I2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
 @44
-E6 Community consensus: "Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors …? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether."
+E6 Community consensus: "Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means."
 @45
+E6 Community consensus: "Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors …? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether."
+@46
 E6 Community consensus: "Do the void tether tokens remain in play if the Empyrean player is eliminated? A: The Empyrean Breakthrough remains in play and the Void Tethers remain functional."

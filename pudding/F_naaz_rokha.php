@@ -144,6 +144,10 @@
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;?&rdquo;: &ldquo;Mech Flips at start of Space Combat in player order timing.&rdquo; The mechs become Z-Grav Eidolon only once space combat starts.</li>
         </ul></li>
+    <li>The mech flips at the start of space combat, resolved in the normal player order for abilities at that timing.<sup>6</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;? A: Mech Flips at start of Space Combat in player order timing.&rdquo;</li>
+        </ul></li>
     <li>If the Naaz&ndash;Rokha player had an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is flipping Naaz-Rokha mechs to ships mandatory &hellip;?&rdquo;: &ldquo;Flipping is mandatory, as nothing says &lsquo;may&rsquo;, but only for mechs already in the space area when combat starts.&rdquo;</li>
@@ -164,10 +168,6 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The mech flips at the start of space combat, resolved in the normal player order for abilities at that timing.<sup>6</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;? A: Mech Flips at start of Space Combat in player order timing.&rdquo;</li>
-        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Absolute%20Synergy">Absolute Synergy</a> <sub>(Breakthrough)</sub></h2>
@@ -184,18 +184,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Breakthrough:~:text=Eidolon%20Maximum">Eidolon Maximum</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When in the space area of a system, the Eidolon Maximum counts toward either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
-    <li>The Eidolon Maximum only repairs during combats that it is participating in.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Flagship:~:text=Visz%20El%20Vir"><i>Visz El Vir</i></a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -218,6 +206,18 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
+    <li>When in the space area of a system, the Eidolon Maximum counts toward either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>The Eidolon Maximum only repairs during combats that it is participating in.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes&rdquo;</li>
