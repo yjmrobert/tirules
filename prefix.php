@@ -2,7 +2,7 @@
 require __DIR__ . '/redirect_php_urls.php';
 ob_start(); ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
 <meta content="utf-8" http-equiv="encoding"/>
@@ -33,8 +33,27 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
         $page_title = $text . ' - Twilight Imperium Rules';
     }
     
+    // Meta description: a rules page's opening Rules Reference paragraph; otherwise a generic line
+    $page_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/';
+    $heading = isset($text) ? $text : 'Twilight Imperium';
+    $description = '';
+    if (preg_match('#^/R_[A-Za-z0-9_]+$#', $page_path) && preg_match('/<article>.*?<p[^>]*>(.*?)<\/p>/is', $page_content, $pm)) {
+        $description = trim(preg_replace('/\s+/u', ' ', html_entity_decode(strip_tags($pm[1]), ENT_QUOTES | ENT_HTML5, 'UTF-8')));
+        if (str_starts_with($description, 'There currently does not exist')) {
+            $description = '';
+        }
+    }
+    if ($description === '') {
+        $description = 'Notes and rulings on ' . $heading . ' for Twilight Imperium Fourth Edition, with sources.';
+    }
+    if (mb_strlen($description) > 160) {
+        $cut = mb_substr($description, 0, 157);
+        $description = rtrim(mb_substr($cut, 0, mb_strrpos($cut, ' ')), " ,;:") . '…';
+    }
+
     // Output the complete page with dynamic title
     echo $content;
+    echo '<meta name="description" content="' . htmlspecialchars($description) . '"/>' . "\n";
     echo '<title>' . htmlspecialchars($page_title) . '</title>';
     echo "\n</head>\n<body>\n";
     $page_content = preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);

@@ -1,8 +1,9 @@
 <?php require __DIR__ . '/redirect_php_urls.php'; ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Twilight Imperium Rule Help</title>
+<meta name="description" content="Rules reference for Twilight Imperium Fourth Edition: the Living Rules Reference with notes and rulings for Prophecy of Kings, the Codices and Thunder&rsquo;s Edge, each with its source."/>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
 <meta content="utf-8" http-equiv="encoding"/>
 <meta name="author" content="BradleyΣ"/>
