@@ -9,6 +9,7 @@
     <ol>
         <li data-src="1,2,3">To activate a system, the active player places a command token from their tactic pool in that system. That system is the active system.</li>
         <li data-src="1,3">Other players&rsquo; command tokens do not prevent a player from activating a system.</li>
+        <li>(Thunder&rsquo;s Edge) The primary ability of the <a href="/R_warfare"><i>Warfare</i></a> strategy card allows a player to perform a tactical action in a system that already contains one of their command tokens, without placing a command token.<sup>13</sup></li>
     </ol>
     <li data-src="1,3"><b>Step 2 &ndash; Movement</b>: The active player may move any number of ships that have a sufficient move value from any number of systems that do not contain one of their command tokens into the active system, following the rules for movement.</li>
     <ol>

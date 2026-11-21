@@ -1,2 +1,4 @@
+@r0
+E13 Warfare (Thunder's Edge), primary: "Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated."
 @0
 E2 RulesPal, "Do Diplomacy tokens, retreats or action cards like Ghost Ship or Plague count as activating a system?": "No — a system is activated only by placing a command token as the first step of a tactical action. Tokens placed by Diplomacy or a retreat and cards aimed at a system don't activate it."
