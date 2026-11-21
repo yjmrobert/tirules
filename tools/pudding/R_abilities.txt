@@ -45,13 +45,15 @@ E5 The same designer ruling rejects the alternative, "If a player chooses not to
 @17
 E2 RulesPal, "If I pass on playing an action card or ability in a timing window, can I still play one later in that window?": "Yes — passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row."
 @18
+E2 RulesPal, "If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?": "Initiative order: the player with the lower initiative number resolves first."
+@19
 E1 LRR 82.1: "After the active player resolves the primary ability on their strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may resolve that card's secondary ability."
 E2 RulesPal, "When a strategy card is played, do other players resolve the secondary right away …?": "Right away, clockwise from the active player."
-@19
+@20
 E1 LRR 3.3a: "During a turn that a player passes, they can resolve transactions and 'at the start of your turn' abilities."
 E4 Designer ruling: "Can you resolve end of turn abilities on the turn you pass? A: Yes."
-@20
+@21
 E6 Community consensus: "Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll …? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability."
 E9 Designer Q&A, "Unit Abilities imply Units?": "Yes I'd say let them combo and be shut down."
-@21
+@22
 E9 Designer Q&A, "Unit Abilities imply Units?": "Should these things be treated as if they were units … and thus combo with things like Argent commander, and be shut down by things like Crimson flagship? A: Yes I'd say let them combo and be shut down."

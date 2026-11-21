@@ -94,6 +94,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I pass on playing an action card or ability in a timing window, can I still play one later in that window?&rdquo;: &ldquo;Yes &mdash; passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row.&rdquo;</li>
         </ul></li> -->
     </ol>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the <a href="/R_status_phase">status phase</a>, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?&rdquo;: &ldquo;Initiative order: the player with the lower initiative number resolves first.&rdquo;</li>
+        </ul></li>
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 82.1: &ldquo;After the active player resolves the primary ability on their strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may resolve that card&rsquo;s secondary ability.&rdquo;</li>
