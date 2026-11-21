@@ -5,6 +5,10 @@
 
 <h2>Notes</h2>
     <ol class="note">
+    <li>A <a href="/R_space_stations">space station</a> is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A space station isn&rsquo;t a planet, so controlling one doesn&rsquo;t stop you being eliminated.&rdquo;</li>
+        </ul></li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;What happens to Avernus if Muaat is eliminated?&rdquo;: &ldquo;Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction&rsquo;s home system.&rdquo; An eliminated player&rsquo;s home system stays a home system.</li>

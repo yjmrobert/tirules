@@ -1,8 +1,10 @@
 @0
-I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
+E2 RulesPal: "A space station isn't a planet, so controlling one doesn't stop you being eliminated."
 @1
-N No source found.
+I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
 @2
-E4 Designer ruling: "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
+N No source found.
 @3
+E4 Designer ruling: "What happens to your relics and relic fragments when you're eliminated? A: Relics are purged, relic fragments discarded."
+@4
 E4 Designer ruling: "Captured units remain on the sheet of the player that captured them. If they would ever be returned to the eliminated player, they are returned to the game box instead."

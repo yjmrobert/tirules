@@ -34,6 +34,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
+    <li>A <a href="/R_space_stations">space station</a> is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>6</sup></li>
         <ol><li>This includes effects that specify &ldquo;another player&rsquo;s home system&rdquo;.<sup>*</sup></li></ol>
     <li>If an eliminated player had any relic fragments, they are discarded. If an eliminated player had any relics, they are purged.<sup>4</sup></li>
