@@ -41,10 +41,6 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player&rsquo;s &lsquo;Political Secret&rsquo; promissory note is used against them, but that agenda is subsequently discarded &hellip; A: Yes. It is a new agenda and thus the effect of the player&rsquo;s &lsquo;Political Secret&rsquo; is ended.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 6, 2018): &ldquo;It counts as being resolved.&rdquo; Quashed agenda counts as resolved, so Political Secret ends.</li>
         </ul></li>
-    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (on Quash and the replacement agenda): &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
-        </ul></li>
     <li><sc>Quash</sc> may be used on the replacement agenda.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Xxcha Quash more than once, including the replacement agenda?&rdquo;: &ldquo;Yes &mdash; Quash can be used on any newly revealed agenda as long as Xxcha pays a strategy token each time.&rdquo;</li>
@@ -54,6 +50,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 19, 2018): &ldquo;If &lsquo;Miscount Disclosed&rsquo; causes a law to come up to be voted on again: Can Xxcha &lsquo;Quash&rsquo; it (or someone &lsquo;Veto&rsquo;) it? &hellip; Dane: &hellip; Yes to both questions regarding Miscount disclosed&rdquo;</li>
+        </ul></li>
+    <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (on Quash and the replacement agenda): &ldquo;I would also say that they could perform new transactions.&rdquo;</li>
         </ul></li>
     </ol>
 

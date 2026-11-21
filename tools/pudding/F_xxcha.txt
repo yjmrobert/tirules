@@ -17,13 +17,13 @@ E2 RulesPal, "Do 'when an agenda is revealed' effects like Veto and Quash come b
 E1 LRR FAQ: "If a player's 'Political Secret' promissory note is used against them, but that agenda is subsequently discarded … A: Yes. It is a new agenda and thus the effect of the player's 'Political Secret' is ended."
 I5 Designer ruling (sigmazero13, Jun 6, 2018): "It counts as being resolved." Quashed agenda counts as resolved, so Political Secret ends.
 @7
-E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
-@8
 E2 RulesPal, "Can the Xxcha Quash more than once, including the replacement agenda?": "Yes — Quash can be used on any newly revealed agenda as long as Xxcha pays a strategy token each time."
 E5 Designer ruling: "Yes, the other Agenda can be Quashed."
-@9
+@8
 E2 RulesPal, "How does the revote from Miscount Disclosed work?": "Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it."
 E5 Designer ruling (sigmazero13, Jun 19, 2018): "If 'Miscount Disclosed' causes a law to come up to be voted on again: Can Xxcha 'Quash' it (or someone 'Veto') it? … Dane: … Yes to both questions regarding Miscount disclosed"
+@9
+E5 Designer ruling (on Quash and the replacement agenda): "I would also say that they could perform new transactions."
 @10
 E2 RulesPal: "'when' effects (Quash, Veto, Political Favor, Political Secret) resolve first."
 @11

@@ -94,11 +94,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can Sardakk N&rsquo;orr&rsquo;s commander, G&rsquo;hom Sek&rsquo;kus, be used without moving any ships into the active system? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Sardakk commander commit ground forces from adjacent systems without moving any ships in &hellip;?&rdquo;: &ldquo;Yes &mdash; the invasion step happens in every tactical action, so you can activate the system, move nothing, and commit ground forces from adjacent planets.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to committed ground forces when Parley is played?&rdquo;: &ldquo;They return to the space area rather than being destroyed, within capacity.&rdquo;</li>
-        </ul></li>
-    <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup>
+    <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -107,15 +103,10 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Sardakk N&rsquo;orr player commit ground forces via their commander, G&rsquo;hom Sek&rsquo;kus, on defense? A: No, only the active player can commit ground forces.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Sardakk commander be used when defending?&rdquo;: &ldquo;only the active player commits ground forces&rdquo;</li>
         </ul></li>
-    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
+    <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup>
         <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
-        </ul></li></ol>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
@@ -138,14 +129,23 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does using Dominus Orb allow the Sardakk N&rsquo;orr player to commit ground forces via their commander &hellip;? A: No, G&rsquo;hom Sek&rsquo;kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place.&rdquo;</li>
         </ul></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to committed ground forces when Parley is played?&rdquo;: &ldquo;They return to the space area rather than being destroyed, within capacity.&rdquo;</li>
+        </ul></li>
+    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
+        </ul></li>
+    <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the L1Z1X use harrow when they&rsquo;re defending during ground combat? A: No, only the active player can use BOMBARDMENT.&rdquo;</li>
+        </ul></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Sh%27val%2C%20Harbinger">Sh&rsquo;val, Harbinger</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Tekklar%20Conditioning">Tekklar Conditioning</a> <sub>(Hero)</sub></h2>
