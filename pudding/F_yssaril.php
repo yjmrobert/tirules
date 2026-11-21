@@ -59,6 +59,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred&rdquo; in that window.</li>
         </ul></li>
+    <li>A player who already has <i>Spy Net</i> may play it, then receive it again in a transaction, but cannot play it again that turn, as the &ldquo;start of your turn&rdquo; timing has passed.<sup>1</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo; Spy Net&rsquo;s &ldquo;start of your turn&rdquo; timing occurs once per turn.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>

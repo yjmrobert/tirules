@@ -25,6 +25,7 @@
     <ol class="note">
     <li>The player that plays <i>Spy Net</i> must look at the Yssaril player&rsquo;s hand of action cards. They do not have to read or memorize what they look at.<sup>*</sup></li>
     <li>A player may receive <i>Spy Net</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1</sup></li>
+    <li>A player who already has <i>Spy Net</i> may play it, then receive it again in a transaction, but cannot play it again that turn, as the &ldquo;start of your turn&rdquo; timing has passed.<sup>1</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Mageon%20Implants">Mageon Implants</a> <sub>(Technology)</sub></h2>
