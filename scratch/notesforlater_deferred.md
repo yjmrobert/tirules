@@ -21,4 +21,7 @@ there are a handful of things that could be consolidated, formatted better or re
 
 ## support request/bugreport form that makes github issues
 
-# there is a formatting error on some pages were text gets cut off
+## F_mahact: stray <li>/<ol> directly inside <article>
+Question: F_mahact.php has an <li> and an <ol> sitting directly in <article>, outside any <ol class="note"> (also in pudding/F_mahact.php). Looks like a markup slip; fix it?
+Context: found while fixing the Safari column clipping (style.css, 2026-11-21).
+Unanswered: the owner replied "approve" only.

@@ -1448,3 +1448,7 @@ review notes on the site that have * because the only proof is implicit. some of
 Added 2026-11-17 ("this seems like it should have a 2" item): owner wants the * replaced by the proven source numbers when implicit proofs exist, as done for R_promissory_notes @1 (now 1,2). Current count: 79 notes cite * with E/I proof lines.
 Also (2026-11-17): ~12 'home system of an eliminated player' * notes (R_elimination @0, F_creuss x3, F_mahact, F_muaat, F_norr, C_action_cards, C_objectives x4) can take the I6 Avernus proof used for Stymie in that commit.
 Also (2026-11-21, unanswered side question): F_deepwrought Wave Function Collapse note "If they also owned the purged technology, the Deepwrought player too will research another technology.<sup>*</sup>" has an I2 RulesPal proof and is a candidate for <sup>2</sup>.
+
+## there is a formatting error on some pages were text gets cut off
+Commit: 756bc9a (Safari/WebKit multicol bug with column-span headings; columns moved onto each list)
+there is a formatting error on some pages were text gets cut off
