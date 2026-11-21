@@ -26,5 +26,6 @@ if ($resolvedPhpPath !== false && str_starts_with($resolvedPhpPath, $docRoot . D
     return true;
 }
 
-require __DIR__ . '/index.php';
+// Anything else is a missing page
+require __DIR__ . '/404.php';
 return true;

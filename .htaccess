@@ -1,3 +1,4 @@
+ErrorDocument 404 /404.php
 RewriteEngine On
 # /R_combat/pudding serves pudding/R_combat.php (the page's note proofs)
 RewriteRule ^([RFC]_[A-Za-z0-9_]+)/pudding$ pudding/$1.php [L]

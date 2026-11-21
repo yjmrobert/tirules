@@ -9,8 +9,10 @@ ob_start(); ?>
 <meta name="author" content="BradleyΣ"/>
 <meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<?php if (empty($page_noindex)) { // the 404 page sets $page_noindex: no canonical, not indexed ?>
 <link rel="canonical" href="https://tirules2.com<?php echo htmlspecialchars(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/'); ?>"/>
-<?php if (str_ends_with(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '', '/pudding')) { ?>
+<?php } ?>
+<?php if (!empty($page_noindex) || str_ends_with(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '', '/pudding')) { ?>
 <meta name="robots" content="noindex, follow"/>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>
