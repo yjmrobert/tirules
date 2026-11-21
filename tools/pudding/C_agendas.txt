@@ -35,23 +35,23 @@ N No source found. Compare RulesPal on Judicial Abolishment: "that law is the on
 @16
 I1 LRR FAQ: "A player may play multiple rider action cards on a single agenda." No exception for a single eligible outcome.
 @17
-E2 RulesPal, "How does a secret objective made public by Classified Document Leaks work?": "Nobody can score it twice, its original owner included."
-E5 Designer ruling (Dec 2017): "No, the objective cannot be scored a second time."
-@18
-E2 RulesPal: "While leaked it is a public objective and no longer counts toward its owner's secret objectives, so they may hold another secret."
-E5 Designer ruling (Dec 2017): "The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public."
-@19
-E1 LRR FAQ: "If the 'Classified Document Leaks' agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players, but it does not count toward the secret objective total of the player who originally owned it."
-N2 Conflicts: RulesPal says "If the law is later discarded, the card returns to its owner as a secret."
-@20
-E1 LRR 61.7: "they can only score one objective during or after each combat."
-@21
 E2 RulesPal: "While leaked it is a public objective and no longer counts toward its owner's secret objectives."
 E5 Designer ruling (Dec 2017): "the one he originally completed now counts as public."
-@22
+@18
 N No source found.
-@23
+@19
+E2 RulesPal, "How does a secret objective made public by Classified Document Leaks work?": "Nobody can score it twice, its original owner included."
+E5 Designer ruling (Dec 2017): "No, the objective cannot be scored a second time."
+@20
+E2 RulesPal: "While leaked it is a public objective and no longer counts toward its owner's secret objectives, so they may hold another secret."
+E5 Designer ruling (Dec 2017): "The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public."
+@21
 E1 LRR FAQ: "it does not count toward the secret objective total of the player who originally owned it."
+@22
+E1 LRR FAQ: "If the 'Classified Document Leaks' agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players, but it does not count toward the secret objective total of the player who originally owned it."
+N2 Conflicts: RulesPal says "If the law is later discarded, the card returns to its owner as a secret."
+@23
+E1 LRR 61.7: "they can only score one objective during or after each combat."
 @24
 E6 Community consensus: "What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? … A: They do not gain a VP and they are unable to score it again."
 @25
@@ -136,11 +136,11 @@ E2 RulesPal, "What does Enforced Travel Ban do": "Against: every PDS in or next 
 @62
 I2 RulesPal, "Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?": "Crafty does beat effects that cap hand size, such as Executive Sanctions." Yssaril is unaffected by Executive Sanctions hand cap.
 @63
-E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
-@64
-E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
-@65
 E2 RulesPal, "When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?": "Excess fleet tokens return to reinforcements; you can't move them to other pools. Any ships over the new limit must be removed immediately."
+@64
+E2 RulesPal, "When Fleet Regulations passes …": "Abilities that raise fleet limits, like Letnev's, still add on top."
+@65
+E4 Designer ruling: "If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one …? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward."
 @66
 E2 RulesPal, "How does Galactic Crisis Pact work when Leadership is elected?": "there's no token cost to waive, but spending influence for tokens still applies."
 @67
@@ -192,9 +192,9 @@ I2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?
 @88
 N No source found.
 @89
-I2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step."
-@90
 E2 RulesPal: "Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished."
+@90
+I2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step."
 @91
 N No source found.
 @92
@@ -226,13 +226,13 @@ E1 LRR FAQ: "The Yssaril's 'Scheming' ability, however, is triggered each time t
 E1 LRR FAQ: "'Neural Motivator' gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities."
 E5 Designer ruling (Mar 2019): "NM is intended to refer to the specific step of the status phase, not a blanket rule. I can see the reasoning there, but no."
 @105
-N No source found.
-@106
 E1 LRR FAQ: "Is the trigger for the 'Minister of War' agenda card's ability 'performing an action'? A: Yes. Performing any action is the trigger for the remainder of the 'Minister of War' agenda card's ability."
 E2 RulesPal, "Can Minister of War be used after any action?": "its owner can discard it after any action … it doesn't need to follow an action that removed a token."
 E5 Designer ruling (Mattchew222, Feb 6, 2018): "You can discard the Minister of War card after doing ANY action to take an additional action."
-@107
+@106
 E2 RulesPal, "How do Minister of Commerce, Industry, Peace and War interact …?": "Minister of War isn't an action itself, so with Fleet Logistics you can take three actions in a turn."
+@107
+N No source found.
 @108
 N No source found. Compare RulesPal on Judicial Abolishment: "that law is the only eligible outcome … if nobody votes the speaker must break the 0-0 tie by choosing it."
 @109
@@ -375,9 +375,9 @@ E2 RulesPal, "Does Shard of the Throne change hands if both sides' ground forces
 @169
 N No numbered source. RulesPal, "Under Shared Research's Against outcome, what if I have no command tokens in reinforcements?" (graded Best reading, unconfirmed; not used): "Then you place nothing — the outcome places a token only if able, so you don't take one from your sheet."
 @170
-N No source found.
-@171
 E2 RulesPal, "How does Swords to Plowshares work on a planet with one infantry …?": "Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once."
+@171
+N No source found.
 @172
 N No source found.
 @173
@@ -393,14 +393,14 @@ E5 Designer ruling: "only the ships in systems with alpha and beta wormholes (no
 @177
 I2 RulesPal: "only ships in alpha or beta systems are then destroyed." A system with an alpha or beta wormhole qualifies whatever else it has.
 @178
-E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+N No source found.
 @179
+N No source found.
+@180
+E4 Designer ruling: "If an ability instructs you to 'research' a technology, you require the prerequisites on that technology to do so."
+@181
 E1 LRR 90.14: "When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol."
 E3 Learn to Play, Agenda Phase: "3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends"
-@180
-N No source found.
-@181
-N No source found.
 @182
 N No source found.
 @183

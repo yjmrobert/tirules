@@ -48,13 +48,13 @@
     <ol class="note">
     <li>If <i>Classified Document Leaks</i> is revealed when only one secret objective is in play, players may only vote for that secret objective or abstain. If no votes are cast, the speaker must decide for that secret objective to be elected.<sup>*</sup></li>
     <ol><li>Players may still play riders if only one secret objective has been scored.<sup>*</sup></li></ol>
-    <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.<sup>2,5</sup></li>
-    <li>The elected secret objective no longer counts toward the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup></li>
-    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded, and does not count toward the original player&rsquo;s secret objective total.<sup>1</sup></li>
-    <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.<sup>1</sup></li>
     <li>The elected objective becomes a public objective and stops being a secret objective.<sup>2,5</sup></li>
     <ol><li>If there are no other secret objectives eligible to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup></li></ol>
+    <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.<sup>2,5</sup></li>
+    <li>The elected secret objective no longer counts toward the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup></li>
     <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective does not count toward the secret objective total of the player who originally owned it.<sup>1</sup></li>
+    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded, and does not count toward the original player&rsquo;s secret objective total.<sup>1</sup></li>
+    <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.<sup>1</sup></li>
     <li>If the <a href="/F_firmament">Firmament</a> player has their control token on the elected secret objective, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
     </ol>
 
@@ -146,9 +146,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
     <ol class="note">
+    <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup></li>
     <li>The effect of the <i>Fleet Regulations</i> law does not prevent the <a href="/F_letnev">Letnev</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.<sup>2</sup></li>
     <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup></li>
-    <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
@@ -210,8 +210,8 @@
     <ol class="note">
     <li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.<sup>2</sup></li>
     <ol><li>Gaining a fixed number of commodities does not trigger <i>Minister of Commerce</i>, even if doing so would result in its owner having commodities equal to their commodity value.<sup>*</sup></li></ol>
-    <li>All trade goods are gained together.<sup>2</sup></li>
     <li>The owner of Minister of Commerce gains trade goods from Minister of Commerce when they replenish commodities, even if they already have their maximum number of commodities.<sup>2</sup></li>
+    <li>All trade goods are gained together.<sup>2</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Exploration">Minister of Exploration</a></h2>
@@ -250,9 +250,9 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     <li>Performing any action is the trigger for the remainder of the ability of <i>Minister of War</i>.<sup>1,2,5</sup></li>
     <li>Resolving Minister of War is not an action. As such, a player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology may perform three actions in one turn.<sup>2</sup></li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed">Miscount Disclosed</a></h2>
@@ -409,8 +409,8 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>
     <ol class="note">
-    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i>.<sup>*</sup></li>
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup></li>
+    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i>.<sup>*</sup></li>
     <li>Neutral infantry are unaffected by <i>Swords to Plowshares</i>, as there is no neutral player.<sup>*</sup></li>
     </ol>
 
@@ -434,18 +434,18 @@
     <ol class="note">
     <li>A player with ships in a delta wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.<sup>2,5</sup></li>
     <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.<sup>2</sup></li></ol>
+    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.<sup>*</sup></li>
+    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup></li>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
         <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
-    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.<sup>*</sup></li>
     <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> is in play as a law, players who research a technology will destroy a ship due to <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>.<sup>*</sup></li>
     <ol>
         <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup></li>
         <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup></li>
     </ol>
-    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

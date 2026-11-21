@@ -103,6 +103,15 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;A player may play multiple rider action cards on a single agenda.&rdquo; No exception for a single eligible outcome.</li>
         </ul></li></ol>
+    <li>The elected objective becomes a public objective and stops being a secret objective.<sup>2,5</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;the one he originally completed now counts as public.&rdquo;</li>
+        </ul></li>
+    <ol><li>If there are no other secret objectives eligible to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li></ol>
     <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does a secret objective made public by Classified Document Leaks work?&rdquo;: &ldquo;Nobody can score it twice, its original owner included.&rdquo;</li>
@@ -113,6 +122,10 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives, so they may hold another secret.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;The player whose secret objective became public can now complete another secret objective, as the one he originally completed now counts as public.&rdquo;</li>
         </ul></li>
+    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective does not count toward the secret objective total of the player who originally owned it.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;it does not count toward the secret objective total of the player who originally owned it.&rdquo;</li>
+        </ul></li>
     <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded, and does not count toward the original player&rsquo;s secret objective total.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the &lsquo;Classified Document Leaks&rsquo; agenda is discarded, what happens? A: The secret objective remains in play; it is no longer a public objective and cannot by scored by any additional players, but it does not count toward the secret objective total of the player who originally owned it.&rdquo;</li>
@@ -121,19 +134,6 @@
     <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
-        </ul></li>
-    <li>The elected objective becomes a public objective and stops being a secret objective.<sup>2,5</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;While leaked it is a public objective and no longer counts toward its owner&rsquo;s secret objectives.&rdquo;</li>
-        <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2017): &ldquo;the one he originally completed now counts as public.&rdquo;</li>
-        </ul></li>
-    <ol><li>If there are no other secret objectives eligible to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li></ol>
-    <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective does not count toward the secret objective total of the player who originally owned it.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;it does not count toward the secret objective total of the player who originally owned it.&rdquo;</li>
         </ul></li>
     <li>If the <a href="/F_firmament">Firmament</a> player has their control token on the elected secret objective, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
         <ul>
@@ -348,6 +348,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations">Fleet Regulations</a></h2>
     <ol class="note">
+    <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?&rdquo;: &ldquo;Excess fleet tokens return to reinforcements; you can&rsquo;t move them to other pools. Any ships over the new limit must be removed immediately.&rdquo;</li>
+        </ul></li>
     <li>The effect of the <i>Fleet Regulations</i> law does not prevent the <a href="/F_letnev">Letnev</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Fleet Regulations passes &hellip;&rdquo;: &ldquo;Abilities that raise fleet limits, like Letnev&rsquo;s, still add on top.&rdquo;</li>
@@ -355,10 +359,6 @@
     <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
-        </ul></li>
-    <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?&rdquo;: &ldquo;Excess fleet tokens return to reinforcements; you can&rsquo;t move them to other pools. Any ships over the new limit must be removed immediately.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -494,13 +494,13 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>All trade goods are gained together.<sup>2</sup>
-        <ul>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step.&rdquo;</li>
-        </ul></li>
     <li>The owner of Minister of Commerce gains trade goods from Minister of Commerce when they replenish commodities, even if they already have their maximum number of commodities.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Minister of Commerce still pays 1 trade good per neighbor when your commodities were already full, since you still replenished.&rdquo;</li>
+        </ul></li>
+    <li>All trade goods are gained together.<sup>2</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -584,10 +584,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>Performing any action is the trigger for the remainder of the ability of <i>Minister of War</i>.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Is the trigger for the &lsquo;Minister of War&rsquo; agenda card&rsquo;s ability &lsquo;performing an action&rsquo;? A: Yes. Performing any action is the trigger for the remainder of the &lsquo;Minister of War&rsquo; agenda card&rsquo;s ability.&rdquo;</li>
@@ -597,6 +593,10 @@
     <li>Resolving Minister of War is not an action. As such, a player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology may perform three actions in one turn.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Minister of Commerce, Industry, Peace and War interact &hellip;?&rdquo;: &ldquo;Minister of War isn&rsquo;t an action itself, so with Fleet Logistics you can take three actions in a turn.&rdquo;</li>
+        </ul></li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
@@ -957,13 +957,13 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>
     <ol class="note">
-    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>If a planet contains only one infantry, that infantry is destroyed and its owner gains one trade good. All trade goods from Swords to Plowshares are gained together, so the <a href="/F_mentak">Mentak</a> player may use their Pillage faction ability on each affected neighbor only once.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Swords to Plowshares work on a planet with one infantry &hellip;?&rdquo;: &ldquo;Half of one rounded up is one, so the lone infantry is destroyed and you gain 1 trade good. All the trade goods from Swords to Plowshares or Compensated Disarmament arrive in a single step, so Mentak can pillage each affected neighbor only once.&rdquo;</li>
+        </ul></li>
+    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>Neutral infantry are unaffected by <i>Swords to Plowshares</i>, as there is no neutral player.<sup>*</sup>
         <ul>
@@ -1008,6 +1008,14 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;only ships in alpha or beta systems are then destroyed.&rdquo; A system with an alpha or beta wormhole qualifies whatever else it has.</li>
         </ul></li></ol>
+    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
+    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
+        </ul></li>
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
@@ -1023,10 +1031,6 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> is in play as a law, players who research a technology will destroy a ship due to <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
@@ -1041,10 +1045,6 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The <a href="/F_saar">Saar</a> player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>
