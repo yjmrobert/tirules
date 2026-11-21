@@ -5,7 +5,7 @@ E2 RulesPal, "When a carrier leaves a gravity rift …?": "Units lost this way a
 E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."
 @2
 E1 LRR 61.9a: "Forcing a player to remove a unit from the board by reducing the number of command tokens in their fleet pool is not treated as destroying a unit."
-I1 LRR 37.4: "If at any time the number of a player's non-fighter ships in a system exceeds the number of tokens in that player's fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements."
+I1 LRR 37.3: "If at any time the number of a player's non-fighter ships in a system exceeds the number of tokens in that player's fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements."
 @3
 E4 Designer ruling: "When you exceed the number of plastic infantry/fighters available, are unaccompanied tokens removed or destroyed? A: Removed."
 @4

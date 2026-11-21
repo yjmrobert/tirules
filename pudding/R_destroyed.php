@@ -17,7 +17,7 @@
     <li>Ships that are removed because they exceed a player&rsquo;s <a href="/R_fleet_pool">fleet pool</a> limit are not destroyed.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.9a: &ldquo;Forcing a player to remove a unit from the board by reducing the number of command tokens in their fleet pool is not treated as destroying a unit.&rdquo;</li>
-        <li><b>Implicit</b>: <sup>1</sup> LRR 37.4: &ldquo;If at any time the number of a player&rsquo;s non-fighter ships in a system exceeds the number of tokens in that player&rsquo;s fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>1</sup> LRR 37.3: &ldquo;If at any time the number of a player&rsquo;s non-fighter ships in a system exceeds the number of tokens in that player&rsquo;s fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements.&rdquo;</li>
         </ul></li>
     <li>If a player has a <a href="/R_fighter_tokens">fighter token</a> or <a href="/R_infantry_tokens">infantry token</a> that is not accompanied by a plastic piece of the same type and cannot replace it, the token is removed instead of destroyed.<sup>4</sup>
         <ul>
