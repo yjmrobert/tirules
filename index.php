@@ -199,6 +199,8 @@ li.te:before
         <li><a href="/C_technology">Technology</a></li>
         <li><a href="/C_units">Units</a></li>
     </ol>
+<h2 class="section">Twilight&rsquo;s Fall</h2>
+<p>Coming soon.</p>
 </article>
 <footer>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
