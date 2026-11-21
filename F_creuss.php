@@ -73,6 +73,7 @@
     <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.<sup>*</sup></li>
     <li>If the <i>Hil Colish</i> is returned to the reinforcements by a gravity rift, its delta wormhole ceases to exist; other ships cannot use it to reach the active system.<sup>1,2</sup></li>
     <li>The <i>Hil Colish</i> is not a wormhole token. If it is in an entropic scar, its delta wormhole is unaffected by that entropic scar.<sup>6</sup></li>
+    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>

@@ -217,6 +217,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: &hellip; there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
+    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Can Space Cannon with range reach through a wormhole?&rdquo;: &ldquo;wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship&rdquo;.</li>
+        </ul></li>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
