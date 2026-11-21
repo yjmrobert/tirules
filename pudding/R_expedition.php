@@ -87,7 +87,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is place in a system containing a frontier token, that token is not removed.<sup>7</sup>
+        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed in a system containing a frontier token, that token is not removed.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16: &ldquo;When Thunder&rsquo;s Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored.&rdquo;</li>
         </ul></li>

@@ -1,24 +1,24 @@
 @r0
 E7 Thunder's Edge Rulebook p. 11, Coexist: "Coexisting units can be bombarded. When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player's units, rolling against each player separately."
 @0
-E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect … Bombardment …?": "No — only rolls made against a unit's combat value are combat rolls."
-I1 LRR 15.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls."
-@1
-E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — … bombarding away all defenders … involves no combat."
-@2
-E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit."
-I1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it."
-@3
 E1 LRR 15.1: "The active player chooses which planet each of their units that has a 'Bombardment' ability will bombard."
 E4 Designer ruling: "only the active player can use BOMBARDMENT."
-@4
+@1
+E2 RulesPal, "Do Morale Boost, faction modifiers and rerolls affect … Bombardment …?": "No — only rolls made against a unit's combat value are combat rolls."
+I1 LRR 15.1c: "Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls."
+@2
+E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "No — … bombarding away all defenders … involves no combat."
+@3
 E1 LRR 15.1d: "a player must declare which planet a unit is bombarding before making a bombardment roll."
 E2 RulesPal, "Can one ship bombard several planets, or split its dice between them?": "a unit bombards a single planet with all its dice."
 E3 Learn to Play: "These hits can only be assigned by the bombarded player to ground forces on the planet being bombarded."
+@4
+N No source found.
 @5
 N No source found.
 @6
-N No source found.
+E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit."
+I1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it."
 @7
 E1 LRR FAQ: "Are the '0' faces of the ten-sided dice … intended to represent the result of a '10'? A: Yes, the '0' face is a '10' result."
 E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."

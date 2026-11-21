@@ -9,6 +9,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>A player may choose to reveal any or all of the promissory notes in their hand.<sup>1,2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo; The matched LRR passage (elimination) is less direct.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;Yes &mdash; you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards.&rdquo; Promissory notes in a player&rsquo;s hand are that player&rsquo;s hidden cards.</li>
+        </ul></li>
     <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I trade on a promissory note I received from another player, and must I show it?&rdquo;: &ldquo;you needn&rsquo;t show it, though the recipient may want to see it first.&rdquo;</li>
@@ -24,11 +29,6 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Support for the Throne: &ldquo;When you receive this card &hellip; you must place it faceup in your play area.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>A player may choose to reveal any or all of the promissory notes in their hand.<sup>1,2</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can you intentionally reveal hidden information to another player &hellip;? A: Yes. This information is kept hidden by default, but it is permissible to reveal it.&rdquo; The matched LRR passage (elimination) is less direct.</li>
-        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I show my action cards or secret objectives to other players?&rdquo;: &ldquo;Yes &mdash; you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards.&rdquo; Promissory notes in a player&rsquo;s hand are that player&rsquo;s hidden cards.</li>
-        </ul></li>
     <li>If a player receives a card, such as a promissory note, in a transaction during that card&rsquo;s timing window, they may play it immediately. For example, a promissory note with &ldquo;At the start of your turn:&rdquo; timing may be played immediately if the transaction occurred during the &ldquo;start of turn&rdquo; timing window.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes. For example, a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played.&rdquo;</li>
