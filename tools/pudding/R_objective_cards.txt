@@ -6,24 +6,24 @@ E3 Learn to Play: "requirement on the card during the 'Score Objectives' step of
 E2 RulesPal, "Do revealed public objectives stay in play, and can several players score the same one?": "Any number of players can score each, but each player scores a given objective only once."
 E3 Learn to Play: "Any number of players can score each of these objectives."
 @2
-N No source found.
+E2 RulesPal, "How and when are action-phase secret objectives scored?": "Secret objectives marked Action Phase are scored the moment you meet them, even on another player's turn and even after you have passed."
+I1 LRR 61.5b: "When a player scores an objective during the action phase, they can do so at any time during that phase." any time in the phase, not limited to own turn.
 @3
+E2 RulesPal, "If two players could each score an action-phase objective in the same combat, who scores first?": "Whichever condition is met first. Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner."
+@4
 E2 RulesPal, "Which kills trigger Nekro's Technological Singularity?": "Kills from Space Cannon, Bombardment … happen outside combat."
 I1 LRR Movement, Step 2: "Space Cannon Offense: After the Move Ships step, players can use the Space Cannon abilities of their units in the active system." Space combat is a later step of the tactical action.
 I1 LRR Invasion: "Step 1 – Bombardment" and "Step 3 – Space Cannon Defense" come before "Step 4 – Ground Combat."
-@4
+@5
 E2 Same entry: "Anti-Fighter Barrage is part of combat and counts."
 E1 LRR Space Combat: "Step 1 – Anti-Fighter Barrage: If this is the first round of a space combat, the players may simultaneously use the Anti-Fighter Barrage ability of any of their units in the active system."
 E5 Designer ruling (livestrongbelwas, Feb 08, 2018): "Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat)"
-@5
-E2 RulesPal, "How and when are action-phase secret objectives scored?": "Secret objectives marked Action Phase are scored the moment you meet them, even on another player's turn and even after you have passed."
-I1 LRR 61.5b: "When a player scores an objective during the action phase, they can do so at any time during that phase." any time in the phase, not limited to own turn.
 @6
 E4 Designer ruling, on the scored-secret limit: "you could draw an additional secret but would then need to return it and shuffle the secret objective deck."
 I1 LRR 45.4: "If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their unscored secret objectives and return it."
 @7
+N No source found.
+@8
 E1 LRR FAQ: "Can you intentionally reveal hidden information to another player, such as … your secret objective? A: Yes. This information is kept hidden by default, but it is permissible to reveal it."
 E2 RulesPal, "Can I show my action cards or secret objectives to other players?": "Yes — you may reveal your own hidden cards to anyone at any time, and they still count as hidden afterwards."
 E5 Designer ruling (x3n d0g, 1/25/2019): "If you feel you have a reason to show someone a card, perhaps as part ot a negotiation or to convince them to do something for you, that is your prerogative and I would prefer not to restrict that."
-@8
-E2 RulesPal, "If two players could each score an action-phase objective in the same combat, who scores first?": "Whichever condition is met first. Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner."

@@ -48,17 +48,17 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A player may cast votes with space stations, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and Oceans.<sup>6,9</sup></li>
     <li>When a player casts votes during the agenda phase, it is not that player&rsquo;s turn for the purpose of game effects.<sup>2</sup></li>
+    <li>A player may cast votes with space stations, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and Oceans.<sup>6,9</sup></li>
+    <li>Players may exhaust planets during the agenda phase for purposes other than casting votes, such as spending resources or using technology specialties. Planets exhausted this way cannot then be used to cast votes.<sup>2</sup></li>
+    <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
+    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
+    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup></li>
     <li>If an agenda outcome affects multiple players, it does so in speaker order.<sup>*</sup></li>
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.<sup>1,2</sup></li>
     <li>If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.<sup>1</sup></li>
     <li>Each pair of players may resolve one transaction during each agenda.<sup>1,2,3</sup></li>
     <li>Only planets ready at the end of the phase.<sup>2</sup></li>
-    <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
-    <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
-    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup></li>
-    <li>Players may exhaust planets during the agenda phase for purposes other than casting votes, such as spending resources or using technology specialties. Planets exhausted this way cannot then be used to cast votes.<sup>2</sup></li>
     </ol>
 
 <h2>Related Topics</h2>
