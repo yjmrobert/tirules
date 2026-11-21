@@ -64,6 +64,7 @@
 <h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_card">Agenda Cards</a></li>
+    <li><a href="/C_agendas">Agenda Card Notes</a></li>
     <li><a href="/R_custodians_token">Custodians Token</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_game_round">Game Round</a></li>
