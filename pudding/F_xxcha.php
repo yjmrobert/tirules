@@ -85,16 +85,16 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my action card is cancelled by Sabotage, can I play another copy &hellip;?&rdquo;: &ldquo;a cancelled card is treated as never having been played.&rdquo; Same principle.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;If an action card is cancelled with &lsquo;Sabotage&rsquo; (or the Xxcha Nullification Field), can another copy &hellip; be played? Dane: Because the card was cancelled, yes.&rdquo;</li>
         </ul></li>
-    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup>
+    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a cancelled card is treated as never having been played.&rdquo;</li>
         </ul></li>
-    <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>*</sup>
+    <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): it &ldquo;can be played after card targets &hellip; have been decided on.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): &ldquo;after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo;</li>
         </ul></li>
@@ -103,7 +103,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>*</sup>
+    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ (for Sabotage): it &ldquo;must be played before any effects have been resolved, votes have been cast, or any dice have been rolled.&rdquo;</li>
         </ul></li>
@@ -115,11 +115,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup>
+    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage &hellip;?&rdquo;: &ldquo;a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li></ol>
@@ -342,16 +342,16 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.<sup>*</sup>
+    <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>For example, Archon Tau will provide one resource or one influence, not two.<sup>*</sup>
+        <li>For example, Archon Tau will provide one resource or one influence, not two.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         </ul></li>
-        <li>For example, if the Xxcha player wishes to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>*</sup>
+        <li>For example, if the Xxcha player wishes to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         </ul></li>

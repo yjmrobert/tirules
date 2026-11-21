@@ -30,17 +30,17 @@
     <ol class="note">
     <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
     <li>If a player has a second copy of an action card, they may play it if the first was canceled by <i>Instinct Training</i>.<sup>2,5</sup></li>
-    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>*</sup></li>
-    <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>*</sup></li>
+    <li>If an action card is canceled by <i>Instinct Training</i>, no costs are paid.<sup>2</sup></li>
+    <li>A player playing an action card announces the following before <i>Instinct Training</i> may be played:<sup>1</sup></li>
     <ol>
-        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>*</sup></li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1</sup></li>
         <li>The value of any variable cost to be paid.<sup>*</sup></li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>*</sup></li>
+    <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Instinct Training</i>.<sup>1</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Instinct Training</i>.<sup>*</sup></li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Instinct Training</i> when it is originally played.<sup>*</sup></li>
-    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>*</sup></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>*</sup></li></ol>
+    <li>If the action card that was canceled by <i>Instinct Training</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field">Nullification Field</a> <sub>(Technology)</sub></h2>
@@ -122,10 +122,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Breakthrough:~:text=Archon%27s%20Gift">Archon&rsquo;s Gift</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.<sup>*</sup></li>
+    <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.<sup>2</sup></li>
     <ol>
-        <li>For example, Archon Tau will provide one resource or one influence, not two.<sup>*</sup></li>
-        <li>For example, if the Xxcha player wishes to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>*</sup></li>
+        <li>For example, Archon Tau will provide one resource or one influence, not two.<sup>2</sup></li>
+        <li>For example, if the Xxcha player wishes to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>2</sup></li>
     </ol>
     <li><i>Archon&rsquo;s Gift</i> only changes how a planet&rsquo;s influence and resources may be spent. It does not change the value for any other game effect.<sup>*</sup></li>
     <ol>
