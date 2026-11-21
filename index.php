@@ -32,7 +32,7 @@
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>
 <p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. 
     This includes the <i>Prophecy of Kings</i> expansion. 
-    Notes are included for the Codices, up to and including Codex IV, released June 2025, and preliminary notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025, pending the publication of a new Living Rules Reference.</p>
+    Notes are included for the Codices, up to and including Codex IV, released June 2025, and notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025. Fantasy Flight has not yet published a Living Rules Reference that includes <i>Thunder&rsquo;s Edge</i> (last checked November 2026).</p>
 <p>Key: each note ends with the number of its source, listed at the foot of every page; <sup>*</sup> marks a note with no source. <span class="removed">Red</span> marks a component removed from the game, or replaced by a newer version marked &Omega; (&Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same). Rule topics marked TE come from <i>Thunder&rsquo;s Edge</i> and have no Living Rules Reference section yet.</p>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
 <p style="font-family:lazax;">&ldquo;For as often as I reference (tirules.com), it's probably better than official&rdquo; - Dane Beltrami, TI4 Lead Designer.</p>
