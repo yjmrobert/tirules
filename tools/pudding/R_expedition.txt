@@ -35,11 +35,13 @@ E6 Community consensus: "What happens in the rare situation that, when Thunder's
 @16
 E6 Community consensus: "Can Thunder's Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements."
 @17
+E2 RulesPal, "How does the Thunder's Edge expedition finish, and who gets the planet?": "place it in a system with no planet (token planets like Mirage count), supernova or printed wormhole."
+@18
 E7 Thunder's Edge Rulebook p. 8: "the player with the most control tokens on the expedition places that many infantry on Thunder's Edge. In the case of a tie, the player who claimed the final slice chooses which tied player" places them.
 E2 RulesPal: "on a tie, the player who claimed the last slice chooses among the tied players."
-@18
-N No source found.
 @19
-E7 Thunder's Edge Rulebook p. 16: "When Thunder's Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored."
+N No source found.
 @20
+E7 Thunder's Edge Rulebook p. 16: "When Thunder's Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored."
+@21
 N No source found.

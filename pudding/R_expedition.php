@@ -78,6 +78,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Thunder&rsquo;s Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements.&rdquo;</li>
         </ul></li>
+        <li><a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> cannot be placed in a system that contains a planet token, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a>, as that system contains a planet.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge expedition finish, and who gets the planet?&rdquo;: &ldquo;place it in a system with no planet (token planets like Mirage count), supernova or printed wormhole.&rdquo;</li>
+        </ul></li>
         <li>Finally, the player who had claimed the most slices of the expedition token places a number of infantry equal to the number of slices they had claimed on to <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>. If multiple players are tied for the most number of slices, the player placing <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> chooses one of those players to place the infantry; they may choose themself.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;the player with the most control tokens on the expedition places that many infantry on Thunder&rsquo;s Edge. In the case of a tie, the player who claimed the final slice chooses which tied player&rdquo; places them.</li>
