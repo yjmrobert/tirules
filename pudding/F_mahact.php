@@ -30,9 +30,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player wins a space combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they may resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player, if S&rsquo;ula Mentarion is unlocked. <sc>Edict</sc> resolves when the combat is won, so the token is already in the Mahact player&rsquo;s fleet pool when S&rsquo;ula Mentarion resolves after the combat.<sup>*</sup>
+    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Related: LRR FAQ (source 1): &ldquo;a promissory note with &lsquo;At the start of your turn:&rsquo; timing may be immediately played if the transaction occurred within the &lsquo;start of turn&rsquo; timing window.&rdquo; Edict is a &ldquo;when&rdquo; ability and S&rsquo;ula Mentarion an &ldquo;after&rdquo; ability.</li>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): S&rsquo;ula Mentarion triggers &ldquo;after you win a space combat&rdquo;; the Mahact player only gains access to it through Edict as a result of winning that combat, so the commander was not available when its trigger occurred.</li>
         </ul></li>
     </ol>
 
@@ -294,7 +294,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player purges their War Sun unit upgrade technology, each of their war suns is removed from the game board.<sup>1</sup>
+    <li>If the Mahact player purges their War Sun unit upgrade technology, each of their war suns are removed from the game board.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 90.20: &ldquo;If a Valefar Assimilator token is removed from a war sun unit upgrade and the Nekro Virus player does not have the standard war sun unit upgrade, each of the Nekro Virus player&rsquo;s war suns are returned to their reinforcements.&rdquo; By analogy: a player who loses their war sun unit upgrade loses their war suns.</li>
         </ul></li>

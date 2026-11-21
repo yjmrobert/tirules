@@ -12,7 +12,7 @@ N No source found.
 @5
 N No source found.
 @6
-N No source found. Related: LRR FAQ (source 1): "a promissory note with 'At the start of your turn:' timing may be immediately played if the transaction occurred within the 'start of turn' timing window." Edict is a "when" ability and S'ula Mentarion an "after" ability.
+N No source found. Owner ruling (2026-11-21): S'ula Mentarion triggers "after you win a space combat"; the Mahact player only gains access to it through Edict as a result of winning that combat, so the commander was not available when its trigger occurred.
 @7
 N No source found.
 @8
