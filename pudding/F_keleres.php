@@ -189,6 +189,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas.&rdquo;</li>
         </ul></li>
+    <ol><li>The <a href="/R_production"><sc>Production</sc></a> value that the Custodia Vigilia legendary planet ability gives <a href="/R_mecatol_rex">Mecatol Rex</a> counts toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse"><i>Produce en Masse</i></a> objective.<sup>4,9</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Unofficially Official FAQ: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &ldquo;as if it were a unit&rdquo;.&rdquo; The legendary ability reads: &ldquo;While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3.&rdquo; Produce en Masse counts the combined PRODUCTION value of units in a single system, so Mecatol Rex&rsquo;s PRODUCTION 3 counts.</li>
+        <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: things that use unit abilities but are not units should be &ldquo;treated as if they were units while using those unit abilities&rdquo; &mdash; &ldquo;A: Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
+        </ul></li></ol>
     <li>Custodia Vigilia counts as a planet for agendas if it meets the specific criteria of those agendas.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria.&rdquo;</li>

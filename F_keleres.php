@@ -68,6 +68,7 @@
     <li>The Keleres player cannot lose control of Custodia Vigilia.<sup>12</sup></li>
     <ol><li>The Keleres player cannot be eliminated once they control Custodia Vigilia.<sup>4</sup></li></ol>
     <li>Custodia Vigilia may be used to qualify for objectives, if it meets any other requirements listed.<sup>4</sup></li>
+    <ol><li>The <a href="/R_production"><sc>Production</sc></a> value that the Custodia Vigilia legendary planet ability gives <a href="/R_mecatol_rex">Mecatol Rex</a> counts toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse"><i>Produce en Masse</i></a> objective.<sup>4,9</sup></li></ol>
     <li>Custodia Vigilia counts as a planet for agendas if it meets the specific criteria of those agendas.<sup>4</sup></li>
     <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="/R_mecatol_rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup></li>
     <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.<sup>*</sup></li>

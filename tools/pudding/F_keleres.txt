@@ -81,25 +81,26 @@ E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Age
 @36
 E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas."
 @37
-E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It counts as a planet for objectives and agendas if it meets the specific criteria."
+I4 Unofficially Official FAQ: "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include “as if it were a unit”." The legendary ability reads: "While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3." Produce en Masse counts the combined PRODUCTION value of units in a single system, so Mecatol Rex's PRODUCTION 3 counts.
+I9 Designer Q&A, "Unit Abilities imply Units?": things that use unit abilities but are not units should be "treated as if they were units while using those unit abilities" — "A: Yes I'd say let them combo and be shut down."
 @38
-E4 Designer ruling: "Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial's ability to gain a Victory Point because you control Mecatol Rex."
+E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It counts as a planet for objectives and agendas if it meets the specific criteria."
 @39
-N No source found.
+E4 Designer ruling: "Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial's ability to gain a Victory Point because you control Mecatol Rex."
 @40
-E4 Designer ruling: "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include 'as if it were a unit'."
-@41
-E4 Same ruling: "Yes."
-@42
-E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "Terraform can be placed on it."
-@43
-E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It may be explored."
-@44
-E12 Codex III, Artemiris: "Other players must spend 2 influence to activate the system that contains this ship."
-@45
-E4 Designer ruling: "What is the duration of the Council Keleres agent …? A: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend."
-@46
 N No source found.
+@41
+E4 Designer ruling: "Does Custodia Vigilia's PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include 'as if it were a unit'."
+@42
+E4 Same ruling: "Yes."
+@43
+E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "Terraform can be placed on it."
+@44
+E4 Designer ruling: "Does Custodia Vigilia count as a planet for objectives? Agendas? …" "It may be explored."
+@45
+E12 Codex III, Artemiris: "Other players must spend 2 influence to activate the system that contains this ship."
+@46
+E4 Designer ruling: "What is the duration of the Council Keleres agent …? A: The agent is exhausted at the time the commodities would be spent as trade goods, and only lasts for the duration of that spend."
 @47
 N No source found.
 @48
@@ -109,25 +110,27 @@ N No source found.
 @50
 N No source found.
 @51
-I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
-@52
 N No source found.
+@52
+I1 LRR 3.1: "During a player's turn, they may perform one of the following three types of actions: a strategic action, a tactical action, or a component action." LRR 3.2: "If a player cannot perform an action, they must pass." Passing is not one of the three actions, so an additional action cannot be a pass.
 @53
 N No source found.
 @54
-E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
+N No source found.
 @55
-E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a system that contains a planet you control."
+E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 @56
-N No source found.
+E12 Codex III, Galactic Vigil: "At the start of a round of space combat in a system that contains a planet you control."
 @57
-I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
-@58
 N No source found.
+@58
+I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 @59
 N No source found.
 @60
 N No source found.
 @61
+N No source found.
+@62
 E4 Designer ruling: "How does the influence payment for the Council Keleres mech, Omniopiares, stack in multiples? Each a separate payment? A: Each mech is one instance of spend one influence."
 E2 RulesPal: "each mech is its own instance of the ability, so the attacker pays 1 influence per mech."
