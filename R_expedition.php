@@ -19,7 +19,10 @@
         <li>Spend three trade goods.<sup>7</sup></li>
     </ol>
     <li>One player may claim multiple slices. A single slice cannot be claimed multiple times (neither by the same or different players).<sup>7</sup></li>
-    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.<sup>7</sup></li></ol>
+    <ol>
+        <li>A player may claim only one slice at the end of each of their turns.<sup>7</sup></li>
+        <li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.<sup>7</sup></li>
+    </ol>
     <li>Once the sixth and final slice has been claimed, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> will enter play.<sup>7</sup></li>
     <ol>
         <li>First, each control token on the expedition token is returned to the player it belongs to, noting which player(s) had claimed the most slices.<sup>*</sup></li>

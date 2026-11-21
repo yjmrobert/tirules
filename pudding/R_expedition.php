@@ -51,10 +51,16 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;Once claimed, that slice cannot be claimed by another player &hellip; A player can claim multiple expedition slices in a game, but must choose a different unclaimed slice each time they do so.&rdquo;</li>
         </ul></li>
-    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.<sup>7</sup>
+    <ol>
+        <li>A player may claim only one slice at the end of each of their turns.<sup>7</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;At the end of a player&rsquo;s turn, they may commit to the expedition. To do so, they choose an unclaimed slice of the expedition and pay the indicated cost.&rdquo; And: &ldquo;A player can claim multiple expedition slices in a game, but must choose a different unclaimed slice each time they do so.&rdquo; One slice is chosen each time a player commits at the end of their turn.</li>
+        </ul></li>
+        <li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;The first time a player claims one of the expedition slices, they gain their faction&rsquo;s breakthrough.&rdquo;</li>
-        </ul></li></ol>
+        </ul></li>
+    </ol>
     <li>Once the sixth and final slice has been claimed, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> will enter play.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;When all slices are claimed, the expedition is complete.&rdquo;</li>
