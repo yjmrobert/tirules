@@ -5,10 +5,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
     <ol class="note">
-    <li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li>The Argent player always votes first, even if they are the speaker.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Argent votes first, even as speaker.&rdquo;</li>
@@ -21,6 +17,10 @@
     <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;then voting resumes as normal from the speaker&rsquo;s left.&rdquo;</li>
+        </ul></li>
+    <li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 

@@ -8,10 +8,10 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
     <ol class="note">
-    <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup></li>
     <li><sc>Scheming</sc> applies whenever the Yssaril player draws action cards.<sup>1,2</sup></li>
     <li>The Yssaril player will draw only one additional action card, regardless of how many action cards they are instructed to draw.<sup>*</sup></li>
     <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.<sup>6</sup></li>
+    <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup></li>
     <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup></li>
     </ol>
 

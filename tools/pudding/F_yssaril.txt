@@ -1,14 +1,14 @@
 @0
 E2 RulesPal, "What is Yssaril's Stall Tactics for, and can it be Sabotaged?": "It is a faction ability, not an action card, so Sabotage cannot cancel it."
 @1
-N No source found.
-@2
 E1 LRR FAQ: "The Yssaril's 'Scheming' ability, however, is triggered each time that action cards are drawn."
 E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
-@3
+@2
 N No source found.
-@4
+@3
 E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming." The discard may come from the hand.
+@4
+N No source found.
 @5
 E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
 @6

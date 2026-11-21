@@ -1,12 +1,12 @@
 @0
-N No source found.
-@1
 E2 RulesPal, "With Argent Flight's Zeal, what is the voting order?": "Argent votes first, even as speaker."
 E14 Codex II faction summary: "You always have to vote first, but you get extra votes."
-@2
+@1
 E2 RulesPal, "With Argent Flight's Zeal, what is the voting order?": "Effects timed 'after the speaker votes', like Bribery, come right after the Argent vote when Argent is speaker."
-@3
+@2
 E2 Same entry: "then voting resumes as normal from the speaker's left."
+@3
+N No source found.
 @4
 E1 LRR 10.1d: "This ability can still be used if no fighters are present."
 E8 PoK rulebook p. 16: "The 'Anti-Fighter Barrage' step can occur even if a player's opponent has no fighters in the combat."

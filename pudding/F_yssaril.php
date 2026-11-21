@@ -13,10 +13,6 @@
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
     <ol class="note">
-    <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup>
-        <ul>
-        <li><b>Unverified</b>: No source found.</li>
-        </ul></li>
     <li><sc>Scheming</sc> applies whenever the Yssaril player draws action cards.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;The Yssaril&rsquo;s &lsquo;Scheming&rsquo; ability, however, is triggered each time that action cards are drawn.&rdquo;</li>
@@ -29,6 +25,10 @@
     <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming.&rdquo; The discard may come from the hand.</li>
+        </ul></li>
+    <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup>
         <ul>
