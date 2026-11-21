@@ -3,21 +3,21 @@ N No source found. (A note on this site's terminology.)
 @1
 E2 RulesPal, "Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?": "Destroying ships with Space Cannon during movement … involves no combat."
 @2
-N No source found.
+E2 RulesPal, "How many times does a PDS fire in one tactical action?": "Once at Space Cannon Offense, after movement, however many ships came in, plus once more at Space Cannon Defense if ground forces are committed to its planet."
 @3
-E2 RulesPal, "Is Plasma Scoring's extra die optional …?": "It is a 'may', so you can decline it."
+N No source found.
 @4
-E1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the 'Space Cannon' ability."
-E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit, Space Cannon included."
+E2 RulesPal, "Is Plasma Scoring's extra die optional …?": "It is a 'may', so you can decline it."
 @5
-I1 LRR 87.4: Sustain Damage applies to "unit abilities such as the 'Space Cannon' ability." LRR 77.8: "The active player must choose and destroy one of their ground forces on the planet for each hit."
-@6
 E2 RulesPal, "When is capacity checked if a carrier is lost?": "Immediately whenever it isn't combat, for example after each player's Space Cannon Offense volley, before the next player fires."
-@7
+@6
 E2 RulesPal, "During Space Cannon Offense, who can shoot at whom?": "The active player fires first and chooses which other player's ships in the active system take the hits."
 E5 Designer ruling (x3n d0g, 09/10/2018): "You cannot use a PDS to target your own ships."
+@7
+E1 LRR 87.4: "A unit can use its 'Sustain Damage' ability any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the 'Space Cannon' ability."
+E2 RulesPal, "Can a ship use Sustain Damage against Space Cannon hits?": "Yes — Sustain Damage can cancel any hit produced against the unit, Space Cannon included."
 @8
-E2 RulesPal, "How many times does a PDS fire in one tactical action?": "Once at Space Cannon Offense, after movement, however many ships came in, plus once more at Space Cannon Defense if ground forces are committed to its planet."
+I1 LRR 87.4: Sustain Damage applies to "unit abilities such as the 'Space Cannon' ability." LRR 77.8: "The active player must choose and destroy one of their ground forces on the planet for each hit."
 @9
 E1 LRR FAQ: "Yes, the '0' face is a '10' result."
 E2 RulesPal, "Does the 0 on the ten-sided die count as 0 or 10?": "10 — the Living Rules Reference FAQ confirms the 0 face is a 10."
