@@ -87,6 +87,7 @@
     <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.<sup>8</sup></li>
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.<sup>2</sup></li>
     <li>Units can only be captured by the dice specifically allocated to them.<sup>*</sup></li>
+    <li>If a ship with capacity is captured, its owner chooses which excess fighters and ground forces are removed; they are not assigned to particular ships.<sup>1</sup></li>
     <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup></li>
     </ol>
 

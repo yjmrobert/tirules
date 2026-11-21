@@ -231,6 +231,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>If a ship with capacity is captured, its owner chooses which excess fighters and ground forces are removed; they are not assigned to particular ships.<sup>1</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>1</sup> LRR 16.3: &ldquo;If a player has more fighters and ground forces in the space area of a system than the total capacity of that player&rsquo;s ships in that system, that player must remove the excess units.&rdquo; LRR 16.4: &ldquo;Fighters and ground forces are not assigned to specific ships, except while they are being transported.&rdquo;</li>
+        </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
