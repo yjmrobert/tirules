@@ -224,12 +224,12 @@
 
 <h2 id="destroy-their-greatest-ship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
     <ol class="note">
-    <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup></li>
+    <li><i>Destroy Their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup></li>
     <ol>
-        <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup></li>
+        <li>A player does not have to win a combat to score <i>Destroy Their Greatest Ship</i>.<sup>2</sup></li>
         <li>A player may still only score one objective during or after each combat.<sup>1</sup></li>
     </ol>
-    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup></li>
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy Their Greatest Ship</i>.<sup>*</sup></li>
     </ol>
 
 <h2 id="develop-weaponry"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry">Develop Weaponry</a></h2>
@@ -303,9 +303,9 @@
 <h2 id="fight-with-precision-omega"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision">Fight with Precision &Omega;</a></h2>
     <ol class="note">
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.<sup>1,2</sup></li>
-    <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup></li>
+    <li>A player does not have to win a combat to score <i>Fight with Precision &Omega;</i>.<sup>*</sup></li>
     <li>Any effect that destroys fighters during the <b>Anti&ndash;Fighter Barrage</b> step may be used to score <i>Fight with Precision &Omega;</i>, not just hits produced by an anti&ndash;fighter barrage roll.<sup>*</sup></li>
-    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup></li></ol>
+    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters is destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="forge-an-alliance"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Forge%20an%20Alliance">Forge an Alliance</a></h2>
@@ -596,7 +596,7 @@
 
 <h2 id="unveil-flagship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship">Unveil Flagship</a></h2>
     <ol class="note">
-    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i><sup>2,4</sup></li>
+    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship</i>.<sup>2,4</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

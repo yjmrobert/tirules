@@ -1337,7 +1337,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;but before anything changes the game state, such as rolling dice or spending trade goods.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;For sabotage, you would play after the target is chosen.&rdquo;</li>
         </ul></li>
-    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.<sup>2</sup>
+    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Sabotage</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window.&rdquo;</li>
         </ul></li>

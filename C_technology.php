@@ -130,7 +130,7 @@
     <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <a href="/R_bombardment"><sc>bombardment</sc></a> roll against, even if they produce no hits.<sup>15</sup></li>
     <li>A player who bombards another player&rsquo;s coexisting units on a planet they control must still exhaust that planet.<sup>6</sup></li>
     <li>A war sun must target the same planet with all three of its <a href="/R_bombardment"><sc>bombardment</sc></a> dice.<sup>2</sup></li>
-    <ol><li>If a unit may roll additional <a href="/R_bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional dice must target the same planet.<sup>2</sup></li></ol>
+    <ol><li>If a unit may roll additional <a href="/R_bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional die must target the same planet.<sup>2</sup></li></ol>
     <li>A player may roll for <a href="/R_bombardment"><sc>bombardment</sc></a> against a planet that contains no ground forces.<sup>2</sup></li>
     </ol>
 
@@ -139,9 +139,9 @@
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.<sup>1,2,3</sup></li>
     <ol>
         <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.<sup>1,2,6</sup></li>
-        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
+        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional die to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
     </ol>
-    <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup></li>
+    <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional die to only one of those rolls.<sup>6</sup></li>
     <li>A space dock using the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
     </ol>
 

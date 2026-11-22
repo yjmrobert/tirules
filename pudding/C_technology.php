@@ -236,7 +236,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can one ship bombard several planets, or split its dice between them?&rdquo;: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li>
-    <ol><li>If a unit may roll additional <a href="/R_bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional dice must target the same planet.<sup>2</sup>
+    <ol><li>If a unit may roll additional <a href="/R_bombardment"><sc>bombardment</sc></a> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional die must target the same planet.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li></ol>
@@ -261,12 +261,12 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&ldquo;Plasma Scoring&rdquo; only grants one additional die for each &ldquo;Bombardment&rdquo; or &ldquo;Space Cannon&rdquo; roll, and the unit benefiting from this technology must be decided before rolling.&rdquo; Bombardment is a single roll, so one unit gets the die.</li>
         </ul></li>
-        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup>
+        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional die to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player has multiple planets with PDS that are being invaded in a single system, does the &lsquo;Plasma Scoring&rsquo; technology add one die to each planet&rsquo;s space cannon roll &hellip;? A: The &lsquo;Plasma Scoring&rsquo; technology adds one die for each &hellip; planet&rsquo;s &lsquo;Space Cannon&rsquo; roll.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional dice to only one of those rolls.<sup>6</sup>
+    <li>If a player makes separate <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional die to only one of those rolls.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         </ul></li>

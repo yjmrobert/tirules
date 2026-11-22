@@ -758,7 +758,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="/F_muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> player does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Do pre-printed units count as &lsquo;technologies&rsquo;? Specifically, does Prototype War Sun I count as a technology? &hellip; Dane: They do not. Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
