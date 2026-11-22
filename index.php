@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="canonical" href="https://tirules2.com/"/>
 <link rel="icon" href="favicon.png"/>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
 <?php include __DIR__ . '/theme.php'; ?>
 <style>
 .note
@@ -25,7 +25,7 @@
 </style>
 </head>
 <body>
-<header><h1>Twilight Imperium Rules</h1><?php echo $theme_toggle_button; ?></header>
+<header><h1>Twilight Imperium Rules</h1><?php echo $report_button . $theme_toggle_button; ?></header>
 <article>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>

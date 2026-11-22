@@ -54,6 +54,14 @@ the repo owner explicitly asks in the current task.
   `<?php include "suffix.php"?>`. `prefix.php` writes the `<head>` and output-buffers
   the body to insert the dynamic `<title>`. `suffix.php` writes the footer.
 - `index.php` is the standalone home page and nav.
+- `report.php` (`/report`) is the "report a problem" form, opened by the bug button in the header
+  (`theme.php`) and the footer link. It creates a GitHub issue through the API using the
+  `GITHUB_ISSUES_TOKEN` environment variable (fine-grained token, Issues read/write on this repo
+  only, set on Elastic Beanstalk). EB does not always pass environment properties to PHP-FPM, so
+  `.platform/hooks/postdeploy/50_github_token.sh` (and the same file under `.platform/confighooks/`)
+  copies it to `/etc/tirules/github_token`, which `report.php` reads as a fallback. Keep both hooks
+  executable. Without the token it offers GitHub's own prefilled issue form, with a short reason.
+  Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
 - Local dev: `php -S localhost:8000 router.php`.
 
 ## Content and markup conventions

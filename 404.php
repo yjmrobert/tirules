@@ -1,7 +1,12 @@
 <?php
 // Not-found page. Sends a real 404 and picks one of four joke pages at random.
 // ?v=0..3 shows a specific one (for previewing).
-http_response_code(404);
+// Production nginx serves this file as its error_page, which already sends the 404 status;
+// setting it here as well makes nginx intercept the response and show its bare default page.
+// The local dev server (router.php) has no error_page, so set it there.
+if (PHP_SAPI === 'cli-server') {
+    http_response_code(404);
+}
 $page_noindex = true;
 $variant = (isset($_GET['v']) && in_array($_GET['v'], ['0', '1', '2', '3'], true)) ? (int) $_GET['v'] : random_int(0, 3);
 include "prefix.php";

@@ -307,6 +307,65 @@ body
     border-radius: 0.3em;
     cursor: pointer;
 }
+/* Bug-shaped "report a problem" link, mirroring the theme toggle on the left */
+.report-button
+{
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    padding: 0.2em 0.4em;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: white;
+    border: 1px solid white;
+    border-radius: 0.3em;
+}
+.report-button svg
+{
+    display: block;
+    width: 1em;
+    height: 1em;
+}
+/* Report form (/report) */
+form.report label
+{
+    display: block;
+    margin-top: 1.5ex;
+    font-weight: bold;
+}
+form.report input[type="text"], form.report select, form.report textarea
+{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.3em;
+    font: inherit;
+    color: var(--fg);
+    background: var(--bg);
+    border: 1px solid var(--fg);
+}
+form.report textarea
+{
+    min-height: 10em;
+}
+form.report button
+{
+    margin-top: 2ex;
+    padding: 0.3em 1em;
+    font: inherit;
+    cursor: pointer;
+}
+.report-trap
+{
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+.report-error
+{
+    color: var(--removed);
+}
 @media screen and (max-width: 600px)
 {
     header
@@ -352,4 +411,9 @@ li.ixth
 li.ixth:before
 {
     font-family: helv, Arial, sans-serif;
+}
+.report-reason
+{
+    font-size: 80%;
+    opacity: 0.8;
 }

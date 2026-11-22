@@ -8,12 +8,10 @@ if (preg_match('#^/([RFC]_[A-Za-z0-9_]+)$#', $footer_path, $m) && is_file(__DIR_
 } elseif (preg_match('#^/([RFC]_[A-Za-z0-9_]+)/pudding$#', $footer_path, $m)) {
     echo "<p><a href=\"/{$m[1]}\">Back to the page</a></p>\n";
 }
-// Prefilled GitHub issue for reporting a problem with this page.
-$report_page = 'https://tirules2.com' . $footer_path;
-$report_url = 'https://github.com/dangothemango/tirules/issues/new?template=page-issue.yml'
-    . '&title=' . rawurlencode('[' . ($footer_path === '/' ? 'home' : ltrim($footer_path, '/')) . '] ')
-    . '&page=' . rawurlencode($report_page);
-echo "<p><a href=\"" . htmlspecialchars($report_url) . "\" target=\"_blank\" rel=\"noopener\">Report a problem with this page</a> (opens a GitHub issue form).</p>\n";
+// Report a problem with this page (the form opens a GitHub issue for the reader).
+if ($footer_path !== '/report') {
+    echo "<p><a href=\"/report?page=" . htmlspecialchars(rawurlencode($footer_path)) . "\">Report a problem with this page</a></p>\n";
+}
 ?>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
 <p>This website is not affiliated with tirules.com. <a href="https://github.com/dangothemango/tirules">Github</a></p>

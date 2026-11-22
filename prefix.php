@@ -16,12 +16,12 @@ ob_start(); ?>
 <meta name="robots" content="noindex, follow"/>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>
-<link rel="stylesheet" type="text/css" href="/style.css"/>
+<link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
 <?php
 include __DIR__ . '/theme.php';
 $content = ob_get_clean();
 ob_start();
-register_shutdown_function(function() use ($content, $theme_toggle_button) {
+register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button) {
     $page_content = ob_get_clean();
     
     // Extract the header text
@@ -63,7 +63,7 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     echo '<meta name="description" content="' . htmlspecialchars($description) . '"/>' . "\n";
     echo '<title>' . htmlspecialchars($page_title) . '</title>';
     echo "\n</head>\n<body>\n";
-    $page_content = preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);
+    $page_content = preg_replace('/<\/header>/i', $report_button . $theme_toggle_button . '</header>', $page_content, 1);
     // Wiki links open in a new tab (skips any link that already sets a target)
     echo preg_replace('/<a href="(https:\/\/twilight-imperium\.fandom\.com[^"]*)"(?![^>]*\btarget=)/', '<a href="$1" target="_blank"', $page_content);
 });
