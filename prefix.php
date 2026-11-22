@@ -39,7 +39,12 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     $page_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/';
     $heading = isset($text) ? $text : 'Twilight Imperium';
     $description = '';
-    if (preg_match('#^/R_[A-Za-z0-9_]+$#', $page_path) && preg_match('/<article>.*?<p[^>]*>(.*?)<\/p>/is', $page_content, $pm)) {
+    if (preg_match('#^/R_[A-Za-z0-9_]+$#', $page_path) && preg_match('/<article>.*?<p[^>]*>(.*?)<\/p>(?:\s*<ol(?![^>]*\bclass=)[^>]*>(.*?)<\/ol>)?/is', $page_content, $pm)) {
+        // A paragraph ending in a colon introduces the plain list after it (R_game_round): include its items
+        if (str_ends_with(trim($pm[1]), ':') && !empty($pm[2])) {
+            $items = array_filter(array_map(fn($li) => trim(strip_tags($li)), preg_split('/<li[^>]*>/i', $pm[2])), 'strlen');
+            $pm[1] .= ' ' . implode(', ', $items) . '.';
+        }
         $description = trim(preg_replace('/\s+/u', ' ', html_entity_decode(strip_tags($pm[1]), ENT_QUOTES | ENT_HTML5, 'UTF-8')));
         if (str_starts_with($description, 'There currently does not exist')) {
             $description = '';
