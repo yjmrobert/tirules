@@ -18,7 +18,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;The player whose units triggered coexistence does not gain or retain control of the planet.&rdquo;</li>
         </ul></li>
-        <li>If a player&rsquo;s units begin coexisting on a planet that player controls, the player they are now coexisting with gains control of that planet, exhausted.<sup>2,7</sup>
+        <li>If a game effect instructs a player to coexist on a planet they do control, then another player will gain control of that planet (which will exhaust that planet).<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;if they already controlled it, the player they are now coexisting with gains control of it instead, exhausted.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does coexistence work?&rdquo;: &ldquo;if they held it, they lose control&rdquo;</li>
