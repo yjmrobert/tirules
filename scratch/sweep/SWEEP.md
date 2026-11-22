@@ -99,7 +99,7 @@ March 2026; this was not verified as official.
 - [ ] (7320269 reverted in 910e026: owner prefers the original wording) **R_coexistence:** "If a game effect instructs a player to coexist on a planet they do control, then another player will gain control" is abstract. Name the effect that does this, or give an example. (med)
 - [x] (01ee239) **F_nekro, Antivirus:** "The player holding _Antivirus_ may only play it at the start of a combat they are participating in" is followed by "_Antivirus_ may be played at the start of a combat that the Nekro player is not participating in." These read as contradictory; spell out who must be in the combat. (med)
 - [x] (fcbe1e4; owner kept he/she for named players) **R_trade example:** named players with he/she pronouns (style.md says gender neutral), and "may/must" reads as unsure. Spell out "must (if chosen) / may (by spending a strategy token)". (med)
-- [ ] **R_abilities:** "the Crimson Flagship" → "the Rebellion player's flagship, the _Quietus_" with a link (style.md). (low)
+- [x] (7253ea5) **R_abilities:** "the Crimson Flagship" → "the Rebellion player's flagship, the _Quietus_" with a link (style.md). (low)
 - [ ] **C_relics:** "purge _The Obsidian_" now clashes with the TE faction name; say "the _The Obsidian_ relic". Nano–Forge: "will also no longer be non–legendary" is a double negative. (low)
 - [ ] **C_events, Minor Factions:** "place the Creuss Gate (tile 17) in the equidistant": "equidistant" used as a noun is jargon. (low)
 - [ ] **C_promissory_notes:** "command counter" (twice) → "command token". (low)
