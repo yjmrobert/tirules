@@ -78,7 +78,7 @@
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.<sup>1,2</sup></li>
     <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.<sup>1,4</sup></li>
     <li>Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.<sup>6,9</sup></li>
-    <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup></li></ol>
+    <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, combo with these effects. Similarly, effects that shut down unit abilities, such as the <a href="/F_rebellion">Rebellion</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Flagship:~:text=Quietus"><i>Quietus</i></a>, will affect these abilities as well.<sup>9</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

@@ -113,7 +113,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Metali Void Armaments: Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll &hellip;? A: Yes, whenever unit abilities are used, the game treats it as if a unit were using that ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: &ldquo;Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
         </ul></li>
-    <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.<sup>9</sup>
+    <ol><li>This means abilities that reference unit abilities, such as the <a href="/F_argent">Argent</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a>, combo with these effects. Similarly, effects that shut down unit abilities, such as the <a href="/F_rebellion">Rebellion</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Flagship:~:text=Quietus"><i>Quietus</i></a>, will affect these abilities as well.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: &ldquo;Should these things be treated as if they were units &hellip; and thus combo with things like Argent commander, and be shut down by things like Crimson flagship? A: Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
         </ul></li></ol>
