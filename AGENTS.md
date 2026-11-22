@@ -34,7 +34,7 @@ the repo owner explicitly asks in the current task.
 
 ### 3. SEO must not regress
 - Keep clean URLs (`/R_combat`, not `/R_combat.php`). `redirect_php_urls.php` sends 301
-  redirects from `.php` URLs. `.htaccess`, `router.php` (local dev), and
+  redirects from `.php` URLs. `router.php` (local dev) and
   `.platform/nginx/conf.d/elasticbeanstalk/rewrite.conf` (production) must stay
   consistent with each other.
 - Every page keeps its `<link rel="canonical">` (emitted by `prefix.php`), a unique
@@ -57,10 +57,8 @@ the repo owner explicitly asks in the current task.
 - `report.php` (`/report`) is the "report a problem" form, opened by the bug button in the header
   (`theme.php`) and the footer link. It creates a GitHub issue through the API using the
   `GITHUB_ISSUES_TOKEN` environment variable (fine-grained token, Issues read/write on this repo
-  only, set on Elastic Beanstalk). EB does not always pass environment properties to PHP-FPM, so
-  `.platform/hooks/postdeploy/50_github_token.sh` (and the same file under `.platform/confighooks/`)
-  copies it to `/etc/tirules/github_token`, which `report.php` reads as a fallback. Keep both hooks
-  executable. Without the token it offers GitHub's own prefilled issue form, with a short reason.
+  only, set as an EB **Environment property**, not an environment secret). Without the token, or if
+  GitHub refuses the request, it offers GitHub's own prefilled issue form and states the reason.
   Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
 - Local dev: `php -S localhost:8000 router.php`.
 

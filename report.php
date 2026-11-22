@@ -7,9 +7,6 @@
 $page_noindex = true;
 
 const REPORT_REPO = 'dangothemango/tirules';
-// Written by .platform/hooks/postdeploy/50_github_token.sh, for when Elastic Beanstalk
-// does not pass the environment property to PHP-FPM.
-const REPORT_TOKEN_FILE = '/etc/tirules/github_token';
 const REPORT_KINDS = [
     'wrong'     => 'A rule or note is wrong',
     'missing'   => 'A note is missing or needs more detail',
@@ -61,14 +58,11 @@ function report_rate_ok(): bool
     return true;
 }
 
-// The token: from the environment if PHP can see it, otherwise from the file the deploy hook writes.
+// The token, from whichever way Elastic Beanstalk exposes environment properties to PHP.
 function report_token(): string
 {
     $t = getenv('GITHUB_ISSUES_TOKEN') ?: ($_SERVER['GITHUB_ISSUES_TOKEN'] ?? '')
         ?: ($_ENV['GITHUB_ISSUES_TOKEN'] ?? '') ?: (get_cfg_var('GITHUB_ISSUES_TOKEN') ?: '');
-    if (trim((string) $t) === '' && is_readable(REPORT_TOKEN_FILE)) {
-        $t = (string) file_get_contents(REPORT_TOKEN_FILE);
-    }
     return trim((string) $t);
 }
 
@@ -77,10 +71,7 @@ function report_token_diagnosis(): string
 {
     $names = array_merge(array_keys(getenv() ?: []), array_keys($_SERVER), array_keys($_ENV));
     $names = array_values(array_unique(array_filter($names, fn($n) => preg_match('/GITHUB|TOKEN/i', (string) $n))));
-    $f = REPORT_TOKEN_FILE;
-    $file = !file_exists($f) ? 'missing (deploy hook did not run)'
-        : (!is_readable($f) ? 'not readable by PHP' : (trim((string) file_get_contents($f)) === '' ? 'empty (Elastic Beanstalk has no GITHUB_ISSUES_TOKEN property)' : 'present'));
-    return 'not in the PHP environment; ' . $f . ' is ' . $file
+    return 'GITHUB_ISSUES_TOKEN is not in the PHP environment (set it under Environment properties)'
         . '; variable names PHP can see containing GITHUB or TOKEN: ' . ($names ? implode(', ', $names) : 'none');
 }
 
