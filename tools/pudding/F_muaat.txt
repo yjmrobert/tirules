@@ -70,7 +70,7 @@ E2 RulesPal, "Do several Muaat mechs each place infantry when Star Forge is used
 @33
 N No source found.
 @34
-N No source found.
+I6 Community consensus, Stellar Genesis: "If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected." The question assumes the Muaat player moves Avernus while another player has units on it.
 @35
 N No source found.
 @36

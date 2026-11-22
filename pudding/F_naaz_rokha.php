@@ -9,9 +9,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Naaz-Rokha&rsquo;s Distant Suns work with more than one mech on the planet?&rdquo;: &ldquo;Yes &mdash; &lsquo;contains 1 of your mechs&rsquo; means at least one.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>*</sup>
+    <ol><li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Naaz-Rokha&rsquo;s Distant Suns work with more than one mech on the planet?&rdquo;: &ldquo;Yes &mdash; &lsquo;contains 1 of your mechs&rsquo; means at least one.&rdquo; The ability triggers once, so one additional card.</li>
         </ul></li></ol>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.<sup>4</sup>
         <ul>

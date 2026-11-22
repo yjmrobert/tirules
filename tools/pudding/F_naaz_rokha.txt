@@ -1,7 +1,7 @@
 @0
 E2 RulesPal, "Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?": "Yes — 'contains 1 of your mechs' means at least one."
 @1
-N No source found.
+I2 RulesPal, "Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?": "Yes — 'contains 1 of your mechs' means at least one." The ability triggers once, so one additional card.
 @2
 E4 Designer ruling: "For the Naaz-Rokha's Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn."
 @3

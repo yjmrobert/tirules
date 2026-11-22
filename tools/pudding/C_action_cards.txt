@@ -352,7 +352,7 @@ I2 RulesPal, "If my component action card is cancelled by Sabotage, have I used 
 @150
 E6 Community consensus: "Can Mercenary Contract be played on your own planet? A: No, you cannot target harmful effects on your own planets, unless explicitly allowed."
 @151
-N No source found.
+I6 Community consensus, Mercenary Contract: "If the planet becomes neutral, does it get re-explored … when a player invades later? A: Yes, the planet card will be retrieved from the planet card deck". The planet becomes neutral, so no player controls it.
 @152
 E6 Community consensus: "Q: Mercenary Contract: If the planet becomes neutral, does it get re-explored …? A: Yes, the planet card will be retrieved from the planet card deck and it will trigger both exploration and relic depending on its traits."
 @153
@@ -362,7 +362,7 @@ N No source found.
 @155
 E3 Learn to Play, Status Phase step 8: "if the custodians token is no longer on Mecatol Rex (the planet in the center of the game board) the game round continues to the agenda phase." Agenda Phase: "After the custodians token has been removed from Mecatol Rex, a new phase is added to each round for the remainder of the game: the agenda phase."
 @156
-N No source found.
+I6 Community consensus, Mercenary Contract: "What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled? A: It is returned from the deck readied." The ability card goes back with the planet card.
 @157
 E6 Community consensus: "Mercenary Contract: What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled? A: It is returned from the deck readied."
 @158
@@ -525,7 +525,7 @@ I5 Designer ruling: "For sabotage, you would play after the target is chosen."
 @228
 E2 RulesPal, "When exactly is Sabotage played": "Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window."
 @229
-N No source found.
+I5 Designer ruling (Dane, on a list of Sabotage timings, 2019): "Riders (all kinds). After vote 'guess' is made, before any player actually votes." Confirmed as "mostly correct" (the one correction is about Focused Research). Sabotage is played when the rider is played, not when it resolves.
 @230
 E2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "No — a cancelled card counts as not played, so you still take an action (or pass, if allowed)."
 @231

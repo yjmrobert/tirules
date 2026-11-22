@@ -1065,7 +1065,7 @@
         </ul></li></ol>
     <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Closest: RulesPal, &ldquo;Does a ship destroyed by Space Cannon plus Direct Hit &hellip; count for Turn Their Fleets to Dust?&rdquo;: &ldquo;No to both&rdquo;, and Designer ruling (Dane, 2018): &ldquo;It would not.&rdquo; Both are about the original card (&ldquo;Use SPACE CANNON to destroy the last of a player&rsquo;s ships&rdquo;), so they do not apply to the Ω card (&ldquo;Destroy the last of a player&rsquo;s non-fighter ships in the active system during the space cannon offense step&rdquo;). The Twilight Imperium Wiki FAQ (not a numbered source): &ldquo;In the Omega version, the ships are destroyed during the Space Cannon Offense step, so the objective is fulfilled.&rdquo;</li>
         </ul></li>
     <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>

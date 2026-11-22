@@ -395,7 +395,7 @@ N No source found.
 @165
 N No source found.
 @166
-N No source found.
+N No source found. Closest: RulesPal, "Does a ship destroyed by Space Cannon plus Direct Hit … count for Turn Their Fleets to Dust?": "No to both", and Designer ruling (Dane, 2018): "It would not." Both are about the original card ("Use SPACE CANNON to destroy the last of a player's ships"), so they do not apply to the Ω card ("Destroy the last of a player's non-fighter ships in the active system during the space cannon offense step"). The Twilight Imperium Wiki FAQ (not a numbered source): "In the Omega version, the ships are destroyed during the Space Cannon Offense step, so the objective is fulfilled."
 @167
 N No source found.
 @168

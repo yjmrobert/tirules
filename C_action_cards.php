@@ -512,12 +512,12 @@
 <h2 id="mercenary-contract"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Mercenary%20Contract">Mercenary Contract</a></h2>
     <ol class="note">
     <li>A player cannot target a planet they control with <i>Mercenary Contract</i>.<sup>6</sup></li>
-    <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>*</sup></li>
+    <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>6</sup></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup></li>
     <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.<sup>6</sup></li></ol>
     <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
     <ol><li>The agenda phase still occurs each round, as the custodians token is no longer on Mecatol Rex.<sup>3</sup></li></ol>
-    <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>*</sup></li>
+    <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>6</sup></li>
     <ol><li>When a player later gains control of that planet, they gain the legendary planet ability card readied.<sup>6</sup></li></ol>
     <li>If the planet card is returned to the planet card deck, all cards attached to that planet are purged.<sup>6</sup></li>
     </ol>
@@ -696,7 +696,7 @@
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players have declined to play <i>Sabotage</i>.<sup>1,2,5</sup></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Sabotage</i>.<sup>2</sup></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>*</sup></li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>5</sup></li>
     <li>If the action card that was canceled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
     </ol>

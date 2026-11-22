@@ -83,7 +83,7 @@
 <h2 id="stellar-genesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Breakthrough:~:text=Stellar%20Genesis">Stellar Genesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Muaat player explores Avernus when they gain it.<sup>*</sup></li>
-    <li>The Muaat player may move Avernus even if another player controls it.<sup>*</sup></li>
+    <li>The Muaat player may move Avernus even if another player controls it.<sup>6</sup></li>
     <li>Avernus may be moved into a system containing another player&rsquo;s units.<sup>*</sup></li>
     <li>Structures may be placed on Avernus.<sup>*</sup></li>
     <ol>

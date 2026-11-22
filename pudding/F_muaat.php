@@ -190,9 +190,9 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The Muaat player may move Avernus even if another player controls it.<sup>*</sup>
+    <li>The Muaat player may move Avernus even if another player controls it.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, Stellar Genesis: &ldquo;If another player has units on Avernus, and Muaat moves the planet into a supernova, what happens to those units? A: They are unaffected.&rdquo; The question assumes the Muaat player moves Avernus while another player has units on it.</li>
         </ul></li>
     <li>Avernus may be moved into a system containing another player&rsquo;s units.<sup>*</sup>
         <ul>
