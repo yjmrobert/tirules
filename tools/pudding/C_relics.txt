@@ -138,7 +138,7 @@ N No source found.
 @65
 N No source found.
 @66
-N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.
+N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Closest: The Triad card text: "This card can be readied and spent as if it were a planet card." (card text is not a numbered source).
 @67
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
 E6 Community consensus: "Q: Can you vote using The Triad relic? A: Yes."

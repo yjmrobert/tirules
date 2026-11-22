@@ -16,7 +16,8 @@ E6 Community consensus: "Does a player gain control of a space station before co
 @6
 E7 Thunder's Edge Rulebook p. 10: "Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet."
 @7
-N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.
+I7 Thunder's Edge Rulebook p. 10: "Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet."
+E1 LRR, Agenda Phase, Step 3, Ready Planets: "Each player readies each of their exhausted planets."
 @8
 E7 Thunder's Edge Rulebook p. 10: "players can exhaust a space station" to convert commodities to trade goods.
 E7 Thunder's Edge reference: "Exhaust to convert commodities to trade goods."

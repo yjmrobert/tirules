@@ -69,7 +69,7 @@
         </ul></li>
     <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Space stations: Thunder&rsquo;s Edge Rulebook p. 10, &ldquo;readied as if it were a planet&rdquo;. The Triad card text: &ldquo;readied and spent as if it were a planet card&rdquo;. Oceans: no source. Designer Q&amp;A covers only voting with all three (&ldquo;Yeah you can vote with them.&rdquo;).</li>
         </ul></li></ol>
     </ol>
 </article>

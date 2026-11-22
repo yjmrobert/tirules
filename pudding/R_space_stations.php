@@ -38,9 +38,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet.&rdquo;</li>
         </ul></li>
-    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>*</sup>
+    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>1,7</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>1</sup> LRR, Agenda Phase, Step 3, Ready Planets: &ldquo;Each player readies each of their exhausted planets.&rdquo;</li>
         </ul></li></ol>
     <li>A player may exhaust a space station at any time to convert any commodities that they have into trade goods.<sup>7</sup>
         <ul>

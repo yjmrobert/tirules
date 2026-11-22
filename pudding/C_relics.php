@@ -370,7 +370,7 @@
         </ul></li>
     <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Closest: The Triad card text: &ldquo;This card can be readied and spent as if it were a planet card.&rdquo; (card text is not a numbered source).</li>
         </ul></li></ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup>
         <ul>

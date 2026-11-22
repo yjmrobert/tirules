@@ -15,7 +15,7 @@
     <li>A player does not lose control of a space station if a neutral ship is placed in its system, as there is no neutral player.<sup>6</sup></li>
     <li>A player whose ships are in a space station&rsquo;s system with only neutral units gains control of that space station before resolving combat against those neutral units, as there is no neutral player.<sup>6</sup></li>
     <li>Each space station has a corresponding planet card. The space station may be exhausted for resources or influence as though it were a planet. The space station will be readied during the status phase as though it were a planet, or by other game effects that can ready planets.<sup>7</sup></li>
-    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>*</sup></li></ol>
+    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>1,7</sup></li></ol>
     <li>A player may exhaust a space station at any time to convert any commodities that they have into trade goods.<sup>7</sup></li>
     <li>For each space station a player controls, their commodity value is increased by one.<sup>7</sup></li>
     <ol><li>Players may place a space station commodity token in the commodity area of their faction sheet as a reminder of their increased commodity value.<sup>7</sup></li></ol>
