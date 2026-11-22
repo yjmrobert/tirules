@@ -105,7 +105,7 @@ March 2026; this was not verified as official.
 - [x] (0134216; all 9 occurrences, 7 pages) **C_promissory_notes:** "command counter" (twice) → "command token". (low)
 - [x] (no change: owner keeps each card self-contained) **Repetition:** the same rider notes appear under all 8 riders, the "none in reinforcements" note under ~12 cards, and "three scored secret objectives may draw a fourth" under 4 cards. Consider one "Riders" section and links to R_component_limitations. (low)
 - [x] (9bbb14a) **Tone:** C_promissory_notes, Support for the Throne: "Doing so is considered a dick move.[*]". It sits on a site whose home page quotes the lead designer. Owner's call. (low)
-- [ ] **R_action_cards:** "Action cards are dealt out in initiative order. Though it rarely matters in practice." The second sentence is a fragment. (low)
+- [x] (b4cbbe0) **R_action_cards:** "Action cards are dealt out in initiative order. Though it rarely matters in practice." The second sentence is a fragment. (low)
 - [ ] **R_game_round:** the four-phase list is an `<ol>` inside a `<p>` (invalid HTML), and the phases aren't linked to their pages. (low)
 
 ### Typos and style
