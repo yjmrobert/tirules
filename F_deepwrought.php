@@ -44,6 +44,7 @@
     <ol class="note">
     <li>Doctor Carrina may be used even if no prerequisite is skipped, but the coexisting infantry is not placed. This includes when the player chooses not to ignore any prerequisites, or researches a technology with no prerequisites. The player may ignore prerequisites they already fulfill on a technology that has at least one prerequisite.<sup>6</sup></li>
     <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the <a href="/F_nekro">Nekro</a> player cannot skip a prerequisite.<sup>6</sup></li>
+    <li>Doctor Carrina cannot place the infantry on a planet that contains none of that player&rsquo;s units, as there are no units to coexist with.<sup>*</sup></li>
     </ol>
 
 <h2 id="aello"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>

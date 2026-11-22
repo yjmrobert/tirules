@@ -34,32 +34,32 @@ E6 Community consensus: "The agent may be used, but the coexisting infantry is n
 @16
 E6 Community consensus: "Is it possible … for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the 'they do skip a prerequisite'" condition.
 @17
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Deepwrought Scholarate: "If a planet of a player has no ground forces, can it be chosen by the Deepwrought agent so you gain control of it? A: No. You cannot trigger coexistence on a planet that does not have units on it."
+@18
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 E7 Thunder's Edge Rulebook, Aello (Deepwrought Commander): "The Deepwrought player cannot choose to disallow Aello from being used by other players."
-@18
-N No source found.
 @19
-E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
+N No source found.
 @20
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 @21
-I2 Same entry: "each is a separate optional trigger."
+E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 @22
 I2 Same entry: "each is a separate optional trigger."
 @23
 I2 Same entry: "each is a separate optional trigger."
 @24
-N No source found.
+I2 Same entry: "each is a separate optional trigger."
 @25
 N No source found.
 @26
-I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
-@27
-E2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?": "Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns."
-@28
-I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
-@29
 N No source found.
+@27
+I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
+@28
+E2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?": "Most players say yes: the holder owns the gained technology, so it is purged and they research another, keeping it after the note returns."
+@29
+I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
 @30
 N No source found.
 @31
@@ -67,4 +67,6 @@ N No source found.
 @32
 N No source found.
 @33
+N No source found.
+@34
 N No source found.

@@ -98,6 +98,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is it possible &hellip; for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the &lsquo;they do skip a prerequisite&rsquo;&rdquo; condition.</li>
         </ul></li>
+    <li>Doctor Carrina cannot place the infantry on a planet that contains none of that player&rsquo;s units, as there are no units to coexist with.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Deepwrought Scholarate: &ldquo;If a planet of a player has no ground forces, can it be chosen by the Deepwrought agent so you gain control of it? A: No. You cannot trigger coexistence on a planet that does not have units on it.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="aello"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>
