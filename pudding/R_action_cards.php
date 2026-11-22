@@ -23,7 +23,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.5: &ldquo;When a deck is depleted, players shuffle the deck&rsquo;s discard pile and place it facedown to create a new deck.&rdquo;</li>
         </ul></li>
-    <li>Action cards are dealt out in initiative order. Though it rarely matters in practice.<sup>2</sup>
+    <li>During the status phase, action cards are drawn in initiative order, though this rarely matters in practice.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;In what order are action cards drawn in the status phase?&rdquo;: &ldquo;In initiative order, though it rarely matters in practice.&rdquo;</li>
         </ul></li>

@@ -25,7 +25,7 @@
     <li>The number of action cards in a player&rsquo;s hand is public information.<sup>*</sup></li>
     <li>A player may choose to reveal any or all of the action cards in their hand.<sup>1,2,5</sup></li>
     <li>If the action card deck is depleted, immediately shuffle the discard pile to form a new action card deck.<sup>1</sup></li>
-    <li>Action cards are dealt out in initiative order. Though it rarely matters in practice.<sup>2</sup></li>
+    <li>During the status phase, action cards are drawn in initiative order, though this rarely matters in practice.<sup>2</sup></li>
     <ol>
         <li>If a player has the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator"><i>Neural Motivator</i></a> technology, they will draw both their action cards before the next player in order draws an action card.<sup>*</sup></li>
         <li>The <a href="/F_yssaril">Yssaril</a> player will draw all of their action cards, and discard for their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability, before the next player in order draws an action card.<sup>*</sup></li>
