@@ -74,6 +74,35 @@ Follow `style.md` for writing style and markup. Highlights:
 - Notes go in `<ol class="note">`. Nested sub-points use a nested `<ol>`. A single
   sub-item puts `<ol><li>…</li></ol>` on one line.
 
+## Notes, citations and proof pages
+
+- Every note ends with `<sup>n</sup>` (the source numbers listed in `suffix.php`) or
+  `<sup>*</sup>` when no source exists.
+- Every page with notes has a proof page, `pudding/<page>.php` (served at `/<page>/pudding`),
+  generated from `tools/pudding/<page>.txt` by `./tools/build_pudding.py <page>`. The proof file
+  format is described at the top of `tools/build_pudding.py`: `@n` is the nth cited note in page
+  order (sub-notes included, uncited header `<li>` skipped); lines are `E<src>` explicit,
+  `I<src>` implicit, `N` not found.
+- When you add a note, add its proof with `./tools/insert_proof.py <page> "<note text>" "<proof line>"`,
+  which renumbers the later `@n` blocks. When you remove, merge, split or reorder notes, renumber
+  by hand. Then rebuild the proof page and check in `pudding/<page>.php` that each proof sits under
+  its note. Commit the `.txt` and the regenerated `.php` with the page.
+- Citations must match the proofs: don't cite a source the proof file doesn't quote. If a cited
+  number's only proof is `N`, or says it doesn't address the note, drop the number (or use `*` if
+  nothing is left). The owner prefers `*` to a misleading number.
+- Owner decisions that still stand: strategy cards use the Thunder's Edge versions. Component
+  Limitations 23.4 deliberately reads "except for fighters and infantry".
+
+## Committing
+
+- Commit on the current branch. Never push.
+- Show the owner the diff of any change to note text, wording, or site behavior, and commit only
+  after they approve. Citation-only and proof-only changes, and plain typo fixes, may be committed
+  without asking; say what was committed.
+- Use a subject that says what changed on the site (for example
+  `Coexistence: merge scoring notes and reorder`), and end with the `Co-Authored-By` trailer your
+  harness specifies.
+
 ## Before finishing a change
 
 1. Run `./tools/check_links.sh`.

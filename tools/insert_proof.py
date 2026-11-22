@@ -2,7 +2,7 @@
 """Insert a proof block for a newly added note and renumber the later @n blocks.
 
 Usage (repo root), after adding the note to <page>.php:
-    python3 scratch/sweep/insert_proof.py <page> "<unique text of the new note>" "<proof line>" ["<proof line>" ...]
+    ./tools/insert_proof.py <page> "<unique text of the new note>" "<proof line>" ["<proof line>" ...]
 
 Notes are counted the way tools/build_pudding.py counts them: every <li> inside each
 <ol class="note"> block, in page order, skipping uncited <li> (no <sup>). Then run
@@ -10,7 +10,7 @@ Notes are counted the way tools/build_pudding.py counts them: every <li> inside 
 """
 import os, re, sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def note_index(page, key):
     s = open(os.path.join(ROOT, page + ".php"), encoding="utf-8").read()
