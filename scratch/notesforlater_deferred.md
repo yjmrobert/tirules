@@ -12,3 +12,4 @@ Was next: remaining pages by * count (tools: scratchpad star_hits.py / apply_cit
 From Queue D (sweep), Confusing: home page stale. Asked whether to keep, drop or reword the bold "This is a work in progress." line at the top of index.php. Unanswered: the owner approved the neighbouring "last checked" wording without answering this.
 
 # find proof for triad and oceans readying as planets
+DONE 2026-11-21 (8645219): cited via Learn to Play p. 21 ("readies all of their planet cards"), source 6 (oceans "are planet cards"), TE rulebook (station planet card), Triad card text (I3).
