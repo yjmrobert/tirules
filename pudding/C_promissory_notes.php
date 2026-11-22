@@ -111,7 +111,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?&rdquo;: &ldquo;Yes to both. Trading it is a normal transaction, and a ban is a house rule.&rdquo;</li>
         </ul></li>
-    <ol><li class="ixth">Doing so is considered a dick move.<sup>*</sup>
+    <ol><li class="ixth">Doing so is a betrayal most foul.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Owner&rsquo;s comment on table etiquette.</li>
         </ul></li></ol>

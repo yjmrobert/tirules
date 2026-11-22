@@ -45,7 +45,7 @@
     <li>If two players trade their <i>Support For The Throne</i> to one another simultaneously, the active player will be the first to gain a victory point.<sup>2</sup></li>
     <ol><li>During the agenda phase, the first player in speaker order will be the first to gain a victory point.<sup>2</sup></li></ol>
     <li>A player may give their <i>Support For The Throne</i> to another player even if doing so gives that player the victory point they need to win the game.<sup>2</sup></li>
-    <ol><li class="ixth">Doing so is considered a dick move.<sup>*</sup></li></ol>
+    <ol><li class="ixth">Doing so is a betrayal most foul.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="trade-agreement"><a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement">Trade Agreement</a></h2>
