@@ -1,7 +1,7 @@
 # tirules.com Style Guide
 
 ## general
-- Third Person, gender neutral.
+- Third Person, gender neutral. Exception: named players in a worked example (Alice, Bob…) may use he/she (owner preference, R_trade).
 - All lines end with a period.
 - US English.
 - A reference to an object found on the same page can be referenced by just its name. A reference to an object found on another page should be referenced by name and type (including faction if applicable).

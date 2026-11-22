@@ -19,16 +19,13 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob. To his left is Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup></li>
+    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob, then Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup></li>
     <ol>
         <li>Alice gains three trade goods.<sup>1</sup></li>
         <li>Alice replenishes her commodities.<sup>1</sup></li>
-        <li>Alice chooses players for the secondary.<sup>1</sup></li>
-        <li>Bob may/must replenish his commodities by performing the secondary ability.<sup>1</sup></li>
-        <li>Cheng may/must replenish her commodities by performing the secondary ability.<sup>1</sup></li>
-        <li>Diego may/must replenish his commodities by performing the secondary ability.<sup>1</sup></li>
-        <li>Esther may/must replenish her commodities by performing the secondary ability.<sup>1</sup></li>
-        <li>Fahd may/must replenish his commodities by performing the secondary ability.<sup>1</sup></li>
+        <li>Alice chooses players for the secondary ability.<sup>1</sup></li>
+        <li>If Alice chose Bob, Bob must resolve the secondary ability, replenishing his commodities. Otherwise, Bob may resolve it by spending a command token from his strategy pool.<sup>1</sup></li>
+        <li>Cheng, Diego, Esther and Fahd then do the same, in that order.<sup>1</sup></li>
     </ol>
     <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count toward the active player&rsquo;s transaction limit.<sup>2</sup></li>
     <li>A deal made during a given step is non&ndash;binding if any part of it is to resolve during a later step. As such, if Alice makes a deal to choose a player with the primary ability in exchange for commodities from that player after they perform the secondary, then such a deal will be non&ndash;binding.<sup>2,5</sup></li>

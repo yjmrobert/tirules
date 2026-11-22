@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob. To his left is Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup>
+    <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob, then Cheng, then Diego, then Esther, then Fahd. The full order of steps is:<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.2&ndash;92.5: the active player gains 3 trade goods, replenishes commodities, chooses players; then &ldquo;each other player, beginning with the player to the left of the active player,&rdquo; may resolve the secondary.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jan 17, 2018): &ldquo;The freebie secondary players resolve the secondaries during the normal time and in clockwise order from the active player, intermingled with those paying for it manually.&rdquo; Supports secondary ordering only.</li>
@@ -19,29 +19,17 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.3: &ldquo;STEP 2&mdash;The active player replenishes their commodities.&rdquo;</li>
         </ul></li>
-        <li>Alice chooses players for the secondary.<sup>1</sup>
+        <li>Alice chooses players for the secondary ability.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.4: &ldquo;STEP 3&mdash;The active player chooses any number of other players.&rdquo;</li>
         </ul></li>
-        <li>Bob may/must replenish his commodities by performing the secondary ability.<sup>1</sup>
+        <li>If Alice chose Bob, Bob must resolve the secondary ability, replenishing his commodities. Otherwise, Bob may resolve it by spending a command token from his strategy pool.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.4a: &ldquo;The chosen players must resolve the secondary ability of this card without spending a command token after the active player finishes resolving the primary ability.&rdquo; Others may by spending a token (92.5).</li>
         </ul></li>
-        <li>Cheng may/must replenish her commodities by performing the secondary ability.<sup>1</sup>
+        <li>Cheng, Diego, Esther and Fahd then do the same, in that order.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order from the active player&rsquo;s left (92.5).</li>
-        </ul></li>
-        <li>Diego may/must replenish his commodities by performing the secondary ability.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
-        </ul></li>
-        <li>Esther may/must replenish her commodities by performing the secondary ability.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
-        </ul></li>
-        <li>Fahd may/must replenish his commodities by performing the secondary ability.<sup>1</sup>
-        <ul>
-        <li><b>Explicit</b>: <sup>1</sup> Same rules, in clockwise order (92.5).</li>
         </ul></li>
     </ol>
     <li>Choosing players to resolve the secondary ability of <i>Trade</i> without spending a command token is not a transaction. Those players do not need to be neighbors of the active player, and it does not count toward the active player&rsquo;s transaction limit.<sup>2</sup>
