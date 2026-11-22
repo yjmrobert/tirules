@@ -10,7 +10,7 @@
     <li>One player controls the planet; all other players are coexisting on that planet.<sup>7</sup></li>
     <ol>
         <li>If a game effect instructs a player to coexist on a planet they do not control, the original controller of that planet retains control.<sup>7</sup></li>
-        <li>If a game effect instructs a player to coexist on a planet they do control, then another player will gain control of that planet (which will exhaust that planet).<sup>2,7</sup></li>
+        <li>If a player&rsquo;s units begin coexisting on a planet that player controls, the player they are now coexisting with gains control of that planet, exhausted.<sup>2,7</sup></li>
     </ol>
     <li>If multiple players may choose to coexist on a planet during the same timing window, the active player chooses first; if they decline, the other player may then choose to coexist.<sup>6</sup></li>
     <li>If additional units are added to those already coexisting, by, for example, committing additional ground forces during an invasion, or resolving an effect that allows a unit to be placed directly on a planet, the added units immediately coexist.<sup>7</sup></li>
