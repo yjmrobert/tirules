@@ -36,10 +36,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16: &ldquo;If a tactical action that is part of the Warfare primary is canceled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.&rdquo;</li>
         </ul></li>
-    <li>Ships may move into a system that has already been activated during the tactical action of the <i>Warfare</i> primary ability, but ships cannot move out of a system that has already been activated.<sup>2</sup>
+    <li>During the tactical action of the <i>Warfare</i> primary ability, ships may move into a system that contains one of the player&rsquo;s command tokens, but ships still cannot move out of a system that contains one of the player&rsquo;s command tokens.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Warfare strategy card work?&rdquo;: &ldquo;You can move ships into an already-activated system that way, but not out of one.&rdquo;</li>
         </ul></li>
+    <ol><li>No command token is placed in the system where the <i>Warfare</i> primary ability is resolved, so ships in that system, including ones produced there, may move during a later tactical action that round.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Warfare strategy card work?&rdquo;: &ldquo;perform a tactical action without placing a command token, even in a system that already holds yours or a Diplomacy token, so newly produced ships can move later that round; that system still counts as activated.&rdquo;</li>
+        </ul></li></ol>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

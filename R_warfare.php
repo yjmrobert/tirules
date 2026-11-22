@@ -16,7 +16,8 @@
     <ol class="note">
     <li>Resolving the secondary ability of Warfare does not activate the player&rsquo;s home system. It may be resolved even if that system already contains one of their command tokens.<sup>2</sup></li>
     <li>If a tactical action that is part of the <i>Warfare</i> primary ability is canceled, or the resolving player&rsquo;s turn is ended, the rest of the strategy card is still resolved.<sup>7</sup></li>
-    <li>Ships may move into a system that has already been activated during the tactical action of the <i>Warfare</i> primary ability, but ships cannot move out of a system that has already been activated.<sup>2</sup></li>
+    <li>During the tactical action of the <i>Warfare</i> primary ability, ships may move into a system that contains one of the player&rsquo;s command tokens, but ships still cannot move out of a system that contains one of the player&rsquo;s command tokens.<sup>2</sup></li>
+    <ol><li>No command token is placed in the system where the <i>Warfare</i> primary ability is resolved, so ships in that system, including ones produced there, may move during a later tactical action that round.<sup>2</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

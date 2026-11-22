@@ -6,3 +6,5 @@ Unanswered: the owner approved the neighbouring item without answering whether t
 
 ## Home page "This is a work in progress." line
 From Queue D (sweep), Confusing: home page stale. Asked whether to keep, drop or reword the bold "This is a work in progress." line at the top of index.php. Unanswered: the owner approved the neighbouring "last checked" wording without answering this.
+
+# find proof for triad and oceans readying as planets

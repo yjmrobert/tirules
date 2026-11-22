@@ -15,3 +15,5 @@ E2 RulesPal, "How does the Warfare secondary work?": "It doesn't activate the sy
 E7 Thunder's Edge Rulebook p. 16: "If a tactical action that is part of the Warfare primary is canceled, or the resolving player's turn is ended, the rest of the strategy card is still resolved."
 @2
 E2 RulesPal, "How does the Thunder's Edge Warfare strategy card work?": "You can move ships into an already-activated system that way, but not out of one."
+@3
+E2 RulesPal, "How does the Thunder's Edge Warfare strategy card work?": "perform a tactical action without placing a command token, even in a system that already holds yours or a Diplomacy token, so newly produced ships can move later that round; that system still counts as activated."
