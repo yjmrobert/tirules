@@ -117,11 +117,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;that player places 3 neutral infantry on that system&rsquo;s planets, split as evenly as possible.&rdquo; The placing player&rsquo;s choice is not stated.</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) in the equidistant, and place the <a href="/F_creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) where a minor faction home system would go, and place the <a href="/F_creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Minor Factions: &ldquo;When the Ghosts of Creuss or Crimson Rebellion faction is chosen as a minor faction, the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) in the equidistant, and place the <a href="/F_rebellion">Rebellion</a> home system (tile 118) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) where a minor faction home system would go, and place the <a href="/F_rebellion">Rebellion</a> home system (tile 118) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
