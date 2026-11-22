@@ -51,7 +51,7 @@
 
 <h2 id="war-funding-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup>
+    <li>A player may receive <i>War Funding &Omega;</i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a card (such as a promissory note) with a specified timing of a certain window that is acquired from a transaction during that window be played immediately? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;they may negotiate a transaction with one or more of their neighbors, even during a combat.&rdquo; Covers receiving it during combat, not playing it immediately.</li>
@@ -81,7 +81,7 @@
 
 <h2 id="noneuclidean-shielding"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
+    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -89,11 +89,11 @@
         <ul>
         <li><b>Unverified</b>: No source found. LRR 87.4: Sustain Damage can be used &ldquo;any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo;</li>
         </ul></li>
-    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup>
+    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability; they cannot cancel just one.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Non-Euclidean Shielding work?&rdquo;: &ldquo;Every time one of your units uses Sustain Damage, it cancels 2 hits instead of 1.&rdquo;</li>
         </ul></li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Non-Euclidean Shielding work?&rdquo;: &ldquo;Unused cancellation is lost; it doesn&rsquo;t carry over to a later hit such as Devotion&rsquo;s.&rdquo;</li>
         </ul></li>
@@ -122,7 +122,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during AFB? A: No, the Barony agent only has an effect on combat rolls.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 10.1c: &ldquo;Game effects that reroll, modify, or otherwise affect combat rolls do not affect anti-fighter barrage rolls.&rdquo;</li>
         </ul></li>
-    <li>The extra dice is mandatory for the chosen unit.<sup>*</sup>
+    <li>The extra die is mandatory for the chosen unit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -134,11 +134,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
+    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

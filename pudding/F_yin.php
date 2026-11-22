@@ -42,7 +42,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship, who picks the target &hellip;?&rdquo;: &ldquo;The Creuss or Yin player chooses which of your ships takes the hit.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>The Yin cannot choose their own ships as targets.<sup>1</sup>
+        <li>The Yin player cannot choose their own ships as targets.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo; &ldquo;1 of your opponent&rsquo;s ships.&rdquo;</li>
         </ul></li>

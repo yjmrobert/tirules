@@ -6,7 +6,7 @@
     <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup></li>
     <ol><li>The Nekro player may still play rider action cards.<sup>1,2</sup></li></ol>
     <li>If the Nekro player has the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup></li>
-    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.<sup>2</sup></li>
+    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technologies are ineligible to be gained.<sup>2</sup></li>
     <ol><li>If no player casts votes, then no technology can be gained.<sup>2</sup></li></ol>
     </ol>
 
@@ -130,7 +130,7 @@
 <h2 id="nekro-acidos"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When the Nekro player gains their third technology and unlocks Nekro Acidos, they cannot apply Nekro Acidos to that instance of gaining a technology.<sup>2</sup></li>
-    <li>When the Nekro places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup></li>
+    <li>When the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup></li>
     </ol>
 
 <h2 id="polymorphic-algorithm">UNIT.DSGN.FLAYESH &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Polymorphic%20Algorithm">Polymorphic Algorithm</a> <sub>(Hero)</sub></h2>

@@ -36,7 +36,7 @@
 <h2 id="evelyn-delouis"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls.<sup>*</sup></li>
-    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="/R_bombardment"><sc>Bombardment</sc></a> dice when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup></li></ol>
+    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="/R_bombardment"><sc>Bombardment</sc></a> die when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="claire-gibson"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Claire%20Gibson">Claire Gibson</a> <sub>(Commander)</sub></h2>

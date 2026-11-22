@@ -18,7 +18,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.<sup>2</sup>
+    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technologies are ineligible to be gained.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Galactic Threat gain a technology if nobody voted for the predicted outcome?&rdquo;: &ldquo;No &mdash; the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker&rsquo;s tie-break &hellip; with no player voting for it, there is nobody to take from.&rdquo;</li>
         </ul></li>
@@ -403,7 +403,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro commander draw an action card for the very technology that unlocks it?&rdquo;: &ldquo;No &mdash; unlock conditions are checked only after the current effect fully resolves.&rdquo;</li>
         </ul></li>
-    <li>When the Nekro places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup>
+    <li>When the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

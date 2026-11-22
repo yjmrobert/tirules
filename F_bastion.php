@@ -62,7 +62,7 @@
 <h2 id="lyra-keen"><a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Leaders:~:text=Lyra%20Keen">Lyra Keen</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/Last_Bastion#Leaders:~:text=Entity%204X41A">Entity 4X41A &ldquo;Apollo&rdquo;</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any combat roll modifiers will not apply to the dice roll for <i>Entity 4X41A &ldquo;Apollo&rdquo;</i>.<sup>*</sup></li>
-    <li>Units can only be destroyed by the dice specifically allocated to it.<sup>*</sup></li>
+    <li>Units can only be destroyed by the dice specifically allocated to them.<sup>*</sup></li>
     <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent units from being destroyed.<sup>2</sup></li>
     <li>All units belonging to other players in the system may be destroyed, including structures.<sup>*</sup></li>
     <ol>

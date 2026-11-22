@@ -23,7 +23,7 @@
 
 <h2 id="war-funding-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding">War Funding &Omega;</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
+    <li>A player may receive <i>War Funding &Omega;</i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.<sup>1,3</sup></li>
     <ol><li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.<sup>1,3</sup></li></ol>
     <li>A player who already has <i>War Funding &Omega;</i> may play it, then receive it again in a transaction and play it in a later round of that combat. It cannot be played twice in the same round.<sup>1</sup></li>
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>4</sup></li>
@@ -36,10 +36,10 @@
 
 <h2 id="noneuclidean-shielding"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding">Non&ndash;Euclidean Shielding</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
+    <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <a href="/R_bombardment"><sc>Bombardment</sc></a> and <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>*</sup></li>
-    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
+    <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability; they cannot cancel just one.<sup>2</sup></li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
     </ol>
 
 <h2 id="arc-secundus"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
@@ -52,14 +52,14 @@
 <h2 id="viscount-unlenn"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability.<sup>1,4</sup></li>
-    <li>The extra dice is mandatory for the chosen unit.<sup>*</sup></li>
+    <li>The extra die is mandatory for the chosen unit.<sup>*</sup></li>
     </ol>
 
 <h2 id="rear-admiral-farran"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Rear%20Admiral%20Farran">Rear Admiral Farran</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.<sup>*</sup></li>
-    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li>
-    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="/R_sustain_damage"><sc>Sustain damage</sc></a> ability.<sup>*</sup></li></ol>
+    <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup></li></ol>
     <li>A unit that becomes damaged without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup></li>
     <li>If multiple units use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability within a single step, the trade goods are gained one at a time.<sup>2</sup></li>
     </ol>

@@ -69,7 +69,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="/R_bombardment"><sc>Bombardment</sc></a> dice when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup>
+    <ol><li>This ability does not allow one of the <a href="/F_lizix">L1Z1X</a> player&rsquo;s Annihilator mechs to roll an additional <a href="/R_bombardment"><sc>Bombardment</sc></a> die when resolving their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

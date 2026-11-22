@@ -22,7 +22,7 @@
 <h2 id="exotrireme"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme">Exotrireme</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When resolving the ability of an Exotrireme II, the N&rsquo;orr player chooses which ships are destroyed.<sup>2,5</sup></li>
-    <ol><li>The N&rsquo;orr cannot choose their own ships as targets.<sup>1</sup></li></ol>
+    <ol><li>The N&rsquo;orr player cannot choose their own ships as targets.<sup>1</sup></li></ol>
     <li>Effects that cancel hits, such as the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     <li>If a player retreats, the N&rsquo;orr player will be unable to use the ability of an Exotrireme II to destroy an opponent&rsquo;s ship.<sup>2</sup></li>
     <li>If the N&rsquo;orr player is in a combat with the <a href="/F_yin">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>

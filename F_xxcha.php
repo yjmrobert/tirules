@@ -108,7 +108,7 @@
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.<sup>12</sup></li>
     </ol>
 
-<h2 id="xxekir-grom-3"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Planetary%20Defense%20Nexus">Planetary Defense Nexus &Omega;&Omega;</a><sub>(Hero)</sub></h2>
+<h2 id="xxekir-grom-3"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Planetary%20Defense%20Nexus">Planetary Defense Nexus &Omega;&Omega;</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The units may be placed on a readied planet.<sup>*</sup></li>
     <li>Multiple units may be placed on the same planet.<sup>*</sup></li>

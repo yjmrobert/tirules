@@ -47,7 +47,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The N&rsquo;orr player selects the units to be destroyed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sustain Damage save a ship from Exotrireme II &hellip;?&rdquo;: &ldquo;For Exotrireme II, the Sardakk player chooses which ships (up to 2) are destroyed.&rdquo;</li>
         </ul></li>
-    <ol><li>The N&rsquo;orr cannot choose their own ships as targets.<sup>1</sup>
+    <ol><li>The N&rsquo;orr player cannot choose their own ships as targets.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can abilities that destroy units, such as the &lsquo;Lucky Shot&rsquo; action card, be used by a player against their own units or planets? A: No. &lsquo;Lucky Shot&rsquo; and other similar effects can only be used against other player&rsquo;s units and planets.&rdquo;</li>
         </ul></li></ol>

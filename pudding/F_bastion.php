@@ -123,7 +123,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Units can only be destroyed by the dice specifically allocated to it.<sup>*</sup>
+    <li>Units can only be destroyed by the dice specifically allocated to them.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
