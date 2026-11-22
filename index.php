@@ -27,7 +27,6 @@
 <body>
 <header><h1>Twilight Imperium Rules</h1><?php echo $theme_toggle_button; ?></header>
 <article>
-<p><strong>This is a work in progress.</strong></p>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>
 <p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. 
