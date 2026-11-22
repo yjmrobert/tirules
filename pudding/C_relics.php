@@ -186,7 +186,7 @@
 
 <h2 id="nanoforge"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge">Nano&ndash;Forge</a></h2>
     <ol class="note">
-    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet will also no longer be non&ndash;legendary for effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup>
+    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet also can no longer be chosen by effects that require a non&ndash;legendary planet, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup>
         <ul>
         <li><b>Implicit</b>: <sup>14</sup> Codex II: &ldquo;The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives.&rdquo;</li>
         </ul></li>
@@ -214,7 +214,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a>, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a> relic, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
