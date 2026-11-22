@@ -64,6 +64,7 @@
     <li>Ships may transport units out of systems that contain one of the Argent player&rsquo;s command tokens.<sup>4</sup></li>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.<sup>2</sup></li>
     <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>2</sup></li>
+    <li>Ships moved with <i>Helix Protocol</i> must still follow the rules for moving into anomalies, such as <a href="/R_supernova">supernovas</a>.<sup>4</sup></li>
     </ol>
 
 <h2 id="aerie-sentinel"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>

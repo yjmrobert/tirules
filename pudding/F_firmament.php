@@ -23,6 +23,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Clarifications, Plot Cards: &ldquo;Once the game starts, the Firmament&rsquo;s Plot cards are hidden information. Players can look at the plot cards before the game begins, however.&rdquo;</li>
         </ul></li>
+    <li>The Firmament player cannot place their own control token on one of their plot cards.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), The Firmament / The Obsidian: &ldquo;Can you place your own Control Tokens on Plot cards? A: You cannot.&rdquo;</li>
+        </ul></li>
+    <li>A plot card may have more than one player&rsquo;s control token on it, but not two of the same player&rsquo;s control tokens.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), The Firmament / The Obsidian: &ldquo;Can you get more than one persons control tokens on one plot card? A: Yes that is possible.&rdquo; Sharsiss card text (not a numbered source): &ldquo;one plot cannot have two of the same player&rsquo;s tokens.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="puppets-of-the-blade"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>

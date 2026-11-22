@@ -70,6 +70,8 @@
 <h2 id="infantry-ii"><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
     <ol class="note">
     <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup></li>
+    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card.<sup>*</sup></li>
+    <ol><li>It does not apply if the infantry is removed from the board without being destroyed.<sup>2</sup></li></ol>
     </ol>
 
 <h2 id="pds"><a href="/R_pds">PDS</a></h2>

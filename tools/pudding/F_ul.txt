@@ -76,32 +76,34 @@ I14 Codex II, Ul Alliance: "When 1 or more of your units use PRODUCTION: You may
 @34
 N No source found.
 @35
-N No source found.
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Titans of Ul: "Does the Geoform ability of Ul the progenitor count as an attachment for the purpose of the objective 'Reclaim ancient monuments'? A: Yes"
 @36
+N No source found.
+@37
 E4 Designer ruling: "You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet."
 I1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
-@37
+@38
 E4 Designer ruling: "Does 63.3 (2 PDS on a planet max) mean that Titans couldn't place a PDS via Sleeper token onto a planet where another player already has 2 PDS? … A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player's PDS units. You cannot place a structure on a planet with the maximum number of your structures."
 E4 Same ruling: "which prevents using the DEPLOY ability on a planet with 2 PDS of yours."
 I3 Learn to Play: "Players are limited to two PDS units and one space dock on each planet." The Deploy consequence is not stated.
-@38
+@39
 E1 LRR 30.2: "A player can only resolve a deploy ability to place a unit that is in their reinforcements."
 E8 PoK rulebook p. 10: "These abilities can only be resolved to place a unit that is in a player's reinforcements."
-@39
-E6 Community consensus: "Can Titans use the Mech's deploy ability for coexistence? A: Yes."
 @40
-E2 RulesPal, "Can the Titans deploy their mech instead of placing a PDS with Construction?": "Yes — Construction places PDS, so the Titans' deploy works there, even twice with the primary."
+E6 Community consensus: "Can Titans use the Mech's deploy ability for coexistence? A: Yes."
 @41
+E2 RulesPal, "Can the Titans deploy their mech instead of placing a PDS with Construction?": "Yes — Construction places PDS, so the Titans' deploy works there, even twice with the primary."
+@42
 E2 RulesPal: "a planet holds at most one."
 E6 Community consensus, Slumberstate Computing, limit of Sleeper tokens on another player’s planet: "Is there a limit to the number of Sleeper tokens that may be placed on another player's planet? A: One per planet"
-@42
-I9 Designer Q&A, "Titans Breakthrough": "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players."
 @43
-E9 Same answer: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal."
+I9 Designer Q&A, "Titans Breakthrough": "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players."
 @44
+E9 Same answer: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal."
+@45
 I1 LRR 28.3: "If the terms of a deal can be resolved immediately, it is a binding deal." The sleeper token can be placed immediately, with no timing window.
 I9 Designer Q&A, Titans Breakthrough: "There is no real timing window or other requirement, it is something that can easily be worked into a transaction or deal with friendly players."
-@45
-E6 Community consensus: "Does the agreement to place a Sleeper token require agreeing to a specific planet …? A: Agreement includes which planet."
 @46
+E6 Community consensus: "Does the agreement to place a Sleeper token require agreeing to a specific planet …? A: Agreement includes which planet."
+@47
 E6 Community consensus: "Does that mean that you'll be receiving additional AC for the Minister of Policy …? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards."

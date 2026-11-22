@@ -51,22 +51,24 @@ E9 Designer Q&A: "Crimson Agent": "Does not have to abide by anything movement r
 @23
 E2 RulesPal, "After a Crimson Rebellion swap, are the ships locked, and can moved units invade?": "A swap is a component action, not a tactical action, so there's no invasion unless the ability says so."
 @24
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Crimson Rebellion: "Can the Rebellion agent Ahk Ravin be used to swap a non-fighter ship with a fighter? A: Ahk Ravin does not specify non-fighter ship, so yes."
+@25
 E6 Community consensus: "Does the Crimson commander, Ahk Siever, work on combats with neutral units? A: Yes, the commander triggers on any combat involving players (which is all combats)."
 E9 Designer Q&A, "Crimson Commander": "Does this trigger at the end of a combat with the neutral forces? Can it be used in the same combat that unlocked it? … A: Yes to both."
-@25
-E9 Designer Q&A, "Crimson Commander": "Can it be used in the same combat that unlocked it? … A: Yes to both."
 @26
-N No source found.
+E9 Designer Q&A, "Crimson Commander": "Can it be used in the same combat that unlocked it? … A: Yes to both."
 @27
 N No source found.
 @28
 N No source found.
 @29
-E2 RulesPal, "Can the Crimson Rebellion hero join a combat between two other players?": "No — it is meant for combats you are part of; there are no rules for three-way combat"
+N No source found.
 @30
+E2 RulesPal, "Can the Crimson Rebellion hero join a combat between two other players?": "No — it is meant for combats you are part of; there are no rules for three-way combat"
+@31
 I2 RulesPal, "When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?": "At all times, except for ships that are only moving through other systems. Once ships arrive in the active system, any non-fighter ships over your fleet pool are removed straight away."
 E1 LRR 16.4c: "A player's fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed."
-@31
-N No source found.
 @32
+N No source found.
+@33
 I2 RulesPal, on the similar Lazax Gate Folding: "The passive part … doesn't need the card ready, so it works while exhausted."

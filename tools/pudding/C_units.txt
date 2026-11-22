@@ -33,8 +33,12 @@ E1 LRR FAQ: "When those infantry would be placed on a home planet, they are retu
 E2 RulesPal, "What happens to infantry on the Infantry II card if I don't control my home system?": "If you control none there, they are lost (returned to reinforcements), per a relayed developer email."
 E5 Designer ruling: "The units would be lost, in this case."
 @10
-E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Infantry: "Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner."
 @11
-E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
+E2 RulesPal, "After ships stop moving, are fighters and ground forces still tied to the ship that carried them?": "Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn't trigger."
 @12
+E2 RulesPal, "Does a space dock have capacity?": "No — a normal space dock lets up to 3 fighters in its system ignore capacity … It holds no ground forces."
+@13
+E2 RulesPal, "Does a space dock have capacity?": "two docks in one system cover 6 fighters."
+@14
 E2 RulesPal, "How many units can a space dock produce?": "The planet being exhausted doesn't matter."

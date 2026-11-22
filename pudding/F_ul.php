@@ -190,6 +190,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>Elysium counts as a planet with an attachment for objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments"><i>Reclaim Ancient Monuments</i></a>.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Titans of Ul: &ldquo;Does the Geoform ability of Ul the progenitor count as an attachment for the purpose of the objective &lsquo;Reclaim ancient monuments&rsquo;? A: Yes&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="hecatoncheires"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>

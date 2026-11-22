@@ -119,6 +119,8 @@
     <ol class="note">
     <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup></li>
     <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> applies when producing with a wormhole, as each wormhole has <a href="/R_production"><sc>Production</sc></a> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup></li>
+    <li>Ground forces produced this way may be placed in the space area or on any planet the Creuss player controls in that system.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

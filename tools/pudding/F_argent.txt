@@ -57,6 +57,8 @@ E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "no path or m
 @26
 E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action."
 @27
-E6 Community consensus: "Why does the Argent breakthrough, Wing Transfer, have 'this action' in its wording? … A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships)."
+I4 Unofficially Official FAQ, Anomalies: "Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies." (names Benediction and G'hom Sek'kus, not Helix Protocol)
 @28
+E6 Community consensus: "Why does the Argent breakthrough, Wing Transfer, have 'this action' in its wording? … A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships)."
+@29
 N No source found.

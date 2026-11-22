@@ -151,6 +151,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action.&rdquo;</li>
         </ul></li>
+    <li>Ships moved with <i>Helix Protocol</i> must still follow the rules for moving into anomalies, such as <a href="/R_supernova">supernovas</a>.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Unofficially Official FAQ, Anomalies: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.&rdquo; (names Benediction and G&rsquo;hom Sek&rsquo;kus, not Helix Protocol)</li>
+        </ul></li>
     </ol>
 
 <h2 id="aerie-sentinel"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>

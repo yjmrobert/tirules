@@ -331,6 +331,14 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> applies when producing with a wormhole, as each wormhole has <a href="/R_production"><sc>Production</sc></a> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies.&rdquo;</li>
+        </ul></li>
+    <li>Ground forces produced this way may be placed in the space area or on any planet the Creuss player controls in that system.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;When you produce in a system with an effect or with a unit in space, it can go in space or on any planet you control in that system.&rdquo;</li>
+        </ul></li>
     </ol>
 </article>
 <?php include __DIR__ . "/../suffix.php"?>

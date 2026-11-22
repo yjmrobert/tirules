@@ -135,6 +135,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After a Crimson Rebellion swap, are the ships locked, and can moved units invade?&rdquo;: &ldquo;A swap is a component action, not a tactical action, so there&rsquo;s no invasion unless the ability says so.&rdquo;</li>
         </ul></li>
+    <li>Either of the swapped ships may be a fighter.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Crimson Rebellion: &ldquo;Can the Rebellion agent Ahk Ravin be used to swap a non-fighter ship with a fighter? A: Ahk Ravin does not specify non-fighter ship, so yes.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="ahk-siever"><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Leaders:~:text=Ahk%20Siever">Ahk Siever</a> <sub>(Commander)</sub></h2>

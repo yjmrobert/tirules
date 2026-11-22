@@ -99,6 +99,14 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to infantry on the Infantry II card if I don&rsquo;t control my home system?&rdquo;: &ldquo;If you control none there, they are lost (returned to reinforcements), per a relayed developer email.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The units would be lost, in this case.&rdquo;</li>
         </ul></li>
+    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Infantry: &ldquo;Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner.&rdquo;</li>
+        </ul></li>
+    <ol><li>It does not apply if the infantry is removed from the board without being destroyed.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After ships stop moving, are fighters and ground forces still tied to the ship that carried them?&rdquo;: &ldquo;Units removed for lack of capacity are removed, not destroyed, so Infantry II doesn&rsquo;t trigger.&rdquo;</li>
+        </ul></li></ol>
     </ol>
 
 <h2 id="pds"><a href="/R_pds">PDS</a></h2>

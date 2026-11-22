@@ -605,6 +605,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         </ul></li>
+    <li>The destroyer may be placed in an <a href="/R_asteroid_field">asteroid field</a> that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Action Cards: &ldquo;Can &lsquo;Ghost Ship&rsquo; be used to place a Destroyer in the Asteroid/Alpha system if the player lacks the Antimass Deflectors technology? A: Yes. You are placing the destroyer in that system, not moving it.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="ghost-squad"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>

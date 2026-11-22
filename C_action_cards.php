@@ -377,6 +377,7 @@
     <li>A player may place the destroyer in the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss gate</a> (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.<sup>*</sup></li>
     <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>6</sup></li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
+    <li>The destroyer may be placed in an <a href="/R_asteroid_field">asteroid field</a> that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup></li>
     </ol>
 
 <h2 id="ghost-squad"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>

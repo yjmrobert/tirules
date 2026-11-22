@@ -144,3 +144,7 @@ E2 Same entry: "a unit's 'this system' always means its own system."
 E6 Community consensus: "Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? … A: Yes, each wormhole, even wormholes of the same type," provides it.
 @63
 N No source found.
+@64
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: "Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies."
+@65
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: "When you produce in a system with an effect or with a unit in space, it can go in space or on any planet you control in that system."

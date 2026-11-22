@@ -953,6 +953,10 @@
         <ul>
         <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Under Shared Research&rsquo;s Against outcome, what if I have no command tokens in reinforcements?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Then you place nothing &mdash; the outcome places a token only if able, so you don&rsquo;t take one from your sheet.&rdquo;</li>
         </ul></li>
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player places the command token in their home system even if they control no planets there.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Agenda Cards: &ldquo;A home system is always that player&rsquo;s home system meaning they still do place a command counter in that system even though they do not control it&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="swords-to-plowshares"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>

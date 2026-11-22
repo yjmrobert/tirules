@@ -86,6 +86,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
+    <li>The primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card does not activate a system, so it does not trigger <i>Neuroglaive</i>.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Diplomacy tokens, retreats or action cards like Ghost Ship or Plague count as activating a system?&rdquo;: &ldquo;Tokens placed by Diplomacy or a retreat and cards aimed at a system don&rsquo;t activate it, so they don&rsquo;t trigger Space Cannon Offense, Support for the Throne returns or other &lsquo;activate&rsquo; effects.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="hybrid-crystal-fighter"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>

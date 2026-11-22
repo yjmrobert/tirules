@@ -469,6 +469,7 @@
 <h2 id="shared-research"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
     <ol class="note">
     <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup></li>
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player places the command token in their home system even if they control no planets there.<sup>*</sup></li>
     </ol>
 
 <h2 id="swords-to-plowshares"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>

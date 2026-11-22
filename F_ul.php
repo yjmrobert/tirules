@@ -76,6 +76,7 @@
 <h2 id="ul-the-progenitor"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Ul%20the%20Progenitor">Ul the Progenitor</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Specific_Components:~:text=Geoform">Geoform</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability is controlled by whichever player controls Elysium.<sup>*</sup></li>
+    <li>Elysium counts as a planet with an attachment for objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments"><i>Reclaim Ancient Monuments</i></a>.<sup>*</sup></li>
     </ol>
 
 <h2 id="hecatoncheires"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>

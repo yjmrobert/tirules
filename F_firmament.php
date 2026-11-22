@@ -8,6 +8,8 @@
     <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
     <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
     <li>Once the game starts, the Firmament player&rsquo;s plot cards are hidden information. Players may look at the plot cards before the game begins.<sup>7</sup></li>
+    <li>The Firmament player cannot place their own control token on one of their plot cards.<sup>*</sup></li>
+    <li>A plot card may have more than one player&rsquo;s control token on it, but not two of the same player&rsquo;s control tokens.<sup>*</sup></li>
     </ol>
 
 <h2 id="puppets-of-the-blade"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>

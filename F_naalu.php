@@ -32,6 +32,7 @@
 <h2 id="neuroglaive"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Technologies:~:text=Neuroglaive">Neuroglaive</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the <a href="/F_mahact">Mahact</a> player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.<sup>*</sup></li>
+    <li>The primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card does not activate a system, so it does not trigger <i>Neuroglaive</i>.<sup>2</sup></li>
     </ol>
 
 <h2 id="hybrid-crystal-fighter"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>

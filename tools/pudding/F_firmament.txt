@@ -8,41 +8,45 @@ E6 Community consensus: "What happens if a secret objective is elected as a publ
 @3
 E7 Thunder's Edge Rulebook p. 16, Clarifications, Plot Cards: "Once the game starts, the Firmament's Plot cards are hidden information. Players can look at the plot cards before the game begins, however."
 @4
-E7 Thunder's Edge Rulebook p. 16: "When the Firmament's home system is flipped, units on Cronos are placed on Cronos Hollow. Units on Tallin are placed on Tallin Hollow. Units in the space area remain in the space area."
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), The Firmament / The Obsidian: "Can you place your own Control Tokens on Plot cards? A: You cannot."
 @5
-N No source found.
+N No source found. Twilight Imperium Wiki FAQ (not a numbered source), The Firmament / The Obsidian: "Can you get more than one persons control tokens on one plot card? A: Yes that is possible." Sharsiss card text (not a numbered source): "one plot cannot have two of the same player's tokens."
 @6
-E6 Community consensus, Puppets of the Blade and Become a Martyr: "do they qualify for BecomeA Martyr? A: No."
+E7 Thunder's Edge Rulebook p. 16: "When the Firmament's home system is flipped, units on Cronos are placed on Cronos Hollow. Units on Tallin are placed on Tallin Hollow. Units in the space area remain in the space area."
 @7
-E6 Community consensus: "The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves."
+N No source found.
 @8
-E6 Community consensus: "Malevolency (Obsidian Promissory Note): Does this go into the receiver's play area? … A: It remains in a player's hand but is mandatory during status, this is an explicit exception to all other promissory notes."
+E6 Community consensus, Puppets of the Blade and Become a Martyr: "do they qualify for BecomeA Martyr? A: No."
 @9
-E7 Thunder's Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): "While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify 'gain.'"
+E6 Community consensus: "The Firmament player may choose not to play a plot. The rest of the note, including purging it, still resolves."
 @10
-N No source found.
+E6 Community consensus: "Malevolency (Obsidian Promissory Note): Does this go into the receiver's play area? … A: It remains in a player's hand but is mandatory during status, this is an explicit exception to all other promissory notes."
 @11
-N No source found.
+E7 Thunder's Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): "While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify 'gain.'"
 @12
+N No source found.
+@13
+N No source found.
+@14
 E7 Thunder's Edge Rulebook, The Fracture: "A system cannot have more than one ingress token."
 I6 Community consensus: "Can the Vuil'raith player move an ingress token into a system that already contains a different ingress token? A: No, the rules state that a system may not contain more than 1 ingress token." Stated for the Vuil'raith; the same rule applies to Planesplitter.
-@13
-I6 Community consensus, on the Vuil'raith breakthrough: "Can the Vuil’raith player move an ingress token into the Fracture …? A: No, ingress tokens cannot be placed in the Fracture." The answer is stated generally, so it covers Planesplitter too.
-@14
-E6 Community consensus: "What is the interaction between Coup D'etat and the Obsidian's Planesplitter technology? A: Planesplitter would resolve before Coup D'etat is played and resolved."
 @15
-E7 Thunder's Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): "While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify 'gain.'"
+I6 Community consensus, on the Vuil'raith breakthrough: "Can the Vuil’raith player move an ingress token into the Fracture …? A: No, ingress tokens cannot be placed in the Fracture." The answer is stated generally, so it covers Planesplitter too.
 @16
-E6 Community consensus: "No space cannon against any ships moving. Only ships not transporting may move through other player's ships."
+E6 Community consensus: "What is the interaction between Coup D'etat and the Obsidian's Planesplitter technology? A: Planesplitter would resolve before Coup D'etat is played and resolved."
 @17
-N No source found.
+E7 Thunder's Edge Rulebook p. 16, Clarifications, Firmament/Obsidian (Faction Technologies): "While these technologies cannot be researched once The Firmament has become The Obsidian, they can be gained directly by game effects that specify 'gain.'"
 @18
-E6 Community consensus: "Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes."
+E6 Community consensus: "No space cannon against any ships moving. Only ships not transporting may move through other player's ships."
 @19
-E6 Community consensus: "If CaptainAroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No, both are treated as controlling it for purposes of scoring objectives."
-@20
-E6 Community consensus: "Can you use Firmament's mech when you are the active player (to commit the Mech & start coexisting)? A: Yes"
-@21
 N No source found.
+@20
+E6 Community consensus: "Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes."
+@21
+E6 Community consensus: "If CaptainAroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it? A: No, both are treated as controlling it for purposes of scoring objectives."
 @22
+E6 Community consensus: "Can you use Firmament's mech when you are the active player (to commit the Mech & start coexisting)? A: Yes"
+@23
+N No source found.
+@24
 E6 Community consensus: "Does receiving trade goods from the Reaping count as 2 separate gains (for the purposes of Pillage)? A: Two separate gains."
