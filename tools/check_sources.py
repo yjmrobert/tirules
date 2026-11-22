@@ -75,7 +75,12 @@ def fetch(url):
 
 def rulespal_answers(index_html):
     """Text of every RulesPal answer page, in index order, as one document."""
-    ids = list(dict.fromkeys(re.findall(r'\\"id\\":\\"([a-z0-9-]+)\\",\\"question', index_html)))
+    # Answer links on the index page; the embedded question data (whose format has changed
+    # before) is a fallback.
+    ids = list(dict.fromkeys(
+        re.findall(r'href="/twilight-imperium-4/faq/([a-z0-9-]+)"', index_html)
+        or re.findall(r'\bid:"([a-z0-9-]+)",question:', index_html)
+        or re.findall(r'\\"id\\":\\"([a-z0-9-]+)\\",\\"question', index_html)))
     if not ids:
         raise ValueError("no question ids found in the RulesPal index")
     out = []
