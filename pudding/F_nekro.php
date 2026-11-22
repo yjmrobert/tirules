@@ -155,7 +155,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>Antivirus</i> may be played at the start of a combat that the Nekro player is not participating in.<sup>*</sup>
+    <ol><li>The Nekro player does not need to be participating in that combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

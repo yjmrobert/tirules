@@ -53,7 +53,7 @@
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat"><sc>Galactic Threat</sc></a> ability.<sup>*</sup></li>
     <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>*</sup></li>
-    <ol><li><i>Antivirus</i> may be played at the start of a combat that the Nekro player is not participating in.<sup>*</sup></li></ol>
+    <ol><li>The Nekro player does not need to be participating in that combat.<sup>*</sup></li></ol>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.<sup>*</sup></li>
     <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Nekro player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.<sup>*</sup></li>
