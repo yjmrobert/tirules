@@ -38,10 +38,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet.&rdquo;</li>
         </ul></li>
-    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>1,7</sup>
+    <ol><li>Space stations are also readied at the end of the agenda phase.<sup>1,3,7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR, Agenda Phase, Step 3, Ready Planets: &ldquo;Each player readies each of their exhausted planets.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li></ol>
     <li>A player may exhaust a space station at any time to convert any commodities that they have into trade goods.<sup>7</sup>
         <ul>

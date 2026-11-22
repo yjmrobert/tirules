@@ -186,7 +186,7 @@
         <li><i>The Triad</i> does not have a planet trait; it cannot be explored.<sup>*</sup></li>
     </ol>
     <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup></li>
-    <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>*</sup></li></ol>
+    <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>3</sup></li></ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup></li>
     <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup></li>
     <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup></li>

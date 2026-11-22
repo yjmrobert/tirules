@@ -11,7 +11,8 @@ E6 Community consensus: "If DWS is coexisting on 3 planets and has 3 they contro
 @5
 E6 Community consensus: "Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound … so as to ready one of their oceans? A: No"
 @6
-N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Closest: the Deepwrought ocean cards are "A card equivalent to a planet card that has resource and influence values 1/1" (Twilight Imperium Wiki, not a numbered source).
+E3 Learn to Play p. 21, Agenda Phase, "3. READY PLANETS": "Each player readies all of their planet cards."
+E6 Community consensus, Deepwrought Scholarate: "What do Ocean Cards do? A: They are planet cards and can be spent as such."
 @7
 E6 Community consensus: "Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans"
 @8

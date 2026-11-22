@@ -67,9 +67,12 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.4: &ldquo;Step 3&mdash;Ready Planets: Each player readies each of their exhausted planets.&rdquo; Names only planets.</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Ready Planets: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>*</sup>
+    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>3,6,7</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Space stations: Thunder&rsquo;s Edge Rulebook p. 10, &ldquo;readied as if it were a planet&rdquo;. The Triad card text: &ldquo;readied and spent as if it were a planet card&rdquo;. Oceans: no source. Designer Q&amp;A covers only voting with all three (&ldquo;Yeah you can vote with them.&rdquo;).</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> The Triad card text (not a numbered source): &ldquo;This card can be readied and spent as if it were a planet card.&rdquo; Learn to Play readies all planet cards at the end of the agenda phase, so The Triad is readied then.</li>
         </ul></li></ol>
     </ol>
 </article>

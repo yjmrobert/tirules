@@ -19,7 +19,7 @@
     <ol class="note">
     <li>Passive abilities on an exhausted card are still in effect while that card is exhausted.<sup>1,2</sup></li>
     <li>Planets will also ready at the end of each agenda phase.<sup>1,2,3</sup></li>
-    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>.<sup>*</sup></li></ol>
+    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>.<sup>3,6,7</sup></li></ol>
     <li>If a game effect instructs a player to ready a planet, the readied planet must be controlled by that player, unless the game effect specifies otherwise.<sup>*</sup></li>
     </ol>
 

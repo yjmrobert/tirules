@@ -33,4 +33,7 @@ E2 RulesPal, "Can I exhaust planets for resources or technology specialties duri
 I1 LRR 8.4: "Step 3—Ready Planets: Each player readies each of their exhausted planets." Names only planets.
 I3 Learn to Play, Ready Planets: "Each player readies all of their planet cards."
 @11
-N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Space stations: Thunder's Edge Rulebook p. 10, "readied as if it were a planet". The Triad card text: "readied and spent as if it were a planet card". Oceans: no source. Designer Q&A covers only voting with all three ("Yeah you can vote with them.").
+E3 Learn to Play p. 21, Agenda Phase, "3. READY PLANETS": "Each player readies all of their planet cards."
+E6 Community consensus, Deepwrought Scholarate: "What do Ocean Cards do? A: They are planet cards and can be spent as such."
+E7 Thunder's Edge Rulebook p. 10: "Each space station has a corresponding planet card, which is gained exhausted and is spent, readied as if it were a planet."
+I3 The Triad card text (not a numbered source): "This card can be readied and spent as if it were a planet card." Learn to Play readies all planet cards at the end of the agenda phase, so The Triad is readied then.

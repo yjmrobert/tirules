@@ -59,7 +59,7 @@
     <li>If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.<sup>1</sup></li>
     <li>Each pair of players may resolve one transaction during each agenda.<sup>1,2,3</sup></li>
     <li>Planets are readied at the end of the agenda phase; other exhausted cards, such as technologies and agents, stay exhausted.<sup>2</sup></li>
-    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>*</sup></li></ol>
+    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>3,6,7</sup></li></ol>
     </ol>
 
 <h2>Related Topics</h2>

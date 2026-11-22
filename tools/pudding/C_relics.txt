@@ -138,7 +138,8 @@ N No source found.
 @65
 N No source found.
 @66
-N No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Closest: The Triad card text: "This card can be readied and spent as if it were a planet card." (card text is not a numbered source).
+E3 Learn to Play p. 21, Agenda Phase, "3. READY PLANETS": "Each player readies all of their planet cards."
+I3 The Triad card text (not a numbered source): "This card can be readied and spent as if it were a planet card." Learn to Play readies all planet cards at the end of the agenda phase, so The Triad is readied then.
 @67
 E9 Designer Q&A, "Voting with Space Stations": "can you vote with space stations, oceans, and the triad? … A: Yeah you can vote with them."
 E6 Community consensus: "Q: Can you vote using The Triad relic? A: Yes."

@@ -368,9 +368,10 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>*</sup>
+    <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>3</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase. Closest: The Triad card text: &ldquo;This card can be readied and spent as if it were a planet card.&rdquo; (card text is not a numbered source).</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>3</sup> The Triad card text (not a numbered source): &ldquo;This card can be readied and spent as if it were a planet card.&rdquo; Learn to Play readies all planet cards at the end of the agenda phase, so The Triad is readied then.</li>
         </ul></li></ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup>
         <ul>
