@@ -9,7 +9,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I trade on a promissory note I received from another player &hellip;?&rdquo;: &ldquo;Notes face up in your play area, like Support for the Throne, can&rsquo;t be traded or handed back voluntarily.&rdquo; Alliance card text: &ldquo;When you receive this card, if you are not the (color) player, you must place it face up in your play area.&rdquo;</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Alliance</i> to be returned.<sup>2</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Alliance</i> to be returned.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, on Support for the Throne: &ldquo;Putting a command token in a system by other means is not activating it.&rdquo; Alliance card text: &ldquo;If you activate a system that contains 1 or more of the (color) player&rsquo;s units, return this card to the (color) player.&rdquo;</li>
         </ul></li>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;not control tokens, so activating a system where they only have control tokens is fine.&rdquo;</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Support For The Throne</i> to be returned.<sup>2</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the other player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Support For The Throne</i> to be returned.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Putting a command token in a system by other means is not activating it.&rdquo;</li>
         </ul></li>

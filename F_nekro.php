@@ -57,7 +57,7 @@
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.<sup>*</sup></li>
     <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Nekro player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Antivirus</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Antivirus</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2 id="valefar-assimilator"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> <sub>(Technology)</sub></h2>

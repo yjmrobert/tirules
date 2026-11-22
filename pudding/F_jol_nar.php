@@ -82,7 +82,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

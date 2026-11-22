@@ -22,7 +22,7 @@
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>1</sup></li></ol>
     <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2 id="dark-pact"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
@@ -33,7 +33,7 @@
     <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup></li>
     <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2 id="aetherstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Technologies:~:text=Aetherstream">Aetherstream</a> <sub>(Technology)</sub></h2>

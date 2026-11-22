@@ -37,7 +37,7 @@
 <h2 id="eres-siphons"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=E-Res%20Siphons">E&ndash;Res Siphons</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts toward the Jol&ndash;Nar player this turn.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.<sup>*</sup></li>
     </ol>
 
 <h2 id="spatial-conduit-cylinder"><a href="https://twilight-imperium.fandom.com/wiki/The_Universities_of_Jol-Nar#Faction_Technologies:~:text=Spatial%20Conduit%20Cylinder">Spatial Conduit Cylinder</a> <sub>(Technology)</sub></h2>
