@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Neutral units are placed in some system within The Fracture when it enters play. Several other game effects also place neutral units.<sup>7,11</sup>
+    <li>Neutral units are placed in some systems within The Fracture when it enters play. Several other game effects also place neutral units.<sup>7,11</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9: &ldquo;They then place neutral units as indicated on the back of The Fracture&rsquo;s tiles.&rdquo;</li>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV, Minor Factions: &ldquo;that player places 3 neutral infantry on that system&rsquo;s planets.&rdquo;</li>
@@ -43,10 +43,14 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units.&rdquo;</li>
         </ul></li>
-    <li>The speaker makes any decisions for neutral units other than assigning hits during combat, such as assigning hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
+    <li>Neutral units cannot make decisions. If a decision must be made for a neutral unit, the speaker makes it.<sup>7</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10, Neutral Units: &ldquo;neutral units are incapable of making decisions; in the unlikely event that a decision needs to be made for a neutral unit, the speaker makes that decision instead.&rdquo;</li>
+        </ul></li>
+    <ol><li>During combat, hits against neutral units are always assigned in the order on the neutral unit reference card, so the speaker does not choose. The speaker does choose which neutral units are hit outside of combat, such as by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat.&rdquo;</li>
-        </ul></li>
+        </ul></li></ol>
     <li>If there are no neutral units of a given type left in the supply, and one would be placed, it is not placed.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if there are no more neutral units of a given type available in the supply, and another is required to be placed? A: They are not placed.&rdquo;</li>
