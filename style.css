@@ -184,6 +184,14 @@ h2 + p, p + p, li + p
     column-width: 21em;
     column-gap: 6em;
 }
+/* Never split one rule or note across columns. Safari ignores break-inside on
+   these items and clips the line it breaks on, but never splits an inline-block. */
+.note li, .lrr li
+{
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+}
 .note > li:before
 {
     content: counter(nitem, upper-roman);
