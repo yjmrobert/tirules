@@ -213,7 +213,7 @@
     <ol class="note">
     <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Restored from the original rebuild (CHANGES_REVIEW.md:1451) without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, &ldquo;Why vote against Conventions of War&hellip;?&rdquo;: &ldquo;For makes it a law that nobody may bombard cultural planets&rdquo;, which these cards do not do.</li>
+        <li><b>Unverified</b>: No source found. Restored from the original rebuild without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, &ldquo;Why vote against Conventions of War&hellip;?&rdquo;: &ldquo;For makes it a law that nobody may bombard cultural planets&rdquo;, which these cards do not do.</li>
         </ul></li>
     </ol>
 

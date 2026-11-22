@@ -83,7 +83,7 @@ N No source found.
 @38
 E6 Community consensus: "What if a planet with coexisting units is elected via Compensated Disarmament? … A: The planet controller gains all trade goods."
 @39
-N No source found. Restored from the original rebuild (CHANGES_REVIEW.md:1451) without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, "Why vote against Conventions of War…?": "For makes it a law that nobody may bombard cultural planets", which these cards do not do.
+N No source found. Restored from the original rebuild without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, "Why vote against Conventions of War…?": "For makes it a law that nobody may bombard cultural planets", which these cards do not do.
 @40
 E8 PoK Rulebook p. 6, "Integrating This Expansion": "remove the following agenda cards from the base game, which are no longer used when playing with the expansion: ✦ Core Mining ✦ Demilitarized Zone ✦ Holy Planet of Ixth ✦ Representative Government ✦ Research Team: Biotic ✦ Research Team: Cybernetic ✦ Research Team: Propulsion ✦ Research Team: Warfare ✦ Senate Sanctuary ✦ Shard of the Throne ✦ Terraforming Initiative ✦ The Crown of Emphidia ✦ The Crown of Thalnos"
 @41
