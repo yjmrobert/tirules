@@ -31,7 +31,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;When ships move, do they move &lsquo;into&rsquo; systems other than the destination system? A: Only the destination system is considered moved &lsquo;into,&rsquo; other systems are moved &lsquo;through.&rsquo;&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I move more ships into a system that already has my command token on a later turn?&rdquo;: &ldquo;ships only move into the active system&rdquo; ships move into the destination; other systems are only passed through.</li>
         </ul></li>
-    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup>
+    <li>Fighters alone will block other players&rsquo; ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included. The Living Rules Reference dropped the old exception for fighters, so even Fighter I next to a space dock blocks.&rdquo;</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can fighters block ship movement? A: Yes.&rdquo;</li>

@@ -32,7 +32,7 @@
     <ol><li>During a retreat, units may be transported from the active system.<sup>5,10</sup></li></ol>
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.<sup>1,5</sup></li>
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship may move &ldquo;through&rdquo; other systems.<sup>2,4</sup></li>
-    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup></li>
+    <li>Fighters alone will block other players&rsquo; ships from moving through that system, whether they are accompanied by a <a href="/R_space_dock">Space Dock</a> or they are Fighters II.<sup>1,2,5</sup></li>
     <li>Another player&rsquo;s ground forces and PDS do not prevent a ship from moving through a system.<sup>2</sup></li>
     <li>A deal cannot allow a player&rsquo;s ships to move through a system that contains another player&rsquo;s ships.<sup>2</sup></li>
     <li>When an ability moves ships outside of a tactical action, the movement restrictions of anomalies still apply, unless the ability says otherwise.<sup>2</sup></li>

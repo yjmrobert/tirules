@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova is prevented.<sup>2</sup>
+    <li>A supernova may be activated, and ships in a supernova may move out of it; only ships moving into or through a supernova are prevented.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;A supernova can be activated; it only stops ships moving into or through it &hellip; and ships can always move out.&rdquo;</li>
         </ul></li>

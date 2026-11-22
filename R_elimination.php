@@ -23,7 +23,7 @@
     <li data-src="1">When players are eliminated, faction&ndash;specific components interact with the game as follows:</li>
     <ol>
         <li data-src="1,2,5">If a player becomes eliminated and the <a href="/F_nekro">Nekro</a> Virus&rsquo; assimilator &ldquo;X&rdquo; or assimilator &ldquo;Y&rdquo; token is placed on one of their faction technologies, that technology remains in play.</li>
-        <li data-src="1,2">If the Ghost of <a href="/F_creuss">Creuss</a> player becomes eliminated, their wormhole tokens remain on the game board for the remainder of the game.</li>
+        <li data-src="1,2">If the Ghosts of <a href="/F_creuss">Creuss</a> player becomes eliminated, their wormhole tokens remain on the game board for the remainder of the game.</li>
         <li data-src="1">If the <a href="/F_naalu">Naalu</a> player becomes eliminated while another player has the <a href="/F_naalu">Naalu</a> player&rsquo;s &ldquo;0&rdquo; token, that token remains with its current player until the end of the status phase, and then it is removed from play.</li>
         <li data-src="1">If the Titans of <a href="/F_ul">Ul</a> player becomes eliminated while their hero or promissory note is attached to a planet, those attachments and attachment tokens remain in play for the remainder of the game.</li>
         <li data-src="1">If the <a href="/F_mahact">Mahact</a> Gene&ndash;Sorcerers become eliminated while they have another player&rsquo;s command tokens on their faction sheet, those command tokens are returned to their respective players&rsquo; reinforcements.</li>

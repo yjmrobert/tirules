@@ -9,7 +9,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;The Fracture is an enigmatic area of space that is not connected to the rest of the galaxy.&rdquo;</li>
         </ul></li>
-    <li>When a player gains their breakthrough, they roll a dice. On a result of 1 or 10, The Fracture enters play. Other game effects may also bring The Fracture into play.<sup>7</sup>
+    <li>When a player gains their breakthrough, they roll a die. On a result of 1 or 10, The Fracture enters play. Other game effects may also bring The Fracture into play.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge reference: &ldquo;Roll a die on gaining breakthrough; on a roll of 1 or 10, that player puts The Fracture into play.&rdquo;</li>
         <li><b>Implicit</b>: <sup>7</sup> p. 9 mentions Fracture &ldquo;brought into play by another ability.&rdquo;</li>
@@ -69,7 +69,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ships pass through the Fracture in one move &hellip;?&rdquo;: &ldquo;Yes, they can go in through one ingress and out via an egress to another ingress system if their move allows.&rdquo;</li>
         </ul></li></ol>
-    <li>If The Fracture was brought into play as a result of a player rolling a dice upon gaining their breakthrough, they will place ingress tokens according to the synergy on their breakthrough. For each color of technology in their breakthrough&rsquo;s synergy, they choose three planets with a matching technology specialty, and place an ingress token in that planet&rsquo;s system.<sup>7</sup>
+    <li>If The Fracture was brought into play as a result of a player rolling a die upon gaining their breakthrough, they will place ingress tokens according to the synergy on their breakthrough. For each color of technology in their breakthrough&rsquo;s synergy, they choose three planets with a matching technology specialty, and place an ingress token in that planet&rsquo;s system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;For each synergy color on their breakthrough, that player must choose three systems that contain matching technology specialties, if able, and place ingress tokens in those systems.&rdquo;</li>
         </ul></li>
@@ -93,7 +93,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Each planet must be in a different system and must have a different technology specialty.&rdquo;</li>
         </ul></li>
-    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is on the game board, then an ingress token is place into its system. Otherwise, an ingress token is placed into the <a href="/R_mecatol_rex">Mecatol Rex</a> system.<sup>7</sup>
+    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is on the game board, then an ingress token is placed into its system. Otherwise, an ingress token is placed into the <a href="/R_mecatol_rex">Mecatol Rex</a> system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Finally, the players place an ingress token in the Thunder&rsquo;s Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed.&rdquo;</li>
         </ul></li>
