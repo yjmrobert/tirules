@@ -4,6 +4,9 @@ Source: `scratch/wiki_faq.md` (218 entries from 57 fandom wiki pages). The wiki 
 source. Almost all of its FAQ is copied from source 1 (LRR FAQ pp. 40-44) and source 4 (Unofficially
 Official FAQ), and the site already cites nearly all of those. Gaps below are for the owner to consider.
 
+## Status: CLOSED 2026-11-21
+Owner reviewed every gap. Added (d9a02e8, da23531): F_naalu Neuroglaive (2), F_argent Helix Protocol (4), F_ul Geoform, F_creuss Particle Synthesis x2, F_firmament plots x2, F_rebellion Ahk Ravin, F_deepwrought Doctor Carrina, C_units Infantry II (+ owner sub-note, 2), C_agendas Shared Research, C_action_cards Ghost Ship (all others *). No change: Arborec Mitosis (card text), Ul Hel-Titan bombardment (already F_ul), Rebellion epsilon use (obvious), optional Bombardment/AFB/Space Cannon (RR says "may"), Naaz-Rokha Z-Grav fleet supply (weak reasoning, no source), Mentak Ipswitch/Van Hauge (unclear answer).
+
 ## Gaps with a numbered source
 - **F_mahact, Jae Mir Kan** (wiki Mahact #1). *Closed 2026-11-21, no change: obsolete under the TE Construction secondary, which places no token.* Source 4:269: "Can you use the Mahact Agent, Jae Mir Kan, to place a token using the secondary of the Construction Strategy Card without placing a structure / A: The system that you place a token in must have an eligible planet for you to put a structure on."
 - **F_arborec, Mitosis** (wiki Arborec #1). Source 2:725: "Does Arborec's Mitosis place an infantry on every planet they control? ... A: No — it places a single infantry on one planet you control each status phase." Probably too simple for a note (the card text already says it).
