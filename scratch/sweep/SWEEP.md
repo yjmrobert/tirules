@@ -103,7 +103,7 @@ March 2026; this was not verified as official.
 - [x] (fc18e10) **C_relics:** "purge _The Obsidian_" now clashes with the TE faction name; say "the _The Obsidian_ relic". Nano–Forge: "will also no longer be non–legendary" is a double negative. (low)
 - [x] (b0c7d30) **C_events, Minor Factions:** "place the Creuss Gate (tile 17) in the equidistant": "equidistant" used as a noun is jargon. (low)
 - [x] (0134216; all 9 occurrences, 7 pages) **C_promissory_notes:** "command counter" (twice) → "command token". (low)
-- [ ] **Repetition:** the same rider notes appear under all 8 riders, the "none in reinforcements" note under ~12 cards, and "three scored secret objectives may draw a fourth" under 4 cards. Consider one "Riders" section and links to R_component_limitations. (low)
+- [x] (no change: owner keeps each card self-contained) **Repetition:** the same rider notes appear under all 8 riders, the "none in reinforcements" note under ~12 cards, and "three scored secret objectives may draw a fourth" under 4 cards. Consider one "Riders" section and links to R_component_limitations. (low)
 - [ ] **Tone:** C_promissory_notes, Support for the Throne: "Doing so is considered a dick move.[*]". It sits on a site whose home page quotes the lead designer. Owner's call. (low)
 - [ ] **R_action_cards:** "Action cards are dealt out in initiative order. Though it rarely matters in practice." The second sentence is a fragment. (low)
 - [ ] **R_game_round:** the four-phase list is an `<ol>` inside a `<p>` (invalid HTML), and the phases aren't linked to their pages. (low)
